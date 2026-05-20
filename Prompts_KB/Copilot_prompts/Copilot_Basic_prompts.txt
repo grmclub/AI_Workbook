@@ -5,6 +5,9 @@ https://github.com/zakirullin/files.md
 ##helpers
 https://medium.com/@AlexTheSmartExplorer/microsoft-copilot-prompts-10-examples-that-get-better-results-in-2025-30369b8d86a6
 https://github.com/pnp/copilot-prompts
+https://github.blog/ai-and-ml/github-copilot/how-to-debug-code-with-github-copilot/
+https://www.craigrisi.com/post/ai-coding-technologies-and-how-to-best-use-them
+
 
 https://docs.github.com/en/copilot/tutorials/refactor-code
 
