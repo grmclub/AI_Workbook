@@ -74,6 +74,26 @@ https://github.blog/ai-and-ml/github-copilot/a-cheat-sheet-to-slash-commands-in-
 /clear: Resets the current chat session to start fresh.
 /help: Displays guidance and examples on how to use Copilot Chat effectively
 
+##Reset context
+/clear	Clear conversation
+/delete	Delete a conversation
+/new	Start a new conversation
+/rename	Rename a conversation
+
+
+
+/summarize - Instantly condense the current document, email, or meeting
+/rewrite - Rephrase selected text with tone options (professional, casual, concise)
+/catch-up - Get up to speed on recent Teams chats or email threads
+/draft - Start composing emails or documents with prompts
+/visualize - Turn data into charts and diagrams
+/compact - to summarize long conversation histories
+/fork [name] - to create a branch of your conversation at any point, allowing you to explore different approaches without losing your current progress.
+/model [model] -to optimize for speed or deep reasoning depending on the task. 
+            "Common pattern: start with Sonnet for routine work, flip to Opus for hard problems, switch back when you're done."
+/insights - to generate reports from previous sessions, identifying areas for improvement in your workflow. "
+
+
 --------------------------------------------------------------------------------------
 ##10 Copy-Paste Copilot Prompts
 
