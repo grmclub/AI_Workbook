@@ -61,6 +61,190 @@ The video highlights 10 specific use cases to improve your workflow:
 
 
 --------------------------------------------------------------------------------------
+Mastering Microsoft Copilot prompts requires specific keywords 
+based on the proven Goal + Context + Source + Expectations formula.
+
+1. Action Keywords (The "What")
+Start your prompt with strong verbs that tell Copilot exactly what task to perform. 
+
+    Summarize / Catch up: Synthesize, condense, brief me, extract.
+    Create / Brainstorm: Draft, generate, design, compile.
+    Edit / Refine: Proofread, rewrite, rephrase, format.
+    Analyze: Compare, categorize, review for inconsistencies.
+	
+2. Context Keywords (The "Who" and "Why")
+These keywords help Copilot understand the situation, relationship, and audience, ensuring the output feels natural. 
+
+    Audience: Senior management, board of directors, non-technical audience, prospective clients.
+    Relationship: New client, close colleague, vendor.
+    Industry / Role: Marketing campaign, sales record, software development.	
+	
+3. Expectations Keywords (The "How" and "Format")
+Define boundaries for the output style, layout, and length to avoid generic, robotic text. 
+
+    Length: Under 150 words, concise, 1-page briefing.
+    Structure: Bullet points, table, step-by-step checklist, numbered list.
+    Tone: Diplomatic, direct, professional, data-driven, executive, empathetic.
+    Focus: Highlight top 3 priorities, outline key decisions, identify risks.
+	
+4. Source Keywords (The "Where")
+Direct Copilot to your exact data so it references the right information. 
+
+    Document references: Use this [file name], based on the [presentation], from the meeting transcript.
+    Email integration: Summarize this email thread, reference my latest email to [name]. 
+
+Real-World Prompt Examples
+
+    For Meeting Prep: "Compile a 1-page briefing for my meeting with [Team/Name]: recent email exchanges, open action items, and key talking points I should raise."
+    For Email Rewrites: "Rewrite this email to [Client Name] to be [professional/diplomatic] but firm. Output under 100 words with 2 action bullets."
+    For Data Analysis: "From these notes, extract: decisions made, action items with [owners] and [deadlines], and open questions that still need resolution.	
+--------------------------------------------------------------------------------------
+The most used keywords in Microsoft Copilot prompts generally fall into four categories: Action, Source, Expectations, and Context. Common high-frequency keywords include verbs like summarize, draft, rewrite, and analyze, combined with format specifiers like bullet points, table, and email.
+
+1. Action Keywords **
+These tell Copilot exactly what to do with your data. 
+
+    Summarize or Recap (used heavily for meeting notes or email threads).
+    Draft or Create (used for generating new emails, documents, or presentations).
+    Rewrite, Proofread, or Refine (used for altering the tone of a message).
+    Analyze (used for Excel data sets or lengthy reports). 
+	
+2. Formatting & Expectation Keywords
+These establish constraints on how the output should look and feel. 
+
+    Bullet points
+    Table
+    Summary
+    Professional
+    Concise
+    Under [X] words	
+
+3. Source Keywords
+These point Copilot to the specific document, thread, or file it needs to reference. 
+
+    File name or [document]
+    Email thread
+    This data or [paste text]
+    Meeting notes
+
+4. Context Keywords
+These add critical situational information so Copilot can tailor its output. 
+
+    Audience: For example, senior leaders, non-technical, or clients.
+    Relationship: For example, new client or colleague of 2 years.
+    Tone: For example, diplomatic, persuasive, or assertive.
+--------------------------------------------------------------------------------------
+Automating Data Preparation and Cleanup with Copilot Prompts
+
+    Handle Missing Values: Prompt Copilot to automatically fill, remove, or flag missing values in a specific column or entire table.
+    Fix Inconsistent Formats: Ask Copilot to standardize date, currency, or text formats across your sheet—perfect for prepping data before analysis.
+    Detect Outliers: Use Copilot to scan for and highlight data points that fall outside the expected range, helping you quickly spot errors.
+    Simplify Complex Transformations: Have Copilot merge, split, or reformat columns with just a few words, saving time on manual manipulation.
+
+Copilot Prompts for Summarizing Data: Capturing the Gist
+
+    Summarize Conversations: Prompt Copilot to extract the key points from lengthy email threads or chat interactions, delivering the “gist” in a few sentences.
+    Bullet Point Overviews: Ask Copilot to convert detailed reports or data tables into bullet lists, making findings quick and easy to grasp.
+    Highlight Actionable Insights: Direct Copilot to pull out the most important trends, outliers, or recommendations the data suggests, perfect for team updates or quick reviews.
+
+Visualization Formula Help: Creating Charts and Graphs in Excel Using Copilot
+
+    Chart Recommendations: Ask Copilot to suggest the best chart type for your data—bar, line, pie, or more—based on the patterns it sees.
+    Step-by-Step Graph Creation: Use prompts for Copilot to walk you through building a chart, including which formulas or ranges to use.
+    Formula Explanations: Request that Copilot explain complex Excel formulas required for visualization, so anyone can understand the math under the hood.
+
+Unlock Insights with AI-Driven Copilot Suggestions
+
+    Trend Analysis: Prompt Copilot to describe rising or falling trends in your dataset with natural language summaries.
+    Anomaly Detection: Have Copilot identify and flag values that don’t fit the norm—think one-month sales spikes or unusual customer behavior.
+    Reveal Relationships: Ask Copilot to uncover correlations between columns—like how temperature impacts product demand—quickly surfacing actionable connections.
+	
+Deriving Implications, Opportunities, and Benefits Copilot Insights Offer
+
+    Strategic Implications:Ask Copilot to explain what detected patterns really mean for the business. For example, “What does a 15% dip in Q3 sales signal about our current strategy?” Copilot can suggest possible root causes or consequences to consider.
+    Spotting Opportunities:Instruct Copilot to highlight areas for improvement or untapped potential—maybe a customer segment that’s growing fast or an overlooked product pair seeing high correlation in sales.
+    Business Value Translation:Prompt Copilot to summarize the broader benefits of an identified insight, helping you turn findings into action plans or management priorities with clear justification.
+    Recommend Next Steps:Have Copilot propose concrete action items, like running targeted promotions, reallocating resources, or adjusting forecasting models based on what the data reveals.	
+
+Drafting and Rewriting Professional Customer Emails with Copilot
+
+    Rewrite and Refine: Use Copilot to improve email drafts, making them more professional, concise, and targeted to your recipient.
+    Personalize with Data: Ask Copilot to automatically weave key data findings into your messages, so your communication is both informative and relevant.
+    Organize Replies: Prompt Copilot to structure your responses—especially for pending or threaded emails—for clarity and completeness every time.
+
+Turning Data Copilot Outputs into Executive Reports and Presentations
+
+    Prompt Executive Updates: Instruct Copilot to turn raw data summaries into structured executive summaries, ready for C-suite review.
+    Enhance Readability: Ask Copilot to rewrite technical details using plain language, ensuring insights are crystal clear for non-technical stakeholders.
+    Content Development: Leverage Copilot to draft compelling content for PowerPoint or Word, building narrative arcs that frame your findings for leadership.
+
+Next-Level Prompts GPT-5 and 2025 Guide to Smarter Copilot Questions
+
+    Prompting with Context: Learn to add business context or user intent to your prompts as GPT-5-level Copilot models respond to richer, enterprise-aware cues.
+    Idea Generation Prompts: Explore creative prompt styles that get Copilot to brainstorm new analyses or visualization angles you wouldn’t have thought of.
+    Interactive Prompt Chains: Prepare for next-gen workflows where you chain questions—each answer unlocking the next step—so Copilot can handle more complex, multi-part scenarios.
+	
+Industry-Tuned Copilot Prompts for Vertical Data Science Patterns
+
+    Finance Forecasting: Prompt Copilot for multi-period projections and anomaly detection attuned to time-series data in financial datasets.
+    Healthcare Cohort Analysis: Structure prompts to compare patient groups, identify treatment outcome trends, and respect privacy granularity.
+    Retail Sales Patterns: Develop prompts targeting seasonal trends or store-by-store comparisons, reflecting sector-specific benchmarks and KPIs.	
+	
+connect the dots—from data profiling, through transformation and model building, all the way to interpretation	
+	
+Sequential Copilot Prompt Design for End-to-End Data Science Workflows
+
+    Start with Profiling:Prompt Copilot to describe data structure, missing values, and summary stats before diving in—they’ll set the scene for every next move.
+    Automate Cleaning:Have Copilot generate a series of cleaning steps (remove nulls, fix formats, deal with outliers) based directly on profiling insights.
+    Model Progression:Feed the cleaned data into prompts that define model types, hyperparameters, or business logic—building up the analysis step by step.
+    Result Interpretation:Conclude the chain with prompts that turn model outputs into actionable summaries and next-step recommendations for stakeholders.
+
+Error Recovery and Feedback Loop Integration in Copilot Data Pipelines
+
+    Error Detection Steps:Write prompts that direct Copilot to check for missing fields, calculation errors, or ambiguous results at each pipeline stage.
+    Clarification Prompts:Design the sequence so Copilot requests clarification or flags possible mistakes, prompting you for input before moving forward.
+    Fallback Logic:Include backup prompts in your workflow—if Copilot fails to process a step, automatically revert to a simpler or more conservative approach.
+    Feedback Integration:Ask Copilot to summarize what went wrong and suggest corrective actions, helping you refine future prompt chains for even more reliable results.
+--------------------------------------------------------------------------------------
+The 5-Element Copilot Prompt Formula
+
+Every effective Copilot prompt includes these five elements:
+
+    Action — what you want (create, rewrite, summarise, improve)
+    Content Type — slide type or section (agenda, executive summary, comparison, roadmap)
+    Topic & Data — what it’s about and the key numbers/messages
+    Audience — who will see it (board, investors, internal team, clients)
+    Tone & Style — how it should sound and look (executive, concise, data-driven, clean layout)
+
+Formula: Action + Content Type + Topic/Data + Audience + Tone/Style
+
+##Agent Mode Conversation Starters (Prompts 51-55)
+
+51. Full Deck Build: “I need a 10-slide board presentation on our Q4 results. Can you help me build it slide by slide? Start by asking what metrics matter most to my board.”
+
+52. Iterative Refinement: “I have a draft deck open. Walk me through each slide and suggest improvements. Ask me questions about audience and purpose as we go.”
+
+53. Brand-Consistent Build: “Create a client presentation using our corporate template. Pull images from our SharePoint asset library. Ask me about the key messages before you start building slides.”
+
+54. Multi-Source Integration: “I’m referencing /Q4-report.docx and /sales-data.xlsx. Build a presentation that tells the story of our quarter. Ask clarifying questions about what to emphasise.”
+
+55. Rapid Revision: “Make slide 3 more visual. Add a timeline to slide 5. Change the tone of slide 7 to be more confident. Then show me the updated deck.”
+
+##Old workflow: Write detailed prompt → Wait → Review → Write another prompt → Wait → Fix manually
+
+Agent Mode workflow: Describe what you need → Answer Copilot’s questions → Watch slides generate → Say “make slide 3 more visual” → Done
+Executive Summary & High-Level Slides (Prompts 1-5)
+
+1. Executive One-Slider: “Create a one-slide executive summary for [audience] explaining [project/initiative]. Include: 1 key headline, 3 bullet points on impact, and 1 clear ask. Write for very busy senior leaders.”
+
+2. Board-Level Update: “Create a board update slide summarising [topic, e.g., Q4 performance]. Focus on: results vs target, 3 key drivers, and 2 decisions required from the board. Use concise, non-technical language.”
+
+3. Strategic Recommendation: “Create a strategic recommendation slide that compares Option A vs Option B for [decision]. Show: summary, pros/cons, risks, and a recommended option with one-sentence justification.”
+
+4. Leadership Snapshot: “Create a one-slide ‘Leadership Snapshot’ for [initiative]. Include: current status (RAG), top 3 wins, top 3 risks, and the next major milestone with date.”
+
+5. Vision Slide: “Create a vision slide for [programme/strategy] that explains: where we are now, where we want to be in 3 years, and the high-level path to get there. Use simple, inspiring language.”
+
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
