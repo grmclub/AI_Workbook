@@ -22,6 +22,21 @@ Tips for Better Prompts
     Use @ Mentions: In Google Workspace, use the @ symbol to ground responses in your own Docs or Drive files.
     Break Down Tasks: For large projects, ask for a "step-by-step plan" before requesting the final deliverable
 --------------------------------------------------------------------------------------
+##News analysis prompts
+
+/summarize <xx> economic news
+/summarize <xx> economic news and present a deep analysis of the trends
+/summarize <xx> economic news and present a deep analysis of investment opportunities 
+/present a deep analysis of investment opportunities in <xx> like a management consultant 
+/analyse reasons for rise in private consumption in <xx> 
+
+Example Prompt Templates
+Combine the keywords above using Google's recommended 4-part prompting formula (Persona + Task + Context + Format): 
+
+For Data: "You are a research analyst [Persona]. Using Google Search grounding [Grounding], analyze the latest market trends for [Topic] from 2025–2026 [Context]. Present the findings in a table [Format] highlighting conflicting data and anomalies [Data Synthesis]. No speculation [Constraints]."
+
+For News: "You are a news editor [Persona]. Research the current developments surrounding [Event] using Google Search grounding [Grounding]. List the 5 most significant breaking points [Data Synthesis] in bullet form [Format]." 
+
 --------------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------------
