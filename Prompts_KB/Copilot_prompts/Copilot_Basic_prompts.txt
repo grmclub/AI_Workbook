@@ -14,6 +14,8 @@ https://docs.github.com/en/copilot/tutorials/refactor-code
 ##prompt gallery
 https://github.com/kesslernity/awesome-microsoft-copilot-prompts
 https://github.com/pnp/copilot-prompts
+https://medium.com/@shrinivassab/top-10-github-copilot-slash-commands-every-vs-code-developer-must-know-in-2025-4f866360fdad
+
 
 ##Key Prompt Examples by App
 Word: "Summarize this document and draft a follow-up email."
