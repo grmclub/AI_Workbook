@@ -2,6 +2,7 @@
 ##templates
 https://github.com/kesslernity/awesome-microsoft-copilot-prompts/blob/main/prompts/power-users/README.md
 https://github.com/kesslernity/awesome-microsoft-copilot-prompts/blob/main/prompts/quick-start/essentials.md
+https://github.com/kesslernity/awesome-microsoft-copilot-prompts/blob/main/prompts/enterprise/standalone-prompts.md
 
 --------------------------------------------------------------------------------------
 --Prompt templates
@@ -38,9 +39,31 @@ Create visualizations for top 3 insights and provide narrative explanations suit
 --Data Analysis-2
 Analyze this data: [paste]. Provide: 1) Key trends/patterns, 2) Outliers/anomalies, 3) What it tells us, 4) Issues/red flags, 5) Recommended actions. Business terms, not stats jargon.
 
+--Data Analysis-3
+Analyze this dataset and tell the data story: 1) Key trends over time, 2) Notable outliers or anomalies with potential explanations, 3) Correlations or relationships between variables, 4) Segments or clusters in the data, 5) Unexpected findings, 6) Business implications of each insight, 7) Recommended actions based on analysis. Create visualizations for top 3 insights and provide narrative explanations suitable for presentation.
 
 --Troubleshooting Guide
 Problem: [what's broken]. Troubleshooting guide: 1) Symptoms checklist, 2) Most common causes (ranked), 3) Diagnostic steps, 4) Solutions per cause, 5) Escalate vs. fix, 6) Prevention
+
+--Workload Forecast Generator
+Based on the last 60 days of emails, predict my workload for next month including: 1) Expected email volume by week, 2) Likely deadlines and time commitments, 3) Task clusters (related work items), 4) High-pressure weeks (crunch times), 5) Meetings and collaborative work load, 6) Personal bandwidth vs. expected demand. Suggest pacing strategy and workflow optimization recommendations to balance load.
+
+--Early Warning System
+Use Case: Proactive risk management and issue prevention
+Predict which email topics are likely to become future problems based on patterns in the last 30 days. For each potential issue: 1) Issue description, 2) Warning indicators observed, 3) Likelihood score (1-10), 4) Potential impact if not addressed, 5) Recommended mitigation strategies, 6) Who should be involved in prevention, 7) Timeline for preventive action. Prioritize by risk score (likelihood × impact).
+
+
+--Email Battle Plan Generator
+Based on the last 7 days of emails, generate a personal battle plan with: 1) Top 5 priorities ranked by urgency and impact, 2) Emerging threats or issues to watch, 3) Overdue tasks and their consequences, 4) Tasks with unclear ownership, 5) Tasks likely to escalate if not addressed, 6) Recommended action sequence with time estimates, 7) Delegation opportunities. Format as a tactical execution plan with timelines.
+
+-- Inbox Intelligence Officer
+
+Use Case: Deep inbox analysis and strategic email management
+
+Analyze all emails I received in the last 30 days. Create a full intelligence briefing including: 1) Key actors and recurring senders, 2) Communication tone by sender (supportive, neutral, demanding), 3) Topic clusters and themes, 4) Unresolved threads requiring action, 5) Projects that appear across multiple emails, 6) Status score for each project (on track, at risk, blocked), 7) People I need to engage with more frequently. Format as an executive briefing.
+
+
+
 
 
 
