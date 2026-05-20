@@ -2,6 +2,7 @@
 https://www.intelogy.co.uk/blog/easy-copilot-prompt-examples-you-must-try-to-get-started/
 https://github.com/zakirullin/files.md
 
+##helpers
 https://medium.com/@AlexTheSmartExplorer/microsoft-copilot-prompts-10-examples-that-get-better-results-in-2025-30369b8d86a6
 https://github.com/pnp/copilot-prompts
 
@@ -24,15 +25,26 @@ Save & Share: Use the "save" feature to store frequently used prompts in the gal
 
 
 --------------------------------------------------------------------------------------
-##coding prompts
+##prompt guides
+4 Step - Action, Source, Expectations, and Context
+5 Step - Action,Content Type, Topic & Data, Audience, Tone & Style
 
-/tests
+
+##coding prompts
 /review my code
 /refractor
 /clear
 /fix
 /explain 
 /include 
+/tests
+
+##data prompts
+/summarize
+/analyse
+/draft
+/rewrite
+/visualize as line graph don't convert axis to scientific notation
 
 --------------------------------------------------------------------------------------
 ##10 Copy-Paste Copilot Prompts
@@ -158,7 +170,25 @@ Quick Tips for Better Results
 -Iterative Prompting: If the first suggestion isn't perfect, treat Copilot Chat like a tutor and ask follow-up questions to refine the result.
 -Verify Outputs: Always review and test AI-generated code; while powerful, Copilot can sometimes suggest suboptimal or incorrect logic that requires developer oversight. 
 --------------------------------------------------------------------------------------
+##Tell Copilot what you need
 
+#Track industry news:
+"Give me a concise summary of recent news about [Product X]."
+	
+#Summarize information:
+"Write a session abstract of this /[presentation]."
+
+#Edit text:
+"Check this product launch rationale for inconsistencies."
+	
+#Create engaging content:
+"Create a value proposition for [Product X]."
+
+#Transform documents:
+"Create an onboarding presentation based on this /[document]."
+	
+#Catch-up on missed items:
+"What's the latest on [Project X]." 
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
