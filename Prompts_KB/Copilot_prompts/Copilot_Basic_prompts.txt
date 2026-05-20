@@ -62,6 +62,18 @@ Save & Share: Use the "save" feature to store frequently used prompts in the gal
 /SWOT analysis of plan
 /summarize as executive update
 
+##Most Common Slash Commands
+https://github.blog/ai-and-ml/github-copilot/a-cheat-sheet-to-slash-commands-in-github-copilot-cli/
+
+/explain: Provides a step-by-step breakdown of how the selected code works.
+/fix: Analyzes selected code for bugs or errors and suggests a corrected version.
+/tests: Automatically generates unit tests (e.g., for Jest or XUnit) for the selected function.
+/doc: Generates documentation comments (like JSDoc or XML) for your methods.
+/refactor: Suggests ways to clean up or optimize code for readability and maintainability.
+/optimize: Focuses specifically on improving the runtime performance of your code.
+/clear: Resets the current chat session to start fresh.
+/help: Displays guidance and examples on how to use Copilot Chat effectively
+
 --------------------------------------------------------------------------------------
 ##10 Copy-Paste Copilot Prompts
 
