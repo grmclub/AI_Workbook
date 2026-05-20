@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=_ctHSSJ-WqE&t=475s
 --------------------------------------------------------------------------------------
 ##gemini+common+prompts
 
-Effective Gemini prompts use a 4-part structure—Persona, Task, Context, and Format—to yield precise results. Key strategies include assigning a role (e.g., "Act as a marketing expert"), providing specific details to avoid ambiguity, using "@" to reference Drive files, and iterating through dialogue to refine outputs.
+Effective Gemini prompts use a 4-part structure — Persona, Task, Context, and Format —to yield precise results. Key strategies include assigning a role (e.g., "Act as a marketing expert"), providing specific details to avoid ambiguity, using "@" to reference Drive files, and iterating through dialogue to refine outputs.
 
 Common & Effective Gemini Prompt Structures
 
@@ -38,6 +38,53 @@ For Data: "You are a research analyst [Persona]. Using Google Search grounding [
 For News: "You are a news editor [Persona]. Research the current developments surrounding [Event] using Google Search grounding [Grounding]. List the 5 most significant breaking points [Data Synthesis] in bullet form [Format]." 
 
 --------------------------------------------------------------------------------------
+Key Sections & Highlights:
+
+1. Research & Synthesis (1:15 - 11:21)
+
+    Deep Research (1:20): Learn to move beyond simple searches by defining clear scope and context to have Gemini autonomously synthesize data from multiple sources.
+    Audio Overviews (4:27): Utilize NotebookLM to turn dense documents into engaging, podcast-style audio discussions for easier consumption.
+    @ Mentions (8:01): A critical "pro" move. Use the @ symbol to ground Gemini in your specific files (Docs, Drive) to prevent generic, hallucinated outputs.
+    Jargon Translation (10:47): Quickly translate technical or complex notes into executive summaries for non-technical audiences.
+
+2. Communication & Drafting (11:22 - 17:34)
+
+    Help Me Write (11:30): Use the sparkled pencil icon in Google Docs to overcome writer's block by providing detailed, multi-sentence instructions.
+    Refine & Polish (12:53): Use one-click refinements (e.g., "make this formal") to polish drafts instantly.
+    Thread Summarization (13:34): Instantly parse long email threads for key decisions and action items.
+    Template Generation (14:17): Scale your best practices by generating reusable, high-quality communication templates.
+
+3. Data & Visualization (17:35 - 19:59)
+
+    Sheets Analysis (17:37): Perform data analysis at the speed of conversation by asking Gemini questions about your data instead of manually building complex formulas.
+    Formula Generation (18:24): Describe your logic, and let Gemini generate the complex syntax (like REGEX or IF statements) for you.
+    Image Creation (18:59): Generate custom, unique visuals for presentations directly within your workflow.
+
+4. Workflow Automation (20:00 - 22:45)
+
+    Meeting Notes (20:09): Use Gemini in Google Meet to automatically transcribe, summarize, and extract action items from calls.
+    Gems (21:15): Design custom, persona-based versions of Gemini (e.g., "Script Editor") that remember your specific preferences and tone.
+    Google Vids (22:05): Rapidly create storyboards, scripts, and video plans by describing your goals.
+
+Core Takeaway: The ultimate goal is to shift your mindset from being an "operator" who memorizes prompt syntax to a "director" who defines the desired outcome, while Gemini handles the execution.
+
+The ULTIMATE Gemini 3 Prompting Guide – Master Google's Formula!
+https://www.youtube.com/watch?v=_ctHSSJ-WqE&t=478s
+
+Notebook LM
+
+What are he top three revinue trends by region for the past quarter
+-excel wizard to director
+
+generate an image of a diverse team working on a whiteboard with bright lightting
+
+-deep research - data gathering and analysis  -> decesion making
+what are the top 3 trends in AI video generation. For each trend identify the pros, cons and leading companies.
+This is for strategic investment making in video AI tool
+
+
+top 3 trends in japanese economy in 2026. identify opportunities and threats for permanent residents working in technology
+identify opportunities and threats in Japan for permanent residents working in investment bank technology
 
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
