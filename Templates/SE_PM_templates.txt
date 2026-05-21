@@ -1,3 +1,8 @@
+
+-Project Plan
+-WBD Schedule Progress tracking
+-Issue tracking to resolution
+
 -------------------------------------------------
 ##simple project management templates for small business
 
@@ -26,11 +31,8 @@ Update Pricing Page      |Mark   |Not Started    |Med       |May 28    |Waiting 
 Keep meetings short (15–20 minutes max). Don't use meetings for status updates—use them for blocking and tackling.
 
     Review: Quick check-in on the "Big Wins" from last week.
-
     Priorities: What are the 3 top priorities for this week?
-
     Blockers: Where are you stuck, and what do you need from the team to move forward?
-
     Action Items: Who is doing what by when? (Assign names and dates).
 
 4. Post-Project "Keep-Stop-Start"
