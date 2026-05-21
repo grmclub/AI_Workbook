@@ -1,0 +1,54 @@
+
+-------------------------------------------------
+Project Management Templates by Industry
+
+##Construction
+
+Tracking crews, site locations, permits, and project timelines is key in construction. A clear, structured template helps organize tasks by phase and location. Use the example below to assign work, monitor progress, and keep everything on schedule.
+
+Site Name
+Task Description
+Assigned Crew
+Start Date
+End Date
+Permit Status
+Notes
+
+##Manufacturing
+
+Manufacturing projects revolve around timing, machine capacity, and production flow. A template for project management in this space should highlight key stages, shift schedules, and areas where delays might happen. The example below helps manage operations and prevent bottlenecks.
+
+Product Line
+Stage
+Machine
+Shift
+Start Time
+End Time
+Status
+Notes
+
+##Field Services
+
+For field teams, timing and location are everything. Coordinators need a clear view of who’s going where, when, and with what equipment. This template helps schedule technicians, assign jobs, and tighten service windows.
+
+Technician
+Service Call
+Location
+Time Window
+Equipment Needed
+Status
+Notes
+
+
+##Human Resources
+
+HR teams handle a range of processes, from welcoming new hires to tracking time off and managing performance. A good template simplifies this work and keeps everything in one place. Here’s an example that covers the essentials.
+
+Employee Name	|Process Step	|Assigned HR Lead	|Due Date	|Status	 |Notes
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
