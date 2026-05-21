@@ -1,6 +1,6 @@
 
 --------------------------------------------------------------------------------------
-Task: Analyze information about the Japanese economy in 2026 for risks.
+Task: Analyze information about the xx economy in 2026 for risks.
 
 Framework:
 For each identified risk, provide:
@@ -37,7 +37,8 @@ Output also includes:
 - Top 3 risks requiring immediate attention
 - Information gaps that prevent complete assessment
 --------------------------------------------------------------------------------------
-Task: Analyze information about the geopolitical situation in Japan in 2026 for risks. 
+Task: Analyze information about the geopolitical situation in xx in 2026 for risks
+Task: Analyze information about disaster scenarios in xx in 2026
 
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
