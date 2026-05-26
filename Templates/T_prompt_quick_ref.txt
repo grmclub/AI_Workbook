@@ -41,24 +41,45 @@ Use Case: Managing daily workload effectively
 
 Target Personas: Professional, Manager, Executive, Entrepreneur, Individual Contributor
 
-Prompt:
+P:
 
 These tasks today: [list]. Prioritize: 1) Rank urgency x importance, 2) Group related, 3) Estimate time each, 4) Identify delegatable/deletable, 5) Create realistic schedule ([hours] available). Flag urgent but not important.
 
 --Troubleshooting Guide
 Problem: [what's broken]. Troubleshooting guide: 1) Symptoms checklist, 2) Most common causes (ranked), 3) Diagnostic steps, 4) Solutions per cause, 5) Escalate vs. fix, 6) Prevention
 
---Workload Forecast Generator
+
+
+--Mail-6 Workload Forecast Generator
 Based on the last 60 days of emails, predict my workload for next month including: 1) Expected email volume by week, 2) Likely deadlines and time commitments, 3) Task clusters (related work items), 4) High-pressure weeks (crunch times), 5) Meetings and collaborative work load, 6) Personal bandwidth vs. expected demand. Suggest pacing strategy and workflow optimization recommendations to balance load.
 
 --Early Warning System
 Use Case: Proactive risk management and issue prevention
 Predict which email topics are likely to become future problems based on patterns in the last 30 days. For each potential issue: 1) Issue description, 2) Warning indicators observed, 3) Likelihood score (1-10), 4) Potential impact if not addressed, 5) Recommended mitigation strategies, 6) Who should be involved in prevention, 7) Timeline for preventive action. Prioritize by risk score (likelihood × impact).
 
+--Mail-7
+##Daily Inbox Priority Scan
+P:
+Every weekday at 8:30 AM, scan my Outlook inbox for emails received in the last 24 hours. Identify the 3–5 that most need my attention today based on:
+
+P:
+
+/scan emails received in the last 2 weeks. Identify the 3–5 that most need my attention today based on:
+- Explicit requests directed at me that have not been answered
+- Deadlines or time-sensitive items mentioned
+- Senior stakeholders or external contacts waiting on a response
+- Threads where I was the last to speak more than 48 hours ago
+
+For each one, give me: sender, subject, one-sentence summary of what they need, and suggested action (reply, delegate, defer). Do not send anything — deliver as a list to me only.
+
+
+--------------------------------------------------------------------------------------
+##Meeting Summaries
+
 --Pre-Meeting Research Brief
 Use Case: Walk into any meeting fully prepared — know what was last discussed, what's open, and what they're likely to raise.
 
-Prompt:
+P:
 
 I have a meeting with [Name] with [Company/Team] coming up. Search all my emails, Teams messages, and meeting notes involving them from the last 90 days. Produce a pre-meeting brief:
 - The last 3 topics we discussed — newest first
@@ -71,7 +92,7 @@ Show me the source messages you are drawing from before writing the brief, so I 
 --Post-Meeting Action Capture
 Use Case: Immediately after a meeting, convert notes and transcript into assigned tasks and a recap email — without doing it manually.
 
-Prompt:
+P:
 
 /Summarize meeting transcript 
 
@@ -82,8 +103,8 @@ Produce:
 
 Show me the action item list first.
 
---Document Meeting Notes
-Prompt:
+--Document Meeting Notes / MOM
+P:
 
 Using these notes, create a Word document formatted as a Minutes of Meeting / Decision Record with:
 - Meeting: name, date, attendees
@@ -95,8 +116,6 @@ Using these notes, create a Word document formatted as a Minutes of Meeting / De
 
 Use formal but clear language. Do not invent content not in the notes — if something is unclear, flag it with [CLARIFY] rather than guessing. Save as a Word document and show me the draft before saving.
 
-
-
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
-
+--------------------------------------------------------------------------------------
