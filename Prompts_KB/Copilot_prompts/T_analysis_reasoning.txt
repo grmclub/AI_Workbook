@@ -169,7 +169,48 @@ Constraints:
 --------------------------------------------------------------------------------------
 ##Deep Research — Multi-Source Synthesis
 
+Prompt:
+
+I need a research brief on [topic, company, or technology]. Do the following in sequence:
+
+Step 1: Search external sources for recent developments — focus on facts, announcements, and concrete data. No opinion pieces.
+
+Step 2: Synthesise both into a research brief with:
+- What we already know internally (from Step 1)
+- What is new or has changed recently (from Step 2)
+- The 3 most important things to understand about this topic right now
+- Gaps — what we do not know that we should
+
+Cite every source. Flag any claim you are not confident about with [VERIFY]. Do not send or post anything.
+
+===============
+Use Case: Consolidate research findings of [topic]
+
+Prompt:
+
+Research [modern c++ internals], found: [paste notes]. Synthesize: 1) Overall themes, 2) Conflicts, 3) Knowledge gaps, 4) Next steps for deeper understanding. 
+
+Cite every source. Flag any claim you are not confident about with [VERIFY]. Do not send or post anything.
+
+================
+Prompt:
+Research [modern c++ interview questions], found: [paste notes]. Synthesize: 1) Overall themes, 2) Conflicts, 3) Knowledge gaps, 4) Next steps for deeper understanding Cite every source. Flag any claim you are not confident about with [VERIFY]. Do not send or post anything. 
+
+
 --------------------------------------------------------------------------------------
+##Strategic Engineering Roadmap
+
+Best for: Team planning or technical vision.
+
+    "We are looking to modernize our [Area, e.g., build system/CI/CD pipeline] to support [Goal, e.g., faster feedback loops/developer velocity]. Research the current state-of-the-art for [Topic] in 2026. Create a 3-phase adoption roadmap:
+
+        Phase 1 (Immediate): Low-effort, high-impact changes.
+
+        Phase 2 (Mid-term): Structural improvements.
+
+        Phase 3 (Long-term): Ideal state.
+        Include a section on 'Risk Mitigation' for each phase to ensure we don't break production."
+
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
