@@ -1,0 +1,176 @@
+
+--------------------------------------------------------------------------------------
+##Analysis & Reasoning
+
+Task: Analyze the provided information for risks.
+
+Framework:
+For each identified risk, provide:
+
+| Risk ID | Description | Category | Likelihood | Impact | Risk Score | Mitigation |
+
+Categories: Strategic, Operational, Financial, Compliance, Reputational, Technical
+
+Likelihood scale:
+1 = Rare (< 5% chance)
+2 = Unlikely (5-25%)
+3 = Possible (25-50%)
+4 = Likely (50-75%)
+5 = Almost Certain (> 75%)
+
+Impact scale:
+1 = Negligible
+2 = Minor
+3 = Moderate
+4 = Major
+5 = Severe
+
+Risk Score = Likelihood × Impact
+
+Instructions:
+- Only identify risks explicitly mentioned or strongly implied
+- Provide specific, actionable mitigations
+- Do not catastrophize or invent unlikely scenarios
+- Focus on the top 5-10 most significant risks
+- Note any assumptions made
+
+Output also includes:
+- Risk heat map summary (High/Medium/Low counts)
+- Top 3 risks requiring immediate attention
+- Information gaps that prevent complete assessment
+
+=====
+Task: Generate a structured SWOT analysis from the provided information.
+
+Framework:
+
+**STRENGTHS** (Internal, Positive)
+What advantages exist? What is done well?
+- [Strength 1]: [Evidence/source]
+- [Strength 2]: [Evidence/source]
+
+**WEAKNESSES** (Internal, Negative)
+What could be improved? What is done poorly?
+- [Weakness 1]: [Evidence/source]
+- [Weakness 2]: [Evidence/source]
+
+**OPPORTUNITIES** (External, Positive)
+What trends or changes could be beneficial?
+- [Opportunity 1]: [Evidence/source]
+- [Opportunity 2]: [Evidence/source]
+
+**THREATS** (External, Negative)
+What obstacles or risks exist externally?
+- [Threat 1]: [Evidence/source]
+- [Threat 2]: [Evidence/source]
+
+**Strategic Implications:**
+- SO Strategies (use Strengths to capture Opportunities)
+- WO Strategies (overcome Weaknesses via Opportunities)
+- ST Strategies (use Strengths to mitigate Threats)
+- WT Strategies (minimize Weaknesses and avoid Threats)
+
+Constraints:
+- Only include items supported by provided information
+- Mark items based on assumptions with [Assumed]
+- Limit to 3-5 items per quadrant (focus on significant ones)
+- Do not invent factors not mentioned or implied
+
+--------------------------------------------------------------------------------------
+--Data Analysis-1
+Analyze this dataset and tell the data story:
+1) Key trends over time
+2) Notable outliers or anomalies with potential explanations
+3) Correlations or relationships between variables
+4) Segments or clusters in the data
+5) Unexpected findings
+6) Business implications of each insight
+7) Recommended actions based on analysis
+
+Create visualizations for top 3 insights and provide narrative explanations suitable for presentation.
+
+================
+--Data Analysis-2
+Analyze this data: [paste]. Provide: 1) Key trends/patterns, 2) Outliers/anomalies, 3) What it tells us, 4) Issues/red flags, 5) Recommended actions. Business terms, not stats jargon.
+
+--Data Analysis-3
+Analyze this dataset and tell the data story: 1) Key trends over time, 2) Notable outliers or anomalies with potential explanations, 3) Correlations or relationships between variables, 4) Segments or clusters in the data, 5) Unexpected findings, 6) Business implications of each insight, 7) Recommended actions based on analysis. Create visualizations for top 3 insights and provide narrative explanations suitable for presentation.
+
+--------------------------------------------------------------------------------------
+##Documentation
+
+## Quick Reference Guide
+
+Use Case: Creating handy reference materials
+
+Target Personas: Professional, New Employee, Trainer, Technical Writer, Manager
+
+Prompt:
+
+Create reference guide for [process/topic] for desk. Include: 1) Common use cases, 2) Step-by-step each, 3) Mistakes to avoid, 4) Troubleshooting, 5) Resources. Scannable and action-oriented.
+
+================
+## Explain Complex Topic Simply
+
+Use Case: Understanding complex subjects quickly
+
+Target Personas: Professional, Student, Manager, Executive, Researcher
+
+Prompt:
+
+Explain [complex topic] to me like I'm [age/profession with no background]. Use analogies and real-world examples. 3-5 key concepts. No jargon unless explained.
+
+## Process Documentation
+
+Use Case: Creating clear process documentation
+
+Target Personas: Professional, Manager, Technical Writer, Trainer, Operations Manager
+
+Prompt:
+
+Document [task/workflow]. Format: 1) When to use, 2) What you need, 3) Step-by-step, 4) Common mistakes/avoid, 5) Know you're done, 6) Troubleshooting. For first-timers.
+
+================
+##Technical Specification Extractor
+
+Use Case: Extracting requirements from RFPs, specs, or technical docs
+
+Prompt:
+
+extracting structured data from a technical document.
+
+Task: Extract all specifications, requirements, and constraints.
+
+Instructions:
+1. Identify the document type and domain
+2. Extract specifications in these categories:
+   - Functional requirements (what it must DO)
+   - Technical specifications (measurements, materials, standards)
+   - Constraints (limitations, exclusions, boundaries)
+   - Dependencies (what it relies on)
+   - Acceptance criteria (how to verify)
+
+Output Format:
+For each extracted item, provide:
+| ID | Category | Specification Text | Source (page/section) | Confidence |
+
+Confidence levels:
+- HIGH: Explicitly stated with clear values
+- MEDIUM: Stated but requires interpretation
+- LOW: Implied or partially visible
+
+Constraints:
+- Only extract what is explicitly written
+- Do not infer specifications from context
+- Mark any ambiguous items for human review
+- Preserve original terminology and units
+
+================
+--------------------------------------------------------------------------------------
+##Deep Research — Multi-Source Synthesis
+
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+
