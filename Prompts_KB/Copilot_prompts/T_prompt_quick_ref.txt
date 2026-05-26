@@ -1,0 +1,102 @@
+
+##templates
+https://github.com/kesslernity/awesome-microsoft-copilot-prompts/blob/main/prompts/power-users/README.md
+https://github.com/kesslernity/awesome-microsoft-copilot-prompts/blob/main/prompts/quick-start/essentials.md
+https://github.com/kesslernity/awesome-microsoft-copilot-prompts/blob/main/prompts/enterprise/standalone-prompts.md
+
+--------------------------------------------------------------------------------------
+--Prompt templates
+
+For xx team and yy application. Generate 10 FAQs: 1) Mix basic and advanced, 2) Cover benefits/costs/how-to/concerns, 3) Draft clear answers (2-3 sentences each), 4) Flag need for detail
+
+--Mail-1
+Analyze all emails I received in the last 30 days. Create a full intelligence briefing including:
+1) Key actors and recurring senders
+2) Communication tone by sender (supportive, neutral, demanding)
+3) Topic clusters and themes
+4) Unresolved threads requiring action
+5) Projects that appear across multiple emails
+6) Status score for each project (on track, at risk, blocked)
+7) People I need to engage with more frequently
+
+Format as an executive briefing.
+
+--Mail-2
+Predict which email topics are likely to become future problems based on patterns in the last 30 days. For each potential issue: 1) Issue description, 2) Warning indicators observed, 3) Likelihood score (1-10), 4) Potential impact if not addressed, 5) Recommended mitigation strategies, 6) Who should be involved in prevention, 7) Timeline for preventive action. Prioritize by risk score (likelihood × impact).
+
+
+--Mail-3 Email Battle Plan Generator
+Based on the last 7 days of emails, generate a personal battle plan with: 1) Top 5 priorities ranked by urgency and impact, 2) Emerging threats or issues to watch, 3) Overdue tasks and their consequences, 4) Tasks with unclear ownership, 5) Tasks likely to escalate if not addressed, 6) Recommended action sequence with time estimates, 7) Delegation opportunities. Format as a tactical execution plan with timelines.
+
+--Mail-4 Inbox Intelligence Officer
+
+Use Case: Deep inbox analysis and strategic email management
+
+Analyze all emails I received in the last 30 days. Create a full intelligence briefing including: 1) Key actors and recurring senders, 2) Communication tone by sender (supportive, neutral, demanding), 3) Topic clusters and themes, 4) Unresolved threads requiring action, 5) Projects that appear across multiple emails, 6) Status score for each project (on track, at risk, blocked), 7) People I need to engage with more frequently. Format as an executive briefing.
+
+--Mail-5
+## Daily Priority List
+
+Use Case: Managing daily workload effectively
+
+Target Personas: Professional, Manager, Executive, Entrepreneur, Individual Contributor
+
+Prompt:
+
+These tasks today: [list]. Prioritize: 1) Rank urgency x importance, 2) Group related, 3) Estimate time each, 4) Identify delegatable/deletable, 5) Create realistic schedule ([hours] available). Flag urgent but not important.
+
+--Troubleshooting Guide
+Problem: [what's broken]. Troubleshooting guide: 1) Symptoms checklist, 2) Most common causes (ranked), 3) Diagnostic steps, 4) Solutions per cause, 5) Escalate vs. fix, 6) Prevention
+
+--Workload Forecast Generator
+Based on the last 60 days of emails, predict my workload for next month including: 1) Expected email volume by week, 2) Likely deadlines and time commitments, 3) Task clusters (related work items), 4) High-pressure weeks (crunch times), 5) Meetings and collaborative work load, 6) Personal bandwidth vs. expected demand. Suggest pacing strategy and workflow optimization recommendations to balance load.
+
+--Early Warning System
+Use Case: Proactive risk management and issue prevention
+Predict which email topics are likely to become future problems based on patterns in the last 30 days. For each potential issue: 1) Issue description, 2) Warning indicators observed, 3) Likelihood score (1-10), 4) Potential impact if not addressed, 5) Recommended mitigation strategies, 6) Who should be involved in prevention, 7) Timeline for preventive action. Prioritize by risk score (likelihood × impact).
+
+--Pre-Meeting Research Brief
+Use Case: Walk into any meeting fully prepared — know what was last discussed, what's open, and what they're likely to raise.
+
+Prompt:
+
+I have a meeting with [Name] with [Company/Team] coming up. Search all my emails, Teams messages, and meeting notes involving them from the last 90 days. Produce a pre-meeting brief:
+- The last 3 topics we discussed — newest first
+- Any open items or commitments on either side — list each with the date it was raised
+- The tone and direction of the last exchange — positive, tense, neutral, transactional
+- One thing I should bring up proactively based on what you found
+
+Show me the source messages you are drawing from before writing the brief, so I can verify accuracy. Keep the final brief under 150 words. Do not send or post anything.
+
+--Post-Meeting Action Capture
+Use Case: Immediately after a meeting, convert notes and transcript into assigned tasks and a recap email — without doing it manually.
+
+Prompt:
+
+/Summarize meeting transcript 
+
+Produce:
+
+1. A structured list of action items — each with: what needs to be done, who owns it, and any deadline mentioned
+2. A recap email draft to all attendees with: key decisions made, action items with owners, open questions, and next meeting date if mentioned
+
+Show me the action item list first.
+
+--Document Meeting Notes
+Prompt:
+
+Using these notes, create a Word document formatted as a Minutes of Meeting / Decision Record with:
+- Meeting: name, date, attendees
+- Context: one-paragraph summary of why this meeting was held
+- Key decisions: each on its own line with the decision and who made it
+- Action items: what needs to be done, who owns it, deadline if stated
+- Open questions: items discussed but not resolved
+- Next steps: agreed next meeting or follow-up date
+
+Use formal but clear language. Do not invent content not in the notes — if something is unclear, flag it with [CLARIFY] rather than guessing. Save as a Word document and show me the draft before saving.
+
+
+
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+
