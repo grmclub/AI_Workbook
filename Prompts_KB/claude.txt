@@ -5,6 +5,7 @@ https://www.aipromptlibrary.app/blog/claude-ai-prompts-guide
 
 --------------------------------------------------------------------------------------
 ##most+common+claude+prompts
+
 Common Claude prompts in 2026 focus on maximizing its large context window, reducing sycophancy (telling the user only what they want to hear), and structuring complex reasoning tasks. High-performing prompts often utilize XML tags to separate instructions from content. 
 Here are the most common and effective Claude prompt categories based on recent usage:
 1. Critical Thinking & Analysis (Reducing "Mirroring")
