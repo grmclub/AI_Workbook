@@ -99,6 +99,10 @@ Analyze this dataset and tell the data story: 1) Key trends over time, 2) Notabl
 --------------------------------------------------------------------------------------
 ##Documentation
 
+For xx team and yy application. Generate 10 FAQs: 1) Mix basic and advanced, 2) Cover benefits/costs/how-to/concerns, 3) Draft clear answers (2-3 sentences each), 4) Flag need for detail
+
+=======================
+
 ## Quick Reference Guide
 
 Use Case: Creating handy reference materials
