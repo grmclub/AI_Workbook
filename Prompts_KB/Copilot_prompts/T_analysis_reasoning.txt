@@ -105,7 +105,7 @@ Use Case: Creating handy reference materials
 
 Target Personas: Professional, New Employee, Trainer, Technical Writer, Manager
 
-Prompt:
+P:
 
 Create reference guide for [process/topic] for desk. Include: 1) Common use cases, 2) Step-by-step each, 3) Mistakes to avoid, 4) Troubleshooting, 5) Resources. Scannable and action-oriented.
 
@@ -116,7 +116,7 @@ Use Case: Understanding complex subjects quickly
 
 Target Personas: Professional, Student, Manager, Executive, Researcher
 
-Prompt:
+P:
 
 Explain [complex topic] to me like I'm [age/profession with no background]. Use analogies and real-world examples. 3-5 key concepts. No jargon unless explained.
 
@@ -126,7 +126,7 @@ Use Case: Creating clear process documentation
 
 Target Personas: Professional, Manager, Technical Writer, Trainer, Operations Manager
 
-Prompt:
+P:
 
 Document [task/workflow]. Format: 1) When to use, 2) What you need, 3) Step-by-step, 4) Common mistakes/avoid, 5) Know you're done, 6) Troubleshooting. For first-timers.
 
@@ -135,7 +135,7 @@ Document [task/workflow]. Format: 1) When to use, 2) What you need, 3) Step-by-s
 
 Use Case: Extracting requirements from RFPs, specs, or technical docs
 
-Prompt:
+P:
 
 extracting structured data from a technical document.
 
@@ -167,9 +167,11 @@ Constraints:
 
 ================
 --------------------------------------------------------------------------------------
+##Research Synthesis
+
 ##Deep Research — Multi-Source Synthesis
 
-Prompt:
+P:
 
 I need a research brief on [topic, company, or technology]. Do the following in sequence:
 
@@ -186,14 +188,14 @@ Cite every source. Flag any claim you are not confident about with [VERIFY]. Do 
 ===============
 Use Case: Consolidate research findings of [topic]
 
-Prompt:
+P:
 
 Research [modern c++ internals], found: [paste notes]. Synthesize: 1) Overall themes, 2) Conflicts, 3) Knowledge gaps, 4) Next steps for deeper understanding. 
 
 Cite every source. Flag any claim you are not confident about with [VERIFY]. Do not send or post anything.
 
 ================
-Prompt:
+P:
 Research [modern c++ interview questions], found: [paste notes]. Synthesize: 1) Overall themes, 2) Conflicts, 3) Knowledge gaps, 4) Next steps for deeper understanding Cite every source. Flag any claim you are not confident about with [VERIFY]. Do not send or post anything. 
 
 
