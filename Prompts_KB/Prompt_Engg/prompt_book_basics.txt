@@ -42,6 +42,51 @@ Tips for Success
     Use Active Verbs: Start with direct commands like "Summarize" or "Draft".	
 	
 --------------------------------------------------------------------------------------
+##classify use cases
+
+-summerize  - meetings, documents, 
+-analyse    - concepts, technology, architecture, DSA
+-prioritize - work
+-generate   - code modules
+-design     - list alternatives 
+-test       - generate test coverage and find bugs corner cases
+
+1. Knowledge Management & Synthesis (The "Second Brain")
+Instead of searching for information, use AI to build a Personal Knowledge Graph that connects your disparate workflows. 
+    • Cross-Channel Intelligence: Use tools like Read AI or Glean to aggregate data from Slack, email, Zoom, and documents. This allows you to ask, "What was the technical decision we made about the HFT risk gate last month?" and get an answer with citations linking back to the original meeting transcript or document. 
+    • Proactive Synthesis: Configure AI agents to generate "Morning Briefings" that scan your communication channels for critical developments, decisions, or emerging blockers before your workday starts. 
+    • Context-Aware Onboarding: If you join a new project, use an AI agent to ingest the entire repository and documentation, creating a "Query Engine" for the project's architectural history, constraints, and current technical debt.
+
+
+2. Strategic Technical Productivity
+For a Tech Lead, AI should focus on high-leverage architectural and maintenance tasks.
+    • Predictive Maintenance & Debt Management: Instead of reactive debugging, use AI agents to scan your repository for "code smells," deprecated API usages, or patterns that correlate with known security vulnerabilities. 
+    • Automated Architectural Alternatives: When proposing a design, use AI to generate a Comparative Matrix. Provide your constraints (e.g., latency, throughput, memory safety) and ask the AI to list three architectural alternatives, highlighting the trade-offs for each at the assembly/instruction level.
+    • Dynamic Test Coverage: Move beyond unit tests. Have AI generate integration tests that specifically target "boundary conditions" and "corner cases" found in your logs or reported customer incidents.
+
+3. Professional Prosperity & Career Growth
+AI can function as a coach to accelerate your development and market value.
+    • Interactive Benchmarking: Use AI to conduct "Mock Interviews" based on the specific technologies you want to master (e.g., C++26 internals). Ask it to critique your answers not just on accuracy, but on how effectively you demonstrated "systems intuition" or "hardware-level thinking."
+    • Audience/Stakeholder Analysis: Before high-stakes presentations, use AI to simulate the potential questions or objections from your CTO, Product Manager, or lead architects. This helps you refine your communication strategy to address their specific priorities.
+    • Strategic Skill Acquisition: Create a "Curriculum Agent" to synthesize the latest research, whitepapers, and industry trends (e.g., HFT, hardware acceleration). Tell it your current skill level, and have it summarize only the "Delta"—the new information that differentiates a senior engineer from a staff-level engineer.
+4. Operational Excellence
+    • Constraint-Based Scheduling: Use AI-driven schedulers (like Motion or Reclaim) to automate calendar management, ensuring that "deep work" blocks are protected based on your energy patterns and project priorities. 
+    • Anomaly Detection: If you are managing systems, use AI agents for real-time log analysis to identify performance degradation before it affects p99 latency, rather than setting manual thresholds that are often too late.
+
+Start Small: Pick one "Hot Path"—a task you do daily that is high-frequency and high-friction—and automate it with an AI agent. Once that is stable, expand to broader knowledge management tasks.
+
+
+
+--------------------------------------------------------------------------------------
+Based on your previous inquiries, you have been focusing on:
+
+    Core Concepts: Modern C++ internals, memory models, concurrency (memory ordering/false sharing), and zero-cost abstractions.
+
+    Design & Performance: Implementation of Data-Oriented Design (DOD), SoA vs. AoS layouts, and cache-friendly coding.
+
+    Engineering Standards: Developing robust "Deep Research" prompts for architectural decision-making, benchmarking, and team-wide technical guidelines.
+
+    Implementation Details: Efficient parsing techniques and message throttling (token bucket algorithms).
 --------------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------------
