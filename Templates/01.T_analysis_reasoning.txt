@@ -91,7 +91,7 @@ Create visualizations for top 3 insights and provide narrative explanations suit
 
 ================
 --Data Analysis-2
-Analyze this data: [paste]. Provide: 1) Key trends/patterns, 2) Outliers/anomalies, 3) What it tells us, 4) Issues/red flags, 5) Recommended actions. Business terms, not stats jargon.
+Analyze this data: [paste]. Provide: 1) Key trends/patterns, 2) Outliers/anomalies, 3) What it tells us, 4) Issues/red flags, 5) Recommended actions. Business terms, not statistics jargon.
 
 --Data Analysis-3
 Analyze this dataset and tell the data story: 1) Key trends over time, 2) Notable outliers or anomalies with potential explanations, 3) Correlations or relationships between variables, 4) Segments or clusters in the data, 5) Unexpected findings, 6) Business implications of each insight, 7) Recommended actions based on analysis. Create visualizations for top 3 insights and provide narrative explanations suitable for presentation.
