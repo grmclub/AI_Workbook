@@ -7,9 +7,28 @@ https://github.com/kesslernity/awesome-microsoft-copilot-prompts/blob/main/promp
 --------------------------------------------------------------------------------------
 --Prompt templates
 
-For xx team and yy application. Generate 10 FAQs: 1) Mix basic and advanced, 2) Cover benefits/costs/how-to/concerns, 3) Draft clear answers (2-3 sentences each), 4) Flag need for detail
+--Mail-1a Inbox Intelligence Officer
 
---Mail-1
+Use Case: Deep inbox analysis and strategic email management
+
+Analyze all emails I received in the last 30 days. Create a full intelligence briefing including: 1) Key actors and recurring senders, 2) Communication tone by sender (supportive, neutral, demanding), 3) Topic clusters and themes, 4) Unresolved threads requiring action, 5) Projects that appear across multiple emails, 6) Status score for each project (on track, at risk, blocked), 7) People I need to engage with more frequently. Format as an executive briefing.
+
+--Mail-1b
+##Daily Inbox Priority Scan
+P:
+Every weekday at 8:30 AM, scan my Outlook inbox for emails received in the last 24 hours. Identify the 3–5 that most need my attention today based on:
+
+P:
+
+/scan emails received in the last 2 weeks. Identify the 3–5 that most need my attention today based on:
+- Explicit requests directed at me that have not been answered
+- Deadlines or time-sensitive items mentioned
+- Senior stakeholders or external contacts waiting on a response
+- Threads where I was the last to speak more than 48 hours ago
+
+For each one, give me: sender, subject, one-sentence summary of what they need, and suggested action (reply, delegate, defer). Do not send anything — deliver as a list to me only.
+
+--Mail-1c 
 Analyze all emails I received in the last 30 days. Create a full intelligence briefing including:
 1) Key actors and recurring senders
 2) Communication tone by sender (supportive, neutral, demanding)
@@ -28,13 +47,7 @@ Predict which email topics are likely to become future problems based on pattern
 --Mail-3 Email Battle Plan Generator
 Based on the last 7 days of emails, generate a personal battle plan with: 1) Top 5 priorities ranked by urgency and impact, 2) Emerging threats or issues to watch, 3) Overdue tasks and their consequences, 4) Tasks with unclear ownership, 5) Tasks likely to escalate if not addressed, 6) Recommended action sequence with time estimates, 7) Delegation opportunities. Format as a tactical execution plan with timelines.
 
---Mail-4 Inbox Intelligence Officer
-
-Use Case: Deep inbox analysis and strategic email management
-
-Analyze all emails I received in the last 30 days. Create a full intelligence briefing including: 1) Key actors and recurring senders, 2) Communication tone by sender (supportive, neutral, demanding), 3) Topic clusters and themes, 4) Unresolved threads requiring action, 5) Projects that appear across multiple emails, 6) Status score for each project (on track, at risk, blocked), 7) People I need to engage with more frequently. Format as an executive briefing.
-
---Mail-5
+--Mail-4
 ## Daily Priority List
 
 Use Case: Managing daily workload effectively
@@ -45,33 +58,8 @@ P:
 
 These tasks today: [list]. Prioritize: 1) Rank urgency x importance, 2) Group related, 3) Estimate time each, 4) Identify delegatable/deletable, 5) Create realistic schedule ([hours] available). Flag urgent but not important.
 
---Troubleshooting Guide
-Problem: [what's broken]. Troubleshooting guide: 1) Symptoms checklist, 2) Most common causes (ranked), 3) Diagnostic steps, 4) Solutions per cause, 5) Escalate vs. fix, 6) Prevention
-
-
-
---Mail-6 Workload Forecast Generator
+--Mail-5 Workload Forecast Generator
 Based on the last 60 days of emails, predict my workload for next month including: 1) Expected email volume by week, 2) Likely deadlines and time commitments, 3) Task clusters (related work items), 4) High-pressure weeks (crunch times), 5) Meetings and collaborative work load, 6) Personal bandwidth vs. expected demand. Suggest pacing strategy and workflow optimization recommendations to balance load.
-
---Early Warning System
-Use Case: Proactive risk management and issue prevention
-Predict which email topics are likely to become future problems based on patterns in the last 30 days. For each potential issue: 1) Issue description, 2) Warning indicators observed, 3) Likelihood score (1-10), 4) Potential impact if not addressed, 5) Recommended mitigation strategies, 6) Who should be involved in prevention, 7) Timeline for preventive action. Prioritize by risk score (likelihood × impact).
-
---Mail-7
-##Daily Inbox Priority Scan
-P:
-Every weekday at 8:30 AM, scan my Outlook inbox for emails received in the last 24 hours. Identify the 3–5 that most need my attention today based on:
-
-P:
-
-/scan emails received in the last 2 weeks. Identify the 3–5 that most need my attention today based on:
-- Explicit requests directed at me that have not been answered
-- Deadlines or time-sensitive items mentioned
-- Senior stakeholders or external contacts waiting on a response
-- Threads where I was the last to speak more than 48 hours ago
-
-For each one, give me: sender, subject, one-sentence summary of what they need, and suggested action (reply, delegate, defer). Do not send anything — deliver as a list to me only.
-
 
 --------------------------------------------------------------------------------------
 ##Meeting Summaries
