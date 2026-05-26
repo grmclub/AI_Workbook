@@ -1,0 +1,37 @@
+
+https://stackoverflow.blog/engineering-leadership/
+https://stackoverflow.blog/2026/03/12/enterprise-ai-needs-more-than-foundation-models/
+
+
+--------------------------------------------------------------------------------------
+Research [AI context engineering for prompts], found: [paste notes]. Synthesize: 1) Overall themes, 2) Conflicts, 3) Knowledge gaps, 4) Next steps for deeper understanding Cite every source. Flag any claim you are not confident about with [VERIFY]. Do not send or post anything. 
+
+--What we mean by context
+
+When we talk about context in enterprise AI, we're talking about institutional knowledge: the accumulated collective wisdom that keeps your systems operating smoothly. It includes everything from your internal APIs and microservices architecture to your coding standards and style guides. Records of architectural decisions—explanations of why the organization made this or that choice—are crucial context. Context encompasses documentation about integration points and dependencies, security requirements specific to your industry, and compliance constraints that guide technical decisions.
+
+Context also includes insights that are hard to capture. The knowledge that teams tried that approach two years ago and changed course for good reasons. The awareness that a particular service is fragile and requires careful handling. The reasoning and historical justification behind decisions that might seem arbitrary when stripped of context.
+
+No matter their level of sophistication, foundation models don’t have access to this knowledge. 
+
+
+--What does AI actually change about senior engineering roles?
+
+The gist is that AI doesn’t make senior engineers redundant. But it can—and probably already has—changed what they spend their time on. If you’re one of those engineers, you probably spend less time on boilerplate, scaffolding, and repetitive work, which we hope gives you more time for system design, architectural decision-making, and other kinds of context-dependent problems for which your human brain is an unconditional requirement.
+
+--Start codifying institutional knowledge
+documenting coding standards, testing expectations, and architectural patterns in a form models can actually use. It entails building a process for capturing decisions and the reasoning behind them (not just what was decided, but why).
+
+--Context is not optional
+
+Foundation models are impressive, but they're general by necessity and design. For AI to deliver serious business value for the enterprise, it needs the deep contextual knowledge that keeps your systems running.
+
+The investment required to build that context is significant: You need technical infrastructure, organizational commitment, and ongoing effort. But organizations that make this investment will see their AI projects transform from impressive demos to practical tools that drive real value.
+
+As we’ve suggested, context is the difference between “we’re experimenting with AI” and “AI is core to how we increase efficiency, reduce burnout, and scale responsibly.” Once you’ve built that context layer, AI stops being a novelty and starts being an integral part of your infrastructure—one your developers can depend on.
+
+
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
