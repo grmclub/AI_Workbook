@@ -62,11 +62,163 @@ Use Case: Deep inbox analysis and strategic email management
 
 Analyze all emails I received in the last 30 days. Create a full intelligence briefing including: 1) Key actors and recurring senders, 2) Communication tone by sender (supportive, neutral, demanding), 3) Topic clusters and themes, 4) Unresolved threads requiring action, 5) Projects that appear across multiple emails, 6) Status score for each project (on track, at risk, blocked), 7) People I need to engage with more frequently. Format as an executive briefing.
 
+--Pre-Meeting Research Brief
+Use Case: Walk into any meeting fully prepared — know what was last discussed, what's open, and what they're likely to raise.
+
+Prompt:
+
+I have a meeting with [Name] with [Company/Team] coming up. Search all my emails, Teams messages, and meeting notes involving them from the last 90 days. Produce a pre-meeting brief:
+- The last 3 topics we discussed — newest first
+- Any open items or commitments on either side — list each with the date it was raised
+- The tone and direction of the last exchange — positive, tense, neutral, transactional
+- One thing I should bring up proactively based on what you found
+
+Show me the source messages you are drawing from before writing the brief, so I can verify accuracy. Keep the final brief under 150 words. Do not send or post anything.
+
+--Post-Meeting Action Capture
+Use Case: Immediately after a meeting, convert notes and transcript into assigned tasks and a recap email — without doing it manually.
+
+Prompt:
+
+/Summarize meeting transcript 
+
+Produce:
+
+1. A structured list of action items — each with: what needs to be done, who owns it, and any deadline mentioned
+2. A recap email draft to all attendees with: key decisions made, action items with owners, open questions, and next meeting date if mentioned
+
+Show me the action item list first.
+
+--Document Meeting Notes
+Prompt:
+
+Using these notes, create a Word document formatted as a Minutes of Meeting / Decision Record with:
+- Meeting: name, date, attendees
+- Context: one-paragraph summary of why this meeting was held
+- Key decisions: each on its own line with the decision and who made it
+- Action items: what needs to be done, who owns it, deadline if stated
+- Open questions: items discussed but not resolved
+- Next steps: agreed next meeting or follow-up date
+
+Use formal but clear language. Do not invent content not in the notes — if something is unclear, flag it with [CLARIFY] rather than guessing. Save as a Word document and show me the draft before saving.
 
 
+--------------------------------------------------------------------------------------
+Analysis & Reasoning
 
+Task: Analyze the provided information for risks.
+
+Framework:
+For each identified risk, provide:
+
+| Risk ID | Description | Category | Likelihood | Impact | Risk Score | Mitigation |
+
+Categories: Strategic, Operational, Financial, Compliance, Reputational, Technical
+
+Likelihood scale:
+1 = Rare (< 5% chance)
+2 = Unlikely (5-25%)
+3 = Possible (25-50%)
+4 = Likely (50-75%)
+5 = Almost Certain (> 75%)
+
+Impact scale:
+1 = Negligible
+2 = Minor
+3 = Moderate
+4 = Major
+5 = Severe
+
+Risk Score = Likelihood × Impact
+
+Instructions:
+- Only identify risks explicitly mentioned or strongly implied
+- Provide specific, actionable mitigations
+- Do not catastrophize or invent unlikely scenarios
+- Focus on the top 5-10 most significant risks
+- Note any assumptions made
+
+Output also includes:
+- Risk heat map summary (High/Medium/Low counts)
+- Top 3 risks requiring immediate attention
+- Information gaps that prevent complete assessment
+
+=====
+Task: Generate a structured SWOT analysis from the provided information.
+
+Framework:
+
+**STRENGTHS** (Internal, Positive)
+What advantages exist? What is done well?
+- [Strength 1]: [Evidence/source]
+- [Strength 2]: [Evidence/source]
+
+**WEAKNESSES** (Internal, Negative)
+What could be improved? What is done poorly?
+- [Weakness 1]: [Evidence/source]
+- [Weakness 2]: [Evidence/source]
+
+**OPPORTUNITIES** (External, Positive)
+What trends or changes could be beneficial?
+- [Opportunity 1]: [Evidence/source]
+- [Opportunity 2]: [Evidence/source]
+
+**THREATS** (External, Negative)
+What obstacles or risks exist externally?
+- [Threat 1]: [Evidence/source]
+- [Threat 2]: [Evidence/source]
+
+**Strategic Implications:**
+- SO Strategies (use Strengths to capture Opportunities)
+- WO Strategies (overcome Weaknesses via Opportunities)
+- ST Strategies (use Strengths to mitigate Threats)
+- WT Strategies (minimize Weaknesses and avoid Threats)
+
+Constraints:
+- Only include items supported by provided information
+- Mark items based on assumptions with [Assumed]
+- Limit to 3-5 items per quadrant (focus on significant ones)
+- Do not invent factors not mentioned or implied
+
+================
+##Technical Specification Extractor
+
+Use Case: Extracting requirements from RFPs, specs, or technical docs
+
+Prompt:
+
+extracting structured data from a technical document.
+
+Task: Extract all specifications, requirements, and constraints.
+
+Instructions:
+1. Identify the document type and domain
+2. Extract specifications in these categories:
+   - Functional requirements (what it must DO)
+   - Technical specifications (measurements, materials, standards)
+   - Constraints (limitations, exclusions, boundaries)
+   - Dependencies (what it relies on)
+   - Acceptance criteria (how to verify)
+
+Output Format:
+For each extracted item, provide:
+| ID | Category | Specification Text | Source (page/section) | Confidence |
+
+Confidence levels:
+- HIGH: Explicitly stated with clear values
+- MEDIUM: Stated but requires interpretation
+- LOW: Implied or partially visible
+
+Constraints:
+- Only extract what is explicitly written
+- Do not infer specifications from context
+- Mark any ambiguous items for human review
+- Preserve original terminology and units
 
 
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+
