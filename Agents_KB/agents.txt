@@ -13,7 +13,7 @@ https://levelup.gitconnected.com/building-an-ai-agent-from-scratch-no-magic-just
 
 https://www.ibm.com/think/topics/how-to-build-an-ai-agent
 https://www.linkedin.com/pulse/how-build-your-first-ai-agent-20-minutes-code-required-matt-kenyon-0vwye
-
+https://www.ibm.com/think/topics/ai-agent-memory
 
 --------------------------------------------------------------------------------------
 First off let's remember that everyone was a newb once, I love newbs and if your are one in the Ai agent space...... Welcome, we salute you. In this simple guide im going to cut through all the hype and BS and get straight to the point. WHAT DO I USE TO BUILD AI AGENTS!
@@ -34,8 +34,28 @@ So if you are a newb, what tools would I advise you use:
 
 And my last bit of advice for all newbs to Agentic Ai. Its not magic, this agent stuff, I know it can seem like it. Try and think of agents quite simply as a few lines of code hosted on the internet that uses an LLM and can plugin to other tools. Over thinking them actually makes it harder to design and deploy them. 
 --------------------------------------------------------------------------------------
+https://medium.com/@madhuranjan763/the-six-types-of-memory-that-make-ai-feel-almost-human-d0af5a8d991b
 
 
+AI memory is categorized into four primary types based on cognitive science, dictating how an artificial intelligence processes, retrieves, and applies information. 
+
+The core types of AI memory include:
+1. Working Memory (In-Context Memory)
+    • What it is: The active, short-term context window the AI uses during an active conversation or task.
+    • How it works: It processes the immediate prompt and recent exchanges so the AI knows what you are talking about right now.
+    • Limitation: It is volatile and gets wiped out when the session ends. When context windows are overloaded, AIs can experience "context rot" and forget earlier instructions. 
+2. Episodic Memory (Experience & History)
+    • What it is: A chronological record of past interactions, events, and their outcomes.
+    • How it works: It logs specific experiences (e.g., "On May 10, the user asked for a flight to Tokyo, and I booked it").
+    • Implementation: Often powered by vector databases or event logs to provide an AI with autobiographical-like recall. 
+3. Semantic Memory (Facts & Knowledge)
+    • What it is: Structured, factual knowledge about the world, the user, or a specific domain.
+    • How it works: It extracts preferences, facts, and generalized rules from experiences and stores them independently of a specific event. For example, it remembers that you hate spicy food, rather than the exact conversation where you mentioned it.
+    • Implementation: Uses knowledge graphs, relational databases, or specialized memory frameworks like Mem0 to automatically manage user profiles and preferences. 
+4. Procedural Memory (Skills & Workflows)
+    • What it is: The "how-to" memory that encodes rules, learned action patterns, and successful strategies.
+    • How it works: It governs how an AI agent operates software, follows procedures, or updates its own reasoning when workflows change.
+    • Implementation: Powered by predefined business logic, state machines, or agent frameworks like LangGraph to prevent repeating mistakes.
 
 
 --------------------------------------------------------------------------------------
