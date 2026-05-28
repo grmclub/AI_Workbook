@@ -1,0 +1,29 @@
+--------------------------------------------------------------------------------------
+The 4 Core Building Blocks of Every Agent
+Regardless of how you build it, your agent needs these elements:
+
+    The Brain: The underlying Large Language Model (LLM) that processes logic and reasoning.
+    System Prompt: A set of instructions defining the agent's role, rules, and boundaries.
+    Memory: The ability to recall previous interactions within a session so the agent isn't starting from scratch.
+    Tools: Integrations that allow the agent to do things beyond just chatting, such as executing a web search, reading a PDF, or sending an email.
+	
+https://brianjenney.medium.com/a-practical-guide-on-building-ai-agents-30efce169473	
+https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/	
+https://levelup.gitconnected.com/building-an-ai-agent-from-scratch-no-magic-just-a-deterministic-loop-a916161705fb	
+
+
+
+
+
+--------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
