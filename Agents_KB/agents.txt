@@ -11,13 +11,33 @@ https://brianjenney.medium.com/a-practical-guide-on-building-ai-agents-30efce169
 https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/	
 https://levelup.gitconnected.com/building-an-ai-agent-from-scratch-no-magic-just-a-deterministic-loop-a916161705fb	
 
-
-
+https://www.ibm.com/think/topics/how-to-build-an-ai-agent
+https://www.linkedin.com/pulse/how-build-your-first-ai-agent-20-minutes-code-required-matt-kenyon-0vwye
 
 
 --------------------------------------------------------------------------------------
+First off let's remember that everyone was a newb once, I love newbs and if your are one in the Ai agent space...... Welcome, we salute you. In this simple guide im going to cut through all the hype and BS and get straight to the point. WHAT DO I USE TO BUILD AI AGENTS!
 
+A bit of background on me: Im an AI engineer, currently working in the cyber security space. I design and build AI agents and I design AI automations. Im 49, so Ive been around for a while and im as friendly as they come, so ask me anything you want and I will try to answer your questions.
+
+So if you are a newb, what tools would I advise you use:
+
+    GPTs - You know those OpenAI gpt's? Superb for boiler plate, easy to use, easy to deploy personal assistants. Super powerful and for 99% of jobs (where someone wants a personal AI assistant) it gets the job done. Are there better ones? yes maybe, is it THE best, probably no, could you spend 6 weeks coding a better one? maybe, but why bother when the entire infrastructure is already built for you.
+
+    n8n. When you need to build an automation or an agent that can call on tools, use n8n. Its more powerful and more versatile than many others and gets the job done. I recommend n8n over other no code platforms because its open source and you can self host the agents/workflows.
+
+    CrewAI (Python). If you wanna push your boundaries and test the limits then a pythonic framework such as CrewAi (yes there are others and we can argue all week about which one is the best and everyone will have a favourite). But CrewAI gets the job done, especially if you want a multi agent system (multiple specialised agents working together to get a job done).
+
+    CursorAI (Bonus Tip = Use cursorAi and CrewAI together). Cursor is a code editor (or IDE). It has built in AI so you give it a prompt and it can code for you. Tell Cursor to use CrewAI to build you a team of agents to get X done.
+
+    Streamlit. If you are using code or you need a quick UI interface for an n8n project (like a public facing UI for an n8n built chatbot) then use Streamlit (Shhhhh, tell Cursor and it will do it for you!). STREAMLIT is a Python package that enables you to build quick simple web UIs for python projects.
+
+And my last bit of advice for all newbs to Agentic Ai. Its not magic, this agent stuff, I know it can seem like it. Try and think of agents quite simply as a few lines of code hosted on the internet that uses an LLM and can plugin to other tools. Over thinking them actually makes it harder to design and deploy them. 
 --------------------------------------------------------------------------------------
+
+
+
+
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
 
