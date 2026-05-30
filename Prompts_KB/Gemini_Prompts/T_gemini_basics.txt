@@ -8,6 +8,54 @@ watcher script in [Bash / Python ] that monitors [directory_path] for
 the pattern [file_pattern: e.g., .csv or report_.txt] without using inotify and in pure python implementation 
 
 -------------------------------------------------------------
+#!/bin/bash
+
+# --- Configuration ---
+WATCH_DIR="/path/to/monitor"
+FILE_PATTERN="*.csv"
+POLL_INTERVAL=5
+LOG_FILE="/var/log/bash_watcher.log"
+PROCESS_CMD="/path/to/process_file.sh"
+STATE_FILE="/tmp/dir_watcher_state.tmp"
+
+# --- Setup ---
+touch "$STATE_FILE"
+exec >> "$LOG_FILE" 2>&1
+
+cleanup() {
+    echo "[$(date)] Shutting down..."
+    rm -f "$STATE_FILE"
+    exit 0
+}
+trap cleanup SIGINT SIGTERM
+
+echo "[$(date)] Watcher started on $WATCH_DIR"
+
+# --- Main Loop ---
+while true; do
+    # Scan files, get path and modification time/size to track changes
+    # We use find to handle specific patterns securely
+    current_scan=$(find "$WATCH_DIR" -maxdepth 1 -name "$FILE_PATTERN" -printf "%p:%T@:%s\n")
+
+    # Detect added/modified files
+    while IFS=: read -r filepath mtime size; do
+        if ! grep -q "^$filepath:" "$STATE_FILE"; then
+            # New File - Double check stability (race condition prevention)
+            sleep 1
+            if [[ "$(find "$filepath" -printf "%T@:%s")" == "$mtime:$size" ]]; then
+                echo "[$(date)] Detected new/modified: $filepath"
+                bash "$PROCESS_CMD" "$filepath"
+            fi
+        fi
+    done <<< "$current_scan"
+
+    # Save current state for next iteration
+    echo "$current_scan" > "$STATE_FILE"
+
+    sleep "$POLL_INTERVAL"
+done
+
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
