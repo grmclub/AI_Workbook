@@ -41,7 +41,8 @@ The Core Framework
 To get high-quality outputs, the video suggests using a Context, Task, and Constraint framework (1:13):
 
     Context: Define your role and your audience.
-    Task: Clearly state what the AI needs to achieve.
+    
+Task: Clearly state what the AI needs to achieve.
     Constraint: Set specific boundaries for format, length, or structure.
 
 Top 10 Copilot Prompts for Data Storytelling
@@ -257,38 +258,48 @@ Superior prompts follow the STAR principle:
 	
 ##10 Most Frequently Used AI Prompts by Programmers
 
-icle breaks down the 10 most common prompt types into distinct development phases, complete with real-world architectural applications.
+breaks down the 10 most common prompt types into distinct development phases, complete with real-world architectural applications.
 
 1. Requirements Clarification
     • Purpose: Translates highly abstract product concepts into concrete technical logic.
-    • Template: "Act as a backend architect. Analyze the following requirement and produce a technical solution outline: {original requirement}. Break it down into user stories, list involved entities/relationships, design RESTful API endpoints, and highlight potential technical risks." [1]
+    • 
+Template: "Act as a backend architect. Analyze the following requirement and produce a technical solution outline: {original requirement}. Break it down into user stories, list involved entities/relationships, design RESTful API endpoints, and highlight potential technical risks." [1]
 2. Design Review & Architecture Verification
     • Purpose: Validates architectural frameworks for flaws, concurrency bugs, or bottlenecks before code is written.
-    • Template: "You are a senior system architect. Review the following design document: {document}. Raise questions and alternative improvements regarding scalability, high availability, data consistency, and operational complexity." [, 2]
+    • 
+Template: "You are a senior system architect. Review the following design document: {document}. Raise questions and alternative improvements regarding scalability, high availability, data consistency, and operational complexity." [, 2]
 3. Cross-Language Code Translation
     • Purpose: Ports functional logic seamlessly between different tech stacks while conforming to modern syntax.
-    • Template: "Convert the following {source language} code to {target language}. Use modern ecosystem features (e.g., modern syntax standards), preserve the original variable naming style, ensure proper exception handling, and return a complete definition." []
+    • 
+Template: "Convert the following {source language} code to {target language}. Use modern ecosystem features (e.g., modern syntax standards), preserve the original variable naming style, ensure proper exception handling, and return a complete definition." []
 4. Code Refactoring & Cleanup
     • Purpose: Rewrites poorly structured "spaghetti code" to drastically improve performance and team readability without modifying outer outputs. [1]
-    • Template: "Refactor this function for maximum readability and performance without changing its structural execution or external outputs." [1]
+    • 
+Template: "Refactor this function for maximum readability and performance without changing its structural execution or external outputs." [1]
 5. Automated Unit Test Generation
     • Purpose: Offloads standard assertions to the AI while guaranteeing edge cases and error bounds are covered.
-    • Template: "Generate robust unit test cases for this specific function using {testing framework}. Ensure coverage for normal inputs, empty boundary values, and negative invalid cases." []
+    • 
+Template: "Generate robust unit test cases for this specific function using {testing framework}. Ensure coverage for normal inputs, empty boundary values, and negative invalid cases." []
 6. Code Review & Best Practice Alignment
     • Purpose: Simulates an independent peer review to flag performance gaps, security flaws, or styling drift.
-    • Template: "Review the following code snippet for quality, adherence to standard industry design patterns, potential security concerns, and architectural maintainability." [1]
+    • 
+Template: "Review the following code snippet for quality, adherence to standard industry design patterns, potential security concerns, and architectural maintainability." [1]
 7. Performance Optimization Tuning
     • Purpose: Lowers time/space complexity profiles and optimizes database queries or excessive memory allocations.
-    • Template: "Analyze this code block specifically for algorithmic complexity bottlenecks. Suggest optimizations using better data structures, caching mechanisms, or query adjustments under {specific constraints}." [1]
+    • 
+Template: "Analyze this code block specifically for algorithmic complexity bottlenecks. Suggest optimizations using better data structures, caching mechanisms, or query adjustments under {specific constraints}." [1]
 8. Self-Documenting Code & Markdown Generation
     • Purpose: Automatically spins up internal inline documentation or markdown files for easier engineering handovers.
-    • Template: "Generate clear, structured API documentation in markdown format from this module, including function arguments, return signatures, and failure states." []
+    • 
+Template: "Generate clear, structured API documentation in markdown format from this module, including function arguments, return signatures, and failure states." []
 9. Structural Error Debugging
     • Purpose: Solves runtime errors by evaluating systemic dependencies rather than guessing single syntax fixes.
-    • Template: "Explain why this code throws {error name} under runtime conditions. Provide a step-by-step root-cause analysis and a unified code fix." [1, 3]
+    • 
+Template: "Explain why this code throws {error name} under runtime conditions. Provide a step-by-step root-cause analysis and a unified code fix." [1, 3]
 10. Boilerplate and Directory Scaffolding
     • Purpose: Builds predictable file trees or placeholder structures to skip setup friction when spinning up new microservices.
-    • Template: "Recommend a standardized project directory structure for a {framework} application. Provide the shell scripts or boilerplate initialization files without writing inner business logic."
+    • 
+Template: "Recommend a standardized project directory structure for a {framework} application. Provide the shell scripts or boilerplate initialization files without writing inner business logic."
 
 
 --------------------------------------------------------------------------------------
@@ -296,7 +307,8 @@ Anatomy of an optimized prompt in 2025
 
 From research plus what devs are releasing, here’s a template that works well. Consider it as what pro devs already do.
 
-Optimized Prompt Structure Template:
+Optimized Prompt Structure 
+Template:
 
     Role/Persona (optional but useful). “You are a senior Python developer/library maintainer” or “Act as a security-minded engineer.”
     Context/Background. What project are we working on? What files / modules matter? Why do we require this task?
@@ -309,6 +321,64 @@ Optimized Prompt Structure Template:
 
 
 --------------------------------------------------------------------------------------
+##5 Most Critical Prompt Templates
+
+1. Requirements Clarification Template
+    • When to use: Before writing any code, to translate vague product features into structured technical specifications.
+    • Template:
+      "Act as a software architect. I need to implement a feature that [describe feature, e.g., handles user subscription upgrades].Context: The current stack uses [tech stack, e.g., Node.js and PostgreSQL].
+Task: Analyze this requirement and produce a technical solution outline.
+Result Format: Provide a markdown response containing:
+        1. A list of necessary database schema modifications or new entities.
+        2. The REST API endpoints required (methods, paths, and payload shapes).
+        3. A list of edge cases, security risks, or race conditions to account for."
+		
+2. Automated Unit Test Generator
+    • When to use: To offload repetitive test writing while ensuring high coverage for boundary cases.
+    • Template:
+      "Act as a QA Engineer. Write comprehensive unit tests for the code provided below using [testing framework, e.g., Jest/PyTest].Constraints:
+        ◦ Mock all external network calls and database dependencies.
+        ◦ Include test assertions for standard expected inputs.
+        ◦ Include explicit test cases for edge cases (null values, empty strings, maximum limits).
+        ◦ Include tests for error handling and expected exceptions.
+      Code:
+      [paste code here]
+      
+3. Legacy Code Explanation Template
+    • When to use: When inheriting an undocumented codebase, a complex regex, or heavily nested logic.
+    • Template:
+      "Act as a technical educator. Walk me through the execution flow of the following code snippet.Task: Explain how this code works step-by-step to a developer unfamiliar with this module.
+Result Format:
+        1. High-level purpose (one sentence summary).
+        2. Step-by-step algorithmic breakdown.
+        3. Identification of any design patterns used.
+        4. Performance bottlenecks or hidden logic flaws.
+      Code:
+      [paste code here]
+      
+4. Architectural Refactoring Template
+    • When to use: To clean up "spaghetti code," improve maintainability, or enforce SOLID design principles.
+    • Template:
+      "Act as a Principal Software Engineer. Review and refactor the following code snippet for better readability, maintainability, and clean code standards.Constraints:
+        ◦ Do not alter the external behavior or change the output signatures.
+        ◦ Fix code smells, long methods, or violations of SOLID principles.
+      Provide:
+        ◦ The refactored code block.
+        ◦ A bulleted list explaining why each structural change was made.
+      Code:
+      [paste code here]
+      
+5. Deterministic Debugging Template
+    • When to use: To solve cryptic runtime exceptions, stack traces, or unexpected logic behaviors.
+    • Template:
+      "Act as a debugging assistant. I am encountering a runtime error and need a root-cause analysis.Context:
+        ◦ Expected behavior: [what should happen]
+        ◦ Actual behavior: [what is happening]
+        ◦ Error message / Stack trace: [paste error here]
+      Task: Review the code below, diagnose the bug, and provide a fix.Code:
+      [paste relevant code here]
+      
+
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
