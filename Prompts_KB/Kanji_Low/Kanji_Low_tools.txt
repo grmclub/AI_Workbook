@@ -1,0 +1,127 @@
+
+
+--------------------------------------------------------------------------------------
+## claude levels 
+
+Level 1 — Chat Mode Using Claude like Google. Ask a question, get an answer. Copy, paste, done. 90% of people never leave this level.
+
+Level 2 — Prompted Claude Writing proper prompts with role, context, format, and constraints. Getting consistent, usable outputs instead of generic replies.
+
+Level 3 — Workflow Claude Using Claude inside repeatable business processes — content creation, client emails, proposals, SOPs. Claude becomes a system, not a search bar.
+
+Level 4 — Connected Claude Claude with MCP tools, browser access, file systems, and integrations. It's not just answering — it's doing. Reading, writing, searching, acting.
+
+Level 5 — Agentic Claude (Claude Code) Claude builds and runs its own systems. Full apps, automations, and agents deployed from a single conversation. Most people don't know this exists.
+
+--------------------------------------------------------------------------------------
+##Basic Tools
+=======
+ - Beehiiv (Newsletter)
+ - Canva (design graphics)
+ - Canva.com (design graphics)
+ - CapCut (edit videos)
+ - Capcut (edit videos)
+ - ChatGPT Image 2 (create infographics)
+ - Claude.Cowork (solve any problem)
+ - Claude.ai (solves anything)
+ - ElevenLabs.io (clone voices)
+ - Fliki.ai (generates TikToks)
+ - Gemini (perfect writing)
+ - Higgsfield (AI Visuals)
+ - Klingai (create AI videos)
+ - Luma.ai (create 3D models)
+ - MidJourney.com (generates art)
+ - Nano Banana Pro (generate realistic photos)
+ - NotebookLM (Create slides, podcast)
+ - OpenClaw (build AI agents)
+ - OpenClawengine.xyz (OpenClaw Deployment)
+ - Perplexity (research anything)
+ - PicWish.com (edit pictures)
+ - Pictory.ai (edit videos)
+ - Podcastle (edit podcasts)
+ - Portfoliotab (create your portfolio)
+ - RecCloud.com (summarize YouTube)
+ - Relume.io (web designs)
+ - Replit.com (generates code)
+ - Seedance 2.0 (create AI videos)
+ - SlidesAI.io (generates PPTs)
+ - Soundraw.io (music)
+ - Starry.ai (generates avatars)
+ - Submagic.co (Edit videos)
+ - Suno.ai (compose music)
+ - Syllaby.io (Faceless AI videos)
+ - Syllaby.io (for video)
+ - Synapze AI (helpful AI)
+ - Tripo AI (create 3D models)
+ - Voicebox sh (clone voices)
+ - Youlearn (summarize YouTube)
+
+===========
+
+
+--------------------------------------------------------------------------------------
+##50 AI Tools for Making Money with AI
+
+1. Business ideation → ChatGPT
+2. Content writing → Claude
+3. AI avatar videos → HeyGen
+4. Short-form video → Kling AI
+5. Video repurposing → Opus Clip
+6. Faceless YouTube → Syllaby.io
+7. AI voiceover → ElevenLabs
+8. AI music creation → Suno AI
+9. Podcast editing → Descript
+10. Image generation → Midjourney
+11. Ad creative → AdCreative.ai
+12. Ad copywriting → Jasper AI
+13. SEO content → Surfer SEO
+14. Keyword research → Semrush AI
+15. Affiliate content → Writesonic
+16. Email marketing → Mailchimp AI
+17. Sales pages → Unbounce AI
+18. Lead generation → Apollo.io
+19. Cold outreach → Instantly AI
+20. Data enrichment → FullEnrich
+21. Network prospecting → Clay AI
+22. CRM automation → HubSpot AI
+23. Sales proposals → Qwilr
+24. Sales call analysis → Gong AI
+25. Dropshipping research → AutoDS
+26. Product descriptions → Copy.ai
+27. E-commerce store → Shopify Sidekick
+28. Digital product pages → Gumroad + ChatGPT
+29. Customer support bots → Tidio AI
+30. Workflow automation → Openclaw
+31. Multi-step automation → Make
+32. AI agents → Claude
+33. Web scraping → Browse AI
+34. Document automation → Zapier AI
+35. App building → Cursor AI
+36. No-code SaaS → Emergent
+37. Website building → Framer AI
+38. Landing pages → Claude
+39. Coding assistance → GitHub Copilot
+40. Market research → Perplexity AI
+41. Financial planning → Numeric AI
+42. Grant writing → Grantable
+43. Invoicing → FreshBooks AI
+44. Trading research → Reflexivity AI
+45. LinkedIn content → Taplio
+46. Social scheduling → Blotato
+47. Presentation decks → Gamma
+48. Personal branding → Claude
+49. Keynote visuals → Canva AI
+50. Speaking opportunities → Career Dreamer
+
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
