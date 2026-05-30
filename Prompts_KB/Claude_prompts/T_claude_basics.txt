@@ -1,0 +1,49 @@
+--------------------------------------------------------------------------------------
+1. The Architecture Designer Prompt
+Jumping straight into code often leads to technical debt. This prompt forces Claude to plan a scalable structure before writing a single line. [1, 2]
+Prompt: "Design the architecture for the following problem: [DESCRIBE THE PROBLEM]. Focus heavily on modularity, maintainability, and scalability before writing any code. Propose the core modules, their responsibilities, and data flow."
+
+2. The Code-Reviewer / Brutal Audit Prompt
+Prevents Claude from complimenting poor code and instead forces a strict, bug-hunting audit. [1, 2]
+Prompt: "Review the following code for logic bugs, unhandled edge cases, style issues, and maintainability. Be specific and reference line numbers. Identify any assumptions that could cause this code to break. Do not compliment the code—just find the problems. [PASTE CODE]"
+
+3. The "Why This Approach" Prompt
+Combats hallucination by forcing Claude to provide the engineering reasoning behind its architectural choices and trade-offs. [1]
+Prompt: "Explain what this code does, line by line. Then, explain why you chose this specific approach instead of [Alternative Approach]. What are the trade-offs regarding performance and maintainability?"
+
+4. The Production-Quality Converter
+Transforms quick-and-dirty prototype scripts into production-ready modules. [1, 2]
+Prompt: "Convert this script into production-quality code. Add proper error handling, logging, modular functions, and input validation. Make sure it adheres to [e.g., Python] best practices: [PASTE CODE]"
+
+5. The State & Race-Condition Inspector
+Forces the AI to put on a "security and concurrency" hat to check for synchronization or memory issues. [1, 2, 3]
+Prompt: "Think like an attacker and review this code. What happens if this runs twice concurrently? What if the input is null or negative? Are there any race conditions, state management issues, or concurrency bugs here? [PASTE CODE]"
+
+6. The Context Lock / AGENT.md Prompt
+Used at the beginning of a chat to establish permanent rules, coding standards, and libraries so you do not have to repeat constraints. [1, 2, 3]
+Prompt: "Act as a Senior Software Engineer. From now on, whenever I ask for code, you must strictly follow these rules: 1. Use [Language/Framework] strictly adhering to [Style Guide]. 2. Never skip error handling. 3. Write unit tests using [Test Framework]. Here is my project structure and conventions: [PASTE YOUR CLAUDE.md OR CONVENTIONS]"
+
+7. The Performance Triage Prompt
+Diagnoses slow performance or memory usage in an existing system. [1, 2]
+Prompt: "Identify potential memory leaks, unoptimized database queries, or blocking I/O operations in this code: [PASTE CODE]. Analyze object retention and closure issues, and recommend a profiling or refactoring strategy."
+
+8. The First-Principles Debugger
+Prevents Claude from endlessly looping in vague, unhelpful debugging loops by forcing it to start from a clean diagnostic phase. [1, 2]
+Prompt: "Let's diagnose this bug step-by-step. 1. Describe exactly what is failing or behaving unexpectedly. 2. State your hypothesis for the root cause. 3. Provide a step-by-step plan to fix it. 4. Provide the refactored code block. [PASTE CODE AND ERROR MESSAGE]"
+
+9. The Safe Refactor Prompt
+Asks the model to modify existing code while deliberately protecting core features. [1]
+Prompt: "Refactor the following code to make it more readable and efficient. Ensure that all existing public interfaces, inputs, and outputs remain exactly the same to avoid breaking changes in the rest of the codebase. [PASTE CODE]"
+
+10. The Documentation Writer Prompt
+Instructs Claude to thoroughly document a complex codebase so you do not have to. [1]
+Prompt: "Generate complete, comprehensive documentation for this codebase. Include an architecture overview, a setup guide, API references for the main functions, and troubleshooting scenarios for edge cases. [PASTE FILE STRUCTURE OR CODE]"
+
+
+
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
