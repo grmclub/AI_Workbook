@@ -246,7 +246,68 @@ Executive Summary & High-Level Slides (Prompts 1-5)
 5. Vision Slide: “Create a vision slide for [programme/strategy] that explains: where we are now, where we want to be in 3 years, and the high-level path to get there. Use simple, inspiring language.”
 
 --------------------------------------------------------------------------------------
+
+Superior prompts follow the STAR principle:
+
+    Situation — Project background and context
+    Task — Precise objective
+    Action — Technical constraints and standards
+    Result — Required output format, documentation level, and style
+	
+	
+##10 Most Frequently Used AI Prompts by Programmers
+
+icle breaks down the 10 most common prompt types into distinct development phases, complete with real-world architectural applications.
+
+1. Requirements Clarification
+    • Purpose: Translates highly abstract product concepts into concrete technical logic.
+    • Template: "Act as a backend architect. Analyze the following requirement and produce a technical solution outline: {original requirement}. Break it down into user stories, list involved entities/relationships, design RESTful API endpoints, and highlight potential technical risks." [1]
+2. Design Review & Architecture Verification
+    • Purpose: Validates architectural frameworks for flaws, concurrency bugs, or bottlenecks before code is written.
+    • Template: "You are a senior system architect. Review the following design document: {document}. Raise questions and alternative improvements regarding scalability, high availability, data consistency, and operational complexity." [, 2]
+3. Cross-Language Code Translation
+    • Purpose: Ports functional logic seamlessly between different tech stacks while conforming to modern syntax.
+    • Template: "Convert the following {source language} code to {target language}. Use modern ecosystem features (e.g., modern syntax standards), preserve the original variable naming style, ensure proper exception handling, and return a complete definition." []
+4. Code Refactoring & Cleanup
+    • Purpose: Rewrites poorly structured "spaghetti code" to drastically improve performance and team readability without modifying outer outputs. [1]
+    • Template: "Refactor this function for maximum readability and performance without changing its structural execution or external outputs." [1]
+5. Automated Unit Test Generation
+    • Purpose: Offloads standard assertions to the AI while guaranteeing edge cases and error bounds are covered.
+    • Template: "Generate robust unit test cases for this specific function using {testing framework}. Ensure coverage for normal inputs, empty boundary values, and negative invalid cases." []
+6. Code Review & Best Practice Alignment
+    • Purpose: Simulates an independent peer review to flag performance gaps, security flaws, or styling drift.
+    • Template: "Review the following code snippet for quality, adherence to standard industry design patterns, potential security concerns, and architectural maintainability." [1]
+7. Performance Optimization Tuning
+    • Purpose: Lowers time/space complexity profiles and optimizes database queries or excessive memory allocations.
+    • Template: "Analyze this code block specifically for algorithmic complexity bottlenecks. Suggest optimizations using better data structures, caching mechanisms, or query adjustments under {specific constraints}." [1]
+8. Self-Documenting Code & Markdown Generation
+    • Purpose: Automatically spins up internal inline documentation or markdown files for easier engineering handovers.
+    • Template: "Generate clear, structured API documentation in markdown format from this module, including function arguments, return signatures, and failure states." []
+9. Structural Error Debugging
+    • Purpose: Solves runtime errors by evaluating systemic dependencies rather than guessing single syntax fixes.
+    • Template: "Explain why this code throws {error name} under runtime conditions. Provide a step-by-step root-cause analysis and a unified code fix." [1, 3]
+10. Boilerplate and Directory Scaffolding
+    • Purpose: Builds predictable file trees or placeholder structures to skip setup friction when spinning up new microservices.
+    • Template: "Recommend a standardized project directory structure for a {framework} application. Provide the shell scripts or boilerplate initialization files without writing inner business logic."
+
+
 --------------------------------------------------------------------------------------
+Anatomy of an optimized prompt in 2025
+
+From research plus what devs are releasing, here’s a template that works well. Consider it as what pro devs already do.
+
+Optimized Prompt Structure Template:
+
+    Role/Persona (optional but useful). “You are a senior Python developer/library maintainer” or “Act as a security-minded engineer.”
+    Context/Background. What project are we working on? What files / modules matter? Why do we require this task?
+    Task description. What do you want done exactly? (e.g. “Implement a function to calculate …”).
+    Constraints & Quality standards. If needed, limit lines. Specify style, performance, security, error handling, tests. Example: “must handle null inputs, adhere to PEP8 style, have unit tests.”
+    Examples/Edge cases. Give one or two examples or failing examples. Describe what is incorrect in edge cases.
+    Output format. Should the output be? JSON, code snippet only, comments, docstrings, all together in one file, etc.
+    Validation. Ask AI to check its own code or test edge cases. Ask for explanation or reasoning.
+    Iteration request. Refine if result is not correct. Allow follow-ups.
+
+
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
