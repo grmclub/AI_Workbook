@@ -330,7 +330,7 @@ The stack that ships brand kits, websites and ads while you sleep:
 
 
 --------------------------------------------------------------------------------------
-Biz audit
+##Biz audit
 
 1. The $100M Business Diagnostic
 "Act like Alex Hormozi auditing my business for the first time. You have 60 minutes and zero patience for excuses. Review my offer, leads, sales process, delivery, and financials: [paste]. Identify the single biggest revenue leak killing my growth right now. Be brutally honest. Give me one prioritised action, not a list."
