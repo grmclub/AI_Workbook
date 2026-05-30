@@ -235,6 +235,53 @@ Prompt 50 · Build a Search Autocomplete
 Build a search autocomplete system for [application]. Include debouncing, trie/prefix indexing, ranked suggestions, keyboard navigation, and accessibility.
 
 --------------------------------------------------------------------------------------
+##list top prompts used in claude for coding
+
+The most effective Claude coding prompts establish deep architectural planning and context retention, preventing common AI "vibe coding" issues. Top developer prompts are tailored for specific, high-leverage tasks like debugging, refactoring, and senior-level code reviews. 
+
+1. The Context Lock
+Use this at the start of a chat session to lock in your tech stack and prevent Claude from forgetting your app's rules. [1]
+You are an expert [Language/Framework] developer. Our application uses [List core tech, e.g., Next.js, PostgreSQL, Tailwind]. Before suggesting any code, consider existing app patterns, state management, and performance. Do not output vague or incomplete code; always write full files or exact diffs that are production-ready.
+
+2. Surgical Debugging & Bug Fixing
+Stops Claude from rewriting an entire file when only a few lines need attention. [1, 2]
+Task: Debug this code. Explain the error in plain English, identify the exact line causing it, and provide a corrected version.
+Error Message: [Paste Error]
+Code Context: [Paste Code]
+Constraints: Do not rewrite the entire file. Only fix what is broken. Explain each change you make.
+
+3. Strict Senior Engineer Code Review
+Forces Claude to act like a strict reviewer, enforcing edge cases, readability, and security. [1, 2]
+Role: You are a Senior Staff Engineer.
+Task: Review the following code. Be highly critical and constructive.
+Code to Review: [Paste Code]
+Focus Areas: Correctness, efficiency, security, and missing edge cases.
+Format: For each issue, explain the problem, show the improved code block, and explain why it is better.
+
+4. Feature Injector (End-to-End Implementation)
+Use this to safely introduce new capabilities into an existing codebase without breaking what already works. [1, 2]
+I need to implement a new feature: [Describe Feature].
+Context: Here is the relevant existing file(s) [Paste Code/Structure].
+Instructions: Map out the logic flow first. Then, provide the implementation steps and the exact code modifications required to integrate this feature smoothly without breaking existing functionality.
+
+5. High-Signal PR Description
+Uses AI to turn messy commits into a professional PR template for your team. [1, 2]
+Task: Write a production-ready Pull Request description based on the code diff below.
+Code Diff: [Paste Git Diff]
+Format: Include a Summary, a list of Key Changes, Verification/Testing steps, and any Potential Impact/Risk.
+
+Best Practices for Claude Coding
+Use Artifacts: Claude supports Artifacts, which allow it to output code into a dedicated, renderable panel. Let it output full functional files instead of small snippets. [1]
+Define Constraints: Always restrict code limits (e.g., "Max 50 lines", "Do not rewrite the whole file") to save context length and improve output focus.
+
+Provide Examples: Wrap your coding style examples in <example> tags so Claude mimics your exact naming conventions and patterns
+
+https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices
+
+https://www.dreamhost.com/blog/claude-prompt-engineering/
+
+
+
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
