@@ -71,7 +71,7 @@ Core Takeaway: The ultimate goal is to shift your mindset from being an "operato
 The ULTIMATE Gemini 3 Prompting Guide – Master Google's Formula!
 https://www.youtube.com/watch?v=_ctHSSJ-WqE&t=478s
 
-Notebook LM
+##Notebook LM
 
 What are he top three revinue trends by region for the past quarter
 -excel wizard to director
