@@ -90,7 +90,7 @@ Quick tips for C++ with Copilot
     Safety: Always ask for: "Include static_assert to ensure the template type T is trivially copyable."
 
 -------------------------------------------------
-CRISP approach copilot prompt example for python 
+##CRISP approach copilot prompt example for python 
 
 For Python, the CRISP framework is highly effective for enforcing "Pythonic" code—meaning code that is readable, utilizes standard libraries efficiently, and adheres to PEP 8 standards.
 
@@ -297,6 +297,57 @@ Pro-Tips for Python + Copilot
     Test-Driven Development: Add: "Include a unit test using the pytest framework that mocks the file system to verify the deletion logic."
     Dry-Run Mode: For operations scripts, add: "Include a dry_run boolean parameter. If True, log which files would be deleted without actually performing the deletion." This is a life-saver for destructive scripts.
 -------------------------------------------------
+##most effective code-writing prompts
+
+
+1. Feature Implementation
+Use this prompt to generate new features, classes, or boilerplate structures.
+"Act as a Senior [Language] Developer. Implement [specific feature] in [framework/environment].
+Constraints:
+    • Use [specific libraries/patterns].
+    • Ensure full error handling and edge-case coverage.
+    • Provide unit tests."
+
+2. The Bug Detective
+Use this prompt to diagnose errors and prevent the AI from jumping to conclusions.
+"Act as a debugging assistant. I am experiencing this error: [paste error]. Here is the relevant code: [paste code].
+Context:
+    • Expected behavior: [what should happen]
+    • Actual behavior: [what is happening]
+    • Steps I've already tried: [list what you've done]
+Provide:
+    1. Root cause analysis
+    2. A fix as a unified code diff
+    3. Tests that would have caught this bug"
+	
+3. Refactoring and Optimization
+Use this prompt to clean up code and improve performance without changing its behavior. [1]
+"Refactor the following [Language] module for better readability and maintainability. Do not change the existing behavior.
+Code:
+[paste code]
+Provide:
+    1. The refactored code block
+    2. An explanation for each change made
+    3. An analysis of time and space complexity changes"
+
+4. Code Explanation
+Use this prompt when working with a legacy codebase to understand execution flow. [1]
+"Walk me through this [Language] snippet. Pair with me as if explaining to a peer developer.
+Code:
+[paste code]
+Provide:
+    1. The high-level purpose of this section
+    2. Step-by-step execution flow
+    3. Potential edge cases or limitations"
+
+5. Unit Test Generator
+Use this prompt to ensure your features are thoroughly tested. [1]
+"Write unit tests for the following [Language] function using [preferred testing framework, e.g., Jest/PyTest]. Include tests for normal expected inputs, edge cases, and failure/invalid cases.
+Function:
+[paste function]"
+
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
