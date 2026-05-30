@@ -1,0 +1,13 @@
+
+-------------------------------------------------------------
+##suggest a prompt to generate a file watcher script for linux
+
+Act as a Senior Linux Systems Engineer. Write a production-ready file
+watcher script in [Bash / Python ] that monitors [directory_path] for
+[event_type: e.g., newly created, modified, or deleted] files matching
+the pattern [file_pattern: e.g., .csv or report_.txt] without using inotify and in pure python implementation 
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
