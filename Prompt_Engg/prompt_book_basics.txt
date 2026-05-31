@@ -116,7 +116,7 @@ Based on your previous inquiries, you have been focusing on:
 ##operations, monitoring
 -detect anomoly and alert
 
-##marketing & sales
+##marketing & sales & Auditing
 -generate mkt plan
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
