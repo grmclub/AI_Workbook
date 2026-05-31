@@ -103,7 +103,6 @@ Based on your previous inquiries, you have been focusing on:
 -set operations : group, aggregate, join, intersection
 -visualization  : time series comparison
 
-
 ##coding, testing, debugging
 -generate
 -build
