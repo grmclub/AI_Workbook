@@ -88,7 +88,37 @@ Based on your previous inquiries, you have been focusing on:
 
     Implementation Details: Efficient parsing techniques and message throttling (token bucket algorithms).
 --------------------------------------------------------------------------------------
+##Core areas where prompts can be used to synthesize information
 
+##communication
+-mail
+-chat
+-social media
+
+##data analysis & research
+-summarize
+-analyse
+-explain
+-deepdive
+-set operations : group, aggregate, join, intersection
+-visualization  : time series comparison
+
+
+##coding, testing, debugging
+-generate
+-build
+-test
+
+##work skills & productivity
+-deep dive into a skill
+-prioritize key activities
+-organize & optimize workflow
+
+##operations, monitoring
+-detect anomoly and alert
+
+##marketing & sales
+-generate mkt plan
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
