@@ -277,12 +277,33 @@ Define Constraints: Always restrict code limits (e.g., "Max 50 lines", "Do not r
 Provide Examples: Wrap your coding style examples in <example> tags so Claude mimics your exact naming conventions and patterns
 
 https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices
-
 https://www.dreamhost.com/blog/claude-prompt-engineering/
 
 
 
 --------------------------------------------------------------------------------------
+##Here are the 15 Claude codes that actually worked 
+
+1. /ghost — Strips all AI-sounding language and makes your writing feel like a real human wrote it. Passes detectors too.
+2. /deepdive — Stops surface level answers. Forces Claude to go deeper than it normally would.
+3. /mirror — Reads your writing style and match it. Tone, rhythm, even sentence length.
+4. /critic — No sugarcoating. Review your idea and tell you every weakness and risk.
+5. /debate — Argues both sides of any topic. Forces you to see what you're missing.
+6. /speedrun — Skips the theory. Gives you the fastest practical path to get something done.
+7./eli5 — Breaks down anything complex into language a complete beginner understands.
+8. /redteam — Attacks your plan from every angle to expose what could go wrong.
+9. /persona — Makes Claude answer from a specific expert's perspective. Changes everything.
+10. /reframe — Takes your problem and shows it from 3 completely different angles.
+11. /premortem — Imagines your plan already failed and works backwards to find exactly why.
+12. /blindspot — Finds the gaps in your thinking you didn't even know were there.
+13. /simulate — Runs your decision forward and shows likely outcomes before you commit.
+14. /actionmap — Turns any big idea or strategy into a clear step by step action list.
+15. /steelman — Build the strongest possible case for your idea before you pitch it to anyone.
+
+E.g
+deepdive climate change...Give me a deep, detailed analysis of climate change, including arguments for and against, evidence, uncertainties, and future projections..
+
+
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
