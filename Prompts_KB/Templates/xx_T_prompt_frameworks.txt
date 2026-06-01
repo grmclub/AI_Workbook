@@ -19,6 +19,18 @@ Examples: "Based on [Document.docx]," or "Use the notes from yesterday's Teams m
 - Expectations: The specific format, tone, length, or constraints of the response.
 Examples: "Keep it under 300 words," "Use a professional tone," "Format as three bullet points."
 
+===========
+##The 4 Pillars of a Great Copilot Prompt
+
+If you are writing your own prompts from scratch, ensure you include these four elements:
+
+Goal: Clearly state the action you want to take (e.g., create, summarize, find, draft).
+Context: Explain the background, tone, and audience.
+Source: Point Copilot to the right file or data (e.g., Refer to last week's notes).
+Expectations: Define the format (e.g., a 1-page briefing, a bulleted list).
+
+===========
+
 Sample:
 [Goal] Draft a project update email 
 [Context] for our regional leadership team who hasn't seen the recent numbers. 
