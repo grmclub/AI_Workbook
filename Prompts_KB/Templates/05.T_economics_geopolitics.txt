@@ -1,0 +1,45 @@
+
+-------------------------------------------------------------
+##Economic news
+/summarize [place] economic news
+/summarize [place] economic news and present a deep analysis of the trends
+/summarize [place] economic news and present a deep analysis of investment opportunities 
+/present a deep analysis of investment opportunities in [place] like a management consultant 
+/analyse reasons for faster rise in private consumption in [place]
+
+##Research trends
+/summarize top trends in scientific research in the [place] in [year] and list chief actors order by importance
+
+/research [topic], found: [paste notes]. Synthesize: 1) Overall themes, 2) Conflicts, 3) Knowledge gaps, 4) Next steps for deeper understanding Cite every source. Flag any claim you are not confident about with [VERIFY]. Do not send or post anything. 
+
+
+-------------------------------------------------------------
+/list best prompts for economic and geopolitical data analysis
+
+Prompts for Trend Identification & Data Extraction
+
+    • Extract the top 5 macroeconomic indicators from this [text/report] and format them into a markdown table with columns for Country, Indicator, Value, and YoY Change.
+    • Analyze this dataset of global trade flows and list all anomalies where trade volume between two nations dropped by more than 15% quarter-over-quarter.
+    • Identify the main geopolitical risks mentioned in this central bank report and categorize them by Likelihood (High/Medium/Low) and Economic Impact.
+    • Scan this government policy briefing and isolate all newly announced tariffs, export controls, or sanctions, specifying the Target Country and Affected Sector.
+
+Prompts for Cross-Impact & Scenario Planning
+
+    • Assume a 20% escalation in maritime transit fees through the Suez Canal. Analyze the cascading economic effects on European manufacturing costs and Global inflation.
+    • Evaluate how the implementation of [Specific Trade Policy] will impact supply chain dependencies for critical minerals between North America and Southeast Asia.
+    • Create three distinct geopolitical scenarios for [Region/Country] over the next 12 months (Optimistic, Status Quo, Pessimistic) and outline the specific currency volatility triggers for each.
+    • Compare the economic resilience of [Country A] and [Country B] against a sudden 30% spike in global crude oil prices based on their energy import ratios.
+
+Prompts for Strategic Reporting & Synthesis
+    • Draft a 300-word executive brief for an institutional investor detailing how the latest regional trade agreement alters the risk profile of infrastructure bonds in [Region].
+    • Synthesize these three conflicting economic commentary articles into a neutral summary that highlights the core areas of disagreement regarding global debt sustainability.
+    • Act as a sovereign risk analyst. Evaluate the structural vulnerabilities in [Country's] fiscal policy following their recent regulatory changes in the tech sector.
+    • Generate a list of 5 counter-arguments to the prevailing market consensus that [Specific Geopolitical Event] will cause a prolonged recession.
+
+
+
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
