@@ -30,11 +30,6 @@ Save & Share: Use the "save" feature to store frequently used prompts in the gal
 
 
 --------------------------------------------------------------------------------------
-##prompt guides
-4 Step - Action, Source, Expectations, and Context
-5 Step - Action,Content Type, Topic & Data, Audience, Tone & Style
--combine and chain prompts 
-
 ##coding prompts
 /review my code
 /refractor
