@@ -1,0 +1,392 @@
+
+
+--------------------------------------------------------------------------------------
+copilot+prompts+for+timeseries+visualization
+
+1. Basic Exploration & Formatting
+Get Copilot to aggregate and display raw data correctly over time. 
+
+    "Visualize total [Revenue] by month using a line chart to highlight the overall trend."
+    "Plot [Sales] over time. Add a rolling 7-day average trend line to smooth out daily fluctuations."
+    "Can you resample this dataset and visualize [Profit] by quarter instead of by month using a bar chart?
+	
+2. Pattern & Seasonality Identification
+Ask Copilot to highlight recurring trends or anomalies in your time series. 
+
+    "Analyze my weekly sales figures for the past three years and look for recurring seasonal patterns or recurring spikes."
+    "Generate a seasonal decomposition plot using Python code to isolate the trend, seasonality, and residual noise in my data."
+    "Highlight and label any major outliers or anomalies on the monthly user-growth chart	
+
+3. Forecasting & Predictive Visualization
+Instruct Copilot to project future data and visualize the confidence intervals. 
+
+    "Using the historical data, build an ARIMA predictive model for the next 12 months and plot the forecast with a 95% confidence interval."
+    "What is the projected [Metric] for Q3 based on the last 2 years of data? Visualize it as a continuation of my current line chart.
+
+4. Advanced Power BI / Python Copilot Prompts
+Use these for deeper data science, faceting, and multi-variable comparison. 
+
+    "Create a small multiples/facet grid to plot the daily [Temperature] over time, split by each [City]. Give each city's line a unique color."
+    "Write a Python script to perform a stationarity test (ADF test) on my time series, print the results, and plot the rolling mean and standard deviation.
+
+
+--------------------------------------------------------------------------------------
+10 Copilot Prompts That Will Transform Your Data Stories 
+https://www.youtube.com/watch?v=7e_t3QsVs8M
+
+
+how to leverage Microsoft Copilot to transform raw data into compelling and actionable business narratives. The core message is that effective data storytelling requires moving beyond generic prompts toward a structured, strategic approach.
+The Core Framework
+
+To get high-quality outputs, the video suggests using a Context, Task, and Constraint framework (1:13):
+
+    Context: Define your role and your audience.
+    
+Task: Clearly state what the AI needs to achieve.
+    Constraint: Set specific boundaries for format, length, or structure.
+
+Top 10 Copilot Prompts for Data Storytelling
+
+The video highlights 10 specific use cases to improve your workflow:
+
+    1.Executive Summary Slide (1:34): Use a specific persona (e.g., Senior Business Analyst) to identify revenue drivers and outliers.
+    2.Data Visualization (1:52): Move beyond simple charts by defining variables and highlighting ROI.
+    3.Year-over-Year Performance (2:13): Analyze trends to understand why changes occurred.
+    4.Team-Specific Insights (2:20): Tailor data for departments (like retention) to show business impact.
+    5.Long-Term Trend Analysis (2:31): Identify seasonality and prepare for predictable dips (e.g., Q3 slowdowns).
+    6.Actionable Recommendations (3:10): Force the AI to prioritize next steps rather than just describing data.
+    7.Forecasting (3:19): Use historical patterns to predict future trends.
+    8.KPI Clarity (3:29): Highlight the "Big Three" metrics using minimal text and bold visuals.
+    9.Storytelling Structure (3:44): Use the Situation-Complication-Resolution (SCR) framework to guide the narrative.
+    10.Closing with a Clear Ask (4:00): End presentations by summarizing risks and proposing a specific, confident action (like a budget increase).
+
+
+--------------------------------------------------------------------------------------
+Mastering Microsoft Copilot prompts requires specific keywords 
+based on the proven Goal + Context + Source + Expectations formula.
+
+1. Action Keywords (The "What")
+Start your prompt with strong verbs that tell Copilot exactly what task to perform. 
+
+    Summarize / Catch up: Synthesize, condense, brief me, extract.
+    Create / Brainstorm: Draft, generate, design, compile.
+    Edit / Refine: Proofread, rewrite, rephrase, format.
+    Analyze: Compare, categorize, review for inconsistencies.
+	
+2. Context Keywords (The "Who" and "Why")
+These keywords help Copilot understand the situation, relationship, and audience, ensuring the output feels natural. 
+
+    Audience: Senior management, board of directors, non-technical audience, prospective clients.
+    Relationship: New client, close colleague, vendor.
+    Industry / Role: Marketing campaign, sales record, software development.	
+	
+3. Expectations Keywords (The "How" and "Format")
+Define boundaries for the output style, layout, and length to avoid generic, robotic text. 
+
+    Length: Under 150 words, concise, 1-page briefing.
+    Structure: Bullet points, table, step-by-step checklist, numbered list.
+    Tone: Diplomatic, direct, professional, data-driven, executive, empathetic.
+    Focus: Highlight top 3 priorities, outline key decisions, identify risks.
+	
+4. Source Keywords (The "Where")
+Direct Copilot to your exact data so it references the right information. 
+
+    Document references: Use this [file name], based on the [presentation], from the meeting transcript.
+    Email integration: Summarize this email thread, reference my latest email to [name]. 
+
+Real-World Prompt Examples
+
+    For Meeting Prep: "Compile a 1-page briefing for my meeting with [Team/Name]: recent email exchanges, open action items, and key talking points I should raise."
+    For Email Rewrites: "Rewrite this email to [Client Name] to be [professional/diplomatic] but firm. Output under 100 words with 2 action bullets."
+    For Data Analysis: "From these notes, extract: decisions made, action items with [owners] and [deadlines], and open questions that still need resolution.	
+--------------------------------------------------------------------------------------
+The most used keywords in Microsoft Copilot prompts generally fall into four categories: Action, Source, Expectations, and Context. Common high-frequency keywords include verbs like summarize, draft, rewrite, and analyze, combined with format specifiers like bullet points, table, and email.
+
+1. Action Keywords **
+These tell Copilot exactly what to do with your data. 
+
+    Summarize or Recap (used heavily for meeting notes or email threads).
+    Draft or Create (used for generating new emails, documents, or presentations).
+    Rewrite, Proofread, or Refine (used for altering the tone of a message).
+    Analyze (used for Excel data sets or lengthy reports). 
+	
+2. Formatting & Expectation Keywords
+These establish constraints on how the output should look and feel. 
+
+    Bullet points
+    Table
+    Summary
+    Professional
+    Concise
+    Under [X] words	
+
+3. Source Keywords
+These point Copilot to the specific document, thread, or file it needs to reference. 
+
+    File name or [document]
+    Email thread
+    This data or [paste text]
+    Meeting notes
+
+4. Context Keywords
+These add critical situational information so Copilot can tailor its output. 
+
+    Audience: For example, senior leaders, non-technical, or clients.
+    Relationship: For example, new client or colleague of 2 years.
+    Tone: For example, diplomatic, persuasive, or assertive.
+--------------------------------------------------------------------------------------
+Automating Data Preparation and Cleanup with Copilot Prompts
+
+    Handle Missing Values: Prompt Copilot to automatically fill, remove, or flag missing values in a specific column or entire table.
+    Fix Inconsistent Formats: Ask Copilot to standardize date, currency, or text formats across your sheet—perfect for prepping data before analysis.
+    Detect Outliers: Use Copilot to scan for and highlight data points that fall outside the expected range, helping you quickly spot errors.
+    Simplify Complex Transformations: Have Copilot merge, split, or reformat columns with just a few words, saving time on manual manipulation.
+
+Copilot Prompts for Summarizing Data: Capturing the Gist
+
+    Summarize Conversations: Prompt Copilot to extract the key points from lengthy email threads or chat interactions, delivering the “gist” in a few sentences.
+    Bullet Point Overviews: Ask Copilot to convert detailed reports or data tables into bullet lists, making findings quick and easy to grasp.
+    Highlight Actionable Insights: Direct Copilot to pull out the most important trends, outliers, or recommendations the data suggests, perfect for team updates or quick reviews.
+
+Visualization Formula Help: Creating Charts and Graphs in Excel Using Copilot
+
+    Chart Recommendations: Ask Copilot to suggest the best chart type for your data—bar, line, pie, or more—based on the patterns it sees.
+    Step-by-Step Graph Creation: Use prompts for Copilot to walk you through building a chart, including which formulas or ranges to use.
+    Formula Explanations: Request that Copilot explain complex Excel formulas required for visualization, so anyone can understand the math under the hood.
+
+Unlock Insights with AI-Driven Copilot Suggestions
+
+    Trend Analysis: Prompt Copilot to describe rising or falling trends in your dataset with natural language summaries.
+    Anomaly Detection: Have Copilot identify and flag values that don’t fit the norm—think one-month sales spikes or unusual customer behavior.
+    Reveal Relationships: Ask Copilot to uncover correlations between columns—like how temperature impacts product demand—quickly surfacing actionable connections.
+	
+Deriving Implications, Opportunities, and Benefits Copilot Insights Offer
+
+    Strategic Implications:Ask Copilot to explain what detected patterns really mean for the business. For example, “What does a 15% dip in Q3 sales signal about our current strategy?” Copilot can suggest possible root causes or consequences to consider.
+    Spotting Opportunities:Instruct Copilot to highlight areas for improvement or untapped potential—maybe a customer segment that’s growing fast or an overlooked product pair seeing high correlation in sales.
+    Business Value Translation:Prompt Copilot to summarize the broader benefits of an identified insight, helping you turn findings into action plans or management priorities with clear justification.
+    Recommend Next Steps:Have Copilot propose concrete action items, like running targeted promotions, reallocating resources, or adjusting forecasting models based on what the data reveals.	
+
+Drafting and Rewriting Professional Customer Emails with Copilot
+
+    Rewrite and Refine: Use Copilot to improve email drafts, making them more professional, concise, and targeted to your recipient.
+    Personalize with Data: Ask Copilot to automatically weave key data findings into your messages, so your communication is both informative and relevant.
+    Organize Replies: Prompt Copilot to structure your responses—especially for pending or threaded emails—for clarity and completeness every time.
+
+Turning Data Copilot Outputs into Executive Reports and Presentations
+
+    Prompt Executive Updates: Instruct Copilot to turn raw data summaries into structured executive summaries, ready for C-suite review.
+    Enhance Readability: Ask Copilot to rewrite technical details using plain language, ensuring insights are crystal clear for non-technical stakeholders.
+    Content Development: Leverage Copilot to draft compelling content for PowerPoint or Word, building narrative arcs that frame your findings for leadership.
+
+Next-Level Prompts GPT-5 and 2025 Guide to Smarter Copilot Questions
+
+    Prompting with Context: Learn to add business context or user intent to your prompts as GPT-5-level Copilot models respond to richer, enterprise-aware cues.
+    Idea Generation Prompts: Explore creative prompt styles that get Copilot to brainstorm new analyses or visualization angles you wouldn’t have thought of.
+    Interactive Prompt Chains: Prepare for next-gen workflows where you chain questions—each answer unlocking the next step—so Copilot can handle more complex, multi-part scenarios.
+	
+Industry-Tuned Copilot Prompts for Vertical Data Science Patterns
+
+    Finance Forecasting: Prompt Copilot for multi-period projections and anomaly detection attuned to time-series data in financial datasets.
+    Healthcare Cohort Analysis: Structure prompts to compare patient groups, identify treatment outcome trends, and respect privacy granularity.
+    Retail Sales Patterns: Develop prompts targeting seasonal trends or store-by-store comparisons, reflecting sector-specific benchmarks and KPIs.	
+	
+connect the dots—from data profiling, through transformation and model building, all the way to interpretation	
+	
+Sequential Copilot Prompt Design for End-to-End Data Science Workflows
+
+    Start with Profiling:Prompt Copilot to describe data structure, missing values, and summary stats before diving in—they’ll set the scene for every next move.
+    Automate Cleaning:Have Copilot generate a series of cleaning steps (remove nulls, fix formats, deal with outliers) based directly on profiling insights.
+    Model Progression:Feed the cleaned data into prompts that define model types, hyperparameters, or business logic—building up the analysis step by step.
+    Result Interpretation:Conclude the chain with prompts that turn model outputs into actionable summaries and next-step recommendations for stakeholders.
+
+Error Recovery and Feedback Loop Integration in Copilot Data Pipelines
+
+    Error Detection Steps:Write prompts that direct Copilot to check for missing fields, calculation errors, or ambiguous results at each pipeline stage.
+    Clarification Prompts:Design the sequence so Copilot requests clarification or flags possible mistakes, prompting you for input before moving forward.
+    Fallback Logic:Include backup prompts in your workflow—if Copilot fails to process a step, automatically revert to a simpler or more conservative approach.
+    Feedback Integration:Ask Copilot to summarize what went wrong and suggest corrective actions, helping you refine future prompt chains for even more reliable results.
+--------------------------------------------------------------------------------------
+The 5-Element Copilot Prompt Formula
+
+Every effective Copilot prompt includes these five elements:
+
+    Action — what you want (create, rewrite, summarise, improve)
+    Content Type — slide type or section (agenda, executive summary, comparison, roadmap)
+    Topic & Data — what it’s about and the key numbers/messages
+    Audience — who will see it (board, investors, internal team, clients)
+    Tone & Style — how it should sound and look (executive, concise, data-driven, clean layout)
+
+Formula: Action + Content Type + Topic/Data + Audience + Tone/Style
+
+##Agent Mode Conversation Starters (Prompts 51-55)
+
+51. Full Deck Build: “I need a 10-slide board presentation on our Q4 results. Can you help me build it slide by slide? Start by asking what metrics matter most to my board.”
+
+52. Iterative Refinement: “I have a draft deck open. Walk me through each slide and suggest improvements. Ask me questions about audience and purpose as we go.”
+
+53. Brand-Consistent Build: “Create a client presentation using our corporate template. Pull images from our SharePoint asset library. Ask me about the key messages before you start building slides.”
+
+54. Multi-Source Integration: “I’m referencing /Q4-report.docx and /sales-data.xlsx. Build a presentation that tells the story of our quarter. Ask clarifying questions about what to emphasise.”
+
+55. Rapid Revision: “Make slide 3 more visual. Add a timeline to slide 5. Change the tone of slide 7 to be more confident. Then show me the updated deck.”
+
+##Old workflow: Write detailed prompt → Wait → Review → Write another prompt → Wait → Fix manually
+
+Agent Mode workflow: Describe what you need → Answer Copilot’s questions → Watch slides generate → Say “make slide 3 more visual” → Done
+Executive Summary & High-Level Slides (Prompts 1-5)
+
+1. Executive One-Slider: “Create a one-slide executive summary for [audience] explaining [project/initiative]. Include: 1 key headline, 3 bullet points on impact, and 1 clear ask. Write for very busy senior leaders.”
+
+2. Board-Level Update: “Create a board update slide summarising [topic, e.g., Q4 performance]. Focus on: results vs target, 3 key drivers, and 2 decisions required from the board. Use concise, non-technical language.”
+
+3. Strategic Recommendation: “Create a strategic recommendation slide that compares Option A vs Option B for [decision]. Show: summary, pros/cons, risks, and a recommended option with one-sentence justification.”
+
+4. Leadership Snapshot: “Create a one-slide ‘Leadership Snapshot’ for [initiative]. Include: current status (RAG), top 3 wins, top 3 risks, and the next major milestone with date.”
+
+5. Vision Slide: “Create a vision slide for [programme/strategy] that explains: where we are now, where we want to be in 3 years, and the high-level path to get there. Use simple, inspiring language.”
+
+--------------------------------------------------------------------------------------
+
+Superior prompts follow the STAR principle:
+
+    Situation — Project background and context
+    Task — Precise objective
+    Action — Technical constraints and standards
+    Result — Required output format, documentation level, and style
+	
+	
+##10 Most Frequently Used AI Prompts by Programmers
+
+breaks down the 10 most common prompt types into distinct development phases, complete with real-world architectural applications.
+
+1. Requirements Clarification
+    • Purpose: Translates highly abstract product concepts into concrete technical logic.
+    • 
+Template: "Act as a backend architect. Analyze the following requirement and produce a technical solution outline: {original requirement}. Break it down into user stories, list involved entities/relationships, design RESTful API endpoints, and highlight potential technical risks." [1]
+2. Design Review & Architecture Verification
+    • Purpose: Validates architectural frameworks for flaws, concurrency bugs, or bottlenecks before code is written.
+    • 
+Template: "You are a senior system architect. Review the following design document: {document}. Raise questions and alternative improvements regarding scalability, high availability, data consistency, and operational complexity." [, 2]
+3. Cross-Language Code Translation
+    • Purpose: Ports functional logic seamlessly between different tech stacks while conforming to modern syntax.
+    • 
+Template: "Convert the following {source language} code to {target language}. Use modern ecosystem features (e.g., modern syntax standards), preserve the original variable naming style, ensure proper exception handling, and return a complete definition." []
+4. Code Refactoring & Cleanup
+    • Purpose: Rewrites poorly structured "spaghetti code" to drastically improve performance and team readability without modifying outer outputs. [1]
+    • 
+Template: "Refactor this function for maximum readability and performance without changing its structural execution or external outputs." [1]
+5. Automated Unit Test Generation
+    • Purpose: Offloads standard assertions to the AI while guaranteeing edge cases and error bounds are covered.
+    • 
+Template: "Generate robust unit test cases for this specific function using {testing framework}. Ensure coverage for normal inputs, empty boundary values, and negative invalid cases." []
+6. Code Review & Best Practice Alignment
+    • Purpose: Simulates an independent peer review to flag performance gaps, security flaws, or styling drift.
+    • 
+Template: "Review the following code snippet for quality, adherence to standard industry design patterns, potential security concerns, and architectural maintainability." [1]
+7. Performance Optimization Tuning
+    • Purpose: Lowers time/space complexity profiles and optimizes database queries or excessive memory allocations.
+    • 
+Template: "Analyze this code block specifically for algorithmic complexity bottlenecks. Suggest optimizations using better data structures, caching mechanisms, or query adjustments under {specific constraints}." [1]
+8. Self-Documenting Code & Markdown Generation
+    • Purpose: Automatically spins up internal inline documentation or markdown files for easier engineering handovers.
+    • 
+Template: "Generate clear, structured API documentation in markdown format from this module, including function arguments, return signatures, and failure states." []
+9. Structural Error Debugging
+    • Purpose: Solves runtime errors by evaluating systemic dependencies rather than guessing single syntax fixes.
+    • 
+Template: "Explain why this code throws {error name} under runtime conditions. Provide a step-by-step root-cause analysis and a unified code fix." [1, 3]
+10. Boilerplate and Directory Scaffolding
+    • Purpose: Builds predictable file trees or placeholder structures to skip setup friction when spinning up new microservices.
+    • 
+Template: "Recommend a standardized project directory structure for a {framework} application. Provide the shell scripts or boilerplate initialization files without writing inner business logic."
+
+
+--------------------------------------------------------------------------------------
+Anatomy of an optimized prompt in 2025
+
+From research plus what devs are releasing, here’s a template that works well. Consider it as what pro devs already do.
+
+Optimized Prompt Structure 
+Template:
+
+    Role/Persona (optional but useful). “You are a senior Python developer/library maintainer” or “Act as a security-minded engineer.”
+    Context/Background. What project are we working on? What files / modules matter? Why do we require this task?
+    Task description. What do you want done exactly? (e.g. “Implement a function to calculate …”).
+    Constraints & Quality standards. If needed, limit lines. Specify style, performance, security, error handling, tests. Example: “must handle null inputs, adhere to PEP8 style, have unit tests.”
+    Examples/Edge cases. Give one or two examples or failing examples. Describe what is incorrect in edge cases.
+    Output format. Should the output be? JSON, code snippet only, comments, docstrings, all together in one file, etc.
+    Validation. Ask AI to check its own code or test edge cases. Ask for explanation or reasoning.
+    Iteration request. Refine if result is not correct. Allow follow-ups.
+
+
+--------------------------------------------------------------------------------------
+##10 Most Frequently Used AI Prompts by Programmers
+##5 Most Critical Prompt Templates
+
+1. Requirements Clarification Template
+    • When to use: Before writing any code, to translate vague product features into structured technical specifications.
+    • Template:
+      "Act as a software architect. I need to implement a feature that [describe feature, e.g., handles user subscription upgrades].Context: The current stack uses [tech stack, e.g., Node.js and PostgreSQL].
+Task: Analyze this requirement and produce a technical solution outline.
+Result Format: Provide a markdown response containing:
+        1. A list of necessary database schema modifications or new entities.
+        2. The REST API endpoints required (methods, paths, and payload shapes).
+        3. A list of edge cases, security risks, or race conditions to account for."
+		
+2. Automated Unit Test Generator
+    • When to use: To offload repetitive test writing while ensuring high coverage for boundary cases.
+    • Template:
+      "Act as a QA Engineer. Write comprehensive unit tests for the code provided below using [testing framework, e.g., Jest/PyTest].Constraints:
+        ◦ Mock all external network calls and database dependencies.
+        ◦ Include test assertions for standard expected inputs.
+        ◦ Include explicit test cases for edge cases (null values, empty strings, maximum limits).
+        ◦ Include tests for error handling and expected exceptions.
+      Code:
+      [paste code here]
+      
+3. Legacy Code Explanation Template
+    • When to use: When inheriting an undocumented codebase, a complex regex, or heavily nested logic.
+    • Template:
+      "Act as a technical educator. Walk me through the execution flow of the following code snippet.Task: Explain how this code works step-by-step to a developer unfamiliar with this module.
+Result Format:
+        1. High-level purpose (one sentence summary).
+        2. Step-by-step algorithmic breakdown.
+        3. Identification of any design patterns used.
+        4. Performance bottlenecks or hidden logic flaws.
+      Code:
+      [paste code here]
+      
+4. Architectural Refactoring Template
+    • When to use: To clean up "spaghetti code," improve maintainability, or enforce SOLID design principles.
+    • Template:
+      "Act as a Principal Software Engineer. Review and refactor the following code snippet for better readability, maintainability, and clean code standards.Constraints:
+        ◦ Do not alter the external behavior or change the output signatures.
+        ◦ Fix code smells, long methods, or violations of SOLID principles.
+      Provide:
+        ◦ The refactored code block.
+        ◦ A bulleted list explaining why each structural change was made.
+      Code:
+      [paste code here]
+      
+5. Deterministic Debugging Template
+    • When to use: To solve cryptic runtime exceptions, stack traces, or unexpected logic behaviors.
+    • Template:
+      "Act as a debugging assistant. I am encountering a runtime error and need a root-cause analysis.Context:
+        ◦ Expected behavior: [what should happen]
+        ◦ Actual behavior: [what is happening]
+        ◦ Error message / Stack trace: [paste error here]
+      Task: Review the code below, diagnose the bug, and provide a fix.Code:
+      [paste relevant code here]
+      
+
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+
