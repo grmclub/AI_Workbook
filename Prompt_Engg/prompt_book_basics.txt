@@ -107,6 +107,7 @@ Based on your previous inquiries, you have been focusing on:
 -generate
 -build
 -test
+-find bugs and suggest fixes
 
 ##work skills & productivity
 -deep dive into a skill
@@ -118,6 +119,13 @@ Based on your previous inquiries, you have been focusing on:
 
 ##marketing & sales & Auditing
 -generate mkt plan
+
+##generate content
+-text
+-image
+-audio
+-video
+
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
