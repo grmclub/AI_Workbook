@@ -3,9 +3,7 @@ https://stackoverflow.blog/engineering-leadership/
 https://stackoverflow.blog/2026/03/12/enterprise-ai-needs-more-than-foundation-models/
 
 
---------------------------------------------------------------------------------------
-Research [AI context engineering for prompts], found: [paste notes]. Synthesize: 1) Overall themes, 2) Conflicts, 3) Knowledge gaps, 4) Next steps for deeper understanding Cite every source. Flag any claim you are not confident about with [VERIFY]. Do not send or post anything. 
-
+-------------------------------------------------------------
 --What we mean by context
 
 When we talk about context in enterprise AI, we're talking about institutional knowledge: the accumulated collective wisdom that keeps your systems operating smoothly. It includes everything from your internal APIs and microservices architecture to your coding standards and style guides. Records of architectural decisions—explanations of why the organization made this or that choice—are crucial context. Context encompasses documentation about integration points and dependencies, security requirements specific to your industry, and compliance constraints that guide technical decisions.
@@ -31,7 +29,8 @@ The investment required to build that context is significant: You need technical
 As we’ve suggested, context is the difference between “we’re experimenting with AI” and “AI is core to how we increase efficiency, reduce burnout, and scale responsibly.” Once you’ve built that context layer, AI stops being a novelty and starts being an integral part of your infrastructure—one your developers can depend on.
 
 
---------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
