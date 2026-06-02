@@ -1,5 +1,147 @@
 
---------------------------------------------------------------------------------------
+-------------------------------------------------------------
+##Research Synthesis
+
+##Deep Research — Multi-Source Synthesis
+
+P:
+
+I need a research brief on [topic, company, or technology]. Do the following in sequence:
+
+Step 1: Search external sources for recent developments — focus on facts, announcements, and concrete data. No opinion pieces.
+
+Step 2: Synthesise both into a research brief with:
+- What we already know internally (from Step 1)
+- What is new or has changed recently (from Step 2)
+- The 3 most important things to understand about this topic right now
+- Gaps — what we do not know that we should
+
+Cite every source. Flag any claim you are not confident about with [VERIFY]. Do not send or post anything.
+
+===============
+##Use Case: Consolidate research findings of [topic]
+
+Cite every source. Flag any claim you are not confident about with [VERIFY]. Do not send or post anything.
+Research [AI context engineering for prompts], found: [paste notes]. Synthesize: 1) Overall themes, 2) Conflicts, 3) Knowledge gaps, 4) Next steps for deeper understanding Cite every source. Flag any claim you are not confident about with [VERIFY]. Do not send or post anything. 
+
+P:
+Research [modern c++ internals], found: [paste notes]. Synthesize: 1) Overall themes, 2) Conflicts, 3) Knowledge gaps, 4) Next steps for deeper understanding. 
+
+P:
+Research [modern c++ interview questions], found: [paste notes]. Synthesize: 1) Overall themes, 2) Conflicts, 3) Knowledge gaps, 4) Next steps for deeper understanding Cite every source. Flag any claim you are not confident about with [VERIFY]. Do not send or post anything. 
+================
+
+-------------------------------------------------------------
+##Strategic Engineering Roadmap
+
+Best for: Team planning or technical vision.
+
+"We are looking to modernize our [Area, e.g., build system/CI/CD pipeline] to support [Goal, e.g., faster feedback loops/developer velocity]. Research the current state-of-the-art for [Topic] in 2026. Create a 3-phase adoption roadmap:
+
+Phase 1 (Immediate): Low-effort, high-impact changes.
+
+Phase 2 (Mid-term): Structural improvements.
+
+Phase 3 (Long-term): Ideal state.
+Include a section on 'Risk Mitigation' for each phase to ensure we don't break production."
+
+-------------------------------------------------------------
+--Data Analysis-1
+Analyze this dataset and tell the data story:
+1) Key trends over time
+2) Notable outliers or anomalies with potential explanations
+3) Correlations or relationships between variables
+4) Segments or clusters in the data
+5) Unexpected findings
+6) Business implications of each insight
+7) Recommended actions based on analysis
+
+Create visualizations for top 3 insights and provide narrative explanations suitable for presentation.
+
+================
+--Data Analysis-2
+Analyze this data: [paste]. Provide: 1) Key trends/patterns, 2) Outliers/anomalies, 3) What it tells us, 4) Issues/red flags, 5) Recommended actions. Business terms, not statistics jargon.
+
+================
+
+--Data Analysis-3
+Analyze this dataset and tell the data story: 1) Key trends over time, 2) Notable outliers or anomalies with potential explanations, 3) Correlations or relationships between variables, 4) Segments or clusters in the data, 5) Unexpected findings, 6) Business implications of each insight, 7) Recommended actions based on analysis. Create visualizations for top 3 insights and provide narrative explanations suitable for presentation.
+
+-------------------------------------------------------------
+##Documentation
+
+For xx team and yy application. Generate 10 FAQs: 1) Mix basic and advanced, 2) Cover benefits/costs/how-to/concerns, 3) Draft clear answers (2-3 sentences each), 4) Flag need for detail
+
+=======================
+## Quick Reference Guide
+
+Use Case: Creating handy reference materials
+
+Target Personas: Professional, New Employee, Trainer, Technical Writer, Manager
+
+P:
+
+Create reference guide for [process/topic] for desk. Include: 1) Common use cases, 2) Step-by-step each, 3) Mistakes to avoid, 4) Troubleshooting, 5) Resources. Scannable and action-oriented.
+
+================
+## Explain Complex Topic Simply
+
+Use Case: Understanding complex subjects quickly
+
+Target Personas: Professional, Student, Manager, Executive, Researcher
+
+P:
+
+Explain [complex topic] to me like I'm [age/profession with no background]. Use analogies and real-world examples. 3-5 key concepts. No jargon unless explained.
+
+## Process Documentation
+
+Use Case: Creating clear process documentation
+
+Target Personas: Professional, Manager, Technical Writer, Trainer, Operations Manager
+
+P:
+
+Document [task/workflow]. Format: 1) When to use, 2) What you need, 3) Step-by-step, 4) Common mistakes/avoid, 5) Know you're done, 6) Troubleshooting. For first-timers.
+
+================
+##Technical Specification Extractor
+
+Use Case: Extracting requirements from RFPs, specs, or technical docs
+
+P:
+
+extracting structured data from a technical document.
+
+Task: Extract all specifications, requirements, and constraints.
+
+Instructions:
+1. Identify the document type and domain
+2. Extract specifications in these categories:
+   - Functional requirements (what it must DO)
+   - Technical specifications (measurements, materials, standards)
+   - Constraints (limitations, exclusions, boundaries)
+   - Dependencies (what it relies on)
+   - Acceptance criteria (how to verify)
+
+Output Format:
+For each extracted item, provide:
+| ID | Category | Specification Text | Source (page/section) | Confidence |
+
+Confidence levels:
+- HIGH: Explicitly stated with clear values
+- MEDIUM: Stated but requires interpretation
+- LOW: Implied or partially visible
+
+Constraints:
+- Only extract what is explicitly written
+- Do not infer specifications from context
+- Mark any ambiguous items for human review
+- Preserve original terminology and units
+
+================
+
+-------------------------------------------------------------
 ##Analysis & Reasoning
 
 Task: Analyze the provided information for risks.
@@ -75,151 +217,10 @@ Constraints:
 - Mark items based on assumptions with [Assumed]
 - Limit to 3-5 items per quadrant (focus on significant ones)
 - Do not invent factors not mentioned or implied
-
---------------------------------------------------------------------------------------
---Data Analysis-1
-Analyze this dataset and tell the data story:
-1) Key trends over time
-2) Notable outliers or anomalies with potential explanations
-3) Correlations or relationships between variables
-4) Segments or clusters in the data
-5) Unexpected findings
-6) Business implications of each insight
-7) Recommended actions based on analysis
-
-Create visualizations for top 3 insights and provide narrative explanations suitable for presentation.
-
-================
---Data Analysis-2
-Analyze this data: [paste]. Provide: 1) Key trends/patterns, 2) Outliers/anomalies, 3) What it tells us, 4) Issues/red flags, 5) Recommended actions. Business terms, not statistics jargon.
-
-================
-
---Data Analysis-3
-Analyze this dataset and tell the data story: 1) Key trends over time, 2) Notable outliers or anomalies with potential explanations, 3) Correlations or relationships between variables, 4) Segments or clusters in the data, 5) Unexpected findings, 6) Business implications of each insight, 7) Recommended actions based on analysis. Create visualizations for top 3 insights and provide narrative explanations suitable for presentation.
-
---------------------------------------------------------------------------------------
-##Documentation
-
-For xx team and yy application. Generate 10 FAQs: 1) Mix basic and advanced, 2) Cover benefits/costs/how-to/concerns, 3) Draft clear answers (2-3 sentences each), 4) Flag need for detail
-
-=======================
-
-## Quick Reference Guide
-
-Use Case: Creating handy reference materials
-
-Target Personas: Professional, New Employee, Trainer, Technical Writer, Manager
-
-P:
-
-Create reference guide for [process/topic] for desk. Include: 1) Common use cases, 2) Step-by-step each, 3) Mistakes to avoid, 4) Troubleshooting, 5) Resources. Scannable and action-oriented.
-
-================
-## Explain Complex Topic Simply
-
-Use Case: Understanding complex subjects quickly
-
-Target Personas: Professional, Student, Manager, Executive, Researcher
-
-P:
-
-Explain [complex topic] to me like I'm [age/profession with no background]. Use analogies and real-world examples. 3-5 key concepts. No jargon unless explained.
-
-## Process Documentation
-
-Use Case: Creating clear process documentation
-
-Target Personas: Professional, Manager, Technical Writer, Trainer, Operations Manager
-
-P:
-
-Document [task/workflow]. Format: 1) When to use, 2) What you need, 3) Step-by-step, 4) Common mistakes/avoid, 5) Know you're done, 6) Troubleshooting. For first-timers.
-
-================
-##Technical Specification Extractor
-
-Use Case: Extracting requirements from RFPs, specs, or technical docs
-
-P:
-
-extracting structured data from a technical document.
-
-Task: Extract all specifications, requirements, and constraints.
-
-Instructions:
-1. Identify the document type and domain
-2. Extract specifications in these categories:
-   - Functional requirements (what it must DO)
-   - Technical specifications (measurements, materials, standards)
-   - Constraints (limitations, exclusions, boundaries)
-   - Dependencies (what it relies on)
-   - Acceptance criteria (how to verify)
-
-Output Format:
-For each extracted item, provide:
-| ID | Category | Specification Text | Source (page/section) | Confidence |
-
-Confidence levels:
-- HIGH: Explicitly stated with clear values
-- MEDIUM: Stated but requires interpretation
-- LOW: Implied or partially visible
-
-Constraints:
-- Only extract what is explicitly written
-- Do not infer specifications from context
-- Mark any ambiguous items for human review
-- Preserve original terminology and units
-
-================
---------------------------------------------------------------------------------------
-##Research Synthesis
-
-##Deep Research — Multi-Source Synthesis
-
-P:
-
-I need a research brief on [topic, company, or technology]. Do the following in sequence:
-
-Step 1: Search external sources for recent developments — focus on facts, announcements, and concrete data. No opinion pieces.
-
-Step 2: Synthesise both into a research brief with:
-- What we already know internally (from Step 1)
-- What is new or has changed recently (from Step 2)
-- The 3 most important things to understand about this topic right now
-- Gaps — what we do not know that we should
-
-Cite every source. Flag any claim you are not confident about with [VERIFY]. Do not send or post anything.
-
-===============
-Use Case: Consolidate research findings of [topic]
-
-P:
-
-Research [modern c++ internals], found: [paste notes]. Synthesize: 1) Overall themes, 2) Conflicts, 3) Knowledge gaps, 4) Next steps for deeper understanding. 
-
-Cite every source. Flag any claim you are not confident about with [VERIFY]. Do not send or post anything.
-
-================
-P:
-Research [modern c++ interview questions], found: [paste notes]. Synthesize: 1) Overall themes, 2) Conflicts, 3) Knowledge gaps, 4) Next steps for deeper understanding Cite every source. Flag any claim you are not confident about with [VERIFY]. Do not send or post anything. 
-
-
---------------------------------------------------------------------------------------
-##Strategic Engineering Roadmap
-
-Best for: Team planning or technical vision.
-
-    "We are looking to modernize our [Area, e.g., build system/CI/CD pipeline] to support [Goal, e.g., faster feedback loops/developer velocity]. Research the current state-of-the-art for [Topic] in 2026. Create a 3-phase adoption roadmap:
-
-        Phase 1 (Immediate): Low-effort, high-impact changes.
-
-        Phase 2 (Mid-term): Structural improvements.
-
-        Phase 3 (Long-term): Ideal state.
-        Include a section on 'Risk Mitigation' for each phase to ensure we don't break production."
-
---------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
 
