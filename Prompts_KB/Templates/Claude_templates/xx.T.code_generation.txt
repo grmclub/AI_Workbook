@@ -1,0 +1,106 @@
+
+-------------------------------------------------------------
+These ready-to-use, copy-and-paste templates optimize Claude's extended reasoning capabilities to turn it into a highly specialized assistant.
+
+/1. The Deep Code & Architecture Analyzer
+Perfect for debugging or scanning full repositories. 
+
+Medium·Ravindu Himansha
+text
+Act as a Principal Software Engineer. I am pasting my entire codebase below. 
+Please review it for the following:
+1. Security vulnerabilities and weak authentication flows.
+2. Performance bottlenecks and memory leaks.
+3. Code duplication and adherence to DRY principles. 
+4. Missing edge-case tests.
+
+Present your findings in a structured, prioritized list, and provide fixed code blocks for any high-severity bugs you discover.
+
+
+/2. The Context-Aware Bug Hunter
+Ideal for complex, multi-file bugs where you need the AI to connect the dots.
+text
+Act as a Senior Staff Debugger. I am providing the stack trace and the relevant modules of my application.
+1. Trace the root cause of the error.
+2. Formulate a list of hypotheses for why this error is occurring.
+3. Evaluate each hypothesis against the provided code.
+4. Output the exact refactored code and write a unit test to ensure it doesn't happen again.
+
+[Insert Stack Trace]
+[Insert Code/Files]
+
+
+/3. The Enterprise UX/UI Auditor
+Great for frontend optimization and improving user retention. 
+
+Medium·Patrick Neeman
+text
+Act as a Lead Product Designer. I am uploading screenshots or a text description of my application's user flow. 
+Please evaluate the interface for:
+1. Cognitive load and user friction.
+2. Clear and logical affordances.
+3. Accessibility and responsiveness issues.
+
+Provide a critique structured by "Problem", "Reason", and "Actionable Fix". Rank the issues by their impact on the user experience.
+
+/4. The Data-Driven Strategy Consultant
+Perfect for processing large datasets, financial documents, or strategy reports.
+text
+Act as an Executive Management Consultant. I am attaching a large body of data/documents. 
+Analyze this data and provide:
+1. An executive summary of the key findings.
+2. Three major risks or blindspots that are not immediately obvious.
+3. A strategic recommendation on how to proceed based purely on the evidence.
+
+Keep your response data-driven and concise.
+
+/5. The De-Robotifier
+Use this to fix stiff, overly corporate, or AI-generated text. 
+
+Facebook·Austin Armstrong
+text
+Here is content that sounds too generic or stiff:
+"[Insert Text]"
+
+Rewrite this to sound natural, warm, and conversational. Remove any corporate speak or jargon. Make it sound like expert advice from a knowledgeable friend, not an automated manual. Keep the key information but humanize the delivery.
+-------------------------------------------------------------
+##Claude super prompts
+https://superprompt.com/library
+
+"Super prompts" in the Claude ecosystem combine two primary concepts: Anthropic's "Skills" feature (for creating reusable AI capabilities) and highly optimized, expert-level prompt frameworks designed to get deep, precise, and literal reasoning out of the model. 
+
+1. The Super Prompt Framework (The 6-Part Anatomy)
+To generate elite-level outputs across writing, coding, or strategy, use this modular super prompt structure: 
+
+Role: Define exactly who Claude is (e.g., “You are a Principal Software Architect with 15 years of experience in distributed systems...”).
+Context: Provide background on your constraints, audience, or brand.
+Objective: State clearly what needs to be done.
+Reasoning: Instruct the model to draft its logic step-by-step before executing the work.
+Output Schema: Define the exact formatting (e.g., “Respond with an array of markdown tables” or “1. Context, 2. Root Cause, 3. Fix”).
+Hard Limits: Avoid vague words like "be concise". Use explicit limits: “Maximum 3 sentences” or “Limit to exactly 5 bullet points”. 
+
+2. High-Utility "Super Prompt" Templates
+For Pressure-Testing a Business Idea
+Copy and paste this when evaluating a new venture: 
+Act as a veteran venture capitalist who reviews thousands of pitches. Pressure-test my business idea. Do not be polite. My idea is: [Insert Idea]. First, detail the 5 most likely ways this business will fail. Next, analyze 3 existing alternatives that customers currently use, and explain exactly how to pull customers away from them. Finally, give me a brutally honest assessment: Would you invest your own money, and what must change for that answer to be yes?
+For Code & System Architecture
+Use this framework to force robust, accessible, and documented code: 
+
+Act as a Senior Full-Stack Engineer. I need you to implement a [Feature Name]. Before writing any code, outline your architectural philosophy, edge-case handling strategy, and any accessibility considerations. Ensure the solution is modular. Output the response in three sections: 1) Architecture & Flow (bullet points), 2) Implementation Details (code blocks), and 3) Testing & Validation steps.
+For Copywriting & Content Creation
+Use this for safe yet creative variations: 
+
+I need a piece of marketing copy for a [Product/Service]. First, analyze the target audience. Next, generate two distinct drafts: Draft 1 should be conventional, safe, and highly structured. Draft 2 should take a real creative risk. Afterward, provide a brief critique comparing the two in a markdown table.
+
+3. "Skills" (Claude's Built-In Super Prompts)
+If you are tired of typing massive, repetitive prompts, you can use Claude’s built-in Skills feature. 
+What it is: Instead of re-explaining your work methodology every time, you can instruct Claude to build reusable, composable capabilities (e.g., a "Job Search Strategist" or "Financial Analyzer").
+How to use: Store your context, step-by-step instructions, and formatting preferences in a markdown file. Claude can then access these files in any conversation, allowing you to invoke complex multi-step workflows with a single click.
+
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------

@@ -1,0 +1,175 @@
+
+-------------------------------------------------------------
+But Claude can create real spreadsheets, documents, presentations, reports, and PDFs you can actually use.
+Here are 10 useful files Claude can build in minutes 
+
+1. WEEKLY PLANNER
+Stop starting every week with a messy to-do list.
+Ask Claude to create a weekly planning file with your priorities, deadlines, meetings, and daily focus blocks.
+Use this prompt:
+“Create a clean weekly planner for my role as [INSERT ROLE].
+Include:
+1. top priorities
+2. deadlines
+3. meetings
+4. daily focus blocks
+5. quick tasks
+6. follow-ups
+7. end-of-week review
+Format it as a professional document I can use immediately.”
+
+2. SOP DOCUMENT
+If you repeat the same task more than once, turn it into a system.
+Use this prompt:
+“Turn this workflow into a clear SOP document:
+[PASTE WORKFLOW]
+Include:
+1. purpose
+2. tools needed
+3. step-by-step instructions
+4. common mistakes
+5. quality checks
+6. final checklist
+Make it simple enough that someone else can follow it without asking questions.”
+
+3. CONTENT CALENDAR
+Claude can create a full content calendar instead of giving you random ideas.
+Use this:
+“Create a 30-day content calendar for:
+[INSERT BRAND OR NICHE]
+Include:
+1. topic
+2. hook
+3. format
+4. main angle
+5. CTA
+6. posting goal
+Organize everything in a clean spreadsheet-style table.
+Balance educational, relatable, authority-building, and sales content.”
+
+4. CLIENT PROPOSAL
+Stop writing every proposal from scratch.
+Use this prompt:
+“Create a professional client proposal for this service:
+[INSERT SERVICE]
+The client problem is:
+[INSERT PROBLEM]
+Include:
+1. client pain point
+2. proposed solution
+3. deliverables
+4. timeline
+5. pricing structure
+6. what is included
+7. next steps
+Keep the writing clear, confident, and easy to understand.”
+
+5. RESEARCH BRIEF
+Turn messy notes, articles, and findings into one clean report.
+Use this:
+“Create a structured research brief from this material:
+[PASTE NOTES OR INFORMATION]
+Include:
+1. executive summary
+2. key insights
+3. useful facts
+4. recurring patterns
+5. opportunities
+6. risks
+7. unanswered questions
+8. recommended next steps
+Keep it practical and easy to scan.”
+
+6. MEETING SUMMARY
+Your notes should turn into actions, not disappear inside a chat.
+Use this:
+“Turn these raw meeting notes into a professional meeting summary:
+[PASTE NOTES]
+Include:
+1. main discussion points
+2. decisions made
+3. action items
+4. who owns each task
+5. deadlines
+6. blockers
+7. next meeting agenda
+Make it short enough to send to the team.”
+
+7. BUDGET TRACKER
+Claude can build a simple spreadsheet for your personal or business finances.
+Use this prompt:
+“Create a monthly budget tracker.
+Include:
+1. income
+2. fixed expenses
+3. variable expenses
+4. subscriptions
+5. savings
+6. debts
+7. remaining balance
+8. weekly spending limits
+9. monthly review section
+Format it as a clean spreadsheet with clear categories and formulas.”
+
+8. PRESENTATION
+Do not start every presentation from an empty slide.
+Use this:
+“Create a professional presentation about:
+[INSERT TOPIC]
+Audience:
+[INSERT AUDIENCE]
+Goal:
+[EDUCATE / SELL / EXPLAIN / TRAIN]
+Include:
+1. strong opening
+2. why the topic matters
+3. key points
+4. examples
+5. practical steps
+6. common mistakes
+7. final summary
+8. clear CTA
+Keep each slide focused on one idea.”
+
+9. RESUME + COVER LETTER
+Claude can turn your experience into a clean application pack.
+Use this:
+“Create a professional resume and matching cover letter for this job:
+[PASTE JOB DESCRIPTION]
+My experience:
+[PASTE EXPERIENCE]
+Highlight:
+1. relevant skills
+2. measurable achievements
+3. strongest experience
+4. keywords from the job description
+5. why I am a good fit
+Keep the tone professional and natural.”
+
+10. PROMPT LIBRARY
+Stop rewriting your best prompts every week.
+Build your own prompt vault.
+Use this:
+“Create a reusable prompt library for my work in:
+[INSERT ROLE OR NICHE]
+Organize the file into categories.
+For every prompt, include:
+1. prompt name
+2. use case
+3. full prompt
+4. when to use it
+5. what information I need to add
+6. tips to improve the result
+Make it easy to search and reuse.”
+
+IMPORTANT:
+Always review the final file before using it.
+Check the numbers, formulas, claims, formatting, and any sensitive information.
+Claude saves time.
+
+You still make the final decision.
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------

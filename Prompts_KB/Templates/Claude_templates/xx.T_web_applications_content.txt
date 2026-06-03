@@ -1,0 +1,38 @@
+
+-------------------------------------------------------------
+##web content building prompts
+
+1/ The Website Blueprint Prompt
+
+"Act as a senior full-stack web developer who has built 500+ professional websites for startups and businesses. I need a complete website for my [type of business]. Before writing any code, give me a full site architecture: every page I need, the navigation structure, the content hierarchy for each page, and the tech stack you recommend. My business: [describe business, audience, and goal of the site]"
+Skipping this step is why most AI websites look like garbage.
+
+
+2/ The Homepage Builder Prompt
+
+"Now build me a complete, responsive homepage using HTML, CSS, and JavaScript. Include: a hero section with a headline that sells, a benefits section, social proof/testimonials area, a features breakdown, and a clear CTA above and below the fold. Make it modern, clean, mobile-first, and use a professional color palette that fits my brand. Add smooth scroll animations. Here's my brand info: [paste details]"
+
+3/ The Full Page Generator Prompt
+
+"Build me fully coded, responsive pages for: About, Services, Pricing, and Contact. Each page must match the homepage design system — same fonts, colors, spacing, and component style. The About page should tell a story. The Services page should sell. The Pricing page should use a 3-tier comparison table. The Contact page should include a working form layout. Here's my business info: [paste details]"
+
+4/ The Mobile & Speed Optimization Prompt
+
+"Audit every page you just built. Check for: mobile responsiveness across all screen sizes, image optimization suggestions, lazy loading implementation, proper meta tags for SEO, fast load time best practices, and accessibility compliance (contrast, alt text, keyboard navigation). Fix every issue you find and give me the updated code."
+
+
+5/ The SEO Foundation Prompt
+
+"Now add a full technical SEO foundation to every page. Include: proper title tags and meta descriptions written to get clicks, Open Graph tags for social sharing, schema markup for my business type, a sitemap.xml structure, semantic HTML tags throughout, and header hierarchy that Google will love. Give me the updated code with everything implemented."
+
+
+6/ The Launch Checklist Prompt
+
+"Act as my technical project manager. Give me a complete launch checklist for this website. Include: how to deploy it for free using [Netlify/Vercel/GitHub Pages], how to connect a custom domain, how to set up Google Analytics and Search Console, SSL setup, how to test everything before going live, and a post-launch SEO submission plan. Make it step-by-step so a complete beginner can follow it."
+
+
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------

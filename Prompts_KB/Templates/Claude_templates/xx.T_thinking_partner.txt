@@ -1,0 +1,102 @@
+
+-------------------------------------------------------------
+##10 prompts as thinking partner.
+
+Prompt 1: The Context Brief
+Stop Asking Blind Questions — Build the Map First
+You are helping me with [specific goal].
+My background: [your role + project + key constraints].
+I've already tried: [X and Y].
+I'm currently stuck on: [Z].
+My deadline/stakes: [timeline or what's at risk].
+Before suggesting anything — confirm you've understood the full picture.
+Ask clarifying questions if something is missing.
+
+Prompt 2: Force Visible Reasoning
+Don't Just Want the Answer. Demand the Process Behind It.
+Before giving any final recommendation, do the following:
+- Walk through your full step-by-step reasoning out loud
+- List every assumption you're making, explicitly
+- Flag your confidence level on each key point (low / medium / high)
+- Note where you're uncertain or where evidence is thin
+- Only then — deliver your final, polished answer
+I want to audit the thinking, not just trust the output.
+
+Prompt 3: The Honesty Override
+Claude Is Trained to Be Helpful. That Sometimes Means Softening Hard Truths. Shut It Down.
+For this conversation: be direct and unflinching.
+If my idea has a fatal flaw, name it clearly — don't bury it in qualifications.
+If something won't work, say it won't work.
+Skip the reassuring language. Skip the "however, on the bright side."
+I'd rather hear the hard truth now than learn it the expensive way later.
+Your job here isn't to make me feel good. It's to make sure I don't fail.
+
+Prompt 4: Hyper-Specific Role
+"Act as an Expert" Gives You Generic Answers. This Gives You Surgical Precision.
+You are a [very specific role — e.g., "B2B SaaS growth strategist"] with [X years] of hands-on experience.
+You've personally seen [specific failure modes — e.g., "startups burn budget on acquisition before fixing retention"].
+You think using [a real framework — e.g., "Jobs-to-be-Done" or "First Principles"].
+Your communication style: direct, no filler, no textbook definitions.
+Only reference patterns that come from real-world observation, not theory.
+
+Prompt 5: Red Team Mode
+Claude Defaults to Agreement. This Breaks That Completely.
+I'm going to share a plan. Your only job is to break it.
+Don't look for what's right. Look for:
+- Every flawed assumption baked into this
+- Risks I haven't accounted for
+- Second and third-order consequences I'm ignoring
+- The most likely reason this fails in the real world
+Don't soften it. Don't balance it with positives.
+Pure red team. Go.
+[paste your plan here]
+
+Prompt 6: Scope Lock
+Claude Will Confidently Wander Into Territory It Doesn't Know. This Stops It.
+For this entire response, stay strictly within [your defined scope — e.g., "what's supported by published clinical research from the last 5 years"].
+If something falls outside this scope, say: "Out of scope" — and stop there.
+Do not speculate. Do not fill gaps with logic.
+I'd rather have a shorter, accurate answer than a longer, unreliable one.
+
+Prompt 7: Output Format Lock
+Claude Writes Beautiful Prose by Default. Force Exactly What You Actually Need.
+Structure your entire response in exactly this format — nothing more, nothing less:
+1. One-sentence summary (plain language, no jargon)
+2. Key points (3–5 bullets max, each under 20 words)
+3. What I should do next (one clear, specific action)
+4. Biggest risk or caveat (one sentence)
+Use markdown. No intro. No outro. No extra commentary.
+
+Prompt 8: Assumption Audit
+Run This After Every Complex Answer. Most Plans Fail Because of What Nobody Questioned.
+Look back at the response you just gave me.
+List every assumption embedded in it — things you took for granted that I should verify in the real world.
+For each assumption, tell me:
+(a) What breaks if this assumption turns out to be wrong
+(b) How your recommendation would change if it's wrong
+Be thorough. Surface the hidden ones too, not just the obvious ones.
+
+Prompt 9: The Compression Loop
+Run This Every 5–6 Messages. Prevents Drift. Keeps Long Sessions Razor Sharp.
+We've covered a lot. Before we continue, compress everything:
+• Problems solved so far:
+• Key decisions made (and why):
+• Most important open questions still unresolved:
+• The single most valuable thing to focus on next:
+Keep it tight. One line per item where possible.
+
+Prompt 10: The Pre-Mortem
+Run This Before You Launch Anything. Catches What Every Other Review Misses.
+Assume this project/plan has already failed — 6 months from now.
+Write a specific post-mortem as if you're looking back on what went wrong.
+Include:
+- The top 3 most likely reasons it failed, ranked by probability
+- For each: what the early warning sign was that people ignored
+- What decision, if made differently at the start, would have changed the outcome
+Be specific. Be brutal. No generic lessons.
+[describe your project/plan here]
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
