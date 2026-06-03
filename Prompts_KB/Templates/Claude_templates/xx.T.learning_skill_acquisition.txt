@@ -1,0 +1,79 @@
+
+-------------------------------------------------------------
+explain a preparation strategy needed to [master skill] for [industry].
+suggest a timeline inside 3-4 months, resources and study plan
+
+explain a preparation strategy needed to master C++ and low-latency programming for finance.
+suggest a timeline inside 3-4 months, resources and study plan
+
+Preparation Strategy: He dedicated about 3 to 4 months to intensive study, often grinding 4–6 hours a day alongside his full-time job (6:31 - 7:12). He emphasized that while LeetCode and NeetCode were useful, the GetCracked platform provided the necessary structure and deep-dive resources for specific quant-related topics like systems design and C++ knowledge
+
+Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work
+
+-------------------------------------------------------------
+/list popular prompts for structured learning and skill acquisition
+
+The Master Roadmap
+Use this prompt to generate a complete curriculum. It establishes the AI as a curriculum developer, ensuring a logical progression from novice to advanced. 
+
+"Act as a hands-on instructional designer and skill acquisition expert. Create a structured, actionable learning plan for me to master [insert skill/topic]. Break the journey down into 5 progressive phases. For each phase, provide: 1) Core concepts to study, 2) Recommended learning resources, 3) Practical hands-on exercises, and 4) How to know when I am ready for the next level."
+
+The 80/20 Rule (Pareto Principle)
+Accelerate your learning curve by focusing only on the 20% of concepts that yield 80% of the results. 
+"I want to learn [insert topic] as quickly as possible. Analyze the subject and identify the most important 20% of concepts that will give me 80% of the practical understanding. Present these core concepts to me and outline exactly how they connect to real-world applications."
+
+The Feynman Technique
+This forces the AI to check your understanding of a concept, identify knowledge gaps, and force active recall. 
+"I am learning about [insert topic]. Explain this concept to me using simple analogies and everyday comparisons, avoiding advanced jargon. Once finished, ask me 3-5 critical thinking questions to test my understanding. Review my answers, identify any gaps in my knowledge, and re-explain the areas I misunderstood."
+
+The Beginner Mistake Identifier
+Skip common pitfalls that waste time by asking experienced practitioners what beginners get wrong. 
+"Act as a seasoned mentor in [insert field/profession]. List the 5 most common and time-wasting mistakes beginners make when starting out in this field. For each mistake, explain why it happens and provide actionable advice on how I can avoid it and fast-track my learning."
+
+The Practice Builder
+Shift from theory to application by having the AI generate real-world projects and tests. 
+"I am trying to develop my skills in [insert skill]. Generate a set of 3 practical, real-world scenarios or exercises for me to attempt. Do not provide the solutions yet. Once I complete them and submit my answers, evaluate my work, highlight my strengths, and point out areas where I can improve."
+
+The Skill ladder
+Map out exactly what a skill looks like at different stages so you can track your ongoing progress. 
+"Map the skill of [insert skill] into 5 clear levels: 1) Complete Beginner, 2) Advanced Beginner, 3) Competent, 4) Proficient, and 5) Expert. For each level, describe exactly what I should be able to do, the core concepts to study, and the criteria for knowing I am ready to advance to the next level."
+
+-------------------------------------------------------------
+ROLE:
+You are a learning coach renowned for your ability to help people master complex skills in record time. You have deep expertise in accelerated learning, deliberate practice, and skill acquisition.
+
+TASK:
+
+Guide a learner through the process of rapidly acquiring a new complex skill. Break down the skill into key components, share techniques for deliberate practice, and provide a step-by-step roadmap to mastery. Offer motivation and troubleshooting tips to overcome obstacles.
+
+RESPONSE FORMAT
+
+Respond using the following RESPONSE FORMAT
+
+EACH OF THESE AS HEADINGS IN MARKDOWN WITH BULLETS:
+
+skill - The complex skill to be mastered
+
+subskills - Key component subskills that comprise the complex skill
+
+deliberate practice techniques - Specific techniques for deliberate practice of each subskill
+
+mastery roadmap - Step-by-step roadmap from beginner to mastery
+
+obstacles - Common obstacles and plateaus in the skill acquisition process
+
+troubleshooting - Troubleshooting tips and techniques to overcome obstacles
+
+motivation - Motivational advice and encouragement for the skill acquisition journey
+
+EXAMPLES [INSERT EXAMPLES HERE]
+
+COMPLEX SKILL TO BE LEARNED
+
+[INSERT HERE]
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
