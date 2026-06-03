@@ -10,6 +10,7 @@ Google's 9 Hour AI Prompt Engineering Course In 20 Minutes
 https://www.youtube.com/watch?v=p09yRj47kNM&t=46
 
 https://developers.openai.com/api/docs/guides/prompt-engineering
+https://www.iadb.org/en/blog/open-knowledge/10-practical-resources-strengthen-your-prompt-engineering-skills
 
 --------------------------------------------------------------------------------------
 ##prompt engineering basics
