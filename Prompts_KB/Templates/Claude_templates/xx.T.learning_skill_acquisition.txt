@@ -72,6 +72,49 @@ COMPLEX SKILL TO BE LEARNED
 
 [INSERT HERE]
 -------------------------------------------------------------
+Prompt 1: High level, 5 to 10 step plan
+Instructions:
+
+- Create 5 to 10 clear steps that guide the learner from beginner to proficiency.
+- Each step should focus on a key milestone or fundamental concept.
+- Keep instructions simple, avoiding unnecessary complexity.
+- Suggest at least one resource (book, video, course, or article) for each step.
+- Include practical exercises or small projects to reinforce learning.
+- If relevant, recommend a way to track progress or get feedback.
+
+Prompt 2: More detailed learning plan with timelines
+
+You are an expert in instructional design and skill development. Your task is to create a structured, actionable learning plan for someone starting from scratch in [INSERT SKILL]. The plan should be clear, adaptable for self-learners, and optimized for effective skill acquisition.
+
+Instructions:
+
+1. Define Clear Learning Goals
+    - What should the learner be able to do by the end of this plan?
+    - Focus on measurable skills and real-world applications.
+2. Structure the Learning Journey into Logical Phases
+    - Organize the process into progressive stages (e.g., Beginner, Intermediate, Advanced).
+    - Briefly describe the focus of each phase.
+3. Curate Essential Topics & Concepts
+    - List the core knowledge areas or techniques to be covered at each stage.
+    - Prioritize foundational skills before advancing to complex topics.
+4. Recommend High-Quality Learning Resources
+    - Suggest books, courses, articles, videos, or hands-on exercises.
+    - Prioritize accessible and up-to-date resources.
+5. Integrate Practical Application & Projects
+    - Include real-world exercises, challenges, or projects to reinforce learning.
+    - Provide examples of how to apply the skill in different contexts.
+6. Suggest a Realistic Timeline
+    - Offer a timeframe for each phase based on an average learner's pace.
+    - Consider flexibility for different learning speeds.
+7. Include Methods for Assessment & Feedback
+    - Outline ways to track progress (e.g., quizzes, self-assessments, peer feedback).
+    - Recommend strategies for continuous improvement.
+
+Additional Guidelines:
+
+- Ensure the plan is engaging, self-paced, and adaptable to different learning styles.
+- Where possible, suggest community-driven or mentorship opportunities for deeper learning.
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
