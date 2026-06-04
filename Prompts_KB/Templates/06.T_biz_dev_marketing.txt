@@ -29,6 +29,108 @@ a. Pick the product
 5. Feed it content
 "Give me 5 phone-friendly post ideas that show the result of my product so people DM me. No pitching."
 -------------------------------------------------------------
+##7 AI Prompts to Close Deals Without Ever Feeling Like a Pushy Salesperson
+
+=======================
+1. The Accusation Audit Opener
+Uncover hidden objections before the prospect even brings them up.
+
+You are an expert sales strategist trained in Chris Voss's negotiation framework. I am preparing for a meeting with a prospect. 
+
+Context:
+- [MY PRODUCT/SERVICE]:
+- [TARGET PROSPECT PROFILE]:
+- [POTENTIAL OBJECTIONS THEY HAVE (e.g., price, time, skepticism)]:
+
+Write an "Accusation Audit" opener for this meeting. List the worst things the prospect might be thinking or feeling about me, my price, or my industry. Then, turn these into 3-4 natural script options I can say at the very beginning of the call to disarm their defensiveness and show deep empathy.
+
+=======================
+2. The Calibrated Discovery Script
+Generate open-ended questions that make prospects explain their own problems.
+
+Act as a master sales coach. I want to build a discovery call script that avoids standard "yes/no" traps and instead makes the prospect open up.
+
+Context:
+- [MY SERVICE]:
+- [THE CORE PROBLEM I SOLVE]:
+
+Generate a list of 5 calibrated questions starting only with "What" or "How" based on Chris Voss's framework. The questions must guide the prospect to articulate their current pain points, the cost of doing nothing, and what a successful outcome looks like to them. Avoid any questions that can be answered with a simple "yes" or "no."
+
+=======================
+3. The Illusion of Control Guide
+Get the prospect to design the solution so they buy into the outcome.
+
+I am in a sales conversation where the prospect likes the idea but is hesitant about the execution details. 
+
+Context:
+- [SITUATION/STALL REASON]:
+- [MY GOAL]:
+
+Draft 3 calibrated responses that give the prospect the "illusion of control." Frame these responses around Chris Voss's signature question structure: "How am I supposed to do that?" and "What makes that important to you?" Adapt the wording to fit a collaborative, professional B2B or B2C sales conversation.
+
+=======================
+4. The "No" Solicitor
+Change your framing to make it safe for the prospect to disagree and open up.
+
+People feel safe when they say "No." I need to reframe my closing and scheduling questions to trigger a "No" that actually moves the deal forward.
+
+Context:
+- [CURRENT SITUATION]:
+- [DESIRED NEXT STEP (e.g., book a follow-up, sign the proposal)]:
+
+Rewrite my current closing question into 3 different "No-oriented" variations. For example, instead of "Do you have time for a call?" use "Is it a ridiculous idea to suggest a 15-minute call next week?" Ensure the tone is polite, professional, and low-pressure.
+
+=======================
+5. The Mirroring & Labeling Assistant
+Keep the prospect talking and revealing data during difficult moments.
+
+I am preparing for a live negotiation and need a cheat sheet to handle resistance on the fly without sounding defensive.
+
+Context:
+- [COMMON PROSPECT RESISTANCE PHRASE (e.g., "Your price is too high" or "We are looking at competitors")]:
+
+Provide 3 "Mirroring" responses (repeating the last few critical words) and 3 "Labeling" responses (starting with "It seems like...", "It sounds like...", or "It looks like...") to address this specific resistance. Do not offer solutions in the responses; focus purely on making the prospect expand on their statement.
+
+=======================
+6. The Late-Night FM DJ Ghosting Fixer
+Revive dead leads with a one-sentence email that triggers an immediate response.
+
+A high-value prospect has gone completely quiet after receiving my proposal. I need to send a follow-up email that gets a response without sounding needy or aggressive.
+
+Context:
+- [PROSPECT NAME]:
+- [WHAT WE DISCUSSED]:
+- [DAYS OF SILENCE]:
+
+Write a one-sentence follow-up email using Chris Voss's exact framework for ghosted leads. Use a calm, respectful, yet direct tone designed to trigger their safety mechanisms and get them to reply immediately. Provide 2 subtle variations.
+
+=======================
+7. The Value-Anchoring Counter
+Handle price objections by mapping the cost directly to their specific risks.
+
+The prospect likes my service but says, "The price is too high for our budget right now." I do not want to discount my services immediately.
+
+Context:
+- [MY PRICE]:
+- [THE PROSPECT'S ALTERNATIVE/RISK IF THEY DO NOT BUY]:
+
+Draft a response strategy using tactical empathy. First, acknowledge the reality of their budget constraints without validating the idea that the service is overpriced. Second, use calibrated questions to guide them to weigh my price against the financial cost or risk of their current problem.
+
+=======================
+CHRIS VOSS'S CORE PRINCIPLES TO REMEMBER:
+Empathy is a strategic tool: Understanding the other side’s perspective does not mean agreeing with them.
+
+Avoid the "Yes" trap: Prospects often say "yes" just to get you to leave them alone. A "no" makes them feel safe and starts the real conversation.
+
+Control the tone: Use a calm, steady, slow tone of voice to lower defenses and project confidence.
+
+Let them do the heavy lifting: Use "How" and "What" questions so the prospect explains how the problem should be solved.
+
+Label the negative: Naming a prospect's fear or hesitation out loud immediately reduces its power over the deal.
+=======================
+
+In Short
+Selling does not require a loud personality or aggressive closing scripts. By using tactical empathy, you allow the prospect to voice their concerns, feel heard, and discover the value of your solution on their own terms. Use these tools to turn stressful sales pitches into collaborative problem-solving sessions.
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------

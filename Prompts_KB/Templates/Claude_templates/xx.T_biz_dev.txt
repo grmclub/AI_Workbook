@@ -339,6 +339,32 @@ Claude is not a magic box that replaces thinking. It is a force multiplier for f
 
 The founders who figure out how to prompt AI well are operating at a fundamentally different speed than everyone else. That gap is only going to widen.
 -------------------------------------------------------------
+##Analyze Winning Projects and Improve My Own Ideas
+
+Prompt:
+
+Here’s a winning project that stood out in a recent competition: [Insert Winning Project Description]
+
+Here’s my project idea: [Insert Your Idea]
+Act as a hybrid VC strategist + design evaluator. Do a side-by-side breakdown across these dimensions:
+
+Strategic framing
+Value proposition clarity
+
+Innovation edge
+Market relevance
+
+Execution realism
+For each dimension, briefly state:
+
+What the winning project does right
+
+How my idea compares
+What leverage tactic I should adopt
+What blind spot I must address
+
+End with a 3-point upgrade summary to reframe my idea without changing its core.”
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
