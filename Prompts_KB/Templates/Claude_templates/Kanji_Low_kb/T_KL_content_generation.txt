@@ -1,0 +1,52 @@
+
+-------------------------------------------------------------
+##content generation prompts
+
+1. Content prompts that build your strategy for you.
+Act as a senior content strategist and create a 90-day Instagram content strategy for a creator in [NICHE] targeting [AUDIENCE]. Include weekly themes, content formats, and authority-building post ideas.
+Generate 30 high-performing content ideas for a creator in [NICHE]. For each idea include a hook and explain why the idea would attract attention.
+Turn the topic [TOPIC] into 10 scroll-stopping reel hooks that maximise curiosity and watch time.
+
+
+2. Understand your audience better than they understand themselves.
+Identify 10 frustrations experienced by [TARGET AUDIENCE] and explain the emotional triggers behind each problem.
+Suggest three unique positioning strategies that would help a creator in [NICHE] stand out from competitors.
+Create a detailed audience persona for [TARGET AUDIENCE], including motivations, fears, desires, and spending behaviour.
+
+3. Build a brand that actually means something.
+Write a brand positioning statement using this format: "I help [AUDIENCE] achieve [RESULT] without [COMMON PROBLEM]."
+Rewrite this Instagram bio so it sounds clearer, more confident, and authority-driven: [BIO].
+Generate 10 tagline ideas for a brand operating in the [NICHE] industry.
+
+4. Prompts that move people to buy.
+Generate 10 lead magnet ideas that creators in [NICHE] could offer to attract potential clients.
+Turn the service [SERVICE] into three irresistible offer packages with clear outcomes.
+Generate 10 marketing hooks that could be used to promote [PRODUCT].
+
+5. Stop being busy. Start getting things done.
+Design a weekly workflow system for a creator managing content creation, marketing, and client work.
+Turn this task list into a clear weekly execution plan: [TASK LIST].
+Create a content batching system that allows a creator to produce one month of content in a single day.
+
+6. Turn what you know into income.
+Generate 10 ways a creator in [NICHE] can monetise their audience.
+Suggest five digital product ideas based on this expertise: [SKILL].
+Generate 10 services creators could offer to brands in this industry.
+
+7. Build something that sells while you sleep.
+Generate 10 digital product ideas a creator in [NICHE] could sell to their audience.
+Turn the skill [SKILL] into three scalable digital product ideas with different price levels.
+Create a simple outline for a digital course teaching [TOPIC].
+
+8. The first line is everything.
+Generate 20 scroll-stopping hooks for content about [TOPIC] that trigger curiosity and make people stop scrolling.
+Rewrite this hook into 10 stronger variations that increase intrigue: [HOOK].
+Turn the topic [TOPIC] into 10 curiosity-driven content openings designed for short-form video.
+
+
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
