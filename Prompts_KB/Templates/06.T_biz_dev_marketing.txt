@@ -1,0 +1,36 @@
+
+-------------------------------------------------------------
+Prompt 1: Niche Picker
+
+"Act as a local business analyst. Identify the top 3 niches in [my city] paying $5,000+/month for a repetitive role AI can replace. Rank by payroll budget, urgency, and ease of install. Pick the winner. Use real data, not guesses."
+This kills "I don't know what niche to pick" in 30 seconds.
+
+Prompt 2: Cold Outreach Generator
+
+"Write 5 cold DMs to [niche] business owners. Under 75 words each. Open with a specific dollar amount AI can save them on payroll. No jargon. No 'AI consultant' language. End each with: 'Want me to send a 2-minute demo?'"
+This is the message that books your first 5 discovery calls.
+
+Prompt 3: Discovery Call Closer
+
+"Build me a 15-minute discovery call script for a [niche] owner. Open with: 'What's the most expensive role in your business right now?' Map 5 pain-uncovering questions, 2 objection handlers for 'I don't think AI can do that,' and a soft pitch to a 30-day pilot."
+Now nothing on a call catches you off guard.
+
+Prompt 4: Installation Playbook
+
+"Design a complete client onboarding SOP for installing Intercom AI, Helios AI, and n8n. Cover the kickoff call, tool access setup, a 14-day install timeline, success metrics, and monthly reporting. Simple enough to hand to a $300/month VA so I never touch a dashboard myself."
+
+Now you're hands-off the delivery — and free to close more.
+a. Pick the product 
+"Find me 5 digital products in [my niche] I can license or resell as my own. For each one give me the price, who buys it, and why."
+
+4. Set up the simplest store
+"I don't want a website. Give me the simplest way to sell a digital product from one link I can put in my bio. Walk me through it step by step."
+
+5. Feed it content
+"Give me 5 phone-friendly post ideas that show the result of my product so people DM me. No pitching."
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
