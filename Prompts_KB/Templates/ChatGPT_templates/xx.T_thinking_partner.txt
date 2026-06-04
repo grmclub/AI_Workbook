@@ -1,0 +1,81 @@
+
+-------------------------------------------------------------
+prompt:
+
+"You are my academic writing assistant. Help me plan and write a clear, structured paper based on this topic: [insert topic]. Start by helping me clarify my thesis and key arguments. Then guide me through building an outline with logical section breaks. As I write each paragraph, give suggestions to improve clarity, avoid repetition, and maintain an academic tone that does not sound robotic. Suggest transitions between ideas and help me stay focused on the main argument."
+
+-------------------------------------------------------------
+hese AI prompts turn those scientific principles into a practical system to help you master any skill or subject in half the time.
+
+1.The Active Recall Architect
+This prompt converts any article or text into a self-testing tool to stop passive reading.
+I am studying [TOPIC/ARTICLE CONTENT]. Act as a learning coach. Based on the text provided, generate 5 challenging open-ended questions that require me to explain the core concepts from memory. Do not provide the answers yet. After I answer, grade my responses and explain any gaps in my logic.
+
+2. The Spaced Repetition Strategist
+This prompt creates a custom schedule to ensure you don't forget what you just learned.
+I have just learned [SPECIFIC SKILL OR CONCEPT]. I want to move this into my long-term memory using spaced repetition. Create a 30-day review schedule for me. Tell me exactly which days I should review this material and provide a 3-minute "quick-fire" retrieval exercise for each session.
+
+3. The Interleaving Engine
+This prompt helps you mix different topics to build better problem-solving skills.
+I am currently learning [TOPIC A], [TOPIC B], and [TOPIC C]. Act as an educational designer. Create a practice session that interleaves these three topics. Give me a series of problems or scenarios where I have to quickly switch between applying the principles of each topic. Explain how these concepts overlap.
+
+4. The Elaboration Specialist
+This prompt forces you to connect new information to things you already know.
+I am trying to understand [NEW CONCEPT]. To help me remember it, ask me 3 deep questions that force me to relate [NEW CONCEPT] to [A TOPIC YOU ALREADY UNDERSTAND WELL]. Guide me through the process of building a mental bridge between these two ideas using metaphors.
+
+5. The Desirable Difficulty Designer
+This prompt makes the material harder to learn so it is harder to forget.
+I find [SUBJECT] too easy and I am worried I won't retain it. Take the following information: [PASTE NOTES]. Rewrite this information by adding "desirable difficulties." Create puzzles, fill-in-the-blank challenges, or "reverse engineering" tasks that force me to work harder to process the information.
+
+6. The Mental Model Refiner
+This prompt uses the Feynman Technique to ensure you actually understand the "why" behind the "what."
+Explain [COMPLEX TOPIC] to me as if I am 10 years old. Once you provide the explanation, ask me to explain a specific part of it back to you. If my explanation is too technical or uses jargon, point it out and ask me to simplify it further until the core idea is crystal clear.
+
+7. The Meeting-to-Memory Converter
+This prompt turns your passive meeting notes into a retrieval practice test.
+Here are my notes from [MEETING/LECTURE]: [PASTE NOTES]. Instead of summarizing them, turn these notes into a "Retrieval Test." Give me 5 "What if?" scenarios based on these notes that require me to apply the decisions made in the meeting to a new problem.
+
+MAKE IT STICK CORE PRINCIPLES TO REMEMBER:
+Retrieval is Key: Pulling facts from memory strengthens the brain's pathways.
+Space It Out: Information is better retained when study sessions are spread apart.
+Interleave Your Study: Mix different subjects to learn how to pick the right tool for the job.
+Embrace the Struggle: When learning feels hard, you are actually learning more.
+Avoid Re-reading: Highlighting and re-reading create a false sense of knowledge.
+
+MINDSET SHIFT
+Before every study session, ask:
+"Am I just looking at this information, or could I explain it if the book was closed?"
+"How does this new idea connect to something I already know?"
+
+In Short
+Learning is about how much you can retrieve when the pressure is on. By using these prompts, you move away from passive consumption and toward active mastery. Stop trying to memorize and start trying to remember.
+
+-------------------------------------------------------------
+##getting ChatGPT to actually think instead of just respond
+
+Don't answer my question yet.
+
+First do this:
+
+1. Tell me what assumptions I'm making 
+   that I haven't stated out loud
+
+2. Tell me what information would 
+   significantly change your answer 
+   if you had it
+
+3. Tell me the most common mistake people 
+   make when asking you this type of question
+
+Then ask me the one question that would 
+make your answer actually useful for my 
+specific situation rather than anyone 
+who might ask this
+
+Only after I answer — give me the output
+
+My question: [paste anything here]
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
