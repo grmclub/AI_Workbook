@@ -1,0 +1,344 @@
+
+-------------------------------------------------------------
+would actually present to investors.
+
+Here is everything I learned.
+
+THE 6 PRINCIPLES THAT MAKE CLAUDE ACTUALLY USEFUL
+
+Before I give you the prompts, you need to understand why they work. These six principles are the foundation.
+=======================
+1. Load the context before you ask the question
+
+This is the single biggest mistake people make. They ask Claude a strategic question with zero background, and then complain that the answer is generic.
+
+Claude is not generic. Your prompt is generic.
+
+Before you ask anything, give Claude your company stage, team size, revenue range, industry, customer profile, and any relevant constraints. You do not need to write a novel. Three to five sentences of context will transform the output from MBA-textbook filler into something that actually applies to your situation.
+
+Bad: Help me figure out my pricing.
+
+Good: We are a B2B SaaS startup with 200 paying customers averaging $45/month. Our CAC is around $120 and our main competitor charges $89/month for a similar feature set. We have a 3-person team and six months of runway. Help me evaluate whether our pricing is leaving money on the table.
+
+That context takes 30 seconds to type and saves you from getting advice that belongs in a freshman business class.
+=======================
+2. Demand the reasoning, not just the answer
+
+When you ask Claude to explain its thinking, two things happen. First, you can actually evaluate whether the logic holds up. Second, Claude catches its own flawed assumptions mid-response and self-corrects.
+
+Adding a simple line like walk me through your reasoning step by step or explain why you recommend this over the alternatives forces the model into a deeper analytical mode. You get output that shows its work instead of just handing you a conclusion.
+
+This is especially critical for financial decisions, hiring choices, and strategic trade-offs where the why matters as much as the what.
+=======================
+3. Define exactly what you want the output to look like
+
+If you do not tell Claude what format you want, it will guess. Sometimes it guesses well. Often it does not.
+
+Be explicit. Tell it you want a table comparing three options across five criteria. Tell it you want bullet points grouped by phase. Tell it you want a one-page memo structured as situation, complication, resolution. Tell it you want a script with specific sections.
+
+The more precisely you define the output format, the faster you get something you can actually use without spending 20 minutes reformatting.
+=======================
+4. Give Claude a role that matches the expertise you need
+
+Role-setting is not a gimmick. It meaningfully calibrates the depth, vocabulary, and perspective of the response.
+
+Telling Claude to respond as a seasoned VP of Sales at a high-growth B2B startup produces dramatically different output than asking it the same question with no role. The role acts as a filter that shapes which knowledge gets prioritized and how the advice gets framed.
+
+Match the role to the decision. Hiring question? Senior talent partner at a Series B startup. Pricing question? Head of monetization at a PLG company. Board prep? Chief of Staff who has prepared fifty board decks.
+=======================
+5. Show it what good looks like
+
+Whenever possible, give Claude reference material. Paste in a competitor's landing page copy, link to a job description you admire, share a board memo format that your investors prefer, or describe the tone of a brand voice you want to match.
+
+Examples eliminate ambiguity faster than instructions. Instead of telling Claude to write something professional but approachable, show it a paragraph that hits that tone and say match this voice.
+=======================
+6. Iterate in the same conversation instead of starting over
+
+Claude maintains context within a conversation. Every time you start a new chat, you are throwing away all the background you already provided.
+=======================
+Get in the habit of refining within the same thread. Ask Claude to adjust the tone, go deeper on a specific section, challenge its own assumptions, or rewrite with a different audience in mind. The third or fourth iteration is almost always significantly better than the first pass. Treat it like a working session with a smart colleague, not a vending machine.
+
+
+-------------------------------------------------------------
+##8 PROMPTS THAT TURN CLAUDE INTO A $10K STRATEGIC ADVISOR
+
+Each of these prompts is built on the six principles above. They are long on purpose. The specificity is what makes them work. Copy them, paste them, and replace the bracketed sections with your actual information.
+
+================================
+##PROMPT 1: Pressure-Test My Business Idea
+
+I am evaluating a business idea and I need you to be brutally honest, not encouraging. Act as a veteran venture investor who has reviewed thousands of pitches and has no incentive to be polite.
+
+Here is the idea: [describe your product or service in 2-3 sentences]
+
+Target customer: [who specifically is this for]
+
+How it makes money: [revenue model]
+
+Current stage: [idea only / have a prototype / have early customers]
+
+I need you to do the following:
+
+Identify the 5 most likely reasons this business fails. Be specific to this idea, not generic startup advice.
+
+Analyze at least 3 existing competitors or alternatives that customers currently use to solve this problem, including doing nothing. Explain what it would take to pull customers away from those alternatives.
+
+Describe the specific market conditions, timing factors, or trends that need to be true for this business to succeed.
+
+Give me a final honest assessment: would you invest your own money in this at the current stage, and what would need to change for that answer to be yes.
+
+Walk me through your reasoning for each section. Do not give me platitudes.
+
+================================
+##PROMPT 2: Build My Go-To-Market Plan From Scratch
+
+You are an experienced Head of Growth who has launched multiple products from zero to first 1,000 customers. You specialize in [B2B SaaS / consumer apps / marketplaces / DTC -- pick one].
+
+Here is the context:
+
+Product: [what it does in one sentence]
+
+Target customer: [specific persona with role, company size, and pain point]
+
+Price point: [amount and billing model]
+
+Current resources: [team size, budget for marketing, any existing audience or distribution]
+
+Competitive landscape: [1-2 main competitors and how you differentiate]
+
+Build me a detailed 90-day go-to-market plan broken into three phases:
+
+Phase 1 (Days 1-30): Pre-launch. What to build, what channels to seed, what validation to run, what content to create, and how to build a waitlist or early interest pipeline.
+
+Phase 2 (Days 31-45): Launch window. The exact launch sequence, which platforms to prioritize, outreach strategy, any launch-day tactics, and how to create initial momentum.
+
+Phase 3 (Days 46-90): Post-launch growth. How to turn early users into a repeatable acquisition engine, what metrics to track weekly, when to double down vs pivot on channels, and how to identify your best-performing growth loop.
+
+For each phase, include specific action items with owners (assume a small team), rough time estimates, and the key metric that determines whether that phase succeeded. Explain the reasoning behind your channel choices.
+
+================================
+##PROMPT 3: Stress-Test My Pricing
+
+Act as a pricing strategist who has helped 50+ SaaS companies optimize their monetization. You are analytical, direct, and focused on data-driven recommendations.
+
+Here is my situation:
+
+Product: [what it does]
+
+Current pricing: [tiers, amounts, billing cycle]
+
+Average customer profile: [company size, role of buyer, budget authority]
+
+Current metrics: [number of customers, MRR, churn rate, average deal size, conversion rate from free to paid if applicable]
+
+Top 3 competitors and their pricing: [list them with prices]
+
+What customers say they value most: [list top 2-3 value drivers]
+
+Analyze the following:
+
+Am I underpriced, overpriced, or mispriced (right amount but wrong structure)? Show your reasoning using the competitive and value data.
+
+What pricing model would maximize revenue over the next 12 months given my stage and customer profile? Consider per-seat, usage-based, tiered, flat-rate, and hybrid options.
+
+How should I structure my tiers to create natural upgrade paths? Define what features or limits should gate each tier and why.
+
+What is the specific risk of raising prices now, and what is the risk of not raising them? Quantify the tradeoff where possible.
+
+Give me a recommended pricing page layout with 2-3 tiers, each with a name, price, target persona, and included features. Explain the psychology behind the structure.
+
+================================
+##PROMPT 4: Prepare Me for a Board Meeting
+
+You are an experienced Chief of Staff who has prepared board materials for Series A through Series C startups. You know what experienced investors want to see and what makes them lose confidence.
+
+Here is my context:
+
+Company stage: [seed / Series A / Series B]
+
+Key metrics this quarter: [revenue, growth rate, burn rate, runway, customer count, churn, key product metrics]
+
+Progress against last quarter's goals: [list 3-5 goals and status on each]
+
+Biggest wins this quarter: [2-3 highlights]
+
+Biggest challenges or misses: [2-3 issues]
+
+What I plan to ask the board for: [funding, introductions, strategic advice, approval on something]
+
+Create a board update document with the following sections:
+
+Executive summary (3-4 sentences that a board member skimming in the car would absorb)
+
+Key metrics dashboard (formatted as a table with metric, last quarter, this quarter, and target)
+
+Progress against goals (each goal with a status of on-track, at-risk, or missed, with a one-sentence explanation)
+
+Top 3 wins with context on why they matter strategically
+
+Top 3 risks or challenges with your recommended mitigation plan for each
+
+Strategic discussion topics: frame 1-2 questions for the board that are specific enough to generate useful input
+
+Clear asks: what you need from the board, framed as specific actionable requests
+
+Write this in a confident but transparent tone. Investors respect founders who name problems clearly and come with a plan, not founders who hide bad news.
+
+================================
+##PROMPT 5: Build vs Buy Decision Framework
+
+You are a CTO and technical strategist who has made build-vs-buy decisions at both startups and mid-size companies. You balance engineering ambition with business pragmatism.
+
+Here is the decision I am facing:
+
+What we need: [describe the capability or system]
+
+Why we need it: [what problem it solves or what it enables]
+
+Current team: [size, skill set, available bandwidth]
+
+Timeline pressure: [how soon we need this working]
+
+Budget available: [rough range for a buy option]
+
+Options I am considering: [list the build approach and 1-3 buy/vendor options]
+
+Walk me through this decision by analyzing:
+
+Time to value: how long until each option is live and usable, including implementation, integration, and ramp-up time. Be realistic about hidden timelines for the build option.
+
+Total cost over 24 months: include engineering salaries for the build option, licensing plus implementation costs for buy options, and ongoing maintenance for both.
+
+Strategic fit: does this capability represent a core differentiator we should own, or is it infrastructure that does not create competitive advantage?
+
+Risk profile: what can go wrong with each option and how painful is it to reverse the decision later?
+
+Maintenance burden: what is the ongoing cost of keeping this running in each scenario, including upgrades, bug fixes, vendor management, and scaling?
+
+Give me a final recommendation in a comparison table and a clear 2-3 sentence verdict with your reasoning. Flag any assumptions that would change your answer if they turned out differently.
+
+================================
+##PROMPT 6: Write a Job Description That Attracts Top Performers
+
+You are a senior talent partner who recruits for high-growth startups. You know that generic job descriptions attract generic candidates, and that the best people are drawn to specificity, challenge, and impact.
+
+Here is the role:
+
+Title: [job title]
+
+Team and reporting structure: [who they report to, who they work with, team size]
+
+Company context: [stage, industry, what the company does, recent traction]
+
+Core problem this hire solves: [what bottleneck or gap does this person fill]
+
+What success looks like in 90 days: [specific outcomes]
+
+What success looks like in 12 months: [specific outcomes]
+
+Dealbreakers: [must-have skills or experiences that are non-negotiable]
+
+Nice-to-haves: [things that would make a candidate stand out]
+
+Compensation range: [salary band and any equity or benefits worth mentioning]
+
+Write a job description that does the following:
+
+Opens with a 2-3 sentence hook that describes the challenge this person will tackle, not a generic company description. Make a high-performer curious.
+
+Describes the role in terms of problems to solve and impact to make, not a laundry list of responsibilities.
+
+Includes a section called what you will do in your first 90 days with 3-5 specific projects or outcomes.
+
+Lists requirements as two categories: you have done this before (non-negotiables) and you might also bring (differentiators).
+
+Ends with a section on why this role matters that connects the hire to the company mission and growth trajectory.
+
+Avoid buzzwords, cliches, and any phrase that could appear in 10,000 other job descriptions. Write it the way a founder would actually talk about the role to a friend.
+
+================================
+##PROMPT 7: Map My Competitive Landscape
+
+You are a competitive intelligence analyst who helps startups understand their market positioning. You are thorough, objective, and focused on actionable insights rather than surface-level comparisons.
+
+Here is my company:
+
+What we do: [one-sentence description]
+
+Target customer: [who we sell to]
+
+Our positioning: [how we describe ourselves and what we emphasize]
+
+Our pricing: [model and price points]
+
+Known competitors: [list 3-5 with brief descriptions]
+
+Anything else relevant: [recent market shifts, new entrants, regulatory changes]
+
+For each competitor, analyze:
+
+Their positioning: what message are they leading with and who are they targeting?
+
+Their pricing model: how does it compare to ours and what does the structure tell us about their strategy?
+
+Their strengths: what are they objectively good at or known for?
+
+Their weaknesses: where do customers complain or where are they vulnerable?
+
+Their likely next moves: based on their trajectory, what will they probably do in the next 6-12 months?
+
+Then provide:
+
+A competitive positioning map that shows where each player sits on two axes that you recommend as the most strategically relevant for this market. Explain why you chose those axes.
+
+A gap analysis: where is there unoccupied positioning space that we could credibly own?
+
+A threat assessment: which competitor is the biggest threat to us specifically and why?
+
+Three specific strategic recommendations based on this analysis that we could act on in the next quarter.
+
+================================
+##PROMPT 8: Plan My Next Hire
+
+You are a startup operator and organizational strategist who helps founders make high-leverage hiring decisions. You understand that at an early stage, every hire either accelerates the company or creates drag, and there is very little in between.
+
+Here is where my company stands:
+
+Stage and business model: [describe briefly]
+
+Current team: [list roles and rough responsibilities for each person]
+
+Revenue situation: [MRR, growth rate, trajectory]
+
+Biggest bottlenecks right now: [what is slowing you down or what can you not do that you need to]
+
+Upcoming goals for next 6 months: [list 2-3 key priorities]
+
+Budget for this hire: [salary range]
+
+Analyze the following:
+
+Which single hire would give us the most leverage right now and why? Consider the bottlenecks, growth stage, and upcoming goals. Explain why this role has more impact than the alternatives.
+
+What should this person's first 90 days look like? Define 3-5 specific outcomes that would confirm we made the right hire.
+
+What is the profile of the ideal candidate? Not just skills, but the type of experience, working style, and mindset that fits this stage. Be specific about what to screen for in interviews.
+
+What is the risk of making this hire vs not making it? What happens if we wait 6 months instead?
+
+Is there a case for a contractor, fractional hire, or agency instead of a full-time employee for any of these needs? When does the math favor each option?
+
+Give me a prioritized hiring roadmap for the next 3 hires in sequence, with the reasoning for the order.
+
+================================
+These prompts work because they respect how large language models actually function. They load context, define scope, request reasoning, and specify output format. That combination is what separates useful AI output from noise.
+
+You do not need to use all eight. Pick the one that matches your most pressing decision this week. Paste it in. Fill in the brackets. Read the output carefully and then iterate on it in the same conversation.
+
+Claude is not a magic box that replaces thinking. It is a force multiplier for founders who already think clearly and need help executing at speed.
+
+The founders who figure out how to prompt AI well are operating at a fundamentally different speed than everyone else. That gap is only going to widen.
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
