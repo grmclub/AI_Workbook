@@ -1,0 +1,28 @@
+
+-------------------------------------------------------------
+1. The Structural Macro Outline Grid
+
+Prompt: "Act as a senior developmental book editor. I want to write a non-fiction book about [Insert Topic/Core Idea]. Help me design a high-retention, 10-chapter macro outline structure using a logical narrative arc that takes the reader from acute pain to a definitive systemized solution."
+
+2. The Chapter Micro-Architecture Breakdown
+
+Prompt: "Act as a book outline architect. Take Chapter 1 from my outline: [Insert Chapter Topic]. Deconstruct it into a highly detailed paragraph-by-paragraph layout blueprint including a opening hook narrative, the primary educational lesson, case-study proof nodes, and an open-loop transition into Chapter 2."
+
+3. The Narrative Voice & Cadence Configuration
+
+Prompt: "Act as a ghostwriter. I want my book to match this exact tone signature and pacing: [Paste Writing Sample]. Analyze this sample's sentence lengths, sensory vocabulary choices, and dialogue style, and write a set of core structural rules to maintain this specific voice throughout my upcoming drafts."
+
+4. The Anecdotal Case-Study Splicer
+
+Prompt: "I have a raw, real-world experience or case-study note: [Paste Raw Note]. Act as a compelling storyteller. Rewrite this raw data into an engaging, high-empathy narrative vignette that seamlessly introduces and proves a core informational point in my chapter draft."
+
+5. The Developmental Polish & Pacing Audit
+
+Prompt: "Act as a brutal line editor. Here is a raw draft section of my book chapter: [Paste Chapter Section]. Scan the text to eliminate repetitive vocabulary, passive-voice structures, and monotone rhythm patterns. Rebuild the pacing to maintain high narrative energy and clarity."
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
