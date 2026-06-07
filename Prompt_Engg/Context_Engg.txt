@@ -30,6 +30,12 @@ As we’ve suggested, context is the difference between “we’re experimenting
 
 
 -------------------------------------------------------------
+use Llama 3.2 locally via Ollama
+DeepSeek R1 is a "reasoning model," meaning it is designed to synthesize information and apply logical deductions (like deductive or inductive reasoning) rather than just predicting tokens, making it highly effective for complex tasks
+
+Distillation Technique: The model uses "distillation," where knowledge and reasoning patterns from larger models (like GPT-4 or Llama) are used to train smaller, more lightweight models. This allows these models to run on consumer-grade hardware, including laptops, rather than requiring massive data centers
+
+Accessibility and Open Source: Because it is open-source, the model lowers the barrier to entry for hobbyists and smaller companies, democratizing access to advanced AI capabilities
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
