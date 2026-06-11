@@ -1,5 +1,138 @@
 
 -------------------------------------------------------------
+1. The Bug Detective
+Use this prompt to diagnose errors and prevent the AI from jumping to conclusions.
+"Act as a debugging assistant. I am experiencing this error: [paste error]. Here is the relevant code: [paste code].
+Context:
+    • Expected behavior: [what should happen]
+    • Actual behavior: [what is happening]
+    • Steps I've already tried: [list what you've done]
+Provide:
+    1. Root cause analysis
+    2. A fix as a unified code diff
+    3. Tests that would have caught this bug"
+	
+2. Code Explanation
+Use this prompt when working with a legacy codebase to understand execution flow. [1]
+"Walk me through this [Language] snippet. Pair with me as if explaining to a peer developer.
+Code:
+[paste code]
+Provide:
+    1. The high-level purpose of this section
+    2. Step-by-step execution flow
+    3. Potential edge cases or limitations"
+
+3. Unit Test Generator
+Use this prompt to ensure your features are thoroughly tested. [1]
+"Write unit tests for the following [Language] function using [preferred testing framework, e.g., Jest/PyTest]. Include tests for normal expected inputs, edge cases, and failure/invalid cases.
+Function:
+[paste function]"	
+-------------------------------------------------------------
+##list most effective testing prompts in RTFC framework
+
+RTFC Prompts for Quality Engineering & Testing
+Here are the most effective testing prompts organized by critical quality engineering disciplines. They are structured using the RTFC framework so you can copy and paste them directly into your AI tool.
+
+1. Test Case Generation (For Edge Cases & Boundaries)
+Use this prompt to ensure your developers or QA team don't miss hidden bugs, race conditions, or bad inputs. [1]
+[Role]: Act as a Lead QA Automation Engineer and Principal Chaos Engineer with 15 years of experience breaking highly distributed enterprise software.
+[Task]: Analyze the provided functional requirements or code snippet and generate a comprehensive suite of edge-case, negative, and boundary-value test cases.
+[Format]: Output a Markdown table with the columns: Test Case ID, Component, Scenario Description, Input Data / Condition, and Expected Behavior. Group the table rows by Happy Path, Boundary Value, and Destructive/Negative Testing.
+[Constraints]: Do not generate generic UI validation tests (e.g., "verify button is blue"). Focus strictly on business logic failures, data truncation, null pointers, and state-machine violations. Limit the output to the top 15 highest-risk scenarios.
+[Input Code/Requirements]: [Insert text here]
+
+2. Automated Test Script Writing (e.g., Playwright / Cypress)
+Use this prompt to generate clean, maintainable automation scripts that adhere to enterprise design patterns rather than messy record-and-playback code.
+[Role]: Act as a Senior Software Engineer in Test (SDET) specializing in modern TypeScript-based automation frameworks.
+[Task]: Write a clean, maintainable automated end-to-end integration test script based on the provided user story.
+[Format]: Provide a single, complete code block using TypeScript and [Playwright / Cypress / Selenium - Choose one]. Use the Page Object Model (POM) design pattern. Include minimal, meaningful comments explaining element locators.
+[Constraints]: Never use hardcoded sleep statements or arbitrary wait timers; rely strictly on explicit, fluid waits or network idle states. Do not use generic CSS selectors like div > span; prioritize resilient data attributes (like data-testid). Ensure proper setup and teardown hooks are included.
+[User Story / Workflow]: [Insert text here]
+
+3. API Integration & Contract Testing
+Use this prompt to test REST, GraphQL, or gRPC backend endpoints, ensuring payloads match specifications and handle failure modes gracefully.
+[Role]: Act as a Backend Systems Integration Architect and Core API Security Auditor.
+[Task]: Review the provided API specification and write a suite of integration testing scripts to validate payload schemas and HTTP status code contract compliance.
+[Format]: Output raw, executable Postman/Newman JavaScript assertion snippets or Python requests test blocks. Organize them by endpoint.
+[Constraints]: Every endpoint must have at least four validations: Schema verification, Type mutation handling (e.g., passing a string where an integer is expected), Missing authorization token handling, and Large payload/Overflow handling. Avoid third-party dependency libraries outside the native framework.
+[API Specification/Swagger/JSON Schema]: [Insert text here]
+
+4. Code Review & Bug Hunting (Static Analysis)
+Use this prompt to simulate an automated code review that flags security flaws, memory leaks, or logical anti-patterns before code hits a pull request. [1]
+[Role]: Act as an uncompromising Principal Code Reviewer and AppSec (Application Security) Vulnerability Assessor.
+[Task]: Scan the provided source code to find hidden bugs, concurrency risks, memory leaks, and performance anti-patterns.
+[Format]: Output a bulleted list. Each bullet must state the Line Number, the Severity (Critical, Major, Minor), a description of the Flaw, and a snippet of Remediated Code fixing the exact issue.
+[Constraints]: Skip stylistic or linting complaints (e.g., indentation or line lengths). Focus purely on execution risks like SQL injections, race conditions, unhandled exceptions, resource leaks, or inefficient big-O algorithmic loops.
+[Source Code]: [Insert text here]
+
+5. Performance, Load, & Stress Testing (e.g., jMeter / k6)
+Use this prompt to generate load-testing scripts that simulate real-world traffic spikes and stress-test infrastructure limits.
+[Role]: Act as a Senior Performance Engineer and Reliability Engineer specializing in high-throughput system benchmarking.
+[Task]: Create a load testing script to evaluate system performance under spike and endurance loads.
+[Format]: Provide an executable JavaScript script for Grafana k6 (or JMeter XML JMX format). Include setup variables for Virtual Users (VUs) and ramping stages.
+[Constraints]: Configure the script to simulate 3 distinct phases: A 2-minute ramp-up to baseline, a 5-minute steady stress plateau, and a 1-minute aggressive spike to 10x capacity. Ensure all HTTP requests track response time metrics and automatically throw a 95th percentile error threshold check if responses take over 200ms.
+[Endpoint Targets & Expected Traffic]: [Insert text here]
+
+
+
+
+-------------------------------------------------------------
+##list most effective testing prompts for an in house pre-trade risk check application for asset class equities in a securities brokers infrastructure in RTFC framework
+
+RTFC Prompts for Broker-Infrastructure Pre-Trade Risk Checking
+While an investment bank's risk engine focuses heavily on proprietary capital and desk limits, a Securities Broker's infrastructure must handle immense multi-tenant scale. It must validate thousands of concurrent retail, institutional, and Direct Market Access (DMA) client accounts simultaneously. It faces unique challenges around real-time buying power calculations, clearinghouse margin requirements, and strict multi-country regulatory mandates (such as SEC Rule 15c3-5 or local exchange constraints).
+Here are the most effective RTFC prompts designed specifically for testing a broker-infrastructure equity risk engine.
+
+1. Multi-Tenant Scale & Throughput Degradation Testing
+Use this prompt to ensure the risk engine can calculate real-time buying power across millions of active client accounts during high-volatility market events (like market open or unexpected macroeconomic announcements) without dropping packets.
+[Role]: Act as a Principal Infrastructure Performance Architect and Core Trading Systems Capacity Engineer specializing in high-throughput, multi-tenant securities brokerage clearing and routing networks.
+[Task]: Create a comprehensive performance validation and stress-testing strategy to evaluate how the pre-trade risk engine handles massive concurrent account checks, rapid order-to-cancel ratios, and simultaneous database lookups.
+[Format]: Output a Markdown table with four columns: Scale Vector (e.g., Microsecond Spikes, Multi-Account Resource Contention, Cold-Start Cache Misses), Simulation Vector (How to artificially generate this exact load), SLA Threshold (Target response metrics), and Telemetry Point (What to monitor, e.g., CPU context switching, socket buffer saturation).
+[Constraints]: Focus strictly on broker-scale throughput (e.g., 50,000+ orders per second across thousands of distinct routing accounts). Do not suggest low-volume single-tenant test loops. Exclude application server layer profiling; focus deeply on network socket layer handling, asynchronous thread pools, and memory serialization/deserialization bottlenecks.
+[Broker Scale Profile]: [Insert expected peak order volumes, number of active client accounts, and database/cache technology stack here]
+
+2. Multi-Account Margin & Real-Time Buying Power Edge-Case Generation
+Brokers must instantly calculate buying power based on varied account types (Cash, Margin, Portfolio Margin) and collateral haircuts. Use this prompt to find subtle mathematical or logical leakage points.
+[Role]: Act as a Lead Clearing & Risk QA Analyst and Principal Quantitative Risk Engineer specializing in retail and institutional brokerage margin mechanics (e.g., Regulation T, Portfolio Margin, FINRA Rule 4210).
+[Task]: Review the business requirements or pseudocode for the broker risk engine's real-time buying power calculations and generate a boundary-value testing matrix to prevent margin leaks and unauthorized credit extensions.
+[Format]: Output a Markdown table grouped by account clearing profile:
+    • Tier 1: Retail Cash Accounts (Unsettled funds restrictions, free-riding prevention)
+    • Tier 2: Standard Margin Accounts (Reg T 50% initial margin, maintenance margin calls, day-trading buying power calculations)
+    • Tier 3: Institutional Portfolio Margin / DMA (Risk-based haircut evaluation, option/equity cross-margining offsets)
+Columns must include: Scenario ID, Collateral/Position State, Incoming Order Detail, Expected Engine Decision (REJECT or PASS), and Post-Order Margin Impact.
+[Constraints]: Avoid generic banking risk checks. Focus entirely on broker equity margin math, handling of volatile/hard-to-borrow stock overrides, overnight vs. intraday margin maintenance transitions, and edge cases where a stock's margin requirement drops or spikes mid-session.
+[Margin Engine Logic/Requirements]: [Insert details on how your broker infrastructure updates account balances or handles stock haircuts here]
+
+3. Market Access Regulatory Compliance Validation (e.g., SEC 15c3-5 / Exchange Rules)
+Brokers are legally liable for the market disruption caused by their clients. This prompt generates destructive tests to guarantee that no order bypasses regulatory blocks, even if a client's trading software is malfunctioning.
+[Role]: Act as a Chief Broker-Dealer Compliance Auditor and Senior Front-Office Quality Assurance Manager specializing in electronic market access regulations (e.g., SEC Rule 15c3-5 Market Access, exchange-specific circuit breakers, naked access routing bans).
+[Task]: Generate an exhaustive negative and destructive test suite to audit the broker risk engine's compliance controls and ensure it acts as an un-bypassable firewall to the exchanges.
+[Format]: Organize the response into a numbered list of 10 high-severity compliance failure injections. For each item, provide:
+    • Regulatory Mandate Targeted: (e.g., Prevention of Erroneous Orders, Single-Order Dollar/Share Limits)
+    • Bypass Attempt Scenario: (e.g., Rapidly firing 100 duplicate orders in a multi-threaded burst to beat the balance check)
+    • Technical Injection Point: (e.g., Session layer manipulation, message-sequence spoofing)
+    • Required Audit Log Output: (The explicit cryptographic or system event log that must be produced to prove the engine blocked the order)
+[Constraints]: Exclude soft-compliance workflows like KYC or AML. Focus exclusively on inline, real-time pre-trade constraints that operate at the gateway layer. Address market microstructure rules like short-sale locate validation and wash-trading blocks (preventing a broker's client from hitting their own order on the order book).
+[Gateway Configuration]: [Insert details about your exchange connectivity setup, e.g., "Direct Market Access via proprietary FIX engines to Nasdaq/NYSE" or "Routing via third-party market makers"]
+
+4. Broker Gateway Failover & State Synchronization Chaos Testing
+When a broker's order gateway or risk node crashes, it must failover without losing track of a client's open orders, filled positions, or remaining buying power. Use this prompt to uncover state mismatch bugs.
+[Role]: Act as a Core Trading Infrastructure Chaos Engineer and Site Reliability Director for an enterprise-level securities brokerage firm.
+[Task]: Design a destructive, distributed-system chaos testing blueprint to evaluate how the broker risk engine maintains state integrity across multiple active routing nodes during hardware, network, and exchange disconnects.
+[Format]: Provide a highly structured Markdown document with three sub-sections:
+    1. In-Flight Disconnect Scenarios: A detailed description of what occurs when an exchange link drops exactly when an order passes the risk check but before an acknowledgment is received.
+    2. Split-Brain Risk Mitigation Tests: Scenarios to test what happens if two redundant broker risk nodes both believe they are active and process independent orders for the same retail account simultaneously.
+    3. Validation Code Assertions: Provide logical assertion templates (e.g., in pseudocode or SQL queries) to verify that total account equity matches open positions and cash balances post-recovery.
+[Constraints]: Do not use generalized cloud architecture chaos patterns (like generic AWS node failures). Focus strictly on capital markets state concepts: sequence number desynchronization, duplicate FIX drop-copies, re-transmission request loops, and memory grid state replication lag.
+[Architecture/State Stack]: [Insert state storage mechanisms, e.g., "In-memory database mirrored via Raft consensus protocol," "Active-Active gateways synchronized via Apache Kafka," or "Distributed cache layer like Redis/Hazelcast"]
+
+To apply these prompts to your broker infrastructure immediately, tell me:
+    • What account types represent your highest risk (e.g., high-frequency institutional DMA clients or high-volume retail margin traders)?
+    • What is the underlying technology stack of the application (e.g., C++, Java, Rust, or a distributed memory grid)?
+I will customize the exact prompt variant to fit your environment.
+AI responses may include mistakes. For financial advice, consult a professional. Learn more
+
+-------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
