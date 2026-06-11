@@ -1,0 +1,98 @@
+
+-------------------------------------------------------------
+## basic sw architecture probe examples using RTFC framework
+==============================
+##RTFC Example for skill harvesting for information technology applications
+
+[Role]: Act as a Principal Core Infrastructure Engineer and Quantitative Tech Lead at a top-tier High-Frequency Trading (HFT) firm. You have deep expertise in ultra-low latency systems, kernel-level optimizations, market data feeds, and algorithmic execution.
+[Task]: Review the provided text to harvest, isolate, and categorize specialized skills, protocols, and architectural patterns required for HFT development and quantitative engineering.
+[Format]: Output a Markdown table with four columns:
+    1. Domain (e.g., Low-Latency Systems, Quantitative Math, Market Data/Execution, Hardware Acceleration)
+    2. Technical Skill/Tool (e.g., C++20, FPGA, Verilog, FIX Protocol, AVX-512, Kernel Bypass)
+    3. Proficiency Indicator (Explicitly flag if the text implies hands-on optimization, architecture design, or just basic usage)
+    4. HFT Relevance (A single-sentence explanation of how this skill impacts execution speed, throughput, or pricing accuracy)
+[Constraints]: Completely ignore generic software engineering concepts (like standard web APIs, REST, or basic cloud databases). Focus strictly on micro-second/nano-second optimization skills, hardware/software co-design, and mathematical modeling. If the text mentions template metaprogramming, lock-free concurrency, or specific network cards (e.g., Solarflare), prioritize them at the top of the table.
+
+Key HFT Signals This Prompt Will CaptureHardware & Infrastructure: Isolates niche skills like FPGA development (Verilog/VHDL), ASICs, and PCIe interfacing.Network & Protocols: Extracts low-latency networking mastery like Solarflare OpenOnload, DPDK (Data Plane Development Kit), kernel bypass, and raw binary protocols (ITCH/OUCH, FIX).Language Deep Dives: Filters for deep memory management capabilities, such as cache-line alignment, custom allocators, and zero-copy architectures in C++ or Rust.
+==============================
+##RTFC Example for skill harvesting for an OMS/EMS application in an investment bank
+
+Order Management Systems (OMS) and Execution Management Systems (EMS) in investment banking sit between the trading desk and external markets. They require a unique mix of front-office workflows, heavy regulatory compliance, multi-asset class knowledge, and enterprise messaging middleware. [1, 2]
+Here is a structured RTFC prompt optimized to extract institutional trading system capabilities:
+
+[Role]: Act as a Lead Front-Office Capital Markets Solutions Architect and Global Trading Systems Product Manager specializing in institutional Order Management Systems (OMS) and Execution Management Systems (EMS) for Tier-1 Investment Banks.
+[Task]: Analyze the provided text to harvest, catalog, and map all technical, functional, and domain-specific skills related to OMS/EMS engineering, integration, and configuration.
+[Format]: Output the results in a clean Markdown table with four columns:
+    1. OMS/EMS Pillar (Categorize exactly into one of these: Protocol & Connectivity, Order Lifecycle & Execution, Market Data & Analytics, Regulatory & Compliance, or Middleware & Integration)
+    2. Technical Skill/Vendor Platform (e.g., FIX Protocol, Fidessa, Charles River, Calypso, Java/C#, Kafka, Tibco EMS)
+    3. Asset Class Focus (Identify which asset classes are implied: e.g., Equities, Fixed Income, FX, Derivatives, Multi-Asset)
+    4. Capability Level (Flag as Architectural Design, Core Development, Integration, or Configuration/Support)
+[Constraints]: Exclude generic web development skills and standard retail banking technologies. Prioritize institutional connectivity standards (e.g., FIX protocol variations, SWIFT) and major third-party enterprise vendor ecosystems. If the text mentions specific regulatory frameworks (e.g., MiFID II, CAT reporting, SEC Rule 606), explicitly list them under the Regulatory pillar.
+[Input Text]: [Paste investment banking CVs, OMS/EMS vendor job profiles, or trading desk architecture specs here]
+
+Key Institutional Signals This Prompt Isolates
+    • Connectivity & Protocols: Captures deep FIX protocol knowledge (session layer vs. application layer), routing rules, and onboarding workflows.
+    • Order Lifecycle Mastery: Extracts skills tied to algorithmic routing, smart order routers (SOR), program trading, allocations, and post-trade clearing integration.
+    • Vendor & Middleware Ecosystems: Identifies specialized experience in major banking platforms (Fidessa, Charles River, FlexTrade) and high-throughput enterprise messaging layers.
+Would you like to customize this prompt to focus on a specific asset class like Fixed Income (e.g., Bloomberg TOMS/TSOX), or should we refine it to emphasize low-latency equity algorithms?
+
+==============================
+RTFC Example for skill harvesting for an inhouse OMS/EMS application in an investment bank for asset class equities
+
+RTFC Prompt for In-House Equity OMS/EMS Skill Harvesting
+Building and maintaining an in-house OMS/EMS for cash equities and equity derivatives requires a distinct shift away from vendor platforms (like Fidessa or Charles River). The focus moves toward core custom engineering, high-throughput microservices, low-latency market data processing, and bespoke algorithmic routing.
+Here is a structured RTFC prompt optimized for internal proprietary equity trading platforms:
+
+[Role]: Act as a Managing Director of Front-Office Equity Trading Technology and Principal Architect for proprietary, low-latency Cash Equities Order and Execution Management Systems (OMS/EMS) at a global Tier-1 investment bank.
+[Task]: Analyze the provided text to harvest, isolate, and catalog technical and functional skills required to develop, optimize, and support an in-house equity trading platform.
+[Format]: Output the results in a Markdown table with four columns:
+    1. Component Layer (Categorize exactly into: Inbound Connectivity/Client FIX, Order Routing & Matching Logic, Market Data/Feed Handlers, Algorithmic Execution/SOR, or Post-Trade/Clearing Integration)
+    2. Core Technology/Pattern (e.g., Core Java/C++, Lock-Free Rings, Chronicle Queue, Kafka, IPC, Multithreading, FIX 4.2/4.4)
+    3. Equity Functional Domain (e.g., Short-Sale Locates, RegNMS/Order Protection Rule, Smart Order Routing, VWAP/TWAP Algos, Block Trading, OPG/CLS orders)
+    4. Application Context (A 5-word sentence explaining how the skill was applied internally)
+[Constraints]: Completely ignore third-party trading vendors (e.g., do not look for Charles River, Bloomberg TOMS, or FlexTrade). Focus exclusively on custom-built, in-house software engineering capabilities. Filter out generic web UI framework skills unless they are explicitly tied to low-latency HTML5/Electron desktop trading grids (e.g., OpenFin, RxJS). Prioritize skills related to US/European/APAC equity market microstructures and exchange connectivity.
+[Input Text]: [Paste in-house developer CVs, internal job specs, or core equity platform architecture documents here]
+
+Key Proprietary Equity Signals This Prompt Isolates
+    • In-House Core Architecture: Targets custom high-performance messaging patterns (e.g., LMAX Disruptor, IPC, custom memory mapping) rather than standard commercial wrappers.
+    • Equity Market Microstructure: Extracts crucial domain logic unique to equity desks, such as RegNMS compliance (in the US), crossing engines, and dark pool routing.
+    • Custom Execution Logic: Pulls out hands-on development of internal Smart Order Routers (SOR) and benchmark algorithmic trading engines (e.g., Implementation Shortfall, Volume Inline).
+Would you like to narrow this down to a specific regional ecosystem, such as US Equities (dealing with SIP feeds and SEC rules), or would you like to add a layer for Equity Derivatives (Options/Futures options trading flows)?
+
+==============================
+RTFC Example for harvesting architecture in a block diagram for an in house OMS/EMS application for asset class equities in an investment bank
+
+RTFC Prompt for Architecture Harvesting from a Block Diagram
+When extracting architecture from a block diagram using a vision-capable AI, the model must read the layout, spatial relationships, and data flow lines rather than just reading a list of words.
+Here is a structured RTFC prompt optimized for interpreting system architecture diagrams of proprietary equity trading systems:
+
+[Role]: Act as a Chief Enterprise Infrastructure Architect and Senior Systems Analyst specializing in low-latency institutional equity trading platforms (OMS/EMS). You have decades of experience converting complex system topography diagrams into structured technical documentation.
+[Task]: Analyze the attached architectural block diagram image. Identify all core functional components, subsystems, data flow pipelines, protocols, and infrastructural boundaries relevant to this in-house equity OMS/EMS.
+[Format]: Output the architectural breakdown in three distinct markdown sections:
+    1. Component Inventory: A bulleted list grouping components by tier (e.g., Inbound Client Tier, Core Processing Tier, Market Connectivity Tier).
+    2. Data Flow Pipelines: A numbered list describing the end-to-end paths (e.g., Client Order Entry → Risk Check → Matching Engine → Exchange Feed Handlers), specifying the directional flow (one-way or bidirectional) and network protocols labeled on the lines.
+    3. Critical Path Bottlenecks & Inter-Process Communication (IPC): A brief summary identifying how subsystems communicate (e.g., shared memory, message queues) and highlighting any potential single points of failure visible in the diagram layout.
+[Constraints]: Do not hallucinate or guess component names; if a block or text label is illegible, label it as [Unreadable Node]. Focus strictly on the technical architecture—ignore any corporate logos, legends, or administrative markings on the diagram. Do not assume vendor integrations unless explicitly printed on a block.
+[Input Image]: [Upload or attach your system architecture block diagram image here]
+
+Why This Prompt Works for Vision-Based Architecture Harvesting
+    • Spatial and Pipeline Awareness: Forcing the AI to map data flows in a numbered sequence prevents it from simply listing the text boxes it sees scattered around the image.
+    • Component Tiering: The prompt forces the AI to map structural boundaries (like firewalls, DMZs, or boundary lines) into logical logical tiers, simulating how a human architect reviews a drawing.
+    • Rigid Error Handling: The [Unreadable Node] constraint prevents the AI from inventing a plausible-sounding name for a blurry box in the corner of your diagram.
+Would you like to add constraints to explicitly map high-availability/disaster-recovery (HA/DR) lines if they are present in your diagram, or should we include a section to highlight real-time drop copy feeds?
+AI responses may include mistakes. For financial advice, consult a professional. 
+==============================
+==============================
+==============================
+==============================
+==============================
+==============================
+==============================
+==============================
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
