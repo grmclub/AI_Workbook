@@ -13,6 +13,17 @@ Level 4 — Connected Claude Claude with MCP tools, browser access, file systems
 
 Level 5 — Agentic Claude (Claude Code) Claude builds and runs its own systems. Full apps, automations, and agents deployed from a single conversation. Most people don't know this exists.
 
+================
+Level 1: The Assistant — AI as a smarter Google, nothing more. Ask. Copy. Paste. Repeat. Every chat starts from zero. 90% of owners NEVER leave here.
+
+Level 2: The Organizer — gives Claude its memory & brain organization. One install. Forever memory. Zero rereads. PERFECT for business owners, local RAG System.
+
+Level 3: The Builder — turns your repeat work into skills that run. Just text files. Not code. Build once, dry-run it, trust it, then let it RUN.
+
+Level 4: The Orchestrator — wires every tool into one AI command center. CRM, email, analytics via MCP. One agent owns the workflow. Departments on RAILS.
+
+Level 5: The Architect — knows what to automate vs leave alone. Deterministic. Automate. Augment. Human. Most wins need ZERO AI. Discernment WINS.
+================
 --------------------------------------------------------------------------------------
 ##Basic Tools
 =======
