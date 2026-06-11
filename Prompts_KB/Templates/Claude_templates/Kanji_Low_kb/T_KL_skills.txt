@@ -1,0 +1,78 @@
+
+-------------------------------------------------------------
+1. Deep Content Deconstruction
+
+"Analyze this YouTube video and produce a full structural deconstruction of its teaching.
+Your output must include:
+1. CORE PROBLEM — In one sentence, state the exact problem or question this video is built to answer.
+2. NARRATIVE ARC — Map how the explanation unfolds from start to finish. Identify the 4–7 major sections, what each one does, and why it appears in that order. Note where the creator shifts from problem → context → solution → application.
+3. KEY CONCEPTS — For each major concept introduced, state: (a) what it is in plain language, (b) what misconception it corrects or assumption it challenges, and (c) how it builds on what came before it.
+4. TURNING POINTS — Identify the 2–3 moments where the viewer's understanding should meaningfully shift. What does the viewer now understand that they didn't before each moment?
+5. KNOWLEDGE TRANSFER DESIGN — How does the creator structure the explanation to make it stick? Note any use of analogies, progressive disclosure, contrast, or repetition.
+End with a one-paragraph synthesis: what is the complete insight a viewer should leave with?"
+
+2. Complete Skill Tree & Dependency Mapping
+
+"From this video, extract a complete skill tree for mastering the topic being taught.
+TIER 1 — FOUNDATIONS: The non-negotiable prerequisite knowledge someone must already have. For each: what it is, why it's required, and how to verify if you have it.
+TIER 2 — ENABLING SKILLS: The core skills this video teaches that unlock everything else. For each: (a) what it involves in practice, (b) the most common way people get it wrong, and (c) what it directly enables at the next tier.
+TIER 3 — EXECUTION SKILLS: The practical skills that turn understanding into real-world results. For each: (a) what proficient execution looks like, (b) what separates novice from competent performance, and (c) the fastest practice method to build it.
+TIER 4 — ADVANCED OPTIMIZATION: The refinements that separate good from elite. For each: what marginal gain it produces and the signal that tells you you're ready to focus on it.
+DEPENDENCY MAP — Show which skills must be mastered before others using a simple numbered dependency list.
+LEARNING SEQUENCE RECOMMENDATION — Given the full tree, what is the optimal order to learn these skills and why?"
+
+3. High-Leverage Insight Extraction (80/20)
+
+"Apply the 80/20 principle to this video. Identify the small number of ideas that generate the majority of practical results.
+For each high-leverage insight:
+— INSIGHT: State it as a crisp, actionable principle (one sentence maximum). — WHY IT'S DISPROPORTIONATE: Explain the specific mechanism that makes this more valuable than the others. — WHAT MOST PEOPLE DO INSTEAD: Describe the common default behaviour this insight corrects. — IMMEDIATE APPLICATION: What is the single most direct way to apply this in the next 48 hours? — COMPOUNDING EFFECT: How does the impact grow over time as skill increases?
+After listing the insights, rank them by leverage (highest impact per unit of effort) and give your reasoning.
+Final output: a one-paragraph 'minimum effective dose' — if someone could only take away one thing from this video, what should it be and why?"
+
+4. Step-by-Step Execution Playbook
+
+"Convert this video into a complete execution playbook someone could follow without watching the video.
+OVERVIEW: What this achieves, who it's for, estimated time to complete, required tools or resources.
+PHASES & STEPS: Break the workflow into 3–6 phases. For each phase, include the objective and numbered steps. Each step must include: the action to take, the input needed, the expected output, any decision points, and a quality gate to verify it was done correctly before moving on.
+COMMON DEVIATIONS: List 3–5 situations where the standard workflow breaks down, what causes it, and how to adapt.
+DONE CRITERIA: How does someone know the full process is complete and done well?
+Write this as if a competent professional with no prior context could pick it up and execute without asking a single question."
+
+
+5. Mental Models & Expert Thinking Patterns
+
+"Identify the mental models and expert reasoning patterns embedded in this video — both those explicitly stated and those implied by how the creator thinks through the problem.
+For each mental model:
+— NAME & DEFINITION: Give it a clear, memorable name and define it in two sentences. — HOW AN EXPERT USES IT: Describe the specific decision-making scenario where this model is applied. What question does the expert ask themselves? — CONTRAST WITH NOVICE THINKING: How does a beginner approach the same situation without this model? What mistake do they make as a result? — ADOPTION EXERCISE: What is the simplest real-world practice that builds the habit of using this model? — TRANSFER CASES: List 2–3 other domains where this same model applies.
+After extracting all models, identify which single mental model would create the largest shift in how someone approaches this topic and why."
+
+6. Real-World Implementation Scenarios
+
+"Create 4 distinct, realistic scenarios where someone would apply the knowledge from this video. Each should reflect a different context, skill level, or constraint.
+For each scenario:
+— SITUATION: The starting conditions in specific, concrete terms. Who is the person, what is their goal, what constraints are they working under? — TRIGGER: What happens that requires them to apply what they learned? — EXECUTION WALKTHROUGH: Walk through exactly how they apply the concepts step by step. — DECISION PRESSURE POINT: At what moment does their understanding get truly tested? What does the wrong choice look like versus the right one? — OUTCOME: What does success look like? What measurable result indicates the knowledge was applied well? — FAILURE BRANCH: What would have gone wrong without this knowledge?
+Scenarios should range from a straightforward application to a complex, time-pressured one where the knowledge is tested under stress."
+
+7. Failure Points & Beginner Pitfalls
+
+"Analyze this video and produce a complete failure map for anyone trying to implement what it teaches.
+For each failure point:
+— MISTAKE: State it concisely and precisely. — ROOT CAUSE: What underlying reason causes beginners to fall into this trap? — HOW IT MANIFESTS: What does this mistake look like in practice? Describe the observable symptoms. — EARLY DETECTION: What is the earliest signal that this mistake is happening, before it causes significant damage? — DOWNSTREAM IMPACT: If uncorrected, how does this mistake compound over time? — CORRECT APPROACH: The exact right behaviour that prevents or fixes it. — RECOVERY PATH: If someone has already made this mistake, what is the fastest way to correct course?
+End with a ranked list: which mistake is most costly and why? Which is most common?"
+
+8. Structured Mastery Roadmap
+
+"Design a complete mastery roadmap based on the content of this video, giving someone a clear path from zero to expert-level competence.
+STAGE 1 — BEGINNER (weeks 1–2): Foundational knowledge to acquire first, the 2–3 core skills to develop, daily practice format, what good progress looks like, the most common mistake to avoid, and the readiness signal to advance.
+STAGE 2 — DEVELOPING PRACTITIONER (weeks 3–6): New skills to layer in, recommended practice projects, challenges to deliberately seek out, the mental shift that separates this stage from Stage 1, and the readiness signal to advance.
+STAGE 3 — ADVANCED PRACTITIONER (months 2–4): Refinements that produce disproportionate improvement, how to work with real stakes and real feedback, metrics to track, the anti-pattern most advanced practitioners fall into, and the readiness signal to advance.
+STAGE 4 — EXPERT: What separates expert from advanced practitioner performance, how experts continue improving when there are no more structured lessons, and the habits and systems they use to sustain performance long-term.
+Final output: a one-paragraph summary of the full transformation someone goes through from start to finish."
+
+
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
