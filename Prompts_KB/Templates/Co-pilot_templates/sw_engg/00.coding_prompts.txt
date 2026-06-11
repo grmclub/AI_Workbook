@@ -299,7 +299,6 @@ Pro-Tips for Python + Copilot
 -------------------------------------------------
 ##most effective code-writing prompts
 
-
 1. Feature Implementation
 Use this prompt to generate new features, classes, or boilerplate structures.
 "Act as a Senior [Language] Developer. Implement [specific feature] in [framework/environment].
