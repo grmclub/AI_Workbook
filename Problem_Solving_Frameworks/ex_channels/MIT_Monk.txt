@@ -692,7 +692,63 @@ Key Takeaway: You aren't just training the model; you are training yourself to d
 
 Video: You’re Not Behind (Yet): How to Learn AI in 17 Minutes
 -------------------------------------------------
+This video, titled "AI CEO: Give Me 19 Minutes And I'll Teach You How To Make $1M" by Sandeep Swadia (theMITmonk), outlines four core principles for building successful businesses and careers:
+
+    Avoid "Ghost Towns": Don't solve problems that don't need solving [00:33]. The speaker emphasizes that intelligence is solving a problem, but wisdom is knowing if the problem is worth solving [01:24]. To avoid this, ask: "Why am I doing this?", "Whose life changes?", and "What breaks if I don't do this?" [02:37]
+
+    Avoid "Passion Graveyards": Passion is great fuel but a terrible compass [03:45]. Instead of following passion, follow your efforts—what you are willing to suffer for [05:31]. Qualify ideas using the LIT framework:
+
+        Leverage: What unfair advantage do you start with? [05:55]
+
+        Insight: What secret do you know about the market that others miss? [06:35]
+
+        Timing: Why is this the only time your idea works? [07:04]
+
+    Understand Business DNA: Burnout often stems from a mismatch between the business type and your goals [07:36]. There are seven DNA signatures: Service, Physical Product, Digital Product, Marketplace, Media, Capital, and Assets [08:05]. You must match your desired lifestyle with the appropriate business DNA [12:12].
+
+    Build "High Walls": To make competition irrelevant, build defensive moats [13:25]. The three primary walls are:
+
+        Economies of Scale: Cost-based walls where growth makes operations cheaper [14:11].
+
+        Network Effects: Where the product value increases with every new user [15:06].
+
+        Switching Costs: Making it too difficult or painful for customers to leave [15:54].
+
+The speaker advises starting by monopolizing a small niche before attempting to scale [16:54].
+
+https://www.youtube.com/watch?v=pevPR2Wa3jE
+
 -------------------------------------------------
+In this video, "You’re Not Behind (Yet): Learn AI Agents in 13 Minutes," Sandeep Swadia (theMITmonk) distinguishes AI agents from standard LLMs (chatbots) and provides a framework for implementing them effectively.
+Key Takeaways
+
+    Prompting vs. Agents: A chatbot is a student driver that needs constant instruction [01:42]. An AI agent is a hired driver: you set the destination, and it handles the route, traffic, and step-by-step decisions [01:42].
+
+    The ARR Framework: Use this to determine if a task is suitable for an agent [00:47]:
+        Autonomous: Does it require minimal human intervention?
+        Recurring: Does it happen repeatedly?
+        Reviewable: Can the output be checked for quality?
+
+    Anatomy of an Agent: While a chatbot just predicts the next word, an agent has four specialized "workers" [03:17]:
+        Analyst: Finds patterns [03:35].
+        Planner: Decides the plan [04:01].
+        Operator: Does the work [04:09].
+        Auditor: Checks results and refines them [04:09].
+
+    The "OODA" Loop (Adaptability): Unlike simple automated workflows that break when things change, true AI agents use the OODA loop (Observe, Orient, Decide, Act) to adapt in real-time when the primary path fails [05:43].
+
+    The GPS Check (Before You Automate): To avoid "bad thinking" at scale, ensure you can define [08:29]:
+        Goal: A single, clear sentence.
+        Proof: Knowing what "good" looks like.
+        Steps: Precise, non-vague instructions.
+
+Strategic Advice
+
+    Focus on Narrow Niches: Winners build agents for very specific, painful, and repetitive workflows rather than trying to build broad, "everything" agents [09:43].
+    Judgment Over Speed: As AI makes output (code, content, analysis) cheap, the value shifts toward human judgment, taste, and the ability to define high-quality work [11:47].
+
+https://www.youtube.com/watch?v=P5sKKnWCvzk
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
