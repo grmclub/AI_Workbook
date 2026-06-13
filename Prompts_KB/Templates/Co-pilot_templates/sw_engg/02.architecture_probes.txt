@@ -82,6 +82,38 @@ Why This Prompt Works for Vision-Based Architecture Harvesting
 Would you like to add constraints to explicitly map high-availability/disaster-recovery (HA/DR) lines if they are present in your diagram, or should we include a section to highlight real-time drop copy feeds?
 AI responses may include mistakes. For financial advice, consult a professional. 
 ==============================
+/deepanalyse and extract the block diagram of the [XX ] system
+showing inputs it takes, outputs it delivers, dependencies and internal components with their logical interactions
+output in a box diagram in png format of Microsoft designer
+
+
+/deepanalyse and extract the block diagram of a OMS/EMS application for asset class equities in an securities brokerage
+showing inputs it takes, outputs it delivers, dependencies and internal components with their logical interactions
+output in a box diagram in png format with Microsoft Designer
+
+/Refine the prompt below in RTFC framework 
+
+ROLE:
+You are an expert Enterprise Capital Markets Architect specializing in low-latency Electronic Trading Infrastructure and Equity Brokerage Order/Execution Management Systems (OMS/EMS).
+
+TASK:
+Deeply analyze, extract, and design a comprehensive architectural block diagram of an enterprise-grade OMS/EMS application tailored specifically for the Equities asset class within a securities brokerage.
+
+The architecture must explicitly display the following integrated layers:
+1. Inputs: Order entries, modifications, cancellations, allocation instructions, and reference data feeds.
+2. Outputs: Execution reports, trade confirmations, market data normalization outputs, and post-trade downstreams.
+3. Internal Components & Logical Interactions: Order Lifecycle & State Manager, Smart Order Router (SOR), Pre-Trade Risk Checks Engine (with dedicated low-latency/FPGA-accelerated inline hot path and async cold path), FIX/Binary Protocol Gateways, and Position/P&L trackers.
+4. Core Dependencies: Instrument Security Master, Risk Management Systems, and Middle/Back-Office settlement feeds.
+
+FORMAT:
+Generate a clean, professional system architecture box diagram in PNG format using Microsoft Designer. Ensure every functional component is clearly labeled with sharp box boundaries, distinct color coding for separate modules (e.g., UI, OMS Core, EMS Core, Market Venues), and clear directional arrows depicting data-flow interactions.
+
+CONSTRAINTS:
+- Asset Class Specificity: Focus exclusively on Equities (Cash/DMA/Algos), ignoring features specific to derivatives, fixed income, or FX.
+- Latency Requirements: Architect the diagram to reflect high-frequency trading (HFT) and ultra-low latency demands, explicitly highlighting the sub-microsecond pre-trade risk validation hot path.
+- Visual Clarity: The diagram must prioritize high scannability. Avoid overly dense text blocks inside boxes; use short, punchy technical labels. 
+- Protocol Representation: Ensure the execution connectivity components visibly reflect standard protocols like FIX and binary native protocols (e.g., NASDAQ OUCH).
+
 ==============================
 ==============================
 ==============================
