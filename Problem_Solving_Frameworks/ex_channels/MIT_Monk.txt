@@ -574,9 +574,123 @@ Does this shift toward "Value Creation" align with how you’ve been adjusting y
 
 
 -------------------------------------------------
--------------------------------------------------
+In this video, Sandeep Swadia provides a blueprint for building a one-person, AI-driven business, emphasizing that intelligence has become a commodity, so the goal is to build a business, not just automate tasks.
+1. The Founder's Triangle
+
+Before starting, evaluate your business idea using these three criteria (aim for at least one, ideally all three):
+
+    Domain Expertise: Have you spent at least 5 years in an industry? Do you understand the nuances and pain points that others don't? [02:07]
+    Depth in Craft: What feels like "play" to you but feels like "work" to others? [02:33]
+    Distribution Advantage: Do you have a captive audience, a network, or a partnership that gives you an unfair path to reach customers? [02:59]
+
+2. The DREAM Machine
+
+Building a business involves managing five core functions. As a solo founder, you can use AI to automate or augment these:
+
+    D – Demand: Lead generation [04:48].
+    R – Revenue: Pricing, packaging, and renewal mechanics [05:05].
+    E – Engine: The core product or platform [05:14].
+    A – Admin: Back office (finance, legal, contracts) [05:28].
+    M – Marketing: Reputation, brand, and community [05:46].
+
+3. Building a Moat
+
+Once your business is running, you need to defend it against copycats:
+
+    Counter-positioning: Sell in a way that attacks the competitor’s business model so they can't respond without cannibalizing their own revenue (e.g., Netflix vs. Blockbuster) [09:48].
+    Sticky Habits: Create high switching costs so your product becomes a daily habit [10:19].
+    Proprietary Data/Learning Loops: Use unique customer data to refine your product, creating a self-reinforcing loop that improves the product and attracts more users [10:57].
+
+4. The Mindset
+
+Solo entrepreneurship requires managing the "inner critic." Swadia advises asking: "On my deathbed, what will I regret most?" [12:45] The risks you fail to take are far more damaging to your life's trajectory than the risks you take and fail [13:49].
+
+Video: How I’d Build a 1-Person AI Business (0 to $1M+)
 -------------------------------------------------
 
+This video highlights the critical shift from simple AI chatbots (which wait for instructions) to AI agents (which make their own decisions). Here is the essence of that transition:
+The Core Shift: Chatbot vs. Agent
+
+    Chatbot (Student Driver): You must constantly supervise, correct, and prompt them to get an output [01:26].
+
+    Agent (Hired Driver): You define the destination, and the agent independently handles the route, adjustments, and decision-making to reach it [01:42].
+
+Frameworks for Working with Agents
+
+To avoid failure, apply these two mental models:
+
+    The ARR Test: Only assign tasks to agents that are Autonomous, Recurring, and Reviewable. If a task requires live judgment or is a one-off, stick to a prompt [00:47].
+
+    The GPS Check: Before automating, ensure you have:
+
+        Goal: One clear, specific sentence describing what you want [08:29].
+
+        Proof: A clear way to define what "good" looks like and how to verify the results [08:39].
+
+        Steps: A precise sequence of actions without vague instructions [08:46].
+
+The Human Advantage in an AI World
+
+Swadia argues that agents amplify the quality of your thinking. If your instructions are vague, the agent will scale your bad thinking faster and with more confidence [08:07].
+
+The most valuable skill in 2026 is no longer just "thinking fast"—it is defining good work, spotting bad work, and knowing when to trust an agent versus a human [12:34]. Agents decouple your income from your hours, allowing you to scale your judgment rather than your time [11:41].
+
+Video: You’re Not Behind (Yet): Learn AI Agents in 13 Minutes
+
+
+
+-------------------------------------------------
+In this video, Sandeep Swadia provides a 30-day roadmap for moving from a casual user to an expert AI practitioner. He argues that most people treat AI like a search engine or a human, which is a mistake; it is a probability-based "guessing machine" that requires a specific language to master.
+1. The Core Frameworks (The "How-To")
+
+    AIM (Structuring Prompts):
+
+        A – Actor: Tell the AI who it is (e.g., "You are a world-class business writer") [03:27].
+        I – Input: Provide context and data [03:34].
+        M – Mission: State clearly what you want it to do [03:39].
+
+    MAP (Giving Context):
+
+        M – Memory: Use chat history or summaries for continuity [07:13].
+        A – Assets: Attach files or data to ground the AI in reality [07:28].
+        A – Actions: Instruct the AI to use specific tools (search, code, write) [07:47].
+        P – Prompt: The instruction itself [08:00].
+
+2. Debugging & Iteration
+
+Prompting is not "typing"; it's iterating. If the output is weak, the fault is yours [09:11]. Use these "cheat codes" to fix your input:
+
+    Chain of Thought: "Think step by step" [09:37].
+
+    Verifier: "Ask me three questions to clarify my intent" [09:52].
+
+    Refinement: "Propose two sharper versions of my question" [10:08].
+
+3. Avoiding the Echo Chamber
+
+AI defaults to "average" or "mediocre" because it samples from the middle of its probability space [11:01]. To get high-quality outputs:
+
+    Steer to Experts: Explicitly guide the AI to use specific frameworks, expert perspectives, or research sources (e.g., "Use strategies from Pixar's Brain Trust") [11:42].
+
+    Verify Everything: AI makes things up confidently [12:48]. Audit its claims via sources, counter-evidence, and cross-model verification (comparing output across ChatGPT, Gemini, and Claude) [13:22].
+
+4. Developing Taste (The OCEAN Framework)
+
+To make AI output sound like you rather than generic copy-paste:
+
+    O – Original: Look for non-obvious ideas [15:33].
+
+    C – Concrete: Demand real examples, names, and numbers [15:48].
+
+    E – Evident: Ensure the reasoning and evidence are visible [15:57].
+
+    A – Assertive: Force it to take a stance and defend it [16:04].
+
+    N – Narrative: Ensure the story flows with a hook, problem, and insight [16:19].
+
+Key Takeaway: You aren't just training the model; you are training yourself to define "good work." AI is here to "restore human worth" by handling the robotic tasks, leaving you to focus on judgment and purpose [17:12].
+
+Video: You’re Not Behind (Yet): How to Learn AI in 17 Minutes
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
