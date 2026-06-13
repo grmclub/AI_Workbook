@@ -15,6 +15,8 @@ Japanese problem-solving frameworks—many rooted in the Toyota Production Syste
 
 -Horenso: A communication framework used to prevent problems from escalating. It consists of three steps: Ho-koku (Report status), Ren-raku (Keep relevant parties informed), and So-dan (Consult superiors when issues arise).
 
+-3M:  Muda, Mura, and Muri are the "Three M's" of the Toyota Production System and Lean methodology. Together, they represent a holistic framework for identifying and eliminating inefficiencies: Muda is waste, Mura is unevenness (inconsistency), and Muri is overburden
+
 -------------------------------------------------------------
 ##popular japanese  frameworks used in manufacturing with a short summary of steps
 
@@ -59,6 +61,12 @@ If you are looking to optimize your own process, let me know:
     • What specific bottleneck or type of waste are you encountering?
     • Are you dealing with a high-volume assembly line or a low-volume custom process?
     • Which framework do you want to learn how to implement first?
+
+
+6. The Three M's Defined
+    • Muda (Waste): Any activity that consumes resources but adds no value for the customer. Also known as the 8 wastes (e.g., waiting, overproduction, defects, unnecessary transport). [1, 2]
+    • Mura (Unevenness): Fluctuations in workload, such as busy and slow periods. It forces processes to speed up and slow down, inherently creating the other two M's. [1, 2, 3]
+    • Muri (Overburden): Pushing machines, processes, or people beyond their natural limits. This often leads to stress, burnout, equipment failure, and defects
 
 -------------------------------------------------------------
 ##popular japanese  frameworks used for quality control with a short summary of  steps
