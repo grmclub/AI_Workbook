@@ -18,6 +18,28 @@
 
 
 -------------------------------------------------
+1. Business Thinking Foundation
+“Act as a senior MBA professor from Harvard Business School known for teaching strategic business thinking to executives. Explain how top business leaders approach problems differently from average thinkers. Then analyze my current business or career situation [describe situation] and identify where my thinking lacks clarity, structure, or strategic direction. Provide a clear breakdown of how to think about this problem like a business leader.”
+
+2. Business Model Mastery
+“Act as an MBA professor specializing in business model design. Take my business idea or current business [describe business or idea] and break it down into its core components including value proposition, revenue streams, cost structure, customer segments, and distribution channels. Then evaluate whether my model is sustainable, scalable, and profitable, and suggest realistic improvements.”
+
+3. Market & Customer Intelligence
+“Act as an MBA professor teaching marketing strategy. Analyze my industry [insert industry] and identify the most valuable customer segments, their real problems, purchasing motivations, and decision-making triggers. Then explain how businesses win markets by understanding customers better than competitors.”
+
+4. Competitive Advantage Builder
+“Act as an MBA professor teaching competitive strategy. Evaluate my business, skill, or career field [describe field] and identify what competitors are doing and where the biggest opportunities exist. Help me define a clear competitive advantage that differentiates me from others.”
+
+5. Revenue Growth Strategy
+“Act as an MBA professor specializing in growth strategy. Analyze my current revenue sources or earning methods [describe income model] and identify practical strategies to increase revenue through pricing optimization, customer expansion, or new offerings.”
+
+6. Decision-Making Framework
+“Act as an MBA professor known for teaching executive decision-making. Teach me how to evaluate complex decisions using structured thinking, including risk evaluation, opportunity cost analysis, and long-term impact assessment. Then apply this framework to a real decision I am facing [describe decision].”
+
+7. Real-World Business Case Simulation
+“Act as an MBA professor conducting a real business case discussion similar to those taught at Harvard Business School. Present a realistic business scenario relevant to my industry [insert industry], challenge me to analyze it, and guide me toward strategic decision-making.”
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
