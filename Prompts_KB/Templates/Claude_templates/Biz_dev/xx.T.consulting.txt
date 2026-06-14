@@ -14,11 +14,31 @@ Prompt 4: "The Agency Productization Blueprint"
 Prompt 5: "The Six-Figure Agency Scaler"
 "My AI automation agency is making [current revenue] per month. Build me a 12-month roadmap to hit $100K+ per year. Include: Month 1-3: a foundation phase with exact revenue targets, number of clients to close, and which services to focus on, Month 4-6: a systems phase showing when to hire my first contractor, what to delegate, and how to create SOPs for everything, Month 7-9: a growth phase with advanced marketing strategies including paid ads, content marketing, speaking, and strategic partnerships, Month 10-12: a scaling phase showing how to add new service lines, enter new industries, and build a team, a financial model showing revenue, expenses, and profit at each stage, the 3 key hires I need to make and in what order (sales, delivery, admin), a pricing evolution strategy showing when and how to raise rates as demand increases, a thought leadership plan that positions me as THE AI automation expert in my market, an agency valuation framework so I know what my business is worth at each milestone, and the one decision at each phase that separates agencies that scale from agencies that stall. Give me the honest version with real numbers not motivational fluff."
 
-
-
-
-
 -------------------------------------------------
+Prompt 1: The Competitor Autopsy
+"Act as a competitive intelligence analyst. My niche is [niche]. My top 3 competitors are [names/links]. Analyze their content strategy, messaging, offers, and audience positioning. Find every gap, weakness, and blind spot they have. Then tell me exactly how to exploit each one."
+
+Prompt 2: The Content Gap Killer
+"Act as an SEO and content strategist. My competitors are [names]. My business is [description]. Identify the top 10 content topics they are completely ignoring that my target audience is actively searching for. For each topic give me a headline, content angle, and why it will outrank them."
+
+Prompt 3: The Positioning Weapon
+"Act as a brand positioning expert. Here is my offer: [paste offer]. Here are my top 3 competitors and what they promise: [paste details]. Find the exact positioning angle that makes me the obvious choice for [target audience]. Write me a one-liner, a tagline, and a 3-sentence brand statement that makes them irrelevant."
+Competing on price is a race to the bottom.
+Competing on positioning is a race no one else can run.
+This prompt ends the race before it starts.
+
+Prompt 4: The Audience Stealer
+"Act as a consumer psychology expert. Study the reviews, complaints, and comments from customers of [competitor names] on [platforms]. Identify the 5 biggest frustrations their audience has that are going unaddressed. Then show me how to speak directly to those frustrations in my marketing to pull their audience toward me."
+Your competitor's unhappy customers are your warmest leads.
+Claude finds them and hands them to you.
+
+Prompt 5: The Domination Roadmap
+"Act as a business growth strategist. My niche is [niche]. My current position in the market is [describe]. My top competitors are [names]. Based on their weaknesses and my strengths, build me a 90-day plan to become the most visible and trusted brand in this space. Give me specific weekly actions across content, offers, and outreach."
+Most people react to competition.
+The top 1% plan to make competition irrelevant.
+This is that plan.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
