@@ -201,6 +201,25 @@ keeping the core theme connected."
 10 YouTube videos in 30 minutes. Include idea research, angle generation, title creation, thumbnail concepts, scripting, and content planning. Make the process simple, repeatable, and optimized for consistent video production."
 
 -------------------------------------------------------------
+1. The "Brand-Voice" Archetype Scout
+"Act as an Elite Brand Copywriting Strategist. I want to build a highly recognizable professional voice for [My Business]. Conduct a rapid diagnostic sprint to isolate our target audience's language patterns. Map out a foundational structural text layout framework that defines our core vocabulary, explicit tone constraints, and a list of overused corporate jargon words to completely ban."
+
+2. The "Prestige-Landing" Page Blueprint
+"Act as a Premium Conversion Rate Optimization (CRO) Specialist. Write a conversion-focused text layout blueprint for a primary business landing page. Format the copy hierarchy using the 'Immediate Value Metric + Explainer Sub-headline + Scannable Solution Pillars' sequence. Eliminate dense blocks of text to force high readability and accelerate mobile reader navigation loops."
+
+3. The "Pattern-Interrupt" Email Opener
+"Act as a Master Direct-Response Email Marketer. Generate 5 distinct, high-open email subject line and preview text layouts designed for [Target Audience]. Focus entirely on addressing an acute industry bottleneck. Every script must utilize a sharp structural pattern-interrupt layout explicitly engineered to freeze a busy professional's eye inside a crowded workspace inbox."
+
+4. The "Asymmetric-Value" Long-Form SOP
+"Act as an Expert B2B Content Architect. Create a comprehensive Standard Operating Procedure (SOP) text layout to break down a complex operational framework into a highly scannable long-form article or guide. Ensure the body copy uses a sharp heading hierarchy (H2/H3), direct bullet frameworks, and clear visual line breaks to maximize reading velocity and memory retention."
+
+5. The "Two-Step" Social Inbound Hook
+"Act as an Organic Inbound Funnel Engineer. Write 5 variations of an authority-building social media text post layout. Structure the narrative around an unforced, peer-to-peer case study execution. Conclude the piece with a conversion-focused 'Two-Step' call to action layout that instructs readers to reply with a keyword to automatically receive a high-density workflow asset."
+
+6. The "Friction-Free" Product Story Sequence
+"Act as a Consumer Behavioral Psychologist. Design a repeatable, text-based sales sequence layout engineered to turn skeptical viewers into active buyers. Frame the copy framework around a raw, authentic realization regarding a major market frustration, detailing exactly how your specific product mechanism eliminates the problem natively without relying on hyperbole."
+
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------

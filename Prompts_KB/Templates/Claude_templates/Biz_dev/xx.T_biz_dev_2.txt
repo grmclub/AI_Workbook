@@ -1,0 +1,52 @@
+
+-------------------------------------------------
+Most entrepreneurs spend years learning:
+❌ How to position an offer
+❌ How to write copy that converts
+❌ How to find a profitable niche
+❌ How to build an audience
+❌ How to price their products
+Claude AI can hand you all of this. In 10 minutes. For free.
+
+-------------------------------------------------
+PROMPT 1 — Find your profitable niche:
+"I want to start an online business. Here are my skills and interests: [list them]. Analyze these and give me 3 niche ideas with real income potential, low competition, and a hungry audience willing to pay. Explain why each one works."
+10 years of market research. 10 minutes.
+
+PROMPT 2 — Build your irresistible offer:
+"I'm targeting [niche]. My audience's #1 problem is [problem]. Create a digital product offer for me — include the name, price point, what's inside, and why someone would buy it today instead of waiting."
+This is what business coaches charge $5,000 to help you do.
+
+PROMPT 3 — Write copy that sells:
+"Write a sales page for my product: [describe it]. The target customer is [describe them]. Use proven copywriting frameworks. Include a headline, problem section, solution, bullet benefits, and a strong call to action."
+That's a $500 copywriter. Replaced.
+
+PROMPT 4 — Build your content strategy:
+"I'm building an audience in [niche] on [platform]. Create a 30-day content plan that builds trust, shows my expertise, and moves followers toward buying my [product/service]. Give me post ideas, formats, and hooks."
+Most creators take 2 years to figure this out by trial and error.
+
+PROMPT 5 — Price with confidence:
+"I offer [product or service] to [target audience]. Research-based pricing psychology — what should I charge? Give me 3 pricing options (low/mid/premium), what to include at each tier, and how to position each one so buyers feel like they're getting a deal."
+No more guessing. No more undercharging.
+
+-------------------------------------------------
+— Discovery Call Framework
+"Generate 12 discovery call questions for my niche: [niche]. My typical client: [type]. Across 4 categories: current situation, pain and cost of pain, what success looks like, buying authority and timeline. For each question, add one line on what I am actually trying to learn."
+
+— Follow-Up System
+"Write a follow-up for a prospect silent after [X] days. Last interaction: [what was discussed]. My service: [what I do]. Tone: confident, not chasing. Give me 3 versions: (A) gentle check-in, (B) value-add with an insight, (C) closing the loop message with mild FOMO. Each under 60 words."
+
+— Proposal Closer
+"Write a project proposal for: Client: [name]. Problem they described: [their words]. My solution: [what I will do]. Timeline: [weeks]. Investment: [price]. Confident tone. Include: one-sentence diagnosis, three deliverables, one risk I remove, clear CTA. No fluff."
+
+— Cold DM Writer
+"Write a personalised DM for me to send to [PROSPECT] on [PLATFORM]. Context about them: [2-3 sentences from their profile]. My service: [what I do]. Goal: open a conversation, not pitch. Max 80 words. No corporate language. No 'I hope this finds you well.'"
+
+— Activation Prompt
+"Act as a direct response sales consultant who has helped solopreneurs land high-ticket clients through cold outreach. From now on, whenever I share my service and ideal client, write me outreach that gets replies — not messages, a system. My service is: [insert]. My ideal client is: [describe specifically]."
+
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------

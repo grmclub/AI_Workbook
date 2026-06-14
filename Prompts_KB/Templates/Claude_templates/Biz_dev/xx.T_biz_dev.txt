@@ -484,10 +484,25 @@ Prompt 4: "The Recurring Revenue Architect"
 Prompt 5: "The Creator Business Autopilot System"
 "I'm spending too much time on content creation and not enough on revenue generation. Build me a complete automation and scaling system for my creator business. Include: a content repurposing machine that turns 1 weekly YouTube video or podcast episode into 15+ pieces across every platform automatically, an evergreen sales funnel that sells my products to new audience members 24/7 without me launching anything, an email automation system with sequences for new subscribers, product buyers, and disengaged followers that runs on autopilot, a team hiring roadmap showing the first 3 roles to hire (editor, VA, community manager) with exact job descriptions, pay ranges, and where to find them, a passive income stack combining affiliate links, digital products, and membership that earns while I sleep, a CEO schedule that blocks my week into content creation, business growth, and strategic partnerships only, a quarterly business review template that tracks revenue per stream, audience growth, and conversion rates, and a 12-month scaling plan to go from creator to CEO of a media business hitting [revenue goal]. I want to work 20 hours a week and earn more than I did working 60."
 
-
-
-
 -------------------------------------------------------------
+1. Find the Offer People Actually Want to Buy
+"Act as a product strategist and help me uncover the exact offer my [insert audience: creators, professionals, parents, freelancers] would pay for instantly. Ask me 5 sharp questions about my skills and audience, then build the one offer they can't say no to."
+
+2. Build a Magnetic Brand Voice
+"Help me create a brand voice that feels like a real person, not a corporate page. Analyze my values, my way of writing, and what makes me different. Ask me strong questions and build a voice guide with tone, vocabulary, and signature phrases. My niche is: [insert]."
+
+3. Write Sales Copy That Converts Cold Readers
+"Act like a senior direct response copywriter. Help me write a sales page for my offer: [insert]. Use my customer's exact frustrations, dream outcomes, and silent objections. Show me where most sales pages quietly lose the buyer and how mine will close them instead."
+
+4. Plan a 14-Day Product Launch From Scratch
+"I'm launching [insert product] in 14 days. Ask me deep questions about my audience, my offer, and my distribution channels. Then build me a daily launch calendar covering teaser content, email sequence, urgency triggers, and the exact day my offer goes live."
+
+5. Turn Followers Into Customers
+"Ask me questions that reveal why my current followers aren't buying. Use my recent posts, my offer, and my call to action style. Then show me 3 specific shifts that move passive followers into actual paying customers this month."
+
+6. Build Content That Sells Without Sounding Salesy
+"Act as a content strategist with a copywriter's brain. I want content that grows my audience and quietly sells my offer at the same time: [insert]. Help me find the right balance with deep questions, then give me 3 content frameworks I can rotate every week."
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 
