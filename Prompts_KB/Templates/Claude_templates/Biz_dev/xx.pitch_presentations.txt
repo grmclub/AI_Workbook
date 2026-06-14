@@ -15,6 +15,36 @@
 "Create a complete presentation on [insert topic] using storytelling structure: Hook → Conflict → Journey → Insight → Transformation → Call to Action. Make slides emotional, memorable, and persuasive. Add speaker notes with delivery guidance."
 
 -------------------------------------------------
+📌 1 | Lay the Foundation: Strategic Slide Blueprint
+
+>> Prompt Template:
+"I'm preparing a presentation on [insert topic] for [insert audience type - e.g., clients, students, execs]. Create a slide-by-slide breakdown (max 10 slides) with a logical flow: opener, main ideas, conclusion, and CTA. Ensure it persuades or educates clearly."
+
+🔥Why this works: It builds structure before design, saving hours.
+
+📌 2 | Visual Direction Without Designing
+
+>> Prompt Template:
+"Based on this slide outline → [insert or paste your outline], recommend suitable visuals, charts, icons, or simple illustrations for each slide. Focus on clarity and professionalism. No busy designs, just elements that support the message."
+
+🔥Pro Tip: Ask Claude to reference real-world examples or common analogies to make concepts visual.
+
+📌 3 | Transform Messy Notes Into Polished Slides
+
+>> Prompt Template:
+"Here are my rough notes for a talk on [insert subject] → [paste notes]. Turn them into concise, impactful slide content with strong headings and supporting bullets. Avoid paragraph text, make it presentation-ready."
+
+🔥Extra Angle: Ask for two versions; one casual, one formal, based on your audience type.
+
+
+📌 4 | Add Influence: Data, Quotes & Openers
+
+>> Prompt Template:
+"Enrich this presentation outline → [paste outline] with powerful hooks, surprising statistics, or relevant quotes per slide. Tailor them to a tone of [choose one: expert, thought-leader, motivational, direct]."
+
+🔥Why this matters: Hooks and data boost credibility and engagement instantly.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
