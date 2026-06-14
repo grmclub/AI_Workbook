@@ -366,8 +366,44 @@ What blind spot I must address
 End with a 3-point upgrade summary to reframe my idea without changing its core.”
 
 -------------------------------------------------------------
+1/ The Executive Brief Engine
+"Act as a chief of staff who briefs CEOs daily. Turn this document into a one-page brief: the 3 decisions it forces, the risks buried in the details, and what I can safely ignore. The document: [paste document]."
+
+2/ The Research Sprint
+"Act as a senior research analyst. Give me a structured overview of [insert topic] in 10 bullet points: what's established, what's debated, and the 3 sources worth reading in full. My goal: [insert goal]."
+
+3/ The Meeting Decoder
+"Act as an operations lead. Turn these meeting notes into action: every decision made, every task with an owner and deadline, and the open questions nobody answered. My notes: [paste notes]."
+
+4/ The Compare-and-Decide Matrix
+"Act as a decision consultant. Compare my options in a table across the 5 criteria that matter most for my situation, score each 1-10, and tell me which you'd pick and why. My options: [paste options]. My situation: [describe situation]."
+
+5/ The Counter argument Check
+"Act as a sharp devil's advocate. Read my summary or plan and list the 5 strongest objections, the weakest assumption I'm making, and what evidence would change my mind. My text: [paste text]."
+
 
 -------------------------------------------------------------
+1. Social Media Strategy Architect
+"Act as a top-rated social media manager who handles accounts for major brands and creators. Analyze my business, niche, target audience, competitors, and goals. Build a clear social media strategy including positioning, content themes, and growth opportunities. Details: [paste business, niche, audience, goals].”
+
+2. Content Pillar Builder
+“Create 5 strong content pillars for my social media brand based on my niche and expertise. For each pillar, suggest multiple post ideas that educate, entertain, or inspire my target audience.”
+
+3. The 30-Day Content Calendar
+“Create a 30-day social media content calendar for my niche. Include daily post ideas, recommended formats (carousel, reel, thread, etc.), and the goal of each post, such as awareness, engagement, or lead generation.”
+
+4. Scroll-Stopping Post Creator
+“Create a highly engaging social media post about this topic: [insert topic]. Start with a strong hook that stops scrolling, deliver clear value in simple language, and end with a call-to-action encouraging comments or shares.”
+
+5. Viral Short-Form Script
+“Write a short-form video script for Instagram Reels, YouTube Shorts, or TikTok about this topic: [insert topic]. Start with a curiosity-driven hook, provide quick value, and finish with a call-to-action.”
+
+6. Engagement & Community Builder
+“Create a strategy to increase engagement on my social media posts. Suggest conversation starters, comment prompts, storytelling techniques, and community-building tactics that encourage followers to interact consistently.”
+
+7. Performance Optimization
+“Review my social media strategy and recent posts. Identify what content performs best, what needs improvement, and suggest specific changes to increase reach, engagement, and conversions.”
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
