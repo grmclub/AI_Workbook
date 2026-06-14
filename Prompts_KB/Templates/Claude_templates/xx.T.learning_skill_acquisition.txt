@@ -170,9 +170,26 @@ I am going to explain what I understood as if you are a 10-year old child
 While I explain, stop me every time I use jargon without knowing what it means, skip a step in the reasoning, or simplify so much that it becomes wrong.
 At the end, tell me exactly what these mistakes reveal about what is still not solid in my mind.
 
-
-
 -------------------------------------------------------------
+1. The "Deconstruction-Vector" Skill Scout
+"Act as an Elite Learning Architect. I want to master [High-Income Skill] and start earning from it in under 60 days. Conduct a rapid 24-hour diagnostic sprint to deconstruct this skill into its core 20% high-leverage execution blocks. Isolate 3 low-overhead practical sub-skills that deliver immediate, visible results for a business, creating a strict text framework for my 60-day roadmap."
+
+2. The "Immersive-Practice" Execution SOP
+"Act as a Senior Cognitive Performance Coach. Create a comprehensive Standard Operating Procedure (SOP) text layout for a daily 90-minute deep-work learning routine. Design a strict feedback loop checklist that forces active, high-velocity project creation rather than passive consumption, utilizing an action-oriented heading hierarchy (H2/H3) to accelerate muscle memory and technique mastery."
+
+3. The "Pattern-Interrupt" Portfolio Builder
+"Act as a Premium Product Positioning Consultant. Write a highly structured text layout blueprint to turn my initial 14 days of practice projects into an authoritative public portfolio asset. Outline a high-contrast 'Before: Broken Asset + My Targeted Technical Intervention + After: Clean High-Value Outcome' structural layout that forces prospects to see my rapid skill application as expert-level work."
+
+4. Deliberate Practice System Prompt
+“Act as a world-class performance coach. Design a deliberate practice framework for mastering [skill]. Include drills, error correction systems, feedback loops, and progression benchmarks. Constraints: active practice only, no passive consumption, optimized for measurable skill improvement and long-term competence.”
+
+5. Accelerated Learning Framework Prompt
+“Act as a cognitive science and learning expert. Create an accelerated learning system for mastering [skill] using active recall, spaced repetition, mental models, and first-principles thinking. Constraints: evidence-based techniques only, avoid ineffective study habits, optimized for speed, retention, and deep understanding.”
+
+6. Real-World Skill Application Prompt
+“Act as a top-performing professional who uses [skill] daily. Design practical projects and challenges that simulate real-world use of [skill]. Include increasing levels of difficulty and feedback checkpoints. Constraints: hands-on learning only, no theoretical exercises, optimized for confidence and practical competence.”
+
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
