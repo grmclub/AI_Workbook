@@ -86,11 +86,10 @@ AI responses may include mistakes. For financial advice, consult a professional.
 showing inputs it takes, outputs it delivers, dependencies and internal components with their logical interactions
 output in a box diagram in png format of Microsoft designer
 
-
 /deepanalyse and extract the block diagram of a OMS/EMS application for asset class equities in an securities brokerage
 showing inputs it takes, outputs it delivers, dependencies and internal components with their logical interactions
 output in a box diagram in png format with Microsoft Designer
-
+==============================
 /Refine the prompt below in RTFC framework 
 
 ROLE:
