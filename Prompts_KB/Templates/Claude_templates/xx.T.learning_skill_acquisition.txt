@@ -191,6 +191,20 @@ At the end, tell me exactly what these mistakes reveal about what is still not s
 
 
 -------------------------------------------------------------
+1/ The Skill Gap Finder
+"Act as a career strategist. Based on my role and where my field is heading, tell me the 3 skills worth learning next and the fastest way into each. My role: [insert role]. My industry: [insert industry]."
+
+2/ The Learn-by-Teaching Loop
+"Act as a learning coach. Give me 5 tiny lessons on [insert topic] I could teach a beginner, since teaching forces me to learn it properly. My current level: [insert level]."
+
+3/ The 20-Minute Rule
+"Act as a study designer. Turn [insert skill] into daily 20-minute sessions for 4 weeks, each with one clear thing to practice and a way to know I got it. My goal: [insert goal]."
+
+4/ The Apply-It-Today Task
+"Act as a hands-on mentor. Give me one small real task that uses what I just learned about [insert topic], so it sticks instead of fading. My context: [insert context]."
+
+5/ The Plateau Breaker
+"Act as a skills coach. I am stuck at an intermediate level in [insert skill]. Diagnose the likely reason and give me 3 drills to break through. My situation: [describe situation]."
 
 -------------------------------------------------------------
 -------------------------------------------------------------
