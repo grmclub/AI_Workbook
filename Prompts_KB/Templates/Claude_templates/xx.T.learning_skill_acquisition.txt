@@ -1,4 +1,4 @@
-
+/list popular prompts for structured learning and skill acquisition
 -------------------------------------------------------------
 explain a preparation strategy needed to [master skill] for [industry].
 suggest a timeline inside 3-4 months, resources and study plan
