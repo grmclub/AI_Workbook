@@ -184,6 +184,19 @@ Build an actionable 3-part script to pivot this conversation.
 
 
 -------------------------------------------------------------
+1. Productivity Audit Mode Activation "Act as a time audit specialist who has helped executives reclaim 15+ hours per week. From now on, whenever I share my schedule and work type, audit it completely and rebuild it — not tips, a system. My role is: [describe]. My biggest time problem is: [insert]."
+
+2. Full Time Audit "Audit my week completely. My meeting load: [hours/week]. Biggest digital distractions: [list]. Work type: [remote/office/hybrid]. Give me which meetings to cancel or shorten, when I lose focus most, my no-meeting block protocol, and email batching system."
+
+3. Task Prioritization Matrix "I have too many tasks. My list: [paste everything]. My #1 goal: [specific]. Hours today: [X]. Apply Eisenhower Matrix and RICE scoring. Give me my top 3 tasks for today, my single Most Important Task, and what to delete or delegate immediately."
+
+4. Automation Map"I want to stop doing tasks that don't require me. My recurring tasks: [list every one]. My hourly value: [X].Budgetfortools:[X]. Budget for tools: [ X].Budgetfortools:[X/month]. Give me what to eliminate, automate, delegate, batch, or simplify — with tool recommendation, cost, and time saved per week for each."
+
+5. Decision Fatigue Eliminator "I'm mentally exhausted by midday. Decisions I make before noon: [list]. Areas I waste mental energy: [describe]. Give me which decisions to eliminate or pre-decide, standard defaults for repeated choices, how to batch low-value decisions, and how to protect prime hours for high-stakes thinking."
+
+6. Shutdown Ritual Designer "I can't stop thinking about work after hours. Work end time: [X]. Problems after work: [describe]. Sleep time: [X]. Design my shutdown ritual — 10-minute end sequence, open loops capture, physical transition, evening protection zone, tomorrow prep in 2 minutes."
+
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
