@@ -18,6 +18,23 @@
 “Act as a holistic health strategist. Create a 30-day roadmap to improve overall health, energy, and wellness for a [age] year old [gender]. Include weekly goals, nutrition improvements, exercise progression, and habit building. Constraints: realistic lifestyle changes only, no extreme detoxes, optimized for sustainable long-term health improvements.”
 
 -------------------------------------------------
+1/ Discover What’s Really Holding You Back
+“Act as a mindset coach and help me uncover the invisible mental blocks that are holding me back in [insert area: career, relationships, health, money]. Ask me 5 deep questions and give me a mirror-like analysis based on my answers.”
+
+2/ Find Your Real Purpose
+“Help me identify my true life purpose by analyzing my core values, passions, and what energizes me. Ask me powerful questions and build a purpose statement that aligns with who I am. My current interests are: [insert].”
+
+3/ Break Negative Thought Patterns
+“Act like a cognitive behavior therapist. Help me identify repetitive negative thought loops or self-sabotaging patterns I’m not consciously aware of. Use my recent situation: [insert]. Show me how to reframe my thinking instantly.”
+
+4/ Get Out of Feeling Stuck in Life
+“I’m currently stuck in [insert area: life/career/mindset]. Ask me deep questions to find out why I’m stuck. Then analyze my answers and show me the exact belief or decision that’s keeping me stuck and how to break out fast.”
+
+5/ Uncover Your Hidden Talents
+“Ask me questions that reveal skills or abilities I’ve been underestimating or ignoring. Use my past hobbies, passions, school/work experiences, and things I naturally enjoy. Then show me 3 hidden talents I should develop.”
+
+-------------------------------------------------
+-------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
 
