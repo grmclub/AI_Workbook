@@ -1,0 +1,24 @@
+-------------------------------------------------
+1. Full-Body Health Optimization Blueprint Prompt
+“Act as a world-class longevity and health optimization expert. Build a complete wellness system for a [age] year old [gender], [height], [weight], with [current health status]. Include nutrition, exercise, sleep, stress management, and lifestyle habits. Constraints: evidence-based only, no extreme protocols, optimized for long-term energy, vitality, and disease prevention.”
+
+2. Nutrition & Metabolic Health Prompt
+“Act as an elite sports nutritionist and metabolic health specialist. Create a daily nutrition plan for a [body type] individual aiming to improve energy, immunity, and long-term health. Include macro balance, meal timing, hydration, and food choices. Constraints: practical affordable foods only, no fad diets, optimized for sustainable health and energy stability.”
+
+3. Energy & Vitality Optimization Prompt
+“Act as a world-class performance and energy coach. Design a system to maximize daily energy levels for a [student/professional] with [lifestyle description]. Include sleep optimization, caffeine use, movement, and recovery strategies. Constraints: science-backed only, no gimmicks, optimized for stable energy throughout the day.”
+
+4. Disease Prevention Lifestyle Prompt
+“Act as a preventative health specialist. Identify key lifestyle habits that reduce long-term disease risk for a [age] year old [gender]. Include exercise, diet, stress reduction, and screening recommendations. Constraints: medical evidence-based only, no fear-based messaging, optimized for long-term health and prevention.”
+
+5. Mental Health & Stress Management Prompt
+“Act as a world-class mental wellness coach. Create a daily system to reduce stress, improve mood, and support mental clarity for a [student/professional]. Include habits, routines, and cognitive techniques. Constraints: practical tools only, no clinical diagnosis, optimized for emotional stability and resilience.”
+
+6. 30-Day Wellness Transformation Prompt
+“Act as a holistic health strategist. Create a 30-day roadmap to improve overall health, energy, and wellness for a [age] year old [gender]. Include weekly goals, nutrition improvements, exercise progression, and habit building. Constraints: realistic lifestyle changes only, no extreme detoxes, optimized for sustainable long-term health improvements.”
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
