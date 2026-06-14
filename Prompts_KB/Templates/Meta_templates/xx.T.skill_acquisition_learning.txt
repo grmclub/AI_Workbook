@@ -1,0 +1,114 @@
+
+-------------------------------------------------
+Here are the most popular "structured learning" prompts people use with AI to acquire skills faster. You can copy/paste and fill in the [brackets]:
+
+1. Feynman Technique Prompt
+Use for: Deep understanding, finding gaps
+
+Code
+You are a patient tutor. I want to learn [topic/skill].
+First, explain [concept] to me like I'm 12 years old.
+Then, ask me to explain it back to you in my own words.
+Point out any gaps or misconceptions in my explanation and correct them.
+Keep going until I can teach it clearly. Start now.
+
+2. Curriculum Architect Prompt
+Use for: Building a full learning path
+
+Act as a world-class curriculum designer.
+I want to master [skill] in [timeframe] starting from [current level].
+Create a week-by-week study plan with:
+1. Learning objectives per week
+2. Core resources: books, papers, courses, docs
+3. Practice projects with increasing difficulty
+4. How to measure progress
+5. Common pitfalls to avoid
+Make it realistic for [X hours/week].
+
+3. 80/20 Drill Generator
+Use for: Finding high-leverage practice
+
+For [skill/domain], list the 20% of sub-skills that give 80% of real-world results.
+For each sub-skill, give me 3 deliberate practice drills I can do in <30 min.
+Order them from highest ROI to lowest.
+Then create a 2-week drill schedule.
+
+4. Socratic Coach Prompt
+Use for: Active recall instead of passive reading
+
+Don't lecture me. For [topic], teach via Socratic method.
+Ask me one question at a time to guide me to the answer.
+If I get it wrong, give me a hint, not the answer.
+Increase difficulty as I improve.
+Track concepts I've mastered vs still shaky.
+Start with fundamentals.
+
+5. Project Scaffolding Prompt
+Use for: Learning by building
+
+I want to learn [skill] by building projects.
+Act as my senior engineer mentor.
+Step 1: Give me 5 projects from beginner to expert level.
+Step 2: For Project 1, break it into tasks and tell me what concept each task teaches.
+Step 3: Review my code/approach after each task and suggest 1 improvement.
+Let's start with Project 1. Give me the spec and first task only.
+
+6. Mental Model Extractor
+Use for: Learning how experts think
+
+Code
+Interview me about [skill/task I do].
+Your goal: extract my mental models and decision rules.
+Ask "why" after each step I describe.
+Ask "what if X changed" to find edge cases.
+At the end, summarize my process as a flowchart + checklist I can teach others.
+
+7. Spaced Repetition Card Maker
+Use for: Retaining what you learn
+
+Code
+From this text/topic: [paste notes or topic]
+Create Anki-style flashcards using active recall + cloze deletion.
+Focus on: concepts I must derive, not memorize; common bugs; trade-offs.
+Format as Q:... A:...
+Generate 15 cards, ordered by importance.
+
+8. Mistake Log + Debrief Prompt
+Use for: Deliberate practice loops
+
+Code
+I just finished [practice session/project]. Here’s what I did: [describe]
+Act as my coach. Do a post-mortem:
+1. What did I do well?
+2. What was the core mistake and why did it happen?
+3. Give me 1 targeted drill to fix it
+4. Update my "loss log" with lesson learned
+Be blunt, not encouraging.
+
+9. Transfer Learning Prompt
+Use for: Applying skill A to domain B
+
+Code
+I know [skill A]. I want to learn [skill B].
+Map concepts from A onto B to accelerate learning.
+Show me: what transfers directly, what’s analogous but different, what’s completely new.
+Then give me 3 exercises that use my A skills to bootstrap B.
+
+10. Bar-Raiser / Interview Prep Prompt
+Use for: Testing mastery under pressure
+
+Code
+Act as a [FAANG/HFT/Google] interviewer for [role/skill].
+Run a 45-min mock interview.
+Mix theory questions, debugging, and system design at [level].
+After each answer, grade me and tell me what a Staff-level answer includes.
+At the end, give me a study plan for my 3 weakest areas.
+
+One prompt ≠ skill: Use them to create loops: Learn → Practice → Get feedback → Revise
+Add constraints: "Assume I have no math background" or "No libraries, just stdlib" makes answers better
+Demand receipts: End prompts with "Show your work" or "Cite sources" so it doesn't hallucinate
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
