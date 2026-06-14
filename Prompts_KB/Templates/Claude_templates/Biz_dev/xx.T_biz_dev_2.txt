@@ -45,8 +45,34 @@ No more guessing. No more undercharging.
 — Activation Prompt
 "Act as a direct response sales consultant who has helped solopreneurs land high-ticket clients through cold outreach. From now on, whenever I share my service and ideal client, write me outreach that gets replies — not messages, a system. My service is: [insert]. My ideal client is: [describe specifically]."
 
+-------------------------------------------------
+1. Income Opportunity Finder
+"Act as a successful online entrepreneur who has built multiple income streams. Analyze my skills, experience, interests, and available time [describe details]. Identify the best online income opportunities for me, explain why they fit my situation, and rank them by earning potential, difficulty, and startup cost."
+
+2. Digital Product Creator
+"Act as a digital product strategist who has launched successful ebooks, templates, courses, and toolkits. Take my niche [insert niche] and generate digital product ideas people would be willing to pay for. Explain the target audience, problem solved, pricing range, and why each idea has demand."
+
+3. Market Research Accelerator
+"Act as a market research consultant. Analyze the market for [insert niche or idea] and identify customer pain points, buying motivations, common frustrations, existing competitors, and market gaps. Then recommend the most profitable opportunities to pursue."
+
+4. Offer Builder
+"Act as a direct-response marketing strategist. Take my product or service [describe offer] and help me create an irresistible offer. Define the core promise, unique value proposition, bonuses, pricing strategy, and positioning that will make people want to buy."
+
+5. Content Growth System
+"Act as a social media strategist who specializes in audience growth. Create a content plan for promoting my business in [insert niche]. Generate content pillars, post ideas, hooks, storytelling angles, and calls-to-action designed to attract potential customers."
+
+6. Sales Page Generator
+"Act as a conversion copywriter. Write a high-converting sales page for my product [describe product]. Include a compelling headline, problem identification, solution explanation, benefits, social proof suggestions, FAQs, and a strong call-to-action."
+
+7. Income Growth Advisor
+"Act as a business growth consultant. Analyze my current income stream or business model [describe business]. Identify weaknesses, missed opportunities, and bottlenecks. Then provide practical recommendations for increasing revenue, improving profitability, and scaling faster."
+-------------------------------------------------
+-------------------------------------------------
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 
 
--------------------------------------------------
--------------------------------------------------
--------------------------------------------------
+
+
