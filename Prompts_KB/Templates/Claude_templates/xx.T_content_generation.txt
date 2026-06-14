@@ -169,6 +169,37 @@ Claude saves time.
 
 You still make the final decision.
 -------------------------------------------------------------
+1. Viral Video Finder
+"Analyze the [niche] niche and generate 50 YouTube video ideas with the highest potential for views. Focus on audience curiosity, strong outcomes, hidden opportunities, controversial opinions, mistakes, trends, and topics people actively search for. Prioritize ideas with the strongest click potential."
+
+2. Video Angle Generator
+"Take this video idea: [paste idea]. Generate
+15 different angles for it. Include beginner angles, advanced angles, case studies, mistakes, lessons learned, challenges, experiments, and contrarian viewpoints. Make each angle feel like a separate video."
+
+3. Title and Thumbnail Builder
+"Take this video idea: [paste idea]. Create 20 YouTube titles and matching thumbnail concepts. Focus on curiosity, emotional triggers, strong outcomes, and audience psychology. Make every concept highly clickable without using misleading clickbait."
+
+4. High Retention Script Builder
+"Turn this video idea: [paste idea] into a
+complete YouTube script. Create a strong
+opening hook, pattern interrupts, curiosity
+loops, engaging transitions, valuable insights,
+and a memorable ending. Structure the
+script to maximize viewer retention."
+
+5. Retention Analyzer
+"Review this YouTube script: [paste script]. Identify where viewers are most likely to leave. Highlight slow sections, weak transitions, unnecessary filler, and missed opportunities. Rewrite those sections to improve watch time and engagement."
+
+6. Content Multiplier
+"Take this YouTube script: [paste script].
+Generate 10 new video ideas from it. Create
+new hooks, examples, stories, experiments, perspectives, and follow up topics while
+keeping the core theme connected."
+
+7. Viral Video System
+"Create a workflow that allows me to generate
+10 YouTube videos in 30 minutes. Include idea research, angle generation, title creation, thumbnail concepts, scripting, and content planning. Make the process simple, repeatable, and optimized for consistent video production."
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
