@@ -1,5 +1,7 @@
 
 -------------------------------------------------
+/list popular prompts for structured learning and skill acquisition
+
 Here are the most popular "structured learning" prompts people use with AI to acquire skills faster. You can copy/paste and fill in the [brackets]:
 
 1. Feynman Technique Prompt
@@ -68,7 +70,7 @@ Use for: Retaining what you learn
 
 Code
 From this text/topic: [paste notes or topic]
-Create Anki-style flashcards using active recall + cloze deletion.
+Create Anki-style flashcards using active recall + close deletion.
 Focus on: concepts I must derive, not memorize; common bugs; trade-offs.
 Format as Q:... A:...
 Generate 15 cards, ordered by importance.
