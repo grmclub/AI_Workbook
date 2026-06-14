@@ -405,8 +405,74 @@ End with a 3-point upgrade summary to reframe my idea without changing its core.
 “Review my social media strategy and recent posts. Identify what content performs best, what needs improvement, and suggest specific changes to increase reach, engagement, and conversions.”
 
 -------------------------------------------------------------
+1. The "Niche-Extraction" Service Scout
+"Act as an Elite B2B Agency Growth Strategist. I want to launch my first service agency from scratch and land my first retainer client in 30 days. Conduct a rapid 24-hour diagnostic sprint to analyze my current technical skills. Isolate 3 low-overhead, high-demand operational service vectors—such as AI workflow integration or organic short-form video creation—where demand outpaces agency quality."
+
+2. The "Prestige-Offer" Retainer Layout
+"Act as a Premium Brand Positioning Consultant. Translate my selected service capability into an ultra-focused B2B retainer offer layout. Format my client value proposition using the 'Immediate Operational Relief + Specific Back-End Bottleneck Eliminated + Risk-Free 30-Day Performance Milestone' text framework to command instant authority and remove hiring friction for local businesses."
+
+3. The "Pattern-Interrupt" Outbound Opener
+"Act as a Master Direct-Response Copywriter. Write 3 distinct, high-impact opening line layouts for cold email or LinkedIn outreach targeting business founders. Completely eliminate boring, generic introductory phrases like 'I hope you're doing well.' Every script must utilize a sharp structural pattern-interrupt layout explicitly engineered to freeze a mobile scroller feed on an operational flaw."
+
+4. The "Loom-Less" Audit Script Template
+"Act as an Expert Inbound Sales Funnel Engineer. Create a repeatable, text-based operational performance audit script layout template. Instead of recording complex video pitches, outline a precise 5-bullet text framework that exposes an expensive, unoptimized process gap in the prospect's public digital footprint, forcing immediate trust and accelerating discovery call booking velocity."
+
+5. The "Friction-Free" Proposal Blueprint
+"Act as an Expert Creative Operations Architect. Create a comprehensive Standard Operating Procedure (SOP) to write a scannable, one-page agency service proposal layout. Eliminate complex legal jargon and dense text blocks: structure a high-contrast milestone timeline (H2/H3), detail 2 rapid implementation phases under 14 days, and position an ultra-low-friction digital sign-off loop."
+
+6. The "Two-Step" Authority Handraiser
+"Act as an Organic Inbound Funnel Engineer. Write a conversion-focused social media text post layout engineered to secure agency inbound leads without spending money on ads. Break down a critical, costly operational mistake in [Target Niche], deliver an immediate practical workaround, and close with a strict call to action instructing prospects to reply with a keyword to get my audit asset."
+
+7. The "Pushback-Filter" Negotiation Matrix
+"Act as a Consumer Behavioral Psychologist specializing in B2B contract negotiations. Create a comprehensive response script layout to handle prospect pricing pushback. Provide 3 precise, peer-to-peer textual rebuttals that calmly protect my premium retainer threshold without coming across as rigid, shifting the conversation back to quantifiable time-savings and metric delivery."
+
+8. The "Velocity-Check" Retainer Pipeline Audit
+"Act as a Data-Driven B2B Agency Operations Auditor. My initial 14-day outreach pipeline metrics under this framework are: [Outreach Sent] pitches, [Response Rate]% engagement, [Discovery Calls] active sessions, and [Retainers Closed] volume. Diagnose the exact script formatting, offer positioning layout, or sales call friction loop bottleneck stalling my 30-day trajectory. Provide a checklist."
+
+-------------------------------------------------------------
+1. The "Pattern-Interrupt" Ad Spy Scout
+"Act as an Elite E-commerce Product Strategist. I want to find my first winning dropshipping product in 24 hours using zero-budget research methods. Conduct a rapid diagnostic sprint to analyze trending organic video structures on TikTok and Instagram. Isolate 3 low-overhead product vectors that rely on high-retention visual pattern-interrupts and intense emotional buying triggers."
+
+2. The "Comment-Mining" Bottleneck Filter
+"Act as a Consumer Behavioral Analyst. Create a comprehensive Standard Operating Procedure (SOP) text layout to mine the comment sections of viral competitor product videos. Detail a strict technical checklist to isolate negative customer friction points, recurring product flaws, and unfulfilled shipping demands, turning competitor weaknesses into my immediate winning angle."
+
+3. The "SEO-Velocity" Search Trend Matrix
+"Act as an Expert Semantic Search Architect. Write a highly scannable text layout blueprint to cross-verify product demand using free search tools like Google Trends and Amazon Movers & Shakers. Structure a strict keyword data-mining matrix to isolate rising search velocity spikes over the past 7 days, filtering out dying junk trends before wasting storefront optimization energy."
+
+4. The "Margin-Leak" COGS Validation Protocol
+"Act as a Senior Supply Chain Financial Auditor. Translate a discovered trending product idea into a mathematically viable offer layout. Format the financial unit economics using the 'Target Retail Price = 3x Baseline Supplier COGS' text framework to natively absorb shipping variables, protect marketing ad spend margins, and guarantee immediate cash-flow stability from day one."
+
+5. The "Saturation-Breaker" Product Pivot SOP
+"Act as a Premium Brand Positioning Consultant. Create a strict operational checklist layout to take a highly competitive, saturated e-commerce product and completely alter its market angle. Outline a precise text-based framework that shifts the item from a generic commodity into a specialized, problem-solving utility asset tailored to an uncrowded, passionate micro-niche."
+
+6. The "Supplier-Velocity" Friction Audit
+"Act as an Elite Creative Operations Architect. Create a comprehensive Standard Operating Procedure (SOP) text layout to vet global dropshipping suppliers using free marketplace communication channels. Detail the exact screening parameters: structure a strict checklist for measuring messaging response velocity, verifying real shipping timelines, and blocking unreliable agents."
+
+-------------------------------------------------------------
+1. The "Operational-Audit" AI Vector Scout
+"Act as an Elite AI Consultant. I want to sell AI services from zero, despite having minimal background. Conduct a rapid 2-hour diagnostic sprint to isolate 3 simple, high-demand operational workflows—such as local business review reply automation or simple content formatting—that can be offloaded to basic AI prompts. Provide a text layout detailing the exact services to offer."
+
+2. The "Prestige-AI" Service Bundle Layout
+"Act as a Premium B2B Positioning Consultant. Take a basic AI service (like automated customer review drafting) and package it into a high-converting text proposal. Format the client value proposition using the 'Immediate Operational Relief + Zero Tech Friction Onboarding + Specific Daily Labor Hours Eliminated' framework to command immediate buyer authority as an agile expert."
+
+3. The "Pattern-Interrupt" Local Business Pitch
+"Act as a Master Direct-Response Copywriter. Write 3 distinct cold outreach text scripts targeting local service business owners. Completely eliminate generic, robotic sales introductions. Ensure each message utilizes a sharp structural pattern-interrupt layout that instantly catches attention by highlighting an unreplied customer review or unoptimized text block on their public listing."
+
+4. The "Friction-Free" System Delivery SOP
+"Act as an Expert Creative Operations Architect. Create a comprehensive Standard Operating Procedure (SOP) text layout to hand over custom AI text prompts to non-technical clients. Eliminate dense blocks of instructions: structure a high-contrast heading hierarchy (H2/H3), layout a clear copy-paste workflow loop, and detail a low-friction 5-minute training sequence to finalize delivery."
+
+5. The "Two-Step" AI Demonstration Catalyst
+"Act as an Organic Inbound Funnel Engineer. Write a conversion-focused social media text post layout engineered to generate high-intent inbound inquiries for AI automation services. Break down a massive, common operational mistake business owners make when managing tasks manually, deliver a rapid AI workaround, and close with a strict prompt forcing users to reply with a keyword to get a video demo."
+
+6. The "Low-Overhead" Prompt-Pack Storefront Layout
+"Act as an Expert E-commerce SEO Copywriter. Write a highly structured text layout matrix for a digital prompt-kit package listed on marketplaces like Gumroad or Etsy. Detail the technical parameters required to maximize search visibility: create an optimized 1-line headline hook, a scannable bulleted feature layout, and a target list of high-intent tags to capture traffic with zero audience."
+
+
 -------------------------------------------------------------
 -------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+
 -------------------------------------------------------------
 
 
