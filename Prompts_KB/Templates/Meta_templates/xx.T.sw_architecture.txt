@@ -1,0 +1,387 @@
+/list popular prompts for structured learning and skill acquisition
+
+/list popular prompts for extracting a block diagram of of a software system showing inputs it takes, outputs it delivers, dependencies and internal components with their logical interactions
+
+/deepanalyse and extract the block diagram of the [XX ] system
+showing inputs it takes, outputs it delivers, dependencies and internal components with their logical interactions
+-------------------------------------------------
+/list popular prompts for extracting a block diagram of of a software system showing inputs it takes, outputs it delivers, dependencies and internal components with their logical interactions
+
+
+Here are battle-tested prompts you can drop into an LLM to reverse-engineer a software system into a block diagram. They work on code repos, docs, or even just a description.
+
+==========================
+1/ "C4-ish Extractor" - High-level to low-level
+Use when: You have a repo or README and want System/Context/Container/Component views
+
+Code
+You are a software architect. Analyze [codebase/description: paste it or describe it].
+
+Output a block diagram description in 4 parts:
+1. **System Context**: External users + systems. List Inputs → System → Outputs.
+2. **Containers**: Main apps, DBs, queues, services. Show dependencies with arrows.
+3. **Components**: Key modules inside each container. Show logical interactions.
+4. **Mermaid Syntax**: Give me a complete mermaid graph TD diagram I can paste into mermaid.live.
+
+Rules: No implementation details, only logical blocks. Mark async flows with dashed arrows.
+Flag any unclear parts as [ASSUMPTION].
+==========================
+2/ "Black Box → White Box" Prompt
+Use when: You only know what the system does, not how
+
+Code
+Treat [system name] as a black box first.
+Step 1: List all Inputs: data, events, API calls, configs. Include format if known.
+Step 2: List all Outputs: responses, side effects, files, downstream calls.
+Step 3: Now open the box. Infer internal components needed to turn inputs into outputs.
+Step 4: Draw dependencies: which component talks to which? What’s sync vs async?
+Step 5: Output as PlantUML component diagram + plain English table.
+If info is missing, ask me 3 clarifying questions before guessing.
+==========================
+3/ "Code to Architecture" Prompt
+Use when: You can paste source files or repo structure
+
+Code
+You are a principal engineer doing a code archaeology pass.
+Given this code/repo structure: [paste tree + key files]
+
+Extract:
+1. **Inputs**: Entry points - main(), API routes, CLI args, message topics, cron.
+2. **Outputs**: Return values, DB writes, publishes, logs, files written.
+3. **Internal Components**: Classes/modules with single responsibility. Group by layer.
+4. **Dependencies**: Internal calls + external libraries, DBs, services.
+5. **Data Flow**: Trace 1 critical request from input to output through components.
+
+Output format:
+- Markdown table: Component | Responsibility | Calls | Called By
+- Mermaid C4-Component diagram
+- List "Unknowns" that need human confirmation
+==========================
+4/ "Dependency Mapper" Prompt
+Use when: You specifically care about coupling + external deps
+
+Code
+Map all dependencies for [system/service].
+For each dependency, classify:
+[Internal Module] | [3rd Party Lib] | [External Service] | [Data Store] | [Infra]
+
+For each, show:
+- Direction: upstream/downstream/bidirectional
+- Type: compile-time, runtime API, event, shared DB
+- Criticality: blocks startup? degrades gracefully?
+- Data exchanged: input schema → output schema
+
+Output as Graphviz DOT format + risk table: Dependency | Failure Impact | Single Point?
+==========================
+5/ "Sequence-Aware Blocks" Prompt
+Use when: Logical interaction/order matters more than static structure
+
+Code
+For [use case/feature: "user login" or "order execution"],
+1. List all components that touch the flow.
+2. Draw the sequence: Input → Comp1 → Comp2 →... → Output
+3. Annotate each arrow: sync/async, protocol, payload key fields.
+4. Note where state is mutated.
+5. Give me Mermaid sequenceDiagram AND a block diagram showing those same components.
+
+If multiple flows exist, do the top 3 by traffic/importance.
+==========================
+6/ "Interview-Style Decomposer" Prompt
+Use when: You’re working from memory or a teammate’s brain
+
+Code
+Act as a system design interviewer. I will describe [system] at a high level.
+Your job: ask me targeted questions until you can draw a block diagram with:
+Inputs, Outputs, Core Components, Data Stores, External Dependencies, Key Protocols.
+
+Rules:
+- One question at a time.
+- After each answer, update your internal diagram.
+- When ready, output: 1. ASCII block diagram 2. Mermaid graph 3. List of assumptions
+Start by asking: "What triggers the system and what does a successful run produce?"
+==========================
+7/ "Refactor Helper" Prompt
+Use when: You want to see current vs target architecture
+
+Code
+Here is my current system: [describe or paste code]
+I want to extract a block diagram showing:
+Current State: Inputs, Outputs, Components, Dependency messiness
+Target State: How it should look if we applied [pattern: hex onion, microservices, etc]
+Deliverable:
+1. Before/After Mermaid diagrams
+2. Table: Component | Problem Now | Role in Target | Migration Risk
+3. List which arrows we need to cut/reverse to reduce coupling
+==========================
+Pro Tips for Better Diagrams
+Feed it structure: tree -L 3 or cloc output helps it infer modules
+Force formats: "Use Mermaid C4-Component" or "Give PlantUML" or "Give JSON I can import to draw.io"
+Constrain scope: "Only include runtime components, ignore tests/build" prevents noise
+Iterate: First run: "List components only". Second run: "Now add arrows". LLMs do better step-by-step
+
+-------------------------------------------------
+refine the list for more prompts for doing deep analysis of software systems from requirements documents
+
+Got it — you want prompts specifically for tearing apart requirements docs and doing deep systems analysis. These are the ones senior/staff engineers and architects actually use:
+
+Requirements → System Analysis Prompt Pack
+1. Ambiguity Hunter
+Use for: Finding holes in the requirements before they become bugs
+
+Code
+You are a principal engineer doing requirements review for [system name].
+Here is the requirements doc: [paste reqs]
+
+Task 1: List all ambiguous, contradictory, or underspecified requirements.
+For each, tag it: [Ambiguous | Missing Non-Functional | Untestable | Conflicts with Req #X]
+Task 2: For each issue, write the exact clarifying question you'd ask the PM.
+Task 3: Propose a "happy path" interpretation and a "worst-case" interpretation to expose risk.
+
+Output as a table: ID | Issue | Type | Clarifying Question | Risk if unresolved
+
+2. NFR Extractor + SLAs
+Use for: Most req docs only list features. This forces out the -ilities
+
+Code
+From this requirements doc: [paste]
+
+Extract or infer all Non-Functional Requirements across:
+1. Performance: latency p50/p99, throughput, data volume
+2. Scalability: users, QPS, 10x growth plan
+3. Availability: uptime SLA, MTTR, RTO/RPO
+4. Consistency: CAP choice, read-your-writes?
+5. Security: authN/authZ, data residency, audit
+6. Cost: budget, $/request target
+
+For any NFR not stated, flag as "MISSING" and propose a sane default based on [domain: e.g. HFT, SaaS, etc].
+Then list which functional requirements become impossible if we hit each NFR.
+
+3. Data Model + Invariant Miner
+Use for: Deriving core entities and rules before coding
+
+Code
+Act as a data architect. Read these requirements: [paste]
+
+Step 1: List all nouns that look like domain entities. For each: key fields, lifecycle states.
+Step 2: List all verbs that imply relationships or constraints between entities.
+Step 3: Derive invariants: rules that must always be true. Format: "At all times, [condition]"
+Step 4: Find requirements that could violate invariants. Suggest how to resolve.
+Step 5: Propose a minimal ER diagram in text/Mermaid.
+
+Call out any requirement that needs temporal data, idempotency, or multi-tenancy.
+
+4. Failure Mode & Edge Case Generator
+Use for: Thinking like QA/SRE during design, not after
+
+Code
+You are an SRE doing pre-mortem analysis. Requirements: [paste]
+
+For each functional requirement:
+1. List 3 ways it can fail: user error, dependency failure, data corruption
+2. What happens if input is: null, empty, 10GB, malicious, duplicated, out-of-order?
+3. What if downstream service is: slow, down, returns stale data?
+4. Define required behavior for each: fail-closed, retry, queue, partial success
+
+Output as: Req # | Failure Mode | Impact | Mitigation Required in Design
+
+5. Sequence + State Machine Builder
+Use for: Turning prose into executable logic
+
+Code
+Convert these requirements into technical artifacts: [paste]
+
+Part A: For the top 3 user journeys, draw sequence diagrams showing all actors, sync/async calls, and failure paths. Use text UML.
+Part B: For the main entity [e.g. Order, Account], derive a state machine. List all states, valid transitions, and what trigger/event causes each transition.
+Part C: Find requirements that imply hidden states or race conditions between journeys.
+
+6. Dependency + Interface Contract Scan
+Use for: Finding integration risk early
+
+Code
+Analyze this requirements doc for external dependencies: [paste]
+
+1. List all external systems mentioned or implied: APIs, databases, queues, 3rd party.
+2. For each: Is it sync/async? What’s the SLA we need vs SLA they provide?
+3. What data do we send vs receive? Draft the interface contract: fields, types, constraints.
+4. What happens if this dependency is down during [critical workflow]?
+5. Which requirements create fan-out or N+1 call risks?
+
+Output a dependency risk matrix: High/Med/Low risk vs High/Med/Low effort to decouple.
+
+7. Compliance + Security Threat Model
+Use for: Regulated domains like finance/healthcare
+
+Code
+You are a security architect. Requirements: [paste]
+
+Run STRIDE threat modeling:
+1. Identify assets: PII, financial data, keys, etc mentioned in reqs
+2. For each data flow: list Spoofing, Tampering, Repudiation, Info disclosure, DoS, Elevation risks
+3. Map each requirement to compliance needs: GDPR, SOX, PCI-DSS, FINRA if applicable
+4. Flag requirements that need: encryption at rest, audit logs, data retention, right-to-delete
+
+Return: Asset | Threat | Violated Req # | Control Required in Design
+
+8. Cost + Performance Budget Derivation
+Use for: Low-latency/fintech where every µs and $ matters
+
+Code
+From these requirements: [paste]
+
+Step 1: Estimate scale: users, req/sec, data size. State assumptions.
+Step 2: Assign latency budget to each step of critical path. Total must meet Req #X.
+Step 3: Estimate infra cost: compute, network, storage. Show math.
+Step 4: Identify 3 requirements that are cost/latency outliers. Propose cheaper alternative that meets 80% of need.
+
+Use these constants: L1 cache 1ns, DRAM 100ns, SSD 100µs, network hop 50µs, AWS Lambda cold start 200ms.
+Call out any req that forces us onto expensive path like multi-region writes.
+
+9. Test Case + Acceptance Criteria Generator
+Use for: Making requirements executable before code exists
+
+Code
+For each requirement in [paste], generate:
+
+1. Positive test: 1 happy path case with exact input/output
+2. Negative tests: 3 invalid inputs and expected error behavior
+3. Boundary tests: max/min values, empty, null, unicode
+4. Gherkin acceptance criteria: Given/When/Then format
+5. Non-functional test: How would you load test this to prove the SLA?
+
+Mark any requirement that is untestable as written and rewrite it.
+
+10. Trade-off + ADR Draft Prompt
+Use for: Forcing architectural decisions upfront
+
+Code
+You are the staff engineer writing ADRs. Based on these requirements: [paste]
+
+Identify 5 major architectural decisions we must make.
+For each decision:
+1. Options: list 2-3 approaches
+2. Forces: which requirements push us to each option
+3. Trade-offs: latency vs cost vs complexity vs team skill
+4. Recommendation: pick one and justify using requirements as evidence
+5. Consequence: what future requirement would make us regret this?
+
+Format as 5 mini Architecture Decision Records.
+
+How to chain them for a full analysis
+Run Ambiguity Hunter + NFR Extractor first - garbage in, garbage out
+Feed cleaned reqs into Data Model + Sequence Builder to get structure
+Stress test with Failure Mode + Security Threat prompts
+Validate with Test Case Generator - if you can't test it, it ain't a requirement
+Summarize with ADR Draft to drive alignment
+Pro tip: After each prompt, add: "Now act as a skeptical reviewer and argue why your analysis above is wrong or incomplete." Catches blind spots.
+
+What kind of system are you analyzing? If you drop a sanitized snippet of your req doc, I can show how one of these prompts works on it.
+
+
+-------------------------------------------------
+refine the list for more prompts for doing deep analysis of software systems from requirements documents and generate a block diagram showing components and their interactions
+
+Here are battle-tested prompts you can drop into an LLM to reverse-engineer a software system into a block diagram. They work on code repos, docs, or even just a description.
+
+1. "C4-ish Extractor" - High-level to low-level
+Use when: You have a repo or README and want System/Context/Container/Component views
+Code
+You are a software architect. Analyze [codebase/description: paste it or describe it].
+Output a block diagram description in 4 parts:1. **System Context**: External users + systems. List Inputs → System → Outputs.2. **Containers**: Main apps, DBs, queues, services. Show dependencies with arrows.3. **Components**: Key modules inside each container. Show logical interactions.4. **Mermaid Syntax**: Give me a complete mermaid graph TD diagram I can paste into mermaid.live.
+Rules: No implementation details, only logical blocks. Mark async flows with dashed arrows.Flag any unclear parts as [ASSUMPTION].
+
+2. "Black Box → White Box" Prompt
+Use when: You only know what the system does, not how
+Code
+Treat [system name] as a black box first.Step 1: List all Inputs: data, events, API calls, configs. Include format if known.Step 2: List all Outputs: responses, side effects, files, downstream calls.Step 3: Now open the box. Infer internal components needed to turn inputs into outputs.Step 4: Draw dependencies: which component talks to which? What’s sync vs async?Step 5: Output as PlantUML component diagram + plain English table.
+
+3. "Code to Architecture" Prompt
+Use when: You can paste source files or repo structure
+Code
+You are a principal engineer doing a code archaeology pass.Given this code/repo structure: [paste tree + key files]
+Extract:1. **Inputs**: Entry points - main(), API routes, CLI args, message topics, cron.2. **Outputs**: Return values, DB writes, publishes, logs, files written.3. **Internal Components**: Classes/modules with single responsibility. Group by layer.4. **Dependencies**: Internal calls + external libraries, DBs, services.5. **Data Flow**: Trace 1 critical request from input to output through components.
+Output format:- Markdown table: Component | Responsibility | Calls | Called By- Mermaid C4-Component diagram- List "Unknowns" that need human confirmation
+
+4. "Dependency Mapper" Prompt
+Use when: You specifically care about coupling + external deps
+Code
+Map all dependencies for [system/service].For each dependency, classify:[Internal Module] | [3rd Party Lib] | [External Service] | [Data Store] | [Infra]
+For each, show:- Direction: upstream/downstream/bidirectional- Type: compile-time, runtime API, event, shared DB- Criticality: blocks startup? degrades gracefully?- Data exchanged: input schema → output schema
+Output as Graphviz DOT format + risk table: Dependency | Failure Impact | Single Point?
+
+5. "Sequence-Aware Blocks" Prompt
+Use when: Logical interaction/order matters more than static structure
+Code
+For [use case/feature: "user login" or "order execution"],1. List all components that touch the flow.2. Draw the sequence: Input → Comp1 → Comp2 →... → Output3. Annotate each arrow: sync/async, protocol, payload key fields.4. Note where state is mutated.5. Give me Mermaid sequenceDiagram AND a block diagram showing those same components.
+If multiple flows exist, do the top 3 by traffic/importance.
+
+6. "Interview-Style Decomposer" Prompt
+Use when: You’re working from memory or a teammate’s brain
+Code
+Act as a system design interviewer. I will describe [system] at a high level.Your job: ask me targeted questions until you can draw a block diagram with:Inputs, Outputs, Core Components, Data Stores, External Dependencies, Key Protocols.
+Rules:- One question at a time.- After each answer, update your internal diagram.- When ready, output: 1. ASCII block diagram 2. Mermaid graph 3. List of assumptionsStart by asking: "What triggers the system and what does a successful run produce?"
+
+7. "Refactor Helper" Prompt
+Use when: You want to see current vs target architecture
+Code
+Here is my current system: [describe or paste code]I want to extract a block diagram showing:Current State: Inputs, Outputs, Components, Dependency messinessTarget State: How it should look if we applied [pattern: hex onion, microservices, etc]Deliverable:1. Before/After Mermaid diagrams2. Table: Component | Problem Now | Role in Target | Migration Risk3. List which arrows we need to cut/reverse to reduce coupling
+
+Pro Tips for Better Diagrams
+    1. Feed it structure: tree -L 3 or cloc output helps it infer modules
+    2. Force formats: "Use Mermaid C4-Component" or "Give PlantUML" or "Give JSON I can import to draw.io"
+    3. Constrain scope: "Only include runtime components, ignore tests/build" prevents noise
+    4. Iterate: First run: "List components only". Second run: "Now add arrows". LLMs do better step-by-step
+
+
+
+-------------------------------------------------
+Why great developers draw: 4 architecture diagrams that clarify everything 
+
+The Four Essential Diagrams
+Victor explores four primary diagram types that form an essential toolkit for any engineer:
+    1. Sequence Diagrams (9:48 - 17:50): These make time and ordering explicit. They are perfect for visualizing complex interactions, request-response flows, and debugging system behavior over time. 
+    2. Flowcharts (17:50 - 25:18): Best for business processes, decision logic, and workflows. They are universally understood and excellent for mapping out the "happy path" versus edge cases. 
+    3. Class Diagrams (25:18 - 30:27): Used to visualize the static structure of a system. They help align teams on domain concepts and relationships between entities without needing to include every implementation detail. 
+    4. Entity Relationship Diagrams (ERDs) (30:27 - 35:45): Crucial for visualizing database schemas. They help teams understand how data relates, making schema changes and migrations much clearer for all stakeholders. 
+Key Takeaways
+    • Avoid Over-Detailing: A common pitfall is including too much information. Start with the basics—focus on capturing the "shape" of the idea rather than perfect, exhaustive documentation. 
+    • Maintainability: Treat diagrams as living artifacts. If they become hard to maintain, they will likely become stale. 
+    • Purpose: The goal of drawing isn't perfection; it is being understood. Seeing the architecture can bridge the gap between technical teams and stakeholders, significantly reducing bugs caused by miscommunication
+
+-------------------------------------------------
+architecture diagrams that clarify software architecture
+
+Architecture diagrams clarify software design by abstracting complex codebases into manageable visual components, mapping relationships between users, systems, databases, and microservices. They align teams, identify bottlenecks, and bridge communication gaps between technical and business stakeholders. [1, 2, 3]
+The most effective approach to designing these diagrams is the C4 Model, which breaks down software architecture hierarchically like Google Maps, letting you zoom from a high-level overview down to individual code modules. [1, 2, 3]
+
+1. The C4 Model Hierarchy
+The C4 model relies on four core diagram types, moving from high-level to deep technical detail: [1]
+
+• System Context (Level 1): The bird’s-eye view. Shows the software system in its environment, highlighting users (personas) and the external systems it interacts with. Perfect for non-technical stakeholders. [1, 2]
+ 
+ • Container (Level 2): Zooms into the system to show the high-level technical building blocks (e.g., Web App, Mobile App, Database, API application). It shows the major technologies and how data flows between them. [1, 2, 3]
+ 
+ • Component (Level 3): Zooms into a single container to reveal the internal structural components (e.g., Spring Boot services, React pages) and their relationships. [1]
+ 
+ • Code (Level 4): The lowest level of detail, mapping to specific code elements like UML classes, schemas, or entity relationships.
+
+2. Common Non-C4 Diagram Types
+Depending on your specific goals, you may also use: [1]
+    • Sequence Diagrams: Excellent for visualizing chronological interactions, API contracts, or showing exactly how different microservices handle a specific request over time.
+	
+    • Infrastructure Diagrams: A "what you see is what you get" physical map showing cloud networks, servers, load balancers, and firewalls.
+	
+    • Data Flow Diagrams (DFD): Tracks the lifecycle and transformations of data as it moves from input to storage
+
+3. Best Practices for Clarity
+    • Define Your Audience: Don't show a Level 3 Component diagram to a Product Owner. Tailor the view to the person reading it.
+    • Add a Diagram Key: Always include a legend explaining what your shapes, colors, and line types represent.
+    • Label Everything: Avoid unlabeled boxes and ambiguous arrows. [1, 2, 3, 4]
+4. Top Tools to Draw Them
+    • Diagrams-as-code: Structurizr and PlantUML are excellent for teams that want to keep architecture diagrams version-controlled alongside their source code.
+    • Collaborative Whiteboarding: Miro and Mural are great for early brainstorming and workshops.
+    • Drag-and-Drop: draw.io and Lucidchart offer comprehensive shape libraries. [1, 2, 3, 4, 5]
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
