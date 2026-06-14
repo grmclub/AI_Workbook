@@ -382,6 +382,40 @@ Depending on your specific goals, you may also use: [1]
     • Drag-and-Drop: draw.io and Lucidchart offer comprehensive shape libraries. [1, 2, 3, 4, 5]
 
 -------------------------------------------------
+==============================
+https://medium.com/@jancalve/writing-good-software-architecture-diagrams-15c51eca4ce7
+
+The C4 Model: A Simple Way to Communicate Software Architecture
+
+Why Architecture Diagrams Often Fail
+
+    Too abstract or too detailed
+    Lack of consistent notation
+    Difficulty communicating architecture across teams
+
+The C4 Model
+
+    Context diagram
+    Container diagram
+    Component diagram
+    Code diagram
+
+Communicating Architecture
+
+    Presenting systems to business stakeholders
+    Communicating architecture to developers
+    Maintaining living architecture documentation
+
+Key Takeaways
+
+    The C4 model provides a simple and practical way to document architecture.
+    Multiple abstraction levels help communicate systems to different audiences.
+    Diagrams can remain lightweight while still being informative.
+    Teams can adopt C4 quickly without introducing complex tooling.
+
+
+==============================
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
