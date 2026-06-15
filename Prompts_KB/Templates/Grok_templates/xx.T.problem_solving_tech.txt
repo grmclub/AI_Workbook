@@ -1,0 +1,205 @@
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║               🖥 TECH CRITICAL THINKING & PROBLEM SOLVING — ENGINEER'S PROMPT CHEAT SHEET                    ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                              ║
+║  🐛 DEBUG & ROOT CAUSE                  📐 SYSTEM DESIGN THINKING             🏗 ARCHITECTURE DECISIONS     ║
+║  ─────────────────────────────────────  ──────────────────────────────────   ─────────────────────────────   ║
+║  T-P01 PROBLEM DEFINITION               T-A01 REQUIREMENTS DECOMPOSE          T-D01 ARCHITECTURE MATRIX      ║
+║  "Define this bug/issue precisely:      "Decompose [system] into:             "Score [arch options] on:      ║
+║   What exactly happens? /               Functional requirements /              Scalability / Latency /       ║
+║   What was expected? /                  Non-functional requirements /          Consistency / Cost /          ║
+║   When does it occur? /                 Constraints / Assumptions /            Complexity / Team fit /       ║
+║   What is the blast radius?"            Edge cases / Out of scope"             Reversibility"                ║
+║                                                                                                              ║
+║  T-P02 ROOT CAUSE (5 WHYS)             T-A02 TRADE-OFF ANALYSIS              T-D02 ARCHITECTURE PREMORTEM    ║
+║  "Why does [bug] occur?                "Analyze trade-offs of                 "It is 2 years from now.       ║
+║   → Why does that happen?              [design decision]:                     This architecture has          ║
+║   → Why does that happen?              CAP theorem position /                 FAILED. Write the              ║
+║   → Why does that happen?              Consistency vs Availability /           failure story. What           ║
+║   → Root cause found?"                 Speed vs Accuracy /                    broke first and why?"          ║
+║                                         Cost vs Performance"                                                 ║
+║  T-P03 BUG DECOMPOSITION                                                      T-D03 SECOND ORDER EFFECTS     ║
+║  "Break [incident/bug] into:           T-A03 CAPACITY ANALYSIS               "If we choose [architecture]:   ║
+║   What failed / Why it failed /        "Estimate capacity needs:              What are 2nd order effects     ║
+║   Where it failed / When it            Current load / Growth rate /            on: team structure /          ║
+║   failed / Who is affected"            Peak multiplier /                       deployment complexity /       ║
+║                                         Storage growth /                        future features /            ║
+║  T-P04 INCIDENT SCOPE                  Bandwidth needs /                       operational burden?"          ║
+║  "Define incident scope:               Breaking points"                                                      ║
+║   Affected services /                                                          T-D04 REVERSIBILITY CHECK     ║
+║   Affected users /                     T-A04 BOTTLENECK ANALYSIS             "Is [tech decision] a           ║
+║   Data impact /                        "Find bottlenecks in [system]:         one-way door? /                ║
+║   SLA breach /                          CPU / Memory / I/O /                  Cost to reverse? /             ║
+║   Blast radius"                         Network / Database /                   Minimum viable experiment     ║
+║                                         Lock contention /                      before full commitment?"      ║
+║  T-P05 FIRST PRINCIPLES DESIGN         Queue depth /                                                         ║
+║  "Strip [system/feature] to            Thread starvation"                     T-D05 DEVIL'S ADVOCATE         ║
+║   bedrock facts. What is the                                                   "Build strongest case         ║
+║   absolute minimum required?           T-A05 PARETO BUG ANALYSIS             AGAINST [tech choice            ║
+║   What conventions are we              "Which 20% of code/components           I am favoring].               ║
+║   following that aren't needed?"       cause 80% of incidents?                What am I ignoring?            ║
+║                                         Focus effort there first"              What has failed similarly?"   ║
+║                                                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                              ║
+║  💡 CREATIVE TECH SOLVING               🔍 TECH ASSUMPTION CHECKING           🔗 TECH LOGIC & REASONING     ║
+║  ─────────────────────────────────────  ──────────────────────────────────   ─────────────────────────────   ║
+║  T-C01 SOLUTION BRAINSTORM             T-X01 SURFACE TECH ASSUMPTIONS        T-L01 TECH FALLACY CHECK        ║
+║  "Generate 15 solutions to             "List ALL assumptions in               "Check [tech argument] for:    ║
+║   [tech problem]. Include:              [design/plan]:                         Resume-driven development /   ║
+║   Simple / Complex /                    Scale assumptions /                    Cargo cult engineering /      ║
+║   Conventional / Unconventional /       Performance assumptions /              Not-invented-here bias /      ║
+║   Short-term / Long-term fixes.         Reliability assumptions /              Shiny object syndrome /       ║
+║   No filtering yet"                     Team skill assumptions /               Premature optimization /      ║
+║                                         User behavior assumptions"             Over-engineering bias"        ║
+║  T-C02 REVERSE: MAKE IT WORSE                                                                                ║
+║  "How could we make [system]           T-X02 TECH BIAS DETECTION             T-L02 TECH SOCRATIC             ║
+║   perform WORSE / less reliable /      "Check decision for:                   "Question [tech claim]:        ║
+║   harder to maintain /                  Familiarity bias (use what            What evidence supports         ║
+║   more expensive? Now                   we know) /                             this? /                       ║
+║   reverse each idea"                    Sunk cost (we built it) /              At what scale does this       ║
+║                                         Resume bias (learn new tech) /         break? /                      ║
+║  T-C03 SCAMPER FOR TECH                Hype bias (everyone uses it) /         What does this optimize        ║
+║  "Apply SCAMPER to [system]:           Complexity bias (smart=complex)"        for and what does it          ║
+║   Substitute (swap component?) /                                               sacrifice?"                   ║
+║   Combine (merge services?) /          T-X03 STEELMAN THE ALTERNATIVE                                        ║
+║   Adapt (borrow pattern?) /            "Build strongest case FOR              T-L03 REQUIREMENTS CHECK       ║
+║   Modify (scale up/down?) /            [approach I disagree with]:            "For [feature/system]:         ║
+║   Eliminate (remove layer?) /          When would it be the RIGHT             Is this a real requirement     ║
+║   Reverse (flip data flow?)"           choice? What am I missing?"            or an assumption? /            ║
+║                                                                                Who actually needs this? /    ║
+║  T-C04 ANALOGICAL TECH THINKING       T-X04 CONSTRAINT CHALLENGE             What happens if we don't        ║
+║  "How does [Netflix/Google/            "Which constraints on [problem]         build it?"                    ║
+║   Amazon/Stripe] solve a               are REAL vs ASSUMED? /                                                ║
+║   similar problem? /                   What opens up if we remove                                            ║
+║   What pattern from                    each assumed constraint?"                                             ║
+║   [other domain] applies?"                                                                                   ║
+║                                                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                              ║
+║  🌐 SYSTEMS & SCALE THINKING            🧩 TECH MENTAL MODELS                 🪞 ENGINEER SELF-REFLECTION   ║
+║  ─────────────────────────────────────  ──────────────────────────────────   ─────────────────────────────   ║
+║  T-S01 SYSTEM FAILURE MODES            T-M01 INVERSION FOR RELIABILITY       T-R01 ENGINEERING METACOG       ║
+║  "Map all failure modes of             "How could we guarantee                "Reflect on [decision]:        ║
+║   [system]:                             [system] FAILS? /                      Did I reason from             ║
+║   Single points of failure /            How could we guarantee                 evidence or familiarity? /    ║
+║   Cascade failure paths /               data LOSS? /                           Did I consider                ║
+║   Failure detection gaps /              How could we guarantee                 alternatives seriously? /     ║
+║   Recovery mechanisms"                  WORST latency?                         Did I suffer from             ║
+║                                         Now prevent each"                      any tech biases?"             ║
+║  T-S02 SCALABILITY ANALYSIS                                                                                  ║
+║  "Analyze [system] at:                 T-M02 FIRST PRINCIPLES                 T-R02 CONFIDENCE CHECK         ║
+║   Current load /                       "What is [technology/pattern]          "Rate my confidence in:        ║
+║   10x load /                            actually doing at its core? /          This will scale /             ║
+║   100x load /                           Strip away the abstraction.            This is the bottleneck /      ║
+║   What breaks first at each            Do we actually need [X] or             This is the root cause /       ║
+║   level? What must change?"            are we copying convention?"            This won't have side effects"  ║
+║                                                                                                              ║
+║  T-S03 DEPENDENCY MAP                  T-M03 OCCAM'S RAZOR FOR TECH          T-R03 DECISION JOURNAL          ║
+║  "Map all dependencies of              "What is the SIMPLEST                  "Document [tech decision]:     ║
+║   [service/component]:                  explanation for [bug/behavior]?        Context / Options considered/ ║
+║   Upstream / Downstream /               What is the SIMPLEST solution          Decision made /               ║
+║   Circular deps /                       that meets the requirements?           Reasoning /                   ║
+║   Hidden dependencies /                 Are we over-engineering?"              Expected outcome /            ║
+║   External dependencies"                                                        Review date"                 ║
+║                                        T-M04 CHESTERTON'S FENCE                                              ║
+║  T-S04 FEEDBACK LOOPS                  "Why does [legacy code/rule/           T-R04 POST-INCIDENT            ║
+║  "Find feedback loops in               system] exist?                         "What happened? /              ║
+║   [system]:                             Understand it fully before             What did we expect? /         ║
+║   What amplifies problems? /            deleting or changing it"               What was different? /         ║
+║   What self-corrects? /                                                        What will we do               ║
+║   What creates oscillation?"           T-M05 MAP VS TERRITORY                 differently? /                 ║
+║                                        "Where does our mental model           What monitoring would          ║
+║  T-S05 UNINTENDED CONSEQUENCES         of [system] differ from                have caught this sooner?"      ║
+║  "What are unintended effects          reality? /                                                            ║
+║   of [change/deployment]:              What assumptions in our                T-R05 TECH DEBT HONESTY        ║
+║   On other services? /                 diagrams are outdated? /               "Am I proposing [solution]     ║
+║   On users? /                          Where is the map wrong?"               because it is RIGHT or         ║
+║   On operations? /                                                             because it is FAMILIAR /      ║
+║   On data integrity?"                  T-M06 SECOND ORDER TECH               FAST / what I know best?"       ║
+║                                        "After [deploy/change]:                                               ║
+║  T-S06 LEVERAGE POINTS                 What happens to latency? /                                            ║
+║  "Where in [system/codebase]           Error rates? /                                                        ║
+║   would a small change have            Team cognitive load? /                                                ║
+║   the largest positive effect?"        On-call burden? /                                                     ║
+║                                        Future feature velocity?"                                             ║
+║                                                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                              ║
+║  🔥 TECH-SPECIFIC POWER COMBINATIONS                                                                         ║
+║  ──────────────────────────────────────────────────────────────────────────────────────────────────────────  ║
+║                                                                                                              ║
+║  🐛 DEBUGGING A HARD BUG     →  T-P01 Define  →  T-P02 RootCause  →  T-X01 Assumptions  →  T-L02 Socratic    ║
+║  🏗 DESIGN A NEW SYSTEM      →  T-P05 1stPrinc →  T-A01 Decompose →  T-D01 Matrix  →  T-D02 PreMortem        ║
+║  ⚡ SOLVE A PERF PROBLEM     →  T-A04 Bottlenck →  T-A03 Capacity →  T-S02 Scalability →  T-M03 Occam        ║
+║  🔀 CHOOSE A TECH STACK      →  T-X02 BiasCheck →  T-X03 Steelman →  T-D01 Matrix  →  T-D05 Devil's          ║
+║  🚨 HANDLE AN INCIDENT       →  T-P04 Scope  →  T-P02 RootCause  →  T-S01 Failures  →  T-R04 PostMortem      ║
+║  🔄 REFACTOR LEGACY CODE     →  T-M04 Fence  →  T-P05 1stPrinc  →  T-C03 SCAMPER  →  T-S03 DepMap            ║
+║  📦 EVALUATE A LIBRARY/TOOL  →  T-X02 BiasCheck →  T-X03 Steelman →  T-A02 Tradeoff →  T-D04 Reversible      ║
+║  🌐 SCALE EXISTING SYSTEM    →  T-S02 Scale  →  T-A04 Bottlenck  →  T-S06 Leverage →  T-D03 2ndOrder         ║
+║  🛡 REVIEW SOMEONE'S PR/DESIGN→ T-L01 Fallacy →  T-X01 Assumptns →  T-D05 Devil's  →  T-R02 Confidence       ║
+║  🤔 MAKE A BUILD VS BUY      →  T-A02 Tradeoff →  T-X02 BiasCheck →  T-D01 Matrix  →  T-D03 2ndOrder         ║
+║                                                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                              ║
+║  🚦 QUICK SELECTOR — WHAT IS YOUR TECH SITUATION?                                                            ║
+║  ──────────────────────────────────────────────────────────────────────────────────────────────────────────  ║
+║                                                                                                              ║
+║  Debugging a bug ............. T-P01, T-P02, T-P03   │  Reviewing code/PR ......... T-L01, T-X01, T-D05      ║
+║  System not scaling .......... T-S02, T-A04, T-A03   │  Choosing a framework ...... T-X02, T-A02, T-D04      ║
+║  Handling an incident ........ T-P04, T-S01, T-R04   │  Evaluating a rewrite ...... T-M04, T-A02, T-D02      ║
+║  Designing a new system ...... T-P05, T-A01, T-D01   │  Estimating capacity ....... T-A03, T-S02, T-A04      ║
+║  Choosing architecture ....... T-D01, T-D02, T-D05   │  Reducing tech debt ........ T-A05, T-S06, T-M03      ║
+║  Stuck on a solution ......... T-C01, T-C02, T-C04   │  Challenging a tech choice . T-X03, T-L02, T-D05      ║
+║  Evaluating a tool/library ... T-X02, T-A02, T-D04   │  Post-incident review ...... T-R04, T-P02, T-S01      ║
+║                                                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                              ║
+║  🧪 TECH CRITICAL THINKING QUESTIONS — ALWAYS ASK THESE                                                      ║
+║  ──────────────────────────────────────────────────────────────────────────────────────────────────────────  ║
+║                                                                                                              ║
+║  BEFORE BUILDING          BEFORE DECIDING           BEFORE DEPLOYING          BEFORE CONCLUDING              ║
+║  ─────────────────────    ───────────────────────   ────────────────────────  ─────────────────────────      ║
+║  Do we need this at all?  What are we optimizing    What is the blast         Am I reasoning from            ║
+║  What problem does this   for and what are we        radius if this fails?     evidence or assumption?       ║
+║  actually solve?          sacrificing?              Can we roll back?         What would prove me            ║
+║  What is the simplest     Have we steelmanned       What monitoring           wrong?                         ║
+║  solution that works?     the alternative?          is in place?              Who has done this              ║
+║  What breaks at 10x?      Is this reversible?       What is degraded          before and what                ║
+║  Who maintains this?      What are the 2nd order    mode behavior?            happened?                      ║
+║  What is our exit         effects on the team?      Have we tested            Am I the right person          ║
+║  strategy if it fails?    What bias is driving      failure modes?            to make this call?             ║
+║                           this choice?              Who is on call?                                          ║
+║                                                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                              ║
+║  💎 GOLDEN RULES FOR TECH CRITICAL THINKING                                                                  ║
+║  ──────────────────────────────────────────────────────────────────────────────────────────────────────────  ║
+║                                                                                                              ║
+║  1.  Simple is not simplistic. Complexity is not sophistication                                              ║
+║  2.  The map is not the territory. Your diagram is not the system                                            ║
+║  3.  Working software beats elegant architecture every time                                                  ║
+║  4.  Optimize for the next engineer, not the next benchmark                                                  ║
+║  5.  Premature optimization is the root of all evil — Knuth                                                  ║
+║  6.  Name the bias before it ships to production                                                             ║
+║  7.  Understand why the fence exists before tearing it down                                                  ║
+║  8.  The best code is code you don't have to write                                                           ║
+║  9.  Scale problems are good problems. Solve today's problems today                                          ║
+║  10. Every technical decision is also a team and organizational decision                                     ║
+║                                                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                              ║
+║  📋 TECH DECISION CHECKLIST — USE BEFORE ANY MAJOR TECH DECISION                                             ║
+║  ──────────────────────────────────────────────────────────────────────────────────────────────────────────  ║
+║                                                                                                              ║
+║  □ Problem clearly defined (not assumed)      □ Reversibility assessed                                       ║
+║  □ Requirements separated from assumptions    □ Second order effects considered                              ║
+║  □ At least 3 alternatives considered         □ Team skill/capacity checked                                  ║
+║  □ Trade-offs explicitly named                □ Operational burden estimated                                 ║
+║  □ Biases checked (familiarity/hype/sunk)     □ Monitoring/observability planned                             ║
+║  □ Steelman of opposing view completed        □ Exit strategy defined                                        ║
+║  □ Scale assumptions validated                □ Decision documented with reasoning                           ║
+║                                                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+
