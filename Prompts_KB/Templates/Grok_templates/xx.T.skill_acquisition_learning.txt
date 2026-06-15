@@ -16,6 +16,51 @@ The Advantage: The advantage isn't the AI's intelligence; it's the reduction of 
 
 
 -------------------------------------------------------------
+/analyse and summarize breaking news, viral trends, and cultural conversations in Japan in 2026
+
+
+##economic trends
+/summarize [japan] economic news and present a deep analysis of the trends
+
+/summarize [japanese] problems of the economy and present a deep analysis of the trends
+
+##Research trends
+/summarize top trends in scientific research in the [place] in [year] and list chief actors order by importance
+
+/research [topic], found: [paste notes]. Synthesize: 1) Overall themes, 2) Conflicts, 3) Knowledge gaps, 4) Next steps for deeper understanding Cite every source. Flag any claim you are not confident about with [VERIFY]. Do not send or post anything. 
+-------------------------------------------------------------
+##skill acquisition & architecture probes
+
+"Act as a hands-on instructional designer and skill acquisition expert. Create a structured, actionable learning plan for me to master [insert skill/topic]. Break the journey down into 5 progressive phases. For each phase, provide: 1) Core concepts to study, 2) Recommended learning resources, 3) Practical hands-on exercises, and 4) How to know when I am ready for the next level."
+
+The Skill ladder
+Map out exactly what a skill looks like at different stages so you can track your ongoing progress. 
+"Map the skill of [insert skill] into 5 clear levels: 1) Complete Beginner, 2) Advanced Beginner, 3) Competent, 4) Proficient, and 5) Expert. For each level, describe exactly what I should be able to do, the core concepts to study, and the criteria for knowing I am ready to advance to the next level."
+-------------------------------------------------------------
+/deepanalyse and extract the block diagram of a OMS/EMS application for asset class equities in an securities brokerage
+showing inputs it takes, outputs it delivers, dependencies and internal components with their logical interactions
+output in a box diagram in png format with Microsoft Designer
+
+-------------------------------------------------------------
+/list best prompts for analysing and summarizing economic and geopolitical trends
+/list best prompts for personal productivity frameworks
+/list best prompts for critical thinking and problem solving
+/list best prompts for software development
+/list best prompts for skill harvesting 
+/list best prompts for extracting the architecture of a software application
+/list best prompts for project management
+
+
+
+-------------------------------------------------------------
+/dig deeper analyze and summarize  into why Nikkei 225 is at historic highs while the government is considering reducing taxes on food in Japan
+
+
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
+-------------------------------------------------------------
+
+
+
