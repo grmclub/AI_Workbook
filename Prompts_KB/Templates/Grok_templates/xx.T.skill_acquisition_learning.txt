@@ -69,6 +69,10 @@ output in a box diagram in png format with Microsoft Designer
 -------------------------------------------------------------
 /dig deeper analyze and summarize  into why Nikkei 225 is at historic highs while the government is considering reducing taxes on food in Japan
 
+generate a compact one page summary  version for System Design Interviews in markdown format
+generate a compact one page summary version for Engineering Managers in markdown format
+
+
 
 
 -------------------------------------------------------------
