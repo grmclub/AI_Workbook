@@ -268,7 +268,7 @@
 ║  ⚡ Perf Problem      Bottleneck → Capacity → Scalability Analysis → Occam's Razor                           ║
 ║  🔀 Tech Stack Choice Bias Check → Steelman Alternative → Decision Matrix → Devil's Advocate                 ║
 ║  🚨 Live Incident     Scope → Root Cause → Failure Modes → Post-Incident Review                              ║
-║  🔄 Legacy Refactor   Chesterton's Fence → First Principles → SCAMPER → Dependency Map                      ║
+║  🔄 Legacy Refactor   Chesterton's Fence → First Principles → SCAMPER → Dependency Map                       ║
 ║  📦 Evaluate Tool     Bias Check → Steelman → Trade-off Analysis → Reversibility Check                       ║
 ║  🌐 Scale System      Scalability → Bottleneck → Leverage Points → Second Order Effects                      ║
 ║                                                                                                              ║
