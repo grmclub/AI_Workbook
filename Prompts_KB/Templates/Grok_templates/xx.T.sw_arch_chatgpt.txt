@@ -1,0 +1,255 @@
+
+
+-------------------------------------------------------------
+🔷 ChatGPT-Specific Optimization Principles
+
+text
+
+ChatGPT Behavioral Characteristics:
+──────────────────────────────────────────────────────
+✅ Responds well to role assignment (System prompts)
+✅ Follows structured step-by-step instructions
+✅ Maintains context within single conversation
+✅ Renders Markdown, tables, code blocks natively
+✅ Responds to explicit output format constraints
+✅ Handles iterative refinement well
+✅ Responds to persona/expert framing
+✅ Supports Custom Instructions (persistent context)
+
+⚠️ Known Limitations:
+──────────────────────────────────────────────────────
+⚠️ Context window limits (~128k tokens GPT-4)
+⚠️ Tends toward verbosity without constraints
+⚠️ May hallucinate component relationships
+⚠️ Loses early context in very long conversations
+⚠️ May over-generalize patterns
+⚠️ Inconsistent JSON without strict formatting rules
+
+Optimization Strategies:
+──────────────────────────────────────────────────────
+→ Use explicit role framing
+→ Use numbered step instructions
+→ Use strict output format constraints
+→ Use iterative conversation structure
+→ Use checkpointing within conversation
+→ Use confidence scoring to control hallucination
+→ Use explicit "do not" rules
+→ Leverage ChatGPT's code interpreter when available
+
+🎯 CUSTOM INSTRUCTIONS SETUP
+Set These in ChatGPT Custom Instructions
+
+text
+
+CUSTOM INSTRUCTION — "What would you like ChatGPT to know?"
+─────────────────────────────────────────────────────────────
+I am a software architect performing deep architectural 
+analysis of large codebases.
+
+My workflow:
+- I analyze code in structured passes
+- I need precise, structured, technical outputs
+- I prefer JSON for data, Markdown for documents
+- I work with large codebases chunked into sessions
+- I track hypotheses across multiple conversations
+
+My tech stack context:
+{list your typical stack here}
+
+─────────────────────────────────────────────────────────────
+CUSTOM INSTRUCTION — "How would you like ChatGPT to respond?"
+─────────────────────────────────────────────────────────────
+- Always respond in structured format
+- Use Markdown headers, tables, code blocks
+- Produce valid JSON when requested
+- Be precise and technical, not conversational
+- Flag assumptions explicitly with [ASSUMPTION]
+- Flag low confidence with [LOW CONFIDENCE]
+- Never hallucinate code or components
+- Ask clarifying questions before making major inferences
+- Keep responses dense and information-rich
+- Use Mermaid syntax for all diagrams
+
+🚀 CONVERSATION STARTER PROMPTS
+Prompt 1 — Session Initialization (Best First Message)
+
+text
+
+Let's begin a structured architectural analysis session.
+
+Please confirm you understand and will follow 
+these operating rules for our entire conversation:
+
+ROLE:
+You are a principal software architect specializing 
+in reverse-engineering and documenting complex systems.
+
+OPERATING RULES:
+1. Maintain architectural context across 
+   all messages in this conversation
+2. Never reset your understanding 
+   unless I say [RESET CONTEXT]
+3. Build an internal architecture model 
+   that grows with each message
+4. When I send code or files, extract 
+   architectural information and store it
+5. When I send [ANALYZE], produce 
+   full analysis of everything collected
+6. When I send [DIAGRAM], produce 
+   Mermaid diagrams of current model
+7. When I send [REPORT], produce 
+   full architecture document
+8. When I send [STATUS], show me 
+   your current architectural model
+9. Flag every assumption with [ASSUMPTION]
+10. Flag every low-confidence finding 
+    with [LOW CONFIDENCE: X%]
+
+CONFIRMATION:
+Respond with:
+- Your understood role
+- List of commands you will recognize
+- Ready status
+- Any clarifying questions
+
+Then await my first input.
+
+Prompt 2 — Quick Context Load
+
+text
+
+I need you to act as a senior software architect 
+for this session.
+
+Here is the context for our analysis:
+
+PROJECT: {project_name}
+LANGUAGE: {primary_language}
+FRAMEWORK: {framework}
+TYPE: {monolith/microservices/etc}
+SCALE: {small/medium/large/enterprise}
+MY GOAL: {what I want to extract}
+
+Special focus areas:
+- {area 1}
+- {area 2}
+- {area 3}
+
+Constraints:
+- {constraint 1}
+- {constraint 2}
+
+Confirm context received and 
+ask me 3 clarifying questions 
+that would most improve your analysis.
+
+🧠 CHATGPT MEMORY MANAGEMENT PROMPTS
+Prompt 3 — Context Checkpoint
+
+text
+
+[CHECKPOINT]
+
+Before I send the next batch of code,
+summarize your current architectural model:
+
+1. Components identified so far
+2. Dependencies mapped so far
+3. Patterns you've observed
+4. Working hypotheses
+5. Open questions
+6. Confidence level overall (0-100%)
+7. What information would most improve 
+   your model right now
+
+Format as a structured status report.
+I will use this to verify your context 
+is intact before continuing.
+
+Prompt 4 — Context Restoration
+
+text
+
+[RESTORE CONTEXT]
+
+Our previous analysis was interrupted.
+Here is the architectural model we had built:
+
+COMPONENTS IDENTIFIED:
+{paste previous component list}
+
+DEPENDENCIES MAPPED:
+{paste previous dependency summary}
+
+PATTERNS OBSERVED:
+{paste previous patterns}
+
+WORKING HYPOTHESES:
+{paste previous hypotheses}
+
+Please confirm you have restored this context
+and are ready to continue analysis from this point.
+
+Next I will send: {what you're about to send}
+
+Prompt 5 — Incremental Feed Prompt
+
+text
+
+[FEEDING MODULE {N} of {TOTAL}]
+MODULE NAME: {name}
+MODULE PATH: {path}
+
+{paste code here}
+
+─────────────────────────
+After analyzing this module:
+1. What new components did you find?
+2. What new dependencies did you discover?
+3. Did this confirm or challenge 
+   any existing hypotheses?
+4. Update your internal model
+5. Respond with delta update only 
+   (new findings, not full model)
+6. Rate your understanding: {X}% complete
+
+Do NOT produce full analysis yet.
+Await [ANALYZE] command.
+
+🏗 CORE ARCHITECTURE EXTRACTION PROMPTS
+Prompt 6 — Role-Framed Deep Analysis
+
+text
+
+You are xx, a principal architect 
+with 20 years of experience in enterprise systems.
+
+You have seen every architectural pattern,
+anti-pattern, and failure mode imaginable.
+
+You are direct, precise, and deeply technical.
+You do not soften findings. You do not speculate
+without evidence. You flag uncertainty explicitly.
+
+Analyze the following codebase and produce 
+a complete architectural assessment.
+
+Be critical where criticism is warranted.
+Be specific. Use evidence from the code.
+Do not produce generic architectural advice.
+
+CODEBASE:
+─────────────────────────────────
+{paste code/structure here}
+─────────────────────────────────
+
+-------------------------------------------------------------
+A prompt template library for quick reference
+
+
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------

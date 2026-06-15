@@ -1,0 +1,1986 @@
+
+
+CATEGORY 1 → Problem Definition & Framing        [P01-P08]
+CATEGORY 2 → Analytical Thinking                 [A01-A08]
+CATEGORY 3 → Creative Problem Solving            [C01-C08]
+CATEGORY 4 → Decision Making                     [D01-D08]
+CATEGORY 5 → Logical Reasoning                   [L01-L06]
+CATEGORY 6 → Assumption Challenging              [X01-X06]
+CATEGORY 7 → Systems Thinking                    [S01-S06]
+CATEGORY 8 → Debate & Argumentation              [B01-B06]
+CATEGORY 9 → Mental Models & Frameworks          [M01-M08]
+CATEGORY 10 → Self-Reflection & Metacognition    [R01-R06]
+-------------------------------------------------------------
+📋 MASTER QUICK REFERENCE
+
+text
+
+┌──────────────────────────────────────────────────────────┐
+│         CRITICAL THINKING PROMPT QUICK REFERENCE         │
+├────────┬─────────────────────────────┬───────────────────┤
+│ CODE   │ PURPOSE                     │ USE WHEN          │
+├────────┼─────────────────────────────┼───────────────────┤
+│ P01    │ Problem Reframing           │ Stuck on problem  │
+│ P02    │ Root Cause Analysis         │ Finding real cause│
+│ P03    │ Problem Decomposition       │ Complex problems  │
+│ P04    │ Scope Definition            │ Unclear boundaries│
+│ P05    │ Stakeholder Mapping         │ People problems   │
+│ P06    │ Constraint Identification   │ Finding limits    │
+│ P07    │ Problem Statement Writer    │ Defining problem  │
+│ P08    │ First Principles            │ Starting from zero│
+├────────┼─────────────────────────────┼───────────────────┤
+│ A01    │ MECE Analysis               │ Exhaustive breakdn│
+│ A02    │ SWOT Analysis               │ Strategic assess  │
+│ A03    │ Cost-Benefit Analysis       │ Evaluating options│
+│ A04    │ Gap Analysis                │ Current vs desired│
+│ A05    │ Pareto Analysis             │ Find 20% cause    │
+│ A06    │ Comparative Analysis        │ Comparing options │
+│ A07    │ Trend Analysis              │ Pattern finding   │
+│ A08    │ Impact Analysis             │ Assess consequences│
+├────────┼─────────────────────────────┼───────────────────┤
+│ C01    │ Brainstorming               │ Generate ideas    │
+│ C02    │ Reverse Brainstorming       │ Invert the problem│
+│ C03    │ SCAMPER Technique           │ Modify solutions  │
+│ C04    │ Lateral Thinking            │ Unconventional    │
+│ C05    │ Analogical Thinking         │ Cross-domain ideas│
+│ C06    │ Six Thinking Hats           │ Multiple views    │
+│ C07    │ Random Stimulus             │ Break mental block│
+│ C08    │ Worst Possible Idea         │ Inversion method  │
+├────────┼─────────────────────────────┼───────────────────┤
+│ D01    │ Decision Matrix             │ Multiple options  │
+│ D02    │ Pros & Cons                 │ Simple decisions  │
+│ D03    │ Pre-Mortem Analysis         │ Before deciding   │
+│ D04    │ Second Order Thinking       │ Long-term effects │
+│ D05    │ Reversibility Check         │ Risk assessment   │
+│ D06    │ Regret Minimization         │ Major life choices│
+│ D07    │ Weighted Criteria           │ Complex tradeoffs │
+│ D08    │ Devil's Advocate            │ Challenge decision│
+├────────┼─────────────────────────────┼───────────────────┤
+│ L01    │ Logical Fallacy Check       │ Argument validity │
+│ L02    │ Syllogism Builder           │ Formal logic      │
+│ L03    │ Inductive Reasoning         │ Pattern to rule   │
+│ L04    │ Deductive Reasoning         │ Rule to case      │
+│ L05    │ Abductive Reasoning         │ Best explanation  │
+│L06     │ Argument Mapping            │ Structure debate  │
+├────────┼─────────────────────────────┼───────────────────┤
+│ X01    │ Assumption Surfacing        │ Find hidden beliefs│
+│ X02    │ Assumption Challenge        │ Test beliefs      │
+│ X03    │ Steelman Technique          │ Strongest argument│
+│ X04    │ Pre-mortem Assumptions      │ What if wrong     │
+│ X05    │ Bias Detection              │ Find blind spots  │
+│ X06    │ Certainty Spectrum          │ Rate confidence   │
+├────────┼─────────────────────────────┼───────────────────┤
+│ S01    │ Systems Mapping             │ See whole system  │
+│ S02    │ Feedback Loop Analysis      │ Find loops        │
+│ S03    │ Leverage Point Finding      │ Max impact areas  │
+│ S04    │ Unintended Consequences     │ Side effects      │
+│ S05    │ Causal Loop Diagram         │ Map causality     │
+│ S06    │ Bottleneck Analysis         │ Find constraints  │
+├────────┼─────────────────────────────┼───────────────────┤
+│ B01    │ Structured Debate           │ Explore all sides │
+│ B02    │ Steel Man vs Straw Man      │ Fair argument     │
+│ B03    │ Socratic Questioning        │ Deep exploration  │
+│ B04    │ Red Team / Blue Team        │ Attack & defend   │
+│ B05    │ Perspective Taking          │ Other viewpoints  │
+│ B06    │ Evidence Evaluation         │ Test claims       │
+├────────┼─────────────────────────────┼───────────────────┤
+│ M01    │ First Principles            │ Base level truth  │
+│ M02    │ Inversion                   │ Reverse the goal  │
+│ M03    │ Occam's Razor               │ Simplest answer   │
+│ M04    │ Hanlon's Razor              │ Assume no malice  │
+│ M05    │ Circle of Competence        │ Know your limits  │
+│ M06    │ Map vs Territory            │ Model vs reality  │
+│ M07    │ Second Order Effects        │ Downstream impact │
+│ M08    │ Chesterton's Fence          │ Why rules exist   │
+├────────┼─────────────────────────────┼───────────────────┤
+│ R01    │ Thinking About Thinking     │ Metacognition     │
+│ R02    │ Blind Spot Detector         │ Personal biases   │
+│ R03    │ Confidence Calibration      │ Know what you know│
+│ R04    │ Decision Journal            │ Track reasoning   │
+│ R05    │ Learning Extraction         │ After action review│
+│ R06    │ Intellectual Honesty Check  │ Self-audit        │
+└────────┴─────────────────────────────┴───────────────────┘
+
+📁 CATEGORY 1 — Problem Definition & Framing
+[P01] Problem Reframing
+
+text
+
+TEMPLATE ID: P01
+USE WHEN: Stuck on a problem / need fresh angle
+─────────────────────────────────────────────────
+PROBLEM: {{PROBLEM_STATEMENT}}
+
+Reframe this problem in 5 different ways:
+
+1. FROM THE OPPOSITE DIRECTION
+   Instead of "how do we X" → 
+   "why are we not already X"
+
+2. FROM A DIFFERENT LEVEL
+   Zoom out: what bigger problem is this part of?
+   Zoom in: what is the smallest version of this?
+
+3. FROM A DIFFERENT STAKEHOLDER
+   How does each affected party 
+   define this problem differently?
+
+4. AS AN OPPORTUNITY
+   What does this problem make possible?
+
+5. WITHOUT YOUR CURRENT CONSTRAINTS
+   If constraints didn't exist, 
+   how would you define it?
+
+After all 5 reframes:
+- Which reframe is most useful? Why?
+- What does each reframe reveal 
+  that the original missed?
+─────────────────────────────────────────────────
+VARIABLES: PROBLEM_STATEMENT
+
+[P02] Root Cause Analysis
+
+text
+
+TEMPLATE ID: P02
+USE WHEN: Finding true cause not surface symptoms
+─────────────────────────────────────────────────
+PROBLEM: {{PROBLEM_STATEMENT}}
+
+Apply multiple root cause techniques:
+
+1. FIVE WHYS
+Why does the problem occur?
+→ Why does that happen?
+→ Why does that happen?
+→ Why does that happen?
+→ Why does that happen?
+Root cause: [answer]
+
+2. FISHBONE (ISHIKAWA) ANALYSIS
+Categorize potential causes:
+- People:
+- Process:
+- Technology:
+- Environment:
+- Materials/Inputs:
+- Measurement:
+
+3. FAULT TREE ANALYSIS
+Work backwards from the problem.
+What conditions must ALL be true 
+for this problem to occur?
+
+SYNTHESIS:
+- Most likely root cause:
+- Evidence supporting it:
+- How to verify:
+- How to address root (not symptom):
+─────────────────────────────────────────────────
+VARIABLES: PROBLEM_STATEMENT
+
+[P03] Problem Decomposition
+
+text
+
+TEMPLATE ID: P03
+USE WHEN: Breaking complex problems into parts
+─────────────────────────────────────────────────
+PROBLEM: {{COMPLEX_PROBLEM}}
+
+Decompose this problem systematically.
+
+STEP 1: IDENTIFY DIMENSIONS
+What are all the different dimensions 
+of this problem?
+(technical / human / financial / 
+ time / process / etc.)
+
+STEP 2: BREAK INTO SUB-PROBLEMS
+For each dimension, list specific 
+sub-problems that must be solved.
+
+STEP 3: MAP DEPENDENCIES
+Which sub-problems must be solved 
+before others?
+Produce a dependency order.
+
+STEP 4: PRIORITIZE
+Which sub-problems have the 
+highest impact if solved?
+Which are quickest to solve?
+
+STEP 5: ATTACK PLAN
+Recommended order to tackle 
+sub-problems with reasoning.
+
+OUTPUT:
+- Problem decomposition tree
+- Dependency map
+- Priority matrix
+- Recommended sequence
+─────────────────────────────────────────────────
+VARIABLES: COMPLEX_PROBLEM
+
+[P04] Scope Definition
+
+text
+
+TEMPLATE ID: P04
+USE WHEN: Unclear what is/isn't the problem
+─────────────────────────────────────────────────
+SITUATION: {{SITUATION}}
+
+Define the precise scope of this problem.
+
+IN SCOPE (clearly part of this problem):
+-
+-
+-
+
+OUT OF SCOPE (related but not this problem):
+-
+-
+-
+
+BOUNDARY CASES (unclear, need decision):
+-
+-
+-
+
+AFFECTED BY (impacts this but isn't it):
+-
+-
+-
+
+CONSTRAINTS (limits what solutions are valid):
+-
+-
+-
+
+SUCCESS CRITERIA:
+How will we know when this problem is solved?
+Measurable: [metric]
+Observable: [behavior]
+Time-bound: [deadline]
+─────────────────────────────────────────────────
+VARIABLES: SITUATION
+
+[P05] Stakeholder Mapping
+
+text
+
+TEMPLATE ID: P05
+USE WHEN: Problem involves multiple people/groups
+─────────────────────────────────────────────────
+PROBLEM: {{PROBLEM}}
+
+Map all stakeholders affected by 
+or influencing this problem.
+
+FOR EACH STAKEHOLDER:
+{
+  "stakeholder": "",
+  "role": "DECISION_MAKER|INFLUENCER|
+           AFFECTED|IMPLEMENTER|OBSERVER",
+  "their_definition_of_problem": "",
+  "their_desired_outcome": "",
+  "their_fears": "",
+  "their_incentives": "",
+  "power_level": "LOW|MEDIUM|HIGH",
+  "interest_level": "LOW|MEDIUM|HIGH",
+  "current_stance": "SUPPORTIVE|NEUTRAL|RESISTANT"
+}
+
+POWER-INTEREST GRID:
+High Power + High Interest → Manage Closely
+High Power + Low Interest  → Keep Satisfied
+Low Power + High Interest  → Keep Informed
+Low Power + Low Interest   → Monitor
+
+KEY TENSIONS:
+Where do stakeholder interests conflict?
+
+ALIGNMENT STRATEGY:
+How to build enough consensus to move forward?
+─────────────────────────────────────────────────
+VARIABLES: PROBLEM
+
+[P06] Constraint Identification
+
+text
+
+TEMPLATE ID: P06
+USE WHEN: Need to understand real limits
+─────────────────────────────────────────────────
+PROBLEM: {{PROBLEM}}
+
+Identify all constraints on solving this problem.
+
+CONSTRAINT TYPES:
+
+HARD CONSTRAINTS (cannot be changed):
+- Legal/regulatory:
+- Physical/technical:
+- Ethical:
+- Safety:
+
+SOFT CONSTRAINTS (could be changed):
+- Budget:
+- Time:
+- Resources:
+- Political:
+- Cultural:
+
+ASSUMED CONSTRAINTS (may not be real):
+- What are we assuming is a constraint 
+  that might not actually be?
+
+FOR EACH CONSTRAINT:
+{
+  "constraint": "",
+  "type": "HARD|SOFT|ASSUMED",
+  "can_be_changed": true/false,
+  "change_cost": "",
+  "solutions_eliminated_by_this": []
+}
+
+KEY INSIGHT:
+Which constraints, if removed, 
+would open the most solutions?
+─────────────────────────────────────────────────
+VARIABLES: PROBLEM
+
+[P07] Problem Statement Writer
+
+text
+
+TEMPLATE ID: P07
+USE WHEN: Need a precise problem definition
+─────────────────────────────────────────────────
+SITUATION: {{VAGUE_PROBLEM_DESCRIPTION}}
+
+Write a precise, actionable problem statement.
+
+PROBLEM STATEMENT FORMULA:
+[WHO] experiences [WHAT PROBLEM] 
+when [CONTEXT/TRIGGER] 
+because [ROOT CAUSE] 
+resulting in [IMPACT/CONSEQUENCE] 
+which matters because [BUSINESS/HUMAN VALUE].
+
+DRAFT 3 VERSIONS:
+1. Narrow version (specific and focused)
+2. Broad version (bigger context)
+3. Human-centered version (from user perspective)
+
+EVALUATE EACH VERSION:
+- Is it specific enough to guide solutions?
+- Does it describe the problem not the solution?
+- Does it include measurable elements?
+- Is it free of assumed causes?
+
+RECOMMENDED VERSION: [choice + reasoning]
+─────────────────────────────────────────────────
+VARIABLES: VAGUE_PROBLEM_DESCRIPTION
+
+[P08] First Principles Breakdown
+
+text
+
+TEMPLATE ID: P08
+USE WHEN: Need to start from absolute basics
+─────────────────────────────────────────────────
+TOPIC/PROBLEM: {{TOPIC}}
+
+Apply First Principles Thinking.
+
+STEP 1: IDENTIFY ASSUMPTIONS
+List everything being assumed as true 
+about this problem/topic.
+Be exhaustive. Include obvious ones.
+
+STEP 2: CHALLENGE EACH ASSUMPTION
+For each assumption:
+- Is this actually true?
+- What is the evidence?
+- What if it were false?
+
+STEP 3: FIND BEDROCK FACTS
+What is undeniably, fundamentally true?
+Strip away all assumptions.
+What remains?
+
+STEP 4: REBUILD FROM SCRATCH
+Using only bedrock facts:
+- What solutions become available?
+- What conventional approaches 
+  are actually unnecessary?
+- What new approaches emerge?
+
+STEP 5: COMPARE
+How does the first-principles solution 
+differ from conventional thinking?
+What does this reveal?
+─────────────────────────────────────────────────
+VARIABLES: TOPIC
+
+📁 CATEGORY 2 — Analytical Thinking
+[A01] MECE Analysis
+
+text
+
+TEMPLATE ID: A01
+USE WHEN: Need exhaustive, non-overlapping breakdown
+─────────────────────────────────────────────────
+TOPIC: {{TOPIC}}
+
+Apply MECE (Mutually Exclusive, 
+Collectively Exhaustive) analysis.
+
+STEP 1: IDENTIFY CATEGORIES
+Break {{TOPIC}} into categories that are:
+- Mutually Exclusive: no overlap between categories
+- Collectively Exhaustive: everything is covered
+
+STEP 2: VERIFY MECE COMPLIANCE
+□ Do any categories overlap? (fix if yes)
+□ Is anything left uncategorized? (fix if yes)
+□ Is the breakdown level consistent?
+
+STEP 3: POPULATE EACH CATEGORY
+For each category, list all elements.
+
+STEP 4: VALIDATE
+Can you think of any element of {{TOPIC}} 
+that doesn't fit? 
+If yes, adjust categories.
+
+OUTPUT:
+- MECE breakdown tree
+- Verification checklist
+- Gaps identified
+- Recommended analysis focus areas
+─────────────────────────────────────────────────
+VARIABLES: TOPIC
+
+[A02] SWOT Analysis
+
+text
+
+TEMPLATE ID: A02
+USE WHEN: Strategic assessment of situation/option
+─────────────────────────────────────────────────
+SUBJECT: {{SUBJECT}}
+(person / organization / plan / product / decision)
+
+CONTEXT: {{CONTEXT}}
+
+SWOT ANALYSIS:
+
+STRENGTHS (internal, positive):
+- What advantages exist?
+- What is done well?
+- What unique resources are available?
+1.
+2.
+3.
+
+WEAKNESSES (internal, negative):
+- What could be improved?
+- What is done poorly?
+- What should be avoided?
+1.
+2.
+3.
+
+OPPORTUNITIES (external, positive):
+- What trends could be exploited?
+- What changes create openings?
+- What gaps exist in the landscape?
+1.
+2.
+3.
+
+THREATS (external, negative):
+- What obstacles exist?
+- What are competitors doing?
+- What risks exist?
+1.
+2.
+3.
+
+STRATEGIC IMPLICATIONS:
+SO Strategies (use strengths for opportunities):
+WO Strategies (overcome weaknesses via opportunities):
+ST Strategies (use strengths to avoid threats):
+WT Strategies (minimize weaknesses, avoid threats):
+─────────────────────────────────────────────────
+VARIABLES: SUBJECT, CONTEXT
+
+[A03] Cost-Benefit Analysis
+
+text
+
+TEMPLATE ID: A03
+USE WHEN: Evaluating whether to do something
+─────────────────────────────────────────────────
+DECISION: {{DECISION_OR_ACTION}}
+TIMEFRAME: {{TIMEFRAME}}
+
+COSTS:
+Direct costs:
+| Cost Item | Amount/Estimate | Certainty |
+|-----------|----------------|-----------|
+
+Indirect costs:
+| Cost Item | Amount/Estimate | Certainty |
+|-----------|----------------|-----------|
+
+Hidden/opportunity costs:
+| Cost Item | Amount/Estimate | Certainty |
+|-----------|----------------|-----------|
+
+BENEFITS:
+Tangible benefits:
+| Benefit | Value/Estimate | Timeline | Certainty |
+|---------|---------------|----------|-----------|
+
+Intangible benefits:
+| Benefit | Value/Estimate | Timeline | Certainty |
+|---------|---------------|----------|-----------|
+
+ANALYSIS:
+- Total estimated cost: 
+- Total estimated benefit: 
+- Net benefit: 
+- Break-even point: 
+- ROI: 
+- Risk-adjusted value: 
+
+RECOMMENDATION: GO / NO GO / MODIFY
+Reasoning: [explanation]
+─────────────────────────────────────────────────
+VARIABLES: DECISION_OR_ACTION, TIMEFRAME
+
+[A04] Gap Analysis
+
+text
+
+TEMPLATE ID: A04
+USE WHEN: Analyzing distance between now and goal
+─────────────────────────────────────────────────
+DOMAIN: {{DOMAIN}}
+(skill / process / product / organization / etc.)
+
+CURRENT STATE:
+Describe what exists now in detail.
+- What works?
+- What doesn't?
+- What metrics reflect current state?
+
+DESIRED STATE:
+Describe the goal in detail.
+- What does success look like?
+- What metrics reflect desired state?
+- By when?
+
+GAP IDENTIFICATION:
+| Dimension | Current | Desired | Gap Size | Priority |
+|-----------|---------|---------|----------|----------|
+
+ROOT CAUSES OF GAPS:
+For each significant gap:
+- Why does this gap exist?
+- How long has it existed?
+- What has prevented closing it?
+
+GAP CLOSING PLAN:
+| Gap | Action | Owner | Timeline | Resources |
+|-----|--------|-------|----------|-----------|
+
+QUICK WINS (gaps closable immediately):
+MEDIUM TERM (1-3 months):
+LONG TERM (3+ months):
+─────────────────────────────────────────────────
+VARIABLES: DOMAIN
+
+[A05] Pareto Analysis
+
+text
+
+TEMPLATE ID: A05
+USE WHEN: Finding 20% causing 80% of impact
+─────────────────────────────────────────────────
+PROBLEM/DOMAIN: {{DOMAIN}}
+
+Apply Pareto Analysis (80/20 Rule).
+
+STEP 1: LIST ALL FACTORS
+List all factors contributing to 
+the problem or outcome.
+
+STEP 2: QUANTIFY EACH
+For each factor:
+- Frequency / Volume / Impact (pick one metric)
+- Assign numerical value
+
+STEP 3: RANK AND CALCULATE
+| Factor | Value | % of Total | Cumulative % |
+|--------|-------|------------|--------------|
+
+STEP 4: IDENTIFY THE VITAL FEW
+Which factors account for ~80% of impact?
+These are your Vital Few.
+
+Which factors account for the remaining 20%?
+These are your Trivial Many.
+
+STEP 5: FOCUS RECOMMENDATIONS
+What actions targeting ONLY the Vital Few 
+would have the greatest impact?
+
+KEY INSIGHT:
+If you could only fix one thing, 
+what would it be and why?
+─────────────────────────────────────────────────
+VARIABLES: DOMAIN
+
+[A06] Comparative Analysis
+
+text
+
+TEMPLATE ID: A06
+USE WHEN: Comparing multiple options objectively
+─────────────────────────────────────────────────
+COMPARING: {{OPTION_A}} vs {{OPTION_B}} 
+           (vs {{OPTION_C}} if applicable)
+
+CONTEXT: {{DECISION_CONTEXT}}
+
+EVALUATION CRITERIA:
+(customize to your context)
+| Criteria | Weight | Option A | Option B | Option C |
+|----------|--------|----------|----------|----------|
+| Cost | | | | |
+| Speed | | | | |
+| Quality | | | | |
+| Risk | | | | |
+| Scalability | | | | |
+| Reversibility | | | | |
+| Fit to context | | | | |
+
+WEIGHTED SCORES:
+Option A total: 
+Option B total:
+Option C total:
+
+QUALITATIVE FACTORS:
+What the numbers don't capture:
+- Option A unique strengths/weaknesses:
+- Option B unique strengths/weaknesses:
+- Option C unique strengths/weaknesses:
+
+RECOMMENDATION:
+Best choice: [option]
+Reasoning: [explanation]
+Conditions where other options win: [list]
+─────────────────────────────────────────────────
+VARIABLES: OPTION_A, OPTION_B, OPTION_C,
+           DECISION_CONTEXT
+
+[A07] Trend Analysis
+
+text
+
+TEMPLATE ID: A07
+USE WHEN: Identifying patterns over time
+─────────────────────────────────────────────────
+DOMAIN: {{DOMAIN}}
+DATA/OBSERVATIONS: {{DATA}}
+
+Analyze trends and patterns.
+
+STEP 1: IDENTIFY PATTERNS
+- What is increasing?
+- What is decreasing?
+- What is cyclical?
+- What is stable?
+- What is volatile?
+
+STEP 2: FIND INFLECTION POINTS
+When did significant changes occur?
+What caused each change?
+
+STEP 3: EXTRAPOLATE
+If current trends continue:
+- Short term ({{TIMEFRAME_1}}): 
+- Medium term ({{TIMEFRAME_2}}):
+- Long term ({{TIMEFRAME_3}}):
+
+STEP 4: IDENTIFY RISKS TO TREND
+What could disrupt current trends?
+- Likely disruptors:
+- Wild card disruptors:
+
+STEP 5: STRATEGIC IMPLICATIONS
+What decisions should be made NOW
+based on these trends?
+─────────────────────────────────────────────────
+VARIABLES: DOMAIN, DATA, TIMEFRAME_1,
+           TIMEFRAME_2, TIMEFRAME_3
+
+[A08] Impact Analysis
+
+text
+
+TEMPLATE ID: A08
+USE WHEN: Assessing consequences of action/change
+─────────────────────────────────────────────────
+PROPOSED CHANGE/ACTION: {{ACTION}}
+SYSTEM/CONTEXT AFFECTED: {{CONTEXT}}
+
+Analyze full impact across all dimensions.
+
+IMMEDIATE IMPACTS (first order):
+| Area | Impact | Positive/Negative | Certainty |
+|------|--------|-------------------|-----------|
+
+SHORT-TERM IMPACTS ({{TIMEFRAME_1}}):
+| Area | Impact | Positive/Negative | Certainty |
+|------|--------|-------------------|-----------|
+
+LONG-TERM IMPACTS ({{TIMEFRAME_2}}):
+| Area | Impact | Positive/Negative | Certainty |
+|------|--------|-------------------|-----------|
+
+AFFECTED STAKEHOLDERS:
+| Stakeholder | How Affected | Severity |
+|-------------|-------------|----------|
+
+UNINTENDED CONSEQUENCES:
+What could go wrong that isn't obvious?
+
+REVERSIBILITY:
+If this goes wrong, can it be undone?
+Cost of reversal:
+
+NET IMPACT ASSESSMENT:
+Overall: POSITIVE / NEGATIVE / NEUTRAL / MIXED
+Confidence: X%
+─────────────────────────────────────────────────
+VARIABLES: ACTION, CONTEXT, 
+           TIMEFRAME_1, TIMEFRAME_2
+
+📁 CATEGORY 3 — Creative Problem Solving
+[C01] Brainstorming
+
+text
+
+TEMPLATE ID: C01
+USE WHEN: Generating many ideas quickly
+─────────────────────────────────────────────────
+CHALLENGE: {{CHALLENGE}}
+
+PHASE 1: DIVERGENT THINKING
+Generate 20 ideas. No filtering yet.
+All ideas welcome, including wild ones.
+Build on previous ideas.
+Quantity over quality.
+
+1-20: [ideas]
+
+PHASE 2: UNEXPECTED ANGLES
+Now generate 5 more ideas from 
+these unusual angles:
+- What would a child suggest?
+- What would a competitor do?
+- What would nature do?
+- What would an artist do?
+- What would someone with no 
+  budget constraints do?
+
+PHASE 3: CONVERGENT THINKING
+From all 25 ideas, select top 5.
+Criteria: impact × feasibility
+
+PHASE 4: DEVELOP TOP 3
+For each of top 3 ideas:
+- How would it work?
+- What would it require?
+- What's the first step?
+─────────────────────────────────────────────────
+VARIABLES: CHALLENGE
+
+[C02] Reverse Brainstorming
+
+text
+
+TEMPLATE ID: C02
+USE WHEN: Stuck on direct solutions
+─────────────────────────────────────────────────
+GOAL: {{GOAL}}
+
+REVERSE BRAINSTORMING TECHNIQUE:
+
+STEP 1: INVERT THE PROBLEM
+Instead of "How do we achieve {{GOAL}}?"
+Ask: "How could we PREVENT {{GOAL}}?" 
+Or: "How could we make {{PROBLEM}} WORSE?"
+
+Generate 15 ways to make things worse:
+1-15: [reversed ideas]
+
+STEP 2: REVERSE EACH IDEA
+Take each "make it worse" idea and 
+flip it to a "make it better" solution.
+
+| Make Worse | → | Make Better |
+|------------|---|-------------|
+
+STEP 3: EVALUATE REVERSED SOLUTIONS
+Which reversed solutions are:
+- Novel (not already being done)?
+- Feasible?
+- High impact?
+
+TOP 3 INSIGHTS FROM REVERSAL:
+1.
+2.
+3.
+─────────────────────────────────────────────────
+VARIABLES: GOAL, PROBLEM
+
+[C03] SCAMPER Technique
+
+text
+
+TEMPLATE ID: C03
+USE WHEN: Modifying existing solutions
+─────────────────────────────────────────────────
+EXISTING SOLUTION/PRODUCT/PROCESS: {{SUBJECT}}
+CHALLENGE: {{CHALLENGE}}
+
+Apply SCAMPER:
+
+S — SUBSTITUTE
+What can be substituted?
+(components, materials, people, process)
+Ideas:
+
+C — COMBINE
+What can be combined with something else?
+(features, purposes, ideas)
+Ideas:
+
+A — ADAPT
+What can be adapted or modified?
+(context, timing, audience)
+Ideas:
+
+M — MODIFY / MAGNIFY / MINIMIZE
+What can be changed, scaled up or down?
+Ideas:
+
+P — PUT TO OTHER USE
+How could this be used differently?
+New contexts, new users, new purposes.
+Ideas:
+
+E — ELIMINATE
+What can be removed or simplified?
+What is unnecessary?
+Ideas:
+
+R — REVERSE / REARRANGE
+What if order, structure or 
+direction was reversed?
+Ideas:
+
+TOP 3 SCAMPER-GENERATED IDEAS:
+1.
+2.
+3.
+─────────────────────────────────────────────────
+VARIABLES: SUBJECT, CHALLENGE
+
+[C04] Lateral Thinking
+
+text
+
+TEMPLATE ID: C04
+USE WHEN: Need unconventional solutions
+─────────────────────────────────────────────────
+PROBLEM: {{PROBLEM}}
+
+Apply lateral thinking techniques:
+
+1. RANDOM ENTRY
+Pick a random word: {{RANDOM_WORD}}
+Force connections between {{RANDOM_WORD}} 
+and your problem.
+What solutions does this suggest?
+
+2. PROVOCATION
+Make provocative statements about the problem:
+"What if {{ABSURD_ASSUMPTION}}?"
+What useful ideas does this provoke?
+
+3. CHALLENGE METHOD
+Challenge every assumption:
+"Why must we...?"
+"Does this always have to be...?"
+What opens up when you remove each rule?
+
+4. CONCEPT EXTRACTION
+Extract the core concept.
+How else could that concept be achieved?
+What different forms could it take?
+
+5. CROSS-INDUSTRY INSPIRATION
+How does {{DIFFERENT_INDUSTRY}} 
+solve a similar problem?
+What can be borrowed?
+
+LATERAL INSIGHTS GENERATED:
+[list all novel ideas surfaced]
+─────────────────────────────────────────────────
+VARIABLES: PROBLEM, RANDOM_WORD, 
+           ABSURD_ASSUMPTION, DIFFERENT_INDUSTRY
+
+[C05] Analogical Thinking
+
+text
+
+TEMPLATE ID: C05
+USE WHEN: Using other domains for inspiration
+─────────────────────────────────────────────────
+PROBLEM: {{PROBLEM}}
+
+Find solutions through analogy.
+
+STEP 1: DEFINE THE CORE CHALLENGE
+Strip the problem to its essence.
+Core challenge: [one sentence]
+
+STEP 2: FIND ANALOGIES IN OTHER DOMAINS
+How does nature solve this?
+How does the military solve this?
+How does medicine solve this?
+How does architecture solve this?
+How do children solve this?
+How does {{SPECIFIC_DOMAIN}} solve this?
+
+STEP 3: MAP THE ANALOGY
+Best analogy found: [description]
+Domain: [where it comes from]
+How it works there: [explanation]
+
+STEP 4: TRANSFER THE SOLUTION
+How does this analogy translate 
+to your problem?
+What specifically can be borrowed?
+What must be adapted?
+
+ANALOGY-INSPIRED SOLUTION:
+[description of transferred solution]
+─────────────────────────────────────────────────
+VARIABLES: PROBLEM, SPECIFIC_DOMAIN
+
+[C06] Six Thinking Hats
+
+text
+
+TEMPLATE ID: C06
+USE WHEN: Need comprehensive multi-perspective view
+─────────────────────────────────────────────────
+TOPIC/DECISION: {{TOPIC}}
+
+Apply De Bono's Six Thinking Hats.
+
+🤍 WHITE HAT — Facts & Information
+What do we know for certain?
+What data is available?
+What information do we need?
+Facts:
+
+🔴 RED HAT — Emotions & Intuition
+What is your gut feeling?
+What do emotions say?
+What do others feel about this?
+Gut reaction:
+
+⚫ BLACK HAT — Caution & Risk
+What could go wrong?
+What are the risks?
+What are the weaknesses?
+Concerns:
+
+🟡 YELLOW HAT — Optimism & Value
+What are the benefits?
+What value does this create?
+Best case scenario?
+Opportunities:
+
+🟢 GREEN HAT — Creativity & Alternatives
+What are other options?
+What creative solutions exist?
+What if we tried something different?
+Creative ideas:
+
+🔵 BLUE HAT — Process & Control
+What is the thinking process?
+What have we covered?
+What decision should be made?
+Summary & next steps:
+
+SYNTHESIS:
+Balanced view considering all hats:
+Recommended action:
+─────────────────────────────────────────────────
+VARIABLES: TOPIC
+
+[C07] Worst Possible Idea
+
+text
+
+TEMPLATE ID: C07
+USE WHEN: Breaking through creative blocks
+─────────────────────────────────────────────────
+CHALLENGE: {{CHALLENGE}}
+
+WORST POSSIBLE IDEA TECHNIQUE:
+
+STEP 1: GENERATE TERRIBLE IDEAS
+List the 10 absolute worst, most 
+counterproductive ideas you can think of.
+Embrace the terrible. Be creative about 
+how bad these ideas can be.
+
+1-10: [worst ideas]
+
+STEP 2: FIND THE HIDDEN GEMS
+For each terrible idea:
+- What makes it terrible?
+- What would make it good?
+- What kernel of insight does it contain?
+
+STEP 3: INVERT AND REFINE
+Transform the worst ideas into 
+directions for good solutions.
+
+| Worst Idea | Hidden Insight | Good Direction |
+|------------|---------------|----------------|
+
+KEY INSIGHT:
+What did thinking about terrible ideas 
+reveal that normal thinking missed?
+─────────────────────────────────────────────────
+VARIABLES: CHALLENGE
+
+[C08] Assumption Reversal
+
+text
+
+TEMPLATE ID: C08
+USE WHEN: Breaking conventional thinking
+─────────────────────────────────────────────────
+DOMAIN/PROBLEM: {{DOMAIN}}
+
+STEP 1: LIST CORE ASSUMPTIONS
+List all assumptions everyone in 
+this domain takes for granted.
+Be exhaustive. Include obvious ones.
+
+Assumptions:
+1.
+2.
+3.
+...
+
+STEP 2: REVERSE EACH ASSUMPTION
+For each assumption, state the opposite.
+
+| Assumption | Reversal |
+|------------|---------|
+
+STEP 3: BUILD ON REVERSALS
+For each reversal:
+- Is the reversal actually possible?
+- What would the world look like?
+- What solutions does it suggest?
+
+STEP 4: IDENTIFY BREAKTHROUGH IDEAS
+Which reversals lead to the most 
+interesting or valuable ideas?
+
+BREAKTHROUGH CANDIDATES:
+[list top 3 with reasoning]
+─────────────────────────────────────────────────
+VARIABLES: DOMAIN
+
+📁 CATEGORY 4 — Decision Making
+[D01] Decision Matrix
+
+text
+
+TEMPLATE ID: D01
+USE WHEN: Choosing between multiple options
+─────────────────────────────────────────────────
+DECISION: {{DECISION}}
+OPTIONS: {{OPTION_LIST}}
+
+STEP 1: DEFINE CRITERIA
+What matters most for this decision?
+List 5-8 criteria.
+
+STEP 2: WEIGHT CRITERIA
+Assign weight to each (must sum to 100):
+| Criteria | Weight |
+|----------|--------|
+
+STEP 3: SCORE OPTIONS
+Score each option 1-10 per criteria:
+| Criteria | Weight | Option A | Option B | Option C |
+|----------|--------|----------|----------|----------|
+
+STEP 4: CALCULATE WEIGHTED SCORES
+Weighted score = Score × Weight
+Total per option:
+
+STEP 5: SENSITIVITY CHECK
+If the top 2 weights changed, 
+would the winner change?
+
+STEP 6: GUT CHECK
+Does the mathematical winner 
+feel right intuitively?
+If not, what is missing from the criteria?
+
+DECISION: [chosen option + reasoning]
+─────────────────────────────────────────────────
+VARIABLES: DECISION, OPTION_LIST
+
+[D02] Pre-Mortem Analysis
+
+text
+
+TEMPLATE ID: D02
+USE WHEN: Before committing to a decision/plan
+─────────────────────────────────────────────────
+PLAN/DECISION: {{PLAN}}
+
+PRE-MORTEM EXERCISE:
+
+SETUP:
+Imagine it is {{TIMEFRAME}} in the future.
+This plan has failed completely.
+It is now considered a case study 
+in how not to do things.
+
+STEP 1: WRITE THE FAILURE STORY
+Describe in detail how and why it failed.
+Be specific. Be brutal. 
+What went wrong, when, and why?
+
+STEP 2: IDENTIFY FAILURE MODES
+List all the ways it could have failed:
+- Internal failures:
+- External failures:
+- Assumption failures:
+- Execution failures:
+- People failures:
+
+STEP 3: PROBABILITY ASSESSMENT
+| Failure Mode | Likelihood | Impact | Risk Score |
+|-------------|------------|--------|------------|
+
+STEP 4: PREVENTION PLAN
+For highest risk failure modes:
+What specific action prevents each?
+
+STEP 5: PLAN ADJUSTMENTS
+What changes to the plan do 
+these insights suggest?
+─────────────────────────────────────────────────
+VARIABLES: PLAN, TIMEFRAME
+
+[D03] Second Order Thinking
+
+text
+
+TEMPLATE ID: D03
+USE WHEN: Evaluating long-term consequences
+─────────────────────────────────────────────────
+DECISION/ACTION: {{ACTION}}
+
+Apply Second (and Third) Order Thinking.
+
+FIRST ORDER EFFECTS
+(immediate, obvious consequences)
+And then what happens?
+Effects:
+
+SECOND ORDER EFFECTS
+(consequences of the first order effects)
+And then what happens?
+Effects:
+
+THIRD ORDER EFFECTS
+(consequences of second order effects)
+And then what happens?
+Effects:
+
+UNINTENDED CONSEQUENCES
+What negative second/third order effects 
+are most likely?
+
+FEEDBACK LOOPS
+Do any effects feed back to 
+amplify or dampen the original action?
+
+TIMELINE MAPPING
+| Timeframe | Expected Effects |
+|-----------|----------------|
+| Immediately | |
+| 1 month | |
+| 6 months | |
+| 1 year | |
+| 5 years | |
+
+KEY INSIGHT:
+What do second/third order effects 
+reveal that first order thinking missed?
+─────────────────────────────────────────────────
+VARIABLES: ACTION
+
+[D04] Reversibility Check
+
+text
+
+TEMPLATE ID: D04
+USE WHEN: Assessing risk of a decision
+─────────────────────────────────────────────────
+DECISION: {{DECISION}}
+
+REVERSIBILITY ANALYSIS:
+
+TYPE OF DECISION:
+□ One-way door (irreversible)
+□ Two-way door (reversible)
+□ Partially reversible
+
+IF IRREVERSIBLE:
+- What exactly cannot be undone?
+- What is lost permanently?
+- Have you done enough analysis 
+  for an irreversible decision?
+- Who else should weigh in?
+
+IF REVERSIBLE:
+- How easily can it be reversed?
+- What is the cost of reversal?
+- How much time to reverse?
+- What damage occurs even if reversed?
+
+REGRET TEST:
+In {{TIMEFRAME}}, will you regret:
+- Making this decision? Likelihood: X%
+- NOT making this decision? Likelihood: X%
+
+MINIMUM VIABLE COMMITMENT:
+Is there a smaller, more reversible 
+first step that tests the decision?
+
+RECOMMENDATION:
+Proceed / Proceed with conditions / 
+Delay / Do not proceed
+─────────────────────────────────────────────────
+VARIABLES: DECISION, TIMEFRAME
+
+[D05] Devil's Advocate
+
+text
+
+TEMPLATE ID: D05
+USE WHEN: Challenging a favored decision
+─────────────────────────────────────────────────
+PROPOSED DECISION: {{DECISION}}
+REASONING FOR IT: {{REASONING}}
+
+Play devil's advocate.
+
+CHALLENGE EVERY ASSUMPTION:
+For each reason given, challenge it:
+| Assumption | Challenge | Strength of Challenge |
+|------------|-----------|----------------------|
+
+BEST CASE FOR THE OPPOSITE:
+Build the strongest possible argument 
+AGAINST this decision.
+Steel man the opposition.
+
+WHAT IS BEING IGNORED?
+- What inconvenient facts are being overlooked?
+- What dissenting opinions exist?
+- What has failed in similar situations?
+- What biases might be influencing this?
+
+WORST CASE SCENARIO:
+If this decision is completely wrong, 
+what happens?
+How likely is that?
+How recoverable is it?
+
+VERDICT AFTER CHALLENGE:
+Does the decision survive scrutiny?
+What conditions must be true for it to be right?
+What would change your mind?
+─────────────────────────────────────────────────
+VARIABLES: DECISION, REASONING
+
+📁 CATEGORY 5 — Logical Reasoning
+[L01] Logical Fallacy Check
+
+text
+
+TEMPLATE ID: L01
+USE WHEN: Checking validity of an argument
+─────────────────────────────────────────────────
+ARGUMENT: {{ARGUMENT}}
+
+Check for logical fallacies.
+
+SCAN FOR:
+□ Ad Hominem (attacking the person)
+□ Straw Man (misrepresenting position)
+□ False Dichotomy (only two options)
+□ Slippery Slope (assumes chain reaction)
+□ Appeal to Authority (authority = truth)
+□ Appeal to Emotion (emotion over logic)
+□ Circular Reasoning (conclusion in premise)
+□ Hasty Generalization (too few examples)
+□ Post Hoc (correlation = causation)
+□ Bandwagon (popular = true)
+□ Appeal to Nature (natural = good)
+□ Anecdotal Evidence (one case = rule)
+□ False Equivalence (equating unequal things)
+□ Sunk Cost Fallacy (past cost drives future)
+□ Confirmation Bias (cherry-picking evidence)
+
+FOR EACH FALLACY FOUND:
+{
+  "fallacy": "",
+  "location_in_argument": "",
+  "how_it_weakens_argument": "",
+  "corrected_version": ""
+}
+
+OVERALL ARGUMENT VALIDITY:
+STRONG / MODERATE / WEAK / INVALID
+─────────────────────────────────────────────────
+VARIABLES: ARGUMENT
+
+[L02] Socratic Questioning
+
+text
+
+TEMPLATE ID: L02
+USE WHEN: Deep exploration of a belief or claim
+─────────────────────────────────────────────────
+CLAIM/BELIEF: {{CLAIM}}
+
+Apply Socratic questioning method.
+
+ROUND 1 — CLARIFICATION
+- What exactly do you mean by {{KEY_TERM}}?
+- Can you give an example?
+- How does this relate to {{RELATED_CONCEPT}}?
+
+ROUND 2 — PROBE ASSUMPTIONS
+- What are you assuming here?
+- What if that assumption were false?
+- Why do you think this assumption holds?
+
+ROUND 3 — PROBE EVIDENCE
+- What evidence supports this?
+- How do you know this is true?
+- What would disprove this claim?
+
+ROUND 4 — PROBE IMPLICATIONS
+- What follows if this is true?
+- What are the consequences?
+- Does this contradict anything else?
+
+ROUND 5 — QUESTION THE QUESTION
+- Why does this question matter?
+- Who benefits from this being true?
+- What would change if we questioned 
+  the question itself?
+
+SYNTHESIS:
+What has this questioning revealed?
+Is the original claim stronger or weaker?
+─────────────────────────────────────────────────
+VARIABLES: CLAIM, KEY_TERM, RELATED_CONCEPT
+
+[L03] Argument Mapping
+
+text
+
+TEMPLATE ID: L03
+USE WHEN: Structuring complex arguments
+─────────────────────────────────────────────────
+TOPIC: {{TOPIC}}
+
+Build a complete argument map.
+
+MAIN CLAIM:
+[The central conclusion being argued]
+
+SUPPORTING ARGUMENTS:
+For each supporting argument:
+{
+  "argument": "",
+  "type": "EMPIRICAL|LOGICAL|ETHICAL|PRAGMATIC",
+  "strength": "WEAK|MODERATE|STRONG",
+  "evidence": [],
+  "sub_arguments_supporting_this": []
+}
+
+COUNTER ARGUMENTS:
+For each objection:
+{
+  "objection": "",
+  "strength": "WEAK|MODERATE|STRONG",
+  "rebuttal": "",
+  "does_rebuttal_succeed": true/false
+}
+
+ARGUMENT STRUCTURE MAP:
+Main Claim
+├── Support 1
+│   ├── Evidence 1a
+│   └── Evidence 1b
+├── Support 2
+│   └── Counter → Rebuttal
+└── Support 3
+
+OVERALL ARGUMENT STRENGTH: X/10
+WEAKEST POINT: [identification]
+─────────────────────────────────────────────────
+VARIABLES: TOPIC
+
+📁 CATEGORY 6 — Assumption Challenging
+[X01] Assumption Surfacing
+
+text
+
+TEMPLATE ID: X01
+USE WHEN: Finding hidden beliefs driving thinking
+─────────────────────────────────────────────────
+SITUATION/PLAN/BELIEF: {{SUBJECT}}
+
+Surface all hidden assumptions.
+
+ASSUMPTION CATEGORIES:
+
+FACTUAL ASSUMPTIONS
+(assumed to be true about the world)
+-
+-
+
+CAUSAL ASSUMPTIONS
+(assumed cause-effect relationships)
+-
+-
+
+VALUE ASSUMPTIONS
+(assumed what is good/important)
+-
+-
+
+DEFINITIONAL ASSUMPTIONS
+(assumed meanings of key terms)
+-
+-
+
+PROCESS ASSUMPTIONS
+(assumed how things work)
+-
+-
+
+PEOPLE ASSUMPTIONS
+(assumed how people will behave)
+-
+-
+
+FOR EACH ASSUMPTION:
+How confident are you it is true? X%
+What happens to the plan if it is false?
+─────────────────────────────────────────────────
+VARIABLES: SUBJECT
+
+[X02] Bias Detection
+
+text
+
+TEMPLATE ID: X02
+USE WHEN: Checking for cognitive biases
+─────────────────────────────────────────────────
+ANALYSIS/DECISION/BELIEF: {{SUBJECT}}
+
+Check for cognitive biases.
+
+SCAN FOR:
+□ Confirmation Bias
+  (seeking confirming evidence only)
+□ Availability Heuristic
+  (recent/memorable = likely)
+□ Anchoring Bias
+  (first number/info = reference point)
+□ Dunning-Kruger Effect
+  (overconfidence in limited knowledge)
+□ Survivorship Bias
+  (only seeing successes)
+□ Status Quo Bias
+  (preferring current state)
+□ In-group Bias
+  (favoring own group)
+□ Hindsight Bias
+  (I knew it all along)
+□ Planning Fallacy
+  (underestimating time/cost)
+□ Sunk Cost Fallacy
+  (past investment drives future)
+□ Optimism Bias
+  (overestimating positive outcomes)
+□ Authority Bias
+  (expert = always right)
+
+FOR EACH BIAS DETECTED:
+- Where it appears in the analysis
+- How it might be distorting thinking
+- How to correct for it
+─────────────────────────────────────────────────
+VARIABLES: SUBJECT
+
+📁 CATEGORY 7 — Systems Thinking
+[S01] Systems Mapping
+
+text
+
+TEMPLATE ID: S01
+USE WHEN: Understanding complex interconnected systems
+─────────────────────────────────────────────────
+SYSTEM: {{SYSTEM}}
+
+Map the full system.
+
+SYSTEM ELEMENTS:
+List all parts of this system.
+
+CONNECTIONS:
+How do elements connect and 
+influence each other?
+| Element A | Relationship | Element B | Strength |
+|-----------|-------------|-----------|---------|
+
+FEEDBACK LOOPS:
+Reinforcing loops (amplify change):
+Balancing loops (resist change):
+
+SYSTEM BOUNDARIES:
+What is inside vs outside this system?
+
+DELAYS:
+Where are significant time delays 
+between cause and effect?
+
+LEVERAGE POINTS:
+Where could small changes 
+create large system effects?
+
+EMERGENT PROPERTIES:
+What does the system do that 
+none of its parts do alone?
+
+KEY INSIGHT:
+What does systems thinking reveal 
+that reductionist analysis misses?
+─────────────────────────────────────────────────
+VARIABLES: SYSTEM
+
+[S02] Leverage Point Finding
+
+text
+
+TEMPLATE ID: S02
+USE WHEN: Finding highest-impact intervention points
+─────────────────────────────────────────────────
+SYSTEM: {{SYSTEM}}
+GOAL: {{DESIRED_CHANGE}}
+
+Find leverage points using 
+Meadows' hierarchy.
+
+EVALUATE (highest to lowest leverage):
+
+12. TRANSCEND THE SYSTEM
+    Can we change the mindset/paradigm?
+
+11. CHANGE THE PARADIGM
+    What beliefs drive the system?
+
+10. CHANGE GOALS
+    Can we change what the system 
+    is optimizing for?
+
+9. CHANGE POWER STRUCTURE
+   Who controls the feedback loops?
+
+8. CHANGE RULES
+   What rules govern behavior?
+
+7. CHANGE INFORMATION FLOWS
+   Who has what information?
+
+6. CHANGE FEEDBACK LOOP STRENGTH
+   Can we strengthen/weaken loops?
+
+5. CHANGE FEEDBACK LOOP PRESENCE
+   Can we add/remove loops?
+
+4. CHANGE DELAYS
+   Can we change time delays?
+
+3. CHANGE STRUCTURE
+   Can we change physical structure?
+
+2. CHANGE PARAMETERS
+   Can we change sizes/rates?
+
+1. CHANGE NUMBERS
+   Can we change constants?
+
+RECOMMENDED LEVERAGE POINTS:
+[top 3 with reasoning]
+─────────────────────────────────────────────────
+VARIABLES: SYSTEM, DESIRED_CHANGE
+
+📁 CATEGORY 8 — Debate & Argumentation
+[B01] Red Team / Blue Team
+
+text
+
+TEMPLATE ID: B01
+USE WHEN: Stress-testing a plan or idea
+─────────────────────────────────────────────────
+PLAN/IDEA: {{PLAN}}
+
+BLUE TEAM (Defenders):
+Build the strongest case FOR this plan.
+- Best arguments in favor:
+- Evidence supporting success:
+- Responses to likely objections:
+- Optimal conditions for success:
+
+RED TEAM (Attackers):
+Build the strongest case AGAINST this plan.
+- Best arguments against:
+- Historical precedents of similar failures:
+- Most likely failure modes:
+- Questions the blue team cannot answer:
+
+DEBATE:
+Where do the teams most strongly disagree?
+Which side has stronger arguments on each point?
+
+| Point | Blue Team | Red Team | Winner |
+|-------|-----------|----------|--------|
+
+SYNTHESIS:
+What does the red team reveal that 
+improves the plan?
+
+REVISED PLAN:
+Incorporating red team insights:
+[improvements to original plan]
+─────────────────────────────────────────────────
+VARIABLES: PLAN
+
+[B02] Steelman Technique
+
+text
+
+TEMPLATE ID: B02
+USE WHEN: Fairly representing opposing views
+─────────────────────────────────────────────────
+POSITION I DISAGREE WITH: {{POSITION}}
+
+Build the STRONGEST possible version 
+of this argument (steelman, not straw man).
+
+STEP 1: UNDERSTAND CHARITABLY
+What is the most intelligent, 
+well-reasoned version of this position?
+Ignore weak versions. Find the best.
+
+STEP 2: FIND SUPPORTING EVIDENCE
+What evidence actually supports this view?
+What smart people hold this position and why?
+
+STEP 3: IDENTIFY VALID CONCERNS
+What legitimate concerns does 
+this position address?
+What problem is it trying to solve?
+
+STEP 4: BUILD THE STEELMAN
+Present the strongest possible version:
+[full steelman argument]
+
+STEP 5: ENGAGE HONESTLY
+Now that you have the strongest version:
+- What parts are you persuaded by?
+- What is your best response?
+- Has your view changed at all?
+
+WHAT THIS REVEALS:
+[honest reflection on what steelmanning taught]
+─────────────────────────────────────────────────
+VARIABLES: POSITION
+
+📁 CATEGORY 9 — Mental Models & Frameworks
+[M01] Inversion
+
+text
+
+TEMPLATE ID: M01
+USE WHEN: Solving by thinking backwards
+─────────────────────────────────────────────────
+GOAL: {{GOAL}}
+
+Apply Inversion mental model.
+
+FORWARD THINKING (conventional):
+How do we achieve {{GOAL}}?
+Approaches:
+
+INVERTED THINKING:
+Instead of asking how to succeed,
+ask how to guarantee failure.
+
+How could we guarantee we FAIL to achieve {{GOAL}}?
+List every way to fail:
+1.
+2.
+3.
+...
+
+EXTRACT INSIGHTS:
+Each failure mode reveals something to avoid.
+| Failure Mode | Insight | Action to Prevent |
+|-------------|---------|-------------------|
+
+KEY INVERSION INSIGHT:
+What does thinking about failure 
+reveal that success-focused 
+thinking completely missed?
+
+REVISED APPROACH:
+[strategy that incorporates inversion insights]
+─────────────────────────────────────────────────
+VARIABLES: GOAL
+
+[M02] Circle of Competence
+
+text
+
+TEMPLATE ID: M02
+USE WHEN: Assessing what you truly know
+─────────────────────────────────────────────────
+DOMAIN: {{DOMAIN}}
+DECISION REQUIRING KNOWLEDGE: {{DECISION}}
+
+MAP YOUR CIRCLE OF COMPETENCE:
+
+INNER CIRCLE — Deep Expertise
+(Things you know deeply through 
+ experience and study)
+-
+-
+
+OUTER CIRCLE — Surface Knowledge
+(Things you know somewhat but 
+ lack deep expertise)
+-
+-
+
+OUTSIDE CIRCLE — Unknown Territory
+(Things you don't know)
+-
+-
+
+UNKNOWN UNKNOWNS
+(Things you don't know you don't know)
+Where might these lurk in this domain?
+
+GAP ANALYSIS FOR THIS DECISION:
+- Does this decision require knowledge 
+  inside or outside your circle?
+- What expertise gaps exist?
+- Who has the expertise you lack?
+- What would expand your circle 
+  enough for this decision?
+
+RECOMMENDATION:
+Decide yourself / Consult expert / 
+Build knowledge first / Avoid domain
+─────────────────────────────────────────────────
+VARIABLES: DOMAIN, DECISION
+
+📁 CATEGORY 10 — Self-Reflection & Metacognition
+[R01] Thinking About Thinking
+
+text
+
+TEMPLATE ID: R01
+USE WHEN: Reflecting on your reasoning process
+─────────────────────────────────────────────────
+ANALYSIS/DECISION MADE: {{SUBJECT}}
+
+Reflect on the thinking process itself.
+
+HOW DID YOU APPROACH THIS?
+- What thinking strategy did you use?
+- Was it the right strategy?
+- What alternative approaches existed?
+
+WHAT INFLUENCED YOUR THINKING?
+- What prior beliefs shaped this?
+- What emotional reactions occurred?
+- What social pressures influenced you?
+- What information did you seek vs ignore?
+
+WHERE MIGHT YOU BE WRONG?
+- What is the strongest case against 
+  your conclusion?
+- What would a smart critic say?
+- What evidence would change your mind?
+
+QUALITY OF YOUR REASONING:
+- Did you reason from evidence or 
+  rationalize a pre-formed view?
+- Did you consider alternatives seriously?
+- Were you appropriately confident?
+
+WHAT WOULD YOU DO DIFFERENTLY?
+- How would you approach this 
+  thinking problem better next time?
+─────────────────────────────────────────────────
+VARIABLES: SUBJECT
+
+[R02] Confidence Calibration
+
+text
+
+TEMPLATE ID: R02
+USE WHEN: Checking if confidence matches knowledge
+─────────────────────────────────────────────────
+CLAIMS MADE: {{CLAIMS_LIST}}
+
+Calibrate confidence for each claim.
+
+FOR EACH CLAIM:
+{
+  "claim": "",
+  "my_confidence": "X%",
+  "evidence_strength": "WEAK|MODERATE|STRONG",
+  "evidence_quantity": "FEW|SOME|MANY",
+  "source_quality": "POOR|FAIR|GOOD|EXCELLENT",
+  "expert_consensus": "AGAINST|MIXED|FOR|UNKNOWN",
+  "calibrated_confidence": "X%",
+  "am_i_overconfident": true/false,
+  "am_i_underconfident": true/false
+}
+
+CALIBRATION INSIGHTS:
+- Where are you systematically overconfident?
+- Where are you systematically underconfident?
+- What would it take to reach 90% confidence?
+- What decisions change at different 
+  confidence levels?
+
+OVERALL EPISTEMIC HEALTH:
+Am I reasoning from knowledge or 
+from a desire to be right?
+─────────────────────────────────────────────────
+VARIABLES: CLAIMS_LIST
+
+⚡ POWER COMBINATIONS
+
+text
+
+MOST EFFECTIVE PROMPT CHAINS
+══════════════════════════════════════════════════
+
+STUCK ON A PROBLEM:
+P01 (Reframe) → P08 (First Principles) 
+→ C06 (Six Hats) → D01 (Decision Matrix)
+
+VALIDATING A DECISION:
+D02 (Pre-Mortem) → D03 (Second Order) 
+→ D05 (Devil's Advocate) → X02 (Bias Check)
+
+CREATIVE BREAKTHROUGH:
+C02 (Reverse) → C03 (SCAMPER) 
+→ C05 (Analogy) → C01 (Brainstorm)
+
+COMPLEX PROBLEM:
+P02 (Root Cause) → P03 (Decompose) 
+→ A01 (MECE) → A05 (Pareto)
+
+RIGOROUS ARGUMENT:
+L01 (Fallacy Check) → B02 (Steelman) 
+→ L03 (Argument Map) → L02 (Socratic)
+
+STRATEGIC DECISION:
+A02 (SWOT) → S01 (Systems Map) 
+→ S02 (Leverage) → D03 (Second Order)
+
+SELF-CHECK:
+X01 (Assumptions) → X02 (Bias) 
+→ R01 (Metacognition) → R02 (Calibration)
+
+FULL CRITICAL THINKING AUDIT:
+P07 (Problem Statement) → P02 (Root Cause) 
+→ A01 (MECE) → C06 (Six Hats) 
+→ D01 (Decision Matrix) → D02 (Pre-Mortem) 
+→ X02 (Bias Check) → R01 (Reflection)
+══════════════════════════════════════════════════
+
+📊 Quick Selection Guide
+
+text
+
+IF YOU ARE...                    USE...
+────────────────────────────────────────────────
+Stuck on a problem               P01, C02, M01
+Finding the real problem         P02, P08, A05
+Making a big decision            D01, D02, D03
+Challenging your own thinking    X01, X02, R01
+Generating creative solutions    C01, C03, C06
+Evaluating an argument           L01, L02, L03
+Understanding a complex system   S01, S02, S03
+Stress-testing a plan            B01, D02, D05
+Comparing options                A06, D01, D07
+Thinking long-term               D03, S01, A07
+Checking for biases              X02, L01, R02
+Building strongest argument      B02, L03, B04
+────────────────────────────────────────────────
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------

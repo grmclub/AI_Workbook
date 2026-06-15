@@ -1,0 +1,301 @@
+    🧠 CRITICAL THINKING & PROBLEM SOLVING
+    Prompt Cheat Sheet — Quick Reference
+
+    text
+
+    ╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+    ║                        🧠 CRITICAL THINKING & PROBLEM SOLVING — PROMPT CHEAT SHEET                         ║
+    ╠══════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+    ║                                                                                                              ║
+    ║  📌 PROBLEM DEFINITION                  📊 ANALYTICAL THINKING               🎨 CREATIVE SOLVING            ║
+    ║  ─────────────────────────────────────  ──────────────────────────────────   ─────────────────────────────  ║
+    ║  P01 REFRAME                            A01 MECE BREAKDOWN                   C01 BRAINSTORM                 ║
+    ║  "Reframe this problem 5 ways:          "Break [topic] into mutually         "Generate 20 ideas for         ║
+    ║   opposite / zoom out / zoom in /        exclusive, collectively               [challenge]. No filtering.    ║
+    ║   stakeholder / no constraints"          exhaustive categories"                Quantity over quality"        ║
+    ║                                                                                                              ║
+    ║  P02 ROOT CAUSE                         A02 SWOT                             C02 REVERSE BRAINSTORM         ║
+    ║  "Apply 5 Whys + Fishbone               "Analyze [subject]:                  "How could we GUARANTEE        ║
+    ║   analysis to find the true              Strengths / Weaknesses /              [problem] gets WORSE?         ║
+    ║   root cause of [problem]"               Opportunities / Threats"              Now reverse each idea"        ║
+    ║                                                                                                              ║
+    ║  P03 DECOMPOSE                          A03 COST-BENEFIT                     C03 SCAMPER                    ║
+    ║  "Break [complex problem] into          "List all costs and benefits          "Apply SCAMPER to [subject]:   ║
+    ║   sub-problems. Map dependencies.        of [decision]. Calculate              Substitute / Combine /        ║
+    ║   Recommend attack sequence"             net value and ROI"                    Adapt / Modify / Put to       ║
+    ║                                                                                other use / Eliminate /       ║
+    ║  P07 PROBLEM STATEMENT                  A05 PARETO                            Reverse"                      ║
+    ║  "[WHO] experiences [WHAT]              "List all factors causing                                            ║
+    ║   when [CONTEXT] because                 [problem]. Rank by impact.           C06 SIX THINKING HATS         ║
+    ║   [ROOT CAUSE] resulting                 Which 20% cause 80%                  "Analyze [topic] through:     ║
+    ║   in [IMPACT]"                           of the problem?"                      🤍 Facts  🔴 Emotion          ║
+    ║                                                                                ⚫ Caution 🟡 Optimism        ║
+    ║  P08 FIRST PRINCIPLES                   A06 COMPARE OPTIONS                   🟢 Creative 🔵 Process"       ║
+    ║  "List all assumptions about            "Compare [A] vs [B] vs [C]                                          ║
+    ║   [topic]. Challenge each one.           across weighted criteria.             C05 ANALOGY                   ║
+    ║   Rebuild from bedrock facts"            Show weighted scores"                 "How does [different domain]  ║
+    ║                                                                                 solve a similar problem?     ║
+    ║                                         A08 IMPACT ANALYSIS                    Transfer the solution"       ║
+    ║                                         "Map 1st, 2nd, 3rd order                                            ║
+    ║                                          effects of [action] across                                          ║
+    ║                                          time and stakeholders"                                              ║
+    ║                                                                                                              ║
+    ╠══════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+    ║                                                                                                              ║
+    ║  🎯 DECISION MAKING                     🔍 ASSUMPTION CHALLENGING             🔗 LOGICAL REASONING           ║
+    ║  ─────────────────────────────────────  ──────────────────────────────────   ─────────────────────────────  ║
+    ║  D01 DECISION MATRIX                    X01 SURFACE ASSUMPTIONS               L01 FALLACY CHECK              ║
+    ║  "Score [options] against               "List ALL assumptions in              "Check [argument] for:         ║
+    ║   weighted criteria.                     [plan]: factual / causal /            Ad Hominem / Straw Man /      ║
+    ║   Calculate weighted totals"             value / process / people"             False Dichotomy /             ║
+    ║                                                                                Slippery Slope /              ║
+    ║  D02 PRE-MORTEM                         X02 BIAS DETECTION                    Circular Reasoning /           ║
+    ║  "It is [future date]. This             "Check [analysis] for:                Hasty Generalization /        ║
+    ║   plan has FAILED completely.            Confirmation / Anchoring /            Post Hoc / Bandwagon"         ║
+    ║   Write the failure story.               Availability / Sunk Cost /                                          ║
+    ║   What went wrong and why?"             Survivorship / Dunning-Kruger"        L02 SOCRATIC METHOD           ║
+    ║                                                                                "Question [claim] through:    ║
+    ║  D03 SECOND ORDER                       X03 STEELMAN                          Clarification /               ║
+    ║  "What are the 2nd and 3rd              "Build the STRONGEST possible          Probe assumptions /           ║
+    ║   order effects of [action]?             argument FOR [position                Probe evidence /              ║
+    ║   Map effects across time"               I disagree with]"                     Probe implications"           ║
+    ║                                                                                                              ║
+    ║  D04 REVERSIBILITY                      X05 CERTAINTY SPECTRUM                L03 ARGUMENT MAP              ║
+    ║  "Is [decision] a one-way or           "Rate confidence in each               "Map [argument]:              ║
+    ║   two-way door? Cost of                 claim: 0-100%.                         Main claim /                  ║
+    ║   reversal? Minimum viable              What would change                      Supporting arguments /        ║
+    ║   commitment?"                          each rating?"                          Counter-arguments /           ║
+    ║                                                                                Rebuttals"                    ║
+    ║  D05 DEVIL'S ADVOCATE                                                                                        ║
+    ║  "Build the strongest case                                                                                   ║
+    ║   AGAINST [decision I favor].                                                                                ║
+    ║   What am I ignoring?"                                                                                       ║
+    ║                                                                                                              ║
+    ╠══════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+    ║                                                                                                              ║
+    ║  🌐 SYSTEMS THINKING                    🧩 MENTAL MODELS                      🪞 SELF-REFLECTION             ║
+    ║  ─────────────────────────────────────  ──────────────────────────────────   ─────────────────────────────  ║
+    ║  S01 SYSTEMS MAP                        M01 INVERSION                         R01 METACOGNITION              ║
+    ║  "Map [system]: all elements /          "How could we GUARANTEE               "Reflect on [analysis]:        ║
+    ║   connections / feedback loops /         failure at [goal]?                    How did I approach this?      ║
+    ║   delays / leverage points /             Now avoid each                        What influenced me?           ║
+    ║   emergent properties"                   failure mode"                         Where might I be wrong?"      ║
+    ║                                                                                                              ║
+    ║  S02 LEVERAGE POINTS                    M02 CIRCLE OF COMPETENCE              R02 CONFIDENCE CHECK           ║
+    ║  "Where in [system] could              "Map my knowledge of                   "For each claim I made,        ║
+    ║   a small change create                 [domain]: deep expertise /             rate: confidence % /           ║
+    ║   the largest effect?"                  surface knowledge /                    evidence strength /            ║
+    ║                                         unknown territory"                     am I over/underconfident?"    ║
+    ║  S03 FEEDBACK LOOPS                                                                                          ║
+    ║  "Find reinforcing loops               M03 OCCAM'S RAZOR                      R05 AFTER ACTION               ║
+    ║   (amplify) and balancing               "What is the SIMPLEST                 "What happened? /              ║
+    ║   loops (resist) in [system]"           explanation that fits                  What did I expect? /          ║
+    ║                                         all the evidence?"                     What was different? /         ║
+    ║  S04 UNINTENDED CONSEQUENCES                                                   What will I do differently?"  ║
+    ║  "What are the unintended              M07 SECOND ORDER EFFECTS                                              ║
+    ║   consequences of [action]             "What happens AFTER the                R06 INTELLECTUAL HONESTY       ║
+    ║   on [system]? Who is                   immediate effect of [action]?         "Am I reasoning to find        ║
+    ║   unexpectedly affected?"              And after that?"                        truth or to confirm           ║
+    ║                                                                                what I already believe?"      ║
+    ║                                        M08 CHESTERTON'S FENCE                                               ║
+    ║                                        "Why does [rule/system]                                               ║
+    ║                                         exist? Understand it fully                                           ║
+    ║                                         before changing it"                                                  ║
+    ║                                                                                                              ║
+    ╠══════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+    ║                                                                                                              ║
+    ║  ⚡ POWER COMBINATIONS — USE THESE CHAINS FOR COMMON SITUATIONS                                              ║
+    ║  ──────────────────────────────────────────────────────────────────────────────────────────────────────────  ║
+    ║                                                                                                              ║
+    ║  😤 STUCK ON A PROBLEM      →  P01 Reframe  →  P08 First Principles  →  C06 Six Hats  →  D01 Matrix        ║
+    ║  ✅ VALIDATE A DECISION      →  D02 Pre-Mortem  →  D03 Second Order  →  D05 Devil's Advocate  →  X02 Bias   ║
+    ║  💡 CREATIVE BREAKTHROUGH    →  C02 Reverse  →  C03 SCAMPER  →  C05 Analogy  →  C01 Brainstorm             ║
+    ║  🔍 FIND REAL PROBLEM        →  P02 Root Cause  →  P03 Decompose  →  A01 MECE  →  A05 Pareto               ║
+    ║  🛡 STRESS TEST A PLAN       →  B01 Red/Blue Team  →  D02 Pre-Mortem  →  X01 Assumptions  →  D05 Devil's   ║
+    ║  🌐 STRATEGIC DECISION       →  A02 SWOT  →  S01 Systems Map  →  S02 Leverage  →  D03 Second Order         ║
+    ║  🪞 SELF-AUDIT               →  X01 Assumptions  →  X02 Bias  →  R01 Metacognition  →  R02 Confidence      ║
+    ║  🏆 FULL CRITICAL AUDIT      →  P07 Statement → P02 Root → A01 MECE → C06 Hats → D01 Matrix → D02 Mortem  ║
+    ║                                                                                                              ║
+    ╠══════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+    ║                                                                                                              ║
+    ║  🚦 QUICK SELECTOR — WHAT IS YOUR SITUATION?                                                                 ║
+    ║  ──────────────────────────────────────────────────────────────────────────────────────────────────────────  ║
+    ║                                                                                                              ║
+    ║  Stuck on problem ........... P01, C02, M01    │  Checking for biases ........ X02, L01, R02               ║
+    ║  Finding real problem ........ P02, P08, A05   │  Stress-testing a plan ...... B01, D02, D05               ║
+    ║  Making a big decision ....... D01, D02, D03   │  Comparing options .......... A06, D01, D04               ║
+    ║  Generating creative ideas ... C01, C03, C06   │  Thinking long-term ......... D03, S01, A08               ║
+    ║  Evaluating an argument ...... L01, L02, L03   │  Building best argument ..... X03, L03, B01               ║
+    ║  Understanding a system ...... S01, S02, S03   │  Challenging own thinking ... X01, X02, R01               ║
+    ║                                                                                                              ║
+    ╠══════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+    ║                                                                                                              ║
+    ║  💎 GOLDEN RULES OF CRITICAL THINKING                                                                        ║
+    ║  ──────────────────────────────────────────────────────────────────────────────────────────────────────────  ║
+    ║                                                                                                              ║
+    ║  1. Question the question before answering it        6. Steel man before you straw man                      ║
+    ║  2. Distinguish facts from interpretations           7. Correlation ≠ causation. Ever.                      ║
+    ║  3. Find the strongest counterargument first         8. Strong opinions, loosely held                       ║
+    ║  4. Name the bias before it names you                9. Ask: what would change my mind?                     ║
+    ║  5. Simple explanations beat complex ones           10. Thinking about thinking is thinking                 ║
+    ║                                                                                                              ║
+    ╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+   
+    📱 Ultra-Compact Mobile Version
+
+    text
+
+    ┌─────────────────────────────────────┐
+    │   🧠 CRITICAL THINKING QUICK REF   │
+    ├─────────────────────────────────────┤
+    │ PROBLEM      │ ANALYSIS             │
+    │ P01 Reframe  │ A01 MECE             │
+    │ P02 RootCause│ A02 SWOT             │
+    │ P03 Decompose│ A05 Pareto           │
+    │ P08 1stPrinc │ A06 Compare          │
+    ├─────────────────────────────────────┤
+    │ CREATIVE     │ DECISIONS            │
+    │ C01 Brainstm │ D01 Matrix           │
+    │ C02 Reverse  │ D02 PreMortem        │
+    │ C03 SCAMPER  │ D03 2ndOrder         │
+    │ C06 SixHats  │ D05 DevilsAdv        │
+    ├─────────────────────────────────────┤
+    │ LOGIC        │ ASSUMPTIONS          │
+    │ L01 Fallacy  │ X01 Surface          │
+    │ L02 Socratic │ X02 BiasCheck        │
+    │ L03 ArgMap   │ X03 Steelman         │
+    ├─────────────────────────────────────┤
+    │ SYSTEMS      │ SELF-CHECK           │
+    │ S01 SysMap   │ R01 Metacog          │
+    │ S02 Leverage │ R02 Confidence       │
+    │ S04 Unconseq │ R06 Honesty          │
+    ├─────────────────────────────────────┤
+    │ TOP CHAINS                          │
+    │ Stuck    → P01→P08→C06→D01          │
+    │ Decide   → D02→D03→D05→X02          │
+    │ Create   → C02→C03→C05→C01          │
+    │ Audit    → X01→X02→R01→R02          │
+    ├─────────────────────────────────────┤
+    │ GOLDEN RULES                        │
+    │ • Question the question first       │
+    │ • Steel man before straw man        │
+    │ • Correlation ≠ causation           │
+    │ • Name the bias before it names you │
+    │ • What would change your mind?      │
+    └─────────────────────────────────────┘
+
+       A printable one-page cheat sheet version
+
+    Response provided by
+
+    Anthropic
+
+    Here is a comprehensive list of the best prompts for critical thinking and problem solving, organized by category and use case.
+    🧠 BEST PROMPTS FOR CRITICAL THINKING & PROBLEM SOLVING
+    🗂 Category Index
+
+    text
+
+    CATEGORY 1 → Problem Definition & Framing        [P01-P08]
+    CATEGORY 2 → Analytical Thinking                 [A01-A08]
+    CATEGORY 3 → Creative Problem Solving            [C01-C08]
+    CATEGORY 4 → Decision Making                     [D01-D08]
+    CATEGORY 5 → Logical Reasoning                   [L01-L06]
+    CATEGORY 6 → Assumption Challenging              [X01-X06]
+    CATEGORY 7 → Systems Thinking                    [S01-S06]
+    CATEGORY 8 → Debate & Argumentation              [B01-B06]
+    CATEGORY 9 → Mental Models & Frameworks          [M01-M08]
+    CATEGORY 10 → Self-Reflection & Metacognition    [R01-R06]
+
+    📋 MASTER QUICK REFERENCE
+
+    text
+
+    ┌──────────────────────────────────────────────────────────┐
+    │         CRITICAL THINKING PROMPT QUICK REFERENCE         │
+    ├────────┬─────────────────────────────┬───────────────────┤
+    │ CODE   │ PURPOSE                     │ USE WHEN          │
+    ├────────┼─────────────────────────────┼───────────────────┤
+    │ P01    │ Problem Reframing           │ Stuck on problem  │
+    │ P02    │ Root Cause Analysis         │ Finding real cause│
+    │ P03    │ Problem Decomposition       │ Complex problems  │
+    │ P04    │ Scope Definition            │ Unclear boundaries│
+    │ P05    │ Stakeholder Mapping         │ People problems   │
+    │ P06    │ Constraint Identification   │ Finding limits    │
+    │ P07    │ Problem Statement Writer    │ Defining problem  │
+    │ P08    │ First Principles            │ Starting from zero│
+    ├────────┼─────────────────────────────┼───────────────────┤
+    │ A01    │ MECE Analysis               │ Exhaustive breakdn│
+    │ A02    │ SWOT Analysis               │ Strategic assess  │
+    │ A03    │ Cost-Benefit Analysis       │ Evaluating options│
+    │ A04    │ Gap Analysis                │ Current vs desired│
+    │ A05    │ Pareto Analysis             │ Find 20% cause    │
+    │ A06    │ Comparative Analysis        │ Comparing options │
+    │ A07    │ Trend Analysis              │ Pattern finding   │
+    │ A08    │ Impact Analysis             │ Assess consequences│
+    ├────────┼─────────────────────────────┼───────────────────┤
+    │ C01    │ Brainstorming               │ Generate ideas    │
+    │ C02    │ Reverse Brainstorming       │ Invert the problem│
+    │ C03    │ SCAMPER Technique           │ Modify solutions  │
+    │ C04    │ Lateral Thinking            │ Unconventional    │
+    │ C05    │ Analogical Thinking         │ Cross-domain ideas│
+    │ C06    │ Six Thinking Hats           │ Multiple views    │
+    │ C07    │ Random Stimulus             │ Break mental block│
+    │ C08    │ Worst Possible Idea         │ Inversion method  │
+    ├────────┼─────────────────────────────┼───────────────────┤
+    │ D01    │ Decision Matrix             │ Multiple options  │
+    │ D02    │ Pros & Cons                 │ Simple decisions  │
+    │ D03    │ Pre-Mortem Analysis         │ Before deciding   │
+    │ D04    │ Second Order Thinking       │ Long-term effects │
+    │ D05    │ Reversibility Check         │ Risk assessment   │
+    │ D06    │ Regret Minimization         │ Major life choices│
+    │ D07    │ Weighted Criteria           │ Complex tradeoffs │
+    │ D08    │ Devil's Advocate            │ Challenge decision│
+    ├────────┼─────────────────────────────┼───────────────────┤
+    │ L01    │ Logical Fallacy Check       │ Argument validity │
+    │ L02    │ Syllogism Builder           │ Formal logic      │
+    │ L03    │ Inductive Reasoning         │ Pattern to rule   │
+    │ L04    │ Deductive Reasoning         │ Rule to case      │
+    │ L05    │ Abductive Reasoning         │ Best explanation  │
+    │L06     │ Argument Mapping            │ Structure debate  │
+    ├────────┼─────────────────────────────┼───────────────────┤
+    │ X01    │ Assumption Surfacing        │ Find hidden beliefs│
+    │ X02    │ Assumption Challenge        │ Test beliefs      │
+    │ X03    │ Steelman Technique          │ Strongest argument│
+    │ X04    │ Pre-mortem Assumptions      │ What if wrong     │
+    │ X05    │ Bias Detection              │ Find blind spots  │
+    │ X06    │ Certainty Spectrum          │ Rate confidence   │
+    ├────────┼─────────────────────────────┼───────────────────┤
+    │ S01    │ Systems Mapping             │ See whole system  │
+    │ S02    │ Feedback Loop Analysis      │ Find loops        │
+    │ S03    │ Leverage Point Finding      │ Max impact areas  │
+    │ S04    │ Unintended Consequences     │ Side effects      │
+    │ S05    │ Causal Loop Diagram         │ Map causality     │
+    │ S06    │ Bottleneck Analysis         │ Find constraints  │
+    ├────────┼─────────────────────────────┼───────────────────┤
+    │ B01    │ Structured Debate           │ Explore all sides │
+    │ B02    │ Steel Man vs Straw Man      │ Fair argument     │
+    │ B03    │ Socratic Questioning        │ Deep exploration  │
+    │ B04    │ Red Team / Blue Team        │ Attack & defend   │
+    │ B05    │ Perspective Taking          │ Other viewpoints  │
+    │ B06    │ Evidence Evaluation         │ Test claims       │
+    ├────────┼─────────────────────────────┼───────────────────┤
+    │ M01    │ First Principles            │ Base level truth  │
+    │ M02    │ Inversion                   │ Reverse the goal  │
+    │ M03    │ Occam's Razor               │ Simplest answer   │
+    │ M04    │ Hanlon's Razor              │ Assume no malice  │
+    │ M05    │ Circle of Competence        │ Know your limits  │
+    │ M06    │ Map vs Territory            │ Model vs reality  │
+    │ M07    │ Second Order Effects        │ Downstream impact │
+    │ M08    │ Chesterton's Fence          │ Why rules exist   │
+    ├────────┼─────────────────────────────┼───────────────────┤
+    │ R01    │ Thinking About Thinking     │ Metacognition     │
+    │ R02    │ Blind Spot Detector         │ Personal biases   │
+    │ R03    │ Confidence Calibration      │ Know what you know│
+    │ R04    │ Decision Journal            │ Track reasoning   │
+    │ R05    │ Learning Extraction         │ After action review│
+    │ R06    │ Intellectual Honesty Check  │ Self-audit        │
+    └────────┴─────────────────────────────┴───────────────────┘
+
+   

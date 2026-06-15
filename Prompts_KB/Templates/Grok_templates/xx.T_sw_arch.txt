@@ -1,0 +1,400 @@
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+1. High‑Level Architecture Extraction
+Prompt:
+    Analyze the provided codebase / documentation and describe the overall software architecture.
+    Include:
+        Architectural style (e.g., monolith, microservices, layered, event-driven, MVC, hexagonal, etc.)
+        Major components/modules and their responsibilities
+        How components interact
+        External dependencies and integrations
+        Deployment model (if identifiable)
+        Present the output as a structured architecture summary.
+
+2. Architecture Diagram (Text-Based)
+Prompt:
+    Based on the provided project files, generate:
+        A high-level architecture description
+        A component diagram in Mermaid or PlantUML format
+        A short explanation of data flow between components
+
+    Clearly label:
+        Core modules
+        External systems
+        Databases
+        APIs
+        Message brokers (if any)
+
+3. Deep Technical Architecture Analysis
+Prompt:
+    Perform a deep architectural analysis of this application.
+    Identify:
+        Architectural patterns used
+        Layer separation and boundaries
+        Dependency direction (who depends on whom)
+        Cross-cutting concerns (auth, logging, caching, etc.)
+        Scalability and fault-tolerance mechanisms
+        Potential architectural weaknesses
+    Provide diagrams and a critical evaluation.
+
+4. Reverse Engineering Architecture from Code
+
+Prompt:
+    Reverse-engineer the architecture of this application from the provided source code.
+    Steps:
+
+        Identify entry points (main functions, controllers, routers)
+        Identify business logic layers
+        Identify data access layer
+        Map inter-module dependencies
+        Describe runtime execution flow
+
+    Output:
+        Layered breakdown
+        Component interaction map
+        Observed architectural pattern
+
+5. Microservices Detection Prompt
+
+Prompt:
+    Determine whether this application follows a microservices architecture.
+    If yes:
+
+        List each service
+        Define service boundaries
+        Identify communication methods (REST, gRPC, messaging, etc.)
+        Identify shared resources
+
+    If not:
+        Explain why
+        Describe the actual architecture pattern
+
+6. Data Flow–Focused Architecture Prompt
+
+Prompt:
+    Extract the system’s data flow architecture.
+    Identify:
+        Data sources
+        Data transformations
+        Processing layers
+        Storage systems
+        Output consumers
+
+    Provide:
+        Step-by-step request lifecycle
+        Data flow diagram (Mermaid format)
+
+7. Cloud / DevOps Architecture Extraction
+
+Prompt:
+
+    Based on the repository and configuration files (Docker, Kubernetes, CI/CD, Terraform, etc.), describe the deployment architecture.
+    Include:
+        Infrastructure components
+        Containerization strategy
+        Orchestration
+        Networking
+        Environment separation (dev/stage/prod)
+        Observability setup
+
+8. Clean Architecture Compliance Check
+
+Prompt:
+    Analyze whether this application follows Clean Architecture principles.
+
+    Identify:
+        Entities
+        Use cases
+        Interface adapters
+        Frameworks/drivers
+
+    Provide:
+        Dependency direction diagram
+        Violations (if any)
+        Refactoring suggestions
+
+9. Architecture Summary for Documentation
+
+Prompt:
+
+    Write a concise but complete “Architecture” section suitable for a README or technical documentation.
+    Include:
+        System overview
+        Major components
+        Technology stack
+        Runtime flow
+        Deployment overview
+
+10. Expert-Level Architectural Audit
+
+Prompt:
+    Act as a senior software architect conducting a design review.
+
+    Evaluate:
+        Architectural consistency
+        Separation of concerns
+        Scalability
+        Resilience
+        Security boundaries
+        Testability
+
+    Provide:
+        Strengths
+        Risks
+        Recommended improvements
+        Architectural maturity level (1–5)
+
+-------------------------------------------------------------
+    If you want maximum architectural clarity, use this:
+
+        You are a senior software architect specializing in reverse engineering systems.
+
+        Analyze the provided codebase and reconstruct the full architecture.
+
+        Deliver:
+            Executive summary (non-technical)
+            High-level architecture diagram (Mermaid)
+            Layer breakdown
+            Component responsibilities
+            Data flow (request lifecycle)
+            Deployment model
+            Identified architectural patterns
+            Technical risks and improvement suggestions
+
+        If information is missing, infer cautiously and state assumptions explicitly.
+
+    If you'd like, I can also provide:
+        ✅ Prompts optimized specifically for ChatGPT
+        ✅ Prompts optimized for large codebases
+        ✅ Prompts for automated architecture extraction pipelines
+        ✅ A single “ultimate architecture extraction prompt” tuned for deep analysis
+-------------------------------------------------------------
+ULTIMATE ARCHITECTURE EXTRACTION PROMPT (Deep Analysis Mode)
+You are a principal software architect and system design expert specializing in reverse-engineering complex systems.
+Your task is to reconstruct the complete software architecture from the provided codebase, documentation, configuration files, and project structure.
+Perform a deep, structured architectural analysis and produce a comprehensive architecture report.
+
+🔎 Phase 1 — System Orientation
+    1. Identify: 
+        ◦ Primary purpose of the system 
+        ◦ Target users 
+        ◦ Core business domain 
+    2. Determine: 
+        ◦ Architectural style (monolith, modular monolith, microservices, SOA, event-driven, layered, hexagonal, clean architecture, etc.) 
+        ◦ Whether the architecture is intentional or emergent 
+    3. List the technology stack: 
+        ◦ Backend 
+        ◦ Frontend 
+        ◦ Databases 
+        ◦ Messaging systems 
+        ◦ Infrastructure 
+        ◦ DevOps tooling 
+
+🧱 Phase 2 — Structural Decomposition
+Break the system into:
+    • Entry points (API gateways, controllers, main functions, UI entry, schedulers) 
+    • Application layer / use cases 
+    • Domain/business logic layer 
+    • Data access layer 
+    • Infrastructure layer 
+    • Shared utilities 
+    • Cross-cutting concerns (auth, logging, caching, validation, etc.) 
+For each component/module:
+    • Responsibility 
+    • Dependencies (incoming & outgoing) 
+    • Stability level (core vs volatile) 
+    • Coupling level (low/moderate/high) 
+
+🔄 Phase 3 — Runtime & Data Flow
+Reconstruct:
+    1. Request lifecycle 
+        ◦ Step-by-step flow of a typical request 
+    2. Data flow 
+        ◦ Data sources 
+        ◦ Transformations 
+        ◦ Storage interactions 
+        ◦ External calls 
+    3. Control flow 
+        ◦ Sync vs async behavior 
+        ◦ Events, queues, background jobs 
+Provide:
+    • Sequence explanation 
+    • Mermaid diagram(s) 
+
+🏗 Phase 4 — Architecture Diagrams (Required)
+Generate:
+    1. High-level Component Diagram (Mermaid) 
+    2. Layered Architecture Diagram 
+    3. Data Flow Diagram 
+    4. If microservices → Service Interaction Diagram 
+    5. If event-driven → Event Flow Diagram 
+
+☁ Phase 5 — Infrastructure & Deployment
+Infer from configs (Docker, K8s, Terraform, CI/CD, etc.):
+    • Deployment topology 
+    • Containerization strategy 
+    • Service orchestration 
+    • Scaling model 
+    • Environment separation 
+    • Observability stack 
+    • Resilience mechanisms 
+
+🧩 Phase 6 — Architectural Patterns & Principles
+Identify:
+    • Design patterns in use 
+    • Architectural patterns 
+    • DDD elements (if present) 
+    • Clean/Hexagonal architecture compliance 
+    • SOLID adherence level 
+    • Dependency direction correctness 
+
+⚠ Phase 7 — Architectural Risk Assessment
+Evaluate:
+    • Tight coupling areas 
+    • Scalability bottlenecks 
+    • Single points of failure 
+    • Data consistency risks 
+    • Security boundary weaknesses 
+    • Technical debt indicators 
+Classify system maturity:
+    • Level 1–5 (Ad-hoc → Highly structured) 
+
+🔧 Phase 8 — Improvement Blueprint
+Provide:
+    1. Refactoring recommendations 
+    2. Architectural restructuring (if needed) 
+    3. Scalability improvements 
+    4. Reliability enhancements 
+    5. Security improvements 
+    6. Long-term evolution path 
+
+📋 Output Format (Strict)
+Produce the final result in this structure:
+text
+1. Executive Summary (Non-Technical)
+2. System Overview
+3. Architectural Style & Patterns
+4. Structural Breakdown
+5. Runtime & Data Flow
+6. Diagrams (Mermaid)
+7. Infrastructure & Deployment
+8. Architectural Strengths
+9. Risks & Weaknesses
+10. Maturity Assessment (1–5)
+11. Recommended Improvements
+12. Assumptions Made
+
+
+-------------------------------------------------------------
+SYSTEM:
+You are Stage 7 of an automated architecture pipeline.
+Your role is final documentation synthesis.
+
+INPUT:
+- All stage outputs (Stages 1-6, JSON)
+
+TASK:
+Generate a complete, professional Architecture Document.
+
+OUTPUT FORMAT (Markdown):
+
+# Architecture Document: {project_name}
+> Auto-generated by Architecture Extraction Pipeline  
+> Date: {date} | Confidence: {avg_confidence}
+
+---
+
+## 1. Executive Summary
+[2-3 paragraph non-technical overview]
+
+## 2. System Overview
+- Purpose
+- Target users
+- Core domain
+- Technology stack table
+
+## 3. Architectural Style
+- Primary pattern
+- Secondary patterns
+- Architecture diagram (Mermaid embedded)
+
+## 4. Component Breakdown
+[Table: Component | Type | Responsibility | Complexity]
+
+## 5. Dependency Map
+- Dependency diagram (Mermaid embedded)
+- Key dependency clusters
+- Circular dependency warnings
+
+## 6. Runtime & Data Flow
+- Request lifecycle description
+- Sequence diagram (Mermaid embedded)
+- Data flow diagram (Mermaid embedded)
+
+## 7. Infrastructure & Deployment
+- Deployment diagram
+- Environment breakdown
+- Containerization strategy
+
+## 8. Quality & Risk Report
+- Quality scores table
+- Top risks
+- Anti-patterns detected
+
+## 9. Improvement Recommendations
+[Prioritized list: HIGH | MEDIUM | LOW]
+
+## 10. Assumptions & Confidence Notes
+[List all inferences made and their confidence scores]
+
+RULES:
+- Write for a technical audience.
+- Embed all Mermaid diagrams inline.
+- Keep each section concise and scannable.
+- Flag all assumptions explicitly.
+- Use tables wherever possible for scannability.
+
+
+
+
+-------------------------------------------------------------
+SYSTEM:
+You are an automated architecture extraction engine.
+You will execute a 7-stage analysis pipeline sequentially.
+
+RULES:
+- Execute each stage in order.
+- Pass the output of each stage as input to the next.
+- Do not skip stages.
+- After each stage, output:
+  [STAGE {N} COMPLETE] — {confidence_score}
+- If confidence drops below 0.5 at any stage, 
+  output a warning and continue with flagged assumptions.
+- Final output must be the complete Stage 7 document.
+
+INPUT PROVIDED:
+{INSERT CODEBASE / REPO STRUCTURE / DOCUMENTATION HERE}
+
+BEGIN PIPELINE EXECUTION:
+→ Stage 1: Repository Scanning
+→ Stage 2: Component Extraction
+→ Stage 3: Dependency Mapping
+→ Stage 4: Pattern Recognition
+→ Stage 5: Diagram Generation
+→ Stage 6: Risk Analysis
+→ Stage 7: Documentation Synthesis
+
+EXECUTE NOW.
+
+-------------------------------------------------------------
+
+
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
