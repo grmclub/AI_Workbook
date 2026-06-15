@@ -91,7 +91,7 @@ Based on your previous inquiries, you have been focusing on:
 --------------------------------------------------------------------------------------
 ##Core areas where prompts can be used to synthesize information
 
-##communication
+##communication summary, drafts
 -mail
 -chat
 -social media
@@ -102,7 +102,7 @@ Based on your previous inquiries, you have been focusing on:
 -explain
 -deepdive
 -set operations : group, aggregate, join, intersection
--visualization  : time series comparison
+-visualization : eg.time series comparison
 
 ##coding, testing, debugging
 -generate
@@ -116,16 +116,21 @@ Based on your previous inquiries, you have been focusing on:
 -organize & optimize workflow
 
 ##operations, monitoring
--detect anomoly and alert
+-detect anomoly and alert in infrastructure
 
 ##marketing & sales & Auditing
 -generate mkt plan
+-presentation pitch book
 
 ##generate content
 -text
 -image
 -audio
 -video
+
+##Hobbies
+-Cooking
+-Music
 
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
