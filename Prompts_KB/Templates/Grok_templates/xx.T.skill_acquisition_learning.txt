@@ -60,7 +60,11 @@ output in a box diagram in png format with Microsoft Designer
 /list best prompts for extracting the architecture of a software application
 /list best prompts for project management
 
-
+✅ A version for specific tech roles (SRE / Architect / Engineering Manager / Staff Engineer)
+✅ A version for specific tech scenarios (system design interviews / code review / incident response)
+✅ A business domain cheat sheet version
+✅ A science/research domain cheat sheet version
+✅ A personal decision making cheat sheet version
 
 -------------------------------------------------------------
 /dig deeper analyze and summarize  into why Nikkei 225 is at historic highs while the government is considering reducing taxes on food in Japan
