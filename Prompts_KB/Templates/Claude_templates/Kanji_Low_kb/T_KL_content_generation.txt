@@ -118,11 +118,32 @@ Prompt: The style of an original stylized 3D portrait illustration with the aest
 * Milestones to hit at Day 30, 60, and 90
 * What to do if growth stalls at any stage
 
+-------------------------------------------------------------
+Channel DNA Extraction
+"Analyze every transcript in this source. Extract: (1) the 3 belief systems this creator holds that shape every video, (2) the specific words and phrases they repeat across episodes, (3) the emotional state they leave the viewer in by the end. Don't summarise — pattern match. Show me what makes this channel theirs and impossible to copy superficially."
 
+Hook Swipe File
+"Extract every opening line from this channel's transcripts. Categorise each by hook mechanic: curiosity gap, bold contrarian claim, personal story, shocking stat, or direct challenge. Then strip each hook down to its skeleton — remove the specific topic so I'm left with a reusable sentence structure. Give me 25 templates with one example of how I'd apply it to [your niche]."
 
+Content Pillar Map
+"Identify the 5 content pillars this channel owns. For each pillar: name it, describe the emotional need it serves for the audience, list 5 videos they've already made on it, and generate 8 video angles they haven't explored yet. Prioritise unexplored angles by audience frustration, not just curiosity."
 
+Audience Language Mining
+"Pull every phrase, complaint, desire, and question buried in these transcripts that reflects how the audience thinks — not how the creator positions it. I want raw voice-of-customer language: the words people use at 2am when they're frustrated, not in a marketing brief. Group by: frustrations, desires, fears, and identity statements."
 
+Viral Pattern Recognition
+"Take the 10 highest-performing videos in this source. Map the structure of each: hook length, first tension introduced, when the core framework appears, where stories are inserted, CTA placement, and closing emotional note. Find what all 10 share. Then give me a repeatable video blueprint I can use as a production template — with timestamps for a 10-minute video."
 
+90-Day Content Calendar
+"Build a 90-day content calendar using the pillars and hooks you've identified. One video per week. For each entry include: working title, hook (first 2 sentences), core argument in one line, the belief it challenges, and the CTA. Add a column for content format: long-form, short-form series, or reaction. Output as a table."
+
+Repurposing Engine
+"Take the top 5 transcripts. For each one, create a repurposing pack: (1) A LinkedIn post under 150 words — direct, outcome-focused, one insight per post, no fluff. (2) A Facebook thread opener using a BREAKING news hook format — bold claim, create urgency, stop the scroll. (3) Three 60-second short-form video scripts — hook, one punchy insight, pattern interrupt, CTA. (4) One email subject line under 8 words that creates open anxiety. Do not soften the tone. Match the energy of the original."
+
+Multi-Source Competitor Gap Analysis
+"I am loading [3 competitor channels] as sources simultaneously. Across all three: (1) What topics do all three cover — these are table stakes I must have. (2) What topics does only one cover — these are differentiation opportunities. (3) What does none of them cover that their shared audience clearly wants based on the questions and frustrations in these transcripts? Rank the top 10 unclaimed content opportunities. This is my content moat."
+
+-------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
