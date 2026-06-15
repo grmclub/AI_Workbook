@@ -1,0 +1,236 @@
+
+
+🖥 System Design Interview — Critical Thinking Cheat Sheet
+
+🎯 THE GOLDEN FRAMEWORK
+
+
+CLARIFY → ESTIMATE → DESIGN → DEEP DIVE → REVIEW
+
+1️⃣ CLARIFY REQUIREMENTS FIRST (5 min)
+
+text
+
+FUNCTIONAL                    NON-FUNCTIONAL
+──────────────────────────    ──────────────────────────
+□ What does it do?            □ Scale: how many users?
+□ Who uses it?                □ Latency requirements?
+□ Core features only?         □ Availability target?
+□ What is out of scope?       □ Consistency needs?
+□ Read or write heavy?        □ Durability requirements?
+□ Mobile / web / both?        □ Geographic distribution?
+
+ALWAYS ASK:
+"Is this read-heavy or write-heavy?"
+"What is the expected scale now and in 2 years?"
+"Is strong consistency required or is eventual OK?"
+"What is the acceptable latency at P99?"
+
+2️⃣ CAPACITY ESTIMATION (5 min)
+
+text
+
+TRAFFIC                       STORAGE
+──────────────────────────    ──────────────────────────
+DAU × actions/day             Objects × avg size
+= requests/day                = storage/day
+÷ 86,400                      × retention period
+= requests/second (RPS)       = total storage
+
+QUICK REFERENCE
+──────────────────────────────────────────
+1M  DAU  × 10 actions = ~116  RPS
+10M DAU  × 10 actions = ~1.1K RPS
+100M DAU × 10 actions = ~11K  RPS
+
+1KB × 1M req/day  = 1GB/day
+1KB × 10M req/day = 10GB/day
+
+BANDWIDTH = RPS × avg payload size
+CACHE     = 20% of daily read volume (80/20 rule)
+
+3️⃣ HIGH LEVEL DESIGN (10 min)
+
+text
+
+CLIENT → [CDN] → [Load Balancer] → [API Gateway]
+                                         ↓
+                              [Application Servers]
+                             ↙        ↓          ↘
+                        [Cache]  [Message Q]  [Database]
+                                      ↓
+                               [Workers/Jobs]
+                                      ↓
+                              [Storage / DB]
+
+DRAW THIS FIRST. Always.
+Label every arrow with the protocol.
+
+4️⃣ DATA MODEL & API (5 min)
+
+text
+
+DATA MODEL                    API DESIGN
+──────────────────────────    ──────────────────────────
+□ Core entities               □ REST or GraphQL?
+□ Key relationships           □ Core endpoints only
+□ Primary keys                □ Request/Response schema
+□ Indexes needed              □ Auth mechanism
+□ SQL vs NoSQL choice         □ Rate limiting strategy
+□ Sharding key                □ Versioning approach
+
+SQL WHEN            NoSQL WHEN
+────────────────    ────────────────
+ACID needed         Massive scale
+Complex queries     Flexible schema
+Strong relations    High write speed
+Financial data      Simple access patterns
+
+5️⃣ DEEP DIVE — SCALE IT (10 min)
+
+text
+
+SCALING TOOLKIT
+──────────────────────────────────────────────────────
+PROBLEM              SOLUTION
+──────────────────   ─────────────────────────────────
+High read load    →  Add cache (Redis/Memcached)
+High write load   →  Message queue + async workers
+Single DB         →  Read replicas + write primary
+DB too large      →  Shard by user_id / region
+Hot spots         →  Consistent hashing
+Slow queries      →  Add indexes / denormalize
+Static content    →  CDN (CloudFront/Cloudflare)
+Service overload  →  Rate limiting + circuit breaker
+Cross-region      →  Multi-region + replication
+Search needs      →  Elasticsearch / Solr
+Real-time         →  WebSockets / Server-Sent Events
+Large files       →  Object storage (S3) + CDN
+
+6️⃣ KEY TRADE-OFFS TO DISCUSS
+
+text
+
+CAP THEOREM                   CONSISTENCY MODELS
+──────────────────────────    ──────────────────────────
+C = Consistency               Strong     → Always fresh
+A = Availability              Eventual   → Fast, stale OK
+P = Partition Tolerance       Read-your-write → User sees own
+                              Causal     → Order preserved
+Pick 2. Always explain which
+you chose and WHY.            CACHING STRATEGIES
+                              ──────────────────────────
+REPLICATION                   Cache-aside  → App manages
+──────────────────────────    Write-through→ Sync write
+Sync  → Strong consistency    Write-back   → Async write
+Async → Higher availability   Read-through → Cache manages
+
+STATE: Stateless > Stateful (always explain why)
+
+7️⃣ CRITICAL THINKING PROMPTS (use throughout)
+
+text
+
+WHEN STUCK              WHEN DESIGNING          WHEN REVIEWING
+────────────────────    ────────────────────    ────────────────────
+"Let me think about     "The trade-off here     "Single points of
+ this from first         is X vs Y because..."   failure are..."
+ principles..."
+                        "At 10x scale this      "Bottlenecks I see
+"Two approaches:         would break because..."  are..."
+ A gives us X but
+ costs Y..."            "I'd choose X over Y    "If this component
+                         because our             fails, the system
+"Let me validate         requirements say..."    handles it by..."
+ my assumption..."
+
+ALWAYS NARRATE YOUR THINKING. Silence = lost points.
+
+8️⃣ COMMON SYSTEM PATTERNS
+
+text
+
+PATTERN              USE WHEN                  KEY COMPONENTS
+───────────────────  ────────────────────────  ──────────────────────
+URL Shortener        Write once, read many     Hash + KV Store + Cache
+News Feed            Fan-out on write/read     Graph DB + Cache + Queue
+Chat System          Real-time bidirectional   WebSocket + Message Queue
+Rate Limiter         Protect services          Token Bucket + Redis
+Search System        Full text search          Inverted Index + ES
+Notification System  Async delivery            Queue + Workers + Gateway
+Video Streaming      Large file delivery       Chunk + CDN + Object Store
+Ride Sharing         Location + matching       Geo Index + WebSocket
+
+9️⃣ NUMBERS EVERY ENGINEER MUST KNOW
+
+text
+
+LATENCY                       STORAGE SIZES
+──────────────────────────    ──────────────────────────
+L1 cache        0.5  ns       1 char   =  1  Byte
+L2 cache        7    ns       1 tweet  =  280 Bytes
+RAM read        100  ns       1 image  =  300 KB
+SSD read        150  μs       1 video  =  50  MB
+Network same DC 500  μs       1 movie  =  4   GB
+HDD read        10   ms
+Network diff DC 150  ms       AVAILABILITY
+Network diff CN 300  ms       ──────────────────────────
+                              99%    = 3.65 days/year
+THROUGHPUT                    99.9%  = 8.7  hours/year
+──────────────────────────    99.99% = 52   mins/year
+QPS single server ~1K-10K     99.999%= 5    mins/year
+Redis           ~100K QPS
+Kafka           ~1M   msg/s
+
+🔟 REVIEW & WRAP UP (5 min)
+
+text
+
+ALWAYS CLOSE WITH:
+
+□ Summarize design in 3 sentences
+□ Identify your own bottlenecks
+□ Name single points of failure
+□ Propose monitoring strategy
+□ Suggest what to build next
+
+SAY THIS:
+"The main bottleneck I see is [X].
+ I would address it by [Y].
+ The trade-off of that approach is [Z]."
+
+NEVER SAY:
+✗ "This design is perfect"
+✗ "There are no bottlenecks"
+✗ "I am not sure" (say "I would approach
+    this by thinking about..." instead)
+
+⚡ COGNITIVE TRAPS TO AVOID
+
+text
+
+TRAP                    INSTEAD
+──────────────────────  ──────────────────────────────
+Jump to solution        Clarify requirements first
+Over-engineer           Ask about actual scale needed
+Under-engineer          Ask about growth projections
+Ignore trade-offs       Name them explicitly
+Stay silent             Narrate every thought
+Forget failures         Address fault tolerance
+Skip non-functional     Ask about latency/availability
+Pick tech by habit      Justify every tech choice
+Ignore the interviewer  Treat as collaborative design
+Run out of time         Watch the clock. Move forward.
+
+📋 INTERVIEW TIME MAP
+
+text
+
+00:00 ████░░░░░░░░░░░░░░░░  Clarify Requirements    5 min
+05:00 ████████░░░░░░░░░░░░  Capacity Estimation     5 min
+10:00 ████████████████░░░░  High Level Design      10 min
+20:00 ████████████████████  Deep Dive & Scale      10 min
+30:00 ████████████████████  Trade-offs & Review     5 min
+35:00 ████████████████████  Q&A Buffer              5 min
+──────────────────────────────────────────────────────
+      TOTAL                                        40 min
