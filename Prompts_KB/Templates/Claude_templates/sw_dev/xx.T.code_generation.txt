@@ -5,7 +5,6 @@ These ready-to-use, copy-and-paste templates optimize Claude's extended reasonin
 /1. The Deep Code & Architecture Analyzer
 Perfect for debugging or scanning full repositories. 
 
-Medium·Ravindu Himansha
 text
 Act as a Principal Software Engineer. I am pasting my entire codebase below. 
 Please review it for the following:
