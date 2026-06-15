@@ -1,0 +1,116 @@
+
+-------------------------------------------------------------
+Prompts to extract value
+
+1. The Executive Summary Prompt
+Most people read a 40-page PDF from top to bottom. That's 2 hours of your life gone.
+Instead, upload it to NotebookLM and paste this:
+"Summarise this document in 5 bullet points. Focus only on the most actionable insights. Ignore background context and filler."
+You get the 20% that matters in 20 seconds.
+
+2. The Hidden Gaps Prompt
+Every report has blind spots the author didn't want you to notice.
+Upload the document and ask:
+"What questions does this document fail to answer? List the top 5 gaps in the argument or research."
+Suddenly you're the smartest person in the room — because you spotted what everyone else missed.
+
+3. The Counterargument Prompt
+Before you present a document to your team, stress-test it.
+Paste this:
+"Play devil's advocate. What are the 3 strongest arguments against the claims made in this document?"
+Now you walk into every meeting prepared for pushback before it happens.
+
+4. The Key Decision Prompt
+Long documents bury the real point under layers of analysis.
+Cut through it with:
+"If I had to make one business decision based on this document, what should it be and why?"
+This is the prompt that turns research into revenue.
+
+5. The Plain English Prompt
+Legal agreements. Compliance reports. Technical whitepapers.
+They're designed to confuse you. Use this:
+"Rewrite the 3 most complex sections of this document in plain language a 12-year-old could understand."
+No more paying someone $500/hour to explain what you just uploaded for free.
+
+6. The Action Plan Prompt
+Most reports end with vague recommendations that gather dust.
+Fix that instantly:
+"Turn the recommendations in this document into a step-by-step 30-day action plan I can start today."
+You go from passive reader to active operator in one prompt.
+
+7. The Quotable Moments Prompt
+Need content? The document you just read is a goldmine.
+Ask NotebookLM:
+"Pull out the 5 most powerful or surprising statements from this document I could use in a presentation or social post."
+One PDF. Five ready-made hooks. Zero writer's block.
+
+8. The Competitive Edge Prompt
+Your competitors are reading the same industry reports as you.
+The difference is what you do next. Run this:
+"How could a business use the information in this document to outperform their competitors? Give me 3 specific strategies."
+Same data. Smarter lens. Unfair advantage.
+
+-------------------------------------------------------------
+Prompt 1 — Pressure Test
+ "You are the most ruthless senior strategist I know. Read the idea below. Identify the 3 weakest assumptions, the strongest hidden risk, and the one thing that — if it goes wrong — makes everything else irrelevant. Then tell me what would have to be true for this to actually work, and how confident you are that it is. Don't soften the feedback. I'd rather hear it now than from a customer."
+
+
+Prompt 2 — 5th Grade Translator
+ "Rewrite the text below at a 5th-grade reading level WITHOUT dumbing down the substance. Every technical term must be replaced with a plain-English equivalent or a quick analogy. Keep all the original arguments, examples, and conclusions. Sentences should average 12 words or fewer. If something is genuinely complex, use 2-3 short sentences instead of one long one. Show me the rewrite, then list every term you simplified so I can decide which to keep."
+
+
+Prompt 3 — Sound Like Me
+ "Below is something I wrote, followed by something I need to write. First: study my writing. Notice my sentence rhythm, the words I use and avoid, my opening style, my closing style, and any quirks (em dashes, lowercase, fragments). Second: write the new piece in that exact voice. Don't average it out — exaggerate the things that make me sound like me. After the draft, give me a 3-bullet list of the voice patterns you imitated so I can refine them next time."
+
+Prompt 4 — Steelman the Opposition
+ "I'm about to share my position on [topic]. Your job: build the strongest possible case AGAINST me — not the dumbed-down version, the version a sharp critic would actually argue. Use real evidence, plausible counter-scenarios, and the assumptions I'm probably making without realizing it. Then, separately, tell me which of those counter-arguments are weakest so I know where my position holds up. End with the one question my position can't answer."
+
+Prompt 5 — Action Item Extractor
+ "Read the meeting notes below. Extract every action item — including the ones that were implied but not explicitly stated. For each one, identify: the owner (or 'unassigned' if unclear), the actual deadline (or 'no date set'), what specifically needs to happen (not vague phrases like 'follow up'), and the priority (P0-P3 based on the conversation's urgency). Output as a clean table sorted by deadline. Flag every item where the owner or deadline is missing — those are the ones most likely to fall through."
+
+Prompt 6 — Future Post-Mortem
+ "Imagine it's 6 months from now and the project below has failed. Write the post-mortem from the future. Identify the 5 most likely root causes of failure, ranked by probability. For each one: what early warning sign would have appeared, what we could have done differently in the first 30 days, and which stakeholder would have raised the flag first. End with the ONE thing we should monitor weekly to catch failure early."
+
+Prompt 7 — Brutal Email Critique 
+"Read the email below. Then play the recipient — a busy senior person who doesn't have time for fluff. React to it the way they would silently while reading. Identify: where they'd skim, where they'd get annoyed, where they'd lose the thread, what they'd think the actual ask is, and whether they'd even respond. Be brutal. Then rewrite the email so they reach the actual ask in the first 2 sentences and feel respected, not pitched."
+
+Prompt 8 — Plan-First Execution 
+"Before doing anything, write out a plan: every step, what you'll do at each one, what you need from me to start, and the risks at each step. Number them. After the plan, list any assumptions you're making and ask me to confirm or correct. Wait for my approval — say nothing else, do nothing else — until I respond. If I approve part of the plan and not others, only execute the approved parts. Stay paused on the rest."
+
+
+-------------------------------------------------------------
+1> /auto-review — reviews every PR you open before you wake up
+
+2> /weekly-digest — drafts Friday's customer changelog from merged PRs
+
+3> /standup — posts what shipped, what's in flight, what's blocked to Slack at 9am
+
+4> /triage-prod — fires on Sentry alerts and opens draft fix PRs
+
+5️> /docs-drift — catches API changes weekly and opens the docs update PR
+
+6️> /backlog-sweep — labels, assigns, and closes stale Linear issues every night
+
+7️> /deploy-check — runs smoke tests after every prod push and posts go/no-go in Slack
+
+8️> /client-brief — turns any call transcript into a structured brief with action items, posts to Notion and threads to Slack within 90 seconds of the call ending
+
+Set up once. They keep working when you don't.
+-------------------------------------------------------------
+Most people re-prompt Claude 3–4x for one good output. The fix isn't a better prompt — it's a skill: a SKILL.md file that tells Claude how to think every time, grounded on your sources so it can't make things up.
+
+The 5-step loop:
+1> Load your sources → Drop your 3–4 best PDFs, reports, or transcripts into NotebookLM. This becomes the ground truth — Claude can only work from what you feed it.
+
+2> Extract the thinking → Ask NotebookLM to pull out the framework, rules, and steps from those sources only. No outside fluff, no hallucination.
+
+3> Write the SKILL.md → Have it format the output as a SKILL.md: a name, a description of when to use it, and the step-by-step instructions Claude should follow every time.
+
+4> Drop it in & run → Put the file in your Claude skills folder, run the job once. On-brand, first try — no re-prompting.
+
+5> Stack one skill per job → One skill for outreach, one for proposals, one for content. Each new skill is a teammate that already knows your playbook → a mini AI team.
+
+Free tool. 5 minutes. No more re-prompting.
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
