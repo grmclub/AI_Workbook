@@ -1,0 +1,208 @@
+
+-------------------------------------------------------------
+Best Prompts for Extracting Software Architecture
+One‑Page Summary (Markdown Ready)
+🎯 MASTER PROMPT (Deep Extraction)
+
+Markdown
+
+You are a senior software architect.
+
+Analyze the provided codebase / documentation and extract the complete architecture.
+
+Deliver:
+
+1. System purpose (1 paragraph)
+2. Architectural style (monolith / microservices / layered / event-driven / etc.)
+3. High-level component breakdown (table format)
+4. Data flow (step-by-step request lifecycle)
+5. External dependencies (APIs, DBs, queues)
+6. Deployment model (cloud/on-prem/containerized)
+7. Key architectural patterns used
+8. Technical risks or bottlenecks
+
+If information is missing, infer cautiously and clearly label assumptions.
+
+Output in structured Markdown.
+
+🧱 STRUCTURAL EXTRACTION PROMPT
+
+Markdown
+
+Analyze this project structure and identify:
+
+- Entry points (main files, controllers, routers)
+- Layer separation (presentation / application / domain / infra)
+- Core modules and responsibilities
+- Dependency direction between modules
+- Cross-cutting concerns (auth, logging, caching)
+
+Produce:
+- Component table
+- Dependency summary
+- Observed architectural pattern
+
+🔄 DATA FLOW & RUNTIME PROMPT
+
+Markdown
+
+Reconstruct the runtime behavior of this application.
+
+Trace a typical request from:
+User → API → Business Logic → Data Layer → Response
+
+Identify:
+- Sync vs async flows
+- Database interactions
+- External service calls
+- Event publishing/consuming
+
+Provide:
+1. Step-by-step request lifecycle
+2. Mermaid sequence diagram
+3. Bottlenecks or latency risks
+
+🧩 PATTERN DETECTION PROMPT
+
+Markdown
+
+Identify architectural and design patterns used in this system.
+
+Check for:
+- Layered architecture
+- MVC / Clean Architecture / Hexagonal
+- Microservices vs modular monolith
+- CQRS / Event-driven patterns
+- Repository / Factory / Observer
+
+For each pattern:
+- Name
+- Evidence from code
+- Confidence level
+
+☁ DEPLOYMENT & INFRASTRUCTURE PROMPT
+
+Markdown
+
+Based on Dockerfiles, Kubernetes configs, CI/CD files, and environment configs:
+
+Extract:
+- Deployment topology
+- Containerization strategy
+- Orchestration model
+- Cloud provider (if any)
+- Scaling strategy
+- Observability setup
+
+Summarize deployment architecture in Markdown.
+Include a Mermaid deployment diagram.
+
+🔍 REVERSE ENGINEERING PROMPT
+
+Markdown
+
+Reverse-engineer the architecture from the provided source code.
+
+Steps:
+1. Identify system entry points
+2. Identify business logic boundaries
+3. Identify persistence layer
+4. Map dependencies between modules
+5. Determine architectural style
+
+Output:
+- Layered breakdown
+- Component interaction summary
+- Inferred architecture diagram
+
+🏢 MICROSERVICES DETECTION PROMPT
+
+Markdown
+
+Determine whether this system follows microservices architecture.
+
+If yes:
+- List services and boundaries
+- Communication methods (REST, gRPC, messaging)
+- Shared resources
+- Service discovery mechanism
+
+If not:
+- Describe the actual architecture pattern
+- Explain why it is not microservices
+
+📊 ARCHITECTURE SUMMARY FOR README
+
+Markdown
+
+Write a concise “Architecture” section suitable for a README.
+
+Include:
+- System overview
+- Technology stack
+- Major components
+- Runtime flow
+- Deployment overview
+
+Keep it clear and concise (under 500 words).
+
+🛡 RISK & QUALITY ANALYSIS PROMPT
+
+Markdown
+
+Evaluate the architecture from a senior architect perspective.
+
+Assess:
+- Coupling & cohesion
+- Scalability
+- Resilience
+- Security boundaries
+- Testability
+- Technical debt hotspots
+
+Output:
+- Strengths
+- Weaknesses
+- Architectural maturity level (1–5)
+- Refactoring recommendations
+
+🧠 ONE-SHOT “ULTIMATE” EXTRACTION PROMPT
+
+Markdown
+
+You are a principal software architect specializing in reverse engineering.
+
+Analyze the provided codebase and produce a complete architecture report with:
+
+1. Executive summary
+2. Architectural style
+3. Component breakdown
+4. Data flow lifecycle
+5. Deployment model
+6. Diagrams (Mermaid)
+7. Identified patterns
+8. Risks & improvement suggestions
+
+Infer cautiously. State assumptions explicitly.
+Output in clean Markdown.
+
+-------------------------------------------------------------
+✅ QUICK SELECTION GUIDE
+
+==============================================================
+Goal	                                 | Use Prompt
+==============================================================
+Full deep architecture extraction	     | MASTER / ULTIMATE
+Quick structural overview	             | STRUCTURAL
+Understand request lifecycle	         | DATA FLOW
+Detect architecture pattern	             | PATTERN DETECTION
+Analyze cloud & DevOps setup	         | DEPLOYMENT
+Reverse engineer legacy system	         | REVERSE ENGINEERING
+Check if system is microservices	     | MICROSERVICES DETECTION
+Generate README docs	                 | README SUMMARY
+Perform architecture audit	             | RISK & QUALITY
+==============================================================
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
