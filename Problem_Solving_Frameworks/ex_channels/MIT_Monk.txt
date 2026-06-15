@@ -2,7 +2,36 @@
 
 https://www.youtube.com/@SandeepSwadia/videos
 -------------------------------------------------
+"How To Think SO CLEARLY"
 
+This video, "How To Think SO CLEARLY " explores the concept of systems thinking—the ability to identify hidden patterns and connections within complex environments [00:15], [01:17].
+Here is a summary of the core frameworks presented:
+
+The 4 Types of Systems
+To navigate challenges effectively, you must first identify the type of system you are operating in [02:22]:
+    • Clear Systems: Cause and effect are obvious.
+        ◦ Approach: Use checklists and follow established, proven protocols [06:05], [06:48].
+    • Complicated Systems: Cause and effect exist but are hidden; they require analysis to uncover.
+        ◦ Approach: Slow down, analyze the situation, and seek out the right experts [07:31], [08:42].
+    • Complex Systems: Cause and effect are only visible in hindsight.
+        ◦ Approach: Run small experiments, stay adaptable, and course-correct in real-time rather than relying on standard procedures [10:10], [11:39].
+    • Chaotic Systems: The link between cause and effect is broken.
+        ◦ Approach: Act immediately to stabilize the situation first, then analyze later [12:36], [12:45].
+
+The DART Diagnostic Tool
+To help determine which system you are currently dealing with, use the DART framework [14:35]:
+    • D - Deconstruct: Break the problem down into sub-parts to see if they are stable or shifting [14:35].
+    • A - Analyze: Determine the nature of the relationship between cause and effect [14:50].
+    • R - Recognize: Ask if you have seen this pattern (or similar ones) before [15:14].
+    • T - Test: Run the smallest possible experiment before committing to a full response [15:29].
+
+Gaining Perspective
+Because it is difficult to see the direction of the system you are inside, the speaker suggests using these three tools to get an "outside" perspective:
+    1. Mentors: People who have no stake in your story and can observe from the "platform" [16:39].
+    2. Data: Objective numbers that contradict or support your narrative [16:53].
+    3. Time: Comparing your current performance against your past self [17:01].
+
+-------------------------------------------------
 How To Become Dangerously Self-Educated (with AI) 
 https://www.youtube.com/watch?v=VeU6gScy92s
 
