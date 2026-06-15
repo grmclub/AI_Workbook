@@ -205,7 +205,7 @@
 --------------------------------------------------------------
 
 ╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                        🖥 TECH CRITICAL THINKING & PROBLEM SOLVING — ONE PAGE SUMMARY                       ║
+║                        🖥 TECH CRITICAL THINKING & PROBLEM SOLVING — ONE PAGE SUMMARY                        ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║                                                                                                              ║
 ║  WHAT IS IT?                                                                                                 ║
@@ -219,44 +219,44 @@
 ║  ──────────────────────────────────────────────────────────────────────────────────────────────────────────  ║
 ║                                                                                                              ║
 ║  1. 🐛 DEBUG & ROOT CAUSE          Find the TRUE cause, not just the symptom                                 ║
-║     Key tools: 5 Whys / Fishbone / Blast Radius / Incident Scope                                            ║
-║     Ask: "Why does this REALLY happen? What would have to be true for this bug to exist?"                   ║
+║     Key tools: 5 Whys / Fishbone / Blast Radius / Incident Scope                                             ║
+║     Ask: "Why does this REALLY happen? What would have to be true for this bug to exist?"                    ║
 ║                                                                                                              ║
 ║  2. 📐 SYSTEM DESIGN THINKING      Break down complexity before building anything                            ║
-║     Key tools: Requirements Decompose / Trade-off Analysis / Capacity / Bottleneck / Pareto                 ║
-║     Ask: "What are we actually optimizing for? What are we sacrificing?"                                    ║
+║     Key tools: Requirements Decompose / Trade-off Analysis / Capacity / Bottleneck / Pareto                  ║
+║     Ask: "What are we actually optimizing for? What are we sacrificing?"                                     ║
 ║                                                                                                              ║
 ║  3. 🏗 ARCHITECTURE DECISIONS      Choose architecture with eyes open to consequences                        ║
-║     Key tools: Decision Matrix / Pre-Mortem / Second Order Effects / Reversibility / Devil's Advocate       ║
-║     Ask: "Is this a one-way door? What does this look like at 10x? At 100x?"                               ║
+║     Key tools: Decision Matrix / Pre-Mortem / Second Order Effects / Reversibility / Devil's Advocate        ║
+║     Ask: "Is this a one-way door? What does this look like at 10x? At 100x?"                                 ║
 ║                                                                                                              ║
 ║  4. 💡 CREATIVE TECH SOLVING       Break through mental blocks and find non-obvious solutions                ║
-║     Key tools: Brainstorm / Reverse (Make It Worse) / SCAMPER / Analogical Thinking                        ║
-║     Ask: "How would [Netflix/Stripe/Google] solve this? How could we make it WORSE?"                       ║
+║     Key tools: Brainstorm / Reverse (Make It Worse) / SCAMPER / Analogical Thinking                          ║
+║     Ask: "How would [Netflix/Stripe/Google] solve this? How could we make it WORSE?"                         ║
 ║                                                                                                              ║
 ║  5. 🔍 ASSUMPTION CHECKING         Surface and challenge hidden beliefs before they sink the project         ║
-║     Key tools: Surface Assumptions / Bias Detection / Steelman / Constraint Challenge                       ║
-║     Ask: "What are we assuming is true that might not be? What bias is driving this?"                      ║
+║     Key tools: Surface Assumptions / Bias Detection / Steelman / Constraint Challenge                        ║
+║     Ask: "What are we assuming is true that might not be? What bias is driving this?"                        ║
 ║                                                                                                              ║
 ║  6. 🔗 TECH LOGIC & REASONING      Ensure arguments and decisions are logically sound                        ║
-║     Key tools: Fallacy Check / Socratic Method / Requirements Validity Check                                ║
-║     Ask: "Is this a real requirement or an assumption? What would disprove this claim?"                    ║
+║     Key tools: Fallacy Check / Socratic Method / Requirements Validity Check                                 ║
+║     Ask: "Is this a real requirement or an assumption? What would disprove this claim?"                      ║
 ║                                                                                                              ║
 ║  7. 🌐 SYSTEMS & SCALE THINKING    See the whole system, not just the component in front of you              ║
-║     Key tools: Failure Modes / Scalability / Dependency Map / Feedback Loops / Leverage Points             ║
-║     Ask: "What breaks first at 10x? What are the unintended effects on other services?"                    ║
+║     Key tools: Failure Modes / Scalability / Dependency Map / Feedback Loops / Leverage Points               ║
+║     Ask: "What breaks first at 10x? What are the unintended effects on other services?"                      ║
 ║                                                                                                              ║
 ║  8. 🧩 TECH MENTAL MODELS          Apply proven thinking frameworks to avoid reinventing the wheel           ║
-║     Key tools: Inversion / First Principles / Occam's Razor / Chesterton's Fence / Map vs Territory        ║
-║     Ask: "What is the SIMPLEST solution? Why does this legacy code exist before I delete it?"              ║
+║     Key tools: Inversion / First Principles / Occam's Razor / Chesterton's Fence / Map vs Territory          ║
+║     Ask: "What is the SIMPLEST solution? Why does this legacy code exist before I delete it?"                ║
 ║                                                                                                              ║
 ║  9. 🪞 ENGINEER SELF-REFLECTION    Check your own thinking process for quality and bias                      ║
-║     Key tools: Metacognition / Confidence Check / Decision Journal / Post-Incident / Tech Debt Honesty      ║
-║     Ask: "Am I picking this because it is RIGHT or because it is FAMILIAR?"                                ║
+║     Key tools: Metacognition / Confidence Check / Decision Journal / Post-Incident / Tech Debt Honesty       ║
+║     Ask: "Am I picking this because it is RIGHT or because it is FAMILIAR?"                                  ║
 ║                                                                                                              ║
 ║  10.🚨 INCIDENT & POST-MORTEM      Learn systematically from every failure                                   ║
-║     Key tools: Scope / Root Cause / Failure Modes / After Action Review / Monitoring Gaps                  ║
-║     Ask: "What monitoring would have caught this sooner? What will we do differently?"                     ║
+║     Key tools: Scope / Root Cause / Failure Modes / After Action Review / Monitoring Gaps                    ║
+║     Ask: "What monitoring would have caught this sooner? What will we do differently?"                       ║
 ║                                                                                                              ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║                                                                                                              ║
@@ -291,32 +291,32 @@
 ║  COMMON TECH COGNITIVE TRAPS — KNOW THESE BY NAME                                                            ║
 ║  ──────────────────────────────────────────────────────────────────────────────────────────────────────────  ║
 ║                                                                                                              ║
-║  ⚠ Resume-Driven Dev      Choosing tech to learn it, not because it fits the problem                         ║
-║  ⚠ Cargo Cult Engineering  Copying patterns without understanding why they exist                              ║
-║  ⚠ Not-Invented-Here       Rejecting external solutions in favor of building your own                        ║
-║  ⚠ Shiny Object Syndrome   Adopting new tech because it is new, not because it is right                      ║
-║  ⚠ Premature Optimization  Solving scale problems that do not exist yet                                      ║
-║  ⚠ Familiarity Bias        Choosing what you know best instead of what fits best                             ║
-║  ⚠ Sunk Cost Engineering   Continuing a bad approach because you have invested in it                         ║
-║  ⚠ Complexity Bias         Equating complexity with intelligence or quality                                  ║
-║  ⚠ Survivorship Bias       Only studying tech successes, ignoring failures with same approach                 ║
-║  ⚠ Planning Fallacy        Consistently underestimating time, cost, and complexity                           ║
+║  ⚠ Resume-Driven Dev      Choosing tech to learn it, not because it fits the problem                        ║
+║  ⚠ Cargo Cult Engineering  Copying patterns without understanding why they exist                            ║
+║  ⚠ Not-Invented-Here       Rejecting external solutions in favor of building your own                       ║
+║  ⚠ Shiny Object Syndrome   Adopting new tech because it is new, not because it is right                     ║
+║  ⚠ Premature Optimization  Solving scale problems that do not exist yet                                     ║
+║  ⚠ Familiarity Bias        Choosing what you know best instead of what fits best                            ║
+║  ⚠ Sunk Cost Engineering   Continuing a bad approach because you have invested in it                        ║
+║  ⚠ Complexity Bias         Equating complexity with intelligence or quality                                 ║
+║  ⚠ Survivorship Bias       Only studying tech successes, ignoring failures with same approach               ║
+║  ⚠ Planning Fallacy        Consistently underestimating time, cost, and complexity                          ║
 ║                                                                                                              ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║                                                                                                              ║
 ║  TECH DECISION CHECKLIST                    GOLDEN RULES                                                     ║
 ║  ─────────────────────────────────────────  ──────────────────────────────────────────────────────────────   ║
 ║  □ Problem clearly defined, not assumed     1. Simple is not simplistic. Complexity ≠ sophistication         ║
-║  □ Requirements separated from assumptions  2. The map is not the territory. Diagram ≠ system               ║
+║  □ Requirements separated from assumptions  2. The map is not the territory. Diagram ≠ system                ║
 ║  □ At least 3 alternatives considered       3. Working software beats elegant architecture                   ║
 ║  □ Trade-offs explicitly named              4. Optimize for the next engineer, not next benchmark            ║
-║  □ Biases checked (familiarity/hype/sunk)   5. Premature optimization is the root of all evil               ║
+║  □ Biases checked (familiarity/hype/sunk)   5. Premature optimization is the root of all evil                ║
 ║  □ Steelman of opposing view done           6. Name the bias before it ships to production                   ║
 ║  □ Scale assumptions validated              7. Understand the fence before tearing it down                   ║
-║  □ Reversibility assessed                   8. The best code is code you do not have to write               ║
+║  □ Reversibility assessed                   8. The best code is code you do not have to write                ║
 ║  □ Second order effects considered          9. Scale problems are good problems. Solve today's today         ║
 ║  □ Operational burden estimated            10. Every tech decision is also a team and org decision           ║
-║  □ Monitoring and observability planned                                                                       ║
+║  □ Monitoring and observability planned                                                                      ║
 ║  □ Exit strategy defined                                                                                     ║
 ║  □ Decision documented with reasoning                                                                        ║
 ║                                                                                                              ║
