@@ -50,6 +50,79 @@ Prompt: The style of an original stylized 3D portrait illustration with the aest
 
 
 -------------------------------------------------------------
+–youtube content generation
+
+1/ Find Your Money Niche I am [AGE] years old with interest in [TOPICS]. I want to make money on YouTube with AI. Analyze and give me:
+* Top 5 niches with highest CPM rates
+* Which niche fits my age & interests
+* Competitor gap analysis for each niche
+* Realistic income potential at 1K/10K/100K subs
+* Which niche can I start TODAY with zero budget
+
+2/ Script Generator I run a [NICHE] YouTube channel and want to go viral. Write me a full video script that:
+* Opens with a hook that stops the scroll in 3 seconds
+* Follows the PAS framework (Problem, Agitate, Solution)
+* Includes pattern interrupts every 60 seconds
+* Has a strong CTA that drives comments
+* Is optimized for 8-12 minute watch time
+* Includes timestamps and b-roll suggestions
+
+3/ Title & Thumbnail Formula I'm creating a video about [TOPIC] for [NICHE]. Generate:
+* 10 click-worthy titles using proven formulas
+* Which emotion each title triggers
+* Thumbnail text (max 4 words) for each title
+* Color psychology recommendation per thumbnail
+* A/B test pairs ranked by predicted CTR
+* The #1 title + thumbnail combo and why
+
+4/ AI Automation Workflow Design a complete YouTube automation system for a [NICHE] channel with $0 budget. Map out:
+* Free AI tools for each production step
+* Script → Voiceover → Edit → Thumbnail workflow
+* Time required per video (target under 2 hours)
+* Batch production system for 1 month of content
+* Upload schedule for maximum algorithm boost
+* How to run 3 channels simultaneously
+* When to reinvest first earnings into paid tools
+
+5/ SEO & Algorithm Hack My YouTube channel is about [NICHE] and I'm targeting [AUDIENCE]. Build me a complete SEO strategy:
+* 20 low-competition, high-volume keywords to target
+* Tag strategy for maximum discoverability
+* Description template with keyword placement
+* Playlist structure to boost session time
+* Best upload times for my audience timezone
+* How to rank on Page 1 within 30 days
+
+6/ Faceless Channel Blueprint I want to build a faceless YouTube channel in [NICHE]. Design the complete brand identity:
+* Channel name options (5 variations)
+* Brand voice and content pillars
+* Avatar/logo concept using free tools
+* Intro template under 5 seconds
+* Stock footage sources (free & paid)
+* How to sound human using AI voiceover
+* First 10 video ideas to establish authority
+
+7/ Monetization Multiplier My YouTube channel has [X] subscribers in [NICHE]. Map out every income stream available to me:
+* AdSense eligibility checklist and timeline
+* 3 digital products I can sell this week
+* Affiliate programs with highest commissions in my niche
+* Sponsorship email template to pitch brands
+* Community/membership pricing strategy
+* How to hit $10K/month without 1M subscribers
+
+8/ 90-Day Launch Plan I'm starting a YouTube channel from zero in [NICHE]. Give me a day-by-day roadmap for:
+* Week 1: Channel setup and first video checklist
+* Week 2-4: Content calendar and posting rhythm
+* Month 2: Growth tactics and collaboration outreach
+* Month 3: Monetization activation sequence
+* Daily time commitment (target under 2 hours/day)
+* Milestones to hit at Day 30, 60, and 90
+* What to do if growth stalls at any stage
+
+
+
+
+
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
