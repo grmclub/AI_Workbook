@@ -58,6 +58,8 @@ output in a box diagram in png format with Microsoft Designer
 /list best prompts for software development
 /list best prompts for skill harvesting 
 /list best prompts for extracting the architecture of a software application
+/list best prompts for extracting the architecture of a software application in aone page summary in markdown format
+
 /list best prompts for project management
 
 ✅ A version for specific tech roles (SRE / Architect / Engineering Manager / Staff Engineer)
@@ -67,7 +69,8 @@ output in a box diagram in png format with Microsoft Designer
 ✅ A personal decision making cheat sheet version
 
 -------------------------------------------------------------
-/dig deeper analyze and summarize  into why Nikkei 225 is at historic highs while the government is considering reducing taxes on food in Japan
+/dig deeper analyze and summarize into why Nikkei 225 is at historic highs while the government is considering reducing taxes on food in Japan
+/dig deeper analyze and summarize problems of the japanese economy
 
 generate a compact one page summary  version for System Design Interviews in markdown format
 generate a compact one page summary version for Engineering Managers in markdown format
