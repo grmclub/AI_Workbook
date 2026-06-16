@@ -1,0 +1,71 @@
+
+
+-------------------------------------------------
+**Best Claude Prompts for Software Development**
+
+### Code Generation
+```
+Act as a senior software engineer. Write clean, production-ready [language] code for [task]. Follow [specific style guide or principles]. Include proper error handling, type hints (if applicable), and comments explaining non-obvious logic. Output only the code unless asked otherwise.
+```
+
+### Code Review & Refactoring
+```
+Review the following code as a principal engineer. Identify issues related to performance, readability, security, and maintainability. Suggest specific refactored code with explanations for each improvement.
+```
+
+### Debugging
+```
+Debug the following issue. Analyze the code and error/output. Identify the root cause, explain why it happens, and provide a fixed version of the code with minimal changes.
+```
+
+### System Design & Architecture
+```
+Act as a staff-level engineer. Design a scalable architecture for [system description]. Include:
+- High-level components and responsibilities
+- Technology choices with justification
+- Data flow and key interfaces
+- Scalability and failure considerations
+Keep the response structured and concise.
+```
+
+### Testing
+```
+Write comprehensive tests for the following code. Include unit tests, edge cases, and integration tests where relevant. Use [testing framework] and follow best practices for test organization and naming.
+```
+
+### Documentation
+```
+Generate clear, concise documentation for this code/module. Include:
+- Purpose and responsibilities
+- Public API/methods
+- Usage examples
+- Important implementation notes
+Target audience: other developers.
+```
+
+### Performance Optimization
+```
+Analyze the code for performance bottlenecks. Identify the most impactful optimizations, explain the reasoning, and provide optimized code with before/after complexity analysis.
+```
+
+### Learning / Explanation
+```
+Explain the following code or concept as if mentoring a mid-level developer. Break down the key ideas, design decisions, and potential trade-offs in clear, structured language.
+```
+
+**Tips for Best Results:**
+- Be specific about language, framework, and constraints
+- Provide relevant code context when possible
+- Ask for step-by-step reasoning on complex tasks
+- Use follow-up prompts like “Make it more idiomatic” or “Add error handling”
+
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
+
