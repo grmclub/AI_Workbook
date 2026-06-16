@@ -1,0 +1,173 @@
+
+-------------------------------------------------
+Universal Master Prompt
+prompt:
+Act as an expert critical thinker and problem-solving advisor.
+
+For the problem below:
+1. Clarify the problem statement.
+2. Identify assumptions and missing information.
+3. Analyze root causes.
+4. Generate multiple solution options.
+5. Evaluate trade-offs, risks, and benefits.
+6. Challenge the conclusions from an opposing viewpoint.
+7. Recommend the best course of action.
+8. Provide a step-by-step implementation plan.
+9. Define metrics for success.
+10. Highlight uncertainties and areas requiring further investigation.
+
+Problem:
+[Insert problem here]
+Key Principle
+Strong critical thinking comes from:
+Defining the problem accurately
+Questioning assumptions
+Using evidence over intuition alone
+Considering multiple perspectives
+Evaluating trade-offs and risks
+Testing conclusions before acting
+Measuring outcomes and adjusting accordingly
+
+##Universal Problem Understanding Template
+
+1. Problem:
+   What exactly is happening?
+
+2. Current State:
+   Where are we now?
+
+3. Desired State:
+   Where do we want to be?
+
+4. Stakeholders:
+   Who is affected?
+
+5. Root Causes:
+   Why is this happening?
+
+6. Constraints:
+   What limits possible solutions?
+
+7. Missing Information:
+   What do we still need to know?
+
+8. Core Problem:
+   What is the real issue to solve?
+
+Understand → Diagnose → Structure → Clarify → Solve
+-------------------------------------------------
+Summarize Poylas approach to problem solving
+
+POLYA'S 4 STEPS
+
+1. Understand the Problem
+   - Identify knowns and unknowns
+   - Clarify objectives and constraints
+
+2. Devise a Plan
+   - Select a strategy
+   - Consider alternatives
+
+3. Carry Out the Plan
+   - Execute systematically
+   - Monitor progress
+
+4. Look Back
+   - Verify results
+   - Reflect and learn
+
+Formula:
+Understand → Plan → Execute → Reflect
+
+Help me understand this problem using the following structure:
+
+1. Define the problem clearly.
+2. Describe the current and desired states.
+3. Identify stakeholders.
+4. List assumptions and constraints.
+5. Apply 5 Whys to uncover root causes.
+6. Map key factors and dependencies.
+7. Identify risks and uncertainties.
+8. Highlight missing information.
+9. Reframe the problem in alternative ways.
+10. Summarize the core issue that needs solving.
+
+Problem:
+[Insert problem]
+
+-------------------------------------------------
+Best Prompts for Critical Thinking and Problem Solving
+
+Purpose
+Use these prompts to improve analysis, decision-making, troubleshooting, strategic planning, and creative problem-solving. They help uncover assumptions, evaluate evidence, identify risks, and generate stronger solutions.
+
+1. Define the Problem Clearly
+prompt:
+Act as a critical thinking expert. Help me define the real problem behind this situation. Separate symptoms from root causes, identify constraints, and rewrite the problem statement clearly.
+
+2. Root Cause Analysis
+prompt:
+Analyze this issue using the 5 Whys method and identify the most likely root causes. Distinguish between direct causes, contributing factors, and underlying systemic causes.
+
+3. Challenge Assumptions
+prompt:
+Review my reasoning and identify hidden assumptions, biases, unsupported conclusions, and areas where evidence is weak or missing.
+
+4. First-Principles Thinking
+prompt:
+Break this problem down into its fundamental truths and assumptions. Rebuild possible solutions from first principles rather than relying on conventional approaches.
+
+5. Decision Analysis
+prompt:
+Evaluate the available options using criteria such as cost, risk, impact, feasibility, and long-term consequences. Rank the options and explain the reasoning.
+
+6. Devil’s Advocate Review
+prompt:
+Act as a skeptical expert. Critique my proposal, identify weaknesses, challenge assumptions, and explain what could cause failure.
+
+7. Scenario Planning
+prompt:
+Create best-case, worst-case, and most-likely scenarios for this situation. Identify triggers, risks, opportunities, and recommended actions for each.
+
+8. Systems Thinking
+prompt:
+Analyze this problem as a system. Identify stakeholders, feedback loops, dependencies, bottlenecks, unintended consequences, and leverage points for improvement.
+
+9. Structured Problem Solving
+prompt:
+Use a structured framework to solve this problem:
+1. Define the problem
+2. Gather evidence
+3. Identify causes
+4. Generate options
+5. Evaluate trade-offs
+6. Recommend actions
+7. Define success metrics
+
+10. Risk Assessment
+prompt:
+Identify all significant risks associated with this decision. Estimate likelihood and impact, then propose mitigation strategies and contingency plans.
+
+11. Comparative Analysis
+prompt:
+Compare these alternatives objectively. Highlight strengths, weaknesses, risks, opportunities, and situations where each option performs best.
+
+12. Red Team Review
+prompt:
+Act as a red team. Attempt to find flaws, vulnerabilities, overlooked risks, and failure points in this plan. Suggest improvements to strengthen it.
+
+13. Generate Creative Solutions
+prompt:
+Provide 10 unconventional but practical solutions to this problem. Explain the reasoning, benefits, drawbacks, and implementation considerations for each.
+
+14. Evidence-Based Evaluation
+prompt:
+Evaluate this claim using available evidence. Separate facts, assumptions, opinions, and uncertainties. Estimate confidence levels for each conclusion.
+
+15. Action Plan Development
+prompt:
+Convert the analysis into a practical action plan with priorities, milestones, timelines, required resources, risks, and measurable success indicators.
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
