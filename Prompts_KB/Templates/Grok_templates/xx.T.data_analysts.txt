@@ -1,0 +1,106 @@
+
+-------------------------------------------------
+Best Prompts for Data Analysis (One Page Summary)
+
+1) Clarify the Goal + Success Criteria
+prompt:
+Act as a senior data analyst. I need to answer: “[business question]”.
+Ask up to 7 clarifying questions, then propose:
+- the key metric(s) and success criteria
+- the minimal data required
+- assumptions/risks
+Keep it concise.
+
+2) Exploratory Data Analysis (EDA) Plan
+prompt:
+Create a structured EDA plan for a dataset with columns: [list columns] and target: [target].
+Include: data quality checks, univariate/bivariate analyses, segmentations, and charts to produce.
+Output as a checklist.
+
+3) Quick Dataset Profiling (with Findings)
+prompt:
+Given this dataset summary/sample: [paste sample or describe], identify likely data issues
+(missingness, outliers, leakage, duplicates, inconsistent categories) and propose fixes.
+Provide a prioritized “fix-first” list.
+
+4) SQL: Query Writing + Validation
+prompt:
+Write SQL (dialect: [Postgres/BigQuery/Snowflake]) to compute [metric] by [dimensions]
+from tables: [schema/table list]. Include:
+- assumptions about joins/filters
+- a validation query to sanity-check totals
+- notes on edge cases (nulls, time zones, duplicates)
+
+5) Python/R Analysis Notebook Skeleton
+prompt:
+Generate a clean analysis notebook outline for [question].
+Use [Python + pandas / R + tidyverse]. Include sections:
+imports, data loading, cleaning, EDA, feature creation, analysis/modeling, conclusions.
+Provide starter code blocks.
+
+6) Hypothesis Testing / Experiment Analysis
+prompt:
+Design and analyze an A/B test for [change]. Provide:
+- hypothesis, primary/secondary metrics
+- sample size approach (inputs + method)
+- statistical test choice and assumptions
+- pitfalls (peeking, multiple comparisons)
+
+If I paste results, compute effect size and interpret in plain language.
+7) Cohort / Retention / Funnel Analysis
+prompt:
+Help me build a [retention/funnel/cohort] analysis for [product].
+Define events, time windows, cohort definitions, and key charts.
+Then provide SQL to compute the cohort table and retention curves.
+
+8) Segmentation & Drivers
+prompt:
+Identify the top drivers of [outcome metric]. Propose segmentations (by [dims]),
+then recommend methods (correlation, regression, tree-based, SHAP) and how to validate.
+Return: ranked hypotheses + analysis plan.
+
+9) Forecasting (Practical, Not Just Theoretical)
+prompt:
+Propose a forecasting approach for [time series metric] with seasonality [daily/weekly/etc].
+Include: baseline model, candidate models, features, backtesting setup, evaluation metrics,
+and how to handle anomalies and missing data.
+
+10) Anomaly Detection & Monitoring
+prompt:
+Design an anomaly detection and monitoring plan for [metric] at [granularity].
+Include: expected patterns, detection method, alert thresholds, debouncing,
+and example SQL/Python to compute rolling baselines.
+
+11) Data Visualization Critique + Improvements
+prompt:
+Critique my chart/table described as: [description or paste]. Improve it by:
+- choosing better chart types
+- clarifying labeling/scales
+- highlighting key comparisons
+- adding annotations
+Return a revised spec and, if possible, code in [matplotlib/seaborn/ggplot].
+
+12) Executive Summary / Storytelling
+prompt:
+Turn these findings into a 1-page executive summary for [audience].
+Include: context, key insights (3–5 bullets), quantified impact, recommended actions,
+risks/limitations, and next steps. Keep jargon minimal.
+Here are the findings: [paste].
+
+##Make It Better” Follow-ups (Reusable)
+prompt:
+Rewrite this analysis to be more rigorous (check assumptions, confounders, leakage).
+Provide 3 alternative explanations for the result and how to test each.
+
+##List the top 10 sanity checks I should run before sharing this.
+
+Tips to Get Best Outputs
+Specify: goal, grain, timeframe, definitions (events/metrics), SQL dialect, tools.
+Paste: schema, sample rows, error messages, or summaries to reduce ambiguity.
+Ask for: validation queries + edge cases to avoid silent mistakes.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
