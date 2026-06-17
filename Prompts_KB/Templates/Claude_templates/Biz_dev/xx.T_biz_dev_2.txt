@@ -68,6 +68,146 @@ No more guessing. No more undercharging.
 "Act as a business growth consultant. Analyze my current income stream or business model [describe business]. Identify weaknesses, missed opportunities, and bottlenecks. Then provide practical recommendations for increasing revenue, improving profitability, and scaling faster."
 -------------------------------------------------
 -------------------------------------------------
+📌 1. Strategic Social Media Blueprint (From Scratch → Scalable)
+"You're a senior social media strategist working with high-growth brands.
+Analyze my business and build a complete strategy that includes:
+– positioning and unique angle
+– target audience breakdown (pain points, desires, behavior)
+– competitor gaps I can exploit
+– content themes aligned with my goals
+– growth opportunities across platforms
+Business details:
+– Niche: [INSERT NICHE]
+– Audience: [INSERT AUDIENCE]
+– Offer: [INSERT OFFER]
+– Goals: [INSERT GOALS]"
+
+📌 2. Authority Content Framework (Content Pillars That Convert)
+"You're my content strategist.
+Based on my niche and expertise, create 5 high-impact content pillars that:
+– build authority
+– attract the right audience
+– naturally lead to monetization
+For each pillar, include:
+– purpose of the pillar
+– 5–7 post ideas
+– best format (text, video, carousel, etc.)
+Niche: [INSERT NICHE]
+Expertise: [INSERT SKILLS/KNOWLEDGE]"
+
+📌 3. 30-Day Content System (Consistency Without Burnout)
+"Act as a growth-focused content planner.
+Create a 30-day content calendar tailored to my audience and goals.
+Include:
+– daily post ideas
+– content format (reels, threads, carousels, etc.)
+– objective (engagement, reach, conversion)
+– hook angle for each post
+Goal: [INSERT GOAL]
+Platform: [INSERT PLATFORM]"
+
+📌 4. Scroll-Stopping Post Generator (High Engagement Writing)
+"Act as a viral content creator.
+Write a high-performing social media post on this topic: [INSERT TOPIC]
+Structure:
+– powerful hook that creates curiosity
+– clear, simple value delivery
+– actionable takeaway
+– strong call-to-action (comments, saves, shares)
+Tone: [INSERT TONE: bold, conversational, educational]"
+
+📌 5. Short-Form Video Script Engine (For Reels/Shorts)
+"Act as a short-form video strategist.
+Create a script for a 30–60 second video on: [INSERT TOPIC]
+Include:
+– scroll-stopping opening line
+– fast-paced value delivery
+– visual cues or scene suggestions
+– strong closing CTA
+Platform: [Instagram / TikTok / YouTube Shorts]"
+
+📌 6. Engagement & Community Growth System
+"Act as a community growth expert.
+Design a strategy to increase engagement on my content.
+Include:
+– comment hooks and conversation starters
+– storytelling angles that spark emotion
+– techniques to turn viewers into active followers
+– ways to build a loyal community
+Audience: [INSERT AUDIENCE]"
+
+📌 7. Content Performance Optimization (What to Fix + Scale)
+You're a social media analyst.
+Review my recent content and strategy: [INSERT DETAILS OR POSTS]
+Break down:
+– what’s working and why
+– what’s underperforming and why
+– patterns in high-performing content
+– specific improvements to increase reach, engagement, and conversions
+Goal: data-driven growth.
+
+-------------------------------------------------
+30 Claude commands to never need a team.
+
+MONEY (5 commands)
+## /cash-snapshot shows your cash outlook
+## /invoice-draft writes invoices fast
+## /price-check runs margin math
+## /tax-estimate flags missed deductions
+## /expense-sweep scans bank statements
+
+MARKETING (5 commands)
+## /content-plan builds a 30-day calendar
+## /post-draft writes in your voice
+## /email-sequence drafts 5 nurture emails
+## /landing-page writes offer page copy
+## /ad-copy creates 5 ad variations
+
+OPS & ADMIN (5 commands)
+## /sop-draft documents any process
+## /inbox-triage drafts top 5 replies
+## /week-plan builds your task list
+## /meeting-brief preps client calls
+## /client-tracker shows your pipeline
+
+CLIENT & SALES (5 commands)
+## /lead-brief researches prospects
+## /proposal-draft writes proposals
+## /follow-up sends tone-matched replies
+## /contract-check reviews agreements
+## /scope-lock prevents scope creep
+
+CONTENT (5 commands)
+## /newsletter-draft writes newsletters
+## /repurpose splits into 5 pieces
+## /caption-batch generates 10 captions
+## /video-script writes 60-second scripts
+## /thread-writer builds X threads
+
+RESEARCH (5 commands)
+## /competitor-scan analyzes 3 rivals
+## /trend-brief pulls weekly trends
+## /idea-validate stress-tests your ideas
+## /audience-map profiles your buyer
+## /pricing-audit compares your rates
+
+Before Claude:
+✗ Invoices took 45 minutes
+✗ Follow-ups fell through cracks
+✗ Content was always last priority
+✗ Admin ate my entire Monday
+
+After Claude:
+✓ /invoice-draft writes it in 30 seconds
+✓ /follow-up adjusts tone automatically
+✓ /content-plan maps 30 days ahead
+✓ /week-plan prioritizes by revenue
+
+Most people use Claude for chatting.
+Smart solopreneurs use it to operate.
+-------------------------------------------------
+
+-------------------------------------------------
 
 -------------------------------------------------
 -------------------------------------------------
