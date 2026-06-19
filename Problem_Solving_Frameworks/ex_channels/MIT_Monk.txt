@@ -834,7 +834,7 @@ Would you like to explore the "Three Originals" framework from the video, or div
 ⏳ 2. R – Retain (Spaced Repetition)
     • The Concept: Human memory naturally follows a steep forgetting curve, discarding up to 70% of new data within 24 hours (2:18).
     • The Science: Timing your reviews perfectly prevents you from studying too early (where the brain doesn't work hard enough) (5:24) or waiting too long (where you must rebuild the memory from scratch) (5:32).
-    • Action Item: Leverage flashcards and digital spaced repetition tools like RemNote to automate review intervals (7:39) so you don't have to remember when to study (7:46). [1]
+    • Action Item: Leverage flashcards and digital spaced repetition tools like RemNote to automate review intervals (7:39) so you don't have to remember when to study (7:46). 
 	
 🕸️ 3. A – Associate (The Connected Web)
     • The Concept: Isolated facts are fragile and highly prone to retrieval failure under pressure (1:41). True retention relies on building a connected web of information inside your mind (9:01).
@@ -849,7 +849,7 @@ Would you like to explore the "Three Originals" framework from the video, or div
 -------------------------------------------------
 ##Give Me 12 Minutes To Fix Your Attention Span (Before It's Too Late) 
 
-The provided video details the "Three R Framework" and the "SOS Framework", which are cognitive systems designed to reclaim your attention span from modern digital distractions. [1]
+The provided video details the "Three R Framework" and the "SOS Framework", which are cognitive systems designed to reclaim your attention span from modern digital distractions. 
 
 # The Three R Framework: Systemic Focus Redesign
 This initial framework focuses on redesigning your physical and digital workspace to remove the temptation of distraction (3:16). It is built on the scientific principle that fighting distractions with raw willpower burns valuable cognitive cycles and ultimately fails (3:26).
@@ -896,6 +896,33 @@ Watch his comprehensive guide on mastering self-education and transforming your 
 
 Would you like a deeper breakdown of a specific tool mentioned in these videos, such as the ACTOR framework for studying or his behavioral systems design?
 -------------------------------------------------
+## This Gemini/NotebookLM System Will Make You SO Smart It Feels Illegal 
+
+On Sandeep Swadia’s channel, Sandeep Swadia | theMITmonk, the most popular videos center around using cognitive science, AI, systems design, and behavioral psychology to maximize human productivity, career trajectory, and mental clarity.
+Here are the most popular standout videos on his channel along with summaries of their core lessons:
+
+🧠 1. How To Become Dangerously Self-Educated (with AI)
+    • Core Concept: This video breaks down why traditional reading advice fails and addresses the "illusion of fluency"—mistaking passive consumption for real comprehension.
+    • The Framework: It teaches the ACTOR framework (Aim, Compress, Test, Own, Run) to treat reading like a focused mission. 
+    • Key Takeaway: It outlines how to use AI as a thinking partner and reframing tool to query materials actively rather than just skimming through summaries. 
+	
+⏳ 2. How Living a Slow and Boring Life Made Me a Millionaire
+    • Core Concept: Drawing from his personal journey of being a homeless youth in Mumbai to a millionaire CEO in New York, Sandeep explains why slowing down accelerates long-term career success. 
+    • The Framework: The video targets the "productivity prison" of endless, shallow multitasking sprints. 
+    • Key Takeaway: True professional leverage comes from leaning into the brain's deep-thinking capabilities and leveraging the compound power of continuous, uninterrupted incremental changes (Kaizen). 
+	
+🛠️ 3. Why You’re Working Hard But Still Falling Behind (Master These Skills)
+    • Core Concept: Aimed at people who feel like they are working at maximum capacity but remain professionally stagnant.
+    • The Framework: The lesson outlines 7 high-income internal habits modeled after elite performers like Jensen Huang and Jony Ive.
+    • Key Takeaway: True top performance requires mastering high-level cognitive skills that allow you to systematically convert daily work chaos into clarity. 
+	
+🗂️ 4. Success Is Hard Until You Build Systems Like This
+    • Core Concept: This video addresses why relying entirely on raw willpower is a losing battle because it functions as a finite biological resource that drains by evening. 
+    • The Framework: It explores how elite athletes and high performers design environment-based systems and autopilot routines to bypass the need for constant mental effort. 
+    • Key Takeaway: Simple, robust behavior architecture and environmental triggers are far more reliable than relying on self-discipline. 
+
+Watch his comprehensive guide on mastering self-education and transforming your learning process using AI tools
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
