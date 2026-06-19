@@ -924,7 +924,61 @@ Here are the most popular standout videos on his channel along with summaries of
 Watch his comprehensive guide on mastering self-education and transforming your learning process using AI tools
 
 -------------------------------------------------
+## Four-Part Human Intelligence Architecture 
+
+The Four-Part Human Intelligence Architecture is a cognitive systems framework 
+designed to integrate advanced AI tools into your daily workflow without losing your human edge or critical thinking capacity.
+
+##The 2-Million Token Engine
+The AIM Framework: To steer this power, use the Actor, Input, Mission framework.
+Actor: Define the persona (e.g., “World-class resume editor”).
+Input: Provide the full context (job descriptions, notes, research).
+Mission: Set a precise, measurable outcome.
+
+https://medium.com/@hiranart/building-a-four-story-human-intelligence-architecture-547bcb175eca
+=============
+Retrieval-Augmented Generation (RAG) is an effective way of providing an LLM with additional datasets from various data sources without the need for expensive fine-tuning. Similarly, agentic RAG leverages an AI agent‘s ability to plan and execute subtasks along with the retrieval of relevant information to supplement an LLM’s knowledge base. This allows for the optimization and greater scalability of RAG applications.
+
+
+Key Steps to Build It
+    1. Document Ingestion: Gather your PDFs, Markdown notes, or text files.
+    2. Chunking & Embedding: Split your documents into smaller, logical paragraphs and encode them into numerical vectors.
+    3. Semantic Search: When you ask a question, the retriever scans these vectors to find the most contextually relevant chunks.
+    4. Generation: The retrieved text chunks are combined with your prompt and fed into your local LLM to generate a cited, personalized answer.
+=============
+
 -------------------------------------------------
+Vector databases:
+
+what is a vector database
+A vector database is a specialized storage system designed to hold and search numerical representations of data called vectors or embeddings
+
+Unlike traditional databases that look for exact matches (like text strings or numbers), vector databases search for conceptual similarity and meaning. 
+How It Works
+    • Data Conversion: Raw data (text, images, audio) is passed through an AI model.
+    • Vector Creation: The model converts this data into a string of numbers (a vector).
+    • Spatial Mapping: These numbers plot the data as a point in a multi-dimensional space.
+    • Semantic Proximity: Pieces of data with similar meanings are plotted close to each other. 
+
+The Core Technology: Similarity Search
+Instead of using traditional database indexes, vector databases use specialized algorithms like Approximate Nearest Neighbor (ANN). 
+When you submit a query: 
+
+    1. Your question is converted into a vector.
+    2. The database measures the mathematical distance (e.g., Cosine similarity) between your query vector and stored vectors.
+    3. It instantly returns the closest matches, even if the exact keywords do not match.
+
+Common Use Cases
+    • Retrieval-Augmented Generation (RAG): Supplying local files as context to LLMs.
+    • Recommendation Systems: Finding products or videos similar to a user's past choices.
+    • Semantic Search: Powering search engines that understand intent instead of exact keywords.
+    • Anomaly Detection: Identifying fraud by spotting data points that sit far away from normal clusters. 
+
+Popular Vector Databases
+    • Dedicated Vector DBs: Chroma, Qdrant, Milvus, and Pinecone.
+    • Traditional DB Extensions: pgvector (for PostgreSQL) and Redis.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
