@@ -1,0 +1,615 @@
+
+https://www.facebook.com/profile.php?id=61565779293097
+
+-------------------------------------------------------------
+##Turn a Simple Idea Into a Live Business Using Claude 4.8 
+
+📌 1. Business Validation Accelerator
+"You're a startup strategist and market researcher.
+I want to build a business around this idea: [INSERT IDEA]
+Analyze it and provide:
+The ideal target audience
+The biggest problem it solves
+Existing competitors
+What makes this idea unique
+Market demand indicators
+Potential pricing models
+Risks and challenges
+Whether I should proceed, pivot, or abandon the idea...
+Finish by giving me a simple validation plan I can execute within 7 days without spending more than [$BUDGET]."
+
+📌 2. Find the Fastest Path to Revenue
+"Act as a lean startup consultant.
+My business idea is: [INSERT IDEA]
+I don't want a perfect business. I want the fastest path to my first paying customer.
+Create:
+A minimum viable offer (MVO)
+What I should sell first
+Suggested pricing
+What I should ignore for now
+The fastest customer acquisition channels
+A 14-day launch roadmap
+Optimize everything for speed, simplicity, and cash flow."
+
+📌 3. Build My Entire Business Model
+"Act as a business architect.
+Using this idea: [INSERT IDEA]
+Create a complete business blueprint including:
+Business name ideas
+Revenue streams
+Customer segments
+Acquisition channels
+Key partnerships
+Operating costs
+Profit projections
+Growth opportunities
+Present everything in a simple one-page business model canvas."
+
+📌 4. Create My Offer & Sales System
+"Act as a direct-response marketing expert.
+My business idea is: [INSERT IDEA]
+Create a compelling offer that people would find difficult to ignore.
+Include:
+Core offer
+Bonus ideas
+Guarantee options
+Pricing strategy
+Value stack
+Sales angle
+Objection handling
+Why customers should buy now
+Make the offer feel irresistible while remaining ethical."
+
+📌 5. Build My Launch Content Machine
+"Act as a content strategist and social media growth expert.
+I'm launching: [INSERT BUSINESS]
+Create a 30-day content strategy designed to attract potential customers.
+Include:
+Daily post ideas
+Video content ideas
+Storytelling angles
+Educational content
+Engagement posts
+Authority-building content
+Soft-sell posts
+Launch announcement posts
+Optimize for Facebook, LinkedIn, Threads, and Instagram."
+
+📌 6. Create My First Sales Funnel
+"You're my conversion optimization expert.
+My product/service is: [INSERT PRODUCT]
+Build a simple sales funnel that I can launch immediately.
+Include:
+Lead magnet idea
+Landing page structure
+Email sequence
+Sales page framework
+Follow-up process
+Customer onboarding process
+Focus on simplicity and high conversion."
+
+📌 7. Turn My Idea Into a 30-Day Execution Plan
+"Act as my business accountability coach.
+My business idea is: [INSERT IDEA]
+Create a detailed day-by-day action plan to launch this business before the end of the month.
+For each day include:
+Main objective
+Specific tasks
+Time estimate
+Recommended tools
+Expected outcome
+Assume I can dedicate [X HOURS PER DAY] and have a budget of [$BUDGET].
+The goal is to go from idea to first customer to live business within 30 days."
+
+
+-------------------------------------------------------------
+## Grok Users Are Turning Simple Ideas Into Revenue
+
+📌 1. Fast-Track Your Earning Potential with Future-Proof Skills
+Prompt:
+"Based on my existing knowledge and interests [insert your current skills/interests], what are 5 high-income skills I can master within 3–6 months? For each skill, give potential earnings, learning resources, and steps to start earning from it fast."
+
+📌 2. Freelance Like a Pro: Build a Path to Paid Work
+Prompt:
+"I want to start freelancing using my background in [insert your field/experience]. Suggest 3 profitable freelance niches I could pursue. For each, outline the services I can offer, where to find my first clients, and a simple roadmap to my first $1,000."
+
+📌 3. Passive Income That Fits You
+Prompt:
+"Using my interests and skill set [insert here], recommend 3 passive income models I can start today. Break down setup steps, required tools or platforms, expected startup time, and when I can realistically begin seeing income."
+
+📌 4. Earn More by Doing Less: Productivity Hacks for Busy People
+Prompt:
+"I’m currently managing [insert your situation: e.g., 9-5 job + side hustle]. Give me 5 high-impact productivity hacks tailored to this lifestyle so I can free up time and channel it into growing my income streams."
+
+📌 5. Low-Cost Business Ideas with Big Upside
+Prompt:
+"I’m working with a tight budget but want to start a business to multiply my income. Suggest 5 business ideas that require minimal upfront investment. For each, list potential revenue, setup steps, and how I can scale over time."
+
+📌 6. Turn Knowledge into Cash: Sell Digital Products
+Prompt:
+"Using my expertise in [insert niche/industry], recommend 5 digital products I could create and sell. Include steps to develop each product, platforms to launch on, and a marketing tip to get sales from day one."
+
+📌 7. Influence Without Followers: Content That Pays
+Prompt:
+"I’m new to content creation and starting with zero audience. What are 3 practical ways I can earn through platforms like YouTube, TikTok, Instagram, or blogging? Give me a strategy for audience growth and monetization."
+
+📌 8. Let It Run on Autopilot: Systems for Sleep-Earning
+Prompt:
+"I want to generate income on autopilot using my strengths in [insert your skills or interests]. Suggest 3 automated revenue streams I can build. For each, share setup steps, tools I’ll need (mention Grok if relevant), and how long until I see results."
+
+
+
+-------------------------------------------------------------
+📌 1. Multi-Task Execution System
+“Act as a high-performance workflow coordinator.
+I need to complete these tasks simultaneously:
+[TASK LIST]
+Requirements:
+– break each task into subtasks
+– assign each workflow independently
+– identify dependencies between tasks
+– prioritize based on urgency and impact
+– provide progress tracking summaries
+– combine final outputs into one organized result.”
+
+📌 2. Full Project Audit & Optimization Prompt
+“Analyze this entire project workspace: [UPLOAD FILES/FOLDER].
+Review and identify:
+– technical debt
+– architectural weaknesses
+– security risks
+– outdated systems or dependencies
+– performance bottlenecks
+– scalability concerns
+Then create a prioritized action plan based on impact, urgency, and implementation difficulty.”
+
+📌 3. Persistent Project Memory Prompt
+“I’m currently working on: [PROJECT NAME].
+Here is the full project context you should retain:
+[PASTE CONTEXT]
+From this point forward:
+– reference this context automatically
+– maintain consistency across responses
+– remember goals, constraints, and terminology
+– summarize what information you will retain for future conversations.”
+
+📌 4. Deep Problem-Solving Framework
+“I’m dealing with this challenge: [PROBLEM].
+Before solving it:
+– determine the appropriate reasoning depth (quick, moderate, deep analysis)
+– identify missing information
+– challenge hidden assumptions
+– evaluate possible risks and trade-offs
+Then provide the most strategic solution with clear reasoning.”
+
+📌 5. Critical Thinking & Risk Detection Prompt
+“Review everything discussed so far in this conversation.
+Identify:
+– flawed assumptions
+– weak logic
+– overlooked risks
+– areas where confidence may exceed evidence
+– potential unintended consequences
+Challenge my thinking objectively before I proceed.”
+
+📌 6. Long-Term Workflow Assistant
+“This project will continue over an extended period: [PROJECT DETAILS].
+Track and retain:
+– previous decisions
+– evolving requirements
+– experiments already attempted
+– lessons learned
+– unresolved issues
+Use long-term context management so future discussions remain accurate and consistent.”
+
+📌 7. Cross-System Integration Architect
+“I’m working with two separate systems/projects:
+– Project A: [DETAILS]
+– Project B: [DETAILS]
+Analyze both and provide:
+– integration opportunities
+– required APIs/endpoints
+– shared data structures
+– migration strategy
+– compatibility risks
+– implementation roadmap
+Explain what could break and how to avoid issues during integration.”
+
+Chinonso Victor
+ I just launched a (FREE) WhatsApp Channel for daily AI prompts.
+>> If you want to create faster, write smarter, and use AI like a pro…
+🔥Join here - whatsapp.com/channel/0029VbCGjaE23n3XCSfoj83X
+
+-------------------------------------------------------------
+📌 1 | The R.I.S.E. Prompt Architecture
+(Role → Instruction → Specifics → Examples)
+This framework upgrades vague requests into professional-grade instructions.
+Instead of asking for output, you define the thinking environment first.
+How to use it:
+Assign a credible role
+Give one clear task
+Lock in constraints (scope, length, timeframe)
+Show what “good” looks like
+Prompt:
+ROLE: You are a senior product manager at a B2B SaaS company.
+INSTRUCTION: Create a product roadmap presentation.
+SPECIFICS: Target Q2 2025, focus on enterprise features, max 10 slides.
+EXAMPLES: Slide format = Title → 3 bullets → 1 success metric per slide.
+
+🔥Why it works:
+Models perform better when they know who they are, what they’re doing, and how success is measured.
+
+📌 2 | The C.O.D.E. Prompt System
+(Context → Objective → Details → Examples)
+This structure mirrors how AI researchers internally guide models, and it shows.
+Instead of dumping a task, you frame the situation, then narrow the outcome.
+Prompt:
+CONTEXT: I’m launching a B2B AI tool for marketing teams.
+OBJECTIVE: Write 5 LinkedIn posts that drive demo signups.
+DETAILS: Each post should be 150–200 words, include a hook, pain point, solution, and CTA.
+EXAMPLES: Hook style “Most marketers lose 10 hours/week on [problem]. Here’s how to fix it in minutes.”
+
+🔥Why it works:
+Context prevents generic answers.
+Details prevent rambling.
+Examples anchor quality.
+
+📌 3 | The Sequential Chain Method
+(Think in steps, not blocks)
+Asking for everything at once kills quality.
+High-performing prompts break thinking into stages.
+You don’t just get better output, you get editorial control.
+Prompt flow:
+Step 1: Generate 10 content ideas about [topic].
+Step 2: Rank the top 3 based on audience relevance and demand.
+Step 3: Create a detailed outline for the #1 idea.
+Step 4: Write only the introduction (200 words max).
+Best used for:
+Content (idea → outline → draft → polish)
+Strategy (research → framework → execution)
+Code (logic → pseudocode → build → refine)
+
+🔥Why it works:
+Each response becomes input, not noise.
+You guide the model instead of reacting to it.
+
+📌 4 | The Persona + Constraint Stack
+(Precision through pressure)
+If you want sharp answers, corner the model with rules.
+Stack constraints until fluff has nowhere to hide.
+Prompt:
+You are a venture capital partner reviewing early-stage startups.
+Respond in exactly 3 short paragraphs.
+Use only evidence-based reasoning.
+End with a single decision: Invest or Pass.
+If Pass, give exactly 2 reasons, no more, no less.
+Pitch: [Paste content]
+
+🔥Why it works:
+Constraints force discipline.
+Discipline forces clarity.
+Clarity produces insight.
+
+
+
+-------------------------------------------------------------
+📌 1. Strategic Social Media Blueprint (From Scratch → Scalable)
+"You're a senior social media strategist working with high-growth brands.
+Analyze my business and build a complete strategy that includes:
+– positioning and unique angle
+– target audience breakdown (pain points, desires, behavior)
+– competitor gaps I can exploit
+– content themes aligned with my goals
+– growth opportunities across platforms
+Business details:
+– Niche: [INSERT NICHE]
+– Audience: [INSERT AUDIENCE]
+– Offer: [INSERT OFFER]
+– Goals: [INSERT GOALS]"
+
+📌 2. Authority Content Framework (Content Pillars That Convert)
+"You're my content strategist.
+Based on my niche and expertise, create 5 high-impact content pillars that:
+– build authority
+– attract the right audience
+– naturally lead to monetization
+For each pillar, include:
+– purpose of the pillar
+– 5–7 post ideas
+– best format (text, video, carousel, etc.)
+Niche: [INSERT NICHE]
+Expertise: [INSERT SKILLS/KNOWLEDGE]"
+
+📌 3. 30-Day Content System (Consistency Without Burnout)
+"Act as a growth-focused content planner.
+Create a 30-day content calendar tailored to my audience and goals.
+Include:
+– daily post ideas
+– content format (reels, threads, carousels, etc.)
+– objective (engagement, reach, conversion)
+– hook angle for each post
+Goal: [INSERT GOAL]
+Platform: [INSERT PLATFORM]"
+
+📌 4. Scroll-Stopping Post Generator (High Engagement Writing)
+"Act as a viral content creator.
+Write a high-performing social media post on this topic: [INSERT TOPIC]
+Structure:
+– powerful hook that creates curiosity
+– clear, simple value delivery
+– actionable takeaway
+– strong call-to-action (comments, saves, shares)
+Tone: [INSERT TONE: bold, conversational, educational]"
+
+📌 5. Short-Form Video Script Engine (For Reels/Shorts)
+"Act as a short-form video strategist.
+Create a script for a 30–60 second video on: [INSERT TOPIC]
+Include:
+– scroll-stopping opening line
+– fast-paced value delivery
+– visual cues or scene suggestions
+– strong closing CTA
+Platform: [Instagram / TikTok / YouTube Shorts]"
+
+📌 6. Engagement & Community Growth System
+"Act as a community growth expert.
+Design a strategy to increase engagement on my content.
+Include:
+– comment hooks and conversation starters
+– storytelling angles that spark emotion
+– techniques to turn viewers into active followers
+– ways to build a loyal community
+Audience: [INSERT AUDIENCE]"
+
+📌 7. Content Performance Optimization (What to Fix + Scale)
+You're a social media analyst.
+Review my recent content and strategy: [INSERT DETAILS OR POSTS]
+Break down:
+– what’s working and why
+– what’s underperforming and why
+– patterns in high-performing content
+– specific improvements to increase reach, engagement, and conversions
+Goal: data-driven growth.
+
+
+
+-------------------------------------------------------------
+📌 Step 1: Upload your food image
+PROMPT:
+Analyze the uploaded food image and transform it into a cinematic floating-ingredient food advertisement. Keep the original dish recognizable while separating all ingredients into a dynamic levitating composition. Ingredients, garnishes, sauces, seasonings, crumbs, herbs, and particles should float naturally around the hero food item. Professional studio lighting, dramatic food styling, premium commercial advertising composition, dark contrasting background, realistic food physics, steam, splashes, flying particles, ultra-detailed textures, photorealistic, HDR, 8K, luxury restaurant campaign aesthetic, frozen-motion food photography, mouth-watering presentation.
+
+
+
+-------------------------------------------------------------
+📌 1. Choose a Problem, Not Just a Niche
+Don’t chase trends.
+Focus on a specific problem people already want solved.
+Money follows urgency, not interest.
+
+📌 2. Become Known for One Clear Solution
+Avoid trying to do everything.
+Pick ONE problem
+→ deliver ONE strong solution
+Clarity beats variety every time.
+
+📌 3. Turn Your Profile Into a Conversion Page
+Your profile should instantly answer:
+– Who do you help?
+– What problem do you solve?
+– Why should people trust you?
+If it’s not clear, people won’t follow.
+
+📌 4. Build Authority Through Repetition
+Authority isn’t about titles.
+It’s about explaining something so well
+that people remember you for it.
+Repeat your core message in different ways.
+
+📌 5. Share Practical, Actionable Content
+Skip generic motivation.
+Focus on:
+– step-by-step ideas
+– frameworks
+– real examples
+Content people save = content that sells later.
+
+📌 6. Create a Simple Free Resource
+Start small:
+– a checklist
+– a short guide
+– a simple framework
+The goal is to turn attention into an audience.
+
+📌 7. Mention It Consistently (Without Being Spammy)
+Don’t hide your offer.
+Explain:
+– what it does
+– who it helps
+– why it matters
+
+📌 8. Launch a Simple Paid Product
+Don’t overcomplicate it.
+Start with:
+👉 a low-ticket product
+Solve the same problem…
+but deeper and faster.
+
+📌 9. Collect Proof as You Grow
+You don’t need a big brand.
+You need:
+– testimonials
+– results
+– feedback
+Proof builds trust faster than anything else.
+
+📌 10. Move Your Audience to Email
+Social media gets attention.
+Email builds relationships.
+Threads = visibility
+Email = conversion
+Product = income
+
+
+
+-------------------------------------------------------------
+📌 1. Strategic Profile Weakness Audit
+“You’re a senior LinkedIn positioning consultant specializing in [INDUSTRY].
+Here is my current LinkedIn profile:
+– Headline: [PASTE]
+– About section: [PASTE]
+– Experience: [PASTE]
+My target role/client type: [TARGET ROLE OR AUDIENCE]
+Analyze my profile and identify:
+– unclear positioning
+– weak messaging
+– missing trust signals
+– missing industry keywords
+– sections that reduce credibility or conversion
+Then rank the top 5 improvements by impact.”
+
+📌 2. High-Impact Headline Rewriter
+“Rewrite my LinkedIn headline to improve visibility, positioning, and clarity.
+Requirements:
+– clearly explain what I do
+– identify who I help
+– include searchable industry keywords
+– avoid generic buzzwords
+– sound professional and memorable
+Create 3 versions with different positioning angles.”
+
+📌 3. Authority-Based About Section Builder
+“Rewrite my LinkedIn About section to sound more credible, valuable, and results-driven.
+Structure it using:
+strong positioning statement
+specialization/expertise
+measurable impact or achievements
+ideal audience or collaboration opportunities
+Tone requirements:
+– natural and confident
+– easy to read
+– focused on outcomes and value
+Word limit: 120–150 words.
+
+📌 4. Experience Section Transformation Prompt
+“Rewrite my LinkedIn experience section for stronger impact and relevance.
+For each role:
+– replace task-based descriptions with achievement-focused language
+– highlight measurable results when possible
+– align the wording with my target industry/role
+– remove weak or repetitive phrases
+Important:
+Do not invent metrics or accomplishments.”
+
+📌 5. Recruiter First-Impression Simulation
+“You’re a recruiter reviewing my LinkedIn profile for the first time with only 20 seconds available.
+Tell me:
+– what stands out immediately
+– what feels unclear or weak
+– what professional level I appear to be at
+– whether you would contact me (and why)
+Then provide final recommendations to improve credibility, clarity, and positioning.”
+
+-------------------------------------------------------------
+📌 1/ Idea Miner
+Most creators repeat surface-level takes. This prompt forces AI to dig where people aren’t looking yet.
+Prompt:
+“Find 5 under-discussed ideas within [TOPIC] that make people instantly curious. Avoid common advice, overused talking points, and beginner-level explanations. Prioritize ideas that feel slightly uncomfortable, contrarian, or overlooked.”
+
+📌 2/ Angle Distiller
+Great content is not about what you say, but about how you frame it.
+Prompt:
+“Take this idea: [PASTE IDEA]. Generate 5 different angles for it; educational, contrarian, emotional, analytical, and experiential. Explain why each angle would resonate with a specific type of audience.”
+
+📌 3/ Audience Mind Reader
+Most captions fail because they talk at people, not to them.
+Prompt:
+“Describe what my ideal audience is secretly thinking but not saying about [TOPIC]. Identify their frustrations, doubts, misconceptions, and unspoken desires, then suggest content directions that would make them feel ‘this was written for me.’”
+
+📌 4/ Pattern Breaker
+This is how you avoid sounding like every other creator in your niche.
+Prompt:
+“Analyze the most common phrases, hooks, and advice used in [MY NICHE] content. List what’s overused, predictable, or boring, then rewrite my idea [PASTE IDEA] in a way that deliberately breaks those patterns.”
+
+📌 5/ Insight Translator
+Raw thoughts are messy. Viral content is clarity.
+Prompt:
+“Take this raw thought, lesson, or experience: [PASTE TEXT]. Strip out unnecessary detail, simplify the language, and translate it into a sharp insight a smart but busy reader would understand in under 15 seconds.”
+
+One interesting observation is that captions are becoming less about describing a post and more about starting a conversation. The strongest creators seem to use captions to create curiosity, provide context, and invite participation rather than simply explaining what's in the content. That's where engagement often happens.
+
+
+-------------------------------------------------------------
+📌 1/ Retention-First Script Architect
+Most creators ask AI to “write a script.” While pros design for watch time first.
+>> Prompt:
+“Act as a YouTube retention strategist. Structure a video on [TOPIC] with a 5-second hook, pattern interrupts every 20–30 seconds, open loops, and a payoff at the end. Explain why each section keeps viewers watching.”
+
+📌 2/ Audience Pain Decoder
+Views come from relevance, not production quality.
+>> Prompt:
+“Analyze my target audience for [NICHE]. Identify their top 5 frustrations, misconceptions, and emotional triggers, then suggest video angles that feel uncomfortably specific.”
+
+📌 3/ Idea Validation Simulator
+Don’t publish and hope. Pressure-test ideas before recording.
+>> Use This Prompt:
+“Evaluate this video idea: [PASTE IDEA]. Predict who would click, who would ignore it, and why. Then refine the concept to increase curiosity and clarity.”📌 4/ Hook Variations Generator
+One idea can die or explode depending on the first sentence.
+>> Prompt:
+“Generate 10 radically different hooks for this video [TOPIC], curiosity-driven, contrarian, emotional, data-backed, and story-based. Rank them by likely click-through rate.”
+
+📌 4/ Hook Variations Generator
+One idea can die or explode depending on the first sentence.
+>> Prompt:
+“Generate 10 radically different hooks for this video [TOPIC], curiosity-driven, contrarian, emotional, data-backed, and story-based. Rank them by likely click-through rate.”
+
+📌 5/ Title–Thumbnail Psychology Match
+Great videos fail when title and thumbnail fight each other.
+>> Prompt:
+“Design a title-and-thumbnail pair for [VIDEO IDEA]. Explain the psychological role of each, what the thumbnail implies and what the title confirms without clickbait.”
+
+📌 6/ Post-Publish Optimization Coach
+Growth doesn’t stop at upload.
+>> Use This Prompt:
+“Analyze my last video’s performance [PASTE METRICS OR FEEDBACK]. Identify where viewers likely dropped off and suggest specific script or pacing changes for the next upload.”
+
+-------------------------------------------------------------
+AI prompts for Entrepreneurs
+
+📌 1: Finding Passive Income Ideas from a Skill
+'Act as a digital product strategist. My skill is [skill]. My experience level is [beginner/intermediate/expert]. My target audience is [audience]. Give me 15 passive income product ideas I can create from this skill. For each idea, include: what the product is, who buys it, what problem it solves, creation difficulty, launch speed, best sales platform. Sort them from easiest to make money to highest long-term potential.'
+
+📌 2: Turn a Skill into a Beginner-Friendly Digital Product
+'Help me turn my [skill] skill into a simple digital product that I can sell online. My audience is [audience]. Suggest 10 products that don't require advanced technical skills. Focus on products I can create using simple tools like Google Docs, Canva, Notion, or spreadsheets. For each one, give me the product name, format, price range, creation steps, and why people would buy it.'
+
+📌 3: Create a product ladder from low-price to high-end
+'Act as a product ecosystem expert. My skills are [skills], my audience is [audience]. Build a 4-tier product ladder for me: low-price, medium-price, high-end digital, and recurring product. Each product should naturally connect to the next. For each tier, explain what you're selling, price range, delivery format, buyer type, and how it leads to the next product.'
+
+📌 4: Find the Fastest Product I Can Launch in 7 Days
+'I want a passive income product that I can create in 7 days using my [skill] skills. I can spend [X] hours per day. My audience is [audience]. Give me 7 product ideas I can complete quickly. For each one, include a day-by-day creation plan, required tools, estimated selling price, and expected difficulty. Emphasize speed, simplicity, and the best option for a first sale.'
+
+📌 5: Match My Skills with Popular Buyer Problems
+'I have skills in [skill]. My target audience is [audience]. List the top 15 real problems this audience is actively trying to solve that I can help address with my skills. Then transform each problem into a passive income product idea. Make the ideas practical, sellable, and easy to understand. Show the problem, product idea, promised transformation, and possible buying intent.'
+
+📌 6: Validate what people would actually pay for
+'Act as a market validation researcher. I want to sell a passive income product based on [skill] to [audience]. Give me 10 product ideas, then score each idea from 1-10 based on demand, urgency, creation difficulty, uniqueness, and purchase likelihood. After that, tell me which 3 ideas are most likely to generate revenue the fastest and why.'
+
+📌 7: Build Products from My Existing Knowledge
+'I don't want to start from scratch. Help me transform the [skills] knowledge I already know into digital products. Ask: What tasks do I repeat often, what do I explain frequently, what shortcuts do I use, what mistakes do I help people avoid, and what frameworks have I already followed? Then turn these into 10 passive income products, including clear formats, title ideas, and ideal customers.'
+
+📌 8: Create a Complete Digital Product Outline
+'I want to create a [product type] about [topic] for [audience]. Build a complete outline for me. Include the product title, promise, chapters/modules, content within each chapter, bonus ideas, quick win elements, and final deliverable structure. Make it simple, useful, and worth paying for. Keep it practical, not academic.'
+
+📌 9: Correctly Pricing Products
+'I have this digital product idea: [product idea]. My audience is [audience]. Compare 3 pricing options: low, medium, and high. For each one, the explanation should include what it should encompass, what type of buyer it attracts, expected conversion logic, and pros and cons. Then recommend the best starting price if I want early sales and recommendations.'
+
+📌 10: Select the Best Sales Platform
+'I want to sell passive income products related to [skill]. Compare the best platforms for me, such as Gumroad, Etsy, Payhip, Shopify, Notion Marketplace, or my own website. Based on my product type [product type], audience [audience], and goals [goals], tell me which platform is best and why. Include fees, setup difficulty, traffic potential, and beginner-friendliness.'
+
+
+
+
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------

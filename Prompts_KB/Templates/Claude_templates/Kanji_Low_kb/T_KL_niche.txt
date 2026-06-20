@@ -1,0 +1,408 @@
+
+-------------------------------------------------------------
+1/ Find Your Money Niche I am [AGE] years old with interest in [TOPICS]. I want to make money on YouTube with AI. Analyze and give me:
+* Top 5 niches with highest CPM rates
+* Which niche fits my age & interests
+* Competitor gap analysis for each niche
+* Realistic income potential at 1K/10K/100K subs
+* Which niche can I start TODAY with zero budget
+
+
+2/ Script Generator I run a [NICHE] YouTube channel and want to go viral. Write me a full video script that:
+* Opens with a hook that stops the scroll in 3 seconds
+* Follows the PAS framework (Problem, Agitate, Solution)
+* Includes pattern interrupts every 60 seconds
+* Has a strong CTA that drives comments
+* Is optimized for 8-12 minute watch time
+* Includes timestamps and b-roll suggestions
+
+3/ Title & Thumbnail Formula I'm creating a video about [TOPIC] for [NICHE]. Generate:
+* 10 click-worthy titles using proven formulas
+* Which emotion each title triggers
+* Thumbnail text (max 4 words) for each title
+* Color psychology recommendation per thumbnail
+* A/B test pairs ranked by predicted CTR
+* The #1 title + thumbnail combo and why
+
+
+4/ AI Automation Workflow Design a complete YouTube automation system for a [NICHE] channel with $0 budget. Map out:
+* Free AI tools for each production step
+* Script → Voiceover → Edit → Thumbnail workflow
+* Time required per video (target under 2 hours)
+* Batch production system for 1 month of content
+* Upload schedule for maximum algorithm boost
+* How to run 3 channels simultaneously
+* When to reinvest first earnings into paid tools
+
+5/ SEO & Algorithm Hack My YouTube channel is about [NICHE] and I'm targeting [AUDIENCE]. Build me a complete SEO strategy:
+* 20 low-competition, high-volume keywords to target
+* Tag strategy for maximum discoverability
+* Description template with keyword placement
+* Playlist structure to boost session time
+* Best upload times for my audience timezone
+* How to rank on Page 1 within 30 days
+
+6/ Faceless Channel Blueprint I want to build a faceless YouTube channel in [NICHE]. Design the complete brand identity:
+* Channel name options (5 variations)
+* Brand voice and content pillars
+* Avatar/logo concept using free tools
+* Intro template under 5 seconds
+* Stock footage sources (free & paid)
+* How to sound human using AI voiceover
+* First 10 video ideas to establish authority
+
+7/ Monetization Multiplier My YouTube channel has [X] subscribers in [NICHE]. Map out every income stream available to me:
+* AdSense eligibility checklist and timeline
+* 3 digital products I can sell this week
+* Affiliate programs with highest commissions in my niche
+* Sponsorship email template to pitch brands
+* Community/membership pricing strategy
+* How to hit $10K/month without 1M subscribers
+
+8/ 90-Day Launch Plan I'm starting a YouTube channel from zero in [NICHE]. Give me a day-by-day roadmap for:
+* Week 1: Channel setup and first video checklist
+* Week 2-4: Content calendar and posting rhythm
+* Month 2: Growth tactics and collaboration outreach
+* Month 3: Monetization activation sequence
+* Daily time commitment (target under 2 hours/day)
+* Milestones to hit at Day 30, 60, and 90
+* What to do if growth stalls at any stage
+
+-------------------------------------------------------------
+-For the last two years, we've been prompting agents one task at a time.
+Ask it to build the landing page. Drive every step yourself. Prompt. Wait. Prompt again.
+That's starting to change.
+
+-Agent looping is a setup you build.
+Instead of driving every step, you wire up a cycle that handles discovery, planning, execution, checking, and iteration — until the goal is met.
+You stop prompting each step. The agent repeats the cycle for you.
+
+
+-At its simplest, one agent loops on itself:
+→ Researches
+→ Drafts
+→ Checks the draft against a goal
+→ Fixes what's weak
+→ Runs the cycle again until the work clears your requirements
+No hand-holding. No babysitting. It keeps going until it's done
+-------------------------------------------------------------
+PROMPT 1 — The Niche Dominator
+"I want to start a YouTube channel in [niche]. Analyse the top 10 channels in this space and identify: (1) content gaps they're NOT covering, (2) the 3 most viral video formats, (3) a 90-day content calendar with 12 video ideas ranked by viral potential. Give me a positioning statement that makes my channel unmissable."
+
+PROMPT 2 — The Viral Title Machine
+"Here is my video idea: [describe idea]. Write 10 YouTube title variations using MrBeast's framework — curiosity gap, extreme outcome, personal stakes. Score each one out of 10 for click-through potential and tell me why. Then give me the winner."
+
+PROMPT 3 — The Script Architect
+"Write a full YouTube script for this video: [title]. Use this structure: (1) Hook — first 15 seconds must make them unable to click away, (2) Promise — tell them exactly what they'll get, (3) Content — broken into 3-5 punchy chapters, (4) Pattern interrupts every 90 seconds, (5) CTA that drives comments and watch time. Match the energy of MrBeast — fast, visual, high stakes."
+
+PROMPT 4 — The Thumbnail Brief
+"Create a detailed thumbnail design brief for this video: [title]. Include: (1) facial expression to use and why, (2) background scene or colour, (3) text overlay — max 5 words, (4) props or visual elements, (5) colour psychology breakdown. Reference what makes MrBeast thumbnails stop the scroll and apply it here."
+
+PROMPT 5 — The Hook Lab
+"Write 5 different opening hooks for this video: [title]. Each hook must be under 15 seconds when spoken aloud. Use these formats: (1) Shocking statement, (2) Impossible promise, (3) Visual challenge, (4) Personal story, (5) Direct provocation. Tell me which one wins and why."
+
+PROMPT 6 — The Description SEO Closer
+"Write a YouTube video description for: [title and 2-sentence summary]. Include: (1) keyword-rich first 2 sentences for SEO, (2) timestamps for each section, (3) CTA to subscribe and comment, (4) links section, (5) hashtags. Optimise for both search ranking and viewer action."
+
+PROMPT 7 — The Community Growth Engine
+"I just posted this video: [title]. Write: (1) A pinned comment that sparks 50+ replies, (2) 5 comment reply templates I can use on viewer responses, (3) A YouTube Community post to tease the next video, (4) A short-form hook (Shorts/Reels) based on the best 60 seconds of this video."
+
+PROMPT 8 — The Data Analyst
+"Here are my last 5 YouTube video titles, view counts, and watch time percentages: [paste data]. Analyse what's working and what's not. Identify: (1) My top content pattern, (2) Where viewers are dropping off and why, (3) 3 data-backed video ideas I should make next, (4) One thing I should immediately stop doing."
+
+
+
+-------------------------------------------------------------
+1/ Astrology Mode Activation
+"Act as an experienced astrologer, and birth-chart analyst. Your task is to create a detailed astrological reading. Before giving any interpretation, ask me every important question required to build the most complete profile possible. Once you have enough information, provide a structured interpretation covering personality, strengths, weaknesses, relationships, career tendencies, financial tendencies, life themes, and personal growth opportunities.
+
+2/ Complete Birth Chart Reading
+"Act as an expert astrology consultant. First collect my complete birth information. Then generate a comprehensive birth-chart-style interpretation covering personality traits, emotional tendencies, communication style, relationships, career inclinations, hidden strengths, recurring life patterns, challenges, and growth areas. Explain each section in beginner-friendly language.
+
+3/ Life Themes & Purpose
+"Using my birth details and astrological profile, identify major life themes, motivations, talents, lessons, and areas where I may naturally thrive. Focus on self-discovery and personal development rather than certainty or guaranteed predictions.
+
+4/ Career & Success Astrology
+"Based on my astrological profile, identify career paths, work environments, leadership tendencies, natural talents, communication strengths, and professional growth opportunities that may align with my personality traits and motivations.
+
+5/ Relationship Compatibility
+"Act as an astrologer specializing in relationship analysis. Collect the birth details of both individuals and generate a compatibility reading discussing communication styles, emotional needs, strengths of the relationship, potential areas of friction, and ways to improve understanding.
+
+-------------------------------------------------------------
+Claude Code Routines ship work while your laptop is closed.
+You save a prompt + repo + connectors once, attach a trigger (schedule, API call, or GitHub event), and Anthropic runs it on their cloud. No terminal open. No machine on.
+The work still ships.
+
+1️⃣ /auto-review — reviews every PR you open before you wake up
+2️⃣ /weekly-digest — drafts Friday's customer changelog from merged PRs
+3️⃣ /standup — posts what shipped, what's in flight, what's blocked to Slack at 9am
+4️⃣/triage-prod — fires on Sentry alerts and opens draft fix PRs
+5️⃣ /docs-drift — catches API changes weekly and opens the docs update PR
+6️⃣ /backlog-sweep — labels, assigns, and closes stale Linear issues every night
+7️⃣ /deploy-check — runs smoke tests after every prod push and posts go/no-go in Slack
+8️⃣ /client-brief — turns any call transcript into a structured brief with action items, posts to Notion and threads to Slack within 90 seconds of the call ending
+Set up once. They keep working when you don't.
+
+Claude COWORK masterclass
+-------------------------------------------------------------
+Anthropic has never publicly announced these. But users have tested them repeatedly, and Claude often gives very different answers with the codes vs. without them.
+Here are 5:
+
+01. /ghost — Place it before your prompt to get a more natural, human-like response that can even pass AI detection tools.
+02. Artifacts — Add it after your prompt and Claude will generate an app, site, or dashboard directly inside the chat.
+03. OODA — Place it before your prompt and Claude applies a military-style decision framework to analyze and solve your problem.
+04. L99 — Add it after your prompt and Claude delivers the most advanced, expert-level response possible.
+05. /godmode — Place it before your prompt to unlock Claude's most powerful, comprehensive response style.
+
+If the codes don't work for you:
+Solution 1: Create a separate Project inside Claude. Add this to project memory: "Use secret codes whenever provided in the prompt accordingly." Then use the codes inside that project.
+
+Solution 2: Use Claude on desktop through the browser instead of the app. The browser version is usually more updated and more stable with newer features.
+
+
+
+-------------------------------------------------------------
+##Video creator
+
+1/ Hook Opener
+Prompt: “You are a YouTube editor who has worked on videos with 10M+ views. Your job is to write the first 15 seconds of a video about [TOPIC — e.g. "I gave 100 strangers $1,000 each"].
+The hook must do THREE things simultaneously:
+1. Create an open loop the viewer cannot mentally close without watching
+2. Show — don't tell — the stakes (use a visual or number, never the word "incredible" or "amazing")
+3. End on an incomplete sentence or unanswered question
+Output format:
+— SPOKEN WORDS (with delivery note in brackets)
+— ON-SCREEN TEXT (font size: large/medium/small)
+— VISUAL CUE (what the camera shows)
+— SOUND EFFECT (describe the audio bed)
+— WHY THIS HOOK WORKS (2 sentences max)
+Do not use the words: crazy, insane, unbelievable, epic, amazing.”
+
+2/ B-roll director
+Prompt: “You are a senior video editor at a top-tier YouTube production studio. I'm going to give you a script. Your job is to build a shot-by-shot B-roll breakdown.
+Rules:
+— Maximum 2.5 seconds per shot before a cut or motion change
+— Every shot must have an EMOTIONAL INTENT (curiosity / tension / relief / excitement)
+— Alternate between wide, medium, and close-up shots — never two wides in a row
+— Flag any moment that needs a "pattern interrupt" (sound design shift, zoom punch, freeze frame)
+For each shot output:
+SHOT # | TIMECODE | SHOT TYPE | CAMERA MOTION | ON-SCREEN TEXT | EMOTIONAL INTENT | EDITOR NOTE
+[PASTE YOUR SCRIPT HERE]”
+
+3/ Thumbnail designer
+Prompt: “You are a YouTube thumbnail strategist. Your thumbnails average 8–12% CTR. Design a thumbnail for this video: [TITLE — e.g. "I Ate Only McDonald's For 30 Days"].
+Apply these rules:
+— The human face (if present) must show ONE clear emotion — no neutral expressions
+— Max 4 words of text, minimum 80pt font, high contrast against background
+— Use the "curiosity gap" principle: the thumbnail should raise a question the title doesn't answer
+— Colours must create contrast against YouTube's white and dark backgrounds
+Output:
+1. THUMBNAIL CONCEPT A — describe scene, face, text, colours, focal point
+2. THUMBNAIL CONCEPT B — an alternative angle or emotion
+3. WHY A WILL OUTPERFORM B (be specific about psychology)
+4. GEMINI IMAGE GEN PROMPT — ready to paste, photorealistic style, under 100 words.”
+
+4/ Full video script
+Prompt: “You are a YouTube scriptwriter. Your videos consistently hold 60%+ audience retention. Write a full script for: [TITLE — e.g. "I Survived On $1 A Day For 30 Days"].
+Script architecture:
+— 0:00–0:15 — Hook: open a loop, show the stakes visually, end incomplete
+— 0:15–1:00 — Setup: establish the rules, introduce the person, seed 3 future payoffs
+— 1:00–3:30 — Rising action: escalate difficulty every 90 seconds, drop a "mini-reveal" at each escalation
+— 3:30–4:30 — Crisis or twist: the moment everything nearly falls apart
+— 4:30–4:50 — Resolution: pay off all 3 seeded payoffs from the setup
+— 4:50–5:00 — CTA: one ask only, tied emotionally to the story
+For every 60 seconds of script, include:
+[RETENTION NOTE] — what keeps viewers watching through this section
+Banned phrases: "smash that like button", "without further ado", "in today's video", "let's get started"
+
+5/ Retention surgeon
+Prompt: “You are a YouTube retention analyst. You've reviewed thousands of videos using analytics data. Audit this script and find every point where a viewer's brain will decide "I've seen enough."
+For each problem, categorise it as one of:
+— PREDICTABILITY DROP (viewer knows what's coming next)
+— PACING DRAG (too long on one idea)
+— STAKES COLLAPSE (stakes feel lowered or resolved too early)
+— RELEVANCE BREAK (viewer loses the "why should I care")
+For each issue, rewrite the section using ONE of these fixes:
+— Open loop injection
+— Unexpected number or stat drop
+— Perspective flip
+— Micro-cliffhanger
+Show BEFORE / AFTER for each. End with a PREDICTED RETENTION SCORE improvement estimate (e.g. "+8–12% average view duration").
+[PASTE SCRIPT HERE]”
+
+6/ Title & SEO engine
+Prompt “You are a YouTube SEO strategist and title copywriter. Generate 10 titles for a video about [TOPIC — e.g. "extreme budget meal prep"].
+Each title must use ONE of these proven CTR frameworks (label which framework you used):
+— THE CHALLENGE: "I [did extreme thing] for [time period]"
+— THE CONTRAST: "[Big number] [thing] vs [opposite thing]"
+— THE REVELATION: "The truth about [topic] nobody tells you"
+— THE STAKES: "I almost [lost/failed/quit] because of [specific thing]"
+— THE RESULT: "[Specific outcome] in [specific timeframe]"
+For each title also output:
+— SEARCH INTENT (what is the viewer actually looking for?)
+— EMOTIONAL TRIGGER (the psychological pull)
+— WEAKNESS (what could make this underperform)
+Then rank all 10 by CTR potential and name your top pick with a one-paragraph defence.”
+
+7/ Short-form repurpose machine
+Prompt: You are a short-form content strategist who repurposes long YouTube videos into viral clips. Extract 5 short-form videos from this script. Each clip must be 45–60 seconds.
+For each clip:
+PLATFORM FIT — which performs best on: Reels / TikTok / Shorts (and why)
+HOOK (first 3 words spoken — must create pattern interrupt without context)
+SCRIPT — the full spoken words, tightened for short-form pacing
+CUT LIST — on-screen text at each visual cut, max 5 words per line
+CAPTION — 2 punchy lines + 1 question to drive comments + 5 hashtags
+THUMBNAIL FRAME — describe the exact still frame to use as cover
+Rule: no clip can start with "In this video" or reference the long-form video. Each clip must be completely self-contained.
+[PASTE LONG-FORM SCRIPT HERE]”
+
+8/ 10-video content calendar
+Prompt: “You are a YouTube channel strategist. Build a 10-video content calendar for a channel in this niche: [NICHE — e.g. "personal finance for Australian millennials"].
+The 10 videos must include this mix:
+— 3 x Search-driven videos (people are already looking for this)
+— 3 x Trend-driven videos (timely, shareable, newsworthy angle)
+— 2 x Authority videos (positions the creator as the go-to expert)
+— 2 x Viral-potential videos (high shareability, emotional or shocking angle)
+For each video output:
+TITLE | CONTENT TYPE | ONE-LINE PREMISE | EMOTIONAL HOOK | STORY ARC (3 beats) | THUMBNAIL CONCEPT | MONETISATION SIGNAL (brand deal category, affiliate angle, or product tie-in)
+End with: which 3 videos to film FIRST and why — based on effort-to-impact ratio.”
+
+1. Claude.ai (solve any problem)
+2. Perplexity.ai (research anything)
+3. Syllaby.io (Faceless AI videos)
+4. Luma.ai (create 3D models)
+5. Suno.ai (compose music)
+6. Higgsfield (AI Visuals)
+7. Submagic.co (Edit videos)
+8. RecCloud.com (summarize YouTube)
+9. Canva.com (design graphics)
+10. ElevenLabs.io (clone voices)
+11. OpenClawengine.xyz (OpenClaw Deployment)
+
+-------------------------------------------------------------
+1️⃣ Design Idea Generator
+Act as a senior UI/UX designer.
+I want to create a design for [platform: Instagram / website / app].
+Return:
+• 5 design concepts
+• Layout structure
+• Color style
+• Typography suggestions
+👉 Start with direction, not tools.
+
+2️⃣ Social Media Post Creator
+Act as a graphic designer.
+Create a high-converting post for: [topic]
+Return:
+• Headline
+• Subtext
+• Layout idea
+• Visual style
+• CTA
+👉 Content + design together.
+
+3️⃣ Carousel Design System
+Act as a content designer.
+Create a 7-slide carousel for: [topic]
+Return:
+• Slide-by-slide content
+• Hook ideas
+• Visual direction
+• Layout consistency
+👉 Perfect for Instagram growth.
+
+4️⃣ Thumbnail / Cover Generator
+Act as a YouTube + social designer.
+Create 5 thumbnail concepts for: [topic]
+Return:
+• Hook text
+• Visual idea
+• Emotion trigger
+👉 Clicks depend on design.
+
+5️⃣ Brand Style Guide
+Act as a brand strategist.
+Create a personal brand identity.
+Return:
+• Color palette
+• Font pairing
+• Visual style
+• Brand tone
+👉 Consistency = authority.
+
+
+6️⃣ Design Prompt for AI Tools
+Act as a prompt engineer.
+Convert my idea into a prompt for:
+[Midjourney / DALL·E / Leonardo]
+Return:
+• Detailed prompt
+• Style keywords
+• Composition
+👉 Better prompt = better design.
+
+7️⃣ Landing Page Wireframe
+Act as a product designer.
+Create a wireframe for: [product/service]
+Return:
+• Sections
+• Content blocks
+• Layout flow
+• CTA placement
+👉 Structure before visuals.
+
+8️⃣ Design Feedback + Improvement
+Act as a senior designer.
+Review my design: [describe/paste]
+Return:
+• Mistakes
+• Improvements
+• Better version
+👉 Iterate like a pro.
+
+
+-------------------------------------------------------------
+1. Content prompts that build your strategy for you.
+Act as a senior content strategist and create a 90-day Instagram content strategy for a creator in [NICHE] targeting [AUDIENCE]. Include weekly themes, content formats, and authority-building post ideas.
+Generate 30 high-performing content ideas for a creator in [NICHE]. For each idea include a hook and explain why the idea would attract attention.
+Turn the topic [TOPIC] into 10 scroll-stopping reel hooks that maximise curiosity and watch time.
+
+2. Understand your audience better than they understand themselves.
+Identify 10 frustrations experienced by [TARGET AUDIENCE] and explain the emotional triggers behind each problem.
+Suggest three unique positioning strategies that would help a creator in [NICHE] stand out from competitors.
+Create a detailed audience persona for [TARGET AUDIENCE], including motivations, fears, desires, and spending behaviour.
+
+3. Build a brand that actually means something.
+Write a brand positioning statement using this format: "I help [AUDIENCE] achieve [RESULT] without [COMMON PROBLEM]."
+Rewrite this Instagram bio so it sounds clearer, more confident, and authority-driven: [BIO].
+Generate 10 tagline ideas for a brand operating in the [NICHE] industry.
+
+4. Prompts that move people to buy.
+Generate 10 lead magnet ideas that creators in [NICHE] could offer to attract potential clients.
+Turn the service [SERVICE] into three irresistible offer packages with clear outcomes.
+Generate 10 marketing hooks that could be used to promote [PRODUCT].
+
+5. Stop being busy. Start getting things done.
+Design a weekly workflow system for a creator managing content creation, marketing, and client work.
+Turn this task list into a clear weekly execution plan: [TASK LIST].
+Create a content batching system that allows a creator to produce one month of content in a single day.
+
+6. Turn what you know into income.
+Generate 10 ways a creator in [NICHE] can monetise their audience.
+Suggest five digital product ideas based on this expertise: [SKILL].
+Generate 10 services creators could offer to brands in this industry.
+
+7. Build something that sells while you sleep.
+Generate 10 digital product ideas a creator in [NICHE] could sell to their audience.
+Turn the skill [SKILL] into three scalable digital product ideas with different price levels.
+Create a simple outline for a digital course teaching [TOPIC].
+
+8. The first line is everything.
+Generate 20 scroll-stopping hooks for content about [TOPIC] that trigger curiosity and make people stop scrolling.
+Rewrite this hook into 10 stronger variations that increase intrigue: [HOOK].
+Turn the topic [TOPIC] into 10 curiosity-driven content openings designed for short-form video.
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+
