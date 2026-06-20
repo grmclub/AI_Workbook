@@ -58,7 +58,7 @@ output in a box diagram in png format with Microsoft Designer
 /list best prompts for software development
 /list best prompts for skill harvesting 
 /list best prompts for extracting the architecture of a software application
-/list best prompts for extracting the architecture of a software application in aone page summary in markdown format
+/list best prompts for extracting the architecture of a software application in a one page summary in markdown format
 
 /list best prompts for project management
 
