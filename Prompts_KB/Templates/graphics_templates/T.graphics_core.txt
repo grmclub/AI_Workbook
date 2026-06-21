@@ -1,0 +1,26 @@
+-------------------------------------------------
+--Goals
+-Teaching, Training
+-Communicating, clarifying
+-selling, advertizing
+
+--Tasks
+
+##teaching
+-graphics to teach STEM
+-graphics to teach engg concepts
+
+##analyse, explain, find dependencies, bottlenecks
+-graphics to communicate architecture
+-Cutaway & Architecture Subsystems
+
+##marketing
+-graphics to generate pamphlets & fliers
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------

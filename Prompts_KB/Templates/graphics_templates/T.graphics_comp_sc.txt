@@ -1,0 +1,34 @@
+
+-------------------------------------------------
+To create high-quality diagrams for software engineering students, prompts should focus on logical flow, state transitions, and component interaction. Software architecture is often abstract, so using "physical" metaphors (like pipes, blocks, or layers) helps students grasp how systems move data and process requests.
+Here are prompts tailored for various software engineering sub-disciplines:
+
+1. Systems Architecture
+    • Monolith vs. Microservices: "An isometric split-screen diagram. Left side: A 'Monolith' shown as a single, massive, rigid 3D block with interconnected, tangled internal lines. Right side: A 'Microservices' architecture shown as a clean, organized collection of modular 3D cubes floating and connected by thin, clearly defined data-flow arrows. High-contrast, clean lines, professional infographic style."
+    • The Three-Tier Web Application: "An isometric 3D layer-cake model of a three-tier architecture. Bottom layer: A 3D database cylinder. Middle layer: A server block representing the application logic. Top layer: A translucent display representing the client/browser interface. Vertical arrows showing the request/response lifecycle between layers. Modern, minimalist, blue and white color palette."
+	
+2. Data Structures & Algorithms
+    • Graph Traversal (BFS vs. DFS): "An isometric grid showing a network of interconnected 3D nodes (a graph). Two distinct visualizations: One highlighting a 'Breadth-First Search' using expanding concentric rings of light, and another highlighting 'Depth-First Search' using a single, deep, winding path of light. Clean, technical style for educational use."
+    • Memory Management (The Heap vs. The Stack): "A conceptual 3D diagram comparing 'The Stack' and 'The Heap'. The Stack is depicted as a neat, vertical tower of memory blocks. The Heap is shown as a dispersed, randomized cloud of 3D data objects with pointers connecting them back to the stack. Stylized, high-clarity 3D render."
+	
+3. Software Development Lifecycle (SDLC)
+    • CI/CD Pipeline: "An isometric, conveyor-belt-style diagram representing a CI/CD pipeline. The belt moves through stages: 'Commit' (represented by a code icon), 'Build' (gear icon), 'Test' (check-mark icon), and 'Deploy' (cloud icon). Each stage is a 3D station. Arrows showing continuous flow, professional, clean, flat-vector aesthetic."
+    • Version Control (Git Branching Model): "A 3D visualization of a Git branching strategy (Gitflow). A central, thick glowing 'Main' line, with several 'Feature' branches branching off and eventually merging back. Use 3D nodes to represent commits. High-tech, futuristic aesthetic, clean, bright background."
+	
+4. Networking & Security
+    • API Gateway Request Flow: "An isometric diagram showing an external client sending a request through an API Gateway. The gateway is a central, glowing 3D hub that routes the request to various backend service microservices. Include visual 'shards' representing load balancing. Professional tech architecture style, neon highlights."
+    • OAuth2 Authentication Flow: "A 3D sequence diagram showing the 'Authorization Code Grant' flow. Four vertical 3D pillars represent the 'User', 'Client App', 'Authorization Server', and 'Resource Server'. Glowing data-packet spheres travel between the pillars, showing the exchange of tokens and credentials. Clear, step-by-step numbering on the paths."
+Tips for Engineering Prompts
+    • Use Perspective: Always include keywords like isometric, exploded view, or cross-section to give the AI a clear geometric instruction.
+    • Color-Coding: Mention color-coded paths or color-coded layers to ensure that different types of data (e.g., control vs. data plane) are visually distinguishable for students.
+    • Ghosting: Use translucent or ghosted materials when you need to show what is happening inside a container or service node.
+Would you like me to create a specific prompt for a more advanced software engineering concept, such as Event-Driven Architecture or Database Sharding?
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------

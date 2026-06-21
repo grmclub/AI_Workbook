@@ -1,0 +1,43 @@
+
+-------------------------------------------------
+To teach complex engineering concepts, you need prompts that emphasize precision, internal mechanics, and systemic relationships. These prompts are designed to generate high-fidelity, educational 3D visuals suitable for curriculum development or technical presentations.
+
+Hardware & Systems Engineering
+    • Processor Microarchitecture:
+      "An isometric 3D exploded-view diagram of a modern CPU core. Clearly distinguish the Control Unit, ALU (Arithmetic Logic Unit), L1 cache, and register file. Use color-coded pathways to show the flow of instruction fetching, decoding, and execution. Sleek technical aesthetic, high contrast, studio lighting, schematic annotations."
+    • PCB Signal Integrity:
+      "A macro 3D cross-section of a high-speed multi-layer printed circuit board (PCB). Visualize the trace geometry, ground planes, and dielectric layers. Include glowing 'signal flow' arrows moving through vias to demonstrate impedance matching and crosstalk. Professional engineering CAD-style render, high detail."
+    • Mechanical Gear Train Dynamics:
+      "A 3D isometric animation frame showing a complex planetary gear system in a transmission. Highlight the sun gear, planet gears, and ring gear. Use ghosted/transparent materials to show the internal mesh points. Technical blue-and-white color scheme, clear dimension labels, industrial design focus."
+	  
+Software & Distributed Systems
+    • Distributed Consensus (Raft/Paxos):
+      "An isometric architectural diagram of a distributed database cluster. Show five distinct server nodes as 3D pillars. Visualize a 'Leader' node sending heartbeat signals (glowing pulses) to 'Follower' nodes. Include a timeline at the top showing the commit log progression. Clean, minimalist infographic style, tech-focused color palette."
+    • Virtual Memory & Paging:
+      "A conceptual 3D graphic mapping virtual memory addresses to physical RAM. On the left, a tall stack of 'Virtual Pages'; on the right, a block of 'Physical Frames'. Use a central 'Page Table' as a bridge with glowing lines connecting the two. High-tech UI aesthetic, dark background, neon blue data paths."
+    • Container Orchestration (Kubernetes Cluster):
+      "An isometric view of a Kubernetes cluster. Show a Control Plane node and multiple Worker nodes. Inside the Worker nodes, visualize Pods containing multiple containers as nested 3D volumes. Use lines to represent the Service Mesh communication between pods. Modern, flat-vector isometric style, vibrant color coding."
+	  
+Electrical & Control Systems
+    • Power Grid Stability:
+      "An isometric visualization of a smart-grid electrical network. Show power generation plants, transmission towers, and smart-transformers feeding a city. Include floating UI elements (data callouts) showing real-time voltage and frequency data. Engineering infographic style, clean geometry, focus on system connectivity."
+    • Feedback Control Loop (PID Controller):
+      "A 3D conceptual loop diagram for a PID controller. Represent the 'Process,' 'Sensor,' and 'Controller' as distinct 3D nodes in a closed loop. Use different colored pipes to represent the Error, Proportional, Integral, and Derivative signals converging into the controller. Technical, schematic, high-clarity layout."
+    • Fiber Optic Data Transmission:
+      "A macro cross-section 3D render of a fiber optic cable. The core, cladding, and buffer are shown in an exploded view. Inside the core, visualize a laser beam refracting off the walls as it travels. High-quality scientific illustration, focus on total internal reflection, clean white background."
+
+Pro-Tips for Engineering Prompts
+    • Add "Exploded View": If you need students to see how parts fit together, always include the keyword exploded view.
+    • Specify Transparency: Use ghosted, translucent, or cutaway to allow viewing of internal components (like logic gates inside a chip or fluid inside a pipe).
+    • Define the "Flow": Always specify how energy, data, or signals move using terms like glowing pulse, directional arrow vectors, or streamlines.
+    • Annotated Style: If you need the diagram to serve as a study aid, add technical labels, callout lines, or legend-style annotations to the prompt.
+	
+Are you looking for prompts that focus on a specific engineering discipline, such as civil, chemical, or software engineering?
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
