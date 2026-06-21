@@ -1,0 +1,70 @@
+
+-------------------------------------------------
+Plugin spaces
+
+##Thinking partner_1
+
+1. Stop summarising. Start deciding.
+"I need to make a decision about [situation]. Don't give me a pros and cons list. Act as a senior advisor who has seen this exact decision go wrong before. Tell me the one thing most people overlook when they're in this position, the question I should be asking but aren't, and what you would actually do if this were your business."
+
+
+2. Turn a vague goal into a real plan
+"My goal is [X]. I've said this before and not followed through. Don't build me a motivation plan. Instead, identify the 3 most likely reasons someone with my background fails at this specific goal — then redesign the goal so that failure becomes structurally harder than success."
+
+3. Use Claude as a thinking partner, not a content machine
+"I'm working through a problem I can't seem to crack: [describe it]. Don't solve it for me yet. Ask me the 5 questions a world-class consultant would ask before offering a single recommendation. Then after I answer, tell me what my answers reveal about where the real problem actually is."
+
+4. Get brutal honest feedback on your work
+"Here is [my email / proposal / landing page / content piece]. I don't want encouragement. I want you to read this as a cynical, highly experienced person in this space who has seen a hundred versions of this before. Tell me the moment you would have stopped reading and exactly why. Then tell me what the top 1% version of this looks like."
+
+5. Extract a system from your own brain
+"I want to document how I do [task or process you're good at] so I can delegate it, automate it, or teach it. Interview me about it. Ask me one question at a time. Don't move to the next question until I've answered. When we're done, turn my answers into a repeatable system with clear steps, decision points, and quality standards."
+
+6. Find the leak in your business
+"Here is a snapshot of my business right now: [revenue, offers, how you get clients, how you deliver, your team]. Don't tell me what's working. Tell me where businesses at this exact stage typically leak the most money, time, and opportunity — and which of those leaks you can already see in what I've described."
+
+7. Pressure test your idea before you build it
+"I'm planning to [launch / build / invest in / pitch] this: [describe your idea]. Before I go any further, act as the smartest person in the room who wants this to succeed but won't let me deceive myself. Give me the 3 most likely reasons this fails within 90 days — not generic risks, but the specific failure modes for this exact idea given what I've told you."
+
+8. Build your unfair advantage into everything you create
+"Here is my background, experience, and what I'm building: [paste context]. I want every piece of content, every offer, and every conversation I have to carry the weight of what makes me genuinely different. Identify my actual unfair advantage — not the one I'd put on a LinkedIn bio, but the one that makes competitors quietly uncomfortable. Then show me how to embed it into [my next post / proposal / pitch] without it sounding like I'm bragging."
+
+-------------------------------------------------
+
+Prompt 1- "Act as a local business analyst. List the top 3 niches in [Your city] paying [Your Target earning] for a repetitive role AI can replace. Rank by payroll budget, urgency, and ease of install. 
+
+Pick the winner." 
+
+Solves the biggest early problem — choosing a niche fast instead of overthinking for months.
+
+Prompt 1- "Act as a local business analyst. List the top 3 niches in [Your city] paying [Your Target earning] for a repetitive role AI can replace. Rank by payroll budget, urgency, and ease of install. 
+
+Pick the winner." 
+
+Solves the biggest early problem — choosing a niche fast instead of overthinking for months.
+
+
+Prompt 2 — "Write 5 cold DMs to [Your Target region][niche] owners. Under 75 words each. Open with the specific U.S. dollar amount AI saves them on payroll. Frame me as a [Your role] with Fortune 500 experience. End with: 'Want me to send a 2-minute demo?'"
+
+Gets your first discovery calls booked without sounding desperate.
+
+Prompt 3 — "Design a 15-minute discovery call script for [niche] owner. Open with: 'What's the most expensive role in your business right now?' Map 5 pain-uncovering questions, 2 objection handlers for 'I'm not sure AI can do that,' and a soft pitch to a 30-day pilot at setup fee plus monthly recurring." 
+
+Handles the call without freezing up. Biggest confidence killer for new service business owners — solved.
+
+Prompt 4 — "Write a 1-page proposal for a [niche] business owner. Their pain: a costly role they want to automate. My solution: pre-built AI tools relevant to their workflow. Pricing: setup fee plus monthly recurring. 30-day pilot, cancel anytime. Make the value obvious in the first 3 lines."
+
+Makes the offer feel real and easy to say yes to. Nobody signs a 10-page proposal from someone they just met.
+
+
+Prompt 5 — Build me a 90-day plan to land my first clients for an AI implementation service while managing my current commitments. 
+
+Include: business registration steps, payment setup, client onboarding workflow, and key milestones. Goal: reach sustainable monthly recurring revenue by day 90.
+
+
+The bridge from idea to actual execution, with the boring but important stuff already mapped out.
+
+I've been in business for 25 years. I've never seen the cost of starting a service business this low. Not even close. Five prompts, a laptop, and the willingness to actually reach out to people — that's the whole barrier now.
+
+-------------------------------------------------
+-------------------------------------------------

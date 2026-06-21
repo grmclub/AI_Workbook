@@ -1,0 +1,146 @@
+
+-------------------------------------------------
+🚨BREAKING: Gemini can now produce videos like MrBeast's editors for free
+
+Here are 8 Gemini prompts that can create 10 viral videos in 10 minutes:
+
+1/ Hook Opener
+
+Prompt: “You are a YouTube editor who has worked on videos with 10M+ views. Your job is to write the first 15 seconds of a video about [TOPIC — e.g. "I gave 100 strangers $1,000 each"].
+
+The hook must do THREE things simultaneously:
+1. Create an open loop the viewer cannot mentally close without watching
+2. Show — don't tell — the stakes (use a visual or number, never the word "incredible" or "amazing")
+3. End on an incomplete sentence or unanswered question
+
+Output format:
+— SPOKEN WORDS (with delivery note in brackets)
+— ON-SCREEN TEXT (font size: large/medium/small)
+— VISUAL CUE (what the camera shows)
+— SOUND EFFECT (describe the audio bed)
+— WHY THIS HOOK WORKS (2 sentences max)
+
+Do not use the words: crazy, insane, unbelievable, epic, amazing.”
+
+
+2/ B-roll director
+
+Prompt: “You are a senior video editor at a top-tier YouTube production studio. I'm going to give you a script. Your job is to build a shot-by-shot B-roll breakdown.
+
+Rules:
+— Maximum 2.5 seconds per shot before a cut or motion change
+— Every shot must have an EMOTIONAL INTENT (curiosity / tension / relief / excitement)
+— Alternate between wide, medium, and close-up shots — never two wides in a row
+— Flag any moment that needs a "pattern interrupt" (sound design shift, zoom punch, freeze frame)
+
+For each shot output:
+SHOT # | TIMECODE | SHOT TYPE | CAMERA MOTION | ON-SCREEN TEXT | EMOTIONAL INTENT | EDITOR NOTE
+
+[PASTE YOUR SCRIPT HERE]”
+
+3/ Thumbnail designer
+
+Prompt: “You are a YouTube thumbnail strategist. Your thumbnails average 8–12% CTR. Design a thumbnail for this video: [TITLE — e.g. "I Ate Only McDonald's For 30 Days"].
+
+Apply these rules:
+— The human face (if present) must show ONE clear emotion — no neutral expressions
+— Max 4 words of text, minimum 80pt font, high contrast against background
+— Use the "curiosity gap" principle: the thumbnail should raise a question the title doesn't answer
+— Colours must create contrast against YouTube's white and dark backgrounds
+
+Output:
+1. THUMBNAIL CONCEPT A — describe scene, face, text, colours, focal point
+2. THUMBNAIL CONCEPT B — an alternative angle or emotion
+3. WHY A WILL OUTPERFORM B (be specific about psychology)
+4. GEMINI IMAGE GEN PROMPT — ready to paste, photorealistic style, under 100 words.”
+
+4/ Full video script
+
+Prompt: “You are a YouTube scriptwriter. Your videos consistently hold 60%+ audience retention. Write a full script for: [TITLE — e.g. "I Survived On $1 A Day For 30 Days"].
+
+Script architecture:
+— 0:00–0:15 — Hook: open a loop, show the stakes visually, end incomplete
+— 0:15–1:00 — Setup: establish the rules, introduce the person, seed 3 future payoffs
+— 1:00–3:30 — Rising action: escalate difficulty every 90 seconds, drop a "mini-reveal" at each escalation
+— 3:30–4:30 — Crisis or twist: the moment everything nearly falls apart
+— 4:30–4:50 — Resolution: pay off all 3 seeded payoffs from the setup
+— 4:50–5:00 — CTA: one ask only, tied emotionally to the story
+
+For every 60 seconds of script, include:
+[RETENTION NOTE] — what keeps viewers watching through this section
+
+Banned phrases: "smash that like button", "without further ado", "in today's video", "let's get started"
+
+5/ Retention surgeon
+
+Prompt: “You are a YouTube retention analyst. You've reviewed thousands of videos using analytics data. Audit this script and find every point where a viewer's brain will decide "I've seen enough."
+
+For each problem, categorise it as one of:
+— PREDICTABILITY DROP (viewer knows what's coming next)
+— PACING DRAG (too long on one idea)
+— STAKES COLLAPSE (stakes feel lowered or resolved too early)
+— RELEVANCE BREAK (viewer loses the "why should I care")
+
+For each issue, rewrite the section using ONE of these fixes:
+— Open loop injection
+— Unexpected number or stat drop
+— Perspective flip
+— Micro-cliffhanger
+
+Show BEFORE / AFTER for each. End with a PREDICTED RETENTION SCORE improvement estimate (e.g. "+8–12% average view duration").
+
+[PASTE SCRIPT HERE]”
+
+6/ Title & SEO engine
+
+Prompt “You are a YouTube SEO strategist and title copywriter. Generate 10 titles for a video about [TOPIC — e.g. "extreme budget meal prep"].
+
+Each title must use ONE of these proven CTR frameworks (label which framework you used):
+— THE CHALLENGE: "I [did extreme thing] for [time period]"
+— THE CONTRAST: "[Big number] [thing] vs [opposite thing]"
+— THE REVELATION: "The truth about [topic] nobody tells you"
+— THE STAKES: "I almost [lost/failed/quit] because of [specific thing]"
+— THE RESULT: "[Specific outcome] in [specific timeframe]"
+
+For each title also output:
+— SEARCH INTENT (what is the viewer actually looking for?)
+— EMOTIONAL TRIGGER (the psychological pull)
+— WEAKNESS (what could make this underperform)
+
+Then rank all 10 by CTR potential and name your top pick with a one-paragraph defence.”
+
+7/ Short-form repurpose machine
+
+Prompt: You are a short-form content strategist who repurposes long YouTube videos into viral clips. Extract 5 short-form videos from this script. Each clip must be 45–60 seconds.
+
+For each clip:
+
+PLATFORM FIT — which performs best on: Reels / TikTok / Shorts (and why)
+HOOK (first 3 words spoken — must create pattern interrupt without context)
+SCRIPT — the full spoken words, tightened for short-form pacing
+CUT LIST — on-screen text at each visual cut, max 5 words per line
+CAPTION — 2 punchy lines + 1 question to drive comments + 5 hashtags
+THUMBNAIL FRAME — describe the exact still frame to use as cover
+
+Rule: no clip can start with "In this video" or reference the long-form video. Each clip must be completely self-contained.
+
+[PASTE LONG-FORM SCRIPT HERE]”
+
+8/ 10-video content calendar
+
+Prompt: “You are a YouTube channel strategist. Build a 10-video content calendar for a channel in this niche: [NICHE — e.g. "personal finance for Australian millennials"].
+
+The 10 videos must include this mix:
+— 3 x Search-driven videos (people are already looking for this)
+— 3 x Trend-driven videos (timely, shareable, newsworthy angle)
+— 2 x Authority videos (positions the creator as the go-to expert)
+— 2 x Viral-potential videos (high shareability, emotional or shocking angle)
+
+For each video output:
+TITLE | CONTENT TYPE | ONE-LINE PREMISE | EMOTIONAL HOOK | STORY ARC (3 beats) | THUMBNAIL CONCEPT | MONETISATION SIGNAL (brand deal category, affiliate angle, or product tie-in)
+
+End with: which 3 videos to film FIRST and why — based on effort-to-impact ratio.”
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
