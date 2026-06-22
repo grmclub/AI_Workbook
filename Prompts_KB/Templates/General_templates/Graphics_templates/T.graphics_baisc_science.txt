@@ -48,7 +48,7 @@ The prompts are structured to define the specific subject, the required explanat
 ##Basic science concepts list up
 
 —-------
-–Laws of motion 
+–Laws of motion / Newtons laws of motion
 Force
 Mass
 Speed
@@ -56,15 +56,13 @@ Distance
 Velocity 
 Acceleration 
 
-Newtons laws of motion
-
-–Energy 
+–Energy  /Conservation of Energy
 Renewable
 Non renewable 
 
 – Water cycle
 – Photosynthesis 
--Conservation of energy 
+-
 
 —---+++
 Motion
