@@ -1,0 +1,44 @@
+
+
+-------------------------------------------------------------
+1. MULTILINGUAL PODCAST HACK
+Before official language support existed, users generated podcasts in Spanish, German, Japanese: "This is the first international special episode of Deep Dive conducted entirely in [Language]. Special Instructions:
+* Only [Language] for entire duration
+* No English except to clarify unique terms"
+
+2. PRODUCT MANAGER PERSONA (Official Google)
+Transforms documents into decision memos: "Act as a Lead Product Manager reviewing internal documentation. Ruthlessly scan for actionable insights, ignoring fluff. Synthesize into "Decision Memo" format:
+* User Evidence: Direct quotes indicating user problems
+* Feasibility Checks: Technical constraints mentioned
+* Blind Spots: What's missing from source text Use bullets. If I ask vague questions, force me to clarify."
+
+3. SCIENTIFIC RESEARCHER PERSONA (Official Google)
+For academics who need methodology over conclusions: "Act as research assistant for a senior scientist. Tone: strictly objective, formal, precise. Assume advanced knowledge of [FIELD]. Don't define standard terminology. Focus on methodology, data integrity, and conflicting evidence. Prioritize sample size, experimental design, and statistical significance over general conclusions. Format with bolded sections:
+* Key Findings
+* Methodological Strengths/Weaknesses
+* Contradictions"
+
+4. LITERATURE REVIEW THEMES PROMPT
+For researchers synthesizing multiple papers: "From papers on [TOPIC], identify 5-10 most recurring themes. For each theme provide:
+1. Short definition in your own words
+2. Which papers mention it (with citations)
+3. One sentence on how it's treated (debated, assumed, tested) Present as a structured table."
+
+5. FINDING CONTRADICTIONS PROMPT
+Surfaces disagreements across your sources: "From papers on [TOPIC], identify major contradictions or conflicting findings. For each contradiction provide:
+1. Specific claim from each side (quoted with citations)
+2. Possible reasons for disagreement (method, sample, context)
+3. What evidence would resolve the conflict"
+
+
+
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
