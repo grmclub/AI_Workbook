@@ -44,11 +44,59 @@ The prompts are structured to define the specific subject, the required explanat
 • The Greenhouse Effect (Atmospheric Science):
 "An educational infographic explaining the Greenhouse Effect. Sunlight (UV radiation) arrives and warms the Earth's surface. Infrared radiation is emitted back but becomes trapped by a visualized layer of greenhouse gases, heating the atmosphere. Simple, clean geometry and clear directional lighting to emphasize temperature differences."
 
-
-
-
-
 -------------------------------------------------------------
+##Basic science concepts list up
+
+—-------
+–Laws of motion 
+Force
+Mass
+Speed
+Distance 
+Velocity 
+Acceleration 
+
+Newtons laws of motion
+
+–Energy 
+Renewable
+Non renewable 
+
+– Water cycle
+– Photosynthesis 
+-Conservation of energy 
+
+—---+++
+Motion
+Force
+Heat
+Electricity 
+Light
+Sound 
+
+Modern Physics
+Atoms, sub atomic particles 
+Quantum mechanics 
+
+—---+++
+
+Computer science 
+
+Parts of a computer & accessories 
+How does it work internally 
+Disk
+Memory 
+Network 
+Programs
+-office
+-browser 
+-application - YouTube >> chu chu tv
+
+
+—-------
+
+
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
