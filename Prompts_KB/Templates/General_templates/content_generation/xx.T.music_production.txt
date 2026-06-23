@@ -1,5 +1,32 @@
 
 -------------------------------------------------
+1. Suno AI
+What it is: Creates complete songs with vocals and lyrics from a text prompt.
+Best for: Generating full song demos instantly.
+Link: suno.ai
+
+2. Lalal ai
+What it is: Top-tier service for extracting vocals and instruments from any track.
+Best for: Vocal Processing and Cleaning.
+Link: lalal.ai
+
+3. iZotope Neutron
+What it is: Mixing suite with AI that suggests optimal settings for your tracks.
+Best for: Mixing and Mastering
+Link: izotope.com
+
+4. Output's Arcade
+What it is: Vast loop library with AI that generates endless variations.
+Best for: Creative Sound Design
+Link: output.com
+
+5. Soundraw
+What it is: Generates and customizes royalty-free music loops by genre and mood.
+Best for: Finding and adapting perfect melodic loops for productions.
+Link: soundraw.io
+
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
