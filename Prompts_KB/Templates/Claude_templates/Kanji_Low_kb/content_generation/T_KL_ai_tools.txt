@@ -53,7 +53,68 @@
 50. musicforprogramming. net — focus music for deep Claude Code sessions
 
 -------------------------------------------------
+30 Days Guide to Build & Launch Your First App (With Zero Coding):
+
+The gap between you and a launched app is 30 days, not 3 years.
+
+Week 1 — Pick the idea & build the MVP with Claude.
+This week is about picking one tiny idea and shipping a working version with Claude Code.
+Your checklist for week 1:
+🌶️ Pick one tiny app idea & write a one-page PRD (what it does, who it helps, what you charge)
+🌶️ Paste the PRD into Claude Code. Let it scaffold Next js + Supabase auth + Stripe checkout
+🌶️ Push to GitHub and deploy on Vercel. Ugly is fine, working is the goal
+By the end of this week: You have a LIVE app on a real domain.
+
+Week 2 — Market it before it's perfect.
+Start posting while the app is rough. People follow the JOURNEY, not the polish. Every bug becomes a Reel.
+Your checklist for week 2:
+🌺 Post short build-in-public videos on IG, TikTok & YT Shorts
+🌺 Write LinkedIn posts about what you're learning (one lesson per post)
+🌺 Share carousels breaking down your build on IG
+
+Week 3 — Get your first paying users.
+DM the people engaging with your content and offer a FREE TRIAL in exchange for feedback.
+Your checklist for week 3:
+🌐 DM 30 people from your followers for review (no pitch, just ask)
+🌐 Share a 5-7 min YouTube demo — the asset every ad and post points back to
+🌐 Set up Stripe payment links so people can pay you in one click
+By the end of this week you have REAL users, REAL feedback, and your first revenue hitting Stripe.
+
+Week 4 — Make it properly scalable.
+Now that paying users are using it, lock down the infra so nothing breaks at 2am. This is where MOST solo founders skip steps and pay for it later. Don't.
+Your checklist for week 4:
+🌐 Add Sentry for error tracking & PostHog for analytics — so you actually see what users do and where things break
+🌐 Lock down Supabase RLS, env vars, and Stripe webhooks (the boring stuff that saves you from getting hacked)
+🌐 Set up Resend for transactional emails & Trigger dev for background jobs — so the app runs itself while you sleep
+
+
+
+
 -------------------------------------------------
+
+-A Python library called notebooklm py just dropped — and when you pair it with Claude Code's skill system, you get a fully autonomous research-to-content pipeline.
+No clicking. No browser. Just natural language commands.
+
+-What it can generate from ANY source:
+→ Audio overviews (podcasts)
+→ Video overviews
+→ Mind maps
+→ Reports
+→ Flashcards
+→ Quizzes
+→ Infographics
+→ Slide decks
+→ Data tables
+The ENTIRE NotebookLM suite. Automated.
+
+-Real-world use cases this unlocks:
+→ Drop a YouTube video URL → get a full slide deck → Feed in long-form articles → auto-generate infographics → Paste a transcript → instant mind map → Upload a course → quiz your clients on it → Research a topic → publish a podcast episode
+This is the research-to-output pipeline I've been waiting for.
+
+-For professional services firms — law, accounting, finance - this is how you turn dense technical content into client-ready formats without lifting a finger.
+Claude Code + NotebookLM = your AI research department.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
