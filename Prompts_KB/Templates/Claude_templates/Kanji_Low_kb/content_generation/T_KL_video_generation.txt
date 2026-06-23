@@ -142,5 +142,140 @@ TITLE | CONTENT TYPE | ONE-LINE PREMISE | EMOTIONAL HOOK | STORY ARC (3 beats) |
 End with: which 3 videos to film FIRST and why — based on effort-to-impact ratio.”
 
 -------------------------------------------------
+#Claude Can Now Build Your YouTube Channel Using MrBeast's $800M Strategy Playbook:
+
+1. Find Your YouTube Niche
+<role>Act as a YouTube strategist who identifies high-CPM, low-competition niches before they get crowded.</role>
+<task>Analyze the top 10 YouTube niches and deliver a ranked breakdown for someone starting from zero.</task>
+<steps>
+1. Identify 10 niches with high CPM, low competition, and evergreen demand
+2. Per niche: average CPM, content difficulty, monetization paths beyond AdSense
+3. Assign a 3-word channel concept per niche
+4. Rank by opportunity score — CPM weighted against competition level </steps>
+<rules>
+* No saturated niches unless CPM justifies the competition
+* At least 2 non-AdSense monetization paths per niche
+* Ranking must be explicit — not "all are good options" </rules>
+<output>10 Niches → CPM / Difficulty / Monetization / 3-Word Concept → Ranked by Opportunity</output>
+
+2. Build Your Channel Identity
+<role>Act as a brand strategist who builds YouTube channel identities that stand out in crowded niches.</role>
+<task>Create a complete channel identity that makes my channel immediately distinct from existing creators.</task>
+<steps>
+1. Ask for my niche before starting
+2. Generate 5 channel name options — memorable and brandable
+3. Write a tagline — one sentence that tells viewers exactly what they get
+4. Define target audience persona with specific frustrations
+5. Build 4 distinct content pillars
+6. Identify my unique mechanism — the angle no existing creator owns </steps>
+<rules>
+* Unique mechanism must be defensible — not just a different tone
+* Content pillars must not overlap
+* Tagline must pass the "so what?" test </rules>
+<output>5 Names → Tagline → Audience Persona → 4 Pillars → Unique Mechanism</output>
+
+3. 90-Day Content Roadmap
+<role>Act as a YouTube content strategist who builds 90-day roadmaps that compound authority over time.</role>
+<task>Build a 90-day content calendar balancing SEO growth and viral potential for a new channel.</task>
+<steps>
+1. Ask for my niche before starting
+2. Generate 12 video titles optimised for search
+3. Assign a sustainable upload schedule
+4. Label each video: SEO priority or virality priority
+5. Map content progression — how each video builds authority </steps>
+<rules>
+* SEO titles must include a keyword viewers actually search
+* Virality videos need a hook concept, not just a clickbait title
+* Progression must show clear authority building </rules>
+<output>12 Titles → Upload Schedule → SEO vs. Virality Labels → Authority Progression</output>
+
+4. Write a Full Video Script
+<role>Act as a YouTube scriptwriter who writes scripts that hold attention from the first second to the last.</role>
+<task>Write a complete video script that stops the scroll and drives watch time.</task>
+<steps>
+1. Ask for my video title and target audience before starting
+2. Write hook — first 30 seconds with an open loop
+3. Agitate the problem — make the viewer feel the pain
+4. Walk through the solution — specific and actionable
+5. Deliver 3 key insights worth remembering
+6. Write one CTA and tease the next video </steps>
+<rules>
+* Hook must create an open loop in the first 10 seconds
+* CTA must be one action only — never three
+* Problem agitation must feel personal, not generic </rules>
+<output>Hook → Problem → Solution → 3 Insights → CTA → Next Video Tease</output>
+
+5. SEO and Thumbnail Strategy
+<role>Act as a YouTube SEO specialist who optimises every video element for discovery and click-through rate.</role>
+<task>Build the full SEO and thumbnail strategy for one video — title, description, tags, and thumbnails.</task>
+<steps>
+1. Ask for my video topic and niche before starting
+2. Write SEO-optimised title — under 60 characters, keyword-first
+3. Create 3 thumbnail concepts with different emotional triggers and text overlay
+4. Write full description with timestamps, keywords, and CTA
+5. Generate 10 tags — mix of broad and long-tail
+6. Suggest A/B test variations for the strongest thumbnail </steps>
+<rules>
+* Title must be under 60 characters — no exceptions
+* Each thumbnail concept uses a different emotional trigger
+* Tags must include both head terms and long-tail variations </rules>
+<output>SEO Title → 3 Thumbnails → Description → 10 Tags → A/B Variations</output>
+
+6. Retention and Editing Strategy
+<role>Act as a YouTube retention specialist who structures videos so viewers never click away.</role>
+<task>Build a complete retention and editing blueprint for one video that maximises average view duration.</task>
+<steps>
+1. Ask for my video topic and current average view duration before starting
+2. Map a pattern interrupt every 60–90 seconds
+3. Write re-engagement lines for the 30%, 50%, and 70% drop-off points
+4. Suggest B-roll and visual cut strategy per section
+5. Write an end screen sequence that drives subscribers </steps>
+<rules>
+* Every pattern interrupt must change the visual or audio format
+* Re-engagement lines must reference what's still coming — not recap what passed
+* End screen must tease one specific next video, not a generic "subscribe" </rules>
+<output>Pattern Interrupt Map → 3 Re-engagement Lines → B-roll Strategy → End Screen Sequence</output>
+
+7. Channel Monetisation Plan
+<role>Act as a YouTube monetisation strategist who builds revenue stacks beyond AdSense for creator-led channels.</role>
+<task>Build a full monetisation roadmap for a channel at zero subscribers scaling to 100K.</task>
+<steps>
+1. Ask for my niche and current subscriber count before starting
+2. Identify 5 monetisation streams ranked by speed of return
+3. Map the subscriber milestone to unlock each stream
+4. Write the pitch angle for the first brand deal outreach
+5. Design a digital product that fits the channel's content pillars </steps>
+<rules>
+* AdSense must not be ranked #1 — it's a lagging indicator
+* Each monetisation stream must be achievable before 100K subscribers
+* Brand deal pitch must lead with audience value, not vanity metrics </rules>
+<output>5 Revenue Streams → Milestone Map → Brand Deal Pitch → Digital Product Concept</output>
+
+8. Viral Video Ideation System
+<role>Act as a YouTube ideation strategist who reverse-engineers why videos go viral and replicates the formula.</role>
+<task>Generate 10 high-potential video ideas engineered for shares, not just views.</task>
+<steps>
+1. Ask for my niche and top 3 competitor channels before starting
+2. Identify the emotional trigger behind each competitor's top video
+3. Generate 10 original ideas using those triggers in a fresh angle
+4. Label each idea: curiosity, controversy, aspiration, or fear driver
+5. Write a one-line hook for each idea </steps>
+<rules>
+* No idea can copy a competitor's angle — only the emotional trigger
+* Each hook must create an open loop in under 10 words
+* At least 3 ideas must have series potential, not just standalone appeal </rules>
+<output>10 Ideas → Emotional Trigger Label → One-Line Hook → Series Potential Flag</output>
+
+
+
+
+
 -------------------------------------------------
 -------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
+
