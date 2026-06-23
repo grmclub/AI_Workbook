@@ -1,0 +1,32 @@
+
+-------------------------------------------------
+1. Durable
+Durable is built for entrepreneurs who want to get online fast. You tell it your business name and what you do, and in ~30 seconds it generates a multi-page website (with copy, images, layout) ready for publishing. It also includes built-in tools like CRM, invoicing, analytics, and marketing features, so it's not just for showing your business — it helps you run it.
+🔗 durable.co / durable.ai
+
+2. TeleportHQ (AI Website Builder)
+TeleportHQ’s AI Website Builder lets you create a responsive site purely from a text prompt (often via ChatGPT style input). It then gives you editable pages, components, and even lets you export production-ready clean code (HTML, CSS, JS). It’s great if you want a mix of AI automation + developer flexibility.
+🔗 teleporthq.io
+
+3. 10Web AI Website Builder
+10Web offers an AI-powered WordPress solution, where you can spin up an AI-generated WP site (layout + content) and then fine-tune with Elementor. It also includes automatic hosting, backups, and performance optimizations (like speed boosting).
+🔗 10web.io
+
+4. Wix AI / Wix ADI (Artificial Design Intelligence)
+Wix’s AI tools ask you a few questions (what your business is, desired style, features you want), then builds a full site (layout + content) in minutes. You still retain full visual control to edit, drag things around, change styles, etc. It’s ideal for non-designers who want a polished site fast.
+🔗 wix.com
+
+5. Hostinger AI Website Builder
+Hostinger’s tool (which includes many of Zyro’s AI features) builds websites via AI by prompting you for your site type, aesthetic preferences, etc. It also offers AI content generation (AI Writer), AI heatmap for optimizing conversions, and is tightly integrated with its hosting + domain services.
+🔗 hostinger.com
+
+6. Framer AI
+Framer’s AI approach is “text to website.” You describe (in sentences) what kind of site you want (“a landing page for my cafe”, etc.), and Framer generates a starter site which you can then fully customize visually. It's particularly good for designers or creatives who want both speed and control.
+🔗 framer.com
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
