@@ -35,6 +35,33 @@ Pro-Tips for Engineering Prompts
 Are you looking for prompts that focus on a specific engineering discipline, such as civil, chemical, or software engineering?
 
 -------------------------------------------------
+o generate accurate and visually rich engineering designs using Nano Banana (and Nano Banana 2/Pro), you should treat your prompt like a strict technical brief. The core formula relies on: [Subject] + [Technical Style] + [Layout & Components] + [Annotations & Text] + [Lighting & Constraints].
+
+These tested prompt templates are tailored for engineering, architecture, and technical workflows:
+
+1. Technical Data & Visualization
+    • Prompt: "Create a clean engineering infographic that evaluates 5 production metrics for a wind turbine: 1. Rotor Speed, 2. Power Output, 3. Wind Shear, 4. Blade Stress, 5. Gearbox Temperature. For each factor, use a thin line pointing to the relevant area on a photorealistic technical diagram. Next to each label, display realistic numerical data. Use modern sans-serif typography. Premium industrial aesthetics, white background, no extra logos."
+    • Use Case: Clear, data-dense presentations for technical reviews and project management decks.
+
+2. Architectural & CAD Renders
+    • Prompt: "One-Floor House Architectural Floor Plan (with exact room dimensions and layout). Overall structure shape: rectangular, modern design. Approximate total area: 13 m × 11 m = 143 m². Entrance located on the south side. Entrance hallway size 3 m × 2.5 m connects to an open plan living room and kitchen. Photorealistic top-down architectural blueprint rendering with realistic textures (hardwood and ceramic)."
+    • Use Case: Generating precise architectural layouts, room revisions, and client pitches directly from a brief.
+
+3. Product & Hardware Concept Design
+    • Prompt: "Industrial design concept sketch of an autonomous delivery drone. Main chassis material is matte carbon fiber with brushed titanium accents. Close-up, profile angle, studio lighting on a gray backdrop. Isometric, clean CAD aesthetic, with highly visible structural seams, visible rotor mechanisms, and legible technical schematics printed on the fuselage. Shot on 85mm lens, 8k resolution."
+    • Use Case: Fast prototyping, mood-boarding concepts, and generating high-quality reference material for the industrial design process.
+
+4. Schematic & Process Flow (Diagrams)
+    • Prompt: "Design a current vs future state process map for chemical plant order fulfillment. Use a lean six sigma style with side-by-side process flows, current state in red/orange showing pain points, future state in green showing improvements, waste elimination 'X' marks, industrial efficiency aesthetic, and process engineering typography. Highly detailed, clean white background, 16:9 aspect ratio."
+    • Use Case: Process engineering, workflow mapping, and operational strategy evaluation.
+
+Pro-Tips for Nano Banana Engineering Prompts
+    • Enable Reasoning: If working with Nano Banana Pro, you can enable or prompt for a "Thinking" or reasoning phase where the AI evaluates physical properties before rendering.
+    • Text Fidelity: Because Nano Banana models feature strong text rendering, dictate the exact English or local characters that belong on dials, legends, or schematics.
+    • JSON Extraction: For complex assemblies, first upload your base engineering sketch or reference image, then prompt Nano Banana to generate a corresponding JSON description to maintain structural continuity across design edits.
+
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
