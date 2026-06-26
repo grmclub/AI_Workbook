@@ -206,6 +206,23 @@ After Claude:
 Most people use Claude for chatting.
 Smart solopreneurs use it to operate.
 -------------------------------------------------
+Business Plan Mode
+
+1 — Business Plan Architect
+“Act as a seasoned founder who has built and pitched 10 successful businesses. My idea is [describe]. Build me a complete one-page business plan covering: the problem, target customer, solution, revenue model, competitive advantage, go-to-market strategy, and 90-day action plan. Make it tight enough to pitch and clear enough to execute starting tomorrow.”
+
+2 — Market Opportunity Validator
+“Act as a market research analyst. My business idea is [describe] targeting [audience]. Tell me: the size of this opportunity, the 3 most direct competitors and their biggest weaknesses, the gap in the market I can own, and a clear verdict — real opportunity or crowded space not worth entering.”
+
+3 — Revenue Model Designer
+“Act as a startup CFO. My business is [describe]. Build me 3 revenue model options — subscription, one-time purchase, and hybrid. For each show me: how I make money, realistic pricing, what month-one revenue could look like, and the break-even point. Then tell me which model fits my specific business best and why.”
+
+4 — Go-To-Market Strategy
+“Act as a startup growth strategist. My business is [describe] and my target customer is [describe]. Build my complete go-to-market plan for the first 90 days — how to find my first 10 paying customers, the fastest channels with zero budget, the message that converts a stranger into a buyer, and the one move most first-time founders skip that costs them 6 months.”
+
+5 — Investor-Ready Executive Summary
+“Act as a startup pitch coach. My business is [describe]. Write a complete investor-ready executive summary — the problem, solution, market size, business model, traction so far, team, and ask. Under 500 words. Every sentence earns its place. End with a line that makes an investor want to take the meeting today.”
+
 
 -------------------------------------------------
 
