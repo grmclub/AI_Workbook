@@ -1,0 +1,33 @@
+
+
+-------------------------------------------------
+1. Type this in any chat:
+"What do you remember about me? List everything in your saved memory, exactly as it's stored, not summarized."
+This pulls the actual entries, not a vague overview.
+
+2. Find what you didn't mean to share
+"Of everything you remember about me, what's the most personal or sensitive detail in there? Be honest, even if I might not like the answer."
+
+3. Catch outdated info
+"Do any of your memories about me sound like they could be outdated, like an old job, a finished project, or a preference I might have changed?"
+This one catches the stuff most people forget is even in there.
+
+4. Delete something specific
+"Forget that I mentioned [whatever it is]. Confirm once it's removed."
+Works conversationally, no settings menu needed.
+
+5. Understand what it's using right now
+"Without listing facts, tell me how you're currently adjusting your tone or answers based on what you know about me."
+This shows you the effect of memory, not just the data behind it.
+
+6. The full reset
+If you want a clean slate: go to Settings → Personalization → Manage Memory, and you'll see every entry listed individually with a delete option, plus a "Clear all" at the bottom.
+It takes less than a minute. Most people never open that screen once.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
