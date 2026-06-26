@@ -154,6 +154,28 @@ Transparent and exploded sections revealing internal architecture
 Show clear arrows to denote the flow in a linear fashion
 ============
 
+Create a high-resolution educational infographic poster of [OBJECT] in a 1:1.414 vertical aspect ratio.
+Use a photorealistic render or realistic photograph of the object as the focal point and overlay it with precise engineering annotations and technical diagrams.
+Style
+- Pure white background
+- Clean engineering-manual and museum-exhibit aesthetic
+- Crisp typography and organized layout
+- Dense but readable educational design
+Include (where applicable)
+- Multiple views (front, side, top, sectional)
+- Correct labels for all major components with callout lines and arrows
+- Exploded views, cutaways, and cross-sections
+- Dimensions, scale markers, and key specifications
+- Materials, assemblies, capacities, and engineering properties
+- Flow diagrams showing movement, airflow, sound, energy, pressure, or force
+- Information panels such as How It Works, Key Components, Specifications, Materials, Did You Know?, and Applications
+Place the title [OBJECT] inside a technical annotation box.
+All labels and information must be scientifically accurate, correctly named, and suitable for textbooks and classroom teaching.
+Output: Ultra-high-resolution, print-quality infographic with clean margins and no watermark.
+
+
+-------------------------------------------------------------
+
 -------------------------------------------------
 list similar prompts for generating engineering graphics
 
@@ -207,27 +229,7 @@ The image must strongly emphasize:
 “knowledge integration + modular information design + handbook/reference-style presentation.”
 
 -------------------------------------------------
-Create a high-resolution educational infographic poster of [OBJECT] in a 1:1.414 vertical aspect ratio.
-Use a photorealistic render or realistic photograph of the object as the focal point and overlay it with precise engineering annotations and technical diagrams.
-Style
-- Pure white background
-- Clean engineering-manual and museum-exhibit aesthetic
-- Crisp typography and organized layout
-- Dense but readable educational design
-Include (where applicable)
-- Multiple views (front, side, top, sectional)
-- Correct labels for all major components with callout lines and arrows
-- Exploded views, cutaways, and cross-sections
-- Dimensions, scale markers, and key specifications
-- Materials, assemblies, capacities, and engineering properties
-- Flow diagrams showing movement, airflow, sound, energy, pressure, or force
-- Information panels such as How It Works, Key Components, Specifications, Materials, Did You Know?, and Applications
-Place the title [OBJECT] inside a technical annotation box.
-All labels and information must be scientifically accurate, correctly named, and suitable for textbooks and classroom teaching.
-Output: Ultra-high-resolution, print-quality infographic with clean margins and no watermark.
 
-
--------------------------------------------------------------
 Just replace [BODY PART]
 
 Create a highly detailed, colorful educational infographic about [BODY PART].
@@ -265,6 +267,54 @@ A4 format (1:1.414), 2480×3508 px or higher resolution, ultra-sharp.
 
 
 -------------------------------------------------------------
+##sketch notes
+
+3. Paste This Prompt - Insert your topic
+Prompt:
+Create a high-value hand-drawn sketchnote infographic about: [TOPIC]
+The infographic should visually explain the topic in a way that is educational, engaging, and instantly understandable. Structure the content like a professional visual thinking session or graphic recording.
+Style & Design Requirements:
+- Use a pristine white paper background (no lines or textures).
+- Use a hand-drawn “graphic recording” / “visual thinking” style.
+- Draw using black fine-liner ink for outlines, text, arrows, and illustrations.
+- Add simple accent shading using only teal, orange, and muted red markers.
+- Make the layout feel clean, premium, and highly organized.
+Composition:
+- Place the main title in the center inside a bold 3D-style rectangular box.
+- Arrange key ideas radially around the title.
+- Include:
+- Simple doodles
+- Business and technology icons
+- Stick figures
+- Charts and graphs
+- Symbols and metaphors
+- Containers, banners, and callout boxes
+- Connect related ideas using arrows, flow lines, and visual hierarchy.
+Content Structure:
+- Automatically break the topic into:
+- Core concepts
+- Key insights
+- Frameworks
+- Processes
+- Examples
+- Actionable takeaways
+- Statistics or trends (if relevant)
+- Prioritize clarity, depth, and practical value over decoration.
+- Make the infographic feel like a high-end workshop summary or consulting whiteboard.
+Typography:
+- Use clear handwritten ALL-CAPS lettering.
+- Ensure all text is legible, distinct, and neatly spaced.
+- Use varied text sizes for hierarchy and emphasis.
+Output Requirements:
+- A4 portrait layout
+- Dense with valuable information but never cluttered
+- Balanced negative space
+- Visually dynamic and highly shareable
+- The final result should look like a premium viral sketchnote infographic created by an expert visual strategist.
+
+4. Download & Share
+ChatGPT will generate a polished sketchnote infographic that summarizes the topic visually. Save it, share it, or use it in presentations, newsletters, social posts, and educational content.
+That's it—one prompt, one topic, one professional sketchnote.
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
