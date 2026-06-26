@@ -18,7 +18,17 @@
 -graphics to generate pamphlets & fliers
 
 -------------------------------------------------
-    Create a professional engineering teaching infographic of [The Core Low-Latency Trading Loop (The Golden Path)] in a 45° isometric 3D cutaway view. Combine a realistic product render with precise black technical illustrations on a clean white background.
+The Core Low-Latency Trading Loop (The Golden Path)
+
+generate a system block diagram to grasp the core concepts at a glance
+The Core Low-Latency Trading Loop ("The Golden Path") simplify the diagram to show linear flows instead of circular flow
+
+Create a professional engineering teaching infographic of [The Core Low-Latency Trading Loop]
+Fully labeled components with educational descriptions
+Transparent and exploded sections revealing internal architecture
+Show clear arrows to denote the flow in a linear fashion
+---------------
+    Create a professional engineering teaching infographic of [xx] in a 45° isometric 3D cutaway view. Combine a realistic product render with precise black technical illustrations on a clean white background.
 
     Include:
         Fully labeled components with educational descriptions
@@ -166,6 +176,13 @@ Prompt:
 
 
 -------------------------------------------------
+• Use Case: Documenting data-center-level infrastructure topologies for compliance, exchange onboarding, and internal engineering alignment. 
+
+ • Prompt: "A C4 component model diagram of an HFT trading pod co-located within an exchange data center. Show the exchange 'Matching Engine' on the far right. Inside the local trading pod box, show a 'Direct Market Data Feed Handler' parsing raw 'ITCH 5.0 binary protocol' over a 'UDP Multicast' connection, sending it to a 'Pricing Model Engine'. The model feeds an 'Order Routing Gateway' emitting 'OUCH protocol' messages back to the exchange. Highlight the network switch layer using 'Arista 7150 low-latency switches'. Sharp layout, technical font, 16:9 widescreen ratio."
+
+
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
