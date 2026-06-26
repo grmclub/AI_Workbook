@@ -1,0 +1,25 @@
+
+-------------------------------------------------
+NotebookLM does the research. Claude builds the deck.
+Here are 8 prompts to go from notes to professional slides fast:
+
+Prompt 1 "Here are my NotebookLM notes on [topic]. Extract the 5 most important insights and turn each one into a slide headline. Give me the headline + 3 bullet points max per slide."
+
+Prompt 2 "Take these notes and create a presentation outline for a 10-slide deck. Slide 1 should hook the audience. Slide 10 should leave them with one clear action."
+
+Prompt 3 "Rewrite these NotebookLM notes as slide content for a non-expert audience. No jargon. Each slide should communicate one idea in under 15 words."
+
+Prompt 4 "I need a data storytelling slide from these notes. Write the slide headline as an insight, not a label. Then write the 2-sentence callout that explains why it matters."
+
+Prompt 5 "Turn this research from NotebookLM into a 'before and after' slide sequence. Slide 1: the old way. Slide 2: the new way. Slide 3: why the shift matters."
+
+Prompt 6 "Take my notes and write speaker notes for each slide. The notes should tell the story behind the slide — what to say out loud that the slide doesn't show."
+
+Prompt 7 "Convert these NotebookLM notes into an executive summary slide. One headline. Three key findings. One recommendation. Fits on a single slide."
+
+Prompt 8 "Use these notes to write a 'what, so what, now what' slide structure. Slide 1: what the data shows. Slide 2: why it matters. Slide 3: what to do next."
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
