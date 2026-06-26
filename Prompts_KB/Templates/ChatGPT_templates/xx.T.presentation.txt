@@ -1,0 +1,28 @@
+
+-------------------------------------------------
+
+7. The Complete Presentation + Script Combo
+“Create a fully ready presentation on [insert topic], AND write a complete spoken script I can read while presenting. Ensure the script matches the tone, pacing, and emotional flow of the slides. Include pauses, emphasis, storytelling cues, and delivery instructions.”
+
+6. The Corporate Presentation
+“Create a formal, corporate-style presentation on [insert topic]. Include professional tone, structured bullet points, charts, graphs, SWOT analysis, trends, forecasts, and data-backed recommendations. Make it suitable for boardrooms.”
+
+5. The Storytelling Master Presentation
+“Create a complete presentation on [insert topic] using storytelling structure: Hook → Conflict → Journey → Insight → Transformation → Call to Action. Make slides emotional, memorable, and persuasive. Add speaker notes with delivery guidance.”
+
+4. The Business Pitch Presentation Creator
+“Create a complete investor-style pitch deck for my business idea: [insert idea]. Include problem, solution, market size, product features, business model, competitive advantage, financial projections, team slide, and closing pitch script.”
+
+3. The Simplified Explanation Presentation
+“Build a presentation on [insert topic] designed for beginners. Break down complex concepts into simple explanations, analogies, and step-by-step logic. Make the content so clear that even a 10-year-old can understand the full topic.”
+
+2. The Deep Research Presentation
+“Create a full presentation on [insert topic] using deep research. Include real statistics, case studies, expert quotes, practical insights, and examples. Make each slide educational, engaging, and backed by credible sources. Provide references at the end.”
+
+1. The Full Presentation Builder
+“Act as a world-class presentation creator. Create a complete, slide-by-slide presentation on the topic: [insert topic]. Include title slides, key points, examples, data, metaphors, visuals suggestions, and a closing call-to-action. Structure it like a TED-level presentation with storytelling flow.”
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
