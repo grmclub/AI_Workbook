@@ -225,6 +225,71 @@ What resources do I have?
 What constraints do I have?
 What do I want the AI to help me decide or produce?
 -------------------------------------------------------------
+## Structure workday for maximum focus
+
+8. Ideal Focus Day Blueprint Prompt
+Prompt:
+“You are an elite productivity architect.
+Background: My role is [ROLE], my top priorities are [TOP_PRIORITIES], and my definition of a successful day is [SUCCESS_CRITERIA].
+Design a full ‘ideal focus day’ blueprint from wake-up to shutdown that maximizes clarity, momentum, and deep focus.
+Ensure the schedule is practical, not theoretical.
+Ask me any questions you have.”
+
+7. Daily Shutdown & Reset Prompt
+Prompt:
+“You are a performance recovery strategist.
+Background: I often end my workday feeling mentally cluttered or unfinished. My current shutdown routine is [CURRENT_ROUTINE].
+Design a daily shutdown process that clears mental residue, captures loose ends, and prepares me for a focused next day.
+Keep the routine simple and repeatable.
+Ask me any questions you have.”
+
+6. Distraction Defense System Prompt
+Prompt:
+“You are a behavioral productivity expert.
+Background: My biggest distractions include [PHONE / EMAIL / SLACK / SOCIAL MEDIA / PEOPLE].
+Design a distraction defense system that includes rules, boundaries, and environment adjustments to protect focus during the workday.
+Ensure the system is realistic and sustainable long-term.
+Ask me any questions you have.”
+
+5. Context-Switch Reduction Prompt
+Prompt:
+“You are a cognitive load specialist.
+Background: My workday involves frequent switching between [TOOLS / PLATFORMS / TASK_TYPES]. This leads to mental fatigue and reduced output.
+Redesign my workday to minimize context switching through batching, sequencing, and environment control.
+Explain how each change reduces cognitive friction.
+Ask me any questions you have.”
+
+4. Task Prioritization & Elimination Prompt
+Prompt:
+“You are a strategic execution advisor.
+Background: My daily task list includes [TASK_LIST]. Many tasks feel urgent but not important.
+Help me prioritize tasks based on leverage, impact, and focus cost.
+Identify which tasks should be eliminated, deferred, delegated, or batched to protect focus.
+Ask me any questions you have.”
+
+3. Deep Work Block Architecture Prompt
+Prompt:
+“You are a deep work systems designer.
+Background: I want to complete high-impact work on [PRIORITY_PROJECTS], but my attention is fragmented throughout the day.
+Design a workday structure that includes protected deep work blocks, clear start/stop rules, and recovery windows.
+Specify block lengths, transition rules, and guardrails against interruptions.
+Ask me any questions you have.”
+
+2. Energy-Based Day Design Prompt
+Prompt:
+“You are a performance optimization coach.
+Background: My energy levels peak at [HIGH_ENERGY_TIMES] and dip at [LOW_ENERGY_TIMES]. My work includes tasks like [TASK_TYPES].
+Design an ideal daily schedule that aligns task types with my natural energy rhythms.
+Ensure high-cognitive work is protected and low-energy tasks are batched intelligently.
+Ask me any questions you have.”
+
+1. Focus Baseline Audit Prompt
+Prompt:
+“You are a productivity strategist specializing in deep work and focus optimization.
+Background: My current workday runs from [START_TIME] to [END_TIME]. I work on [TYPE_OF_WORK], and my biggest focus killers are [DISTRACTIONS / INTERRUPTIONS].
+Analyze my current workday and identify where focus is being lost due to context switching, poor task sequencing, or energy misalignment.
+Highlight the top 3 structural changes that would immediately improve focus.
+Ask me any questions you have.”
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
