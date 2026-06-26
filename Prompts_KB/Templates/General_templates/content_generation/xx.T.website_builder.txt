@@ -25,6 +25,36 @@ Framer’s AI approach is “text to website.” You describe (in sentences) wha
 🔗 framer.com
 
 -------------------------------------------------
+1. Landing Page Mockup
+"Build me a complete landing page as an artifact for [YOUR PRODUCT]. Include: hero, problem, solution, features, testimonials, pricing, FAQ, and final CTA.
+Dark background, [YOUR ACCENT COLOR] highlights, modern sans-serif, lots of white space. Fully interactive artifact I can preview."
+
+
+2. Social Media Posts
+"Create 5 Instagram post designs as artifacts (1080x1080).
+My brand colors are [HEX 1] and [HEX 2]. My fonts are [FONT NAME]. Each should follow the brand and look polished."
+
+3. Logo and Brand Identity
+"Design a brand identity as an artifact for [BRAND] in the [NICHE]: primary logo, color palette with hex codes, typography pairing, and example applications — social header, business card, email signature."
+
+4. Dashboard Layout
+"Build an interactive analytics dashboard as an artifact with KPI cards, line chart, bar chart, donut chart, and data table. Dark background with [YOUR COLOR] accents."
+
+5. Pitch Deck
+"Build a 10-slide presentation as an artifact: problem, solution, market, traction, team, and CTA. Dark background, minimal text, high visual impact."
+
+6. Mobile App Wireframe
+"Build a mobile app wireframe as an artifact with 5 key screens. Modern UI, [YOUR BRAND COLORS], interactive with clickable navigation."
+
+7.Full Website Mockup
+"Build a complete responsive multi-page website as an artifact for [YOUR BUSINESS]. Navigation, hero, about, services, portfolio, testimonials, contact form, footer. Responsive with animations."
+
+
+
+
+
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
