@@ -228,6 +228,42 @@ Output: Ultra-high-resolution, print-quality infographic with clean margins and 
 
 
 -------------------------------------------------------------
+Just replace [BODY PART]
+
+Create a highly detailed, colorful educational infographic about [BODY PART].
+The design should combine:
+• A large, central, semi-realistic anatomical illustration of the [BODY PART] (clean, slightly cartoon-stylized but medically accurate)
+• Multiple labeled sections arranged around it in a structured layout
+Include the following sections:
+• Title: “How does the [BODY PART] work?” in bold, playful typography
+• A short, simple explanation (kid-friendly language)
+• Labeled anatomy diagram with callouts
+• Step-by-step process (numbered flow or cycle)
+• Key functions (with icons)
+• Zoom-in detail (e.g., cells, internal structure)
+• Fun facts section
+• Health tips / how to keep it healthy
+• Optional: “Did you know?” or comparison panel
+Style & layout:
+• Bright, engaging, kid-friendly educational poster style
+• Clean grid-based layout (like a classroom infographic)
+• Rounded boxes, soft shadows, and clear section separation
+• Arrows showing flow (blood, air, food, etc.)
+• Icons and mini illustrations to support each section
+Visual style:
+• Medical illustration meets friendly cartoon infographic
+• Highly detailed but easy to understand
+• Smooth shading, vibrant colors, polished digital art
+Color palette:
+• Use bright, appealing colors (reds, blues, greens, yellows)
+• Background: soft off-white or light neutral
+• Clear contrast between sections
+Output:
+A4 format (1:1.414), 2480×3508 px or higher resolution, ultra-sharp.
+
+
+
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
