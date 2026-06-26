@@ -107,6 +107,126 @@ You are a PBL curriculum designer. Design a 2-week project-based learning unit o
 You are an instructional coach. Create a personal professional development plan for a teacher who wants to improve in [AREA]. Include: current state assessment, 3-month goals, specific strategies, resources (books, courses, communities), and how to measure progress.
 
 -------------------------------------------------------------
+The Core Low-Latency Trading Loop (The Golden Path)
+
+generate a system block diagram to grasp the core concepts at a glance
+The Core Low-Latency Trading Loop ("The Golden Path") simplify the diagram to show linear flows instead of circular flow
+
+Create a professional engineering teaching infographic of [The Core Low-Latency Trading Loop]
+Fully labeled components with educational descriptions
+Transparent and exploded sections revealing internal architecture
+Show clear arrows to denote the flow in a linear fashion
+---------------
+    Create a professional engineering teaching infographic of [xx] in a 45° isometric 3D cutaway view. Combine a realistic product render with precise black technical illustrations on a clean white background.
+
+    Include:
+        Fully labeled components with educational descriptions
+        Transparent and exploded sections revealing internal architecture
+        Measurements, dimensions, scale markers, and engineering callouts
+        Material labels, quantities, and manufacturing notes
+        Color-coded flow arrows:
+            Red = Power/Energy
+            Blue = Data/Communication
+            Orange = Processing/Thermal
+            Green = Sensors/Feedback
+        Simplified subsystem block diagrams
+        Technical specifications panel
+        Key engineering principles and operating notes
+        Safety, maintenance, and real-world application notes
+        Legend explaining symbols and color coding
+
+    Style:
+        Aerospace engineering manual + museum exhibit infographic
+        Black technical linework with minimal accent colors (10–15%)
+        Clean layout, balanced negative space, highly readable typography
+        Educational first, artistic second
+        Every major component named and explained
+        Publication-quality, textbook-level clarity
+
+    Place the title "[The Core Low-Latency Trading Loop (The Golden Path)]" inside a hand-drawn engineering title plate in the top-left corner.
+
+    Output: A-series poster ratio (1:1.414), ultra-high resolution, crisp vector-like detail.
+
+============
+Create a professional engineering teaching infographic of [The Core Low-Latency Trading Loop (The Golden Path)]
+Fully labeled components with educational descriptions
+Transparent and exploded sections revealing internal architecture
+Show clear arrows to denote the flow in a linear fashion
+============
+
+-------------------------------------------------
+list similar prompts for generating engineering graphics
+
+🚨 Create educational visual knowledge guides with GPT Image 2.1 
+Prompt 👇
+
+Insert any topic 👇
+
+Prompt: 
+
+Based on { TOPIC }, create a high-quality vertical “encyclopedia-style educational infographic image.”
+This image should NOT look like a regular poster or a simple illustration. Instead, it should feel like a structured knowledge guide that combines:
+the feeling of a collectible reference handbook
+a modern encyclopedia page
+a lifestyle knowledge card
+and a highly shareable social-media infographic
+
+The overall style should resemble a premium natural-history guidebook mixed with modern editorial infographic design.
+The image should include:
+One beautiful and highly detailed main subject image
+Several zoomed-in detail sections highlighting important features
+Multiple modular information panels with rounded corners
+Clear title hierarchy and highlighted key labels
+Concise yet information-rich encyclopedia content
+Visual scoring systems, quick summaries, or “Top 5” modules
+
+The information sections should automatically adapt to the topic. Select and combine relevant categories such as:
+Basic profile
+Classification / taxonomy
+Physical characteristics
+Behavior / ecology / habits
+Structure or formation mechanisms
+Growth conditions or usage methods
+Care, maintenance, or optimization tips
+Risks, warnings, and important notes
+Suitable users or application scenarios
+Pros and cons comparison
+Quick rating tags or summary cards
+Visual requirements:
+Clean light-colored background
+Soft and elegant color palette
+Gentle shadows
+Small refined icons
+Rounded information boxes
+Organized editorial layout
+High information density without feeling crowded
+Comfortable reading experience
+
+The final result should feel like a real publishable encyclopedia knowledge card designed for reading, collecting, and creating as part of a consistent series — NOT like a commercial advertisement poster.
+The image must strongly emphasize:
+“knowledge integration + modular information design + handbook/reference-style presentation.”
+
+-------------------------------------------------
+Create a high-resolution educational infographic poster of [OBJECT] in a 1:1.414 vertical aspect ratio.
+Use a photorealistic render or realistic photograph of the object as the focal point and overlay it with precise engineering annotations and technical diagrams.
+Style
+- Pure white background
+- Clean engineering-manual and museum-exhibit aesthetic
+- Crisp typography and organized layout
+- Dense but readable educational design
+Include (where applicable)
+- Multiple views (front, side, top, sectional)
+- Correct labels for all major components with callout lines and arrows
+- Exploded views, cutaways, and cross-sections
+- Dimensions, scale markers, and key specifications
+- Materials, assemblies, capacities, and engineering properties
+- Flow diagrams showing movement, airflow, sound, energy, pressure, or force
+- Information panels such as How It Works, Key Components, Specifications, Materials, Did You Know?, and Applications
+Place the title [OBJECT] inside a technical annotation box.
+All labels and information must be scientifically accurate, correctly named, and suitable for textbooks and classroom teaching.
+Output: Ultra-high-resolution, print-quality infographic with clean margins and no watermark.
+
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
