@@ -98,6 +98,27 @@ How to use: Store your context, step-by-step instructions, and formatting prefer
 
 
 -------------------------------------------------------------
+01. Plan Mode (Shift + Tab)
+Before any implementation, switch to plan mode. Claude Code analyzes your codebase and creates an architecture plan WITHOUT writing any code. Review the plan. Approve it. Then switch back to implementation. This single habit prevents more bugs than any other technique on this list.
+
+02. Compact (/compact)
+After 30 to 45 minutes of conversation, your context gets bloated. Type /compact to compress the entire conversation history into a focused summary of key decisions and current state. Claude Code stays sharp instead of gradually losing track of what you discussed.
+
+03. Clear (/clear)
+Starting a new task? Clear the slate entirely. Carrying context from a database refactor into a frontend redesign produces confused, conflicting code. One conversation per feature. Always.
+
+04. Init (/init)
+Run this at the start of any new project. Claude Code scans your codebase and generates a CLAUDE▪︎md file. a persistent context document that it reads automatically in every future session. Includes project structure, tech stack, coding patterns, and key architecture decisions
+
+05. The Cost Check (/cost)
+Displays your token usage for the current session. Check this every hour during long sessions. AI-assisted development costs money and surprises are never fun. Set a mental budget per session and check against it.
+
+06. Memory (/memory)
+Add persistent instructions that Claude Code remembers across all sessions. "Always use TypeScript strict mode." "Always add JSDoc comments to public functions." "Always run tests after modifying any file in /src/core." These rules apply automatically in every future conversation without repeating them.
+
+07. Terminal Integration (! prefix)
+Prefix any message with ! to run it as a terminal command instead of sending it to Claude. Quick way to run tests, check git status, or navigate directories without leaving the Claude Code interface.
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
