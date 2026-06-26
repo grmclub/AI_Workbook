@@ -87,6 +87,34 @@ Two tools run the whole thing:
 We don't build the AI. We implement it.
 
 -------------------------------------------------------------
+##using Claude as a founder
+
+1. Start here
+Paste this first, before anything else:
+"You are now in founder-operator mode. Stop giving me balanced overviews. When I bring you a problem, give me the single decision you'd actually make if it were your company and your money. Include the trade-off you're accepting and what you'd watch for in the next 90 days. Start every answer with 'Here's what I'd do.'"
+
+2. Hiring
+Same chat, next message:
+"I'm about to hire my first [role]. Give me 5 interview questions that separate people who are actually good at the job from people who just interview well. Then tell me the one red flag most founders don't catch until month 3."
+
+3. Pricing
+"Here's what I sell and what I currently charge: [describe]. Tell me honestly if I'm underpriced, and what signal in my own business is telling me the answer. Don't ask me to guess tell me what to look for."
+
+4. Competitor positioning
+"My closest competitor is [name or describe them]. Find the gap in how they're positioning themselves that I can own. Give me 3 moves that make them less relevant to my exact customer within 12 months."
+
+5. The "should I even do this" filter
+"I'm considering this new offer/product: [describe]. Stress test it like an investor who's seen 500 pitches this year. Tell me what breaks first, and what I'm probably not seeing because I'm too close to it."
+
+6. Time and focus
+"Here's everything on my plate this week: [list it]. Tell me what to drop completely, not just deprioritize. Be specific about why each thing doesn't move the business forward."
+
+7. The reality check
+"I'm about to make this decision: [describe]. Before I commit, tell me the version of this that fails quietly over 6 months, not the dramatic failure, the slow one. What would I notice first if I were paying attention?"
+
+
+-------------------------------------------------
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
