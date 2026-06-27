@@ -261,6 +261,58 @@ Prompt:
 “Create a 3-month action plan to launch and grow my side hustle from scratch. I have [insert hours/week] to commit. Include weekly focus areas for setup, audience building, sales, and optimization.”
 
 -------------------------------------------------
+##Marketing & Customer support
+
+📌 1. Campaign Strategy Blueprint
+Turn plans into progress, with clarity.
+Prompt:
+“Act as a digital marketing strategist. Create a 30-day promotional roadmap for [insert product/service], including content formats (posts, emails, CTAs) for awareness, engagement, and conversion.”
+🔥Why this helps:
+This gives structure to your launch efforts, saving time and ensuring every piece of content moves your audience closer to a ‘yes.’
+
+📌 2. Client Support Power Prompts
+Answer questions before they're asked.
+Prompt:
+“Act as a customer success specialist. Write 5 concise FAQ responses for [insert product/service] that reduce confusion, build confidence, and cut refund requests.”
+🔥Why this helps:
+Clear answers not only support your users but also establish trust, leading to better retention and satisfaction.
+
+📌 3. Brand Voice & Identity Builder
+Say it how only you can say it.
+Prompt:
+“From this short brand summary [insert description], help me define my brand voice, core values, and unique edge in the market.”
+🔥Why this helps:
+A solid brand identity makes all your content cohesive and recognizable, which builds loyalty over time.
+
+📌 4. Warm Lead Persuasion Script
+Nudge without being pushy.
+Prompt:
+“Write a friendly and persuasive message for a warm lead who has shown interest in [insert product/service] but hasn’t taken the next step yet.”
+🔥Why this helps:
+Timely follow-ups turn hesitations into conversations, and conversations into conversions.
+
+📌 5. Task Delegation Clarity Map
+Let others help, the right way.
+Prompt:
+“Act as a project manager. Create a clear task checklist for a virtual assistant to support the launch of [insert campaign/project]. Include tools, timelines, and outcomes.”
+🔥Why this helps:
+Delegating without confusion increases productivity and helps your business run smoother, even while you rest.
+
+📌 6. Weekly Content Flow Plan
+Keep your message flowing.
+Prompt:
+“Design a weekly content schedule aligned with the stages of [insert launch or business phase], including themes for visibility, nurturing, and conversions.”
+🔥Why this helps:
+Planning your content flow avoids burnout and keeps your messaging consistent and strategic.
+
+📌 7. Landing Page Copy That Converts
+Welcome visitors with intention.
+Prompt:
+“Write persuasive landing page copy for a freebie or lead magnet that addresses [insert audience pain point] and encourages them to take action.”
+🔥Why this helps:
+Every scroll should bring them closer to clicking, and this prompt ensures that happens with clarity and confidence.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
