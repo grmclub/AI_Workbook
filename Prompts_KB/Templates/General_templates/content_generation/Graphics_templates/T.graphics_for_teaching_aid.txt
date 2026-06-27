@@ -316,6 +316,20 @@ Output Requirements:
 ChatGPT will generate a polished sketchnote infographic that summarizes the topic visually. Save it, share it, or use it in presentations, newsletters, social posts, and educational content.
 That's it—one prompt, one topic, one professional sketchnote.
 -------------------------------------------------------------
+Create a professional engineering teaching infographic of [Layout of a modern airport]
+Fully labeled components with educational descriptions
+Transparent and exploded sections revealing internal architecture
+Show clear arrows to denote the flow in a linear fashion
+constraints:
+simplify components to explain to a high school student 
+background should be in a light color 
+Output:
+• Title: “Layout of a modern airport” in bold, playful typography
+A4 format (1:1.414), 2480×3508 px or higher resolution, ultra-sharp.
+
+
+
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
