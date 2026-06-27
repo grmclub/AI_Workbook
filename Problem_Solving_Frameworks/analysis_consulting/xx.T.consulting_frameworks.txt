@@ -99,6 +99,8 @@ Let me know how you would like to narrow down this list.
 -------------------------------------------------------------
 What are the Elements of a Business Framework?
 
+https://robllewellyn.com/business-frameworks/
+
 The elements of a business framework will vary depending on the specific framework being used, but some common elements include:
 
     1.Goals and objectives: The framework should identify the goals and objectives that the business is trying to achieve.
@@ -118,16 +120,7 @@ The elements of a business framework will vary depending on the specific framewo
     8.Continuous improvement: The framework should be designed for continuous improvement and include mechanisms for ongoing evaluation and adjustment.
 
 -------------------------------------------------------------
-Porter’s Five Forces Framework
-The five forces are used to identify where power lies in a business situation, helping to understand an organisation's competitive position and evaluate the strength of potential positions the organisation may consider moving into.
 
-The framework consists of five forces, which are:
-
-1.Competitive rivalry
-2.Threat of substitute products
-3.Bargaining power of buyers
-4.Threat of new entrants
-5.Bargaining power of suppliers
 
 -------------------------------------------------------------
 -------------------------------------------------------------
