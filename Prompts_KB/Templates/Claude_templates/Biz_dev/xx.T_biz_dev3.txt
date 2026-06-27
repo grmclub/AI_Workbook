@@ -230,6 +230,36 @@ Format as investment committee presentation deck outline.
 Deal: [DESCRIBE OPPORTUNITY, DEAL TERMS, EXPECTED RETURNS]
 
 -------------------------------------------------
+##Side Hustle
+
+📌 1/ Custom-Fit Hustle Generator
+Prompt:
+“I have the following skills and interests: [insert your list]. Based on current market trends and my availability (X hours per week), suggest 3 side hustle ideas that align with my strengths and can generate consistent income within 60–90 days.”
+
+📌 2/ Real-World Idea Tester
+Prompt:
+“Evaluate this business idea: [insert idea]. Does it address a pain point that people urgently pay to solve? If yes, provide feedback on the ideal target audience and early validation methods I can use (e.g., polls, DMs, test offers).”
+
+📌 3/ Offer Architecture Toolkit
+Prompt:
+“Help me productize this skill: [insert skill]. Turn it into a packaged offer with a clear name, pricing structure (tiered or flat-rate), and a 1-sentence pitch I can use in bios, DMs, and landing pages.”
+
+📌 4/ Client-Attracting Content Plan
+Prompt:
+“Design a 4-week content calendar that helps me consistently attract my dream clients for this service: [insert offer]. Include post types for visibility, credibility, and conversion, across [insert preferred platforms].”
+
+📌 5/ Audience Warm-Up & First Sale Plan
+Prompt:
+“Build a simple but effective engagement strategy that helps me land my first 5 clients. I prefer [insert outreach style: e.g., cold DMs, content nurturing, email, partnerships]. Make it feel authentic, not salesy.”
+
+📌 6/ Lead Magnet Strategy Builder
+Prompt:
+“Help me create a powerful lead magnet that solves a mini-version of the problem I solve with my main offer: [insert offer]. Include a catchy title, format (PDF, checklist, video), and clear CTA to lead people into my funnel.”
+
+📌 7/ 90-Day Hustle Roadmap
+Prompt:
+“Create a 3-month action plan to launch and grow my side hustle from scratch. I have [insert hours/week] to commit. Include weekly focus areas for setup, audience building, sales, and optimization.”
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
