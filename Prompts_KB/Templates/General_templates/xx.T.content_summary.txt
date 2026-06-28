@@ -1,0 +1,43 @@
+
+-------------------------------------------------------------
+##summarize before deepdiving into books & content for focusing on important things
+
+1.Core Idea Extraction
+Act as a professional knowledge analyst.
+Read [Book Title] by [Author] and summarize the single most important idea the author is trying to communicate.
+Explain it in plain language, as if you're teaching it to a smart 15-year-old.
+
+2️.Chapter-by-Chapter Breakdown
+Break down [Book Title] by [Author] chapter by chapter.
+For each chapter, give me:
+the key argument,
+the main lesson, and
+one sentence I can remember it by.
+
+3️.Top Lessons for Real Life
+From [Book Title] by [Author], extract the top 5 lessons that are actually useful in daily life.
+Focus only on insights that improve thinking, decision-making, or habits—skip anything purely theoretical.
+
+4️.Action Plan Builder
+Turn the core concepts of [Book Title] by [Author] into a practical 7-day action plan.
+Each day should have one small, specific action I can do to apply the book's ideas in real life.
+
+5️.Memorable Quote Decoder
+Pull out 5 of the most powerful quotes from [Book Title] by [Author].
+For each quote, explain:
+what it means,
+why it matters, and
+how I can use it today.
+
+6️.Knowledge Compression
+Compress [Book Title] by [Author] into the 10 most important concepts, frameworks, and principles.
+Format it as a quick-reference cheat sheet I can review in under 3 minutes.
+
+7️.Blind Spot Finder
+What are the main criticisms or limitations of the ideas in [Book Title] by [Author]?
+What does the author NOT tell you that you should know?
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
