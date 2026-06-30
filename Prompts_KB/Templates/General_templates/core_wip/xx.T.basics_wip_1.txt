@@ -1,0 +1,73 @@
+
+-------------------------------------------------
+Create a professional engineering teaching infographic of [Japanese bullet train]
+Fully labeled components with educational descriptions
+Transparent and exploded sections revealing internal architecture
+Show clear arrows to denote the flow in a linear fashion
+Output:
+A4 format (1:1.414), 2480×3508 px or higher resolution, ultra-sharp.
+
+Create a professional engineering teaching infographic of [newtons laws of motion]
+Fully labeled components with educational descriptions
+Transparent and exploded sections revealing internal architecture
+Show clear arrows to denote the flow in a linear fashion
+Output:
+A4 format (1:1.414), 2480×3508 px or higher resolution, ultra-sharp.
+
+Create a professional engineering teaching infographic of [parts of a personal computer]
+Fully labeled components with educational descriptions
+Transparent and exploded sections revealing internal architecture
+Show clear arrows to denote the flow in a linear fashion
+constraints:
+simplify components to explain to a high school student 
+background should be in a light color 
+Output:
+• Title: “Parts of a personal computer” in bold, playful typography
+A4 format (1:1.414), 2480×3508 px or higher resolution, ultra-sharp.
+
+Create a professional engineering teaching infographic of [Layout of a modern airport]
+Fully labeled components with educational descriptions
+Transparent and exploded sections revealing internal architecture
+Show clear arrows to denote the flow in a linear fashion
+constraints:
+simplify components to explain to a high school student 
+background should be in a light color 
+Output:
+• Title: “Layout of a modern airport” in bold, playful typography
+A4 format (1:1.414), 2480×3508 px or higher resolution, ultra-sharp.
+
+-------------------------------------------------
+Create a high-resolution educational infographic poster of [equities front office pre market  risk check Application] in a 1:1.414 vertical aspect ratio.
+Use a photorealistic render or realistic photograph of the object as the focal point and overlay it with precise engineering annotations and technical diagrams.
+Style
+- Pure white background
+- Clean engineering-manual and museum-exhibit aesthetic
+- Crisp typography and organized layout
+- Dense but readable educational design
+Include (where applicable)
+- Multiple views (front, side, top, sectional)
+- Correct labels for all major components with callout lines and arrows
+- Exploded views, cutaways, and cross-sections
+- Dimensions, scale markers, and key specifications
+- Materials, assemblies, capacities, and engineering properties
+- Flow diagrams showing movement, airflow, sound, energy, pressure, or force
+- Information panels such as How It Works, Key Components, Specifications, Materials, Did You Know?, and Applications
+Place the title [Equities front office] inside a technical annotation box.
+All labels and information must be scientifically accurate, correctly named, and suitable for textbooks and classroom teaching.
+Output: Ultra-high-resolution, print-quality infographic with clean margins and no watermark.
+
+-------------------------------------------------
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
+
