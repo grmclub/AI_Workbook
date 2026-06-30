@@ -112,10 +112,60 @@ Same chat, next message:
 7. The reality check
 "I'm about to make this decision: [describe]. Before I commit, tell me the version of this that fails quietly over 6 months, not the dramatic failure, the slow one. What would I notice first if I were paying attention?"
 
-
--------------------------------------------------
-
 -------------------------------------------------------------
+1. The Role + Stakes Prompt
+"Act as a senior [role] who has seen people fail at this exact problem a hundred times. I'm about to [describe the situation]. What mistakes am I about to make and how do I avoid them?" Adding stakes forces sharper, more specific answers.
+
+2. The Contrarian Take
+"Here is a popular belief in my industry: [paste it]. Now argue against it using real logic, not just counterpoints. Give me the version of this argument that would actually make someone stop and reconsider." Use this when you want content that cuts through noise.
+
+3. The Decision Filter
+"I need to make a decision between [Option A] and [Option B]. My goal is [outcome]. My biggest fear is [risk]. Don't give me a balanced answer, tell me which one you'd choose and why, then tell me what I'm probably not seeing." Stops AI from giving you the both-sides answer that helps nobody.
+
+4. The Email That Gets Read
+"Write a cold email to [type of person]. The goal is [one specific action]. Open with a line about a problem they actually have not a compliment. No more than 100 words. No 'I hope this finds you well.' Subject line under 6 words." Paste the output. Edit one line. Send it.
+
+5. The Idea Stress Test
+"Here is my business idea / offer / plan: [paste it]. Pretend you're an investor who has heard 500 pitches and funded 3. Tell me the first 3 things that would make you say no and what would have to change for you to say yes." Brutal. Useful. Saves months.
+
+6. The Writing Sharpener
+"Here is a piece of writing: [paste it]. Remove every sentence that doesn't earn its place. Flag anything that sounds like AI. Rewrite the opening line so it stops someone mid-scroll. Don't explain your changes, just make them." This is the edit your first draft always needs.
+
+7. The Learning Accelerator
+"I want to understand [topic] deeply not just the basics. Teach me the part most beginners skip, the most common misconception, and the one mental model that changes how everything else makes sense. Use one real example." Better than any course for getting past surface-level understanding.
+-------------------------------------------------------------
+##Claude can break down their hooks, content pillars, and posting patterns in one sitting no more guessing why their posts work and yours don't.
+
+1 — Decode their content pillars
+Prompt:
+"Here are 15 recent posts from [competitor name/account]: [paste captions or links]. Identify the 3-5 core content pillars they keep returning to. For each pillar, tell me what specific angle or promise they use, and what audience pain point it's solving."
+This gives you their actual content strategy, not a guess. You'll see the pattern in minutes that took them months to build by trial and error.
+
+2 — Reverse-engineer their hooks
+Prompt:
+"Here are the first lines from [competitor]'s last 10 posts: [paste them]. Break down the hook formula they're using — is it curiosity, controversy, personal story, numbers, or fear of missing out? Give me 5 original hooks in my own voice using the same psychological trigger."
+This is the part most people skip. The hook formula matters more than the topic.
+
+3 — Find their content gaps
+Prompt:
+"Based on this competitor's last 20 posts: [paste topics/captions], what topics, formats, or angles are they NOT covering that their audience would likely care about? List specific content ideas I could create to fill that gap."
+This is how you stop competing on the same ground and start owning space they've left open.
+
+4 — Map their posting rhythm
+Prompt:
+"Here's a list of [competitor]'s post dates and types over the last 30 days: [paste data]. What's their posting frequency, and is there a pattern in which content type they post on which days? Suggest a posting schedule for me based on what seems to be working for them."
+Most people copy the content. Almost nobody studies the rhythm behind it.
+
+5 — Extract their offer positioning
+Prompt:
+"Here's how [competitor] talks about their product or offer in their captions: [paste examples]. What pain points, objections, or desires are they speaking to? Rewrite this positioning in my own voice, for my own offer, without copying their language."
+This shows you the psychology behind their pitch, not just the words.
+
+6 — Build your differentiated strategy
+Prompt:
+"Based on everything we've broken down about [competitor]'s content pillars, hooks, gaps, and positioning, build me a 2-week content calendar for my own brand that uses similar proven angles but with a genuinely different voice and unfilled gaps. Include post topic, hook idea, and format for each day."
+This turns research into a real, ready-to-execute plan not just notes you'll forget to use.
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
