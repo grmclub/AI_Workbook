@@ -327,9 +327,63 @@ Output:
 • Title: “Layout of a modern airport” in bold, playful typography
 A4 format (1:1.414), 2480×3508 px or higher resolution, ultra-sharp.
 
-
-
-
 -------------------------------------------------------------
+Create an ultra-realistic educational anatomy notebook page featuring a highly detailed 3D human brain model placed at the center of a clean spiral-bound sketchbook.** The page should resemble a premium medical student's handwritten revision notebook with a realistic handcrafted aesthetic, combining scientific accuracy with attractive visual presentation.
+
+ The brain should appear as a **high-quality 3D anatomical model** with realistic soft tissue textures, subtle gloss, intricate gyri and sulci, and gentle ambient shadows. Each major region should be color-coded using soft pastel shades:
+
+ * Frontal Lobe – Light Peach Pink
+ * Parietal Lobe – Lavender Purple
+ * Temporal Lobe – Sage Green
+ * Occipital Lobe – Soft Blue
+ * Cerebellum – Warm Brown
+ * Brain Stem – Beige
+
+ Around the brain, include neat handwritten labels connected with thin red arrows pointing precisely to each anatomical structure:
+
+ * Cerebrum
+ * Frontal Lobe
+ * Parietal Lobe
+ * Temporal Lobe
+ * Occipital Lobe
+ * Cerebellum
+ * Brain Stem
+
+ At the top of the notebook page, write in attractive handwritten typography:
+
+ **Human Body 3D Notes**
+
+ Below it, display a large elegant title:
+
+ **Brain**
+
+ Underline both headings using clean marker-style lines.
+
+ Add a **"Quick Revision"** box in the lower-left corner with a green outline containing concise handwritten study notes:
+
+ • Cerebrum controls thinking, memory, learning, emotions, and voluntary actions.
+
+ • Cerebellum maintains balance, posture, precision, and muscle coordination.
+
+ • Brain Stem regulates breathing, heartbeat, blood pressure, and essential life functions.
+
+ Use realistic blue handwritten ink for all text and labels with slight marker imperfections to mimic authentic classroom notes.
+
+ The notebook should feature:
+
+ * White premium paper texture
+ * Black spiral binding on the left
+ * Soft rounded page corners
+ * Minimalistic educational layout
+ * Balanced spacing
+ * Clean margins
+ * Professional medical illustration aesthetics
+
+ Lighting should be soft natural daylight from the upper left, producing realistic shadows beneath the 3D brain and notebook spiral. Background should be warm neutral wood or cream, slightly blurred to emphasize the notebook.
+
+ Style: **Hyper-realistic 3D educational illustration, premium anatomy textbook quality, realistic handwritten notes, medical infographic design, clean academic aesthetic, ultra-detailed, photorealistic, 8K, HDR, global illumination, ray tracing, physically based rendering (PBR), studio-quality lighting, sharp focus, realistic textures, highly legible typography, Pinterest-worthy educational content, modern visual learning design.**
+3:4
+
+
 -------------------------------------------------------------
 -------------------------------------------------------------
