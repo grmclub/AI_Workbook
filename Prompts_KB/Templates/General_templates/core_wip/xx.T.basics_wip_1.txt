@@ -58,7 +58,43 @@ Output: Ultra-high-resolution, print-quality infographic with clean margins and 
 
 -------------------------------------------------
 
+
+generate a engineering state-machine and component flow diagram for equities pre trade risk check and order management gateway
+generate a more beautiful image with a lighter background and better graphics 
+
+generate nice graphics to explain concepts of high frequency trading applications to a new joiner in equities trading systems
+
 -------------------------------------------------
+-------------------------------------------------
+The Core Low-Latency Trading Loop ("The Golden Path")
+
+list prompts to generate isometric diagrams explaining technology architecture concepts 
+
+ prompt for a specific technology stack The Core Low-Latency Trading Loop ("The Golden Path")
+
+generate isometric diagram explaining The Core Low-Latency Trading Loop ("The Golden Path") detailing inputs,outputs and internal components
+
+-nano banana 2
+list prompts to generate 3D graphics to explain technical concepts 
+
+list prompts to generate graphics to teach and explain high school science concepts
+list prompts to generate graphics to teach and explain technical concepts to engineering students
+list prompts to generate graphics to teach and explain technical concepts to computer science students
+
+generate a more simplified diagram to understand the data flow with a quick glance
+list the core essential concepts that a high school science student with learning disabilities should master
+
+generate a system block diagram to grasp the core concepts at a glance
+
+The Core Low-Latency Trading Loop ("The Golden Path") simplify the diagram to show linear flows instead of circular flow
+
+Create a professional engineering teaching infographic of [The Core Low-Latency Trading Loop]
+Fully labeled components with educational descriptions
+Transparent and exploded sections revealing internal architecture
+Show clear arrows to denote the flow in a linear fashion
+
+-------------------------------------------------
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
