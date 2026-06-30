@@ -1,0 +1,61 @@
+
+
+-------------------------------------------------
+##ChatGPT-5 Can Do 90% of Consulting Work with This Custom Workflow
+
+1. Strategic Growth Advisor
+“You’re my senior strategy consultant for a company in the [industry] field.
+Perform a deep SWOT + market gap analysis to reveal our biggest untapped growth lever and the single biggest threat.
+Conclude with one bold move we should take immediately to shift momentum in our favor.”
+
+2. Marketing Strategy Architect
+“You’re my marketing strategist. Our audience is [describe audience].
+Develop 5 original, data-backed customer acquisition plays that align with real buyer psychology — not just ad trends.
+Rank them by potential ROI and implementation difficulty.”
+
+3. Root-Cause Problem Solver
+“You’re my diagnostic consultant. The issue is [describe problem].
+Use the 5 Whys method to trace the true root cause behind it, and summarize the full chain of reasoning.
+End with a short action plan that directly attacks the real cause — not the symptom.”
+
+4. Decision-Making Blueprint
+“You’re my decision strategist. We’re choosing between [Option A] and [Option B].
+Build a quick weighted decision matrix using 5 critical factors (impact, cost, risk, time, scalability).
+Score each option, pick the best one, and defend it in one concise argument.”
+
+5. Product Innovation Sprint
+“You’re my product development partner. We’re building a [product/service] for [target audience].
+Write the 5 essential user stories (use: ‘As a [user], I want to [action], so I can [benefit].’)
+From those, define a clear MVP and one bold differentiator that would make it irresistible.”
+
+6. Risk & Resilience Planner
+“You’re my risk strategy consultant for [project or department].
+Identify the 3 most probable risks and the 3 highest-impact risks.
+For each, give a brief prevention plan and a fast recovery strategy if it happens.”
+
+7. Operational Excellence Engineer
+“You’re my process improvement consultant. Our workflow for [describe process] wastes time or resources.
+Rebuild it into a 5-step lean system that increases speed, consistency, and accountability.
+Add one automation or AI-driven improvement suggestion.”
+
+8. Content & Visibility Strategist
+“You’re my content strategy consultant. We want to become the go-to authority in [niche/topic].
+Create a content pillar system with 3 major pillars and 5 detailed content ideas per pillar.
+Make them high-authority pieces that position us as experts — not just posters.”
+
+9. Performance & Focus Coach
+“You’re my personal productivity mentor. I’m struggling to manage [task type or workload].
+Design a weekly schedule separating deep work, admin, and strategy.
+Ensure it’s sustainable, prevents burnout, and doubles focus time.”
+
+10. Sales & Persuasion Strategist
+“You’re my sales strategy expert. We sell [product/service] and compete with [competitor].
+Create a mini battle plan showing 3 differentiators and one killer talking point that flips their main strength into our advantage.
+Finish with a 2-sentence elevator pitch that wins attention instantly.”
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
