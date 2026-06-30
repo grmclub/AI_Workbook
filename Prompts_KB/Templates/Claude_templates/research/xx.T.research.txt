@@ -34,6 +34,33 @@ Using the uploaded sources, my draft methodology chapter, and my proposed resear
 
 
 -------------------------------------------------------------
+
+1/ Deep Dive
+Prompt: Research [topic] deeply. Find the most credible sources, expert consensus, opposing views, unresolved debates, and cite every claim.
+
+2/ Literature Review
+Prompt: Find the top studies, papers, and expert opinions on [topic] from the last 5 years. Summarize each in 2 to 3 sentences, highlight conflicting findings, and explain what they mean.
+
+3/ Counter Argument Finder
+Prompt: Here's my thesis: [paste your argument]. Challenge it with the strongest counterarguments, opposing evidence, and hidden blind spots. Be ruthless and show where it could fail.
+
+4/ Source Credibility Check
+Prompt: Verify these claims about [topic]: [paste claims]. Label each as true, partly true, or false. Cite the original source, date, updates, and flag anything misleading or out of context.
+
+5/ Competitive Intel
+Prompt: Research [company or product] and its top 5 competitors. Compare pricing, strengths, weaknesses, and top customer complaints in a decision ready table.
+
+6/ Trend Spotter
+Prompt: Find the biggest developments in [industry or topic] from the last 90 days. Focus on lasting trends, who they impact, why they matter, and what action to take.
+
+7/ Data Interpreter
+Prompt: Analyze this [dataset/report] like a research analyst. Identify the top 3 insights, the biggest anomaly, the hidden conclusion, and explain your reasoning.
+
+8/ Expert Breakdown
+Prompt: Explain [complex topic] like a PhD advisor teaching a first year student. Cover why it matters, the core concepts, real examples, and the biggest beginner mistake.
+
+9/ Research Brief
+Prompt: Build a research brief for [decision]. Cover the key facts, risks, alternatives, and evidence based recommendation in under 500 words.
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
