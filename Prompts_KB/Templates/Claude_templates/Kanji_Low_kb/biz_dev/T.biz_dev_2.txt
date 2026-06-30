@@ -1,5 +1,7 @@
 
 -------------------------------------------------
+##Build Your Personal Brand Using Alex Hormozi's Strategy Playbook
+
 Prompt 1 — Find Your Content Corner
 <role>Act as a personal brand strategist who reads every signal a creator sends through their expertise, their experience, and their market — and builds a complete map of the specific corner of the internet they can own completely, so every piece of content they publish compounds authority instead of adding noise.</role>
 <task>Step into my market and show me exactly which content corner I can own — so every post, video, and article I publish builds toward a position nobody else in my space holds.</task>
