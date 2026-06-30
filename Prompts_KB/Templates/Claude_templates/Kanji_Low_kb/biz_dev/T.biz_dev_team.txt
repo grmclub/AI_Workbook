@@ -1,0 +1,261 @@
+
+-------------------------------------------------
+##50 Claude Prompts That Feel Like You Hired a Full Team (2026 Edition):
+
+CONTENT TEAM
+01 — Full Authority Article Writer
+You are an expert content strategist who specialises in [NICHE]. Write a long-form article about [TOPIC].
+Audience: [DESCRIBE]
+Tone: direct, conversational, no fluff
+Length: 2,500–3,000 words
+Requirements:
+* Open with a bold, counter-intuitive claim (not generic)
+* Short paragraphs (max 3 sentences each)
+* At least 3 real examples, numbers, or case studies
+* Bold key phrases so readers can scan easily
+* End with 1 clear action step or CTA
+Must NOT sound like: generic SEO content, LinkedIn thought-leader post, or corporate blog.
+Success means: the reader finishes and wants to apply at least one idea immediately.
+
+02 — Viral Thread Writer
+You are a viral X/Twitter writer who engineers scroll-stopping threads. Write a 10-tweet thread about [TOPIC].
+Rules:
+* Tweet 1: Stop the scroll — bold counter-intuitive claim, a surprising number, or "Most people do X. The top 1% do Y."
+* Each tweet: under 280 characters, one clear idea, use line breaks for clarity
+* No hashtags
+* Only use emojis where they genuinely add emphasis
+Topic: [TOPIC]
+Target audience: [AUDIENCE]
+The thread should build — each tweet adds a new layer. End with a clear takeaway or CTA.
+
+
+03 — Content Repurposing Engine
+You are a content strategist who turns 1 piece into 5+ pieces. Take this original content and turn it into:
+1. A Twitter/X thread (8–12 tweets, each under 280 characters)
+2. A LinkedIn post (hook + short story + 1–2 takeaways, 150–200 words)
+3. A newsletter intro (50–75 words, curiosity-driven, no fluff)
+4. Three standalone quote graphics (short, bold statements from the text)
+5. A YouTube video outline (hook, 3 main points, CTA)
+Original content: [PASTE]
+Rules:
+* Reword for each platform's culture (no copy-paste paragraphs)
+* Keep each output short, scannable, and native-sounding
+* Avoid "in today's world" or "unlock your potential"
+
+
+04 — Headline & Hook Generator
+You are a headline specialist who studies top-performing content. Generate 20 headline options for an article about [TOPIC].
+Each headline must include at least one of:
+* A specific number (best between 15 and 50)
+* A curiosity hook ("Most people don't know…", "You're missing…", "Nobody talks about…")
+* A "complete list / full guide"-style promise
+Then: rank the top 5 by predicted engagement and explain 1–2 reasons why each should work.
+Audience: [AUDIENCE]
+Niche: [NICHE]
+
+05 — 30-Day Content Calendar
+You are a content strategist who builds predictable, high-performing content calendars. Build a 30-day content calendar for [PLATFORM].
+Rules:
+* Frequency: [e.g., "daily" or "5x per week"]
+* Mix: threads, short posts, long posts, polls, engagement posts
+* Group topics into weekly themes (e.g., "habit building", "AI tools", "productivity")
+* Include 2 "tentpole" posts per month (big-idea pieces designed for reach)
+For each day, give: content type, topic/angle, hook (first line), why it fits the week's theme, estimated time to create.
+Do not make the plan unrealistic. Assume the creator is busy and consistency matters more than perfection.
+
+06 — Blog Post to Email Sequence
+You are an email marketing specialist. Convert this blog post into a 5-email nurture sequence:
+* Email 1: Hook — tease the core idea, create curiosity
+* Email 2: Problem — describe the pain in detail
+* Email 3: Solution — deliver the main value from the article
+* Email 4: Proof — 1 example, result, or mini-story
+* Email 5: CTA — clear next step
+For each email: subject line (under 50 characters, curiosity-driven), preview text (under 90 characters), body (150–250 words), 1 clear CTA.
+Blog post: [PASTE]
+
+
+07 — SEO Article Optimizer
+You are an SEO content specialist. Optimize this article for the keyword: [TARGET KEYWORD].
+Give:
+1. Optimized title tag (under 60 characters, keyword near front)
+2. Meta description (under 155 characters, keyword natural)
+3. 3–5 H2/H3 suggestions using keyword variations
+4. 5 internal linking ideas (topics or pages to link to)
+5. 3 new sections to add (questions or sub-topics to cover)
+6. Any sentences to rewrite for better keyword flow (without sounding forced)
+Article: [PASTE]
+
+
+08 — Case Study Writer
+You are a business writer who turns real stories into compelling case studies. Write a case study based on these details:
+* Client/Subject: [WHO]
+* Problem: [WHAT THEY WERE STRUGGLING WITH]
+* Solution: [WHAT WAS IMPLEMENTED]
+* Results: [SPECIFIC OUTCOMES — use numbers]
+Structure:
+1. Situation (2–3 sentences, set the scene)
+2. Challenge (what made it hard, why past attempts failed)
+3. Approach (step-by-step, clear actions)
+4. Results (before vs after, with numbers)
+5. Key takeaway (1 sentence the reader should remember)
+Tone: professional but not boring, more like a story. Length: 500–800 words.
+
+09 — Video Script Writer
+You are a YouTube scriptwriter who specialises in engaging, educational videos. Write a script for a [LENGTH] video about [TOPIC].
+Rules:
+* Hook (first 15 seconds — pattern interrupt, bold claim, or surprising stat)
+* Context (next 30 seconds — why this matters now)
+* Main content (3–5 key points, each with 1 concrete example)
+* Recap (15 seconds — 3 main takeaways)
+* CTA (10 seconds — subscribe, comment, or link)
+Tone: [e.g., "conversational, like talking to a smart friend, not a lecture"]
+Include natural transition phrases between sections. Mark where visuals should go with [B-ROLL: brief description].
+
+
+10 — Social Media Bio Writer
+You are a personal branding specialist who writes scroll-stopping bios. Write 5 bio options for my [PLATFORM] profile.
+Rules:
+* Under [CHARACTER LIMIT] characters
+* Start with what I do, not who I am
+* Include 1 specific credibility marker (number, result, or achievement)
+* End with what the reader gains by following
+Then: rank the 5 options by impact, and for each explain which audience it appeals to most.
+About me: [DESCRIBE YOURSELF, ROLE, EXPERTISE]
+Target audience: [WHO YOU WANT TO ATTRACT]
+Tone: [e.g., "confident but not arrogant, slightly witty"]
+
+11 — Build My Content Strategy
+Act as my content strategist for [business targeting audience]. Audit my current approach. Build a 90-day strategy with pillars, formats, cadence, and KPIs.
+
+12 — Content Pillar Generator
+Based on my brand [describe brand, values, audience] — identify 5 content pillars. Give the core theme, why it connects with my audience, and 3 example topics.
+
+13 — Quarterly Content Calendar
+Create a detailed calendar for Q[X]. My pillars are [list]. I publish [frequency] on [platforms]. Include themes, post types, hooks, and key dates.
+
+14 — Competitor Content Audit
+I compete with [list competitors]. Analyze what a strong content strategy looks like for each. Identify gaps I can own, formats they ignore, and angles I can improve on.
+
+15 — Content Repurposing Plan
+I just created [blog/video/podcast]. Build a repurposing tree that breaks it into 15 pieces across LinkedIn, Twitter/X, Instagram, email, and short-form video.
+
+16 — Audience Persona Deep Dive
+Build 3 detailed audience personas for my [business type]. Include demographics, psychographics, pain points, objections, and the language they use daily.
+
+17 — Content Funnel Mapping
+My product is [describe]. For awareness, consideration, and decision stages — give me 5 content ideas each with format, hook, and CTA.
+
+18 — Viral Hook Bank
+Give me 30 scroll-stopping hooks for content about [topic]. Mix bold claims, stories, stats, contrarian takes, and "how I" formats.
+-------------------------------------------------
+WRITING & COPYWRITING
+
+19 — Blog Post Architect
+Write a full SEO blog post outline on [topic] targeting [keyword]. Include H1/H2 structure, word count per section, internal link opportunities, and a meta description.
+
+20 — Newsletter Writer�Write a newsletter on [topic]. My tone is [describe]. Structure: punchy title, opening hook, 3 key insights, one actionable takeaway, and a soft CTA.
+
+21 — Case Study Builder
+Turn these raw details into a compelling case study: [paste details]. Use the Before, Solution, Results, Lesson framework. Make it story-driven, not corporate.
+
+22 — Landing Page Copy
+Write landing page copy for [product/offer]. Include headline, subheadline, 3 benefit bullets, social proof section, FAQ, and 2 CTA variations.
+
+23 — Email Sequence Designer
+Design a [X]-email welcome sequence for [audience]. For each email: subject line, preview text, body outline, emotional arc, and CTA. Space them [frequency].
+
+24 — Tone of Voice Guide
+Create a brand voice guide for my business [describe brand]. Define our voice across 4 dimensions, give do/don't examples, and show how it flows across platforms.
+
+25 — Short-Form Caption Pack
+Write 10 short captions for [platform] on [topic]. Keep each under 150 words. Mix hooks: question, bold claim, story opener, and stat. Include a CTA for each.
+-------------------------------------------------
+##SOCIAL MEDIA
+26 — LinkedIn Thought Leadership Post
+Write 5 LinkedIn posts for [niche] that build authority in [topic]. Mix: bold take, personal lesson, tool breakdown, framework share, and lesson learned. Keep them punchy and authentic.
+
+27 — Twitter/X Thread Builder
+Turn this idea into a thread [idea]. Write 10-12 tweets. Nail the hook tweet, maintain momentum, add a surprising twist, and end with a CTA.
+
+28 — Instagram Carousel Script
+Write a 10-slide carousel on [topic]. Slide 1: hook. Slides 2-8: one key point each under 30 words. Slide 9: summary. Slide 10: CTA. Keep it punchy.
+
+29 — Short-Form Video Scripts
+Write 5 short-form video scripts for [topic]. Each needs a 3-second hook, core content under 45 seconds, and a CTA. Include visual directions.
+
+30 — Content Batch Generator
+I need 30 days of content for [platform]. My pillars are [list]. Generate a post for each day with format type, hook, key message, and CTA. Vary the formats.
+
+31 — Engagement Post Ideas
+Give me 10 high-engagement post ideas for [platform] in [niche]. Focus on formats that drive comments: polls, hot takes, fill-in-the-blank, and open questions.
+
+32 — Community Building Playbook
+I want to build a community around [topic/brand]. Create a 30-day content plan that sparks conversation, creates rituals, and turns followers into advocates.
+
+33 — Viral Repost Strategy
+I have a post that did well: [paste post]. Analyze why it worked. Give me 5 variations to post over the next 30 days without sounding repetitive.
+-------------------------------------------------
+##SEO & DISTRIBUTION
+34 — SEO Content Cluster
+Build a topic cluster around [main keyword]. Give me 1 pillar page idea, 10 cluster topics with long-tail keywords, search intent for each, and an internal linking strategy.
+
+35 — Content Distribution Plan
+I just published [content type] about [topic]. Build a 14-day distribution plan across all channels: organic social, email, communities, partnerships, and paid amplification.
+
+36 — Keyword-to-Content Mapper
+Here are my target keywords: [list]. For each, recommend format, search intent, title, and estimated difficulty. Prioritize by impact.
+
+37 — Content Refresh Audit
+I have old content on [topic]. For each, tell me what to update, merge, redirect, or delete. Give specific refresh actions and SEO improvements.
+-------------------------------------------------
+##VIDEO & AUDIO
+38 — YouTube Video Planner
+Plan a YouTube video on [topic]. Include 8 title options with CTR psychology, thumbnail concept, intro hook within the first 30 seconds, content outline, and end-screen strategy.
+
+39 — Podcast Episode Blueprint
+Plan a podcast episode on [topic]. Include episode title, 3-sentence description, cold open hook, segment breakdown with timestamps, 5 key talking points, and a guest question list.
+
+40 — Webinar Content Structure
+Structure a 45-minute webinar on [topic] that sells [product] without being salesy. Include title, promotional copy, slide-by-slide outline, engagement moments, and the pitch transition.
+
+41 — Video Series Concept
+Create a 10-episode video series for [platform] about [topic]. Include series name, overarching narrative, episode titles, brief descriptions, and the binge-worthy thread connecting them.
+-------------------------------------------------
+##IDEATION & CREATIVITY
+42 — Content Brainstorm Sprint
+I'm stuck. Run a content brainstorm for [niche/topic]. Give me 25 ideas across 5 formats: long-form, short-form, visual, interactive, and experimental. Push beyond the obvious.
+
+43 — Contrarian Content Finder
+What does everyone in [industry] say that is wrong or oversimplified? Find 10 contrarian angles. For each: common belief, counter argument, and content hook.
+
+44 — Storytelling Framework
+Help me find and tell my brand story. Ask me 10 questions about my journey, then craft a compelling origin story I can use across all my content.
+
+45 — Content Remix Machine
+Here is my best-performing content from last quarter: [list]. For each piece, generate 3 fresh angles to revisit the same topic without sounding repetitive.
+
+46 — Audience Question Miner
+What questions is my audience asking about [topic]? Mine Reddit, forums, and search patterns. Give me 20 questions by awareness level with content format recommendations.
+
+47 — Partnership Content Ideas
+I want to grow my audience through content collabs [describe brand]. Give me 10 co-created content ideas, outreach angles, and how to structure the collaboration.
+
+48 — Content Moat Strategy
+Help me build content so valuable competitors cannot replicate it. What formats, depth, data, or community elements would make my content defensible?
+-------------------------------------------------
+##BRAND & POSITIONING
+49 — Thought Leadership Blueprint
+I want to become a thought leader in [niche]. My unique POV: [describe]. Give me 2 signature frameworks, recurring content formats, and a 6-month authority roadmap.
+
+50 — Brand Messaging Matrix
+Build a messaging matrix for my brand. Columns: audience segment. Rows: key message, proof point, and CTA. Make it usable across all content.
+
+51 — Personal Brand Content System
+Build a personal brand content system for me. I am [describe]. Define my tone, recurring formats, signature phrases, and a weekly content rhythm.
+
+52 — Authority Content Ladder
+I am new in [space]. Build me a content ladder from unknown to go-to expert. What to publish at each stage, which formats build authority fastest, and when to shift from education to opinion.
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
