@@ -64,6 +64,8 @@ generate a more beautiful image with a lighter background and better graphics
 
 generate nice graphics to explain concepts of high frequency trading applications to a new joiner in equities trading systems
 
+generate nice graphics to explain concepts of high frequency trading applications in a ultra low latency trading infrastructure to a new joiner in equities trading systems
+
 -------------------------------------------------
 -------------------------------------------------
 The Core Low-Latency Trading Loop ("The Golden Path")
