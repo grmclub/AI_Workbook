@@ -1,0 +1,29 @@
+
+-------------------------------------------------------------
+##20 Secret Claude Commands
+
+01 — /ultrathink: Forces Claude to reason at full depth before answering, so you get a considered response, not a guess.
+02 — /godmode: Tells Claude to be as thorough as possible, covering every angle of the question in one go.
+03 — /L99: Pushes Claude to its highest expert level, with no simplifying and nothing dumbed down.
+04 — /UDA: Runs a military-style root cause analysis, breaking the problem down from every angle.
+05 — /OODA: Works the problem through Observe, Orient, Decide, Act — a fast loop for deciding under pressure.
+06 — /persona: Locks Claude into one expert role for the whole chat, so every answer comes from that view.
+07 — /eli5: Explains anything in plain language, the way you would for someone with zero background.
+08 — /skeptic: Makes Claude challenge your question first, instead of taking it at face value and answering.
+09 — /noyap: Cuts all preamble and filler, so Claude gives the answer first and nothing you do not need.
+10 — /premortem: Assumes your plan has already failed, then works backwards to find why it went wrong.
+11 — /tree: Generates multiple possible paths before choosing the best answer, instead of committing to the first idea.
+12 — /falsify: Actively tries to prove the answer wrong before presenting it, reducing mistakes and blind spots.
+13 — /steelman: Rebuilds the strongest possible version of an argument before evaluating or criticizing it.
+14 — /redteam: Attacks the idea from every angle to uncover weaknesses, risks, and hidden flaws before execution.
+15 — /inversion: Solves the problem backwards by identifying what would guarantee failure, then avoiding those actions.
+16 — /socratic: Guides learning through strategic questions instead of directly giving answers.
+17 — /firstprinciples: Breaks complex problems into fundamental truths, then rebuilds the solution from the ground up.
+18 — /devilsadvocate: Takes the opposing side intentionally to expose weak assumptions and strengthen decisions.
+19 — /punch: Cuts your text by around 40% and tightens what is left, so every line lands harder.
+20 — /pitch: Turns any idea into a tight 30-second investor pitch, framed to land with a busy decision maker.
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------

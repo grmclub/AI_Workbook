@@ -239,4 +239,22 @@ Prompt 5: "Write me an Amazon listing that turns browsers into buyers"
 
 
 -------------------------------------------------------------
+📌 1. Initialize “Creator Intelligence Mode” (Your AI Brain Upgrade)
+Prompt:
+“You are now operating in Creator Intelligence Mode for a [NICHE] creator with [AUDIENCE SIZE] followers on [PLATFORMS]. My audience is [DESCRIBE AUDIENCE + PAIN POINTS]. In this mode, you generate high-performing ideas, write engaging content, and build scalable strategies. Stay in this mode for all future prompts in this session.”
+
+📌 2. Full Content Audit (Find What’s Holding You Back)
+This helps you to diagnose first and stop posting blindly.
+Prompt:
+“Still in Creator Intelligence Mode. Analyze my last 30 days of content: [PASTE CONTENT]. Identify: my core message, gaps in my strategy, weak patterns, and missed opportunities. Then give me the single highest-impact change I should make immediately.”
+
+📌 3. Idea Generation Engine (Never Run Out of Content)
+Turn your past wins into future growth.
+Prompt:
+“Still in Creator Intelligence Mode. Here are my top-performing posts: [PASTE]. Break down why each worked (hook, structure, emotion, timing). Then generate 30 new content ideas using similar frameworks but with fresh angles. Label each by platform, format, and intent (engagement, growth, or conversion).”
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
 -------------------------------------------------------------

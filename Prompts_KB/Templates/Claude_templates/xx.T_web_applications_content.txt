@@ -30,7 +30,11 @@ Skipping this step is why most AI websites look like garbage.
 
 "Act as my technical project manager. Give me a complete launch checklist for this website. Include: how to deploy it for free using [Netlify/Vercel/GitHub Pages], how to connect a custom domain, how to set up Google Analytics and Search Console, SSL setup, how to test everything before going live, and a post-launch SEO submission plan. Make it step-by-step so a complete beginner can follow it."
 
+-------------------------------------------------------------
 
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
 
 -------------------------------------------------------------
 -------------------------------------------------------------

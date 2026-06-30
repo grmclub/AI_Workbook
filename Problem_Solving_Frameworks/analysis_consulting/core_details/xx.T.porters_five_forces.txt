@@ -1,0 +1,114 @@
+
+-------------------------------------------------------------
+What Are Porter's Five Forces?
+
+Porter's Five Forces is a tool used to analyze a market or industry and determine its competitiveness. These five forces were developed by Harvard business professor Michael Porter, who wrote about the strategic analysis model in the Harvard Business Review in 1979.1 The five forces are: internal competition, the potential for new entrants, the negotiating power of suppliers, the negotiating power of customers, and the ability of customers to find substitutes.
+
+Understanding Porter's Five Forces
+
+When Porter's article was published, strategic models loved acronyms (SWOT, PEST, PESTEL, BCG Matrix, ETPS, etc.) and focused on the internal dynamics of individual companies.2 However, they were vague in their exploration of the competitive business environment. For instance, the opportunities and threats of SWOT analysis were too macro for many dealing with specific industry challenges.
+
+Porter's 1979 article was also a broadside against the theoretical models found in the curriculums of major business schools, where future strategists dealt with a perfectly competitive market characterized by equilibrium and no specific firm influencing prices—a model they were unlikely to find in the real world.
+
+The first sentence of Porter's 1979 article could hardly be less controversial: "The essence of strategy formulation is coping with competition."
+-------------------------------------------------------------
+Porter’s Five Forces Framework
+The five forces are used to identify where power lies in a business situation, helping to understand an organisation's competitive position and evaluate the strength of potential positions the organisation may consider moving into.
+
+The framework consists of five forces, which are:
+
+1.Competitive rivalry
+2.Threat of substitute products
+3.Bargaining power of buyers
+4.Threat of new entrants
+5.Bargaining power of suppliers
+
+
+-------------------------------------------------------------
+##The Five Forces in Detail
+
+1. Competitive Rivals
+
+When we think of business competition, we think of rivals like Pepsi and Coke for soft drinks, Apple and Samsung for smartphones, Nike and Adidas for sneakers, and Ford and GM for autos. Some rivalries are so influential that consumers are almost culturally split between those who have an iPhone or prefer Nike shoes. Thus, it's no accident that we also consider business competition chiefly a war among rivals.
+
+Rivalries can lead to price wars, high-priced marketing battles, and races for slight advances that could mean a competitive advantage. These tactics can stimulate companies to make even better products, but also erode profits and market stability.
+
+Several factors contribute to the intensity of competitive rivalry in an industry:
+
+    The number of competitors: More competitors means a fiercer rivalry where each fights for scraps of market share.
+    Industry growth: Competition is usually less dramatic because the market grows so fast that competitors have little need to fight for customers—think of the automobile industry of the early 20th century. Competition can be ferocious in a declining industry as firms fight for a larger piece of a shrinking pie, such as in the print media industry of today.
+    Similarities in what's offered: Competition tends to be intense because customers can easily switch when goods and services are very similar. However, a unique offering or brand loyalty can reduce competitive rivalry. Apple (AAPL) comes to mind in tech goods, just as Rao's Italian sauces or King Arthur flour do in your supermarket aisles, each charging a higher price given whatever makes it unique.
+    Exit barriers: When it's difficult or costly for companies to leave the industry due to specialized assets, contractual obligations, or emotional attachment, they may choose to stay and compete, even if the market's prospects grow dimmer. For instance, airlines have high costs, which means that when airlines face a shrinking market—or even an unprofitable route—they can't retreat from the market quickly.
+    Fixed costs: Porter notes that companies have a "strong temptation" to cut prices rather than slow production when demand drops in industries with fixed costs.1 He cites paper and aluminum manufacturing as two good examples.
+
+2. Potential for New Entrants in an Industry
+
+Industries where new firms can enter more easily almost always have lower profit margins, and the firms involved each have less market share.
+
+The sector for local restaurants has relatively low entry requirements: there aren't significant investments or regulatory hurdles before opening to the public. Thus, it's also the case that your favorite restaurant may not stay open for long, given the hypercompetitive environment and constant openings of new restaurants.
+
+Here are factors in measuring how much new entrants threaten an industry:
+
+    Economies of scale: Industries where large-scale production leads to lower costs face less of a threat from new entrants. New firms would need to achieve a similar size to compete on price, which might be difficult or costly.
+    Product differentiation: When existing firms have strong brand identities or customer loyalty, it's harder for new entrants to gain market share, reducing the threat of entry.
+    Capital requirements: High startup costs for equipment, facilities, etc., can deter new entrants. For example, starting a car manufacturing business requires significant investment, so until Tesla's (TSLA) growth in the early 2010s, Americans from the 1950s could have named the major U.S. car brands of the early 2000s.
+    Access to distribution channels: If existing firms control the distribution channels—retail stores, online platforms, cable infrastructure, etc.—then new entrants would need to find a way to replicate that structure while competing with the established firms on price, which is a tricky proposition.
+    Regulations: Licenses, safety standards, and other regulatory standards can create barriers, making it too ungainly or costly for new firms to enter the market. Examples include those looking to build new hotels in downtown areas or supply power to a region.
+    Switching costs: If it's costly or difficult for customers to switch from existing firms to new entrants, the threat of entry is lower.
+
+3. Supplier Power
+
+Suppliers have power when they’re a company's only source of something important, offer unique products, or have strong brands. Higher supplier power in an industry raises costs or otherwise limits the resources a firm needs.
+
+Here are some factors used to measure the supplier power of an industry:
+
+    The number of suppliers: When a few firms can give a company something it needs to stay in business, each has greater negotiating power. They can raise prices or reduce quality without fear of losing business.
+    Uniqueness: If a supplier provides a unique product or it's not easy to find a substitute, it is more dominant. Businesses can't easily switch to another supplier.
+    Switching costs: If it's costly or time-consuming to switch suppliers, then they have more power. Businesses are less likely to switch, even if prices increase.
+    Forward integration: If suppliers can move into the buyer's industry, they have more power. They already have access to the necessary supplies, making it difficult for their former buyers to compete once they decide to enter the market themselves.
+    Industry importance: Some sectors are tightly intertwined, such as automotive suppliers and the major auto companies, or the semiconductor and tech industries, which can balance the power between the suppliers and those in the sector. This is because the supplier needs these buyers to do well so that it can, too. When a supplier can just as easily sell its products elsewhere, that gives it a great deal more power.
+
+4. Customer Power
+
+When customers have more strength, they can exert pressure on businesses to provide better products or services at lower prices. This force intensifies under certain conditions:
+
+    The number of buyers: Fewer buyers mean more power. In sectors like aerospace manufacturing, each major airline (the industry's customers) has significant leverage in negotiations and can demand favorable terms because the sellers depend on their business.
+    Purchase size: Just like you head off to the big box stores to buy in bulk for a cheaper per-unit cost on whatever now fills up your garage, major retail chains like Walmart (WMT) buy in large volumes and can negotiate better terms and discounts.
+    Switching costs: In industries like telecommunications, where it's easy for consumers to switch providers, companies such as Verizon (VZ) and AT&T (T) have to offer competitive terms.
+    Price sensitivity: In the fast-fashion industry, where customers are highly price-sensitive, brands must keep their prices low to attract cost-conscious consumers.
+    Informed buyers: In many sectors, the customers are savvy, know the competitive terrain well, and thus can negotiate better prices.
+
+ 5. Threat of Substitutes
+
+When customers can find substitutes for a sector's services, that's a major threat to the companies in that industry.2 Here are some ways that this threat can be magnified:
+
+    Relative price performance: If a substitute's cost is lower and its performance is comparable or better, customers are likely to switch to the substitute. For instance, streaming services like Netflix (NFLX) became a substitute for traditional cable TV, providing a lower price that threatened the cable industry.
+    Customer willingness to go elsewhere: The threat is high if buyers find it easy to switch to a substitute. For example, customers found switching from taxis to ride-sharing apps like Uber or Lyft cheaper and easier.
+    The sense that products are similar: If buyers perceive that there are few differences between your product and a substitute, even if there are, they may be more likely to switch.
+    Availability of close substitutes: Though this sounds the same as the last bullet point, you have to strategize differently around it. There are times when potential substitutes are very different from a company's products but consumers still treat them as the same. But in other cases, there are genuinely similar products in the market and the threat of substitutes is high, such as between brand-name and generic medications.
+
+-------------------------------------------------------------
+##Competitive Measures
+
+Porter's framework marked a departure from the then-dominant models of business strategy, steeped in classic competition theory.3 These models rested on several key assumptions:
+
+    Markets are arenas for many small firms with no significant market power
+    Homogeneous products
+    Perfect information symmetry
+    No barriers to market entry or exit
+	
+##Applying the Model
+
+Since his article, Porter has published many books on strategic analysis, including works where he has expanded on his model. He's also become very concise in providing the specific steps in performing an industry analysis:5
+
+    Define the industry: The process begins with a clear description of the industry, helping you to focus your analysis.
+    Identify the key players: Specify and group the major actors in the sector into strategic categories based on relevant criteria.
+    Assess the strategic strengths: This means evaluating the firm and its industry to determine the best and worst strategies that can be applied.
+    Analyze the industry structure: This involves examining the overall structure of the industry, particularly the factors that influence how profitable it is.
+    Evaluate the competitive forces: Only once you've done the above does Porter advise doing a detailed analysis of the five competitive forces, assessing the positive and negative effects, and then looking ahead to any changes in these forces.
+    Identify the factors you have some control over: Here, you want to pinpoint aspects of the industry structure that could be influenced by competitors, new market entrants, or your firm. In sum, what can be changed?	
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------

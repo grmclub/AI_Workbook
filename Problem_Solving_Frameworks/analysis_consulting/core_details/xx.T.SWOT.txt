@@ -1,0 +1,18 @@
+
+-------------------------------------------------------------
+SWOT analysis case study framework
+
+The SWOT management consulting framework provides a quick, flexible way to assess a company’s business strategy. The analysis consists of four key areas:
+
+    Strengths: What is the company doing well? What differentiates it from its competitors?
+    Weaknesses: What could be improved? What is holding the business back from being more competitive?
+    Opportunities: What positive externalities could help the org improve its competitive advantage?
+    Threats: What external forces could disrupt the business and reduce its competitive advantage?
+
+Note the relationship between the four quadrants. Whereas strengths and weaknesses are internally driven, opportunities and threats are external factors. 
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------

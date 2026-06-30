@@ -82,5 +82,9 @@ Prompt:
 
 
 -------------------------------------------------
+📌 Prompt:
+Minimalist automotive poster design in A4 portrait format for [CAR NAME]. A modern sports car shown in a clean side profile silhouette, premium automotive wall art aesthetic, vast negative space, monochrome black and white color scheme with a single red accent. Elegant Swiss-inspired layout, subtle technical specifications, thin geometric lines, refined typography, museum-quality print design, ultra-clean composition, luxury automotive branding style, high-end poster suitable for framing, professional graphic design, vector-inspired precision, premium paper print look.
+
+
 -------------------------------------------------
 -------------------------------------------------

@@ -1,0 +1,25 @@
+
+
+-------------------------------------------------------------
+##BCG Growth Share Matrix
+
+At its simplest, the BCG Growth Share Matrix revolves around two factors: market share and market growth. From there, each factor has two possibilities: high or low. 
+
+Doing the math, that means the matrix itself consists of four possible market outcomes:
+
+    High growth, high share (a “star”): This is a high-potential market venture. Thus, prioritize investment.
+    High growth, low share (a “question mark”): Either invest or pass over, depending on the likelihood of gaining significant market share.
+    Low growth, high share (a “cash cow”): Leverage these markets for easy cash to reinvest.
+    Low growth, low share (a “pet”): This is a low-potential market venture. Thus, prioritize divestment.
+
+The talent optimization process consists of four steps:
+
+    Design: Gain alignment on a people strategy that reflects the business’s goals.
+    Hire: Hire employees that fit the people strategy.
+    Inspire: Build high-performing teams that leverage employees’ natural strengths—and minimize blind spots.
+    Diagnose: Routinely measure and act on employee engagement data.
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
