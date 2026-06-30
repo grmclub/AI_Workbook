@@ -1,0 +1,296 @@
+
+-------------------------------------------------
+##20 Claude Prompts I Use Every Week
+
+1. The CEO Daily Planner
+You are a world-class productivity strategist.
+Help me create the most effective plan for today.
+My goals:
+[Goals]
+My tasks:
+[Tasks]
+My meetings:
+[Meetings]
+My deadlines:
+[Deadlines]
+Create:
+• My top 3 priorities
+• An optimized schedule
+• Tasks that can be delegated or automated
+• Potential bottlenecks
+• The highest-leverage actions
+• A realistic definition of a successful day
+Present everything in priority order.
+
+2. The 10-Minute Research Brief
+
+You are a professional research analyst.
+Research the following topic:
+[Topic]
+Provide:
+• Executive summary
+• Key trends
+• Important statistics
+• Major companies or players
+• Opportunities
+• Risks and challenges
+• What most people misunderstand
+• Sources to explore further
+Make the report concise and practical.
+
+3. Untangle Any Idea
+I am going to share an unstructured idea.
+Your job is to:
+• Identify the core idea
+• Organize it logically
+• Find missing pieces
+• Point out weaknesses
+• Suggest improvements
+• Rewrite it into a clear framework
+Idea:
+[Paste idea]
+
+4. Learn Any Topic Faster
+You are an expert teacher.
+
+Teach me:
+[Topic]
+Structure your response using:
+• Simple explanation
+• Key principles
+• Real-world examples
+• Common mistakes
+• Practice exercises
+• Memory shortcuts
+• Summary
+Assume I am intelligent but completely new to this topic.
+
+5. The Decision Framework
+Help me evaluate this decision:
+[Situation]
+Analyze:
+• Benefits
+• Risks
+• Second-order consequences
+• Best-case scenario
+• Worst-case scenario
+• Alternative options
+Then recommend the most rational path and explain why.
+
+6. Instant Writing Upgrade
+Improve the following text.
+Goals:
+
+• More clarity
+• More persuasion
+• More brevity
+• Better flow
+• Stronger credibility
+Text:
+[Paste text]
+Then explain the top 5 improvements you made.
+
+7. Break Down Any Problem
+Help me solve this problem:
+[Problem]
+Provide:
+• Root causes
+• Contributing factors
+• Key constraints
+• Potential solutions
+• Pros and cons of each solution
+• Recommended next steps
+Think step-by-step.
+
+8. Should I Pursue This Idea?
+You are an experienced startup advisor.
+Evaluate this idea:
+[Idea]
+Analyze:
+
+• Market demand
+• Target customer
+• Competition
+• Revenue potential
+• Key risks
+• Barriers to entry
+• Likelihood of success
+Give an honest recommendation.
+
+9. Explain It Like I'm Smart But Busy
+Simplify the following information:
+[Paste information]
+Break it into:
+• Main takeaways
+• Plain-English explanation
+• Why it matters
+• Practical applications
+• What to remember
+Use simple language.
+
+10. Build A Personal Brand Growth Plan
+You are a personal branding strategist.
+My niche:
+[Niche]
+Platform:
+[Platform]
+Current audience:
+[Size]
+Goal:
+[Goal]
+Create:
+• Content pillars
+• Posting strategy
+• Growth opportunities
+• Engagement tactics
+• Collaboration opportunities
+• 90-day roadmap
+Focus on realistic growth.
+
+11. High-Performing Post Generator
+Create a social media post about:
+[Topic]
+Include:
+• Attention-grabbing hook
+• Story or insight
+• Actionable lesson
+• Clear structure
+• Strong ending
+Make it sound natural and human.
+
+12. Future Trends Analysis
+You are a technology and business analyst.
+Analyze the future of:
+[Industry]
+Predict:
+
+• Major changes
+• Emerging opportunities
+• Declining trends
+• Skills worth learning
+• Potential new business models
+Explain your reasoning.
+
+13. AI Opportunity Finder
+Analyze this industry:
+[Industry]
+Identify:
+• Emerging trends
+• Customer frustrations
+• Underserved audiences
+• AI opportunities
+• Potential products or services
+Rank opportunities by impact and difficulty.
+
+14. My Personal Board Of Advisors
+Act as a panel of experts.
+Assume the perspectives of:
+• CEO
+• Investor
+• Strategist
+• Psychologist
+My situation:
+[Situation]
+My goals:
+
+[Goals]
+Advise me on:
+• What to focus on
+• What to stop doing
+• Biggest opportunities
+• Biggest risks
+• Next actions
+
+15. Skill Gap Analysis
+My current role:
+[Role]
+My target role:
+[Role]
+Current skills:
+[Skills]
+Identify:
+• Missing skills
+• Most valuable skills to develop
+• Learning priorities
+• Recommended resources
+• Estimated timeline
+• Competitive advantages
+Create a roadmap.
+
+16. Why Did This Go Viral?
+Analyze this content:
+[Paste content]
+
+Explain:
+• Why it performed well
+• Emotional triggers
+• Hook structure
+• Content framework
+• Retention drivers
+• How I can adapt these ideas
+Provide actionable lessons.
+
+17. Find 10 Hours Per Week
+Analyze my workflow:
+[Workflow]
+Identify:
+• Repetitive tasks
+• Automation opportunities
+• Recommended AI tools
+• Time-saving potential
+• Quick wins
+• Implementation plan
+Focus on practical improvements.
+
+18. Career Acceleration Roadmap
+Current role:
+[Role]
+Target role:
+[Role]
+Create:
+
+• Skill roadmap
+• Networking strategy
+• Portfolio projects
+• Personal brand plan
+• 90-day action plan
+• Long-term growth strategy
+Focus on realistic execution.
+
+19. Business Ideas Hidden In My Skill Set
+My skills:
+[Skills]
+My interests:
+[Interests]
+Generate 10 business ideas.
+For each idea include:
+• Problem solved
+• Target audience
+• Revenue model
+• First version to build
+• Market opportunity
+• Difficulty rating
+Rank from strongest to weakest.
+
+20. High-Value Problem Finder
+Research the following industry:
+[Industry]
+Identify:
+
+• Expensive problems
+• Who experiences them
+• Existing solutions
+• Why current solutions fall short
+• Market opportunity
+• Potential product ideas
+Rank opportunities by urgency and demand.
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
