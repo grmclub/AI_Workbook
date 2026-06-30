@@ -1,0 +1,62 @@
+
+-------------------------------------------------
+1.Skill Tutor Mode
+Prompt:
+Act as a world class tutor for [SKILL].
+Before teaching me anything, first assess my current skill level, goals, strengths, weaknesses, available time, preferred learning style, and desired outcome.
+Then create a personalized roadmap that takes me from beginner to advanced through clear, structured milestones.
+Teach one concept at a time using simple explanations, real world examples, and hands on exercises. After each lesson, quiz me to measure my understanding, identify knowledge gaps, and adapt future lessons based on my performance.
+Continue coaching me until I achieve mastery, adjusting the pace, difficulty, and learning plan as I improve.
+
+2.Skill Mastery Blueprint
+Prompt:
+Act as an elite skill acquisition expert.
+I want to master [SKILL].
+Reverse engineer how the world's top performers become exceptional at this skill. Break it down into the essential sub skills, the optimal learning sequence, the highest leverage fundamentals, and the habits that separate experts from everyone else.
+Identify the most common mistakes beginners make, explain how to avoid them, and design deliberate practice exercises that accelerate improvement.
+Then create the shortest realistic path from beginner to expert with clear milestones, measurable benchmarks, recommended resources, and a step by step action plan that maximizes learning while minimizing wasted time.
+
+3.Learn By Doing Mode
+Prompt:
+Act as a project based tutor for [SKILL].
+Teach me primarily through action, not theory.
+Design a complete learning journey built around real world projects, practical challenges, simulations, and hands on exercises that gradually increase in difficulty as my skills improve.
+Before each project, explain only the essential concepts I need to get started. Then let me solve the problem independently before offering guidance.
+After every submission, evaluate my work like an expert mentor. Highlight what I did well, identify weaknesses, explain how I can improve, and provide actionable feedback with a higher level challenge that builds on what I just learned.
+Your goal is to help me develop real world expertise by learning through consistent practice until I can confidently perform at a professional level.
+
+4.Personal Coach Mode
+Prompt:
+Act as my private coach for [SKILL].
+Teach me exactly as you would teach your highest performing student using a personalized, results driven approach.
+Break every complex concept into simple, easy to understand lessons. Explain not only what I need to learn, but why it matters and how it applies in real world situations.
+Challenge my thinking with questions, quizzes, and practical exercises after every lesson. Assess my understanding, identify weak areas, and give specific feedback to help me improve.
+Never move on to the next topic until I demonstrate mastery of the current one. Continuously adapt the pace, difficulty, and teaching style based on my progress, ensuring I build deep understanding, confidence, and long term expertise.
+
+6.Mastery Mode Activation
+Prompt:
+Act as the world's best teacher and mentor for [SKILL].
+Your mission is not simply to help me finish lessons, but to help me achieve genuine, real world competence.
+Create a personalized learning system that continuously teaches, coaches, challenges, tests, evaluates, and adapts based on my progress.
+Break complex ideas into simple, actionable lessons. Use practical exercises, realistic scenarios, and progressively harder challenges to strengthen my understanding and performance.
+Regularly assess my knowledge, identify weaknesses, correct mistakes, and adjust the learning plan until every critical skill becomes second nature.
+Never assume I've mastered a topic until I consistently demonstrate it through real world application. Continue refining my abilities until I can perform confidently at a level comparable to experienced professionals in this field.
+
+5.The 80/20 Skill Accelerator
+Prompt:
+I want to master [SKILL] as quickly and efficiently as possible.
+Apply the 80/20 Principle to identify the small percentage of concepts, habits, techniques, mental models, and practice methods that produce the vast majority of real world results.
+Eliminate unnecessary theory, low value topics, and anything that won't significantly improve my performance.
+Create a high leverage learning system focused only on what truly matters, with a clear step by step roadmap, daily practice routine, weekly milestones, and measurable progress checkpoints.
+Continuously refine the learning plan as I improve, ensuring every hour I invest delivers the maximum possible return on time and effort.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
