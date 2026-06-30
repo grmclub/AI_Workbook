@@ -286,6 +286,29 @@ Upload your notes, SOPs, useful documents, or personal reference files to make t
 
 
 -------------------------------------------------------------
+Prompt 1: Profitable Document Ideas
+“Generate 15 digital document products I can create in Google Docs and sell online. Focus on high-demand items like resumes, business plans, checklists, and trackers. Include target audience and suggested price for each.”
+
+Prompt 2: Template Structure Builder
+“Create a detailed outline for a professional [type: resume/business plan/budget tracker] template in Google Docs. Include all sections, what content goes where, formatting tips, and placeholder text that makes it easy for buyers to customize.”
+
+Prompt 3: Product Description Package
+“Write a compelling product listing for my Google Docs [template type]. Include: attention-grabbing title, benefit-focused description, what’s included section, and 5 customer testimonial templates I can use once I get reviews.”
+
+Prompt 4: Lead Magnet Creator
+“Design 5 free Google Docs templates I can give away to build my email list in the [niche] space. Make them valuable enough that people will share their email, but simple enough that my paid products are clear upgrades.”
+
+Prompt 5: Bundle Strategy Planner
+“I’m selling [Google Doc product]. Create 3 bundle ideas that combine this with complementary documents, suggest bundle pricing that increases perceived value, and write copy that makes the bundle irresistible.
+
+Prompt 6: Marketing Email Sequence
+“Write a 5-email sequence to sell my Google Docs [product]. Email 1: introduce the problem, Email 2: share transformation story, Email 3: explain the solution, Email 4: handle objections, Email 5: final push with urgency.”
+
+
+
+
+
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
