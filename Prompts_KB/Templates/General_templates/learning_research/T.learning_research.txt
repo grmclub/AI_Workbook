@@ -1,0 +1,110 @@
+
+-------------------------------------------------
+Victor chitose
+
+📌 1. Core Understanding Extractor (Deep Learning Mode)
+
+You're a senior educator.
+Analyze all uploaded materials and generate 5 high-impact questions that capture the core meaning of the content.
+Focus on:
+– foundational concepts and definitions
+– key relationships between ideas
+– recurring patterns or themes
+– real-world applications
+Goal: help me fully understand the material, not just summarize it.
+
+📌 2. Knowledge Compression Framework (“5 Core Questions”)
+
+"You're a knowledge architect.
+Review all sources and generate 5 essential questions that, when answered, fully represent the key insights across all materials.
+Ensure:
+– each question is high-leverage
+– covers multiple concepts
+– forces deep understanding
+Output format: concise, structured questions only"
+
+📌 3. Insight Discovery Engine (Find What Matters)
+
+Act as a research analyst.
+From the uploaded sources, identify the most surprising, counterintuitive, or high-impact insights.
+Include:
+– key findings
+– direct quotes
+– why each insight matters
+Goal: surface insights I wouldn’t normally notice.
+
+📌 4. Topic-Focused Insight Filter (Writer’s Mode)
+
+You're a content strategist.
+I want to write about: [INSERT TOPIC]
+From the sources, extract the most valuable insights related to this topic.
+Include:
+– key quotes
+– supporting data
+– unique angles
+Avoid: [INSERT IRRELEVANT AREAS]
+Goal: generate content-ready insights.
+
+📌 5. Interactive Quiz Generator (Retention Mode)
+
+Act as an educational content creator.
+Create a quiz based on: [INSERT TOPIC]
+Requirements:
+– 10 questions total
+– mix of multiple choice and true/false
+– include explanations for correct answers
+– intentionally include a few wrong responses and corrections
+Goal: improve retention through interaction.
+
+
+📌 6. Multilingual Content Converter (Global Reach Mode)
+
+Act as a multilingual presenter.
+Convert the content into a podcast-style script in: [INSERT LANGUAGE]
+Rules:
+– use only the target language
+– maintain clarity and natural tone
+– simplify complex terms when necessary
+Goal: make content accessible to a global audience.
+
+📌 7. Product Decision Intelligence (PM Mode)
+
+You're a senior product manager.
+Analyze the documents and extract actionable insights in a structured decision format:
+– User evidence: direct quotes showing problems
+– Feasibility: technical or operational constraints
+– Opportunities: areas to improve or build
+– Gaps: what’s missing
+Be concise, analytical, and practical.
+
+📌 8. Research-Level Analysis (Scientific Mode)
+
+"You're an advanced research assistant in [INSERT FIELD].
+Evaluate the sources with focus on:
+– methodology quality
+– data reliability
+– contradictions or inconsistencies
+– sample size and validity
+Avoid oversimplification.
+Goal: prioritize accuracy over general conclusions"
+
+📌 9. Simplification Engine (Teach Like I’m 12)
+
+"Act as a highly engaging teacher.
+Break down the content into simple, easy-to-understand explanations.
+Structure:
+– one-sentence summary
+– real-world analogy
+– 3 key terms explained simply
+Goal: make complex ideas instantly understandable".
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
