@@ -353,6 +353,38 @@ Long-term implications
 Present the information using concise business language and prioritize only the insights that will have the greatest impact.
 
 -------------------------------------------------
+##Use Grok for research
+
+📌 1. Real-Time Trend Spotting
+Unlike other AIs that search the static web, Grok has direct access to live X (Twitter) posts.
+👉Ask Grok what topics are getting "unusual engagement" right now. This allows you to create content based on what people are saying today, not what was in an article last week.
+
+📌 2. Deep Research Mode
+​Use the phrase "Using deep search" in your prompt.
+👉 ​This makes Grok to scan both the web and live X data simultaneously. This gives you two sides to every story: the "official" marketing claims and the "real-world" user feedback from X posts.
+
+📌 3. Writing with "Spine" ✍️
+​ChatGPT and Claude are trained to be safe and neutral. Grok is trained to take a position.
+👉 Use the custom instructions panel to tell Grok to:
+​Write with confidence.
+​Use no hedging language.
+​Take clear positions.
+
+📌 4. Grok AI Video Setup
+​Critical Setting (Very important): Go to Behavior Settings on Grok and turn OFF "Automatic Video Generation." This gives you manual control over which images to animate.
+​Aspect Ratio: Choose Landscape (16:9) for YouTube videos.
+
+📌 5. The Character Consistency Secret
+​Generate your first scene.
+​Play the video to a frame where the character looks perfect.
+​Right-click and "Copy Video Frame" .
+​Paste that frame into the Grok prompt box for the next scene.
+Then, ​add your next prompt. This locks the character so they don't change between shots!
+
+📌 6. The "@" Prompting System 🔥
+​This is the most important part in creating of videos. To reference your images, you must use the "@" symbol followed by the image number (e.g., @image1).
+​Example Prompt: "The character from @image1 starts running, then trips as seen in @image2, and finally stands up in the pose of @image3."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
