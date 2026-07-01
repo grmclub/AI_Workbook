@@ -1,4 +1,65 @@
 
+-------------------------------------------------
+You don't need to spend hundreds of dollars to master Claude.
+
+These 12 free guides will take you from beginner to advanced 👇
+Most people pay for knowledge that's already available for free.
+
+If you're a founder, creator, marketer, or developer, learning Claude is one of the highest-ROI skills you can invest in this year.
+
+From writing and research to coding, automation, and AI agents—Claude can do far more than most people realize.
+
+If you stay consistent, these free resources are enough to become a power user.
+
+🟢 Level 1 — Get Started
+
+1. Claude 101
+↳ Learn the fundamentals and everyday workflows.
+
+2. AI Capabilities & Limitations
+↳ Understand what AI does well—and where it falls short.
+
+3. The Claude Content OS
+↳ A complete content system for founders growing on LinkedIn.
+
+🟡 Level 2 — Save Hours Every Week
+
+4. Agent Skills
+↳ Turn repetitive workflows into one-command automations.
+
+5. 150 Claude Prompts
+↳ Proven prompts for marketing, writing, and content creation.
+
+6. Intro to Claude Cowork
+↳ Collaborate with Claude on documents, presentations, and files.
+
+🟠 Level 3 — Build Smarter
+
+7. Claude Code 101
+↳ Start building and shipping with Claude Code.
+
+8. Claude SEO Tracking
+↳ Monitor how Claude references your brand online.
+
+9. Introduction to Subagents
+↳ Build AI agents that work together on complex tasks.
+
+🔴 Level 4 — Advanced
+
+10. Build with Claude API
+↳ Create your own AI-powered apps and workflows.
+
+11. Claude Computer Use
+↳ Let Claude operate your computer and complete tasks.
+
+12. Model Context Protocol (MCP)
+↳ Connect Claude to your tools and automate your entire workflow.
+
+📌 Save this thread.
+
+One guide each week is enough to completely transform how you use AI.
+
+Which level are you on right now?
 
 -------------------------------------------------
 PROMPT 1 — Find the buyers
