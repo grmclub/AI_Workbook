@@ -49,13 +49,106 @@ My brand colors are [HEX 1] and [HEX 2]. My fonts are [FONT NAME]. Each should f
 7.Full Website Mockup
 "Build a complete responsive multi-page website as an artifact for [YOUR BUSINESS]. Navigation, hero, about, services, portfolio, testimonials, contact form, footer. Responsive with animations."
 
-
-
-
-
-
-
 -------------------------------------------------
+## 7 Prompts That Can Build a Website From Scratch Using Gemini 3.5 Pro
+
+📌 1. Website Architecture Intelligence Prompt
+(Build the skeleton before you decorate the house.)
+You're a senior conversion-focused website strategist.
+Based on the business information below, design a complete website architecture optimized for clarity, authority, and conversions.
+Include:
+– Required core pages
+– Section breakdown for each page
+– Logical content flow
+– Primary and secondary CTAs
+– Conversion objective per page
+– Trust-building elements needed
+Business Details:
+– Industry: [Insert]
+– Target Audience: [Insert]
+– Core Offer: [Insert]
+– Price Point: [Insert]
+– Primary Goal (Leads / Sales / Authority / Bookings): [Insert]
+– Unique Advantage: [Insert]
+👉This ensures your site is built with strategy, not vibes.
+
+📌 2. Brand Positioning & Messaging Engine
+(If your positioning is weak, your website won’t convert.)
+Analyze the business details below and define:
+– Brand voice (tone, personality, communication style)
+– Market positioning statement
+– Unique value proposition
+– Core emotional driver
+– Brand promise
+– Messaging pillars
+Ensure the positioning feels premium, differentiated, and aligned with my audience psychology.
+Business Details:
+[Insert full business summary]
+👉This creates consistency across your entire website.
+
+📌 3. Homepage Conversion Framework Prompt
+(Your homepage is not decoration. It’s persuasion.)
+You're a CRO (conversion rate optimization) specialist.
+Build a high-converting homepage structure tailored to my business.
+Include:
+– Headline formula with emotional trigger
+– Subheadline logic
+– Authority positioning block
+– Problem agitation section
+– Solution breakdown
+– Benefits hierarchy
+– Objection-handling elements
+– Proof placement strategy
+– CTA placement strategy
+Business Details:
+[Insert]
+
+📌 5. Full Website Copy Generator (Aligned With Strategy)
+Using the defined brand voice and structure above, generate complete persuasive copy for:
+– Home
+– About
+– Services / Products
+– Contact
+Requirements:
+– Clear and concise
+– Emotionally engaging
+– Objection-aware
+– Action-oriented
+– Consistent with positioning
+Maintain this tone: [Insert tone style]
+Avoid: [Insert words or tone to avoid]
+👉This prevents robotic or generic website copy.
+
+📌 6. Premium Visual Direction Blueprint
+(Design influences trust before words do.)
+Provide a detailed visual direction strategy for this website.
+Include:
+– Recommended layout style (minimal, bold, editorial, etc.)
+– Color palette suggestions (with psychology explanation)
+– Typography pairings
+– Spacing and layout principles
+– Visual hierarchy strategy
+– Image style guidance
+– UI inspiration direction
+Brand Personality: [Insert]
+Target Audience Type: [Insert]
+👉This gives you a designer’s thinking, not random Canva colors.
+
+📌 7. SEO Infrastructure Optimization Prompt
+(Traffic doesn’t happen by accident.)
+You're an SEO strategist.
+Optimize my website content for organic search visibility.
+Provide:
+– Title tag recommendations per page
+– Meta descriptions (CTR optimized)
+– Primary and secondary keyword suggestions
+– Internal linking structure
+– Schema markup suggestions
+– On-page optimization checklist
+Industry: [Insert]
+Target Region: [Insert]
+👉This ensures your website is discoverable, not invisible.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
