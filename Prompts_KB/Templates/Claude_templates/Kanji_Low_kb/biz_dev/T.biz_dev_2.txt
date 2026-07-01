@@ -90,6 +90,78 @@ Prompt 5 — Build Your Personal Brand Compounding System
 <output>Platform and Format Map → Single-Piece to Platform Gap → Repurposing Chain → The Ignored Distribution Channel → Weekly Execution Schedule → 90-Day Milestone</output>
 
 -------------------------------------------------
+## branding
+
+SECTION 01 — STRATEGY FOUNDATION
+
+1. You're my brand strategist. Tell me where my positioning is leaking authority.
+2. Pitch me 3 campaign ideas that would make competitors uncomfortable.
+3. Audit my niche. What are most brands getting lazy about?
+4. Sharpen my brand POV until it can't be confused with anyone else in my space.
+5. Map the emotional shifts my audience needs to feel before they buy.
+6. If my brand vanished tomorrow, what gap would it leave — and what does that say about my real value?
+
+SECTION 02 — VOICE & MESSAGING
+
+7. Write 5 versions of my brand tagline. Make one of them make me slightly nervous to post.
+8. Find the tension in my message — the thing I'm dancing around but never saying directly.
+9. Rewrite my bio so it sounds like someone who has already won, not someone trying to prove it.
+10. What's the one sentence my audience needs to read to feel immediately understood?
+11. Strip my messaging down to its core. What am I actually promising — and does my content deliver it?
+12. Give me 3 hooks that open a wound before I offer the solution.
+
+SECTION 03 — STORYTELLING & CONTENT
+
+13. Turn this idea into a story with a villain, a turning point, and a lesson that earns the share.
+14. What's the contrarian angle on this topic that would make my audience stop mid-scroll?
+15. Give me a content series that builds belief across 5 posts before I ever mention my offer.
+16. Rewrite this post so the first line is impossible to scroll past.
+17. What's the emotional payoff my audience wants from this content — and am I delivering it?
+18. Find the human moment buried in this piece of content and pull it to the front.
+
+SECTION 04 — OPTIMIZATION & GROWTH
+
+19. Read this post and tell me where attention drops off.
+20. What's missing from this carousel that's killing retention?
+21. Make this post worth sharing, not just consuming.
+22. Be ruthless. What feels predictable or safe in this draft?
+23. Give me 3 ways to lift this post without rewriting the idea.
+24. Pinpoint the exact moment this content loses people and patch it.
+
+SECTION 05 — AUDIENCE & POSITIONING
+
+25. Build a real profile of my ideal customer. Forget demographics — tell me what they're anxious about at 11pm.
+26. What does my audience quietly believe but never post about?
+27. Pull the exact words my audience uses when they describe their problem to a friend.
+28. List the objections my audience is too polite to bring up.
+29. Reframe my offer so saying no to it feels harder than saying yes.
+30. What does my audience need to believe about themselves before they trust me with their money?
+
+-------------------------------------------------
+Prompt 1
+"Take these NotebookLM notes and rewrite them as a 60-second explainer script. Use short punchy sentences. Each sentence should be one visual moment on a whiteboard."
+
+Prompt 2
+"Convert this concept from my notes into a step-by-step visual sequence. Format it as: Step 1 [what gets drawn], Step 2 [what gets drawn]. Make it work for a 90-second whiteboard animation."
+
+Prompt 3
+"I have these notes from NotebookLM. Write a whiteboard animation script with a clear hook in the first 5 seconds that stops the scroll. No talking head required."
+
+Prompt 4
+"Turn this summary into a 'problem → solution' whiteboard script. Show the problem visually in the first 20 seconds, then walk through the fix step by step."
+
+Prompt 5
+"Take my NotebookLM notes on [topic] and create a 'myth vs. reality' whiteboard animation script. Three myths, three corrections. Under 2 minutes."
+
+Prompt 6
+"Rewrite these notes as a storytelling whiteboard script. Start with a relatable struggle, build tension with the core insight, end with the transformation. Keep it under 90 seconds."
+
+Prompt 7
+"Convert these notes into a visual metaphor script. Pick one central metaphor (e.g. a map, a recipe, a bridge) and build the entire whiteboard animation around it."
+
+Prompt 8
+"Take this NotebookLM content and write a numbered list whiteboard script. '5 things most people don't know about [topic].' Each point gets one visual. Hook on point 1, payoff on point 5."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
