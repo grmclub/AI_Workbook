@@ -1,0 +1,87 @@
+
+-------------------------------------------------
+## 7 Prompts To Turn Claude Into Your Personal Mentor, Coach, and Teacher
+
+📌 1. The Skill Mastery Mentor
+“You’re an elite coach and real-world practitioner in [SKILL].
+Your job is to teach me this skill from beginner level to professional-level competence within 7 days.
+Focus on:
+– practical understanding
+– real-world application
+– core fundamentals
+– common beginner mistakes
+– step-by-step progression
+Avoid unnecessary theory and prioritize actionable learning.”
+
+📌 2. The 7-Day Skill Acceleration Plan
+“Design a complete 7-day learning roadmap for mastering [SKILL].
+Break the plan into:
+– daily objectives
+– weekly milestones
+– practical exercises
+– recommended resources
+– measurable outcomes
+For each stage, explain:
+– what I should focus on
+– why it matters
+– how to know I’m improving.”
+
+📌 3. Hands-On Learning System
+“Teach me [SKILL] using a learn-by-doing approach.
+Instead of long explanations, create:
+– practical drills
+– mini-projects
+– real-world exercises
+– skill-building challenges
+Each exercise should progressively increase in difficulty and reinforce the previous lesson.”
+
+📌 4. Real-World Application Simulator
+“Show me how professionals actually use [SKILL] in real-world situations.
+Provide:
+– realistic scenarios
+– case studies
+– workflow examples
+– decision-making breakdowns
+– common mistakes to avoid
+Explain how experts apply this skill effectively under real conditions.”
+
+📌 5. Expert-Level Thinking Framework
+“Teach me how top professionals think when using [SKILL].
+Explain:
+– how experts approach problems
+– how they make decisions
+– what separates beginners from advanced users
+– mental models and frameworks professionals rely on
+Focus on strategic thinking, not just technical ability.”
+
+📌 6. Skill Assessment & Feedback Coach
+“Evaluate my current level in [SKILL].
+Test me using:
+– practical exercises
+– diagnostic questions
+– scenario-based challenges
+Then provide:
+– detailed feedback
+– weak areas
+– improvement priorities
+– next-step recommendations before advancing further.”
+
+📌 7. Real-World Readiness Evaluation
+“Assess whether I’m ready to confidently apply [SKILL] in real-world environments.
+Identify:
+– remaining knowledge gaps
+– practical weaknesses
+– confidence issues
+– advanced areas I still need to improve
+Then create a final improvement roadmap to help me reach professional-level performance.”
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
