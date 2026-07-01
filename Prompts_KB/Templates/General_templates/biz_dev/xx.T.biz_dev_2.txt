@@ -140,7 +140,7 @@ Prompt:
 -------------------------------------------------
 ## Use Claude To Turn Your Average Captions Into Engagement Magnets
 
-Chinonso Victor
+
 📌 1/ Idea Miner
 Most creators repeat surface-level takes. This prompt forces Claude to dig where people aren’t looking yet.
 Prompt:
