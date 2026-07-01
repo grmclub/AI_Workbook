@@ -384,6 +384,99 @@ Create an ultra-realistic educational anatomy notebook page featuring a highly d
  Style: **Hyper-realistic 3D educational illustration, premium anatomy textbook quality, realistic handwritten notes, medical infographic design, clean academic aesthetic, ultra-detailed, photorealistic, 8K, HDR, global illumination, ray tracing, physically based rendering (PBR), studio-quality lighting, sharp focus, realistic textures, highly legible typography, Pinterest-worthy educational content, modern visual learning design.**
 3:4
 
+-------------------------------------------------------------
+Prompt:
+
+Create an ultra-realistic educational anatomy notebook page featuring a highly detailed 3D anatomical model of the [BODY PART] placed at the center of a clean spiral-bound sketchbook. The page should resemble a premium medical student's handwritten revision notebook with a realistic handcrafted aesthetic, combining scientific accuracy with attractive visual presentation.
+
+The [BODY PART] should appear as a high-quality 3D anatomical model with realistic biological textures, subtle gloss, intricate anatomical details, gentle ambient shadows, and physically accurate proportions. Color-code each major anatomical region using soft pastel shades that clearly distinguish different structures while maintaining a realistic medical appearance.
+
+Around the central 3D model, arrange neat handwritten labels connected with thin red arrows pointing precisely to each important anatomical structure. Include clear callouts for all major parts of the [BODY PART], ensuring the labels are scientifically accurate and easy to read.
+
+At the top of the notebook page, write in attractive handwritten typography:
+
+Human Body 3D Notes
+
+Below it, display a large elegant title:
+
+[BODY PART]
+
+Underline both headings using clean marker-style lines.
+
+Design the remaining page as a structured educational anatomy notebook with multiple handwritten revision sections surrounding the central 3D model:
+
+How does the [BODY PART] work?
+
+Write a short, simple, kid-friendly explanation describing what the [BODY PART] does and why it is important.
+
+Labeled Anatomy
+
+Include a clean anatomical diagram using handwritten labels and thin red arrows pointing to every major structure.
+
+Step-by-Step Process
+
+Illustrate how the [BODY PART] works using a numbered flow or cycle with curved arrows and small supporting illustrations where appropriate.
+
+Key Functions
+
+Present the main functions inside a neatly outlined handwritten box with small colorful icons beside each function.
+
+Zoom-In Detail
+
+Include a magnified circular callout showing an important internal structure (such as cells, tissues, microscopic anatomy, or functional units), rendered as an ultra-realistic 3D medical illustration.
+
+Fun Facts
+
+Add several interesting handwritten facts inside a colorful rounded notebook box with small doodles.
+
+Health Tips
+
+Create a green-outlined "Healthy Habits" box containing concise handwritten tips explaining how to keep the [BODY PART] healthy.
+
+Did You Know?
+
+(Optional) Include an additional handwritten fact or comparison panel with a small supporting illustration.
+
+Use realistic blue handwritten ink for all text and labels with slight marker imperfections to mimic authentic classroom notes.
+
+The notebook should feature:
+
+• Premium white paper texture
+
+• Black spiral binding on the left
+
+• Soft rounded page corners
+
+• Clean academic notebook layout
+
+• Balanced spacing
+
+• Wide clean margins
+
+• Professional medical illustration aesthetics
+
+• Thin red annotation arrows
+
+• Rounded handwritten note boxes
+
+• Soft colored highlighter accents
+
+The central anatomical model should remain the main visual focus, with all educational sections carefully arranged around it without clutter.
+
+Lighting should be soft natural daylight from the upper left, producing realistic shadows beneath both the notebook and the 3D anatomical model. The background should be warm neutral wood or soft cream, slightly blurred to emphasize the notebook.
+
+Style: Hyper-realistic 3D educational illustration, premium anatomy textbook quality, realistic handwritten medical notes, classroom infographic design, clean academic aesthetic, ultra-detailed, photorealistic, 8K, HDR, global illumination, ray tracing, physically based rendering (PBR), studio-quality lighting, sharp focus, realistic textures, highly legible handwritten typography, Pinterest-worthy educational content, modern visual learning design.
+
+Output: A4 portrait format (1:1.414), 2480 × 3508 px or higher resolution, ultra-sharp.
+
 
 -------------------------------------------------------------
 -------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+
+
+
