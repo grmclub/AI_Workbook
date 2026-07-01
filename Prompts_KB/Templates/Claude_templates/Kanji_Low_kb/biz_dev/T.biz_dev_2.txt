@@ -163,6 +163,43 @@ Prompt 8
 "Take this NotebookLM content and write a numbered list whiteboard script. '5 things most people don't know about [topic].' Each point gets one visual. Hook on point 1, payoff on point 5."
 
 -------------------------------------------------
+1. Set a Clear Goal
+❌ "Make it better"
+✅ "Rewrite this so it does one specific thing: convinces a skeptical law firm principal to book a 30-minute call within 48 hours. Every sentence should move them closer to that decision. Cut anything that doesn't serve that goal."
+
+2. Provide Context
+❌ "Improve this email"
+✅ "This email is going to a cold prospect — a principal at a mid-size Melbourne law firm. They've never heard of us. They get 200+ emails a week and delete most in 3 seconds. Write this so it reads like it's from a peer who understands their world, not a vendor pitching software. No jargon. No buzzwords. Get to the point in the first line."
+
+3. Use Examples and References
+❌ "Make this sound better"
+✅ "Rewrite this in the style of Alex Hormozi — punchy, direct, zero fluff, short paragraphs, strong verbs. Here's an example of his writing for tone reference: [paste 2–3 sentences]. Match that energy but keep the core message intact. Don't add any new claims I haven't made."
+
+4. Break It Down Step by Step
+❌ "Fix this proposal"
+✅ "Review this proposal in three passes. Pass 1: identify the three weakest sections and explain why they're weak. Pass 2: rewrite each weak section with a stronger value proposition. Pass 3: tighten the opening paragraph so a busy executive decides to keep reading within the first 10 seconds. Show me each pass separately."
+
+5. Challenge Assumptions
+❌ "Make this more persuasive"
+✅ "Before you improve this, play devil's advocate. List the 5 biggest objections a cynical law firm partner would have after reading it — the reasons they'd close the tab or delete the email. Then rewrite the piece to preemptively neutralise each objection without sounding defensive."
+
+6. Think Like an Expert
+❌ "Make this sound smarter"
+✅ "You are a senior partner at a top-tier management consulting firm. You've reviewed hundreds of strategy documents and you have zero patience for vague claims or filler content. Read this document and tell me: what's missing, what's weak, what would you cut entirely, and what single section would you rewrite first to make this credible? Then rewrite that section."
+
+7. Stress Test the Result
+❌ "Is this good?"
+✅ "Read this as if you're the most skeptical person in the room — a CFO who has been burned by vendors before, who rolls their eyes at AI hype, and who makes decisions based purely on ROI and risk. What would make you dismiss this in the first 10 seconds? What would make you keep reading? Now rewrite it so even you can't dismiss it."
+
+8. Define What "Better" Actually Means
+❌ "Make it better"
+✅ "Score this piece out of 10 across four dimensions: clarity (is it easy to understand?), persuasiveness (does it move the reader to act?), credibility (does it build trust?), and conciseness (does every word earn its place?). Show me the scores first. Then improve only the two lowest-scoring dimensions. Don't touch what's already working."
+
+
+—---------
+
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
