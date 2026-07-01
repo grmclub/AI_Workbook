@@ -99,6 +99,128 @@ Structure:
 Goal: make complex ideas instantly understandable".
 
 -------------------------------------------------
+Step 1: Identify and Define the Research Problem
+Objective: Clearly identify a meaningful research problem and refine it into a focused, relevant, and researchable topic that addresses a genuine gap in existing knowledge.
+Upload to NotebookLM:
+- Research idea or concept note
+- Preliminary literature
+- Key journal articles
+- Reports and policy documents (if applicable)
+- Notes on the research context or field
+
+Prompt:
+"Using the uploaded research materials, help me identify and define a clear, significant, and researchable problem for my research proposal. Critically evaluate the existing literature to identify unresolved issues, inconsistencies, emerging trends, practical challenges, and gaps in current knowledge. Assess the originality, relevance, and feasibility of the proposed research topic and explain why it is important to investigate. Refine the research problem into a concise and compelling problem statement that is suitable for a research proposal. Provide recommendations for strengthening the significance, clarity, focus, and scholarly contribution of the proposed study."
+
+
+Step 2: Conduct a Preliminary Literature Review
+Objective: Explore and critically evaluate the existing literature to understand the current state of knowledge, identify key theories and debates, and refine the direction of the proposed research.
+Upload to NotebookLM:
+- Preliminary journal articles
+- Conference papers
+- Book chapters
+- Reports and policy documents (if applicable)
+- Research problem and concept note
+- Existing literature review notes (if available)
+Prompt:
+"Using the uploaded literature and research problem, conduct a preliminary literature review to evaluate the current state of knowledge on my proposed research topic. Identify the major theories, concepts, methodological approaches, key findings, debates, and recent developments within the literature. Critically assess the strengths, limitations, inconsistencies, and unresolved issues across existing studies. Identify potential research gaps and explain how they relate to my proposed study. Provide recommendations for refining the research focus and strengthening the theoretical and scholarly foundation of my research proposal."
+
+Step 3: Develop the Research Aim, Objectives, and Questions
+Objective: Develop a clear research aim, specific objectives, and focused research questions that align with the identified research problem and guide the entire study.
+Upload to NotebookLM:
+- Research problem statement
+- Preliminary literature review
+- Key journal articles
+- Concept note or research proposal draft
+- Notes on identified research gaps
+Prompt:
+"Using the uploaded research problem, literature review, and supporting materials, help me develop a clear research aim, specific research objectives, and focused research questions for my research proposal. Critically evaluate whether the proposed aim, objectives, and questions are logically aligned with the identified research problem and research gap. Assess whether the research questions are clear, feasible, sufficiently focused, and capable of generating meaningful findings. Recommend improvements to strengthen their clarity, coherence, originality, and scholarly significance. Ensure that the final research aim, objectives, and questions provide a strong foundation for the proposed study and are suitable for a high-quality research proposal."
+
+Step 4: Establish the Research Gap and Justification
+Objective: Clearly identify the research gap and develop a compelling justification that demonstrates the significance, originality, and potential contribution of the proposed study.
+Upload to NotebookLM:
+- Preliminary literature review
+- Key journal articles
+- Research problem statement
+- Research aim, objectives, and questions
+- Notes on existing knowledge gaps
+Prompt:
+"Using the uploaded literature, research problem, and research objectives, critically evaluate the existing body of knowledge to identify the most significant research gap addressed by my proposed study. Assess whether the identified gap is theoretical, methodological, empirical, or practical, and explain why it warrants further investigation. Critically examine the originality, relevance, and significance of the proposed research and justify how it will contribute to advancing knowledge, informing practice, or addressing real-world challenges. Provide recommendations for strengthening the research gap, justification, and scholarly contribution to ensure that the proposal presents a compelling rationale for conducting the study."
+
+Step 5: Develop the Conceptual or Theoretical Framework
+Objective: Develop a robust conceptual or theoretical framework that explains the relationships among key concepts, variables, or constructs and provides a strong foundation for the proposed study.
+Upload to NotebookLM:
+- Research problem statement
+- Literature review
+- Research aim, objectives, and questions
+- Key journal articles
+- Existing conceptual or theoretical frameworks (if available)
+Prompt:
+"Using the uploaded research materials, literature review, and research objectives, help me develop an appropriate conceptual or theoretical framework for my research proposal. Identify the key concepts, variables, constructs, or theories that are most relevant to the proposed study and explain how they relate to one another. Critically evaluate existing theoretical and conceptual frameworks used in previous studies and recommend the most suitable framework for my research. Justify why the selected framework is appropriate for addressing the research problem and objectives. Identify any limitations, inconsistencies, or gaps in existing frameworks and recommend modifications or integrations where appropriate. Present the framework in a clear, logically structured, and academically rigorous manner that strengthens the theoretical foundation of my research proposal."
+
+Step 6: Design the Research Methodology
+Objective: Develop a rigorous and appropriate research methodology that aligns with the research problem, objectives, and questions and ensures the study can be conducted systematically and ethically.
+Upload to NotebookLM:
+- Research proposal draft
+- Research aim, objectives, and questions
+- Literature review
+- Conceptual or theoretical framework
+- Relevant methodology references or journal articles
+- Institutional or funding guidelines (if available)
+Prompt:
+"Using the uploaded research proposal, literature review, conceptual or theoretical framework, and research objectives, help me design an appropriate research methodology for my proposed study. Critically evaluate the suitability of different research philosophies, approaches, designs, sampling strategies, data collection methods, instruments, and data analysis techniques. Recommend the most appropriate methodological choices based on the research questions and objectives, and justify each recommendation using relevant methodological literature. Assess the feasibility, validity, reliability or trustworthiness, ethical considerations, and potential limitations of the proposed methodology. Provide recommendations for strengthening the methodological rigor, coherence, and overall quality of the research design to ensure that it is suitable for a high-quality research proposal."
+
+Step 7: Develop the Research Plan and Timeline
+Objective: Develop a realistic and well-structured research plan that outlines the sequence of research activities, project milestones, timelines, and resource requirements for successful completion of the study.
+Upload to NotebookLM:
+- Research proposal draft
+- Research methodology
+- Research objectives and questions
+- Institutional or funding guidelines (if available)
+- Project requirements or deadlines
+- Available resources and constraints (if available)
+Prompt:
+"Using the uploaded research proposal, methodology, research objectives, and project requirements, help me develop a comprehensive research plan and timeline for my proposed study. Break the project into logical phases, including literature review, research design, ethics approval (if applicable), data collection, data analysis, interpretation of findings, report writing, revision, and final submission. Estimate realistic timeframes for each activity, identify key milestones and deliverables, and assess the feasibility of the proposed schedule. Identify potential risks, bottlenecks, or resource constraints that may affect project completion and recommend practical mitigation strategies. Provide recommendations for improving the efficiency, organization, and overall feasibility of the research plan to ensure the successful completion of the proposed study."
+
+Step 8: Write and Integrate the Research Proposal
+Objective: Develop a clear, coherent, and persuasive research proposal by integrating all sections into a logically structured and academically rigorous document.
+Upload to NotebookLM:
+- Research problem statement
+- Literature review
+- Research gap and justification
+- Research aim, objectives, and questions
+- Conceptual or theoretical framework
+- Research methodology
+- Research plan and timeline
+- Target university, funding agency, or institutional guidelines (if available)
+Prompt:
+"Using the uploaded research proposal components and submission guidelines, help me write and integrate a complete research proposal. Organize the proposal into a logical structure, including the introduction, research problem, literature review, research gap, justification, research aim and objectives, research questions, conceptual or theoretical framework, methodology, research plan, ethical considerations, expected contributions, and references. Critically evaluate the clarity, coherence, logical flow, and consistency of the proposal. Identify weaknesses, redundancies, inconsistencies, or missing sections and provide recommendations for strengthening the overall quality, academic rigor, persuasiveness, and readability of the research proposal."
+
+Step 9: Evaluate and Strengthen the Proposal
+Objective: Critically evaluate the research proposal to identify weaknesses, improve clarity and coherence, strengthen the scholarly argument, and enhance the overall quality before submission.
+Upload to NotebookLM:
+- Complete research proposal draft
+- Research problem statement
+- Literature review
+- Research methodology
+- Conceptual or theoretical framework
+- Target university, funding agency, or institutional guidelines
+- Reviewer or supervisor feedback (if available)
+Prompt:
+"Using the uploaded research proposal, supporting materials, and submission guidelines, conduct a comprehensive evaluation of my proposal. Critically assess the clarity of the research problem, the strength of the literature review, the justification for the research gap, the alignment between the research aim, objectives, questions, conceptual or theoretical framework, and methodology, and the overall logical flow of the proposal. Identify weaknesses, inconsistencies, unsupported arguments, redundant sections, or areas requiring further development. Evaluate whether the proposal demonstrates originality, feasibility, methodological rigor, and scholarly significance. Provide detailed, constructive, and actionable recommendations for strengthening the proposal and improving its overall quality and competitiveness."
+
+Step 10: Refine, Proofread, and Finalize the Proposal
+Objective: Conduct a comprehensive final review of the research proposal to ensure it is clear, coherent, academically rigorous, and fully compliant with submission requirements.
+Upload to NotebookLM:
+- Final research proposal draft
+- Target university, funding agency, or institutional guidelines
+- Assessment rubric or evaluation criteria (if available)
+- Reviewer or supervisor feedback (if available)
+- Referencing and citation guidelines
+Prompt:
+"Using the uploaded research proposal, submission guidelines, assessment criteria, and reviewer feedback, conduct a comprehensive final review of my proposal. Critically evaluate the clarity, coherence, logical flow, academic writing quality, methodological rigor, originality, and overall scholarly contribution of the proposal. Verify that all sections are complete, internally consistent, and fully aligned with the research problem, objectives, research questions, conceptual or theoretical framework, and methodology. Identify grammatical, structural, formatting, referencing, and citation issues, as well as any remaining weaknesses, inconsistencies, or omissions. Provide detailed, constructive, and actionable recommendations to improve the proposal's clarity, readability, academic quality, and overall readiness for submission."
+
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
