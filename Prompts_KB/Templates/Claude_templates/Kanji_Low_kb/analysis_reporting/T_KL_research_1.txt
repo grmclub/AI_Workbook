@@ -34,6 +34,85 @@ Surfaces disagreements across your sources: "From papers on [TOPIC], identify ma
 
 
 -------------------------------------------------------------
+#research
+
+1. Research Assistant
+
+"Act as a PhD researcher. Conduct a comprehensive research review on [Topic]. Summarize the most important concepts, findings, debates, trends, and practical implications in a structured format."
+
+2. Literature Review Builder
+
+"Act as an academic researcher. Create a literature review on [Topic]. Identify major themes, key arguments, areas of agreement, conflicting viewpoints, and research gaps."
+
+
+3. Expert Explainer
+
+"Explain [Topic] as if you're teaching an intelligent beginner. Break down complex concepts into simple language, analogies, examples, and step-by-step explanations."
+
+4. Research Gap Finder
+
+"Analyze the current knowledge around [Topic] and identify unanswered questions, underexplored areas, emerging opportunities, and potential future research directions."
+
+5. Critical Thinking Analyzer
+
+"Present the strongest arguments for and against [Topic]. Evaluate the evidence, assumptions, biases, limitations, and conclusions of each perspective."
+
+6. Source Comparison Engine
+
+"Compare the viewpoints of leading experts, organizations, and publications on [Topic]. Highlight similarities, differences, strengths, weaknesses, and key takeaways."
+
+
+7. Trend & Future Forecast
+
+"Act as a research strategist. Analyze current trends related to [Topic] and predict how the field may evolve over the next 5–10 years. Include opportunities, risks, and key drivers of change."
+
+
+
+
+—--------
+##Debate
+
+Prompt #1: The Steel Man Destroyer
+"I'm about to make this decision: [paste]. Steel man every argument AGAINST it. Be brutal. Don't soften anything. Then tell me what I'm missing that I'm probably too close to see."
+Most people use AI to confirm what they already think.
+This one stops you from making expensive mistakes.
+
+Prompt #2: The Constraint Architect
+"Here is my goal: [X]. Here are my real constraints: time [Y], budget [Z], team size [N]. Don't give me the ideal solution. Give me the best solution that works WITHIN these exact constraints. Flag any assumption you make."
+Generic advice is useless. Constrained advice is actionable.
+
+Prompt #3: The Second Order Thinker
+"I'm considering this move: [paste]. Map out the first, second, and third order consequences. Include what could go right, what could go wrong, and what most people in my position fail to anticipate."
+Chess players think 3 moves ahead. This prompt does it for your business.
+
+Prompt #4: The Invisible Bottleneck Finder
+"Here is everything I do in a typical week: [paste]. Identify the single constraint that, if removed, would create the most leverage across everything else. Reference the Theory of Constraints in your reasoning."
+You're not short on effort. You're short on clarity about where effort actually compounds.
+
+Prompt #5: The Pricing Psychologist
+"My offer is [X] priced at [Y]. Analyse my pricing using these three lenses: anchoring theory, loss aversion, and value perception. Then rewrite how I present the price so it feels like a no-brainer without discounting."
+Price is never just a number. It's a story.
+
+Prompt #6: The Assumption Auditor
+"Here is my current business model / strategy: [paste]. List every assumption this depends on being true. Rate each assumption by how confident I should actually be in it. Flag the ones that, if wrong, would collapse the whole thing."
+Most strategies fail not from bad execution but from unchecked assumptions.
+
+Prompt #7: The Narrative Extractor
+"Here are some rough notes from my experience / story: [paste]. Extract the core narrative arc. Identify the moment of tension, the turning point, and the insight. Then write it as a 150-word story that makes someone feel something."
+Facts inform. Stories convert. This prompt finds the story buried in your experience.
+
+Prompt #8: The Pre-Mortem
+"Assume it's 12 months from now and this project / launch / strategy completely failed. Walk me through exactly what went wrong, in order. Be specific. Then tell me what I should do differently starting Monday."
+This is the most uncomfortable prompt on this list.
+It's also the most valuable.
+
+
+
+
+
+—-------
+
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
