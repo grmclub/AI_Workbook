@@ -1,0 +1,55 @@
+
+-------------------------------------------------
+https://anthropic.skilljar.com/
+
+Claude 2026
+High value ai skills
+How to use claude to build products
+High value ai skills to be productive at work
+- acquire skills
+- elicit common design patterns
+- get high level model of a complex software application
+- product design patterns
+- monitoring app patterns
+- data analysis patterns
+---------
+Summary
+Refine
+Pick a topic do deep analysis 
+Synthesize results 
+Generate plan, actions, schedule 
+
+—--
+Architecture 
+Skills 
+Value creation 
+
+—-
+–Learning 
+aim
+Plan - structure 
+Schedule 
+Action
+
+#smart goals
+Objective - skills 
+Small steps to achieve that objective 
+
+—-----
+What are the five types of prompts?
+The five types include:
+Instruction Prompts.
+Question Prompts.
+Contextual Prompts.
+Role Based Prompts.
+Few Shot Prompts.
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
