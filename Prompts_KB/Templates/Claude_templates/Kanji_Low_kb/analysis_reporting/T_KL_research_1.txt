@@ -34,6 +34,65 @@ Surfaces disagreements across your sources: "From papers on [TOPIC], identify ma
 
 
 -------------------------------------------------------------
+17 UNIVERSAL AI PROMPTS YOU NEED IN 2026
+
+
+Why only 17 prompts?
+Most people do not know WHEN to use AI, not HOW to use it.
+
+You will face 4 work scenarios again and again:
+1. Writing and creating content
+2. Researching new topics fast
+3. Handling communication
+4. Managing time and focus
+
+Prompts are not about quantity. They are about WHICH ones you actually reuse.
+
+##WRITING (5 prompts)
+
+1. LONG BLOG POST
+Write a 1500 word article about [TOPIC] with:
+- Hook intro (2 sentences)
+- 5 subheadings with examples
+- Actionable takeaway
+- Memorable closing line
+Use conversational but authoritative tone.
+
+Best for: Blogs, internal research reports, year-end reviews. Saves 2 hours of structure thinking.
+
+
+2. EMAIL NEWSLETTER
+Write a newsletter with:
+- Catchy opening (1 sentence)
+- 1 core insight
+- 1 immediate action step
+- Short closing
+Keep it under 300 words.
+
+Best for: Company weekly updates, client update letters, personal newsletter. The hardest part about newsletters is "stable structure but unique every issue".
+
+17. DEEP WORK SYSTEM
+Design deep work system:
+- Focus session structure (60 min blocks)
+- Distraction prevention tactics
+- Reset ritual between sessions
+- Daily deep work target (hours)
+Make it actionable today.
+
+Best for: Work fragmented by meetings and messages, need to regain focus. No need to finish "Deep Work" entire book, AI gives condensed action steps.
+
+16. DECISION FRAMEWORK
+Build decision framework for [SITUATION]:
+- Criteria list with weights
+- Score each option 1 to 10
+- Weighted total calculation
+- Final recommendation
+Include pros and cons.
+
+Best for: "Take this offer or not", "Choose A or B" major decisions. Change "go by gut" to "checklist" thinking.
+
+—--------
+
 #research
 
 1. Research Assistant
