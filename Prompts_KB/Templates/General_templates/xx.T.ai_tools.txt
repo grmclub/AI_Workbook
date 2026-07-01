@@ -1,0 +1,84 @@
+
+-------------------------------------------------
+📌 1. Claude (Anthropic)
+Best for: structured thinking, long documents, clean explanations
+Claude is known for calm, professional-grade responses. It handles:
+• long PDFs
+• research summaries
+• coding
+• data analysis
+• thoughtful writing
+If you need clarity over hype, Claude shines.
+👉 Link: https://claude.ai/
+
+
+📌 2. Qwen AI
+Best for: multilingual tasks & strong reasoning
+Qwen models are high-performing LLMs developed in China. They’re strong at:
+• structured prompt responses
+• logical reasoning
+• multilingual writing
+• technical problem solving
+Great if you work across languages or need fast analytical answers.
+👉 Link:  https://chat.qwen.ai
+
+📌 3. DeepSeek
+Best for: deep reasoning & academic-style writing
+DeepSeek is open-source and known for powerful logical reasoning. It performs well in:
+• math and coding
+• research breakdowns
+• academic writing
+• structured analysis
+If you want something that feels analytical and sharp, this is solid.
+👉  https://chat.deepseek.com
+
+📌 4. Perplexity AI
+Best for: real-time research
+Perplexity is not just a chatbot, but also an AI search engine that:
+• pulls live web results
+• shows citations
+• summarizes current information
+• helps with up-to-date research
+Perfect when you need answers with sources, not just opinions.
+👉 Link:  https://perplexity.ai
+
+📌 5. Microsoft Copilot (Bing AI)
+Best for: free GPT level assistance with browsing
+Copilot integrates into Bing and Edge and offers:
+• web search
+• coding help
+• document drafting
+• image generation
+Strong for productivity inside Microsoft workflows.
+👉 Link:  https://copilot.microsoft.com
+
+📌 6. Google Gemini
+Best for: real-time Google integration
+Gemini connects deeply with Google’s ecosystem. It’s useful for:
+• Gmail drafting
+• Docs editing
+• YouTube insights
+• live web data
+If you live inside Google tools, this is powerful.
+👉 Link:  https://gemini.google.com
+
+📌 7. Grok (xAI)
+Best for: real-time social insights & bold reasoning
+Grok integrates with X (Twitter) and is strong at:
+• analyzing trending conversations
+• breaking down current events
+• fast idea generation
+• conversational reasoning
+If you want AI connected to real-time social signals, Grok stands out.
+👉 Link: https://arena.ai/
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
