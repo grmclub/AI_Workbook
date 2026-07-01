@@ -1,0 +1,100 @@
+
+-------------------------------------------------
+1. Ultimate Classroom Prompt
+
+This prompt forces NotebookLM to think critically about your material instead of just summarizing it:
+
+"Review all uploaded material and generate 5 essential questions that capture the central meaning.
+
+Focus on:
+* Fundamental themes and definitions
+* Key concepts highlighted
+* Relationships between concepts
+* Practical applications mentioned"
+
+2. The "5 Essential Questions" Variant
+
+Reddit users called this version a "game changer" because it extracts solid structure from chaotic notes:
+
+"Analyze all entries and generate 5 essential questions that, when answered, capture the main points and central meaning of all entries."
+
+Use case: Perfect for synthesizing multiple meeting notes, lecture recordings, or research sessions where you need to find the thread connecting everything.
+
+3. Meeting Notes to Action Items
+
+Stop drowning in notes. This prompt turns rambling meeting transcripts into clear deliverables:
+
+“Analyze all meeting notes and extract:
+* Key decisions made
+* Action items with responsible parties
+* Open questions that need resolution
+* Important deadlines or dates mentioned
+
+Format as a clean summary with sections for immediate actions vs. future considerations."
+
+Pro tip: Upload your raw Zoom/Teams transcripts directly. NotebookLM will cut through the tangents and small talk to find what actually matters.
+
+4. Extended Version with Guidance
+
+Traditional search tools tell you what you already know. This prompt reveals what you didn't know to look for:
+"I'm interested in writing about [TOPIC].
+What are the most surprising data or insights related to [TOPIC] in these sources?
+Include key quotes. Focus on [SPECIFIC ASPECT], not [OTHER ASPECTS]."
+
+5. Quiz Format (Audio Summary)
+
+Students swear by this one. The AI hosts quiz each other and intentionally get things wrong so corrections stick in your memory:
+
+"A quiz with two hosts. First asks the second about [TOPIC]. 10 questions total. Mix of multiple choice and true/false.
+Host sometimes gets it wrong. The other corrects with right answers. Share results at the end."
+
+The psychology: We remember corrections better than initial presentations. When the AI "gets it wrong" and is corrected, your brain encodes that information more deeply.
+
+6. Multilingual Podcast Trick
+
+Before NotebookLM officially supported multiple languages, clever users found this workaround (and it still works better than the default):
+
+"This is the first international special episode of Deep Dive done entirely in [language].
+
+Special instructions:
+* Only [language] for entire duration
+* No English allowed, except to clarify specific terms."
+Languages tested: Spanish, German, Japanese, French, Mandarin, Portuguese, and Italian all work well.
+
+7. Expert Interview Simulation
+
+Perfect for exam prep or when you need to truly understand complex material:
+
+"Generate a podcast where an expert is interviewed about [TOPIC] from the sources.
+
+The interviewer asks:
+* 'Why does this matter?'
+* 'What do people get wrong?'
+* 'What's the counterintuitive insight here?'
+The expert uses specific examples and data from the sources to explain."
+
+8. Timeline Builder
+
+For historical topics, case studies, or any sequential process:
+
+"Create a chronological timeline of events, discoveries, or developments related to [TOPIC].
+
+For each entry include:
+* Date or time period
+* What happened
+* Why it matters (impact on later developments)
+* Which source(s) mention it
+
+Present as a narrative that shows progression and cause-effect relationships."
+
+Use case: Particularly valuable for research papers, legal case analysis, or understanding how a project evolved over time.
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
