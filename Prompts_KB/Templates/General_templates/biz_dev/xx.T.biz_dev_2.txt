@@ -1,0 +1,49 @@
+
+
+-------------------------------------------------
+PROMPT 1 — Find the buyers
+
+"List 10 local businesses in [my area] paying $5,000+/month for a repetitive role AI can replace. For each, name the exact role, the monthly cost, and the one AI tool that fixes it. Rank by budget and urgency."
+
+Claude hands you a target list in 30 seconds.
+
+You have a pipeline before your second cup of coffee.
+
+PROMPT 2 — Write the cold outreach
+
+"Write me a 75-word cold DM to a [niche] owner. Angle: cutting their biggest payroll cost with pre-built AI tools. Confident, direct, no jargon. Then give me 5 follow-up variations for non-responders."
+
+Now your pipeline fills while you sleep.
+
+50 messages a day on autopilot from a single prompt.
+
+
+PROMPT 3 — Build the offer
+
+"Write a 1-page proposal for a [niche] owner. Their pain: a $6,000/month role. My solution: pre-built AI tools (Intercom AI, Synthflow, n8n). Pricing: setup fee plus $2,000/month recurring. 30-day pilot, cancel anytime. Make the math obvious."
+
+A clean offer closes itself.
+
+You stop having to "sell" because the proposal already did.
+
+PROMPT 4 — Handle the objections
+
+"Give me responses to the 5 most common objections a [niche] owner gives when I pitch AI implementation. Especially 'I'm not sure AI can do what my staff does.' Calm, confident, evidence-based. End each with a soft push to a free demo."
+
+Now nothing on a call catches you off guard.
+
+You walk in with the answer the owner hasn't asked yet.
+
+PROMPT 5 — Build the delivery system
+
+"Design a complete client onboarding SOP for installing Intercom AI, Synthflow, and n8n. Cover kickoff, tool access, a 14-day install timeline, success metrics, and monthly reporting. Make it simple enough to hand to a VA."
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
