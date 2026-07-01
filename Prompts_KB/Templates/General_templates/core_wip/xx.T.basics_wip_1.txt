@@ -96,6 +96,28 @@ Transparent and exploded sections revealing internal architecture
 Show clear arrows to denote the flow in a linear fashion
 
 -------------------------------------------------
+##deepdive and explain the core logic
+
+The Master Prompt
+"Act as a Senior Linux Systems Engineer. Write a production-ready file watcher script in [Bash / Python / Node.js] that monitors [directory_path] for [event_type: e.g., newly created, modified, or deleted] files matching the pattern [file_pattern: e.g., .csv or report_.txt].
+When an event is detected, the script should automatically execute the following command/script: [insert command or script path, e.g., bash process_file.sh "{file}"].
+Please ensure the script includes:
+Error handling and logging (writing to a log file or stdout).
+Prevention of race conditions (e.g., ensuring a file has finished writing before processing).
+Clean exit handling (trapping SIGINT/SIGTERM).
+Instructions on how to make the script executable and set it up to run in the background."
+—----------
+"Act as a Senior Linux Systems Engineer. Write a production-ready file watcher script in [Bash / Python ] that monitors [directory_path] for [event_type: e.g., newly created, modified, or deleted] files matching the pattern [file_pattern: e.g., .csv or report_.txt].
+When an event is detected, the script should automatically execute the following command/script: [insert command or script path, e.g., bash process_file.sh "{file}"].
+Please ensure the script includes:
+Error handling and logging (writing to a log file or stdout).
+Prevention of race conditions (e.g., ensuring a file has finished writing before processing).
+Clean exit handling (trapping SIGINT/SIGTERM).
+Instructions on how to make the script executable and set it up to run in the background."
+
+
+—---------
+
 
 -------------------------------------------------
 -------------------------------------------------
