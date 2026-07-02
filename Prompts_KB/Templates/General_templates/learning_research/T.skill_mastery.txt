@@ -1,5 +1,72 @@
 
 -------------------------------------------------
+Here are 10 powerful prompts to help you learn any skill faster, stay consistent, and retain more of what you study.
+
+1. AI Study Coach
+Act as my private tutor for [SUBJECT]. Begin by assessing my current knowledge level through a series of diagnostic questions. Then, create a personalized learning plan tailored to my goal of [GOAL], my available study time of [X hours per week], and my target completion date of [DATE]. Adjust the plan as I progress based on my performance and feedback.
+
+2. Socratic Tutor
+Teach me [TOPIC] using the Socratic method. Guide me toward understanding by asking thought-provoking questions instead of providing direct answers. Offer hints when necessary and encourage critical thinking to help me develop a deeper understanding of the subject.
+
+3. Feynman Learning Partner
+Help me master [TOPIC] using the Feynman Technique. Ask me to explain concepts in simple terms, identify gaps in my understanding, and help me refine my explanations until they are clear, accurate, and easy for a beginner to understand.
+
+4. Active Recall Trainer
+Create an active recall study session on [TOPIC]. Ask one question at a time, wait for my response, and provide constructive feedback. Revisit concepts I struggle with until I can confidently recall and explain them from memory.
+
+5. Spaced Repetition Planner
+Design a spaced repetition schedule for learning [TOPIC] over [TIMEFRAME]. Specify what I should review, when I should review it, and how I can assess whether I have retained the material effectively over time.
+
+6. Adaptive Quiz Master
+Quiz me on [SUBJECT], starting with foundational questions and gradually increasing the difficulty based on my performance. After each response, explain why my answer is correct or incorrect and identify areas where I can improve.
+
+7. Project-Based Learning Guide
+Design a series of practical projects to help me learn [SKILL], progressing from beginner to advanced levels. Explain the purpose of each project, the skills it develops, and how it builds upon previous projects to strengthen my understanding.
+
+8. 80/20 Learning Accelerator
+Identify the 20% of concepts in [SUBJECT] that will produce 80% of the practical results. Then, create a focused learning roadmap that prioritizes mastering these high-impact concepts first.
+
+9. Exam Preparation Coach
+I am preparing for [EXAM] in [NUMBER] weeks. Create a study schedule that prioritizes my weak areas, incorporates active recall and spaced repetition techniques, and includes regular practice tests and progress reviews to maximize my chances of success.
+
+10. Long-Term Learning Companion
+Become my long-term learning coach for [SUBJECT]. At the start of each study session, review my previous progress, identify areas that need improvement, teach new concepts, and conclude with a short assessment and a clear action plan for the next session.
+
+---------------------------
+Most students use AI to summarize notes.
+The smart ones use NotebookLM to build a personalized learning system.
+Here are 5 NotebookLM features that can help you study more effectively
+
+1. Keep All Your Study Materials in One Place
+NotebookLM lets you bring together PDFs, lecture slides, Google Docs, websites, YouTube videos, and audio recordings into a single notebook.
+Instead of jumping between tabs and files, you can ask questions about your material and get answers backed by citations from your own sources.
+It's like having a searchable knowledge base built from everything you're studying.
+
+2. Turn Your Notes into an Interactive Podcast
+Audio Overviews transform your sources into a conversation between two AI hosts that explain your material in a more engaging format.
+You can even join the conversation, ask questions during playback, and receive answers based on your notebook's content.
+It's a convenient way to review lessons while commuting, exercising, or taking a break from reading.
+
+3. Visualize Ideas with Mind Maps
+NotebookLM can automatically generate interactive mind maps that show the key concepts in your sources and how they connect.
+Clicking on any branch lets you explore a specific topic in more detail and start a focused discussion around that concept.
+It's a useful way to identify knowledge gaps and understand the bigger picture before an exam.
+
+4. Create Quizzes, Flashcards, and Study Guides
+Rereading notes isn't always the most effective way to learn. Active recall helps you retain information more effectively.
+NotebookLM can generate quizzes, flashcards, study guides, and FAQ-style review materials directly from your uploaded content.
+This allows you to test your understanding using the exact concepts and information you're studying.
+
+5. Turn Your Notes into Video Lessons
+Video Overviews transform your sources into narrated visual presentations that feel like personalized mini lectures.
+You can generate different versions focused on specific topics, chapters, or levels of difficulty, making complex material easier to understand.
+It's especially useful for visual learners who absorb information better through explanations, visuals, and storytelling rather than text alone.
+
+NotebookLM is available at no cost with a Google account, and the free plan includes most of the features you'll need.
+While many students still rely on rereading notes and highlighted PDFs, you can use a tool that helps you review material, test your understanding, and visualize connections between ideas.
+Save this for exam season. You'll thank yourself later.
+
+-------------------------------------------------
 ## 7 Prompts To Turn Claude Into Your Personal Mentor, Coach, and Teacher
 
 📌 1. The Skill Mastery Mentor
