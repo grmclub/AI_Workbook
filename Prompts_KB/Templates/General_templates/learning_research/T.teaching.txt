@@ -1,4 +1,40 @@
 
+
+-------------------------------------------------------------
+ChatGPT can now help teachers create lesson plans, design classroom activities, and personalize learning experiences in minutes.
+Here are 10 powerful prompts to help you save time, engage your students, and elevate your teaching.
+
+1. Lesson Plan Designer
+Act as an experienced [GRADE LEVEL] [SUBJECT] teacher. Create a comprehensive lesson plan on [TOPIC] aligned with [CURRICULUM/STANDARDS]. Include clear learning objectives, an engaging lesson hook, direct instruction, guided practice, independent practice, differentiation strategies for diverse learners, opportunities for formative assessment, and a meaningful closing reflection activity. Ensure the lesson is practical, age-appropriate, and designed to maximize student engagement and learning outcomes.
+
+2. Classroom Activity Generator
+Design five interactive classroom activities to help [GRADE LEVEL] students learn [TOPIC]. Ensure each activity promotes active participation, critical thinking, collaboration, and meaningful student engagement. For each activity, include the learning objective, materials needed, step-by-step instructions, estimated duration, and suggestions for adapting the activity to accommodate different learning needs and ability levels.
+
+3. Differentiation Specialist
+Adapt this lesson on [TOPIC] for a classroom with diverse learning needs. Include specific strategies for advanced learners, students who need additional support, English language learners, and students with special educational needs. Provide practical accommodations, instructional scaffolds, extension activities, and alternative approaches to ensure all students can access the content and demonstrate their understanding successfully.
+
+4. Assessment Creator
+Create a balanced assessment on [TOPIC] for [GRADE LEVEL] students. Include a variety of question types, such as multiple-choice questions, short-answer questions, application-based tasks, and at least one higher-order thinking question that promotes analysis, evaluation, or creativity. Provide a complete answer key, a clear scoring rubric, and guidelines for interpreting student performance to identify strengths and areas for improvement.
+
+5. Formative Feedback Coach
+Review the following student work: [PASTE STUDENT WORK]. Provide constructive, age-appropriate feedback that highlights strengths, addresses misconceptions, and offers specific, actionable steps for improvement. Maintain a supportive and encouraging tone that promotes a growth mindset. Conclude with one reflective question to help the student think more deeply about their learning and identify their next steps.
+
+6. Parent Communication Assistant
+Draft a professional and empathetic message to parents about [TOPIC/EVENT/CONCERN]. Use a clear, respectful, and solution-focused tone. Include the key information parents need to know, explain any relevant next steps or expectations, and suggest practical ways they can support their child's learning and well-being at home. Ensure the message is concise, easy to understand, and appropriate for the intended audience.
+
+7. Project-Based Learning Planner
+Design a project-based learning experience on [TOPIC] for [GRADE LEVEL] students. Include a compelling driving question, clear learning objectives aligned with [CURRICULUM/STANDARDS], project milestones, student deliverables, and opportunities for collaboration and critical thinking. Provide a timeline for implementation, assessment criteria with a detailed rubric, and options for student choice, creativity, and differentiation to ensure all learners can participate meaningfully and demonstrate their understanding.
+
+8. Student Engagement Strategist
+Suggest practical, evidence-based strategies to increase student engagement during lessons on [TOPIC] for [GRADE LEVEL] students. Include interactive teaching techniques, opportunities for collaboration, appropriate technology integration, movement-based activities, and discussion strategies that encourage student voice and participation. Ensure the recommendations are age-appropriate, inclusive, and designed to foster curiosity, motivation, and meaningful learning experiences.
+
+9. Inclusive Teaching Assistant
+Recommend evidence-informed strategies for creating an inclusive classroom environment while teaching [TOPIC] to [GRADE LEVEL] students. Include approaches that promote belonging, accessibility, cultural responsiveness, and equitable participation for all learners. Provide practical suggestions for adapting instruction, classroom materials, and assessment methods to accommodate diverse learning needs and backgrounds. Ensure the recommendations foster a supportive learning environment where every student feels valued, respected, and empowered to succeed.
+
+10. Professional Reflection Partner
+Act as an experienced instructional coach. Guide me through a reflective analysis of my recent lesson on [TOPIC]. Ask thought-provoking questions to help me evaluate what worked well, identify areas for improvement, and examine the impact of my instructional decisions on student learning and engagement. Based on my responses, provide practical, evidence-based recommendations to strengthen future lessons, enhance student outcomes, and support my ongoing professional growth.
+
+
 -------------------------------------------------------------
 Use these 10 powerful NotebookLM prompts to create engaging, classroom-ready English presentations in minutes
 
@@ -34,8 +70,77 @@ Use these 10 powerful NotebookLM prompts to create engaging, classroom-ready Eng
 "Act as an expert IELTS teacher and create a complete IELTS lesson presentation on [insert IELTS skill/task] for [insert CEFR level] learners. Include lesson objectives, a warm-up activity, exam strategies, model answers, useful language, common mistakes, guided practice activities, exam-style tasks, feedback opportunities, review exercises, and a final recap slide. Follow communicative language teaching (CLT) principles and ensure students develop the skills and confidence needed to succeed in the IELTS exam."
 
 -------------------------------------------------------------
+ChatGPT can now help language teachers design assessments, provide personalized feedback, and evaluate language skills more efficiently.
+Here are 10 powerful prompts to help you save time, assess language proficiency more effectively, and support every learner's progress.
+
+1. CEFR/ACTFL-Aligned Assessment Designer
+Act as an experienced language assessment specialist. Create a [FORMATIVE/SUMMATIVE] assessment for [LANGUAGE], targeting learners at the [CEFR LEVEL/ACTFL PROFICIENCY LEVEL]. Assess [SKILL(S)] through authentic communicative tasks that reflect real-world language use. Include clear instructions, assessment objectives, an answer key where appropriate, and an analytic rubric aligned with the specified proficiency descriptors. Ensure the assessment demonstrates validity, reliability, fairness, and accessibility for all learners.
+
+2. Communicative Task Generator
+Act as an experienced language assessment specialist. Design an authentic assessment task to evaluate learners' [SPEAKING/WRITING/LISTENING/READING] skills in [LANGUAGE] at the [CEFR LEVEL/ACTFL PROFICIENCY LEVEL]. Ensure the task reflects meaningful, real-world language use and requires students to communicate for a clear purpose and audience. Include the assessment objectives, task instructions, expected outcomes, success criteria, and an analytic scoring rubric aligned with the specified proficiency descriptors. Ensure the task promotes communicative competence while maintaining validity, reliability, fairness, and accessibility for all learners.
+
+3. Analytic Rubric Creator
+Act as an experienced language assessment specialist. Develop an analytic scoring rubric for assessing [LANGUAGE SKILL] in [LANGUAGE] at the [CEFR LEVEL/ACTFL PROFICIENCY LEVEL]. Include clear performance descriptors for relevant criteria such as task achievement, content development, organization, vocabulary range and accuracy, grammatical control, fluency, pronunciation, interaction, or comprehension, as appropriate. Ensure the descriptors are specific, observable, progression-based, and aligned with the targeted proficiency level. Design the rubric to promote validity, reliability, fairness, and consistency in scoring across different learners and assessors.
+
+4. Personalized Feedback Assistant
+Act as an experienced language assessment specialist. Review the following student response: [PASTE STUDENT RESPONSE]. Provide constructive, proficiency-oriented feedback aligned with the student's [CEFR LEVEL/ACTFL PROFICIENCY LEVEL]. Highlight the student's strengths, identify specific areas for improvement, and explain how these areas affect communicative effectiveness. Offer actionable recommendations and targeted strategies to support language development. Ensure the feedback is clear, supportive, age-appropriate, and designed to promote learner autonomy, motivation, and continued progress toward the next proficiency level.
+
+5. Differentiated Language Assessment Planner
+Act as an experienced language assessment specialist. Design three versions of an assessment task on [TOPIC] for learners of [LANGUAGE] at different proficiency levels within the same classroom. Adjust the linguistic complexity, scaffolding, task demands, and expected performance to meet the needs of diverse learners while maintaining the same overarching learning objectives. For each version, provide clear instructions, assessment criteria, and appropriate support strategies. Ensure the assessments align with [CEFR LEVELS/ACTFL PROFICIENCY LEVELS] and demonstrate validity, reliability, fairness, and accessibility for all students.
+
+6. Speaking Assessment Designer
+Act as an experienced language assessment specialist. Design a speaking assessment for learners of [LANGUAGE] at the [CEFR LEVEL/ACTFL PROFICIENCY LEVEL]. Include a warm-up activity, interactive tasks, prompts for extended speech, and opportunities to demonstrate spontaneous language use. Provide clear administration guidelines, timing recommendations, and an analytic scoring rubric assessing relevant criteria such as task achievement, fluency, pronunciation, grammatical control, vocabulary use, and interactional competence. Ensure the assessment reflects authentic communication and adheres to the principles of validity, reliability, fairness, and accessibility.
+
+7. Writing Prompt Generator
+Act as an experienced language assessment specialist. Generate five writing prompts to assess [GENRE] writing in [LANGUAGE] for learners at the [CEFR LEVEL/ACTFL PROFICIENCY LEVEL]. Ensure each prompt requires meaningful, purposeful communication for an authentic audience and context. For each prompt, specify the communicative purpose, expected word count, targeted language functions, and assessment objectives. Include an analytic scoring rubric aligned with the specified proficiency descriptors, addressing criteria such as task achievement, organization, vocabulary use, grammatical control, and overall communicative effectiveness. Ensure the prompts demonstrate validity, reliability, fairness, and accessibility for all learners.
+
+8. Diagnostic Assessment Specialist
+Act as an experienced language assessment specialist. Design a diagnostic assessment to identify learners' strengths and areas for development in [LANGUAGE SKILL] for students at the [CEFR LEVEL/ACTFL PROFICIENCY LEVEL]. Include a variety of tasks that reveal specific proficiency gaps in areas such as comprehension, vocabulary, grammatical control, fluency, pronunciation, or communicative effectiveness, as appropriate. Provide clear administration guidelines, answer keys where relevant, and recommendations for interpreting the results. Based on common learner profiles, suggest targeted instructional strategies and interventions to address identified needs. Ensure the assessment adheres to the principles of validity, reliability, fairness, and accessibility.
+
+9. Self- and Peer-Assessment Facilitator
+Act as an experienced language assessment specialist. Develop a self-assessment and peer-assessment tool for learners of [LANGUAGE] completing a [LANGUAGE TASK] at the [CEFR LEVEL/ACTFL PROFICIENCY LEVEL]. Use learner-friendly "Can-Do" statements aligned with the targeted proficiency descriptors to help students evaluate their performance. Include clear criteria related to communicative effectiveness, language use, task achievement, and interaction, as appropriate. Add reflective questions that encourage learners to identify their strengths, recognize areas for improvement, and set specific goals for future language development. Ensure the tool promotes learner autonomy, supports formative assessment practices, and demonstrates fairness, clarity, and accessibility for all students.
+
+10. Assessment Review Consultant
+Act as an experienced language assessment specialist. Review the following language assessment: [PASTE ASSESSMENT]. Evaluate its alignment with the intended learning outcomes and the targeted [CEFR LEVEL/ACTFL PROFICIENCY LEVEL]. Analyze the assessment in terms of validity, reliability, authenticity, fairness, practicality, and accessibility. Identify any potential sources of bias, construct underrepresentation, or threats to scoring consistency. Provide specific, evidence-informed recommendations to improve the quality of the assessment, strengthen its alignment with communicative language teaching principles, and enhance its effectiveness in supporting student learning and language development.
+
+
+-------------------------------------------------------------
+
+Andalus Andalus
+1. Administrative Workload Reducer
+Act as an experienced teacher's assistant. Help me streamline the following task: [TASK]. Create templates, checklists, communication drafts, and efficient workflows that reduce the time I spend on administrative responsibilities while maintaining quality and professionalism. Identify opportunities to automate repetitive tasks and recommend practical strategies that improve efficiency without compromising student support.
+
+2. Personalized Learning Planner
+I teach [GRADE LEVEL] [SUBJECT]. Design a lesson on [TOPIC] that accommodates students' varying readiness levels, interests, and learning preferences. Include differentiated learning objectives, flexible pathways for completing tasks, student choice opportunities, and strategies for monitoring progress. Provide targeted supports and enrichment activities to ensure every student receives instruction that meets their individual needs while working toward the same core learning goals.
+
+3. Mixed-Ability Lesson Designer
+Create a lesson plan on [TOPIC] for a mixed-ability classroom. Include differentiated activities, instructional scaffolds for students who need additional support, extension opportunities for advanced learners, and flexible grouping strategies. Ensure all students work toward the same essential learning objectives while engaging with content at an appropriate level of challenge. Include clear teacher actions, student tasks, and practical differentiation strategies that can be implemented immediately.
+
+4. Differentiated Task Creator
+Develop three versions of a classroom task on [TOPIC]: one for students who require additional support, one for students working at grade level, and one for students who need enrichment. Ensure all versions align with the same essential learning outcomes while varying the level of complexity, scaffolding, and independence required. Include clear instructions, success criteria, and teacher guidance for implementing the tasks effectively in a mixed-ability classroom.
+
+5. Small-Group Instruction Planner
+Design a small-group instruction plan for teaching [TOPIC] in a mixed-ability classroom. Recommend how to group students based on readiness, learning needs, or specific skill gaps. Outline the learning objectives, activities, and teacher support for each group, and provide an efficient rotation schedule that maximizes instructional time. Include strategies for keeping independent groups engaged while the teacher works with targeted small groups.
+
+6. Adaptive Assessment Builder
+Create an assessment on [TOPIC] that accommodates the diverse needs of a mixed-ability classroom. Design multiple pathways for students to demonstrate their understanding, such as written responses, presentations, practical applications, creative projects, or verbal explanations. Ensure all assessment options measure the same learning objectives while providing appropriate levels of support and challenge. Include clear success criteria, a common rubric, and recommendations for providing meaningful feedback to learners at different ability levels.
+
+7. Student Support and Enrichment Planner
+Based on the following student profiles: [PASTE STUDENT PROFILES], identify students who may need additional support and those who may benefit from enrichment opportunities. Recommend targeted interventions, instructional accommodations, and evidence-based strategies to address specific learning needs. For advanced learners, suggest meaningful extension activities that deepen understanding and promote higher-order thinking. Include practical next steps and progress-monitoring strategies to ensure every student continues to grow and succeed.
+
+8. Time-Saving Resource Generator
+Generate ready-to-use teaching resources for [TOPIC] that I can implement immediately in my classroom. Include bell ringers, discussion prompts, exit tickets, practice activities, homework assignments, review materials, and extension tasks. Ensure the resources are adaptable for mixed-ability learners, require minimal preparation time, and align with the lesson objectives. Organize the resources in a clear, teacher-friendly format that helps reduce planning time while maximizing student engagement and learning.8. Time-Saving Resource Generator
+Generate ready-to-use teaching resources for [TOPIC] that I can implement immediately in my classroom. Include bell ringers, discussion prompts, exit tickets, practice activities, homework assignments, review materials, and extension tasks. Ensure the resources are adaptable for mixed-ability learners, require minimal preparation time, and align with the lesson objectives. Organize the resources in a clear, teacher-friendly format that helps reduce planning time while maximizing student engagement and learning.
+
+9. Parent Communication Assistant
+Draft a professional, empathetic, and solution-focused message to parents regarding [TOPIC/EVENT/CONCERN]. Clearly explain the situation, celebrate any relevant student successes, address concerns with sensitivity, and outline any necessary next steps. Suggest practical ways families can support learning at home and tailor the message to the needs of diverse learners. Ensure the communication is concise, easy to understand, and strengthens the partnership between home and school.
+
+10. Instructional Improvement Coach
+Act as an experienced instructional coach. Review my lesson plan for [TOPIC] and identify practical ways to reduce administrative workload, personalize instruction, and strengthen differentiation in my mixed-ability classroom. Recommend strategies to improve student engagement, increase accessibility for diverse learners, and optimize the use of teacher time. Provide specific, actionable suggestions that I can implement immediately to enhance learning outcomes and become a more effective educator.
+-------------------------------------------------------------
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
--------------------------------------------------------------
+
 
