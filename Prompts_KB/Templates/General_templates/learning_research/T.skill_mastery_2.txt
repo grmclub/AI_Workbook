@@ -1,0 +1,73 @@
+
+-------------------------------------------------------------
+1. ​Structured Curriculum Designer
+​
+Prompt:
+“Act as an elite instructional designer. Review my uploaded documents and build an 8-week curriculum to master this subject. For each week, outline:
+→ The core concept to master.
+→ Which specific uploaded sources to read.
+→ A daily practice exercise based on the text.
+→ A weekly milestone project.”
+
+2. Strict Questioning Tutor
+​
+Prompt:
+“Act as a strict tutor for the material in these uploads. Do not give me direct answers. Instead, ask me one thought-provoking question at a time to test my comprehension of the sources. Wait for my response. If my logic contradicts the documents, point out the citation I missed and ask another question to guide me.”
+
+3. Core Truths Builder
+​Prompt:
+“Synthesize all my uploaded materials. Strip away the complex terms. Break the arguments down into their fundamental, undeniable truths. Once we have those basics, show me step-by-step how the authors build their complex theories back up from them.”
+
+4. Feynman Simplifier
+​
+Prompt:
+“Explain the hardest concepts in these sources using the Feynman Technique.
+→ Step 1: Explain it to a 12-year-old using an everyday analogy.
+→ Step 2: Introduce the technical terms from the text, linking them back to the analogy.
+→ Step 3: Ask me to explain it back to you, and score my accuracy based strictly on the source material.”
+
+5. Expert Mindset Decoder
+​
+Prompt:
+“Scan the uploaded case studies and books. Identify the top 3 decision-making frameworks used by the experts mentioned. For each framework, provide:
+→ A brief definition.
+→ A scenario where a beginner fails by ignoring this mindset.
+→ How the expert succeeds in that exact scenario using the text's principles.”
+
+6. Skill Transfer Bridge
+​
+Prompt:
+“I understand [Concept A from Upload 1]. I am trying to grasp [Concept B from Upload 2]. Act as a learning strategist and map the overlapping concepts between these specific documents. Explain the mechanics of [Concept B] using direct metaphors and frameworks from [Concept A] to accelerate my understanding.”
+
+7. Real-World Simulator
+​
+Prompt:
+“Act as a real-world simulator based entirely on the rules and data in my uploaded documents. Feed me difficult scenarios one at a time. I will tell you my action. Then:
+→ Grade my decision out of 10 based on the sources.
+→ Explain the consequences using evidence from the text.
+→ Tell me what the authors would suggest doing differently. Give me the first scenario to begin.”
+
+8. Ruthless Critic
+​Prompt:
+“I am going to explain my understanding of the uploaded research below. Act as a ruthless academic critic. Tear apart my explanation, point out edge cases from the documents I completely missed, expose my logical flaws, and challenge my assumptions. Do not hold back. My explanation: [Insert Explanation]”
+
+9. Long-Term Memory Builder
+​
+Prompt:
+“I need to permanently memorize the core tenets of these uploads. Generate a 30-card flashcard deck drawn directly from the text. Format it as a table with 'Front' and 'Back' columns for export. Focus heavily on counter-intuitive facts, common mistakes mentioned by the authors, and scenario-based application.”
+
+10. Final Exam Grader
+​
+Prompt:
+“Based entirely on the material I have uploaded, generate a comprehensive 3-part final exam.
+→ Part 1: 3 conceptual short-answer questions.
+→ Part 2: 2 troubleshooting scenarios based on the text.
+→ Part 3: 1 complex synthesis question combining multiple sources.
+Wait for my answers, grade me strictly using citations, and list my remaining blind spots.”
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
