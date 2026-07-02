@@ -95,9 +95,504 @@ ChatGPT → around 128K of context Claude → around 200K of context Gemini → 
 That's roughly 10 times larger than what most people use currently on other platforms, and almost no one talks about it.
 
 -------------------------------------------------
+Writing a thesis or dissertation is one of the most demanding stages of the research journey. It requires much more than writing individual chapters. Researchers must develop a coherent argument, synthesize the literature, design a rigorous methodology, analyze data, interpret findings, and present a well-structured, academically rigorous document.
+
+Step 1: Select and Refine the Research Topic
+Objective: Identify a meaningful, original, and researchable topic that addresses a significant gap in knowledge and provides a strong foundation for the thesis or dissertation.
+Upload to NotebookLM:
+- Research idea or concept note
+- Preliminary literature
+- Key journal articles
+- Research interests or potential topic areas
+- Institutional research priorities or supervisor recommendations (if available)
+Prompt:
+"Using the uploaded research materials, literature, and concept note, help me identify and refine a suitable topic for my thesis or dissertation. Critically evaluate the originality, relevance, feasibility, and scholarly significance of the proposed topic. Identify unresolved issues, research gaps, emerging trends, and opportunities for meaningful contribution within the existing literature. Assess whether the topic is appropriately focused, manageable within the available time and resources, and aligned with my research interests and academic objectives. Recommend refinements to improve the clarity, scope, novelty, and overall quality of the proposed research topic, and develop a concise, compelling, and academically appropriate thesis or dissertation title."
+
+Step 2: Develop the Research Proposal
+Objective: Develop a clear, coherent, and academically rigorous research proposal that defines the research problem, establishes the study's significance, and provides a detailed plan for conducting the research.
+Upload to NotebookLM:
+- Refined research topic
+- Preliminary literature review
+- Research problem statement
+- Research objectives and questions
+- Concept note (if available)
+- Institutional proposal guidelines or thesis manual (if available)
+Prompt:
+"Using the uploaded research materials, refined topic, and institutional guidelines, help me develop a comprehensive research proposal for my thesis or dissertation. Critically evaluate the clarity of the research problem, the significance of the study, the literature review, the research gap, the research aim, objectives, research questions or hypotheses, the proposed methodology, and the expected contributions of the study. Assess whether all components are logically aligned and academically rigorous. Identify weaknesses, inconsistencies, omissions, or areas requiring further development, and provide detailed recommendations for improving the clarity, coherence, originality, methodological rigor, and overall quality of the research proposal to ensure it provides a strong foundation for the thesis or dissertation."
+
+Step 3: Conduct a Comprehensive Literature Review
+Objective: Conduct a comprehensive and critical review of the existing literature to establish the theoretical and empirical foundation of the study, identify research gaps, and justify the need for the proposed research.
+Upload to NotebookLM:
+- Journal articles
+- Books and book chapters
+- Conference papers
+- Reports and policy documents (if applicable)
+- Research proposal
+- Research questions and objectives
+- Preliminary literature review notes (if available)
+Prompt:
+"Using the uploaded literature, research proposal, and research objectives, conduct a comprehensive and critical literature review for my thesis or dissertation. Identify the major theories, concepts, empirical findings, methodological approaches, debates, and recent developments relevant to my research topic. Critically evaluate the strengths, limitations, inconsistencies, and unresolved issues within the existing literature. Identify theoretical, methodological, empirical, and practical research gaps, and explain how my study will address them. Assess whether the literature review provides a strong justification for the proposed research and recommend additional sources, themes, or perspectives that could strengthen its depth, coherence, scholarly rigor, and overall contribution to the thesis or dissertation."
+
+
+Step 4: Develop the Conceptual or Theoretical Framework
+Objective: Develop a robust conceptual or theoretical framework that provides a clear foundation for the study by explaining the relationships among key concepts, variables, or constructs and guiding the research design, data collection, and interpretation of findings.
+Upload to NotebookLM:
+- Literature review
+- Research proposal
+- Research problem statement
+- Research objectives and questions
+- Key journal articles
+- Existing conceptual or theoretical frameworks (if available)
+Prompt:
+"Using the uploaded literature, research proposal, and research objectives, help me develop an appropriate conceptual or theoretical framework for my thesis or dissertation. Identify the key concepts, variables, constructs, and theories that underpin my study, and explain how they relate to one another. Critically evaluate existing conceptual and theoretical frameworks used in previous research and recommend the most appropriate framework for addressing my research problem and objectives. Justify the selection of the proposed framework using relevant scholarly literature, identify any limitations or gaps in existing models, and recommend modifications or integrations where appropriate. Ensure that the final framework is logically structured, theoretically sound, and capable of guiding the research design, data collection, analysis, and interpretation throughout the thesis or dissertation."
+
+
+Step 5: Design the Research Methodology
+Objective: Develop a rigorous, coherent, and appropriate research methodology that aligns with the research problem, objectives, research questions, and conceptual or theoretical framework while ensuring the study can be conducted systematically and ethically.
+Upload to NotebookLM:
+- Research proposal
+- Literature review
+- Conceptual or theoretical framework
+- Research objectives and questions
+- Methodology references or key journal articles
+- Institutional thesis guidelines (if available)
+Prompt:
+"Using the uploaded research proposal, literature review, conceptual or theoretical framework, and research objectives, help me design a comprehensive research methodology for my thesis or dissertation. Critically evaluate the suitability of different research philosophies, approaches, designs, sampling strategies, data collection methods, instruments, and data analysis techniques. Recommend the most appropriate methodological choices based on the research questions, objectives, and theoretical framework, and justify each recommendation using relevant methodological literature. Assess the feasibility, validity, reliability or trustworthiness, ethical considerations, and potential limitations of the proposed methodology. Identify any weaknesses, inconsistencies, or gaps in the research design and provide detailed recommendations for strengthening the methodological rigor, coherence, transparency, and overall quality of the study to ensure it meets the standards of a high-quality thesis or dissertation."
+
+Step 6: Collect and Organize the Research Data
+Objective: Systematically collect, organize, and manage research data to ensure its accuracy, completeness, integrity, and readiness for analysis while adhering to ethical and methodological standards.
+Upload to NotebookLM:
+- Data collection instruments (e.g., questionnaires, interview guides, observation checklists)
+- Collected research data (e.g., survey responses, interview transcripts, datasets)
+- Research methodology
+- Research objectives and questions
+- Codebook or data dictionary (if available)
+- Field notes or data collection logs (if available)
+Prompt:
+"Using the uploaded research data, data collection instruments, methodology, and research objectives, help me evaluate and organize my research data for analysis. Critically assess whether the collected data adequately address the research questions and objectives. Identify missing data, duplicate records, inconsistencies, incomplete responses, data quality issues, or potential sources of bias that may affect the validity or trustworthiness of the study. Recommend appropriate procedures for organizing, coding, labeling, documenting, and securely managing the data. Assess whether the dataset is complete, accurate, ethically managed, and ready for qualitative, quantitative, or mixed methods analysis, as appropriate. Provide detailed recommendations for improving the quality, organization, transparency, and overall readiness of the research data before proceeding to the analysis stage."
+
+Step 7: Analyze and Interpret the Data
+Objective: Analyze the collected data using appropriate qualitative, quantitative, or mixed methods techniques and accurately interpret the findings in relation to the research questions, objectives, and theoretical framework.
+Upload to NotebookLM:
+- Research data (datasets, interview transcripts, field notes, etc.)
+- Research objectives and questions
+- Research methodology
+- Statistical outputs or coded qualitative data
+- Conceptual or theoretical framework
+- Relevant literature for comparison
+Prompt:
+"Using the uploaded research data, methodology, research objectives, conceptual or theoretical framework, and supporting literature, help me analyze and interpret the findings of my thesis or dissertation. Critically evaluate whether the selected analytical methods are appropriate and correctly applied. Identify key patterns, themes, relationships, trends, group differences, or statistical associations, as appropriate for my research design. Explain how the findings answer the research questions and relate to the conceptual or theoretical framework. Compare the results with previous studies, identify consistencies, contradictions, and unexpected findings, and discuss their theoretical and practical implications. Evaluate the strengths, limitations, credibility, and overall quality of the analysis, and provide detailed recommendations for improving the rigor, clarity, and scholarly quality of the interpretation."
+
+
+Step 8: Write and Integrate the Thesis or Dissertation Chapters
+Objective: Develop a clear, coherent, and academically rigorous thesis or dissertation by integrating all chapters into a well-structured document that presents a logical and compelling research narrative.
+Upload to NotebookLM:
+- Literature review
+- Conceptual or theoretical framework
+- Research methodology
+- Data analysis and findings
+- Research objectives and questions
+- Institutional thesis or dissertation guidelines
+- Chapter drafts (if available)
+Prompt:
+"Using the uploaded thesis or dissertation materials, chapter drafts, research findings, and institutional guidelines, help me write and integrate all chapters into a complete and coherent thesis or dissertation. Critically evaluate the logical flow, organization, clarity, and consistency across the introduction, literature review, conceptual or theoretical framework, methodology, findings, discussion, conclusion, recommendations, and references. Assess whether each chapter effectively contributes to answering the research questions and supports the overall argument of the study. Identify inconsistencies, redundancies, gaps, weak transitions, or missing content, and provide detailed recommendations for improving the structure, coherence, academic writing, and scholarly quality of the thesis or dissertation to ensure it is publication-ready and meets institutional standards."
+
+Step 9: Revise, Evaluate, and Strengthen the Manuscript
+Objective: Critically evaluate the complete thesis or dissertation to strengthen its scholarly quality, logical coherence, methodological rigor, and overall contribution before final submission.
+Upload to NotebookLM:
+- Complete thesis or dissertation draft
+- Institutional thesis or dissertation guidelines
+- Assessment rubric or evaluation criteria (if available)
+- Supervisor or reviewer feedback (if available)
+- Research proposal
+- Supporting literature
+Prompt:
+"Using the uploaded thesis or dissertation, institutional guidelines, assessment criteria, supervisor feedback, and supporting materials, conduct a comprehensive evaluation of my manuscript. Critically assess the clarity of the research problem, the coherence of the overall argument, the quality of the literature review, the strength of the conceptual or theoretical framework, the appropriateness of the methodology, the rigor of the data analysis, and the interpretation of the findings. Evaluate whether all chapters are logically connected, internally consistent, and aligned with the research objectives and questions. Identify weaknesses, redundancies, unsupported claims, inconsistencies, structural issues, or areas requiring further development. Provide detailed, constructive, and actionable recommendations for strengthening the academic quality, originality, coherence, methodological rigor, and overall contribution of the thesis or dissertation."
+
+
+Step 10: Proofread, Format, and Finalize the Thesis or Dissertation
+Objective: Conduct a comprehensive final review of the thesis or dissertation to ensure it is academically rigorous, clearly written, properly formatted, accurately referenced, and fully compliant with institutional requirements before submission.
+Upload to NotebookLM:
+- Final thesis or dissertation draft
+- Institutional thesis or dissertation guidelines
+- Formatting template (if available)
+- Assessment rubric or submission checklist
+- Supervisor or reviewer feedback (if available)
+- Referencing and citation guidelines
+Prompt:
+"Using the uploaded thesis or dissertation, institutional guidelines, formatting template, assessment criteria, and reviewer feedback, conduct a comprehensive final review of my manuscript. Critically evaluate the clarity, coherence, logical flow, academic writing quality, methodological rigor, originality, and overall scholarly contribution of the thesis or dissertation. Verify that all chapters are complete, internally consistent, and fully aligned with the research objectives, research questions, conceptual or theoretical framework, methodology, findings, and conclusions. Identify grammatical, structural, formatting, referencing, citation, and typographical errors, as well as any remaining inconsistencies, omissions, or weaknesses. Confirm that the manuscript complies with all institutional formatting and submission requirements, and provide detailed, constructive, and actionable recommendations to improve its quality, readability, academic rigor, and overall readiness for final submission."
+
 -------------------------------------------------
+Writing a successful grant proposal requires far more than presenting a good research idea. Researchers must clearly define the problem, demonstrate the significance of the proposed project, justify the methodology, develop a realistic budget and timeline, and align the proposal with the funding organization's priorities.
+
+
+
+Step 1: Identify the Funding Opportunity and Align the Project
+Objective: Identify the most suitable funding opportunity and ensure that the proposed project aligns with the funding organization's priorities, eligibility criteria, objectives, and evaluation requirements.
+Upload to NotebookLM:
+- Funding opportunity announcement or call for proposals
+- Funding agency guidelines
+- Research concept note or project idea
+- Organizational or institutional profile (if applicable)
+- Relevant strategic plans or priority documents
+Prompt:
+"Using the uploaded funding opportunity, agency guidelines, and project concept, critically evaluate the suitability of my proposed project for this funding opportunity. Identify the funding organization's priorities, objectives, eligibility requirements, evaluation criteria, and expected outcomes. Assess how well my proposed project aligns with these priorities and identify any gaps, weaknesses, or areas requiring improvement. Recommend modifications that would strengthen the alignment between my project and the funding call while maintaining the originality and significance of the proposed work. Provide actionable recommendations to maximize the competitiveness and funding potential of the grant proposal."
+
+
+Step 2: Define the Problem Statement and Project Need
+Objective: Develop a compelling problem statement that clearly demonstrates the significance, urgency, and need for the proposed project while establishing a strong rationale for funding.
+Upload to NotebookLM:
+- Funding opportunity announcement
+- Project concept note
+- Preliminary literature
+- Needs assessment reports
+- Policy documents or relevant statistics
+- Stakeholder or community data (if available)
+Prompt:
+"Using the uploaded funding opportunity, project concept, literature, and supporting evidence, help me develop a compelling problem statement and clearly justify the need for the proposed project. Critically evaluate the available evidence to identify the scope, magnitude, causes, and consequences of the problem. Explain why the issue is important, who is affected, and why existing approaches have been insufficient. Assess whether the proposed project addresses a genuine need that aligns with the priorities of the funding organization. Identify weaknesses, unsupported claims, or gaps in the current justification and provide recommendations for strengthening the problem statement, supporting evidence, and overall rationale to improve the competitiveness of the grant proposal."
+
+
+Step 3: Develop the Project Goals, Objectives, and Expected Outcomes
+Objective: Develop clear project goals, measurable objectives, and achievable outcomes that align with the identified problem and the funding organization's priorities.
+Upload to NotebookLM:
+- Funding opportunity announcement
+- Problem statement and project need
+- Project concept note
+- Funding agency guidelines
+- Relevant literature or supporting evidence
+- Organizational strategic objectives (if applicable)
+Prompt:
+"Using the uploaded funding opportunity, project concept, problem statement, and supporting materials, help me develop clear project goals, specific and measurable objectives, and well-defined expected outcomes for my grant proposal. Critically evaluate whether the proposed goals and objectives are logically aligned with the identified problem, project rationale, and funding organization's priorities. Assess whether the objectives are specific, measurable, achievable, relevant, and time-bound (SMART). Clearly distinguish between project activities, outputs, outcomes, and long-term impacts, and explain how each contributes to the overall success of the project. Identify any weaknesses, inconsistencies, or gaps and provide recommendations for strengthening the clarity, feasibility, and potential impact of the proposed goals, objectives, and expected outcomes."
+
+
+Step 4: Review the Literature and Build the Evidence Base
+Objective: Develop a strong evidence base by critically reviewing the literature to justify the proposed project, demonstrate its significance, and support the proposed approach.
+Upload to NotebookLM:
+- Funding opportunity announcement
+- Journal articles
+- Conference papers
+- Reports and policy documents
+- Problem statement and project objectives
+- Existing literature review (if available)
+Prompt:
+"Using the uploaded funding opportunity, project objectives, and supporting literature, conduct a critical review of the existing evidence relevant to my proposed project. Identify the current state of knowledge, key findings, best practices, theoretical foundations, and existing interventions related to the project topic. Critically evaluate the strengths, limitations, inconsistencies, and evidence gaps within the literature, and explain how my proposed project addresses these gaps or builds upon existing knowledge. Assess whether the evidence presented provides a compelling justification for funding the project and identify additional literature or supporting evidence that could strengthen the proposal. Provide recommendations for improving the quality, credibility, and persuasiveness of the evidence base in the grant proposal."
+
+
+Step 5: Design the Project Methodology and Implementation Plan
+Objective: Develop a rigorous methodology and a realistic implementation plan that clearly explains how the project will achieve its objectives and deliver the proposed outcomes.
+Upload to NotebookLM:
+- Funding opportunity announcement
+- Project goals and objectives
+- Problem statement
+- Literature review
+- Draft methodology
+- Organizational capacity or implementation plan (if available)
+Prompt:
+"Using the uploaded funding opportunity, project objectives, supporting literature, and project materials, help me develop a comprehensive methodology and implementation plan for my grant proposal. Critically evaluate the suitability of the proposed project design, implementation strategy, participant selection (if applicable), intervention or activities, data collection methods, project management approach, timeline, staffing, partnerships, and risk management strategies. Assess whether the methodology is feasible, evidence-based, and capable of achieving the proposed objectives within the available resources and funding period. Identify potential implementation challenges, ethical considerations, resource constraints, or methodological weaknesses and recommend practical solutions. Provide recommendations for strengthening the methodological rigor, feasibility, clarity, and overall competitiveness of the project design."
+
+
+Step 6: Develop the Budget and Budget Justification
+Objective: Develop a realistic, well-justified, and funder-compliant project budget that clearly demonstrates how financial resources will be used to achieve the proposed project objectives.
+Upload to NotebookLM:
+- Funding opportunity announcement
+- Budget template (if provided)
+- Project methodology and implementation plan
+- Project timeline
+- Organizational financial guidelines (if applicable)
+- Draft budget (if available)
+Prompt:
+"Using the uploaded funding opportunity, project methodology, implementation plan, timeline, and budget information, help me develop a comprehensive project budget and budget justification for my grant proposal. Critically evaluate whether the proposed costs are realistic, necessary, reasonable, and aligned with the project objectives, activities, and funding agency requirements. Review all budget categories, including personnel, equipment, travel, materials, participant costs, data collection, dissemination, indirect costs, and contingency expenses where applicable. Identify missing, unsupported, excessive, or inconsistent budget items and recommend appropriate revisions. Develop a clear and persuasive budget justification that explains the purpose and necessity of each major expense and demonstrates efficient and responsible use of the requested funding."
+
+
+Step 7: Write the Grant Proposal Narrative
+Objective: Develop a clear, persuasive, and well-structured grant proposal narrative that demonstrates the significance of the project, the strength of the proposed approach, and its alignment with the funding organization's priorities.
+Upload to NotebookLM:
+- Funding opportunity announcement
+- Problem statement and project need
+- Project goals, objectives, and expected outcomes
+- Literature review and supporting evidence
+- Methodology and implementation plan
+- Budget summary and project timeline
+- Funding agency guidelines
+Prompt:
+"Using the uploaded funding opportunity, project materials, and agency guidelines, help me write a compelling grant proposal narrative. Integrate the problem statement, project rationale, literature, goals, objectives, methodology, implementation plan, expected outcomes, and budget into a clear, coherent, and persuasive proposal. Critically evaluate the logical flow, clarity, consistency, and overall persuasiveness of the narrative. Assess whether the proposal effectively addresses the funding organization's priorities, evaluation criteria, and expected outcomes. Identify weak arguments, unsupported claims, redundancies, inconsistencies, or missing information, and provide detailed recommendations for strengthening the proposal's quality, competitiveness, and likelihood of securing funding."
+
+
+Step 8: Demonstrate Impact, Sustainability, and Evaluation
+Objective: Clearly demonstrate the project's anticipated impact, long-term sustainability, and evaluation strategy to strengthen its value and competitiveness for funding.
+Upload to NotebookLM:
+- Funding opportunity announcement
+- Grant proposal draft
+- Project goals, objectives, and expected outcomes
+- Methodology and implementation plan
+- Budget and timeline
+- Monitoring and evaluation framework (if available)
+Prompt:
+"Using the uploaded funding opportunity, grant proposal, project objectives, and implementation plan, help me develop a compelling impact, sustainability, and evaluation section for my grant proposal. Critically evaluate the expected short-term, medium-term, and long-term outcomes of the project and explain how they align with the funding organization's priorities. Develop a realistic monitoring and evaluation plan that includes appropriate performance indicators, data collection methods, evaluation activities, and measures of project success. Assess the long-term sustainability of the project beyond the funding period by identifying strategies for maintaining activities, partnerships, resources, and impact. Identify weaknesses, unsupported claims, or gaps in the proposed impact, sustainability, and evaluation plans, and provide detailed recommendations for strengthening the credibility, feasibility, and overall competitiveness of the grant proposal."
+
+
+Step 9: Evaluate and Strengthen the Grant Proposal
+Objective: Critically evaluate the grant proposal to identify weaknesses, strengthen its alignment with the funding opportunity, and improve its overall competitiveness before submission.
+Upload to NotebookLM:
+- Complete grant proposal draft
+- Funding opportunity announcement
+- Funding agency evaluation criteria
+- Project budget and timeline
+- Supporting literature and evidence
+- Reviewer or colleague feedback (if available)
+Prompt:
+"Using the uploaded grant proposal, funding opportunity, evaluation criteria, and supporting materials, conduct a comprehensive evaluation of my proposal. Critically assess the clarity of the problem statement, the strength of the project rationale, the alignment between the project goals, objectives, methodology, budget, timeline, and expected outcomes, and the overall coherence and persuasiveness of the proposal. Evaluate whether the proposal effectively addresses the funding organization's priorities and review criteria. Identify weaknesses, inconsistencies, unsupported claims, unrealistic assumptions, or missing information that could reduce its competitiveness. Provide detailed, constructive, and actionable recommendations for strengthening the proposal's quality, feasibility, credibility, and likelihood of securing funding."
+
+
+Step 10: Refine, Proofread, and Finalize the Grant Proposal
+Objective: Conduct a comprehensive final review of the grant proposal to ensure it is clear, persuasive, funder-compliant, and ready for submission.
+Upload to NotebookLM:
+- Final grant proposal draft
+- Funding opportunity announcement
+- Funding agency guidelines and evaluation criteria
+- Budget and budget justification
+- Reviewer or colleague feedback (if available)
+- Supporting documents and appendices (if applicable)
+Prompt:
+"Using the uploaded grant proposal, funding opportunity announcement, evaluation criteria, budget, and supporting materials, conduct a comprehensive final review of my grant proposal. Critically evaluate the proposal's clarity, coherence, logical flow, persuasiveness, methodological rigor, feasibility, budget alignment, expected impact, sustainability, and overall competitiveness. Verify that every section complies with the funding agency's guidelines and evaluation criteria, and identify any remaining weaknesses, inconsistencies, omissions, formatting issues, or unsupported claims. Assess whether the proposal clearly demonstrates the significance of the project, the organization's capacity to deliver it, and the value for money of the requested funding. Provide detailed, constructive, and actionable recommendations to improve the proposal's quality, strengthen its competitiveness, and maximize its likelihood of securing funding."
+
+
 -------------------------------------------------
+A well-written research proposal is the foundation of a successful research project. It requires more than simply describing a research topic. Researchers must clearly define the research problem, justify the study, review the relevant literature, develop focused research questions or hypotheses, and design a rigorous methodology.
+
+Step 1: Identify and Define the Research Problem
+Objective: Clearly identify a meaningful research problem and refine it into a focused, relevant, and researchable topic that addresses a genuine gap in existing knowledge.
+Upload to NotebookLM:
+- Research idea or concept note
+- Preliminary literature
+- Key journal articles
+- Reports and policy documents (if applicable)
+- Notes on the research context or field
+Prompt:
+"Using the uploaded research materials, help me identify and define a clear, significant, and researchable problem for my research proposal. Critically evaluate the existing literature to identify unresolved issues, inconsistencies, emerging trends, practical challenges, and gaps in current knowledge. Assess the originality, relevance, and feasibility of the proposed research topic and explain why it is important to investigate. Refine the research problem into a concise and compelling problem statement that is suitable for a research proposal. Provide recommendations for strengthening the significance, clarity, focus, and scholarly contribution of the proposed study."
+
+Step 2: Conduct a Preliminary Literature Review
+Objective: Explore and critically evaluate the existing literature to understand the current state of knowledge, identify key theories and debates, and refine the direction of the proposed research.
+Upload to NotebookLM:
+- Preliminary journal articles
+- Conference papers
+- Book chapters
+- Reports and policy documents (if applicable)
+- Research problem and concept note
+- Existing literature review notes (if available)
+Prompt:
+"Using the uploaded literature and research problem, conduct a preliminary literature review to evaluate the current state of knowledge on my proposed research topic. Identify the major theories, concepts, methodological approaches, key findings, debates, and recent developments within the literature. Critically assess the strengths, limitations, inconsistencies, and unresolved issues across existing studies. Identify potential research gaps and explain how they relate to my proposed study. Provide recommendations for refining the research focus and strengthening the theoretical and scholarly foundation of my research proposal."
+
+Step 3: Develop the Research Aim, Objectives, and Questions
+Objective: Develop a clear research aim, specific objectives, and focused research questions that align with the identified research problem and guide the entire study.
+Upload to NotebookLM:
+- Research problem statement
+- Preliminary literature review
+- Key journal articles
+- Concept note or research proposal draft
+- Notes on identified research gaps
+Prompt:
+"Using the uploaded research problem, literature review, and supporting materials, help me develop a clear research aim, specific research objectives, and focused research questions for my research proposal. Critically evaluate whether the proposed aim, objectives, and questions are logically aligned with the identified research problem and research gap. Assess whether the research questions are clear, feasible, sufficiently focused, and capable of generating meaningful findings. Recommend improvements to strengthen their clarity, coherence, originality, and scholarly significance. Ensure that the final research aim, objectives, and questions provide a strong foundation for the proposed study and are suitable for a high-quality research proposal."
+
+Step 4: Establish the Research Gap and Justification
+Objective: Clearly identify the research gap and develop a compelling justification that demonstrates the significance, originality, and potential contribution of the proposed study.
+Upload to NotebookLM:
+- Preliminary literature review
+- Key journal articles
+- Research problem statement
+- Research aim, objectives, and questions
+- Notes on existing knowledge gaps
+Prompt:
+"Using the uploaded literature, research problem, and research objectives, critically evaluate the existing body of knowledge to identify the most significant research gap addressed by my proposed study. Assess whether the identified gap is theoretical, methodological, empirical, or practical, and explain why it warrants further investigation. Critically examine the originality, relevance, and significance of the proposed research and justify how it will contribute to advancing knowledge, informing practice, or addressing real-world challenges. Provide recommendations for strengthening the research gap, justification, and scholarly contribution to ensure that the proposal presents a compelling rationale for conducting the study."
+
+Step 5: Develop the Conceptual or Theoretical Framework
+Objective: Develop a robust conceptual or theoretical framework that explains the relationships among key concepts, variables, or constructs and provides a strong foundation for the proposed study.
+Upload to NotebookLM:
+- Research problem statement
+- Literature review
+- Research aim, objectives, and questions
+- Key journal articles
+- Existing conceptual or theoretical frameworks (if available)
+Prompt:
+"Using the uploaded research materials, literature review, and research objectives, help me develop an appropriate conceptual or theoretical framework for my research proposal. Identify the key concepts, variables, constructs, or theories that are most relevant to the proposed study and explain how they relate to one another. Critically evaluate existing theoretical and conceptual frameworks used in previous studies and recommend the most suitable framework for my research. Justify why the selected framework is appropriate for addressing the research problem and objectives. Identify any limitations, inconsistencies, or gaps in existing frameworks and recommend modifications or integrations where appropriate. Present the framework in a clear, logically structured, and academically rigorous manner that strengthens the theoretical foundation of my research proposal."
+
+Step 6: Design the Research Methodology
+Objective: Develop a rigorous and appropriate research methodology that aligns with the research problem, objectives, and questions and ensures the study can be conducted systematically and ethically.
+Upload to NotebookLM:
+- Research proposal draft
+- Research aim, objectives, and questions
+- Literature review
+- Conceptual or theoretical framework
+- Relevant methodology references or journal articles
+- Institutional or funding guidelines (if available)
+Prompt:
+"Using the uploaded research proposal, literature review, conceptual or theoretical framework, and research objectives, help me design an appropriate research methodology for my proposed study. Critically evaluate the suitability of different research philosophies, approaches, designs, sampling strategies, data collection methods, instruments, and data analysis techniques. Recommend the most appropriate methodological choices based on the research questions and objectives, and justify each recommendation using relevant methodological literature. Assess the feasibility, validity, reliability or trustworthiness, ethical considerations, and potential limitations of the proposed methodology. Provide recommendations for strengthening the methodological rigor, coherence, and overall quality of the research design to ensure that it is suitable for a high-quality research proposal."
+
+Step 7: Develop the Research Plan and Timeline
+Objective: Develop a realistic and well-structured research plan that outlines the sequence of research activities, project milestones, timelines, and resource requirements for successful completion of the study.
+Upload to NotebookLM:
+- Research proposal draft
+- Research methodology
+- Research objectives and questions
+- Institutional or funding guidelines (if available)
+- Project requirements or deadlines
+- Available resources and constraints (if available)
+Prompt:
+"Using the uploaded research proposal, methodology, research objectives, and project requirements, help me develop a comprehensive research plan and timeline for my proposed study. Break the project into logical phases, including literature review, research design, ethics approval (if applicable), data collection, data analysis, interpretation of findings, report writing, revision, and final submission. Estimate realistic timeframes for each activity, identify key milestones and deliverables, and assess the feasibility of the proposed schedule. Identify potential risks, bottlenecks, or resource constraints that may affect project completion and recommend practical mitigation strategies. Provide recommendations for improving the efficiency, organization, and overall feasibility of the research plan to ensure the successful completion of the proposed study."
+
+Step 8: Write and Integrate the Research Proposal
+Objective: Develop a clear, coherent, and persuasive research proposal by integrating all sections into a logically structured and academically rigorous document.
+Upload to NotebookLM:
+- Research problem statement
+- Literature review
+- Research gap and justification
+- Research aim, objectives, and questions
+- Conceptual or theoretical framework
+- Research methodology
+- Research plan and timeline
+- Target university, funding agency, or institutional guidelines (if available)
+Prompt:
+"Using the uploaded research proposal components and submission guidelines, help me write and integrate a complete research proposal. Organize the proposal into a logical structure, including the introduction, research problem, literature review, research gap, justification, research aim and objectives, research questions, conceptual or theoretical framework, methodology, research plan, ethical considerations, expected contributions, and references. Critically evaluate the clarity, coherence, logical flow, and consistency of the proposal. Identify weaknesses, redundancies, inconsistencies, or missing sections and provide recommendations for strengthening the overall quality, academic rigor, persuasiveness, and readability of the research proposal."
+
+Step 9: Evaluate and Strengthen the Proposal
+Objective: Critically evaluate the research proposal to identify weaknesses, improve clarity and coherence, strengthen the scholarly argument, and enhance the overall quality before submission.
+Upload to NotebookLM:
+- Complete research proposal draft
+- Research problem statement
+- Literature review
+- Research methodology
+- Conceptual or theoretical framework
+- Target university, funding agency, or institutional guidelines
+- Reviewer or supervisor feedback (if available)
+Prompt:
+"Using the uploaded research proposal, supporting materials, and submission guidelines, conduct a comprehensive evaluation of my proposal. Critically assess the clarity of the research problem, the strength of the literature review, the justification for the research gap, the alignment between the research aim, objectives, questions, conceptual or theoretical framework, and methodology, and the overall logical flow of the proposal. Identify weaknesses, inconsistencies, unsupported arguments, redundant sections, or areas requiring further development. Evaluate whether the proposal demonstrates originality, feasibility, methodological rigor, and scholarly significance. Provide detailed, constructive, and actionable recommendations for strengthening the proposal and improving its overall quality and competitiveness."
+
+Step 10: Refine, Proofread, and Finalize the Proposal
+Objective: Conduct a comprehensive final review of the research proposal to ensure it is clear, coherent, academically rigorous, and fully compliant with submission requirements.
+Upload to NotebookLM:
+- Final research proposal draft
+- Target university, funding agency, or institutional guidelines
+- Assessment rubric or evaluation criteria (if available)
+- Reviewer or supervisor feedback (if available)
+- Referencing and citation guidelines
+Prompt:
+"Using the uploaded research proposal, submission guidelines, assessment criteria, and reviewer feedback, conduct a comprehensive final review of my proposal. Critically evaluate the clarity, coherence, logical flow, academic writing quality, methodological rigor, originality, and overall scholarly contribution of the proposal. Verify that all sections are complete, internally consistent, and fully aligned with the research problem, objectives, research questions, conceptual or theoretical framework, and methodology. Identify grammatical, structural, formatting, referencing, and citation issues, as well as any remaining weaknesses, inconsistencies, or omissions. Provide detailed, constructive, and actionable recommendations to improve the proposal's clarity, readability, academic quality, and overall readiness for submission."
+
 -------------------------------------------------
+Scoping reviews have become increasingly popular across many disciplines because they enable researchers to systematically map existing evidence, identify key concepts, and highlight gaps in the literature. However, conducting a rigorous scoping review requires careful planning, transparent procedures, and the ability to synthesize large volumes of research.
+
+Step 1: Define the Review Questions and Objectives
+Objective: Develop clear and focused review questions and objectives that will guide the entire scoping review and determine the scope of evidence to be mapped.
+Upload to NotebookLM:
+- Research proposal or concept note
+- Preliminary literature
+- Key articles related to the topic
+- Existing research questions (if available)
+- Review aims or objectives (if available)
+Prompt:
+"Using the uploaded literature and research materials, help me develop clear and focused research questions and objectives for my scoping review. Critically evaluate the review topic and identify the key concepts, populations, contexts, and issues that should be explored. Assess whether the proposed review questions are appropriate for a scoping review and sufficiently broad to map the existing evidence while remaining focused enough to produce meaningful insights. Refine and improve the review questions and objectives to ensure they align with the purpose of a scoping review and provide recommendations for strengthening the scope, relevance, and potential contribution of the review."
+
+Step 2: Develop the Scoping Review Protocol
+Objective: Develop a transparent and structured protocol that clearly outlines the procedures and methods for conducting the scoping review.
+Upload to NotebookLM:
+- Review questions and objectives
+- Preliminary literature
+- Relevant methodological guidelines (e.g., JBI Manual, PRISMA-ScR)
+- Existing review protocols (if available)
+- Inclusion and exclusion criteria (if available)
+Prompt:
+"Using the uploaded research materials, review questions, and methodological guidelines, develop a comprehensive protocol for my scoping review. Clearly specify the review objectives, research questions, eligibility criteria, search strategy, study selection procedures, data charting methods, evidence mapping approach, and synthesis procedures. Critically evaluate whether the proposed protocol is transparent, rigorous, and aligned with established scoping review frameworks and reporting standards. Identify any methodological weaknesses, ambiguities, or omissions and provide recommendations for strengthening the quality, transparency, and reproducibility of the scoping review protocol."
+
+Step 3: Design the Search Strategy
+Objective: Develop a comprehensive, transparent, and reproducible search strategy to identify all relevant evidence related to the scoping review topic.
+Upload to NotebookLM:
+- Review questions and objectives
+- Scoping review protocol
+- Preliminary literature
+- Key articles related to the topic
+- Preliminary keywords and concepts
+- Target databases or search platforms
+Prompt:
+"Using the uploaded review questions, protocol, and preliminary literature, help me design a comprehensive search strategy for my scoping review. Identify the key concepts, keywords, synonyms, controlled vocabulary terms, and Boolean operators required to locate relevant evidence. Develop database-specific search strings and recommend appropriate academic databases, grey literature sources, and other relevant information sources. Critically evaluate whether the search strategy is sufficiently broad to capture the full scope of available evidence while remaining aligned with the review objectives. Provide recommendations for improving the transparency, comprehensiveness, rigor, and reproducibility of the search strategy in accordance with established scoping review standards."
+
+Step 4: Conduct the Literature Search and Collect Evidence
+Objective: Systematically search for, retrieve, and organize all relevant evidence related to the scoping review topic.
+Upload to NotebookLM:
+- Scoping review protocol
+- Search strategy and database search strings
+- Retrieved articles and search results
+- Grey literature sources
+- Exported reference lists and citation records (if available)
+Prompt:
+"Using the uploaded search strategy, retrieved studies, grey literature sources, and scoping review protocol, critically evaluate the comprehensiveness and relevance of the collected evidence. Assess whether the identified literature adequately addresses the review questions and objectives and determine whether important evidence sources may have been overlooked. Identify duplicate records, potentially irrelevant studies, and gaps in the retrieved evidence. Recommend procedures for organizing, documenting, and managing the collected literature to ensure transparency, consistency, and compliance with established scoping review standards. Provide recommendations for strengthening the breadth, completeness, and overall quality of the evidence collection process."
+
+Step 5: Screen and Select Relevant Studies
+Objective: Systematically screen the collected evidence and select studies that are relevant to the scoping review questions, objectives, and eligibility criteria.
+Upload to NotebookLM:
+- Scoping review protocol
+- Inclusion and exclusion criteria
+- Retrieved titles and abstracts
+- Full-text articles
+- Screening notes or decisions, if available
+Prompt:
+"Using the uploaded scoping review protocol, eligibility criteria, and retrieved studies, critically evaluate which studies should be included or excluded from my scoping review. Assess the relevance of each study in relation to the review questions, objectives, population, concept, and context. Identify studies that clearly meet the inclusion criteria, studies that should be excluded with justification, and studies that require further review. Provide recommendations for improving the transparency, consistency, and rigor of the screening and study selection process."
+
+Step 6: Chart and Extract Data from Included Studies
+Objective: Systematically extract, organize, and chart relevant information from the included studies to facilitate evidence mapping and synthesis.
+Upload to NotebookLM:
+- Included full-text studies
+- Scoping review protocol
+- Review questions and objectives
+- Data charting template (if available)
+- Notes from the screening process
+Prompt:
+"Using the uploaded studies, review questions, and scoping review protocol, help me systematically chart and extract relevant information from the included studies. Identify and organize key study characteristics, including authors, year of publication, country or context, study aims, population, concepts, methodology, intervention or phenomenon of interest, key findings, and reported gaps or recommendations. Critically evaluate whether the extracted information adequately addresses the review questions and objectives. Identify missing, unclear, or inconsistent information and provide recommendations for improving the completeness, consistency, transparency, and organization of the data charting process in accordance with established scoping review standards."
+
+Step 7: Map and Categorize the Evidence
+Objective: Systematically map, categorize, and visualize the available evidence to identify patterns, trends, knowledge clusters, and gaps within the literature.
+Upload to NotebookLM:
+- Included studies
+- Data charting table
+- Review questions and objectives
+- Preliminary categories or themes (if available)
+- Notes from the data extraction stage
+Prompt:
+"Using the uploaded studies, charted data, and review objectives, systematically map and categorize the available evidence included in my scoping review. Identify major themes, concepts, populations, contexts, methodological approaches, interventions, and evidence types represented across the literature. Critically evaluate patterns, trends, concentrations of evidence, underexplored areas, and gaps within the evidence base. Recommend meaningful categories, thematic groupings, and evidence maps that clearly represent the scope and nature of the literature. Provide recommendations for organizing and presenting the mapped evidence in a transparent, coherent, and publication-ready manner consistent with established scoping review standards."
+
+Step 8: Analyze, Summarize, and Synthesize Findings
+Objective: Analyze and synthesize the mapped evidence to provide a comprehensive overview of the existing literature, identify key insights, and highlight knowledge gaps.
+Upload to NotebookLM:
+- Included studies
+- Data charting table
+- Evidence maps and thematic categories
+- Review questions and objectives
+- Notes from the evidence mapping stage
+Prompt:
+"Using the uploaded studies, charted data, evidence maps, and review objectives, critically analyze, summarize, and synthesize the findings of my scoping review. Identify major themes, patterns, trends, relationships, and areas of concentration within the evidence base. Assess the nature, extent, and characteristics of the available evidence and explain how the findings address the review questions and objectives. Critically evaluate knowledge gaps, underexplored areas, inconsistencies, and opportunities for future research. Provide recommendations for presenting and synthesizing the findings in a clear, coherent, and publication-ready manner while ensuring that the interpretation remains transparent and aligned with established scoping review standards."
+
+Step 9: Write the Scoping Review Manuscript
+Objective: Develop a clear, coherent, transparent, and publication-ready scoping review manuscript that accurately maps and reports the available evidence.
+Upload to NotebookLM:
+- Included studies
+- Data charting table
+- Evidence maps and thematic categories
+- Synthesized findings
+- Scoping review protocol
+- Target journal guidelines and PRISMA-ScR checklist (if available)
+Prompt:
+"Using the uploaded scoping review materials, synthesized findings, evidence maps, and reporting guidelines, help me write a clear, coherent, and publication-ready scoping review manuscript. Structure the review around the review questions, methodology, study selection process, characteristics of included studies, evidence mapping, major themes, and identified knowledge gaps. Critically evaluate whether the manuscript clearly describes the nature, extent, and characteristics of the available evidence and whether it complies with established scoping review reporting standards, including PRISMA-ScR. Identify weaknesses, omissions, inconsistencies, or areas requiring further development, and provide specific recommendations for strengthening the clarity, transparency, methodological rigor, and scholarly contribution of the scoping review manuscript."
+
+Step 10: Refine, Evaluate, and Finalize the Review
+Objective: Conduct a final comprehensive evaluation of the scoping review to ensure that it is transparent, rigorous, publication-ready, and fully compliant with reporting standards.
+Upload to NotebookLM:
+- Final scoping review manuscript
+- Scoping review protocol
+- PRISMA-ScR checklist and flow diagram
+- Target journal guidelines
+- Reviewer or supervisor feedback (if available)
+Prompt:
+"Using the uploaded scoping review manuscript, review protocol, PRISMA-ScR checklist, and target journal guidelines, conduct a comprehensive evaluation to determine whether my scoping review is ready for submission. Critically assess the review's clarity, transparency, methodological rigor, coherence, evidence mapping, synthesis quality, and overall scholarly contribution. Evaluate whether the review fully complies with established scoping review reporting standards and journal requirements, including structure, formatting, referencing, and reporting transparency. Identify any remaining weaknesses, inconsistencies, omissions, or areas requiring further refinement, and provide detailed, constructive, and actionable recommendations to improve the overall quality, rigor, and publication readiness of the scoping review."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
