@@ -1,0 +1,560 @@
+
+-------------------------------------------------------------
+AI workflow, learning 10 prompts
+
+1. Personalized Learning Roadmap Builder
+Prompt:
+“Act as an expert instructional designer. Review my uploaded materials and build an 8-week mastery curriculum.
+→ Define the core learning objective for each week.
+→ Assign the exact sources and sections to study.
+→ Create one active recall exercise and one deliberate practice task per week.
+→ Include one spaced review session covering previously studied material.
+→ End each week with a real-world milestone project.”
+
+2. Socratic Learning Coach
+Prompt:
+“Act as a Socratic tutor for the material in these uploads. Do not provide direct answers.
+→ Ask one increasingly difficult question at a time.
+→ Require me to justify every answer using evidence from the sources.
+→ Point out misconceptions, weak reasoning, and missing assumptions.
+→ Provide hints instead of answers when I struggle.
+→ Periodically revisit earlier concepts to strengthen retention.”
+
+3. First Principles Explainer
+Prompt:
+“Analyze all my uploaded materials and reduce every major idea to its first principles.
+→ Identify the foundational truths behind each concept.
+→ Explain how complex theories emerge from those fundamentals.
+→ Highlight dependencies and assumptions between concepts.
+→ Point out areas of uncertainty or disagreement within the sources.
+→ End by asking me to reconstruct the theory from memory.”
+
+4. Feynman Learning Coach
+Prompt:
+“Explain the most difficult concepts in these sources using the Feynman Technique.
+→ Step 1: Explain the concept in simple language using an everyday analogy.
+→ Step 2: Connect the analogy to the technical terms used in the text.
+→ Step 3: Ask me to teach the concept back from memory.
+→ Step 4: Evaluate my explanation strictly against the sources and identify gaps.
+→ Step 5: Present a new scenario that requires applying the concept.”
+
+5. Expert Thinking Framework Extractor
+Prompt:
+“Scan my uploaded materials and identify the most important mental models used by experts.
+→ Define each model in plain language.
+→ Show where it appears in the sources.
+→ Explain why experts rely on it.
+→ Describe common beginner mistakes.
+→ Present a realistic scenario in which I must apply the model.”
+
+6. Knowledge Transfer Accelerator
+Prompt:
+“I understand [Concept A] but struggle with [Concept B]. Analyze these uploads and accelerate my learning.
+→ Identify the structural similarities between both concepts.
+→ Explain Concept B using frameworks and analogies from Concept A.
+→ Highlight where the analogy breaks down.
+→ Create comparison tables showing similarities and differences.
+→ Test my ability to transfer knowledge between both concepts.”
+
+7. Real-World Practice Simulator
+Prompt:
+“Act as a realistic simulator based entirely on my uploaded materials. Present progressively difficult scenarios one at a time.
+→ Score my decisions using explicit criteria drawn from the sources.
+→ Explain the short- and long-term consequences.
+→ Compare my reasoning with the reasoning demonstrated by experts in the materials.
+→ Identify recurring mistakes in my thinking.
+→ Adapt future scenarios to target my weakest skills.”
+
+8. Critical Thinking Reviewer
+Prompt:
+“I am going to explain my understanding of the uploaded material below. Act as a rigorous academic reviewer.
+→ Identify unsupported claims, logical fallacies, and weak arguments.
+→ Expose missing evidence and overlooked edge cases.
+→ Present counterarguments drawn from the sources.
+→ Highlight alternative interpretations.
+→ Ask probing questions that force me to strengthen my reasoning.
+My explanation: [Insert Explanation]”
+
+9. Long-Term Memory Builder
+Prompt:
+“I need to permanently retain the core ideas from these uploads. Generate a 30-card active recall deck based entirely on the text.
+→ Prioritize counterintuitive insights and common misconceptions.
+→ Include scenario-based application questions.
+→ Focus on concepts with the highest long-term value.
+→ Tag each card by difficulty level.
+→ Format the entire deck as a table for export to Anki or Quizlet.”
+
+10. Final Mastery Assessment
+Prompt:
+“Based entirely on the material I have uploaded, generate a rigorous mastery assessment.
+→ Part 1: 5 conceptual short-answer questions.
+→ Part 2: 3 real-world problem-solving scenarios.
+→ Part 3: 1 complex synthesis question that combines multiple sources.
+Wait for my answers, grade them strictly using citations, explain every deduction, and identify my remaining knowledge gaps.”
+
+-------------------------------------------------------------
+How to Find the Right Journal for Your Research Article Using ChatGPT
+
+Step 1: Understand Your Manuscript
+Before searching for journals, clearly define the characteristics of your study, including its research area, methodology, target audience, and key themes.
+Prompt:
+"You are an experienced academic editor. Based on the abstract below, analyze my manuscript and provide the following information:
+1. The primary research field and sub-discipline.
+2. The study design or methodology used.
+3. The main research objectives and contributions.
+4. The target audience most likely to benefit from this research.
+5. Ten keywords or phrases that accurately describe the manuscript.
+6. Three to five journal categories that would be appropriate for this study.
+Abstract:
+[Paste your abstract here]"
+
+
+Step 2: Generate a Shortlist of Potential Journals
+Use ChatGPT to identify journals that may be suitable for your research topic. Treat these recommendations as a starting point rather than a final list.
+Prompt:
+"Act as an academic publishing consultant with expertise in journal selection. Based on the manuscript information below, recommend 10 reputable journals that would be suitable for submission.
+For each journal, provide:
+1. The journal name.
+2. The publisher.
+3. Specific reasons why the journal is a good fit for this manuscript.
+4. The types of articles the journal typically publishes.
+5. The intended readership of the journal.
+6. Whether the journal is likely to consider studies with similar methodologies or topics.
+Avoid predatory journals and prioritize established journals with transparent editorial practices.
+Manuscript information:
+• Research field:
+• Study topic:
+• Methodology:
+• Target audience:
+• Keywords:"
+
+
+Step 3: Assess Journal Fit
+Review each journal's aims and scope to determine whether your manuscript aligns with the type of research it publishes.
+Prompt:
+"Act as an experienced journal editor. Based on the information provided below, evaluate whether each shortlisted journal is a good fit for my manuscript.
+For each journal, assess the following:
+1. Whether the journal's aims and scope align with my research topic.
+2. Whether the journal typically publishes studies using similar methodologies.
+3. Whether the journal accepts my article type (e.g., original research, review article, case study, short communication).
+4. Whether the journal's readership matches my intended audience.
+5. Whether similar studies have been published in the journal recently.
+6. The strengths and potential limitations of submitting my manuscript to the journal.
+7. An overall assessment of fit (Excellent Fit, Good Fit, Moderate Fit, or Poor Fit), with a brief explanation.
+Present the results in a table, followed by a concise summary highlighting the journals that appear to be the strongest matches.
+Manuscript information:
+• Research topic:
+• Study design/methodology:
+• Article type:
+• Target audience:
+• Keywords:
+Shortlisted journals:
+1.
+2.
+3.
+4.
+5."
+
+
+Step 4: Verify Journal Quality and Credibility
+Before submission, confirm that the journal is reputable and aligns with your publication goals.
+Prompt:
+"Act as an academic publishing advisor. Evaluate the quality and credibility of the journals listed below and identify any potential concerns that authors should consider before submission.
+For each journal, assess the following:
+1. Whether the journal is indexed in major databases relevant to my field (e.g., Scopus, Web of Science, PubMed).
+2. The journal's publication model (subscription-based, fully open access, or hybrid).
+3. Whether article processing charges (APCs) apply.
+4. The transparency of the journal's peer-review and editorial processes.
+5. The credibility of the publisher and editorial board.
+6. Any potential warning signs of predatory publishing practices.
+7. Additional factors authors should consider when evaluating the journal's quality and reputation.
+Important:
+Do not rely solely on journal metrics, such as impact factor, when evaluating quality. Provide a balanced assessment based on multiple indicators of credibility.
+Present the findings in a table, followed by a summary highlighting the most reputable journals and any journals that may warrant caution.
+Journals to evaluate:
+1.
+2.
+3.
+4.
+5."
+
+
+Step 5: Compare Your Options and Select the Best Match
+Once you have identified a shortlist of suitable journals, compare them systematically to determine which one best fits your manuscript.
+Prompt:
+"Act as an experienced research mentor and publishing advisor. Compare the journals listed below and rank them from most to least suitable for my manuscript.
+Evaluate each journal based on the following criteria:
+1. Alignment with the manuscript's aims, scope, and subject area.
+2. The likelihood that the journal publishes studies using similar methodologies.
+3. The relevance of the journal's readership to the intended audience of the study.
+4. Indexing status in major databases, if known.
+5. The publication model (subscription-based, fully open access, or hybrid).
+6. Potential advantages and disadvantages of submitting to each journal.
+7. An overall recommendation identifying the journal that would be the strongest choice and explaining why.
+Present your response in a table that includes the ranking, followed by a narrative justification for the final recommendation.
+Manuscript summary:
+[Paste a brief summary of your manuscript]
+Journals to compare:
+1.
+2.
+3.
+4.
+5."
+
+-------------------------------------------------------------
+Finding reliable academic references with AI involves more than simply generating citations. It requires identifying peer-reviewed sources, verifying publication details, retrieving accurate DOIs, excluding non-academic content, and ensuring that references align with specific sections of a research paper without introducing fabricated citations.
+
+1. The Master Reference Finder
+"You are an experienced academic researcher with expertise in scholarly literature retrieval. Provide only peer-reviewed references indexed in recognized academic databases such as Scopus, Web of Science, PubMed, IEEE Xplore, DOAJ, Springer, or other reputable discipline-specific databases.
+Recommend 10 references on: [Topic].
+Apply the following criteria before selecting any reference:
+- Prioritize primary peer-reviewed research articles over secondary summaries whenever appropriate.
+- Prefer studies published within the last five years while retaining seminal or foundational studies when they remain essential to understanding the topic.
+- Ensure that each reference is directly relevant to the research question, variables, constructs, hypotheses, or objectives under investigation.
+- Verify that each reference contains complete bibliographic information, including authors, publication year, article title, journal name, volume, issue, page range, and DOI whenever available.
+- Exclude references with incomplete, inconsistent, or unverifiable publication details.
+- Do not infer, reconstruct, or fabricate missing citation information.
+- If the peer-review status or authenticity of a source cannot be reasonably verified, exclude it from the final output.
+- Clearly justify the inclusion of each accepted reference based on its methodological quality, theoretical contribution, empirical significance, or relevance to the selected manuscript section.
+Link each reference directly to one section of a scientific paper: Introduction, Theoretical Framework, Methodology, Results, or Discussion.
+For each reference, provide:
+- Full APA 7 citation.
+- Authors.
+- Publication year.
+- Journal name.
+- DOI (if available).
+- Assigned manuscript section.
+- A brief justification explaining why the reference is appropriate for that section.
+Present the references as an organized list grouped according to the relevant section of the scientific paper.
+Before presenting the final output, confirm that every reference:
+✓ Is peer-reviewed.
+✓ Is directly relevant to the research topic.
+✓ Meets the predefined inclusion criteria.
+✓ Contains complete bibliographic information.
+✓ Includes a DOI whenever available.
+✓ Has not been fabricated or inferred from incomplete information.
+✓ Is presented according to APA 7 guidelines.
+If sufficient high-quality peer-reviewed evidence is unavailable, clearly state: 'No sufficient peer-reviewed sources available.' When uncertainty exists regarding the accuracy or existence of a citation, acknowledge the limitation rather than presenting potentially misleading information."
+
+2. The Section-Specific Citation Builder
+"Provide peer-reviewed references to support the [Introduction/Theoretical Framework/Methodology/Results/Discussion] section of a scientific paper on [Topic].
+Apply the following selection criteria before including any reference:
+- Use only peer-reviewed articles published in academic journals or peer-reviewed conference proceedings.
+- Prioritize primary research studies whenever appropriate.
+- Prefer studies published within the last five years while retaining foundational references when they are essential to the selected section.
+- Select references that are directly relevant to the research objectives, theoretical concepts, variables, constructs, hypotheses, or methodological approach discussed in the section.
+- Give preference to influential studies with strong scholarly impact, methodological rigor, or substantial theoretical contribution.
+- Ensure that each reference contains complete bibliographic information, including authors, publication year, article title, journal name, volume, issue, page range, and DOI whenever available.
+- Exclude any reference with incomplete, inconsistent, or unverifiable publication details.
+- Do not infer, reconstruct, or fabricate missing citation information.
+- Exclude blogs, news articles, general websites, non-peer-reviewed books, presentations, unpublished manuscripts, and any other non-academic sources.
+Provide exactly 8 references.
+For each reference, include:
+- Full APA 7 citation.
+- DOI (if available).
+- A one-sentence explanation describing how the reference specifically supports the selected section of the scientific paper.
+- A brief justification explaining why the source was chosen over alternative references.
+Present the references as an organized list.
+Before presenting the final output, confirm that every reference:
+✓ Is peer-reviewed.
+✓ Is directly relevant to the selected section.
+✓ Supports the objectives and content of the manuscript.
+✓ Contains complete bibliographic information.
+✓ Includes a DOI whenever available.
+✓ Has not been fabricated or inferred from incomplete information.
+✓ Is formatted according to APA 7 guidelines.
+If no suitable peer-reviewed references are available, clearly state: 'No sufficient peer-reviewed sources available.' Rather than introducing unsupported or questionable citations, explicitly acknowledge the limitation."
+
+3. The Weak Source Filter
+"Before including any reference, apply the following validation criteria.
+Accept only references that meet all of the following requirements:
+- The source is clearly identified as peer-reviewed.
+- The source is published in an academic journal or peer-reviewed conference proceeding.
+- The source is directly relevant to the research topic, objectives, variables, constructs, or hypotheses under investigation.
+- The source contains complete bibliographic information, including authors, publication year, article title, journal or conference name, volume, issue, page range, and DOI whenever available.
+- The source can be reasonably verified through recognized academic databases such as Scopus, Web of Science, PubMed, IEEE Xplore, DOAJ, Springer, or other reputable discipline-specific databases.
+- The source demonstrates sufficient scholarly rigor and academic relevance.
+Reject any source that falls into one or more of the following categories:
+- News articles or media reports.
+- Personal blogs or opinion pieces.
+- General websites or non-academic webpages.
+- Unpublished manuscripts lacking peer review.
+- Presentations, slide decks, posters, or teaching materials.
+- Abstract-only records without access to the full scholarly work.
+- Non-peer-reviewed books or popular publications.
+- References lacking a journal name, DOI (when applicable), or complete publication details.
+- Sources whose authenticity, credibility, or peer-review status cannot be reasonably verified.
+Do not infer, reconstruct, or fabricate missing citation information. If uncertainty exists regarding a source's academic validity, exclude it immediately.
+Present the accepted references in a table containing the following columns:
+- Full APA 7 citation.
+- Source type (e.g., journal article or conference proceeding).
+- Reason for acceptance.
+- Recommended section of the scientific paper (Introduction, Theoretical Framework, Methodology, Results, or Discussion).
+Before presenting the final output, confirm that every accepted reference:
+✓ Is peer-reviewed.
+✓ Meets all predefined inclusion criteria.
+✓ Does not violate any exclusion criteria.
+✓ Contains complete bibliographic information.
+✓ Includes a DOI whenever available.
+✓ Has not been fabricated or inferred from incomplete information.
+✓ Is formatted according to APA 7 guidelines.
+If no references satisfy these validation criteria, clearly state: 'No sufficient peer-reviewed sources available.' Acknowledge the limitation rather than presenting potentially misleading or unverifiable citations."
+
+4. The Precision Literature Search
+"I am looking for peer-reviewed references on [Specific Topic] for use in the [Target Section] of a scientific paper.
+Select only studies that meet all of the following criteria:
+- Employ a clear, rigorous, and well-defined methodology.
+- Are published in reputable peer-reviewed academic journals or peer-reviewed conference proceedings.
+- Are directly relevant to the variables, constructs, hypotheses, research objectives, or theoretical concepts under investigation.
+- Prioritize primary research articles whenever appropriate.
+- Prefer studies published within the last five years while retaining seminal or foundational studies when they remain essential to understanding the topic.
+- Demonstrate strong methodological quality, theoretical significance, empirical relevance, or scholarly impact.
+- Contain complete bibliographic information, including authors, publication year, article title, journal name, volume, issue, page range, and DOI whenever available.
+- Can be reasonably verified through recognized academic databases such as Scopus, Web of Science, PubMed, IEEE Xplore, DOAJ, Springer, or other reputable discipline-specific databases.
+Exclude any source that:
+- Is a blog, news article, general website, or other non-academic publication.
+- Is unpublished or lacks evidence of peer review.
+- Provides only a simplified explanation without scholarly depth.
+- Contains incomplete, inconsistent, or unverifiable publication details.
+- Cannot be reasonably verified as an authentic academic source.
+Do not infer, reconstruct, or fabricate missing citation information.
+Organize the selected references into the following categories:
+1. Core References
+Foundational studies that provide the primary theoretical or empirical basis for the selected section.
+2. Recent References
+High-quality studies published in recent years that reflect current developments, emerging evidence, and contemporary perspectives related to the topic.
+3. Supporting References
+Additional peer-reviewed sources that strengthen, contextualize, extend, or complement the arguments presented in the selected section.
+For each reference, provide:
+- Full APA 7 citation.
+- DOI (if available).
+- A brief explanation of its relevance to the topic.
+- A statement describing how it contributes to the development of the selected section.
+- A justification for why it belongs in its assigned category.
+Before presenting the final output, confirm that every reference:
+✓ Is peer-reviewed.
+✓ Is directly relevant to the research topic and target section.
+✓ Meets all predefined inclusion criteria.
+✓ Contains complete bibliographic information.
+✓ Includes a DOI whenever available.
+✓ Has not been fabricated or inferred from incomplete information.
+✓ Is formatted according to APA 7 guidelines.
+If no suitable peer-reviewed references are available, clearly state: 'No sufficient peer-reviewed sources available.' If uncertainty exists regarding the authenticity or appropriateness of a citation, acknowledge the limitation rather than presenting a potentially misleading reference."
+
+5. The Citation Verification Checklist
+"Do not include any reference until you verify that it meets all of the following criteria:
+- It is published in a peer-reviewed academic journal or peer-reviewed conference proceeding.
+- It contains complete bibliographic information, including authors, publication year, article title, journal or conference name, volume, issue, page range, and DOI whenever available.
+- It is directly relevant to the specified research topic, objectives, variables, constructs, hypotheses, or research questions.
+- It represents a primary source whenever appropriate and is not merely a secondary citation used without consulting the original work.
+- It is not an abstract-only record, simplified explanation, popular summary, teaching material, or any other source lacking sufficient scholarly depth.
+- Its authenticity, publication status, and peer-review status can be reasonably verified through recognized academic databases such as Scopus, Web of Science, PubMed, IEEE Xplore, DOAJ, Springer, or other reputable discipline-specific databases.
+- It demonstrates adequate methodological quality, theoretical contribution, empirical significance, or relevance to the intended purpose within the manuscript.
+Exclude immediately any source that:
+- Cannot be verified as peer-reviewed.
+- Contains incomplete, inconsistent, or unverifiable bibliographic information.
+- Lacks sufficient academic relevance to the topic.
+- Appears questionable in terms of credibility, authenticity, or scholarly rigor.
+- Requires the reconstruction, inference, or fabrication of missing citation details.
+Do not infer, reconstruct, or fabricate any missing bibliographic information.
+Provide only the final list of approved references.
+For each accepted reference, include:
+- Full APA 7 citation.
+- DOI whenever available.
+- A brief statement confirming its relevance to the research topic and explaining why it satisfies the verification criteria.
+Before presenting the final output, confirm that every reference:
+✓ Is peer-reviewed.
+✓ Has been verified through reputable academic sources whenever possible.
+✓ Is directly relevant to the research topic.
+✓ Contains complete bibliographic information.
+✓ Includes a DOI whenever available.
+✓ Has not been fabricated or inferred from incomplete information.
+✓ Is formatted according to APA 7 guidelines.
+If no references satisfy these verification criteria, clearly state: 'No sufficient peer-reviewed sources available.' When uncertainty exists regarding the quality or authenticity of a citation, acknowledge the limitation rather than including a potentially misleading source."
+
+6. The Evidence-Based Writing Assistant
+"Write the [Section Name] section of a scientific paper on [Topic] while strictly adhering to evidence-based academic writing standards.
+Apply the following requirements throughout the writing process:
+- Use only peer-reviewed references published in academic journals or peer-reviewed conference proceedings.
+- Prioritize primary research articles whenever appropriate.
+- Support every major claim, argument, interpretation, or key idea with either a recent scholarly source or a foundational reference that is widely recognized within the field.
+- Prefer studies published within the last five years while retaining seminal works when they remain essential to understanding the topic.
+- Do not use blogs, news articles, general websites, non-peer-reviewed books, presentations, teaching materials, or any other non-academic sources.
+- Remove, revise, qualify, or explicitly acknowledge any statement that cannot be adequately supported by peer-reviewed evidence.
+- Maintain a formal academic tone, logical flow, coherence between paragraphs, and alignment with the objectives of the selected section.
+- Avoid overstating conclusions or making claims that extend beyond the evidence presented in the cited literature.
+- Ensure that all interpretations accurately reflect the findings of the original sources.
+Include appropriate APA 7 in-text citations throughout the text. Add relevant citations after each paragraph and whenever a substantive claim requires scholarly support.
+Provide the following outputs in order:
+1. The complete academic text for the specified section.
+2. APA 7 in-text citations integrated within the text.
+3. A separate reference list containing only the sources cited in the section.
+4. DOIs for all references whenever available.
+Before finalizing the response, verify that:
+✓ Every major claim is supported by peer-reviewed evidence.
+✓ All cited references are directly relevant to the topic and purpose of the section.
+✓ The writing demonstrates academic rigor, clarity, and coherence.
+✓ All references contain complete bibliographic information whenever available.
+✓ APA 7 guidelines have been followed consistently.
+✓ No citation has been fabricated or inferred from incomplete information.
+If sufficient peer-reviewed evidence is unavailable to support a particular point, explicitly acknowledge the limitation rather than introducing unsupported claims or potentially misleading references."
+
+7. The Quick Reference Generator
+"Provide peer-reviewed references only on [Topic] for use in the [Section] of a scientific paper.
+Apply the following selection criteria:
+- Use only references published in peer-reviewed academic journals or peer-reviewed conference proceedings.
+- Prioritize primary research articles whenever appropriate.
+- Prefer studies published within the last five years while retaining seminal or foundational studies when they remain highly relevant to the topic.
+- Select references that are directly relevant to the research objectives, variables, constructs, hypotheses, or theoretical concepts discussed in the selected section.
+- Exclude blogs, news articles, general websites, non-peer-reviewed books, presentations, unpublished manuscripts, and any other non-academic sources.
+- Exclude any reference whose authenticity, peer-review status, or bibliographic information cannot be reasonably verified.
+- Do not infer, reconstruct, or fabricate missing citation information.
+Provide a concise list of references.
+For each reference, include:
+- Full APA 7 citation.
+- DOI whenever available.
+- A one-sentence justification explaining why the source is relevant to the specified section.
+Before presenting the final output, confirm that every reference:
+✓ Is peer-reviewed.
+✓ Is directly relevant to the selected topic and section.
+✓ Contains complete bibliographic information.
+✓ Includes a DOI whenever available.
+✓ Has not been fabricated or inferred from incomplete information.
+✓ Is formatted according to APA 7 guidelines.
+If no suitable peer-reviewed references are available, clearly state: 'No sufficient peer-reviewed sources available.' When uncertainty exists regarding the credibility or authenticity of a citation, acknowledge the limitation rather than including a potentially misleading source."
+
+8. The Landmark Studies Identifier
+"Identify the most influential peer-reviewed studies on [Topic].
+Apply the following selection criteria:
+- Include only peer-reviewed references published in academic journals or peer-reviewed conference proceedings.
+- Prioritize studies that have made substantial theoretical, methodological, or empirical contributions to the field.
+- Identify seminal publications that established foundational concepts, theories, models, or methodologies related to the topic.
+- Include highly cited contemporary studies that have significantly advanced current understanding of the field.
+- Highlight emerging research that reflects recent developments, evolving perspectives, or innovative approaches relevant to the topic.
+- Prefer primary research articles whenever appropriate.
+- Ensure that all references are directly relevant to the specified topic and can be reasonably verified through recognized academic databases such as Scopus, Web of Science, PubMed, IEEE Xplore, DOAJ, Springer, or other reputable discipline-specific databases.
+- Exclude blogs, news articles, general websites, non-peer-reviewed books, presentations, unpublished manuscripts, and any other non-academic sources.
+- Exclude references with incomplete, inconsistent, or unverifiable publication details.
+- Do not infer, reconstruct, or fabricate missing citation information.
+Organize the results into the following categories:
+1. Foundational Studies
+- Seminal works that introduced influential theories, frameworks, concepts, or methodological approaches within the field.
+2. High-Impact Contemporary Studies
+- Peer-reviewed studies that have significantly shaped recent scholarship and are widely recognized for their academic influence.
+3. Emerging Research Trends
+- Recent peer-reviewed studies that highlight new directions, unresolved questions, innovative methods, or developing areas of inquiry.
+For each reference, provide:
+- Full APA 7 citation.
+- DOI whenever available.
+- Publication year.
+- A brief explanation of why the study is considered influential.
+- A statement describing its contribution to the evolution of the field.
+- Justification for its placement within the assigned category.
+Before presenting the final output, confirm that every reference:
+✓ Is peer-reviewed.
+✓ Is directly relevant to the specified topic.
+✓ Represents a meaningful scholarly contribution to the field.
+✓ Contains complete bibliographic information.
+✓ Includes a DOI whenever available.
+✓ Has not been fabricated or inferred from incomplete information.
+✓ Is formatted according to APA 7 guidelines.
+If insufficient peer-reviewed evidence exists to identify influential studies with confidence, clearly state: 'No sufficient peer-reviewed sources available.' When uncertainty exists regarding the impact, authenticity, or relevance of a citation, acknowledge the limitation rather than presenting a potentially misleading reference."
+
+9. The Systematic Review Evidence Finder
+"Identify peer-reviewed studies relevant to the following research question: [Research Question].
+Before selecting studies, establish explicit inclusion and exclusion criteria consistent with evidence synthesis best practices.
+Inclusion Criteria:
+- Studies that directly address the research question.
+- Peer-reviewed articles published in academic journals or peer-reviewed conference proceedings.
+- Primary research studies whenever appropriate.
+- Studies employing clearly described and rigorous methodologies.
+- References containing complete bibliographic information, including authors, publication year, article title, journal name, volume, issue, page range, and DOI whenever available.
+- Studies that can be reasonably verified through recognized academic databases such as Scopus, Web of Science, PubMed, IEEE Xplore, DOAJ, Springer, or other reputable discipline-specific databases.
+Exclusion Criteria:
+- News articles, blogs, opinion pieces, and general websites.
+- Non-peer-reviewed books or publications.
+- Unpublished manuscripts lacking peer review.
+- Presentations, posters, teaching materials, or other non-scholarly sources.
+- Studies with incomplete, inconsistent, or unverifiable publication details.
+- References whose authenticity or peer-review status cannot be reasonably confirmed.
+Do not infer, reconstruct, or fabricate missing citation information.
+For each selected study, provide:
+- Full APA 7 citation.
+- DOI whenever available.
+- Study objective or research focus.
+- Study design or methodological approach.
+- Population, sample, or context investigated, when applicable.
+- A brief explanation of why the study satisfies the inclusion criteria.
+- A statement describing the study's relevance to the research question.
+Organize the findings according to the most appropriate structure for the review objective, such as:
+- Themes or concepts.
+- Methodological approaches.
+- Populations or settings.
+- Outcomes or key findings.
+After presenting the studies, provide:
+1. A brief synthesis highlighting patterns, consistencies, and differences across the evidence base.
+2. A summary of major knowledge gaps or areas requiring further investigation.
+3. A discussion of the overall strength and limitations of the available evidence.
+Before presenting the final output, confirm that every reference:
+✓ Is peer-reviewed.
+✓ Directly addresses the research question.
+✓ Meets all predefined inclusion criteria.
+✓ Does not violate any exclusion criteria.
+✓ Contains complete bibliographic information.
+✓ Includes a DOI whenever available.
+✓ Has not been fabricated or inferred from incomplete information.
+✓ Is formatted according to APA 7 guidelines.
+If high-quality peer-reviewed evidence is limited or unavailable, clearly state: 'No sufficient peer-reviewed sources available.' Acknowledge the limitation rather than presenting potentially misleading or unverifiable citations."
+
+10. The Literature Review Architect
+"Develop an evidence-based literature review outline on [Topic].
+Use only peer-reviewed references published in academic journals or peer-reviewed conference proceedings.
+Apply the following requirements throughout the literature review development process:
+- Prioritize primary research articles whenever appropriate.
+- Include both seminal studies and recent peer-reviewed research, giving preference to studies published within the last five years while retaining foundational works essential to understanding the topic.
+- Select references that are directly relevant to the research objectives, theoretical framework, variables, constructs, hypotheses, or research questions associated with the topic.
+- Organize the literature according to meaningful categories such as themes, theories, methodological approaches, populations, contexts, or key findings.
+- Identify areas of agreement, disagreement, inconsistencies, and evolving perspectives within the existing literature.
+- Highlight methodological strengths and limitations across studies when relevant.
+- Identify unresolved questions, underexplored areas, contradictions, and opportunities for future research.
+- Exclude blogs, news articles, general websites, non-peer-reviewed books, presentations, unpublished manuscripts, and any other non-academic sources.
+- Exclude references with incomplete, inconsistent, or unverifiable publication details.
+- Do not infer, reconstruct, or fabricate missing citation information.
+Provide the following outputs:
+1. A structured literature review outline, including clear headings and subheadings.
+2. References supporting each subsection, demonstrating how the literature contributes to the development of that part of the review.
+3. For each reference, include:
+- Full APA 7 citation.
+- DOI whenever available.
+- A brief explanation of its relevance to the subsection in which it appears.
+4. A synthesis of the literature that:
+- Summarizes major themes and theoretical perspectives.
+- Identifies patterns and trends in the findings.
+- Discusses areas of consensus and debate.
+- Evaluates the overall state of knowledge on the topic.
+5. A research gap analysis that identifies:
+- Limitations in the existing evidence base.
+- Underrepresented populations, contexts, or variables.
+- Methodological shortcomings in prior studies.
+- Opportunities for future investigation.
+6. A concluding summary explaining how the reviewed literature informs the proposed study and justifies the need for further research.
+Before presenting the final output, confirm that every reference:
+✓ Is peer-reviewed.
+✓ Is directly relevant to the literature review topic.
+✓ Supports the objectives of the corresponding subsection.
+✓ Contains complete bibliographic information.
+✓ Includes a DOI whenever available.
+✓ Has not been fabricated or inferred from incomplete information.
+✓ Is formatted according to APA 7 guidelines.
+If sufficient high-quality peer-reviewed evidence is unavailable for a particular theme or subsection, explicitly acknowledge the limitation rather than presenting potentially misleading or unverifiable references."
+
+
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
