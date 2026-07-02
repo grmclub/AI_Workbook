@@ -1,0 +1,41 @@
+
+-------------------------------------------------------------
+Use these 10 powerful NotebookLM prompts to create engaging, classroom-ready English presentations in minutes
+
+
+1. Complete English Lesson
+"Act as an experienced English teacher and create a complete, slide-by-slide presentation on [insert topic]. Include a title slide, lesson objectives, a warm-up activity, clear explanations, examples, guided practice, independent practice, review activities, and a final recap slide. Structure the lesson according to communicative language teaching (CLT) principles to maximize student engagement and learning."
+
+2. Grammar Lesson Presentation
+"Act as an expert English teacher and create a complete presentation on [insert grammar point] for [insert CEFR level] learners. Include lesson objectives, a warm-up activity, clear explanations of the target grammar, examples in context, guided practice, communicative activities, common learner mistakes, review exercises, and a final recap slide. Follow communicative language teaching (CLT) principles and maximize student interaction throughout the lesson."
+
+3. Vocabulary Lesson Presentation
+"Act as an expert English teacher and create a complete vocabulary lesson presentation on [insert topic] for [insert CEFR level] learners. Include lesson objectives, a warm-up activity, target vocabulary with definitions and pronunciation support, example sentences, collocations, guided practice, communicative activities, review exercises, and a final recap slide. Follow communicative language teaching (CLT) principles and ensure students actively use the target vocabulary throughout the lesson."
+
+4. Reading Lesson Presentation
+"Act as an expert English teacher and create a complete reading lesson presentation on [insert text/topic] for [insert CEFR level] learners. Include lesson objectives, a warm-up activity, pre-reading tasks, prediction activities, vocabulary preparation, gist and detailed comprehension questions, critical thinking tasks, discussion activities, follow-up tasks, and a final recap slide. Follow communicative language teaching (CLT) principles and ensure the lesson is interactive and learner-centered."
+
+5. Listening Lesson Presentation
+"Act as an expert English teacher and create a complete listening lesson presentation on [insert topic] for [insert CEFR level] learners. Include lesson objectives, a warm-up activity, pre-listening tasks, prediction activities, key vocabulary, gist and detailed listening questions, discussion activities, follow-up speaking tasks, review exercises, and a final recap slide. Follow communicative language teaching (CLT) principles and ensure students actively engage with the listening material throughout the lesson."
+
+6. Writing Lesson Presentation
+"Act as an expert English teacher and create a complete writing lesson presentation on [insert writing genre/topic] for [insert CEFR level] learners. Include lesson objectives, a warm-up activity, model texts, text analysis, useful language, writing structure, guided writing tasks, peer-review activities, independent writing practice, review exercises, and a final recap slide. Follow communicative language teaching (CLT) principles and ensure students develop both accuracy and fluency in writing."
+
+7. Speaking Lesson Presentation
+"Act as an expert English teacher and create a complete speaking lesson presentation on [insert topic] for [insert CEFR level] learners. Include lesson objectives, a warm-up activity, useful vocabulary and expressions, model dialogues, guided speaking tasks, pair-work and group activities, role plays, discussion questions, fluency-building activities, review exercises, and a final recap slide. Follow communicative language teaching (CLT) principles and maximize student talking time throughout the lesson."
+
+8. Pronunciation Lesson Presentation
+"Act as an expert English teacher and create a complete pronunciation lesson presentation on [insert pronunciation feature] for [insert CEFR level] learners. Include lesson objectives, a warm-up activity, clear explanations of the target pronunciation feature, mouth position guidance, listening discrimination tasks, minimal pairs, drilling activities, controlled practice, communicative speaking tasks, review exercises, and a final recap slide. Follow communicative language teaching (CLT) principles and ensure students have multiple opportunities to practice and produce the target sounds."
+
+9. Business English Lesson
+"Act as an expert Business English teacher and create a complete lesson presentation on [insert topic] for [insert CEFR level] learners. Include lesson objectives, a warm-up activity, key business vocabulary, authentic workplace scenarios, model dialogues, role plays, discussion tasks, case studies, communication strategies, review exercises, and a final recap slide. Follow communicative language teaching (CLT) principles and ensure learners can confidently apply the target language in real workplace situations."
+
+10. IELTS Preparation Lesson
+"Act as an expert IELTS teacher and create a complete IELTS lesson presentation on [insert IELTS skill/task] for [insert CEFR level] learners. Include lesson objectives, a warm-up activity, exam strategies, model answers, useful language, common mistakes, guided practice activities, exam-style tasks, feedback opportunities, review exercises, and a final recap slide. Follow communicative language teaching (CLT) principles and ensure students develop the skills and confidence needed to succeed in the IELTS exam."
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+
