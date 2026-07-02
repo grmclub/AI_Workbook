@@ -150,6 +150,8 @@ A4 format (1:1.414), 2480×3508 px or higher resolution, ultra-sharp.
 
 
 -------------------------------------------------------------
+##hand sketch cheatsheet 
+
 Prompt:
 Create a high-value hand-drawn sketchnote infographic about: [TOPIC]
 The infographic should visually explain the topic in a way that is educational, engaging, and instantly understandable. Structure the content like a professional visual thinking session or graphic recording.
@@ -238,7 +240,8 @@ Most people skip this step & wonder why their books look unprofessional.
 
 
 -------------------------------------------------------------
-Insert any topic 👇
+##Encyclopedia page
+
 Prompt:
 Based on { TOPIC }, create a high-quality vertical “encyclopedia-style educational infographic image.”
 This image should NOT look like a regular poster or a simple illustration. Instead, it should feel like a structured knowledge guide that combines:
@@ -280,6 +283,35 @@ The image must strongly emphasize:
 “knowledge integration + modular information design + handbook/reference-style presentation.”
 
 -------------------------------------------------------------
+##isometric Engg equipment parts
+
+Prompt:
+Create a professional engineering teaching infographic of [OBJECT] in a 45° isometric 3D cutaway view. Combine a realistic product render with precise black technical illustrations on a clean white background.
+Include:
+- Fully labeled components with educational descriptions
+- Transparent and exploded sections revealing internal architecture
+- Measurements, dimensions, scale markers, and engineering callouts
+- Material labels, quantities, and manufacturing notes
+- Color-coded flow arrows:
+- Red = Power/Energy
+- Blue = Data/Communication
+- Orange = Processing/Thermal
+- Green = Sensors/Feedback
+- Simplified subsystem block diagrams
+- Technical specifications panel
+- Key engineering principles and operating notes
+- Safety, maintenance, and real-world application notes
+- Legend explaining symbols and color coding
+Style:
+- Aerospace engineering manual + museum exhibit infographic
+- Black technical linework with minimal accent colors (10–15%)
+- Clean layout, balanced negative space, highly readable typography
+- Educational first, artistic second
+- Every major component named and explained
+- Publication-quality, textbook-level clarity
+Place the title "[OBJECT]" inside a hand-drawn engineering title plate in the top-left corner.
+Output: A-series poster ratio (1:1.414), ultra-high resolution, crisp vector-like detail.
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
