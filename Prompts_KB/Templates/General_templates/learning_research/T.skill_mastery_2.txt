@@ -1,5 +1,35 @@
 
 -------------------------------------------------------------
+##7 Claude Prompts to Learn Anything 10x Faster
+
+1. The Feynman Technique
+​Use this when a concept feels too academic, abstract, or overwhelming. It forces the AI to strip away the jargon.
+​The Prompt: > "Teach me [insert topic] in simple language, as if you are explaining it to a beginner. Break it into clear, easy-to-grasp steps and provide simple examples. Afterward, ask me to explain it back to you in my own words. Evaluate my response to identify any gaps, misconceptions, or missing pieces in my understanding."
+
+2. First Principles Breakdown
+​Use this when you need to understand the underlying logic of a subject, rather than just memorizing surface-level facts.
+​The Prompt: > "Act as an expert instructor. Break down [insert topic] into its most fundamental building blocks using first principles thinking. Challenge standard assumptions, explain the ‘why’ behind each concept, and rebuild the idea from the ground up so I understand the core mechanics."
+
+3. The Active Recall Coach
+​Reading creates the illusion of competence. Recalling information builds actual memory. Use this to test yourself.
+​The Prompt: > "After teaching me the basics of [insert topic], quiz me with progressively challenging questions that force me to actively recall information without looking at my notes. Mix conceptual, applied, and scenario-based questions. Evaluate my answers, clearly explain any corrections, and reinforce my weak areas with targeted follow-up questions."
+
+​4. Spaced Repetition System
+​Use this to ensure you do not forget what you learned today by the time next week rolls around.
+​The Prompt: > "Create a spaced repetition revision schedule for mastering [insert topic]. Outline exactly what I need to review daily, weekly, and monthly based on memory retention principles. Specify review activities—like recall, practice, and testing—and tell me how to adjust the intervals based on my performance to move this information into my long-term memory."
+
+5. Smart Knowledge Summary
+​Use this when you need a cheat sheet or a high-level overview of a broad topic.
+​The Prompt: > "Summarize [insert topic] using clear frameworks, mental models, and simplified structures. Highlight the key principles, patterns, and relationships within the subject. Present this information in a highly structured way that makes it easy to remember and apply to real-world situations."
+
+6. Learning Acceleration Roadmap
+​Never wonder what you should study next. Use this to create a personalized syllabus.
+​The Prompt: > "Design a structured, end-to-end learning roadmap for mastering [insert skill]. Break the journey down into progressive stages, milestones, and checkpoints. Specify the key resources to study and practice tasks for each stage, and define measurable criteria so I can efficiently track my progress and always know exactly what to learn next."
+
+7. Targeted Weakness Assessment
+​Use this to find out what you do not know before it costs you in an exam or a real-world scenario.
+​The Prompt: > "Ask me a series of diagnostic questions about [insert topic] to identify my weakest areas, blind spots, and misunderstandings. Adapt the difficulty of the questions based on my answers. Once we finish, explain where I went wrong and recommend specific exercises or focus areas to strengthen my overall comprehension."
+-------------------------------------------------------------
 1. ​Structured Curriculum Designer
 ​
 Prompt:
