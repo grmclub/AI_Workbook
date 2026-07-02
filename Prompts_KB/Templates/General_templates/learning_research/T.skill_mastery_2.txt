@@ -30,6 +30,55 @@
 ​Use this to find out what you do not know before it costs you in an exam or a real-world scenario.
 ​The Prompt: > "Ask me a series of diagnostic questions about [insert topic] to identify my weakest areas, blind spots, and misunderstandings. Adapt the difficulty of the questions based on my answers. Once we finish, explain where I went wrong and recommend specific exercises or focus areas to strengthen my overall comprehension."
 -------------------------------------------------------------
+9 prompts that turn hours of work into minutes
+
+1 | Core Meaning Extractor (Deep Understanding Mode)
+Best for: textbooks, PDFs, lecture notes, and dense research materials.
+Prompt:
+"Analyze all uploaded materials and extract the true meaning behind the content. Generate 5 essential, high-signal questions that go beyond surface recall and test real understanding of the material. Focus on core concepts and precise definitions, ideas that are repeated or emphasized, and how different concepts connect through relationships like cause and effect, hierarchy, or dependencies. Also include real-world applications or implications mentioned in the content. For each question, briefly explain why it matters and what deeper understanding it reveals."
+
+2 | Structural Thinking Builder (Beyond Surface Summaries)
+Use when summaries feel shallow, fragmented, or fail to reveal how the material fits together.
+Prompt:
+"Review all uploaded documents and generate 5 essential, high-signal questions that, when answered, would fully explain the core ideas, structure, and purpose of the material. Focus on uncovering how the content is organized, how each section connects to the next, the underlying framework or logic driving the ideas, and the key principles that hold everything together. Ensure the questions reveal the “why” behind the material, not just the surface-level details or isolated facts."
+
+3 | Insight Discovery Engine (What Actually Matters?)
+Best for: researchers, writers, and analysts looking to uncover meaningful insights beyond surface-level information.
+Prompt:
+"From the uploaded sources, identify the most surprising, unusual, or high-value insights that stand out as truly important. Focus on ideas that challenge assumptions, reveal hidden patterns, or provide deeper understanding that is not immediately obvious. Include short supporting quotes where they strengthen the insight, and clearly explain why each insight is important, unexpected, or worth paying attention to, emphasizing its implications, impact, or potential use."
+
+4 | Guided Insight Deep-Dive (For Focused Research)
+Use when you need focused, distraction-free insights without information overload.
+Prompt:
+"I’m researching [INSERT TOPIC]. Review all uploaded materials and extract the most compelling, high-signal insights that are directly relevant to this topic. Focus specifically on [INSERT SPECIFIC ANGLE] and deliberately filter out anything that is unrelated or outside the scope of this focus, especially [WHAT TO EXCLUDE]. Prioritize depth, clarity, and meaningful connections, and include direct quotes where they add credibility, precision, or stronger evidence to the insights."
+
+5 | Interactive Quiz Generator (Memory That Sticks)
+Best for: classrooms, self-study, revision, and active recall practice.
+Prompt:
+"Create an interactive quiz hosted by two speakers discussing [INSERT TOPIC]. Include 10 questions in total, mixing multiple-choice and true/false formats to test both recall and understanding. Let one speaker occasionally give incorrect answers to simulate common misconceptions, while the other corrects them clearly and explains the reasoning behind the correct answer. Keep the dialogue engaging and conversational, and end with a short performance summary that highlights strengths, weaknesses, and areas that need improvement."
+
+6 | Multilingual Podcast Creator
+Best when turning documents into globally accessible, audio-style content for different audiences.
+Prompt:
+"Create a full discussion or podcast episode based on the uploaded materials entirely in [INSERT LANGUAGE]. Ensure the entire response is written in [LANGUAGE], avoiding English unless a technical term cannot be translated. Maintain a natural, conversational tone that feels like a real discussion between speakers, with clear flow, engaging explanations, and smooth transitions between ideas while preserving the original meaning and depth of the content."
+
+7 | Product Manager Lens (Decision-Ready Insights)
+Best for: turning dense documents into clear, actionable decisions and strategic direction.
+Prompt:
+"Act as a senior product manager reviewing internal documentation and synthesize the key insights into a decision-ready memo. Ignore filler and surface-level explanations, and focus only on what drives decisions. Include user evidence by extracting direct quotes that highlight real problems or needs, add feasibility notes outlining technical, operational, or resource constraints, and identify blind spots where information is missing, unclear, or contradictory. Present everything in clear, concise bullet points, and ask for clarification if any part of the request is too vague or incomplete to produce a meaningful output."
+
+8 | Scientific Analysis Mode (Method Over Opinion)
+Best for: academic work, technical research, and evidence-based evaluation.
+Prompt:
+"Act as a research assistant to a senior scientist in [INSERT FIELD], assuming advanced domain knowledge and avoiding explanations of basic terminology. Focus strictly on analyzing the material through a scientific lens by evaluating the research methodology, assessing data quality and integrity, and identifying any contradictions, gaps, or weak evidence within the content. Present your analysis in clearly structured sections using bold headings for Key Findings, Method Strengths & Weaknesses, and Conflicting Evidence, ensuring the output is precise, critical, and grounded in evidence rather than opinion."
+
+9 | High-School Translator Mode (Clarity for Any Audience)
+Best for: simplifying complex content for beginners, students, or non-experts.
+Prompt:
+"Act as an engaging high-school teacher and rewrite the content so that a 12-year-old can easily understand it without losing the original meaning. For each section, include a clear TL;DR in one simple sentence, a relatable analogy using real-world comparisons to make the idea easier to grasp, and a vocabulary breakdown where 3 difficult words are explained in plain, simple language. For the more complex or dense parts, convert the key ideas into true/false questions to reinforce understanding and make the content easier to learn and retain."
+
+
+-------------------------------------------------------------
 1. ​Structured Curriculum Designer
 ​
 Prompt:
