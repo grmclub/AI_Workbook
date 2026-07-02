@@ -1,0 +1,76 @@
+
+-------------------------------------------------------------
+🚨 8 prompts using Claude to simplify working with spreadsheets
+Analyze spreadsheets.
+Generate formulas.
+Build dashboards.
+Find hidden insights.
+Create executive reports.
+
+
+1.UNDERSTAND ANY SPREADSHEET
+Upload your Excel file and use:
+PROMPT:
+Analyze this spreadsheet and develop a comprehensive understanding of its structure, purpose, and contents. Identify the types of data included, key metrics being tracked, relationships between columns, reporting objectives, and the overall business context. Explain how the dataset is organized, assess its completeness and quality, and provide an overview of the most important information it contains. Present the output as a structured briefing that helps a new analyst quickly understand the dataset before performing deeper analysis.
+2w
+Reply
+
+Author
+Chris KE
+2.ANALYZE THE DATA LIKE A SENIOR ANALYST
+PROMPT:
+Analyze this spreadsheet as a senior business analyst. Explain what the dataset represents, identify key trends, patterns, anomalies, missing values, inconsistencies, and potential errors. Evaluate the overall quality and reliability of the data while highlighting the most important findings and business insights. Support your conclusions with evidence from the dataset and explain the practical implications of each observation. Present the analysis in a clear, structured format prioritized by significance and potential business impact.
+2w
+Reply
+
+Author
+Chris KE
+3.GENERATE EXCEL FORMULAS AUTOMATICALLY
+PROMPT:
+Review this spreadsheet and determine the most valuable calculations, metrics, and formulas needed to improve analysis, reporting, forecasting, and decision-making. Generate the exact Excel formulas required, including lookups, growth calculations, profitability metrics, conditional logic, trend analysis, and forecasting models. Explain the purpose of each formula, how it should be implemented, what business problem it solves, and provide examples of expected outputs. Prioritize recommendations based on analytical value and business usefulness.
+2w
+Reply
+
+Author
+Chris KE
+4.CLEAN AND FIX THE DATA
+PROMPT:
+Act as a data quality specialist and perform a comprehensive audit of this spreadsheet. Identify duplicate records, missing values, formatting inconsistencies, outliers, broken formulas, invalid entries, and any issues that could affect accuracy or analysis. Explain the impact of each issue, assess the overall health of the dataset, and recommend specific corrective actions. Create a step-by-step data-cleaning plan that improves reliability, consistency, and analytical readiness.
+2w
+Reply
+
+Author
+Chris KE
+5.FIND HIGH-VALUE BUSINESS INSIGHTS
+PROMPT:
+Act as a senior strategy consultant and analyze this spreadsheet to uncover meaningful business insights. Identify growth opportunities, emerging trends, performance drivers, customer behavior patterns, operational inefficiencies, potential risks, and hidden opportunities that may not be immediately obvious. Support each insight with evidence from the data, explain its significance, and provide actionable recommendations. Prioritize findings based on strategic importance, potential impact, and decision-making value.
+2w
+Reply
+
+Author
+Chris KE
+6.BUILD CHARTS & DASHBOARDS
+PROMPT:
+Act as a business intelligence and data visualization expert. Analyze this spreadsheet and recommend the most effective charts, visualizations, dashboards, and reporting structures. For each recommendation, explain why it should be used, what insight it communicates, who the intended audience is, and how it supports decision-making. Design an executive-level dashboard framework that highlights the most important KPIs, trends, opportunities, and risks while maximizing clarity, usability, and business impact.
+2w
+Reply
+
+Author
+Chris KE
+7.CREATE AUTOMATED REPORTING SYSTEMS
+PROMPT:
+Design a comprehensive reporting and automation system based on this spreadsheet. Recommend workflows for recurring reports, KPI monitoring, automated alerts, executive summaries, dashboard updates, performance tracking, and operational reporting. Explain how each automation improves efficiency, reduces manual effort, increases accuracy, and supports better decision-making. Create a scalable framework that transforms this spreadsheet into an automated business intelligence and reporting system.
+2w
+Reply
+
+Author
+Chris KE
+8.EXECUTIVE SUMMARY MODE
+PROMPT:
+Analyze the spreadsheet and create a comprehensive executive summary. Include the most important findings, key trends, critical risks, growth opportunities, supporting evidence, business implications, and strategic recommendations. Prioritize information based on significance and potential impact. Present the output in a concise, professional, data-driven format suitable for executives, decision-makers, investors, and stakeholders, with a clear focus on actions, priorities, and next steps.
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
