@@ -232,11 +232,70 @@ Using only the assigned course materials:
 4. Do not reveal the answer.
 5. Grade my response based on how accurately I apply the assigned readings."
 
+-------------------------------------------------------------
+🚨BREAKING: NOTEBOOKLM JUST CHANGED HOW COURSES ARE BUILT FOREVER
+Stop scrolling if you are a teacher, a student or anyone who creates educational content.
+Here is the workflow the top universities are using:
 
+STEP 1 — Go to NotebookLM
+Head to https://notebooklm.google and sign in with your Google account. It's free.
 
+STEP 2 — Create a New Notebook
+Click "New Notebook." This becomes your course project. Name it after your course topic.
 
+STEP 3 — Upload Your Source Material
+Click "Add Source." You can upload:
+* PDF (book, report, framework, your own notes)
+* Google Doc
+* Website URL
+* YouTube video link
+* Copy-pasted text
+The more specific and rich your source material, the better the output. Upload everything relevant — don't just use one doc.
 
+STEP 4 — Extract the Core Learning Objectives
+In the chat panel, type:
+"Based on all my sources, what are the 5–7 core things someone needs to learn to understand this topic fully?"
+This becomes your learning outcomes.
 
+STEP 5 — Build the Module Structure
+Then prompt:
+"Organise those learning objectives into a course structure with module names, lesson titles under each module, and one sentence describing what each lesson covers."
+You now have a full course outline.
+
+STEP 6 — Expand Each Lesson
+Go module by module:
+"Write the key teaching points for Lesson 1 in Module 2. Include a real-world example and a common misconception to address."
+Repeat for each lesson. This becomes your lesson script or slide content.
+
+STEP 7 — Generate a Study Guide or Workbook
+Click "Notebook Guide" (the button at the top right of the Sources panel). NotebookLM auto-generates:
+* FAQ
+* Study guide
+* Table of contents
+* Timeline (if relevant)
+These become your student handouts or downloadable resources.
+
+STEP 8 — Generate the Audio Overview
+Click "Generate" under Audio Overview. NotebookLM creates a two-host podcast-style conversation summarising your entire content.
+Use this as:
+* A course intro
+* A module recap
+* A lead magnet audio
+
+STEP 9 — Export and Build
+Copy your outline and lesson content into:
+* Google Docs (for scripting your videos)
+* Canva (for slides)
+* Notion or ClickUp (for internal SOPs)
+* Kajabi, Teachable, or Thinkific (to host and sell)
+
+STEP 10 — Record or Deliver
+Now you actually make the course. NotebookLM handed you the skeleton. You bring the delivery — video, live cohort, PDF, audio, whatever format fits your audience.
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
