@@ -44,6 +44,23 @@ Contextual Prompts.
 Role Based Prompts.
 Few Shot Prompts.
 -------------------------------------------------
+=====================
+https://www.youtube.com/@3blue1brown/playlists
+
+
+=====================
+But what is a neural network? | Deep learning chapter 1 
+https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+
+Large Language Models explained briefly
+https://www.youtube.com/watch?v=LPZh9BOjkQs
+
+Transformers, the tech behind LLMs | Deep Learning Chapter 5
+https://www.youtube.com/watch?v=wjZofJX0v4M
+
+How might LLMs store facts | Deep Learning Chapter 7
+https://www.youtube.com/watch?v=9-Jl0dxWQs8
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
