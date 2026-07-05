@@ -159,6 +159,9 @@ Use this for more dramatic, high-contrast, or action-oriented portraits.
 -------------------------------------------------
 "Anime portrait from [character in the uploaded image ], wearing [a formal shirt and a jacket with collar]. High-quality digital art, modern anime style, clean line art, soft cinematic lighting, facing towards the sunrise, vibrant color palette, 8k resolution, trending on Pixiv."
 
+summarize and categorize best quotes of chanakya
+summarize and categorize best quotes of thirukkal
+
 
 -------------------------------------------------
 -------------------------------------------------
