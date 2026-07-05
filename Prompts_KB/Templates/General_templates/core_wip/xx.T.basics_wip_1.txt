@@ -161,7 +161,7 @@ Use this for more dramatic, high-contrast, or action-oriented portraits.
 
 summarize and categorize best quotes of chanakya
 summarize and categorize best quotes of thirukkal
-
+-------------------------------------------------
 deep dive into Value Stream Mapping (VSM)
 deep dive into Wardley Mapping and analyse core steps and present as an executive summary
 deep dive and prepare an executive summary for IT consulting strategic foresight engine
@@ -181,6 +181,18 @@ increase font sizes and simplify diagram
 
 
 -------------------------------------------------
+You're a senior educator.
+generate a one page summary to explain physics concepts of Forces and Motion that capture the core meaning of the content.
+Focus on:
+– foundational concepts and definitions
+– key relationships between ideas
+– recurring patterns or themes
+– real-world applications
+constraints: simplify to explain to 14 year old high school student with special needs 
+Goal: help me fully understand the material, not just summarize it.
+
+generate graphics to explain above concepts simply 
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
