@@ -1,0 +1,188 @@
+
+-------------------------------------------------
+STOP Paying For Knowledge!
+These 10 Websites Give It Away For FREE 👇
+
+01. HARVARD CS50 // https://www.edx.org/cs50
+📚 Computer Science
+Harvard's famous introductory computer science course.
+Learn programming, algorithms, and problem-solving completely free.
+Best for: Beginners learning to code.
+
+02. MIT OPENCOURSEWARE // https://ocw.mit.edu/
+🎓 University Courses
+Access thousands of free MIT courses in engineering, AI, math, business, and more.
+Best for: Self-paced learners.
+
+03. Y COMBINATOR STARTUP SCHOOL // https://www.startupschool.org/
+🚀 Startups
+Free lessons on building products, finding customers, and growing a startup.
+Created by one of the world's leading startup accelerators.
+Best for: Founders and entrepreneurs.
+
+04. BERKSHIRE HATHAWAY LETTERS // https://berkshirehathaway.com/letters/letters.html
+💰 Investing
+Read Warren Buffett's annual shareholder letters dating back to 1977.
+Packed with timeless investing and business lessons.
+
+Best for: Investors and business owners.
+
+05. SEC EDGAR // https://www.sec.gov/submit-filings
+📈 Company Research
+Browse public company filings, earnings reports, and investment disclosures as they're
+released.
+Best for: Investors and financial research.
+
+06. STANFORD ONLINE // https://online.stanford.edu/free-courses
+https://www.youtube.com/stanfordonline
+🤖 AI & Engineering
+Explore free courses in computer science, engineering, machine learning, and more.
+Best for: Building technical skills.
+
+07. PUBMED CENTRAL // https://pmc.ncbi.nlm.nih.gov/
+🩺 Medical Research
+Millions of free medical research papers from the U.S. National Institutes of Health.
+Best for: Evidence-based health research.
+
+08. WORLD BANK OPEN DATA // https://data.worldbank.org/
+🌍 Economics & Global Data
+Access thousands of free datasets covering countries, industries, education, healthcare, energy,
+and more.
+Best for: Research and data analysis.
+
+09. OPEN LIBRARY // https://openlibrary.org/
+📖 Books
+Borrow millions of digital books from the Internet Archive.
+
+No paid subscription required.
+Best for: Readers and lifelong learners.
+
+10. INTERNET ARCHIVE // https://archive.org/
+️ Digital Library
+Explore millions of books, websites, videos, audio recordings, and historical archives.
+One of the largest free libraries on the internet.
+Best for: Research and discovering forgotten resources.
+
+-------------------------------------------------
+##  places to find creative inspiration.
+
+1. MindSparkleMag // https://mindsparklemag.com/
+Best For: Branding, web design, and creative inspiration.
+Why You'll Love It:
+Curated collections of outstanding graphic design, motion graphics, photography, and digital
+experiences from top creatives around the world.
+
+2. Dieline // https://thedieline.com/
+Best For: Packaging design inspiration.
+Why You'll Love It:
+Discover award-winning packaging across food, cosmetics, beverages, pharmaceuticals, and
+consumer products.
+
+3. Cosmos // https://www.cosmos.so/
+Best For: Organizing creative inspiration.
+Why You'll Love It:
+Think of it as Pinterest for creatives. Save, organize, and revisit design inspiration with a clean,
+distraction-free workspace.
+
+4. Really Good Emails // https://reallygoodemails.com/
+
+Best For: Email marketing inspiration.
+Why You'll Love It:
+Browse thousands of beautifully designed email campaigns from real companies to improve
+your own newsletters and marketing.
+
+5. Lummi // https://www.lummi.ai/
+Best For: Free AI stock photos.
+Why You'll Love It:
+Access thousands of high-quality, royalty-free AI-generated images for websites, social media,
+presentations, and creative projects.
+
+6. Behance // https://www.behance.net/
+Best For: Creative portfolios and case studies.
+Why You'll Love It:
+Explore complete design projects from industry professionals, including sketches, mockups,
+branding systems, and behind-the-scenes creative processes.
+
+
+-------------------------------------------------
+#Before You Pay for AI Tools Try These 10 Free GitHub Repos First
+
+1. Open WebUI
+A self-hosted alternative to ChatGPT
+Run leading AI models through a polished interface on your own hardware or server.
+• Works with Ollama, OpenAI, Anthropic, Groq, and more
+• Team workspaces and user management
+• Built-in RAG, web search, and image generation
+
+2. LibreChat
+One interface for today's top AI models
+Use GPT, Claude, Gemini, DeepSeek, Groq, Mistral, and more in one place.
+• Bring your own API keys
+• Search previous conversations
+• Save reusable prompts and presets
+
+3. ComfyUI
+Advanced AI image and video creation
+A powerful node-based workflow builder for creative AI projects.
+• Supports FLUX, SD3, WAN, Hunyuan, and more
+• Image-to-video, inpainting, and ControlNet
+• Thousands of community-built custom nodes
+
+4. Ollama
+Run powerful AI models locally
+Download and run open-source models directly on your computer.
+• Supports Llama, Qwen, Gemma, Phi, Mistral, and more
+• Keeps your data on your device
+• OpenAI-compatible local API
+
+5. Langflow
+Build AI agents without starting from scratch
+Create AI workflows with a visual drag-and-drop builder.
+• Visual workflow editor
+• Export as Python or API
+• Connects to popular vector databases
+
+6. n8n
+Automate workflows with AI
+Connect apps, AI models, and APIs using visual workflows.
+• 400+ app integrations
+• Native AI and LLM nodes
+• Supports agents, webhooks, and scheduled automations
+
+7. AnythingLLM
+Private AI chat for your own knowledge
+Ask questions across your documents while keeping your data under your control.
+• Works with PDFs, websites, Notion, and Confluence
+• Compatible with many LLMs and vector databases
+• Built-in AI agent support
+
+8. Perplexica
+Open-source AI search with citations
+Search the web using your preferred AI model.
+• Supports SearXNG and multiple LLMs
+• Research modes for YouTube, Reddit, writing, and more
+• Self-hosted with no tracking
+
+9. CrewAI
+Build teams of AI agents
+Create specialized AI agents that work together to complete complex tasks.
+• Role-based AI agents with memory and tools
+• Sequential or hierarchical workflows
+• Works with many LLM providers
+
+10. Dify
+An open-source platform for AI apps
+Build, test, and deploy AI applications from one platform.
+• Prompt management, RAG, and AI agents
+• Visual workflow builder and API gateway
+• Self-hosted or cloud deployment
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
