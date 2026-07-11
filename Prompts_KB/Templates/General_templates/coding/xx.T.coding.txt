@@ -1,0 +1,130 @@
+
+-------------------------------------------------
+## 10 GitHub Repos That Turn Your Claude Into a Productivity Machine
+
+01. Repomix
+​GitHub Link: https://github.com/yamadashy/repomix
+​What it does: Packs your full codebase into one AI-readable file.
+​Impact: Claude stops guessing from one file and finally sees the whole project.
+​Best for: Full-codebase context
+GitHub - yamadashy/repomix: 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT,...
+GITHUB.COM
+GitHub - yamadashy/repomix: 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT,...
+GitHub - yamadashy/repomix: 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT,...
+
+02. Everything Claude Code
+​GitHub Link: https://github.com/affaan-m/ecc
+​What it does: Gives Claude Code agents, skills, commands, hooks, rules, and MCP configs.
+​Impact: Turns Claude Code from a tool into a working system.
+​Best for: Power users
+GitHub - affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+GITHUB.COM
+GitHub - affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+GitHub - affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+
+🎁 Bonus:
+Join 30,000+ AI explorers leveling up their skills with proven prompts, step-by-step guides, and ready-to-use workflows.
+Get instant access to my Private AI Toolkit:
+👇
+https://genallai.gumroad.com/l/AI⁠
+GENALLAI.GUMROAD.COM
+Genall AI: Work Smarter, Create Faster and Earn More With AI
+
+
+​03. Dify
+​GitHub Link: https://github.com/langgenius/dify
+​What it does: Lets you build AI apps, agents, RAG tools, and workflows visually.
+​Impact: Enterprise-grade AI workflows without starting from scratch.
+​Best for: AI app builders
+GitHub - langgenius/dify: Production-ready platform for agentic workflow development.
+GITHUB.COM
+GitHub - langgenius/dify: Production-ready platform for agentic workflow development.
+
+04. Flowise
+​GitHub Link: https://github.com/FlowiseAI/Flowise
+​What it does: Creates AI agents with drag-and-drop blocks.
+​Impact: Fast prototypes. Less setup pain. More building.
+​Best for: No-code AI workflows
+GitHub - FlowiseAI/Flowise: Build AI Agents, Visually
+GITHUB.COM
+GitHub - FlowiseAI/Flowise: Build AI Agents, Visually
+GitHub - FlowiseAI/Flowise: Build AI Agents, Visually
+
+05. Onyx
+​GitHub Link: https://github.com/onyx-dot-app/onyx
+​What it does: Builds a self-hosted AI chat system connected to your knowledge sources.
+​Impact: Your data stays under your control. Novel idea, apparently.
+​Best for: Private company AI
+GitHub - onyx-dot-app/onyx: Open Source AI Platform - AI Chat with advanced features that works with every LLM
+GITHUB.COM
+GitHub - onyx-dot-app/onyx: Open Source AI Platform - AI Chat with advanced features that works with every LLM
+GitHub - onyx-dot-app/onyx: Open Source AI Platform - AI Chat with advanced features that works with every LLM
+
+06. Claude Skills by Anthropic
+​GitHub Link: https://github.com/anthropics/skills
+​What it does: Provides official skills that teach Claude task-specific workflows.
+​Impact: The foundation for making Claude more reliable and repeatable.
+​Best for: Skill basics
+GitHub - anthropics/skills: Public repository for Agent Skills
+GITHUB.COM
+GitHub - anthropics/skills: Public repository for Agent Skills
+GitHub - anthropics/skills: Public repository for Agent Skills
+
+07. Awesome Claude Skills
+​GitHub Link: https://github.com/ComposioHQ/awesome-claude-skills
+​What it does: Curates community-built Claude skills across marketing, SEO, writing, design, security, research, and testing.
+​Impact: Shows what Claude can become when people stop treating it like a chatbot.
+​Best for: Skill discovery
+GitHub - ComposioHQ/awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+GITHUB.COM
+GitHub - ComposioHQ/awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+GitHub - ComposioHQ/awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+
+08. Obsidian Skills
+​GitHub Link: https://github.com/qhuang20/obsidian-skills
+​What it does: Teaches Claude how to work with Obsidian vaults, tags, bases, canvas, and notes.
+​Impact: Connects your thinking system to your execution system.
+​Best for: Obsidian users
+GitHub - qhuang20/obsidian-skills: Obsidian-focused Claude Code plugin. First skill: llm-wiki (Karpathy's pattern).
+GITHUB.COM
+GitHub - qhuang20/obsidian-skills: Obsidian-focused Claude Code plugin. First skill: llm-wiki (Karpathy's pattern).
+GitHub - qhuang20/obsidian-skills: Obsidian-focused Claude Code plugin. First skill: llm-wiki (Karpathy's pattern).
+
+09. NotebookLM Skill
+​GitHub Link: https://github.com/claude-world/notebooklm-skill
+​What it does: Helps Claude work with NotebookLM-style research outputs.
+​Impact: Turns research piles into usable knowledge faster.
+​Best for: Researchers
+GitHub - claude-world/notebooklm-skill: NotebookLM does the research, Claude writes the content. Research → Synthesis → Content Creation → Publishing. Claude Code Skill + MCP Server.
+GITHUB.COM
+GitHub - claude-world/notebooklm-skill: NotebookLM does the research, Claude writes the content. Research → Synthesis → Content Creation → Publishing. Claude Code Skill + MCP Server.
+GitHub - claude-world/notebooklm-skill: NotebookLM does the research, Claude writes the content. Research → Synthesis → Content Creation → Publishing. Claude Code Skill + MCP Server.
+
+10. Marketing Skills by Corey Haines
+​GitHub Link: https://github.com/coreyhaines31/marketingskills
+​What it does: Adds structured marketing workflows for SEO, copy, ads, analytics, and GTM.
+​Impact: Claude stops writing generic fluff and starts following real marketing systems.
+​Best for: Growth teams
+GitHub - coreyhaines31/marketingskills: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+GITHUB.COM
+GitHub - coreyhaines31/marketingskills: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+GitHub - coreyhaines31/marketingskills: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
