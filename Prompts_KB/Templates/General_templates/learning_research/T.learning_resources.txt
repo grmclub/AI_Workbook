@@ -178,6 +178,26 @@ Build, test, and deploy AI applications from one platform.
 • Self-hosted or cloud deployment
 
 -------------------------------------------------
+## Three Websites Packed With Thousands of Prompts
+
+1. Meigen AI
+Steal Trending AI Styles
+It has thousands of prompts for Nano Banana, Seedance, GPT Image, and more.
+Just copy a prompt, upload your image, and recreate the latest trending looks in minutes.
+It even has prompts for viral AI videos.
+
+2. YouMind
+20,000+ AI Prompts
+This might be the biggest prompt library I've found.
+Browse over 20,000 prompts across different AI models, creative styles, and workflows.
+Instead of guessing what to type, just find an example you like and customize it.
+
+3. PromptHero
+The Ultimate Prompt Library
+Need realistic photos, illustrations, logos, product shots, or cinematic art?
+PromptHero already has prompts for almost every style you can think of, including the latest trends.
+Copy. Paste. Generate.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
