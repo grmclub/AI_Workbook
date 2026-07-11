@@ -162,6 +162,60 @@ Prompt:
 Prompt:
 "Pretend you are a post-human superintelligence. Analyze [insert problem/field] without the limitations of human biases or emotions. Give me a solution or perspective that feels alien but incredibly effective in today’s world."
 -------------------------------------------------
+##Claude Has An Infinite Personal Tutor Mode That Can Teach Any Skill From Zero In 4 Hours 👇
+
+1. THE LEARNING CURVE DESTROYER
+PROMPT:
+"You are a teacher who only has 4 hours with me and will never see me again. Your only objective is to make me functional in [SKILL] before the time runs out.
+Do not give me theory without practical use.
+Do not give me a list.
+Tell me: what to learn first, what to completely ignore, and what exercise, if I do it once, will already put me ahead of 70% of people who have been studying this for months."
+
+2. THE REAL ERROR SIMULATOR
+PROMPT:
+"Do not explain [CONCEPT] to me.
+Put me directly into a real situation where I would have to use it and would probably make a mistake.
+When I make a mistake, do not give me the answer. Ask me a question that forces me to discover where my reasoning is broken.
+Only give me the answer after I have tried at least two times.
+Repeat this cycle until I can get it right without hesitation."
+
+3. THE IMPOSSIBLE LANGUAGE
+PROMPT:
+"This content below is confusing to me.
+Before explaining it, tell me: what is the one sentence that, if I understand it, will make the rest make sense on its own?
+Explain only that sentence first.
+Use an everyday analogy, with no technical terms.
+Then ask me 3 questions that only someone who truly understood it would be able to answer.
+Do not continue until I pass all three.
+[PASTE THE CONTENT HERE]"
+
+4. THE PERSONAL LEARNING PATH
+PROMPT:
+"My real goal is [GOAL].
+It is not to learn [SKILL] in general. It is to achieve [SPECIFIC RESULT] within [DEADLINE].
+I already know [WHAT YOU ALREADY MASTER].
+Based on that, build me a 7-day learning path.
+Each day must include: one single task that fits within 45 minutes, a clear criterion so I know whether I did it correctly, and what not to do that day so I do not waste time.
+If the entire path does not lead me to the goal, rebuild it until it does."
+
+5. THE HIDDEN GAP DETECTOR
+PROMPT:
+"I think I already master [SKILL].
+I want you to prove me wrong.
+Ask me 5 questions that seem simple but expose the gaps of someone who has never truly gone deep.
+For every answer I give, tell me: what my answer reveals about what is still missing in my foundation.
+Do not go easy on me.
+If I am being shallow, tell me directly."
+
+6. THE FORCED FEYNMAN METHOD
+PROMPT:
+"I just studied [TOPIC].
+I am going to explain what I understood as if you were 10-year-old child.
+While I explain, stop me every time I use jargon without knowing what it means, skip a step in the reasoning, or simplify so much that it becomes wrong.
+At the end, tell me exactly what these mistakes reveal about what is still not solid in my mind."
+
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
