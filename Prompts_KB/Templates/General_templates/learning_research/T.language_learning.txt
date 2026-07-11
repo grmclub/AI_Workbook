@@ -1,0 +1,49 @@
+
+-------------------------------------------------
+##Turn Claude into your Personal Language Tutor 
+
+1. Vocabulary Builder
+Prompt:
+Act as my personal Spanish tutor. Create a 30-day vocabulary plan organized by real-life topics (greetings, food, travel, shopping, work, etc.). Each day should include 15–20 new words with pronunciation, definitions, example sentences, memory tips, and a short quiz. Review previously learned words using spaced repetition before introducing new ones.
+
+2. Grammar Coach
+Prompt:
+Teach me Spanish grammar one concept at a time as if I'm a complete beginner. Explain each rule in simple English, provide examples, highlight common mistakes, then give me practice exercises. Don't move to the next topic until I've mastered the current one.
+
+3. Conversation Practice
+Prompt:
+Act as a friendly native Spanish speaker. Have a realistic conversation with me about everyday topics. Correct my mistakes naturally after each response, explain why they're incorrect, and show me how a native speaker would say it.
+
+4. Listening Practice
+Prompt:
+Write two short conversations in natural Spanish using vocabulary appropriate for my level. After each dialogue, ask comprehension questions, explain unfamiliar words, and provide an English translation only after I attempt to answer.
+
+5. Pronunciation Coach
+Prompt:
+Help me improve my Spanish pronunciation. I'll type words or sentences, and you should explain how each word sounds using simple English phonetics, point out difficult sounds for English speakers, and give tips for sounding more natural.
+
+6. Immersion Mode
+Prompt:
+From this point forward, act as my Spanish-speaking roommate. Speak only Spanish unless I ask for help. If I make mistakes, let me finish first, then explain the correction in simple English before continuing the conversation naturally.
+
+7. Personalized Study Plan
+Ask me about my current level, goals, available study time, and why I want to learn Spanish. Based on my answers, build a personalized 8-week study plan that combines vocabulary, grammar, listening, speaking, writing, and review. Adjust the plan as I improve.
+This is something most language apps don't do particularly well, but Claude can.
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
