@@ -1,0 +1,148 @@
+
+
+-------------------------------------------------
+##99 CLAUDE (SECRET) COMMANDS 
+
+1/ EMAIL & MESSAGES
+/DECLINE [email] → polite refusal.
+/SHORTEN [email] → half the length, key points kept.
+/WARMER [email] → less stiff.
+/FOLLOWUP [topic] → nudge for an unanswered email.
+/SONO [request] → not photos the relationship.
+/BULLETPULL [bullet] → builds into a clean email.
+/THANKS [person + reason] → short, sincere thank you.
+/CONFIDENT [email] → strips hedging and apology.
+/OOO [dates + backup] → out-of-office auto-reply.
+/NAMEFIX [person + text] → hard message, respectful.
+/INTRO [person A + person B + context] → double opt-in intro.
+
+2/ WRITE & EDIT
+/PROOF [text] → fixes typos.
+/REWRITES [sentence] → five versions.
+/CUTHALF [story] → cuts length.
+/OPENING [text] → three stronger opening lines.
+/FILLER [text] → flags weak words.
+/ACTIVE [text] → passive to active.
+/HUMAN [text] → adds natural voice.
+/EXAMPLES [point] → adds examples.
+/SIMPLY [concept] → explains at a 12-year-old level.
+/TITLES [text] → title options.
+/TONE [text + style] → rewrites text in a chosen tone.
+
+3/ THINK & DECIDE
+/CHOOSE [A vs B] → weigh options.
+/REALITY [decision] → pros and cons.
+/BLINDSPOT [situation] → surfaces what you might miss.
+/STEELMAN [view] → opposing view.
+/DEVIL [idea] → devil's advocate.
+/XPERT [role] → skeptic's questions.
+/STEPS [decision] → walk it through one step at a time.
+/WHATIF [decision] → map second-order consequences.
+/HONEST [prompt] → smallest version to test in a week.
+
+4/ LEARN & UNDERSTAND
+/ELI10 [topic] → explain for a ten-year-old.
+/PRIMER [topic] → quick crash course.
+/MYTHS [topic] → common misconceptions.
+/ANALOGY [concept] → real-world comparison.
+/QUIZ [topic] → five questions.
+/COMPARE [A vs B] → differences.
+/PREP [topic] → what to know.
+/SUM [text] → three-bullet summary.
+/GLOSSARY [topic] → defines key terms.
+/ASKBETTER [topic] → questions you should be asking.
+/MENTALMODEL [topic] → the one model that unlocks it.
+
+5/ PLAN & ORGANIZE
+/WEEK [priorities] → plan your week.
+/MILESTONES [goal + deadline] → weekly checkpoints.
+/PACK [trip] → packing list.
+/SCHEDULE [event + duration] → timed schedule.
+/ROUTINE [goal] → daily routine.
+/PRIORITIES [list] → reorders a messy to-do list.
+/MEALS [ingredients/restaurants] → week of dinners.
+/AGENDA [topic + duration] → meeting agenda.
+/PREPDATE [event + time available] → prep plan with deadline.
+/ORDER [tasks] → sequences tasks.
+/CHECKLIST [task] → step-by-step checklist to run it.
+
+6/ BRAINSTORM
+/IDEAS20 [topic] → twenty ideas.
+/GIFTS [person + occasion + budget] → gift options.
+/NAMES [thing + vibe] → name ideas.
+/ANGLES [problem] → ten unexpected approaches.
+/MIX [topic] → overlooked angle.
+/COMBINE [A + B] → makes two ideas work together.
+/HEADLINE [concept] → stronger.
+/STARTERS [topic] → non-boring conversation openers.
+/FORMULA [theme] → ten writing prompts.
+/AI [role + problem] → serves as a specific professional.
+/CHILD [problem] → how a curious kid would solve it.
+
+7/ WORK & CAREER
+/INTERVIEW [questions] → confident answer prep.
+/RESUMEBULLET [bullet] → rewrite.
+/ASKINTERVIEWER [role + company type] → smart questions to ask.
+/NEGOTIATE [ask] → scripts the negotiation.
+/RECONNECT [person + context] → LinkedIn reach-out.
+/APP [lesson] → explains career prep.
+/WINSS [content] → accomplishments into five bullets.
+/PROMOTION [role] → prep a manager 1:1 call.
+/SELFREVIEW [notes] → self-review from your notes.
+/DONTKNOW [situation] → phrases "I don't know" well.
+/RAISE [context] → script to ask for a raise.
+
+8/ CONTENT & SOCIAL
+/HOOK [topic] → five scroll-stopping openers.
+/CAPTION [photo] → short caption.
+/THREAD [idea] → one idea, six-tweet thread.
+/CARO [topic] → outlined carousel.
+/REPURPOSE [content] → three formats.
+/CTA [post] → three calls-to-action.
+/SEO [article + vibe] → short lists in three styles.
+/SUBJECT [email/post] → five subject lines that get opened.
+/COMMENTBANK [topic] → sharp counter-takes, still defensible.
+/SHORTPOST [idea] → 100-word post.
+/CONTENT [post] → three sharp replies that add value.
+
+9/ MEETINGS & NOTES
+/MEETINGNOTES [transcript] → rewrites into clean minutes.
+/ACTIONITEMS [notes] → pulls to-do and owners.
+/STANDUP [yesterday + today + blockers] → daily update format.
+/RECAP [meeting] → five-line recap.
+/DECISIONS [notes] → decisions made.
+/QUESTIONS [topic] → what to ask.
+/STATUS [progress] → status update.
+/BRIEFING [topic + partner] → feel pre-meeting briefing.
+/DEBRIEF [meeting] → what went well, what to fix.
+/TLDR [notes] → shortest summary.
+/RETRO [project] → what worked, what didn't, what's next.
+-------------------------------------------------
+##5 Secret Codes For Claude
+
+#1: /ghost
+what it does:
+Makes any AI-written text sound like a real human wrote it — strips out robotic phrasing and AI patterns completely. Use it before sending a cold email or any copy that needs to sound like you.
+
+#2: /redteam
+what it does:
+Claude attacks your idea from every angle a critic, competitor, or skeptic would use. It's a military term for "find the holes before the enemy does." Use it before any public launch or pitch.
+
+#3: /premortem
+what it does:
+Imagines your project already failed 6 months from now, then works backwards to figure out why. Forces you to find the cracks before you're in too deep.
+
+#4: /tripwire
+what it does:
+Identifies the single thing most likely to blow up your entire plan. Not a list of risks — just the one that would kill everything. Huge for decisions with a lot of moving pieces.
+
+#5: /ultrathink
+what it does:
+Type this word in any prompt and Claude shifts into its deepest reasoning mode — slower, more thorough, and more deliberate than a normal response. It's the difference between Claude giving you an answer and Claude actually thinking through the problem.
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
