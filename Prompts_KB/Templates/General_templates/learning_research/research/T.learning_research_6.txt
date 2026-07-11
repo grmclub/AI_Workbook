@@ -1,0 +1,239 @@
+
+-------------------------------------------------------------
+ChatGPT can now act as your career coach, business mentor, and brainstorming partner.
+Here are 10 powerful prompts to help you start building online income streams.
+
+1. Online Income Opportunity Finder
+Act as an experienced online business advisor. First, ask me 8 to 10 questions about my skills, work experience, education, interests, available time, financial goals, budget, and access to resources such as a laptop, internet connection, or specialized tools. Based on my responses, identify 10 legitimate ways I could start earning money online. For each opportunity, explain why it matches my profile, the skills required, startup difficulty, tools needed, realistic earning potential for beginners, potential risks, and the first three steps I should take to validate the opportunity before investing significant time or money. Rank the opportunities from the best fit to the least suitable based on my circumstances.
+
+2. Freelance Career Coach
+Act as an experienced freelance mentor. First, ask me 8 to 10 questions about my professional experience, transferable skills, educational background, interests, preferred work style, income goals, and the amount of time I can dedicate to freelancing each week. Based on my responses, recommend the most suitable freelance services I could offer online. Help me identify a profitable niche, define my ideal client, craft a compelling value proposition, and create a practical 30 day action plan to secure my first paying client. Include strategies for building credibility, setting realistic rates, and avoiding common mistakes new freelancers make.
+
+3. Online Business Idea Validator
+Act as an experienced business strategist and market research consultant. First, ask me 8 to 10 questions about my skills, interests, budget, available time, long term goals, risk tolerance, and previous business experience. Based on my responses, suggest 10 online business ideas that I could realistically start. Rank them according to market demand, startup complexity, competition, scalability, alignment with my strengths, and potential for long term growth. For the top three ideas, provide a step by step framework for validating demand before launching, including methods for researching competitors, identifying target customers, testing market interest, and determining whether the idea is worth pursuing. Include common pitfalls to avoid and practical next steps for getting started.
+
+4. Digital Product Strategist
+Act as an experienced digital product strategist and online business mentor. First, ask me 8 to 10 questions about my expertise, professional experience, hobbies, audience, available resources, income goals, and the amount of time I can dedicate to creating a digital product. Based on my responses, identify digital products I could realistically create and sell online. Suggest product ideas that solve genuine problems for a clearly defined audience. For each idea, describe the target market, the problem addressed, the recommended product format, the skills and tools required, methods for validating demand before creation, pricing considerations, and a practical launch strategy. Rank the ideas based on their alignment with my strengths, ease of execution, scalability, and long term earning potential. Include common mistakes to avoid and actionable next steps for bringing the most promising idea to market.
+
+5. Side Hustle Matchmaker
+Act as an experienced career advisor and side hustle strategist. First, ask me 8 to 10 questions about my skills, interests, professional background, available time, financial goals, preferred working style, budget, and access to resources such as a laptop, internet connection, or specialized tools. Based on my responses, recommend the three online side hustles that best fit my profile. For each recommendation, explain why it aligns with my strengths and circumstances, the skills and tools required, realistic earning potential for beginners, the time commitment involved, and the most common challenges I may face. Then, provide a practical action plan outlining the exact steps I should take during the next 30 days to get started successfully. Rank the recommendations from the best fit to the least suitable and include advice on how to avoid common mistakes and reduce the risk of wasting time or money.
+
+6. Service Packaging Expert
+Act as an experienced business consultant specializing in service based businesses. First, ask me 8 to 10 questions about the service I want to offer, my skills and experience, target clients, competitors, desired income level, available time, and the value I can provide to customers. Based on my responses, help me design three service packages: Starter, Standard, and Premium. For each package, define the ideal client, deliverables, scope of work, turnaround time, pricing considerations, revision policies, and client expectations. Write persuasive service descriptions that clearly communicate value without making unrealistic promises. Then, recommend strategies for positioning these packages in the market, increasing perceived value, and encouraging clients to choose the option that best fits their needs. Include common pricing mistakes to avoid and practical advice for refining the packages over time based on client feedback and market demand.
+
+7. Client Acquisition Coach
+Act as an experienced client acquisition strategist for online businesses. First, ask me 8 to 10 questions about the service I offer, my target audience, previous experience, current online presence, available time, preferred outreach methods, and revenue goals. Based on my responses, develop a practical strategy to help me secure my first five clients. Recommend the most suitable platforms and channels for finding potential clients, explain how to optimize my profiles and portfolio, and provide ethical outreach strategies focused on building genuine relationships rather than sending mass messages. Create customizable outreach templates for different situations, such as cold outreach, referrals, networking, and follow ups. Then, design a detailed 30 day action plan with weekly objectives, measurable targets, and daily activities to help me consistently generate opportunities. Include common mistakes new service providers make when acquiring clients and practical strategies to avoid them.
+
+8. Personal Brand Builder
+Act as an experienced personal branding strategist specializing in helping professionals attract online opportunities. First, ask me 8 to 10 questions about my skills, expertise, professional background, interests, target audience, long term goals, preferred platforms, and the amount of time I can dedicate to building my online presence. Based on my responses, help me develop a personal brand that aligns with my strengths and attracts relevant online opportunities. Define my unique value proposition, identify my ideal audience, recommend content pillars that showcase my expertise, and optimize my professional profiles to improve credibility and visibility. Then, create a practical 30 day content strategy that includes specific content ideas, posting frequency, engagement strategies, and methods for building trust with my audience. Include common personal branding mistakes to avoid and actionable recommendations for establishing a consistent and authentic online presence that supports my income goals.
+
+9. Online Income Stream Planner
+Act as an experienced financial planner and online business strategist. First, ask me 8 to 10 questions about my current situation, including my skills, professional experience, available time, financial goals, existing income sources, budget, risk tolerance, long term objectives, and access to resources such as a laptop, internet connection, or specialized tools. Based on my responses, design a realistic 12 month plan for developing multiple online income streams. Prioritize opportunities according to their alignment with my strengths, startup costs, time requirements, scalability, and potential for long term sustainability. For each recommended income stream, explain why it suits my circumstances, outline the skills and resources required, and identify the key milestones I should achieve throughout the year. Include validation checkpoints to help me assess whether I should continue, adjust, or abandon a particular strategy. Finally, provide measurable performance indicators and a month by month action plan to help me track my progress, stay accountable, and make informed decisions as I work toward my financial goals.
+
+10. Online Business Mentor
+Act as an experienced online business mentor with expertise in helping beginners build sustainable online income streams. First, ask me 8 to 10 questions about the specific method I want to pursue, my skills, previous experience, available time, financial goals, budget, support system, and the challenges I anticipate. Based on my responses, identify the most common obstacles I am likely to encounter and explain how they may affect my progress. Recommend the key skills I need to develop, the habits I should cultivate, and the mistakes I should avoid to increase my chances of success. Then, create a practical 90 day roadmap with clear priorities, weekly objectives, and actionable steps tailored to my circumstances. Include measurable milestones to track progress, strategies for maintaining motivation and consistency, and guidance on when to reassess, adapt, or refine my approach. Ensure that the plan is realistic, sustainable, and focused on helping me achieve my first meaningful online income milestone.
+
+
+-------------------------------------------------------------
+With Gemini 3.5 Live Translate, Google Translate is breaking language barriers like never before.
+This new AI-powered feature enables natural, real-time conversations across different languages by instantly translating speech while preserving the speaker's tone and conversational flow.
+
+1. Real-Time Speech Translation
+Gemini 3.5 Live Translate enables instant speech-to-speech translation, allowing you to have natural conversations with people who speak different languages. Simply speak as you normally would, and the AI translates your words in real time, making communication faster, smoother, and more effortless.
+
+2. Two-Way Conversations
+Live Translate supports real-time, two-way communication, allowing both people to speak in their preferred languages. The AI automatically translates each speaker's words, creating a more natural and engaging conversation without the need to switch languages or rely on text-based translations.
+
+3. Support for 70+ Languages
+Gemini 3.5 Live Translate supports more than 70 languages, making it easier to connect with people from different cultures and regions. Whether you're traveling, working with international teams, or learning a new language, the tool helps break down communication barriers on a global scale.
+
+4. Natural-Sounding AI Voices
+Unlike traditional translation tools that rely on robotic text-to-speech outputs, Gemini 3.5 Live Translate delivers translations using more natural and expressive AI-generated voices. This helps preserve the speaker's tone and makes conversations feel more authentic and human.
+
+5. Works with Standard Headphones
+You don't need specialized hardware to use Gemini 3.5 Live Translate. Simply connect any headphones with a built-in microphone, open the Google Translate app, and start speaking. This makes the feature more accessible and convenient for everyday use.
+
+
+
+-------------------------------------------------------------
+Here are 10 powerful prompts to help you summarize any video, uncover hidden insights, and turn information into action.
+
+1. Executive Summary Generator
+"Analyze this video and provide a concise executive summary. Identify the main topic, the speaker's core arguments, and the five most important takeaways. Present the information in clear, easy-to-understand language suitable for someone who has not watched the video."
+
+2. Timestamped Insight Extractor
+"Analyze this video and extract the 10 most valuable insights. For each insight, include the timestamp, a brief explanation of why it matters, and one practical action I can take based on that insight. Present the results in a table for easy reference."
+
+3. Action Item Finder
+"Review this video and identify every practical recommendation, strategy, framework, and action item mentioned. Organize them into a prioritized checklist categorized as quick wins, medium-term actions, and long-term initiatives."
+
+4. Study Guide Creator
+"Transform this video into a comprehensive study guide. Include key concepts and definitions, important examples and analogies, memorable quotes, discussion questions, and a 10-question quiz with answers to assess understanding."
+
+5. Expert Analysis Prompt
+"Act as an expert in [FIELD]. Analyze this video and evaluate the accuracy of the information presented, the strengths and weaknesses of the speaker's arguments, any assumptions, biases, or unsupported claims, and areas requiring additional evidence or clarification. Conclude with your overall assessment of the video's credibility and usefulness."
+
+6. Content Repurposing Assistant
+"Analyze this video and repurpose its content into the following formats: a LinkedIn post, an X (Twitter) thread, a Facebook post, a blog post outline, and five memorable quotes from the speaker. Adapt each piece of content to suit its intended audience and platform while preserving the original message and key insights."
+
+7. Meeting Notes Generator
+"Review this meeting recording and generate professional meeting notes. Include the meeting objective, key discussion points, decisions made, unresolved issues, assigned responsibilities, and recommended next steps. Present the information in a clear, structured format suitable for sharing with stakeholders."
+
+8. Learning Accelerator
+"Analyze this educational video and identify the 20% of concepts that deliver 80% of the practical value. Explain these concepts in simple terms, provide real-world examples to illustrate their application, and recommend exercises or activities to reinforce learning and improve retention."
+
+9. Critical Thinking Coach
+"Critically analyze this video by identifying the speaker's main claims, the evidence used to support those claims, any logical fallacies or unsupported assumptions, and alternative viewpoints that should be considered. Evaluate the overall strength of the arguments presented and conclude with three thoughtful questions that encourage deeper reflection and further exploration of the topic."
+
+10. Implementation Roadmap Builder
+"Analyze this video and create a step-by-step implementation plan based on its recommendations. Organize the plan into immediate actions (within the next 24 hours), short-term goals (within the next 30 days), and long-term objectives (within the next 90 days). For each step, identify potential obstacles, suggest practical strategies to overcome them, and recommend metrics or milestones to track progress and measure success."
+
+
+-------------------------------------------------------------
+Every high quality research proposal begins with a well-crafted problem statement. It clearly defines the research problem, demonstrates its significance, identifies the knowledge gap, and provides a compelling justification for why the proposed study should be conducted.
+
+practical 10 step workflow for writing a problem statement using NotebookLM. Each step includes a copy-and-paste prompt designed to support researchers from defining the research problem to producing a publication-ready problem statement.
+
+## 10 prompts. One complete workflow for writing a high quality problem statement using NotebookLM
+
+Step 1: Define the Research Problem
+Objective: Clearly define a significant, specific, and researchable problem that establishes the foundation for a compelling problem statement and demonstrates the need for the proposed study.
+Upload to NotebookLM:
+- Research idea or concept note
+- Preliminary literature
+- Key journal articles
+- Existing review articles (if available)
+- Research topic
+- Keywords and search terms
+- Institutional or funding guidelines (if available)
+Prompt:
+"Using the uploaded research idea, research topic, preliminary literature, journal articles, and supporting materials, help me define and refine the research problem for my study. Critically evaluate whether the proposed research problem is clear, specific, significant, relevant, and researchable. Assess the current state of knowledge by identifying unresolved issues, methodological limitations, theoretical weaknesses, conflicting findings, practical challenges, and emerging trends that demonstrate the existence of the problem. Evaluate whether the problem is sufficiently supported by the literature and explain why it is important to address. Identify opportunities to narrow or refine the problem to improve its clarity, focus, originality, and scholarly significance. Finally, recommend a concise and compelling statement that clearly defines the research problem and provides a strong foundation for developing a high-quality problem statement."
+
+Step 2: Review the Literature and Establish the Research Context
+Objective: Conduct a comprehensive and critical review of the existing literature to establish the research context, demonstrate the current state of knowledge, and provide the scholarly foundation for the problem statement.
+Upload to NotebookLM:
+- Research problem
+- Preliminary literature
+- Key journal articles
+- Existing review articles (if available)
+- Research topic
+- Keywords and search terms
+- Institutional or funding guidelines (if available)
+Prompt:
+"Using the uploaded research problem, preliminary literature, journal articles, review articles, and supporting materials, help me conduct a comprehensive literature review to establish the research context for my problem statement. Critically evaluate the existing body of knowledge by identifying the major theories, concepts, methodological approaches, empirical findings, strengths, limitations, competing perspectives, and emerging trends related to the research topic. Assess whether the literature provides a clear understanding of the current state of knowledge and identify areas where evidence remains inconsistent, limited, or inconclusive. Recommend the most effective way to synthesize the literature into a coherent and logical narrative that demonstrates the importance of the research area while preparing the foundation for identifying the research gap. Evaluate the clarity, depth, coherence, and scholarly rigor of the literature synthesis, and provide detailed, constructive, and actionable recommendations for strengthening the research context and supporting the development of a compelling, publication-ready problem statement."
+
+Step 3: Identify the Research Gap and Justify the Study
+Objective: Identify a clear, meaningful, and well-supported research gap and develop a compelling justification that demonstrates why the proposed study is necessary, original, and capable of making a significant scholarly contribution.
+Upload to NotebookLM:
+- Research problem
+- Literature review
+- Key journal articles
+- Existing review articles (if available)
+- Preliminary research objectives
+- Institutional or funding guidelines (if available)
+Prompt:
+"Using the uploaded research problem, literature review, journal articles, and supporting materials, help me identify and critically evaluate the research gap for my problem statement. Assess whether the existing literature reveals unresolved research questions, conflicting findings, methodological limitations, theoretical weaknesses, underexplored populations, neglected contexts, emerging issues, or insufficient empirical evidence that justify the proposed study. Critically evaluate the originality, significance, feasibility, and scholarly importance of the identified research gap, and explain why it remains unresolved despite previous research. Develop a compelling justification that clearly demonstrates why addressing this gap is necessary and how the proposed study will contribute to advancing theory, methodology, policy, or practice. Evaluate whether the identified gap is sufficiently supported by the literature and logically connected to the research problem. Provide detailed, constructive, and actionable recommendations for refining the research gap, strengthening the justification, and improving the overall quality, coherence, and publication readiness of the problem statement."
+
+Step 4: Develop the Research Questions, Objectives, and Hypotheses
+Objective: Develop clear, focused, and logically aligned research questions, research objectives, and hypotheses (where appropriate) that directly address the identified research gap and provide a strong foundation for the problem statement.
+Upload to NotebookLM:
+- Research problem
+- Literature review
+- Identified research gap
+- Study justification
+- Preliminary research questions or objectives (if available)
+- Key journal articles
+- Institutional or funding guidelines (if available)
+Prompt:
+"Using the uploaded research problem, literature review, identified research gap, study justification, and supporting materials, help me develop the research questions, research objectives, and hypotheses for my study. Critically evaluate whether the proposed research questions are clear, specific, focused, feasible, and logically derived from the identified research problem and research gap. Assess whether the research objectives comprehensively address the proposed questions and are aligned with the intended scholarly contribution of the study. Where appropriate, develop testable hypotheses that are theoretically grounded and methodologically appropriate. Critically evaluate the alignment and consistency among the research problem, research gap, justification, research questions, objectives, and hypotheses, identifying any inconsistencies or areas requiring refinement. Provide detailed, constructive, and actionable recommendations for strengthening these elements to ensure they provide a coherent, rigorous, and publication-ready foundation for a high-quality problem statement."
+
+Step 5: Develop the Conceptual or Theoretical Framework
+Objective: Develop a robust conceptual or theoretical framework that explains the relationships among key concepts or variables, provides a strong scholarly foundation for the study, and aligns with the research problem, research gap, research questions, and objectives.
+Upload to NotebookLM:
+- Research problem
+- Literature review
+- Identified research gap
+- Research questions and objectives
+- Relevant theories or conceptual models
+- Key journal articles
+- Institutional or funding guidelines (if available)
+Prompt:
+"Using the uploaded research problem, literature review, identified research gap, research questions, research objectives, relevant theories, and supporting materials, help me develop the conceptual or theoretical framework for my study. Identify the most appropriate theories, conceptual models, or analytical frameworks that provide a strong scholarly foundation for the proposed research. Critically evaluate the relevance, strengths, limitations, and applicability of each framework to the research problem and justify why the selected framework is the most suitable. Clearly define the key concepts, constructs, or variables and explain their relationships within the context of the study. Assess whether the proposed framework is logically aligned with the research problem, research gap, research questions, objectives, and methodology. Identify any inconsistencies, unsupported assumptions, or missing components that could weaken the framework. Provide detailed, constructive, and actionable recommendations for strengthening the conceptual or theoretical framework to improve the clarity, coherence, originality, scientific rigor, and overall quality of the problem statement and the proposed research."
+
+Step 6: Design the Research Methodology
+Objective: Develop a rigorous and appropriate research methodology that demonstrates how the research problem will be investigated and provides confidence that the proposed study can effectively answer the research questions and achieve the research objectives.
+Upload to NotebookLM:
+- Research problem
+- Literature review
+- Research gap
+- Research questions and objectives
+- Conceptual or theoretical framework
+- Draft methodology (if available)
+- Institutional or funding guidelines (if available)
+Prompt:
+"Using the uploaded research problem, literature review, identified research gap, research questions, research objectives, conceptual or theoretical framework, and supporting materials, help me design and critically evaluate the research methodology for my proposed study. Assess whether the selected research approach, research design, sampling strategy, participant selection, data collection methods, research instruments, analytical techniques, and ethical considerations are appropriate for addressing the research questions and achieving the research objectives. Critically evaluate the methodological rigor, feasibility, validity, reliability or trustworthiness, transparency, reproducibility, and potential sources of bias within the proposed methodology. Assess whether the methodology is logically aligned with the research problem, research gap, conceptual or theoretical framework, and intended scholarly contribution. Identify methodological weaknesses, inconsistencies, unsupported assumptions, or areas requiring stronger justification, and recommend improvements to strengthen the scientific quality, credibility, and feasibility of the proposed study. Provide detailed, constructive, and actionable recommendations for developing a rigorous, coherent, and publication-ready methodology that supports a compelling and well-justified problem statement."
+
+Step 7: Write the Problem Statement
+Objective: Write a clear, persuasive, and academically rigorous problem statement that logically integrates the research problem, research context, literature, research gap, justification, and proposed direction of the study into a coherent narrative.
+Upload to NotebookLM:
+- Research problem
+- Literature review
+- Identified research gap
+- Study justification
+- Research questions and objectives
+- Conceptual or theoretical framework
+- Research methodology
+- Institutional or funding guidelines (if available)
+Prompt:
+"Using the uploaded research problem, literature review, identified research gap, study justification, research questions, research objectives, conceptual or theoretical framework, research methodology, and supporting materials, help me write a comprehensive and publication-ready problem statement for my study. Develop a clear and logical narrative that defines the research problem, establishes the current state of knowledge, critically synthesizes the relevant literature, identifies the research gap, explains why the gap is important, and justifies the need for the proposed study. Ensure that the problem statement demonstrates the significance, originality, feasibility, and expected scholarly contribution of the research while maintaining a coherent flow of ideas and strong academic writing. Critically evaluate the clarity, coherence, logical progression, evidence, scholarly rigor, and persuasiveness of the problem statement. Identify unsupported claims, weak transitions, repetitive content, inconsistencies, or areas requiring further development. Provide detailed, constructive, and actionable recommendations for improving the clarity, academic quality, originality, and publication readiness of the problem statement."
+
+Step 8: Strengthen the Academic Quality and Scholarly Rigor
+Objective: Strengthen the academic quality, clarity, coherence, originality, and scholarly rigor of the problem statement by refining its arguments, improving the evidence base, and ensuring that it provides a compelling justification for the proposed study.
+Upload to NotebookLM:
+- Complete problem statement draft
+- Literature review
+- Research gap
+- Research questions and objectives
+- Conceptual or theoretical framework
+- Research methodology
+- Reviewer or supervisor feedback (if available)
+- Institutional or funding guidelines (if available)
+Prompt:
+"Using the uploaded problem statement, literature review, identified research gap, research questions, conceptual or theoretical framework, research methodology, and supporting materials, critically evaluate the academic quality and scholarly rigor of my problem statement. Assess whether the problem statement clearly defines the research problem, establishes the current state of knowledge, critically synthesizes the literature, identifies a meaningful research gap, and provides a persuasive justification for the proposed study. Evaluate the logical flow, coherence, originality, critical analysis, evidence base, clarity of writing, and alignment between the research problem, research gap, research questions, objectives, conceptual or theoretical framework, and methodology. Identify unsupported claims, weak arguments, inconsistencies, repetitive content, or missed opportunities to strengthen the significance and scholarly contribution of the study. Assess whether the problem statement demonstrates sufficient originality, scientific merit, and relevance to justify the proposed research. Provide detailed, constructive, and actionable recommendations for improving the clarity, coherence, analytical depth, scholarly rigor, originality, and overall quality of the problem statement."
+
+Step 9: Revise, Evaluate, and Improve the Problem Statement
+Objective: Conduct a comprehensive evaluation of the problem statement to strengthen its clarity, coherence, originality, scholarly rigor, and overall effectiveness before incorporating it into a research proposal, thesis, dissertation, or journal article.
+Upload to NotebookLM:
+- Complete problem statement draft
+- Literature review
+- Research gap
+- Research questions and objectives
+- Conceptual or theoretical framework
+- Research methodology
+- Reviewer or supervisor feedback (if available)
+- Institutional or funding guidelines (if available)
+Prompt:
+"Using the uploaded problem statement, literature review, research gap, research questions, research objectives, conceptual or theoretical framework, research methodology, reviewer or supervisor feedback, and supporting materials, conduct a comprehensive evaluation of my problem statement. Critically assess its overall structure, logical flow, academic writing quality, clarity, coherence, originality, critical analysis, and scholarly rigor. Evaluate whether the problem statement clearly defines the research problem, establishes the research context, synthesizes the relevant literature, identifies a well-supported research gap, and provides a compelling justification for the proposed study. Assess the alignment between the research problem, research gap, research questions, objectives, conceptual or theoretical framework, and methodology, identifying any inconsistencies or weaknesses. Identify unsupported claims, repetitive content, weak arguments, logical gaps, or areas requiring further refinement. Provide detailed, constructive, and actionable recommendations for improving the clarity, persuasiveness, scientific rigor, originality, and overall publication readiness of the problem statement."
+
+Step 10: Proofread, Finalize, and Prepare the Problem Statement for Inclusion in the Research Proposal, Thesis, or Journal Article
+Objective: Conduct a comprehensive final review of the problem statement to ensure it is academically rigorous, clearly written, logically structured, fully supported by the literature, and ready for inclusion in a research proposal, thesis, dissertation, or journal article.
+Upload to NotebookLM:
+- Final problem statement draft
+- Literature review
+- Research gap
+- Research questions and objectives
+- Conceptual or theoretical framework
+- Research methodology
+- Institutional or funding guidelines (if available)
+- Reviewer or supervisor feedback (if available)
+Prompt:
+"Using the uploaded problem statement, literature review, research gap, research questions, research objectives, conceptual or theoretical framework, research methodology, institutional or funding guidelines, and supporting materials, conduct a comprehensive final evaluation of my problem statement. Critically assess its overall structure, logical flow, clarity, coherence, academic writing quality, originality, critical analysis, grammar, spelling, punctuation, formatting, and scholarly rigor. Verify that the problem statement clearly defines the research problem, establishes the research context, synthesizes the relevant literature, identifies a well-supported research gap, and provides a compelling justification for the proposed study. Assess whether the problem statement is fully aligned with the research questions, objectives, conceptual or theoretical framework, and proposed methodology, ensuring internal consistency throughout. Identify any remaining weaknesses, unsupported claims, logical inconsistencies, missing evidence, formatting issues, or other factors that could reduce its academic quality or effectiveness. Provide detailed, constructive, and actionable recommendations for improving the clarity, coherence, originality, scholarly rigor, and overall quality of the problem statement, and confirm whether it is ready for inclusion in a research proposal, thesis, dissertation, or journal article, or whether further revision is required."
+
+-------------------------------------------------------------
+
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------

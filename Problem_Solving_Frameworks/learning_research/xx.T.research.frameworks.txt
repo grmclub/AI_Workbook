@@ -1,0 +1,112 @@
+
+-------------------------------------------------
+##Great acronym methods of research framework
+
+1.Abstract- IMRaD Framework
+(Introduction – Method – Results – and Discussion)
+🔹 Purpose
+Summarize the entire research paper briefly — what was done, how, key results, and what it means.
+🔹 Structure
+I – Introduction: What problem or question is being addressed?
+M – Method: How was the study conducted?
+R – Results: What were the key findings?
+D – Discussion: What do these findings imply?
+
+2. Introduction — C.A.R.D. Framework
+(Context – Aim – Rationale – Direction)
+🔹 Purpose
+Introduce your research logically — from background to your study’s direction.
+🔹 Structure
+C – Context: What is the broader issue?
+A – Aim: What is the purpose of the study?
+R – Rationale: Why is this study important?
+D – Direction: What will the paper cover or argue?
+
+3. Literature Review — C.L.A.I.M. Framework
+(Categorize – Link – Analyze – Identify gap – Map forward)
+🔹 Purpose
+Critically review what’s already known and what remains unexplored.
+🔹 Structure
+C – Categorize: Group existing studies by themes or focus areas.
+L – Link: Show how studies connect or differ.
+A – Analyze: Evaluate strengths and weaknesses.
+I – Identify Gap: Point out what’s missing.
+M – Map Forward: Show how your study addresses the gap.
+
+⚙️ 4. Methodology — P.A.S.T.E. Framework
+(Population – Approach – Steps – Tools – Ethical considerations)
+🔹 Purpose
+Explain how the study was conducted so others can replicate it.
+🔹 Structure
+P – Population: Who or what was studied?
+A – Approach: Research design (qualitative, quantitative, mixed).
+S – Steps: Data collection procedures.
+T – Tools: Instruments or technologies used.
+E – Ethics: How ethical approval and participant rights were ensured.
+
+5. Results & Discussion — S.I.R.F. Framework
+(Summary – Interpretation – Relevance – Future directions)
+🔹 Purpose
+Present your findings and explain their meaning.
+🔹 Structure
+S – Summary: Highlight main results.
+I – Interpretation: What do they mean?
+R – Relevance: Why do they matter?
+F – Future Directions: What should come next?
+6. Conclusion — R.I.S.C. Framework
+(Restate – Implications – Strengths/Limitations – Call to action)
+🔹 Purpose
+Wrap up the study with key insights and recommendations.
+🔹 Structure
+R – Restate: Summarize main findings briefly.
+I – Implications: Show theoretical or practical value.
+S – Strengths/Limitations: Acknowledge boundaries.
+C – Call to Action: Suggest future research or policy change.
+
+6. Conclusion — R.I.S.C. Framework
+(Restate – Implications – Strengths/Limitations – Call to action)
+🔹 Purpose
+Wrap up the study with key insights and recommendations.
+🔹 Structure
+R – Restate: Summarize main findings briefly.
+I – Implications: Show theoretical or practical value.
+S – Strengths/Limitations: Acknowledge boundaries.
+C – Call to Action: Suggest future research or policy change.
+
+5. Results & Discussion — S.I.R.F. Framework
+(Summary – Interpretation – Relevance – Future directions)
+🔹 Purpose
+Present your findings and explain their meaning.
+🔹 Structure
+S – Summary: Highlight main results.
+I – Interpretation: What do they mean?
+R – Relevance: Why do they matter?
+F – Future Directions: What should come next?
+
+Fast Research Publication Hub
+Before submitting your manuscript, review these essentials:
+✔ Originality
+✔ Clear Abstract
+✔ Strong Methodology
+✔ Correct References
+✔ Low Plagiarism
+Small improvements before submission can make a big difference.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
