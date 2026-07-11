@@ -194,12 +194,283 @@ Gemini → Writing, coding, brainstorming, and everyday productivity
 Firebase Studio → Build, host, and scale AI-powered applications See less
 
 -------------------------------------------------------------
--------------------------------------------------------------
--------------------------------------------------------------
--------------------------------------------------------------
--------------------------------------------------------------
--------------------------------------------------------------
+## 50 Skills to Learn for Free Instead of Doomscrolling 👇
 
+1. Graphic design → Canva Design School
+2. Video editing → CapCut Academy
+3. Photography → Peter McKinnon on YouTube
+4. Drawing → Drawabox
+5. Animation → Alan Becker on YouTube
+6. UI/UX design → Figma Learn
+7. Content creation → YouTube Creator Academy
+8. Copywriting → Copy That! on YouTube
+9. Storytelling → Storyworthy by Matthew Dicks
+10. Public speaking → TED Talks
+
+11. Coding → freeCodeCamp
+12. Web development → The Odin Project
+13. AI prompting → DeepLearning AI
+14. Excel → ExcelIsFun on YouTube
+15. Data analysis → Kaggle Learn
+16. Notion → Notion Academy
+17. Cybersecurity → TryHackMe
+18. SEO → Ahrefs on YouTube
+19. Digital marketing → HubSpot Academy
+20. Speed reading → Iris Reading
+
+21. Note-taking → Ali Abdaal on YouTube
+22. Memory techniques → Art of Memory
+23. Active recall → RemNote Blog
+24. Mind mapping → MindMeister Academy
+25. Research skills → Google Scholar tutorials
+26. Critical thinking → Coursera
+27. Exam strategy → StudyWithJanet
+28. Focus training → Cal Newport
+29. Learning how to learn → Coursera
+30. Investing → The Plain Bagel on YouTube
+
+31. Personal finance → Khan Academy
+32. Budgeting → YNAB Resources
+33. Negotiation → Chris Voss
+34. Sales → Alex Hormozi on YouTube
+35. Freelancing → Upwork Academy
+36. Entrepreneurship → Y Combinator Library
+37. E-commerce → Shopify Learn
+38. Financial literacy → Investopedia
+39. Business writing → Harvard Business Review
+40. Typing → Monkeytype
+
+41. Time management → Tiago Forte on YouTube
+42. Productivity → Building a Second Brain
+43. Communication → Charisma on Command
+44. Networking → LinkedIn Learning
+45. Emotional intelligence → Daniel Goleman
+46. Decision making → Farnam Street Blog
+47. Habit building → Atomic Habits
+48. Leadership → Simon Sinek
+49. Goal setting → James Clear
+50. Journaling → Day One or a plain notebook
+-------------------------------------------------------------
+1/ BuildItApp
+https://builditapp.com/
+
+2/ Content Core
+https://contentcore.xyz/
+
+3/ ProductionCrate
+https://www.productioncrate.com/
+
+4/ Banana Prompts
+https://www.bananaprompts.xyz/
+
+5/ Swishy
+https://www.swishy.ai/
+
+-------------------------------------------------------------
+1/ Cobalt — Download public social media videos
+2/ Photopea — Free Photoshop in your browser
+3/ Temp Mail — Temporary email address
+4/ TinyWow — 100+ free online tools
+5/ Internet Archive — Browse archived websites and media
+6/ AlternativeTo — Find software alternatives
+7/ JustWatch — Find where to stream movies and shows
+8/ Project Gutenberg — 70,000+ free classic books
+9/ Open Culture — Free courses from top universities
+10/ WolframAlpha — Solve math and science problems
+
+11/ Remove(dot)bg — Remove image backgrounds instantly
+12/ Cleanup.pictures — Remove unwanted objects from photos
+13/ Squoosh — Compress images for free
+14/ Excalidraw — Create hand-drawn diagrams
+15/ Carbon — Turn code into beautiful images
+16/ Ray(dot)so — Create polished code screenshots
+17/ Shots(dot)so — Create device and product mockups
+18/ Flightradar24 — Track flights in real time
+19/ CamelCamelCamel — Track Amazon price history
+20/ Have I Been Pwned — Check for known data breaches
+
+21/ VirusTotal — Scan files and URLs for malware
+22/ URLScan — Analyze website behavior
+23/ CyberChef — Browser-based cybersecurity toolkit
+24/ WiGLE — Global WiFi network map
+25/ Privnote — Private notes that expire after reading
+26/ File(dot)io — Share files that expire automatically
+27/ Archive(dot)today — Save snapshots of webpages
+28/ AccountKiller — Find account deletion instructions
+29/ Radio Garden — Listen to radio stations worldwide
+30/ TuneFind — Find songs from TV shows and movies
+
+31/ Music for Programming — Focus music for coding
+32/ myNoise — Custom background soundscapes
+33/ Elicit — AI research assistant
+34/ Consensus — Search scientific research
+35/ Connected Papers — Explore related research papers
+36/ Semantic Scholar — Free academic search engine
+37/ SciSpace — Explain research papers with AI
+38/ Summarize (dot) tech — Summarize YouTube videos
+39/ Phind — AI search for developers
+40/ Regex101 — Test regular expressions instantly
+
+41/ Code Beautify — Format and clean code
+42/ ExplainShell — Learn Linux terminal commands
+43/ tldraw — Infinite online whiteboard
+44/ Down For Everyone Or Just Me — Check if a website is down
+45/ TinEye — Reverse image search
+46/ Fast — Test your internet speed
+47/ Smallpdf — Edit PDF files online
+48/ iLovePDF — Merge, split, and convert PDFs
+49/ 10 Minute Mail — Temporary email address
+
+01. cobalt.tools — Download any social media video
+https://cobalt.tools/
+
+02. photopea.com — Free Photoshop in the browser
+https://www.photopea.com/
+
+03. temp-mail.org — One-click temporary email
+temp-mail.org
+
+04. tinywow.com — 100+ free tools in one place
+https://tinywow.com/
+
+05. archive.org — Access any old webpage
+https://archive.org/
+
+06. alternativeto.net — Find free app alternatives
+alternativeto.net
+
+07. justwatch.com — Find where to stream anything
+justwatch.com
+
+08. gutenberg.org — 70,000 free classic books
+https://www.gutenberg.org/
+
+09. openculture.com — Free courses from top universities
+https://www.openculture.com/
+
+10. wolframalpha.com — Instantly solve any math problem
+https://www.wolframalpha.com/
+
+11. remove.bg — One-click background removal
+https://www.remove.bg/
+
+12. cleanup.pictures — Erase objects from photos
+https://cleanup.pictures/
+
+13. squoosh.app — Free image compression
+https://squoosh.app/
+
+14. excalidraw.com — Free hand-drawn charts
+https://excalidraw.com
+
+15. carbon.now.sh — Turn code into artwork
+https://carbon.now.sh
+
+16. ray.so — Stunning code screenshots
+https://ray.so/
+
+17. shots.so — Free device & product mockups
+https://shots.so/
+
+18. flightradar24.com — Real-time tracking for any flight
+https://www.flightradar24.com/
+
+19. camelcamelcamel.com — Track Amazon price history
+https://camelcamelcamel.com
+
+20. haveibeenpwned.com — Check if you've been hacked
+https://haveibeenpwned.com/
+
+21. virustotal.com — Scan any file for malware
+https://www.virustotal.com/gui/home/upload
+
+22. urlscan.io — Scan & dissect any website
+https://urlscan.io/
+
+23. gchq.github.io/CyberChef — The cyber swiss-army knife
+https://gchq.github.io/CyberChef/
+
+24. wigle.net — Global WiFi wardriving map
+https://wigle.net/
+
+25. privnote.com — Send self-destructing messages
+https://privnote.com/
+
+26. file.io — Share auto-deleting files
+https://www.file.io/
+
+27. archive.today — Permanently save any webpage
+https://archive.ph/
+
+28. AccountKiller — Delete yourself from any website
+https://www.accountkiller.com/en/home
+
+29. radio.garden — Listen to any global radio station
+https://radio.garden/
+
+30. TuneFind — Find songs from any show
+https://www.tunefind.com/
+
+31. Music For Programming — Focus music for coding
+https://musicforprogramming.net/latest/
+
+32. myNOISE — Custom focus soundscapes
+mynoise.net
+
+33. Elicit — AI research paper assistant
+https://elicit.com/
+
+34. Consensus — Search scientific consensus
+https://consensus.app/
+
+35. Connected Papers — Visualize map and research
+https://www.connectedpapers.com/
+
+36. Semantic Scholar — Free academic search
+https://www.semanticscholar.org/
+
+37. SciSpace — Understand any research paper
+https://scispace.com/
+
+38. Regular Expressions — Instantly test any regex
+https://regex101.com/
+
+39. Code Beautify — Cleanly format any code
+https://codebeautify.org/
+
+40. ExplainShell — Understand any terminal command
+https://explainshell.com/
+
+41. tidraw — Infinite whiteboard in your browser
+https://www.tldraw.com/
+
+42. downforeveryoneorjustme.com — Check if any site is down
+https://downforeveryoneorjustme.com/
+
+43. TinEye — Reverse image search
+https://tineye.com/
+
+44. Fast— Check your internet speed
+https://fast.com/
+
+45. SmallPDF — Free PDF editing
+https://smallpdf.com/
+
+46. ilovepdf — Merge and split PDFs
+https://www.ilovepdf.com/
+
+47. 10MinuteMail — Instant temporary email
+https://10minutemail.com/
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
 
 
 
