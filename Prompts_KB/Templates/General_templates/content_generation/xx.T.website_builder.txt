@@ -150,6 +150,33 @@ Target Region: [Insert]
 👉This ensures your website is discoverable, not invisible.
 
 -------------------------------------------------
+## 8 Claude Prompts to help you Create Premium-Looking Websites like Professional Web Design Agencies 👇
+
+1. The Premium Website Builder
+Act as a premium website specialist. I want a stunning, interactive website for [business type]. Give me the ideal page structure, the design elements that create a premium feel, and copy that encourages visitors to take action.
+
+2. The First Impression Engineer
+Act as a website first-impression specialist. Design a hero section for my website that captures attention quickly. Create a headline, subheadline, and call-to-action that encourages visitors to keep exploring.
+
+3. The Conversion Page Copywriter
+Act as a conversion optimization specialist. Write my complete homepage for [offer] aimed at [audience]. Include a compelling hook, problem section, solution, trust-building elements, and a call-to-action that encourages visitors to learn more or get started.
+
+4. The Portfolio Creator
+Act as a portfolio website specialist. Design a portfolio for [profession] that highlights my best work. Create a project showcase, an About section that builds credibility, and a contact section that makes it easy for potential clients to reach out.
+
+5. The Service Page Copywriter
+Act as a service page copywriting specialist. Write my complete service page for [service] priced at [$X]. Include a headline that speaks to my ideal clients, a clear explanation of the value I provide, and a booking CTA that encourages inquiries.
+
+6. The About Page Storyteller
+Act as an About page storytelling specialist. Write my complete About page for [business]. Create an introduction that builds trust, tell my story in a relatable way, and highlight what makes my business different.
+
+7. The Mobile Optimizer
+Act as a mobile website optimization specialist. Review my website and recommend improvements for mobile devices. Suggest layout changes, better button sizing, faster-loading design choices, and ways to improve the overall user experience.
+
+8. The Website Copy System
+Act as a complete website copywriting specialist. Write all the copy for my [business type] website, including the homepage, About page, Services section, testimonial placeholders, FAQ section, and footer CTA. Make the writing clear, persuasive, and consistent throughout the site.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
