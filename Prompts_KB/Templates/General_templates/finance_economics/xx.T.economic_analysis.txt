@@ -1,6 +1,6 @@
 
 https://tradingeconomics.com/japan/stock-market
-
+https://github.com/hanlulong/awesome-ai-for-economists
 -------------------------------------------------
 list best prompts for economic trend analysis
 ==============================
