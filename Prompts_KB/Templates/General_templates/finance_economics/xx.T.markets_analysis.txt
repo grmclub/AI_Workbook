@@ -1,0 +1,92 @@
+
+
+https://www.financialprofessionals.org/training-resources/resources/articles/Details/ai-prompts-for-finance-15-real-world-examples
+-------------------------------------------------
+List sample prompts to analyze APAC equities market trends
+
+Prompt 1: Track Regional Macro Drivers
+text
+Act as a senior APAC equity strategist. Analyze how recent macroeconomic shifts—specifically regional central bank interest rate decisions, currency fluctuations against the USD, and regional inflation data—are impacting major APAC equity indices (e.g., Nikkei 225, ASX 200, Hang Seng, Nifty 50). Provide a structured summary highlighting the top three macro headwinds and top three tailwinds for the current quarter.
+
+
+Prompt 2: Evaluate Regulatory Shifts & Policy Impacts
+text
+Act as a financial regulatory analyst specializing in Asian markets. Review recent policy updates, security regulations, and trade restrictions originating from major APAC economies. Detail how these regulatory changes are influencing foreign institutional capital inflows and outflows across emerging versus developed APAC equity markets.
+
+
+Prompt 3: Assess Cross-Border Supply Chain Vulnerabilities
+text
+Act as an equity research analyst covering the APAC technology and manufacturing sectors. Evaluate how ongoing regional supply chain reconfigurations and geopolitical tensions are impacting the earnings outlooks of top-tier semiconductor and hardware equities. Identify which specific geographic sub-regions are benefiting as alternative manufacturing hubs.
+
+
+Prompt 4: Scan for Valuation Anomalies
+text
+Act as a quantitative equity analyst. Create a framework to identify sector-wide valuation anomalies across APAC markets. Compare current Forward P/E, P/B, and EV/EBITDA ratios against their 5-year historical averages for the Financials, Consumer Discretionary, and Technology sectors. Highlight which countries appear historically undervalued despite strong fundamentals.
+
+
+Prompt 5: Monitor Sector-Specific Capital Flows
+text
+Act as a portfolio manager tracking APAC institutional data. Analyze recent sector-level capital flows, focusing heavily on Clean Energy, Electric Vehicles, and Banking sectors across the region. Synthesize market sentiment data to predict which sectors are positioned for the highest institutional momentum over the next 30 to 60 days.
+
+
+-------------------------------------------------
+The 15 real-world generative AI use cases detailed by AFP include:
+
+    • Revenue Forecasting: Drafting prompts that outline a company's four major product lines to automatically project assumptions over multiple quarters.
+      
+    • Cost Allocation Modeling: Instructing AI to factor in Cost of Goods Sold (COGS) and dynamic operational expenses (OpEx) driven by real inflation data.
+      
+    • CapEx & Depreciation: Generating dynamic formulas that track capital expenditures, asset lifespans, and depreciation schedules.
+
+    • Working Capital & Cash Flow: Utilizing AI to build cash flow statement tabs that adjust instantly based on working capital fluctuations.
+      
+    • Dashboard Design: Prompting language models to format output tabs complete with relevant charts, data visualization, and financial summaries
+
+-------------------------------------------------
+what's going on in APAC markets today
+provide a concise executive summary 
+list key risks and opportunities from market trends 
+
+what's going on in APAC markets today
+provide a concise executive summary 
+List main market movers
+List recent news impacting volatility 
+List key upcoming APC economic events
+List key risks and opportunities from market trends 
+
+Generate a concise executive summary with bullet points of events in APAC equity markets today. Provide the following details 
+Highlight main market movers
+Highlight recent news impacting volatility 
+Highlight key upcoming APC economic events
+List key risks and opportunities from market trends
+
+======================
+compile historical volatility metrics for specific APAC indices
+
+
+======================
+
+======================
+
+-------------------------------------------------
+
+------------------------------------------------- 
+-------------------------------------------------
+-------------------------------------------------
+------------------------------------------------- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
