@@ -120,4 +120,45 @@ Identify 10 major trends shaping the [industry] market. For each trend, include 
 Forecast the [industry] market through 2030. Provide low, medium, and high scenarios with assumptions, risks, and catalysts.
 
 -------------------------------------------------
+How to systematically analyze an economy
+
+ 
+
+Step 1: Understand the country’s GDP trends (growth rate, sectoral composition)
+
+Start by analyzing a country’s GDP growth patterns and the sectors driving that growth, as this reveals the overall trajectory and structural makeup of the economy.
+
+Step 2: Assess inflation and monetary policy direction
+
+Inflation levels and central bank responses, such as interest rate adjustments, help determine purchasing power, financial conditions, and currency stability.
+
+Step 3: Evaluate employment and labor productivity
+
+Labor market indicators such as unemployment rates, wage growth, and productivity levels provide insight into consumer demand, economic resilience, and supply-side Strength.
+
+Step 4: Examine trade balance and foreign investment
+
+A country’s trade surplus or deficit, along with trends in foreign direct investment, reflect global competitiveness and investor confidence.
+
+Step 5: Review fiscal policy and debt levels
+
+Government spending, tax policy, and national debt indicate how fiscally constrained or stimulative an economy may be, affecting long-term sustainability and credit risk.
+
+Step 6: Layer in political, demographic, and global factors
+
+No economic analysis is complete without considering political stability, demographic shifts, and global conditions such as supply chain disruptions or geopolitical tensions.
+
+How to use economic indicators for analysis
+
+    To understand the direction of the economy, look for patterns in indicators such as consistent GDP growth, falling unemployment, rising inflation or falling foreign direct investment (fdi).
+    To compare economic performance internationally, use standardized indicators such as GDP per capita or inflation rates.
+    Many indicators are interconnected, for example, rising inflation may prompt central banks to increase interest rates, which can slow GDP growth.
+    Economic indicators need to be considered with political, social, and global events for thorough analysis.
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+------------------------------------------------- 
 ------------------------------------------------- 
