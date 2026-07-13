@@ -61,13 +61,42 @@ Highlight key upcoming APC economic events
 List key risks and opportunities from market trends
 
 ======================
+Create an analytics dashboard for APAC equities markets as a concise executive summary. 
+Highlight main market movers
+Highlight recent news impacting volatility 
+Highlight key upcoming APC economic events
+List key risks and opportunities from market trends
+======================
+Act as a market analyst. Give me a concise APAC equities markets briefing 
+for [DATE], structured as:
+
+1. Headline (1 sentence): the single biggest driver of today's market action.
+
+2. Index scorecard: today's % change for [list specific indices], 
+   as a compact table — no more than one line of context per index.
+
+3. Top 3 movers: name, % change, and a one-line reason. Skip anything 
+   without a clear catalyst.
+
+4. Why it's moving (3 bullets max): the macro/geopolitical/earnings 
+   drivers behind today's action, ranked by impact — not a general 
+   news roundup.
+
+5. This week's catalysts (3-5 bullets): only events likely to move 
+   markets, not the full economic calendar.
+
+6. One risk, one opportunity: the single most important tail risk and 
+   the single most actionable opportunity right now — not a general 
+   pros/cons list.
+
+Constraints:
+- Total response under 300 words excluding the table.
+- No repeated information across sections.
+- Cite specific numbers, not vague terms like "significant" or "notable."
+- Skip anything you're not confident is current — don't pad with 
+  generic commentary.
+======================
 compile historical volatility metrics for specific APAC indices
-
-
-======================
-
-======================
-
 -------------------------------------------------
 Market Analysis Criteria
 
@@ -126,12 +155,8 @@ Use this multi-step prompt framework to guide an AI through a technical and fund
 Base your conclusions strictly on quantitative trends rather than speculative sentiment, and clearly outline the core risks."
 
 ======================
-Create an interactive analytics dashboard for APAC equities markets aimed at Investment bank management users. 
-Highlight main market movers
-Highlight recent news impacting volatility 
-Highlight key upcoming APC economic events
-List key risks and opportunities from market trends
-Include KPI summary cards with trend indicators, a mix of line, bar, and donut charts with hover tooltips and smooth transitions, a sortable and filterable data table, and date-range and segment filters that update every view live. Use a clean, modern visual style with clear layout hierarchy and a dark mode toggle, generate realistic sample data so every chart feels alive, and make it fully responsive.
+
+
 ======================
 ======================
 -------------------------------------------------
