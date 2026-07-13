@@ -1,4 +1,9 @@
 
+
+https://chatgpt.com/?model=auto
+https://claude.ai/new
+https://arena.ai/
+
 -------------------------------------------------
 📌 1. Claude (Anthropic)
 Best for: structured thinking, long documents, clean explanations
