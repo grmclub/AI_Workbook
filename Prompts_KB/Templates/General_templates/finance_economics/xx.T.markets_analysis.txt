@@ -69,8 +69,65 @@ compile historical volatility metrics for specific APAC indices
 ======================
 
 -------------------------------------------------
+Market Analysis Criteria
 
+    Compile market news and insights for today's date current_date
+    Focus on key financial markets:
+        Stock market performance
+        Major indices movements
+        Significant stock price changes
+        Sector-specific trends
+
+Analyst Insights
+
+    Include analyst forecasts and recommendations for:
+        Top performing stocks
+        Potential investment opportunities
+        Market sentiment indicators
+        Risk assessment
+
+Detailed Breakdown
+
+    Provide percentage changes for:
+        S&P 500
+        NASDAQ
+        Dow Jones Industrial Average
+        Key international markets
+        specific_markets
+
+Additional Context
+
+    Highlight:
+        Macroeconomic factors influencing markets
+        Upcoming earnings reports
+        Geopolitical events impacting financial markets
+        Notable economic data releases
+
+Presentation
+
+    Present information in a clear, concise format
+    Use bullet points for readability
+    Include brief explanations for significant market movements
+
+Ensure the analysis is current, data-driven, and provides actionable insights for investors and market watchers.
 ------------------------------------------------- 
+prompt+library+for+Market+Analysis
+
+Master Prompt Template for Deep Market Analysis
+
+Use this multi-step prompt framework to guide an AI through a technical and fundamental market analysis. Copy, paste, and fill in the bracketed variables:
+
+"Act as a Quantitative Market Strategist and Financial Analyst. Conduct a thorough market and sentiment analysis for [Ticker Symbol / Asset Name] using the following data-driven structure:
+    1. Price Action & Trend Analysis: Evaluate the current price trends relative to key moving averages (50-day and 200-day EMA/SMA). Identify immediate support and resistance levels.
+    2. Technical Indicators: Analyze momentum and volatility metrics (RSI, MACD, and Bollinger Bands) to determine if the asset is overbought, oversold, or consolidating.
+    3. Fundamental Catalysts: Assess recent earnings reports, revenue growth trajectories, P/E ratios relative to sector peers, and upcoming corporate events (e.g., product launches, earnings calls).
+    4. Market Sentiment: Synthesize broader market sentiment, options flow patterns (put/call ratios), and recent institutional trading activity.
+    5. Risk-Reward Matrix: Detail the primary bearish and bullish scenarios over a 30-day horizon, outlining specific stop-loss areas and upside targets based on current volatility.
+Base your conclusions strictly on quantitative trends rather than speculative sentiment, and clearly outline the core risks."
+
+======================
+======================
+======================
 -------------------------------------------------
 -------------------------------------------------
 ------------------------------------------------- 
