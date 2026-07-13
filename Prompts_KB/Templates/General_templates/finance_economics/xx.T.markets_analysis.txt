@@ -126,6 +126,12 @@ Use this multi-step prompt framework to guide an AI through a technical and fund
 Base your conclusions strictly on quantitative trends rather than speculative sentiment, and clearly outline the core risks."
 
 ======================
+Create an interactive analytics dashboard for APAC equities markets aimed at Investment bank management users. 
+Highlight main market movers
+Highlight recent news impacting volatility 
+Highlight key upcoming APC economic events
+List key risks and opportunities from market trends
+Include KPI summary cards with trend indicators, a mix of line, bar, and donut charts with hover tooltips and smooth transitions, a sortable and filterable data table, and date-range and segment filters that update every view live. Use a clean, modern visual style with clear layout hierarchy and a dark mode toggle, generate realistic sample data so every chart feels alive, and make it fully responsive.
 ======================
 ======================
 -------------------------------------------------
