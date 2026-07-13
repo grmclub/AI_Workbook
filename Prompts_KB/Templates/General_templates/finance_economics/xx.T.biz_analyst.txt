@@ -214,6 +214,23 @@ Rules:
 End with one sentence: 'The finding that most urgently requires action is [finding N] because [reason].'
 ====================
 -------------------------------------------------
+Generate a detailed business plan or proposal for establishing or managing a business valued at xx (USD). The plan should include the business sector, target market, revenue model, financial projections, growth strategy, operational plan, and risk analysis. Consider scalability, competitive landscape, and key success factors to ensure the business achieves and sustains a valuation of xx USD.
+
+# Steps
+
+1. Define the business sector and core offerings.
+2. Identify the target market and customer segments.
+3. Outline the revenue model and pricing strategy.
+4. Provide detailed financial projections including investment, revenue, costs, and profitability.
+5. Develop a growth strategy including marketing and expansion plans.
+6. Describe operational plans including staffing, production, and technology.
+7. Conduct a risk analysis and contingency plans.
+
+# Output Format
+
+Present the business plan in a well-structured written format with appropriate headings and subheadings. Use bullet points or numbered lists for clarity where needed. Include charts or tables if required for financials or market analysis (described textually if graphics can't be generated).
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
