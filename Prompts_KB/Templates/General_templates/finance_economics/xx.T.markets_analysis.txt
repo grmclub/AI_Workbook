@@ -43,17 +43,18 @@ The 15 real-world generative AI use cases detailed by AFP include:
     • Dashboard Design: Prompting language models to format output tabs complete with relevant charts, data visualization, and financial summaries
 
 -------------------------------------------------
+======================
 what's going on in APAC markets today
 provide a concise executive summary 
 list key risks and opportunities from market trends 
-
+======================
 what's going on in APAC markets today
 provide a concise executive summary 
 List main market movers
 List recent news impacting volatility 
 List key upcoming APC economic events
 List key risks and opportunities from market trends 
-
+======================
 Generate a concise executive summary with bullet points of events in APAC equity markets today. Provide the following details 
 Highlight main market movers
 Highlight recent news impacting volatility 
@@ -160,10 +161,54 @@ Base your conclusions strictly on quantitative trends rather than speculative se
 ======================
 ======================
 -------------------------------------------------
+##Details on trading circuit breakers and sidecar mechanics
+https://global.krx.co.kr/contents/GLB/01/0109/0109000000/guide_to_trading_in_the_korean_stock_market.pdf
+https://cryptorank.io/news/feed/6f915-korea-exchange-kospi-sell-sidecar
+
+To maintain structural stability during periods of extreme volatility, the Korea Exchange (KRX) deploys two distinct layers of emergency market interventions: Sidecars and Circuit Breakers. [1]
+Though they are often mentioned together, they serve very different mechanical functions in controlling rapid, panic-driven sell-offs. [1, 2, 3, 4]
+
+1. The Sidecar Mechanic: The Preemptive "Speed Bump"
+Think of a sidecar as a surgical, preemptive tool designed to cool down high-speed algorithmic and program trading before it can crash the broader spot market. [1, 2]
+    • Targeted Impact: It does not stop the market. It only suspends automated, computer-driven program trading orders for 5 minutes.
+    • Retail Exception: Manual, retail buy and sell orders from individual investors continue to execute completely uninterrupted.
+    • Operational Limit: Can only be triggered once per trading day per market. It becomes completely inactive during the final 40 minutes of the trading day (after 15:10).
+	
+Trigger Thresholds by Index
+=========================================================================================================================
+Market        |Underlying Futures Index Monitored|Trigger Conditions (Must last ≥ 1 minute)
+=========================================================================================================================
+KOSPI Bourse  |KOSPI 200 Futures                 |Price moves ±5% or more from the previous day's close.
+KOSDAQ Bourse |KOSDAQ 150 Futures                |Price moves ±6% (or up to ±3-5% depending on specific contract tiers)
+
+=========================================================================================================================
+
+2. Market-Wide Circuit Breakers: The Full Emergency Brake
+If a sell-off deepens past programmatic volatility, the KRX activates its comprehensive, Market-Wide Circuit Breakers. Unlike the sidecar, this acts as a total trading freeze.
+    • Total Freeze: Suspends all trading—including stocks, futures, options, after-hours trades, and treasury stock purchases.
+    • The 1-Minute Rule: The drop must be sustained for at least one consecutive minute to trigger a phase.
+    • Phase Restrictions: Phase 1 and Phase 2 cannot be triggered after 14:50. Phase 3 can trigger at any time until market close. [1]
+The Three-Phase Trigger Hierarchy
+    1. Phase 1 (8% Drop): If the index falls 8% or more below the previous day's close, the entire market is entirely suspended for 20 minutes. (Only order cancellations are allowed during this freeze). 
+    2. Phase 2 (15% Drop): If the index drops 15% or more from the previous day's close AND falls an additional 1% or more from the Phase 1 activation point, market trading is suspended for another 20 minutes. 
+    3. Phase 3 (20% Drop): If the index plummets 20% or more from the previous day's close AND drops an additional 1% or more from the Phase 2 activation point, the market closes for the remainder of the trading day.
+
+Summary of Differences
+    • Sidecars look exclusively at the futures market to temporarily block program algorithms for 5 minutes, allowing liquidity to naturally buffer. [1, 2]
+    • Circuit Breakers look directly at the spot market indexes (KOSPI/KOSDAQ) and legally shut down the exchange floor to stop systemic panic
+
 -------------------------------------------------
 ------------------------------------------------- 
-
-
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+------------------------------------------------- 
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+------------------------------------------------- 
 
 
 
