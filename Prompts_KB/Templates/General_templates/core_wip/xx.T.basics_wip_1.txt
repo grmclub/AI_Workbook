@@ -157,42 +157,13 @@ Use this for more dramatic, high-contrast, or action-oriented portraits.
 
 
 -------------------------------------------------
-"Anime portrait from [character in the uploaded image ], wearing [a formal shirt and a jacket with collar]. High-quality digital art, modern anime style, clean line art, soft cinematic lighting, facing towards the sunrise, vibrant color palette, 8k resolution, trending on Pixiv."
+"Anime portrait from [character in the uploaded image ], wearing [a formal shirt and a battle jacket with collar]. High-quality digital art, modern anime style, clean line art, soft cinematic lighting, facing towards the sunrise, vibrant color palette, 8k resolution, trending on Pixiv."
 
-summarize and categorize best quotes of chanakya
-summarize and categorize best quotes of thirukkal
+"Anime character portrait from [character in the uploaded image], Makoto Shinkai art style, cinematic lighting, lens flare, incredibly detailed eyes, emotional expression, soft bokeh background, ethereal atmosphere, masterpiece, vibrant colors, high fidelity."
+
+
+"Dark fantasy anime style portrait from [character in the uploaded image], sharp angular features, intense expression, dramatic chiaroscuro lighting, deep shadows, moody color grading, high-quality digital illustration, intricate details, inspired by Dark Souls or Jujutsu Kaisen."
 -------------------------------------------------
-deep dive into Value Stream Mapping (VSM)
-deep dive into Wardley Mapping and analyse core steps and present as an executive summary
-deep dive and prepare an executive summary for IT consulting strategic foresight engine
-
-Deep Dive: Core Components of the Foresight Engine display graphics showing inputs and outputs with steps and components
-
-Create a professional engineering teaching infographic of [Core Components of the Foresight Engine]
-Fully labeled components with educational descriptions
-Transparent and exploded sections revealing internal architecture
-Show clear arrows to denote the flow in a linear fashion
-Output:
-A4 format (1:1.414), 2480×3508 px or higher resolution, ultra-sharp.
-
-
-simplify diagram to show basic components only. remove extra clutter
-increase font sizes and simplify diagram
-
-
--------------------------------------------------
-You're a senior educator.
-generate a one page summary to explain physics concepts of Forces and Motion that capture the core meaning of the content.
-Focus on:
-– foundational concepts and definitions
-– key relationships between ideas
-– recurring patterns or themes
-– real-world applications
-constraints: simplify to explain to 14 year old high school student with special needs 
-Goal: help me fully understand the material, not just summarize it.
-
-generate graphics to explain above concepts simply 
-
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
