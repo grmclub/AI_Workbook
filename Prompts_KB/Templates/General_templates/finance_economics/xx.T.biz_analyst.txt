@@ -1,0 +1,225 @@
+
+https://mljar.com/ai-prompts/business-analyst/process-analysis/	
+https://www.glean.com/blog/30-ai-prompts-for-finance-professionals
+------------------------------------------------- 
+Bottleneck Identification
+
+This prompt helps analyze how work flows through a business process and where that process can be improved. It is useful for documenting current ways of working, finding waste, identifying constraints, and designing better future-state operations. The output should support both diagnosis and action, not just description. It finds the process step that most constrains flow and prioritizes fixes based on business impact.
+
+Identify and prioritize the bottlenecks in this business process using the data provided.
+
+A bottleneck is a step where work accumulates, throughput is constrained, or cycle time is disproportionately long.
+
+1. For each process step, analyze:
+   - Average cycle time (how long does this step take?)
+   - Wait time before this step (how long does work sit waiting to be processed?)
+   - Volume (how many units pass through this step per day/week?)
+   - Error rate and rework rate at this step
+   - Utilization rate of the resource at this step (% of time actively working)
+
+2. Calculate total cycle time vs total value-add time: what % of end-to-end time actually adds value?
+
+3. Apply the Theory of Constraints: identify the single biggest constraint. Everything else is secondary until this is resolved.
+
+4. For each bottleneck identified:
+   - Root cause: is it a people, process, system, or data problem?
+   - Business impact: what is the cost of this bottleneck in time, money, or customer experience?
+   - Recommended fix: quick win vs longer-term solution
+
+Return: bottleneck analysis table, constraint identification, and prioritized improvement actions.
+
+
+Process Map
+
+This prompt helps analyze how work flows through a business process and where that process can be improved. It is useful for documenting current ways of working, finding waste, identifying constraints, and designing better future-state operations. The output should support both diagnosis and action, not just description. It documents a business process in a structured, role-based format that is easy to review and improve.
+
+Create a structured process map for: {{process_name}}
+
+Based on the provided process description or interview notes:
+
+1. Document the process in a standard swim-lane format:
+   - Identify the actors/roles involved (each gets a swim lane)
+   - List each step in sequence
+   - Show decision points (diamonds) with Yes/No branches
+   - Show where inputs enter and outputs leave the process
+   - Show system touchpoints at each step
+
+2. Since this is text-based, represent the process map as:
+   - A numbered step list with the actor, action, system, and decision/output for each step
+   - Indented sub-steps for branches
+
+3. Add metadata per step:
+   - Average time to complete
+   - Who is responsible (RACI: Responsible, Accountable, Consulted, Informed)
+   - System or tool used
+   - Common errors or exceptions
+
+4. Summarize: total end-to-end time, total number of handoffs, and total number of decision points
+
+Return: structured process map, step metadata table, and summary statistics.
+
+
+Process Redesign Proposal
+
+This prompt helps analyze how work flows through a business process and where that process can be improved. It is useful for documenting current ways of working, finding waste, identifying constraints, and designing better future-state operations. The output should support both diagnosis and action, not just description. It proposes a future-state process that reduces waste, time, cost, or errors within real constraints.
+
+Design a redesigned future-state version of this process based on the pain points identified.
+
+Current process summary: {{current_process}}
+Key pain points: {{pain_points}}
+Design constraints: {{constraints}}
+
+1. Define the redesign objectives:
+   - Target cycle time reduction: X%
+   - Target error rate reduction: X%
+   - Target cost reduction: X%
+   - Any regulatory or compliance constraints to maintain
+
+2. Apply redesign principles:
+   - Eliminate: which steps add no value and can be removed entirely?
+   - Automate: which steps are repetitive, rules-based, and suitable for automation?
+   - Simplify: which steps can be condensed or combined?
+   - Parallelize: which sequential steps could run simultaneously?
+   - Empower: where could decisions be pushed down to reduce handoffs?
+
+3. Document the redesigned process:
+   - Step-by-step description of the future state
+   - New cycle time and wait time estimates per step
+   - New process efficiency calculation
+
+4. Implementation plan:
+   - Quick wins (implement in <2 weeks)
+   - Medium-term changes (1–3 months)
+   - Long-term changes (3–12 months, may require technology)
+
+5. Risk assessment: what could go wrong with this redesign?
+
+Return: future state process map, efficiency comparison table, and phased implementation plan.
+
+-------------------------------------------------
+RACI Matrix Builder
+
+This prompt helps analyze how work flows through a business process and where that process can be improved. It is useful for documenting current ways of working, finding waste, identifying constraints, and designing better future-state operations. The output should support both diagnosis and action, not just description. It clarifies who does the work, who owns the result, and where accountability gaps exist.
+
+Build a RACI matrix for the process or project: {{process_or_project}}
+
+RACI definitions:
+- R (Responsible): does the work
+- A (Accountable): owns the outcome, approves deliverables. Only one A per task.
+- C (Consulted): provides input before the task is done
+- I (Informed): notified after the task is done
+
+1. List all tasks or decisions in the process as rows
+2. List all roles (not people) involved as columns
+3. For each task × role intersection, assign R, A, C, I, or blank
+
+4. Check for RACI anti-patterns and flag:
+   - Multiple A for a single task: accountability ambiguity — assign one owner
+   - No R for a task: who is actually doing this work?
+   - R without A: work with no accountability — add an owner
+   - Too many C or I on one task: decision-making will be slow — trim the list
+   - A role with no tasks: are they needed?
+
+5. Highlight the top 3 process risks revealed by the RACI analysis
+
+Return: formatted RACI matrix, anti-pattern flags with recommended fixes, and process risk summary.
+
+-------------------------------------------------
+Root Cause Analysis
+
+This prompt helps analyze how work flows through a business process and where that process can be improved. It is useful for documenting current ways of working, finding waste, identifying constraints, and designing better future-state operations. The output should support both diagnosis and action, not just description. It uses proven problem-solving methods to move from symptoms to a changeable root cause.
+
+Conduct a structured root cause analysis (RCA) for this problem: {{problem_statement}}
+
+Use the following structured approach:
+
+1. Problem definition:
+   - What exactly happened? (Specific, measurable)
+   - When did it start? Is it recurring?
+   - What is the business impact? (Quantify: cost, time, customer impact)
+
+2. Five Whys analysis:
+   - Why did the problem occur? [Answer 1]
+   - Why did [Answer 1] occur? [Answer 2]
+   - Continue until you reach the root cause (usually 4–6 levels deep)
+   - Stop when the answer is a system, process, or policy that can be changed
+
+3. Fishbone (Ishikawa) analysis:
+   - Categorize potential causes under: People, Process, Technology, Data, Environment
+   - For each category, list 2–3 contributing factors
+   - Mark which are confirmed, suspected, or ruled out
+
+4. Root cause confirmation:
+   - Which cause, if fixed, would prevent the problem from recurring?
+   - What evidence supports this as the root cause?
+
+5. Corrective actions:
+   - Immediate containment: stop the bleeding now
+   - Root cause fix: prevent recurrence
+   - Systemic improvement: prevent similar problems elsewhere
+
+Return: Five Whys chain, fishbone diagram (text format), confirmed root cause, and action plan.
+
+-------------------------------------------------
+https://mljar.com/ai-prompts/data-analyst/business-insights/
+
+Executive Summary
+
+Executive Summary is a beginner prompt for business insights. This prompt is designed to turn analysis into decisions. It helps the AI extract the most important findings from the data, explain why they matter, and frame actions in business language rather than technical language. Use it when the audience cares more about implications and next steps than methodology. It is best suited for direct execution against a real dataset. The requested output should remain approachable and easy to review, even for someone with limited analytical background.
+
+Analyze this dataset and write a concise executive summary in exactly 3 paragraphs:
+
+Paragraph 1 — Situation: What does this data describe? What is the main trend over the period shown?
+Paragraph 2 — Complication: What is the most significant risk, anomaly, or missed opportunity hidden in the data? Cite at least two specific numbers.
+Paragraph 3 — Recommendation: What is the single most important action to take, who should own it, and by when?
+
+Tone: direct, data-driven, no jargon. Max 200 words total. Write as if presenting to a C-suite audience.
+
+==================
+Segment Performance Breakdown
+
+Segment Performance Breakdown is a intermediate prompt for business insights. This prompt is designed to turn analysis into decisions. It helps the AI extract the most important findings from the data, explain why they matter, and frame actions in business language rather than technical language. Use it when the audience cares more about implications and next steps than methodology. It is best suited for direct execution against a real dataset. The requested output can include more technical detail, prioritization, and interpretation while still staying practical.
+
+
+Analyze the performance of every segment in this dataset.
+
+For each segment, compute:
+- Size (row count and % of total)
+- Mean and median of the primary metric
+- Growth rate vs the prior period
+- Share of total metric contribution
+
+Then:
+- Rank segments from highest to lowest performing
+- Flag any segment with an unusual growth rate (more than 2 standard deviations from the average segment growth)
+- Identify the segment with the highest untapped potential
+- Write 3 concrete strategic recommendations based on the segment findings
+====================
+5 Key Findings
+
+5 Key Findings is a beginner prompt for business insights. This prompt is designed to turn analysis into decisions. It helps the AI extract the most important findings from the data, explain why they matter, and frame actions in business language rather than technical language. Use it when the audience cares more about implications and next steps than methodology. It is best suited for direct execution against a real dataset. The requested output should remain approachable and easy to review, even for someone with limited analytical background.
+
+Analyze this dataset and return exactly 5 key findings, ordered from most to least important.
+
+For each finding:
+- A bold one-sentence headline stating the finding
+- Two to three supporting sentences with specific numbers from the data
+- One sentence on the business implication
+
+Rules:
+- No filler or vague statements. Every sentence must contain a specific number or comparison.
+- Findings must be distinct — no overlapping insights.
+- Use plain language a non-analyst could understand.
+
+End with one sentence: 'The finding that most urgently requires action is [finding N] because [reason].'
+====================
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
