@@ -105,5 +105,19 @@ Use code with caution.
 
 
 -------------------------------------------------
+
+Provide a clear market overview of the [industry] market in [country/region]. Include market size, growth rate, main drivers, constraints, leading trends, and major segments. Cite authoritative sources (IBISWorld, Statista, EIU, MarketLine) when possible.
+
+Conduct a Porter’s Five Forces analysis for the [industry] in [region]. Rate each force (low/medium/high) and justify your ratings with evidence.
+
+Evaluate the feasibility of entering the [industry] market in [region]. Assess regulations, capital requirements, supply chain issues, customer acquisition challenges, and early competition.
+
+
+Forecast the [industry] market through 2030. Provide low, medium, and high scenarios with assumptions, risks, and catalysts.
+
+Identify 10 major trends shaping the [industry] market. For each trend, include drivers, maturity level, and competitive implications.
+
+Forecast the [industry] market through 2030. Provide low, medium, and high scenarios with assumptions, risks, and catalysts.
+
 -------------------------------------------------
 ------------------------------------------------- 
