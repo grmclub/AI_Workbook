@@ -1,0 +1,109 @@
+
+https://tradingeconomics.com/japan/stock-market
+
+-------------------------------------------------
+list best prompts for economic trend analysis
+==============================
+"Act as a Lead Economist and Macro Trend Analyst. Conduct a comprehensive macroeconomic analysis of [Country Name] covering the last [Number] years.
+Please structure your response as follows:
+    1. GDP Trajectory: Analyze real GDP growth rate, sectoral composition (services vs. manufacturing/agriculture), and drivers of growth.
+    2. Inflation & Monetary Policy: Detail current inflation rates, purchasing power, and the central bank's interest rate trends.
+    3. Labor Market: Assess the unemployment rate, wage growth, and labor productivity.
+    4. Trade & Investment: Evaluate the balance of trade (surplus/deficit) and foreign direct investment (FDI).
+    5. Fiscal Health: Review government debt levels and fiscal policy direction.
+    6. Outlook: Provide a 12-month economic forecast, highlighting primary risks and growth opportunities.
+Please cite authoritative data sources for your metrics (e.g., World Bank, IMF, or the country's central bank)."
+
+==============================
+combine all the prompts below to give a concise prompt to analyse of economic trends for a particular country
+
+Act as a chief global macro strategist. Provide a concise, institutional-grade executive summary analyzing the current economic trends and structural trajectory for [Insert Country]. To ensure a comprehensive macro assessment, structure your analysis into the following four distinct sections:
+
+1. Monetary Policy & Liquidity: Detail the central bank's current interest rate path, quantitative tightening/easing parameters, and any recent government policy changes affecting systemic liquidity or state pension fund allocations.
+2. Inflation & Labor Market Dynamics: Assess the transmission mechanism between wholesale price pressures (input/import costs) and core consumer CPI. Evaluate how recent wage negotiations are interacting with real household purchasing power and corporate profit margins.
+3. Supply Chain & Trade Balance: Analyze how the nation's current foreign exchange (FX) rate is impacting its export competitiveness vs. import costs. Highlight corporate CapEx trends into frontier technology (e.g., AI, automation) and strategic industrial policy pushes.
+4. Consumer Health & Domestic Demand: Evaluate the structural health of the domestic consumer engine using disposable income trends, retail/service sector activity (including tourism if applicable), and structural bottlenecks challenging household consumption.
+
+Conclude with a bulleted matrix of the top 3 structural risks and top 3 tactical opportunities resulting from these combined trends.
+output the data in markdown tables for easy import into Excel
+==============================
+Prompt 1: Central Bank Policy Transmission & Liquidity Tracking
+text
+Act as a chief global economist. Analyze the current monetary policy stances of major central banks (e.g., US Federal Reserve, ECB, BOJ, RBA) and their structural transmission mechanisms into the broader economy. Detail how shifts in quantitative tightening/easing parameters and benchmark interest rates are impacting commercial lending standards, corporate debt refinancing cycles, and overall systemic liquidity. Highlight the top three leading indicators that signal an imminent shift in central bank posture.
+Use code with caution.
+
+Prompt 2: Labor Market Resilience & Wage-Push Inflation Dynamics
+text
+Act as a labor economist and macro strategist. Evaluate structural shifts in the global workforce, focusing on labor force participation rates, structural skills mismatches, and the impact of demographic aging. Analyze the transmission loop between nominal wage growth and core service inflation. Provide a structured matrix showing which industries are successfully absorbing rising labor costs through automation and productivity gains, and which are experiencing severe margin compression.
+Use code with caution.
+
+Prompt 3: Global Supply Chain Reconfigurations & Trade Flow Disruptions
+text
+Act as a global supply chain risk consultant. Map out ongoing structural reconfigurations in global trade, including near-shoring, friend-shoring, and the establishment of parallel manufacturing hubs. Evaluate how geopolitical frictions, shipping bottlenecks (e.g., strategic maritime straits), and localized industrial policies (such as tariffs and subsidies) are altering the input cost structures for multinational corporations. Identify the net geographic and sector winners of these reconfigurations.
+Use code with caution.
+
+Prompt 4: Capital Expenditure Cycles & Frontier Tech Integration
+text
+Act as an industrial trend and technology economist. Analyze aggregate corporate capital expenditure (CapEx) trends across major global economies. Specifically, evaluate the economic return on investment (ROI) and productivity gains stemming from corporate spending on artificial intelligence, cloud infrastructure, automation, and green energy transitions. Outline a framework to determine whether this CapEx cycle is driving structural, long-term GDP growth or inflating localized asset bubbles.
+Use code with caution.
+
+Prompt 5: Fiscal Policy Trajectory & Sovereign Debt Sustainability
+text
+Act as a sovereign risk analyst. Evaluate the macroeconomic impact of expansionary fiscal policies and rising sovereign debt-to-GDP ratios across developed economies. Analyze how sustained government spending on infrastructure, defense, and social safety nets interacts with prevailing monetary policy. Provide a long-term risk framework detailing how elevated borrowing costs impact government deficit crowding-out effects on private capital investment.
+Use code with caution.
+
+Prompt 6: Consumer Sentiment & Real Household Purchasing Power
+text
+Act as a consumer behavior macroeconomic analyst. Evaluate the structural health of the global consumer engine by analyzing real household disposable income, personal savings rates, and revolving credit utilization trends. Assess whether current consumer spending patterns are being sustained by real wage growth or by an unsustainable reliance on debt accumulation. Highlight the inflection points where a contraction in consumer confidence would most heavily hit cyclical vs. defensive economic sectors.
+Use code with caution.
+
+To tailor these prompts effectively to your workflow, let me know:
+    • Which specific geographic region or country are you targeting (e.g., North America, Eurozone, or Emerging Markets)?
+    • What is the primary asset class you seek to evaluate using this trend data (e.g., macro fx, sovereign bonds, or broad equity indexes)?
+    • Do you want to inject specific historical economic benchmarks (e.g., the 1970s stagflation era or the 2008 financial crisis) for comparative analysis?
+
+
+
+-------------------------------------------------
+list common prompts for analysing APAC equities market trends
+
+Supply Chain & Geopolitical Vulnerabilities
+Act as a global supply chain and geopolitics risk expert. Map out the critical vulnerabilities facing the APAC technology hardware, semiconductor, and clean energy equity sectors due to regional shipping frictions or cross-border trade restrictions. Identify which specific manufacturing hubs (e.g., in India, Vietnam, or Malaysia) are emerging as net institutional winners during these reconfigurations.
+
+
+Sector Valuation & Technical Screening
+Act as a quantitative equity analyst. Develop a comprehensive screening framework to spot sector-wide valuation anomalies across APAC equities. Use metrics such as Forward Price-to-Earnings (P/E), Price-to-Book (P/B), and Enterprise Value-to-EBITDA (EV/EBITDA). Compare these current ratios against their trailing 5-year historical medians to flag which regional sectors are technically oversold despite robust operational fundamentals.
+
+ 
+-------------------------------------------------
+##specialized prompts: two configured for structural Long-Term Asset Allocation (LTAA) and 
+two optimized for momentum-driven Short-Term Trading Strategies (STTS).
+
+##prompts for long-term asset allocation or short-term trading strategies
+
+Strategy Tier 1: Long-Term Asset Allocation (LTAA)
+Use these prompts to build structural portfolios, evaluate multi-year secular trends, and analyze macroeconomic policy changes. [1, 2]
+Prompt 1: Structural Secular Themes & Demographic Tailwinds
+text
+Act as a chief investment officer (CIO) specializing in long-term global asset allocation. Analyze the APAC equity landscape over a 5-to-10-year investment horizon. Evaluate how long-term structural themes—specifically demographic shifts (e.g., aging populations in Japan/Korea vs. expanding middle classes in India/Southeast Asia), national corporate governance reforms (like Japan's corporate Value-Up initiatives), and green energy transitions—should dictate strategic asset allocation weights across regional indices. Provide a recommended long-term structural overweight and underweight framework based on these fundamentals.
+Use code with caution.
+Prompt 2: Valuation Cycle Mean Reversion
+text
+Act as a value-focused portfolio manager. Analyze long-term valuation cycles across APAC equities using cyclically adjusted metrics (e.g., Shiller PE, long-term Price-to-Book, and Dividend Yield trends) over the past 15 years. Determine which regional markets or sectors are trading at deep structural discounts relative to their historical means due to temporary macroeconomic clouds. Design an accumulation framework for institutional capital that minimizes entry risk over a 24-month rolling deployment schedule.
+Use code with caution.
+
+Strategy Tier 2: Short-Term Trading Strategies (STTS)
+Use these prompts to capture rapid intraday or multi-day alpha, track sudden capital flows, and manage tactical risk. [1]
+Prompt 3: High-Frequency Sentiment & Volatility Arbitrage
+text
+Act as a cross-asset quantitative prop trader. Analyze short-term, high-frequency momentum across APAC equities using real-time inputs: front-month implied volatility skew (e.g., Nikkei VI, VHSI), dynamic bid-ask spread widening, and short-term moving average crossovers (e.g., 5-day vs. 20-day EMA). Outline a 5-to-10-day tactical trading strategy to exploit overnight pricing gaps caused by US/European market sessions spilling over into the APAC market open, focusing specifically on high-beta technology and liquid index futures.
+Use code with caution.
+Prompt 4: Intraday Volume Anomalies & Micro-Liquidity Shocks
+text
+Act as an institutional execution trader. Design a short-term trading prompt to scan for intraday volume anomalies where current volume over a rolling 15-minute window exceeds the 20-day historical average by 2.5 standard deviations. Map out an execution matrix that evaluates whether these sudden spikes represent structural institutional block distribution (selling pressure) or institutional accumulation. Include a strict risk-management framework detailing maximum volume participation rates (e.g., VWAP caps) to prevent execution slippage in thin order books.
+Use code with caution.
+
+
+-------------------------------------------------
+-------------------------------------------------
+------------------------------------------------- 
