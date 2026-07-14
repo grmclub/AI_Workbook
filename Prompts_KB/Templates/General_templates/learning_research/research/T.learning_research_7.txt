@@ -1,0 +1,34 @@
+
+-------------------------------------------------
+Research Design Prompt (ChatGPT)
+
+"Act as an expert academic methodologist. I am developing a research study with the following core parameters:
+    • Research Topic: [Insert your specific topic, e.g., the impact of remote work on employee retention in the tech sector]
+    • Research Question: [Insert your primary research question]
+    • Objective: [Insert what you want to achieve, e.g., to identify causal factors of turnover]
+    • Constraints: [Insert any constraints, e.g., qualitative or quantitative, timeframe, sample population]
+Based on these details, please generate a complete research design draft. Include the following sections:
+    1. Research Design: Recommend a design (e.g., cross-sectional, phenomenological, RCT) and justify why it fits my objective.
+    2. Population & Sampling: Suggest an appropriate sampling technique (e.g., purposive, stratified random) and target sample size.
+    3. Data Collection: Propose valid and reliable data collection instruments.
+    4. Data Analysis: Recommend specific statistical or thematic analysis methods.
+    5. Limitations & Validity: Identify potential biases or limitations and suggest mitigation strategies.
+Please format this as an organized outline and ask me up to 3 clarifying questions if any of my parameters are unclear."
+
+To narrow down the results, refine search with:
+Is your research primarily qualitative, quantitative, or mixed methods?
+What is your target population or geographic location?
+
+-------------------------------------------------
+------------------------------------------------- 
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
