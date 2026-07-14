@@ -1,0 +1,206 @@
+
+https://note.com/ai_hajimete
+-------------------------------------------------
+ChatGPT Slash Commands | 6 Commands to Improve Your Text and Create "Easy-to-Read" Documents
+https://note.com/ai_hajimete/n/nb54acadb7069
+
+An Introduction to Slash Commands: How to Improve ChatGPT's Operational Efficiency
+https://note.com/ai_hajimete/n/n59bb334be47d
+
+ChatGPT's Slash Commands | 11 Commands to Help You Understand Difficult Information in Seconds
+https://note.com/ai_hajimete/n/na57cb271e189
+
+What is Generative AI? An essential beginner's guide for those who don't know about it.
+https://note.com/ai_hajimete/n/n500fdcb8144e
+
+How to Use ChatGPT [Beginner's Guide]: A Complete Guide to Understanding and Trying It Right Away
+https://note.com/ai_hajimete/n/n435b3cdc4883
+
+AI beginners, don't get lost! I'll teach you the two things you should start with.
+https://note.com/ai_hajimete/n/n387e67cadf5f
+
+How to streamline research and information gathering with AI | Achieving both accuracy and speed with ChatGPT x Gemini
+https://note.com/ai_hajimete/n/nc1f52341d746
+
+For those who don't have time to read documents | How to grasp only the essentials with AI
+https://note.com/ai_hajimete/n/ne5c3dafb5a6c
+
+How to streamline research and information gathering with AI | Achieving both accuracy and speed with ChatGPT x Gemini
+https://note.com/ai_hajimete/n/nc1f52341d746
+
+-------------------------------------------------
+What are the information gathering methods of those who move the world?
+https://note.com/rurachan/n/nbd3b4a39d4c0
+
+Common traits of people who gather information quickly | Deciding the scope of what to entrust to AI
+https://note.com/junk_0528/n/n310102e8eee7
+
+Gather information by going out and exploring.
+https://note.com/ai_hajimete/n/n59bb334be47d
+
+With Love (AI): 📰Where do news sources come from? 🤔ℹ️10 ways to gather information
+https://note.com/watabin/n/n63fc90d33e45
+
+📱 Three image generation techniques I picked up from TikTok Shorts
+https://note.com/jersey_cat_note/n/n6edb5bf0350d
+
+
+-------------------------------------------------
+[Week 1] How to Use Grok AI: What is Grok? A 3-minute explanation of the true identity of X's official AI and its differences from ChatGPT.
+https://note.com/next_lunch/n/n24dea494284d
+
+-------------------------------------------------
+The essential difference from conventional information gathering
+The information gathering process up until now has generally followed this flow:
+
+Think of search keywords
+Search using a search engine
+Read multiple articles or pages
+Extract the necessary parts.
+I'll summarize it myself.
+
+In other words, all three processes—searching, reading, and compiling—had to be done manually.
+
+On the other hand, this trend changes dramatically when AI is utilized.
+
+Ask the AI ​​a question
+Receive a compiled response.
+Further questions will be asked as needed to delve deeper.
+
+There is a possibility that incorrect information may be included.
+The timeliness of the information may not always be guaranteed.
+
+-------
+There are two types of AI research.
+
+##Stock-based research (knowledge base)
+Stock-based research is a type of research that utilizes the accumulated knowledge that AI already possesses.
+
+This is an area where ChatGPT excels, and it is particularly effective in the following situations:
+
+Acquisition of fundamental concepts
+Clarification of terminology and concepts
+Structural organization of information
+Extracting and articulating key points
+
+You can get highly accurate answers to questions such as "What exactly is XX?" and "What are the advantages and disadvantages of XX?".
+-------
+## Flow-type research (latest information)
+Flow-based research deals with information that is constantly changing and the latest trends.
+
+This is an area where Google Gemini excels, and it is well-suited for the following types of research:
+
+Latest news and topics
+Overall market trends
+Understanding industry trends
+Recent developments of competitors
+
+In rapidly changing fields, the use of flow-based research is essential.
+-------
+Step 1: Create a research design using ChatGPT.
+The first thing you should do is to clarify "what to investigate and from what perspective."
+
+Instead of blindly starting to gather information, we use ChatGPT to create a blueprint for our research.
+
+For example, you can ask ChatGPT the following question:
+
+What aspects should be investigated?
+What kind of information is needed?
+Where should we delve deeper?
+
+Going through this design stage creates a central focus for the research.
+-------
+Step 2: Gather the latest information using Gemini
+Once the design plans are complete, it's time to move on to the information gathering stage. This is where Google Gemini comes in handy.
+
+We will focus on collecting the following information in particular:
+
+Latest news from around the world
+Industry and market trends
+Specific examples
+Numerical and statistical data
+-------
+Step 3: Organize and summarize information using ChatGPT.
+The collected information is often difficult to use in its raw form. We will use ChatGPT again to perform the following steps.
+
+Extracting key points
+Organized by category
+Comparison of options
+
+This organizing process transforms scattered information into a usable format all at once.
+-------
+Step 4: Use Gemini to verify and obtain additional information.
+The next step is to improve the reliability of the collected information.
+
+We will use Google Gemini again to check the following points.
+
+Is that information factually accurate?
+Has the information been updated to be more recent?
+Are there any perspectives we're overlooking?
+
+Adding this extra step will raise the overall credibility of the information by one level.
+-------
+Step 5: Summarize the final output.
+The final step is to take a bird's-eye view of the whole picture and draw a conclusion.
+
+Using ChatGPT again here will allow the next steps to proceed smoothly.
+
+Articulating the conclusion
+Formatting text for easier reading
+Construction of a logical structure
+
+-------
+Tip 1: Separate "collecting" and "organizing" as two different tasks.
+This is the most fundamental idea.
+
+When gathering information: Prioritize freshness and comprehensiveness.
+When organizing information: Emphasize structuring and summarizing.
+
+Tip 2: Don't try to answer all questions in one go.
+AI cannot provide perfect answers in a question-and-answer format.
+
+By asking follow-up questions, revisiting the same topic from a different angle, and seeking additional information
+, the accuracy of the information gradually improves through this accumulation of dialogue.
+
+Tip 3: Design questions from multiple perspectives.
+Even with the same theme, simply changing how you frame the question can drastically alter the nature of the information you obtain.
+
+For example, by formulating questions from multiple perspectives, such as advantages and disadvantages, success patterns and failure patterns, and the viewpoints of beginners and advanced users, the comprehensiveness of the information can be significantly improved.
+
+Tip 4: Always verify numbers and data from the original source.
+While AI excels at generating text, the accuracy of specific numerical data is not always guaranteed.
+
+Make it a habit to always verify decision-making figures, such as market size, sales data, and statistical figures, using primary sources.
+
+Tip 5: Develop the habit of starting with primary sources.
+To conduct reliable research, it is essential to ultimately arrive at primary sources.
+
+Official websites, academic papers, and official company announcements are prime examples of reliable information sources. AI should only be used as an entry point for research; it is crucial to directly verify the original data for core information.
+
+-------
+Caution 1: The possibility of misinformation (hallucination) occurring.
+
+Note 2: The information may not be up-to-date.
+
+Point to note 3: Responses may be biased in a particular direction.
+
+Note 4: The AI's answer is secondary information.
+
+Caution 5: Avoid excessive reliance on AI.
+-------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
+
+
+
+
+
+
+
