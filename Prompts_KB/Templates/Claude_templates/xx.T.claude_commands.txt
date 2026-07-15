@@ -142,6 +142,47 @@ Type this word in any prompt and Claude shifts into its deepest reasoning mode �
 
 
 -------------------------------------------------
+8 Claude fable 5 commands that help you get more from every prompt—and make every token count. 🧵
+
+1.
+/compact : Your context window fills up fast. When it does, Claude starts forgetting what you said 20 minutes ago.
+/compact compresses the conversation into a summary without losing the thread.
+This one alone saves you from wasting tokens on repeated context.
+
+2.
+/goal : Set a finish line. Tell Claude what "done" looks like and it keeps working across turns until it gets there. A separate smaller model checks after every step whether the goal is met. You don't babysit it.
+/goal all tests in auth pass and lint is clean
+Walk away.
+
+3.
+/ultrareview : This one's wild. It doesn't do a single code review. It spins up multiple agents that each review your code independently with different checklists, then synthesizes the results.
+Issues flagged by multiple agents get bumped to high priority.
+Run it before every PR.
+
+4.
+/btw : Ask a side question without polluting your main conversation. Need to check something quick mid-task?
+/btw keeps it out of the context so Claude doesn't get confused about what it's actually working on.
+Small command, saves a lot of wasted turns.
+
+5.
+/loop : Set a recurring check on a schedule. Different from /goal. This one watches for something to change, not push toward a finish line.
+/loop 5m check if the deploy went green
+It checks every 5 minutes and reports back. You're not driving. You're monitoring.
+
+6.
+/effort : Not every task needs max reasoning.
+/effort low for boilerplate, /effort max for hard architecture problems. You control how much thinking Claude does per turn.
+At API rates, this is the difference between a $2 session and a $20 one.
+
+7.
+/plan : Before any big change, switch to plan mode. Claude shows you exactly which files it'll touch, why, and in what order. You approve the plan before a single character changes.
+One bad refactor on API pricing can burn through your entire budget.
+
+8.
+/resume : Pick up yesterday's session exactly where you left off. No re-explaining, no rebuilding context from scratch.
+Most people restart every morning and waste the first 10 minutes getting Claude back up to speed. After tomorrow, those 10 minutes cost you.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
