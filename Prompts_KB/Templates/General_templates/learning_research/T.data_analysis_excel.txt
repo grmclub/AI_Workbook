@@ -86,6 +86,44 @@ You can:
 
 
 -------------------------------------------------------------
+🚨 CLAUDE CAN ANALYZE EXCEL FILES LIKE A DATA ANALYST.
+Most people don't know this feature exists.
+Here are 8 prompts to try: 👇
+
+1️/ Understand Any Spreadsheet.
+Upload your Excel file and use:
+Prompt:
+Act as a senior data analyst. Before analyzing, develop a complete understanding of this spreadsheet. Explain its purpose, business context, key metrics, relationships between columns, how the data flows, and what each field contributes. Identify data quality issues, missing context, and assumptions. Finish with a concise briefing that enables a new analyst to confidently work with this dataset.
+
+2️/ Analyze the Data Like a Senior Analyst
+Prompt:
+Perform a comprehensive analysis of this dataset. Identify the most significant trends, patterns, correlations, anomalies, seasonality, outliers, and performance drivers. Distinguish facts from assumptions, support every conclusion with evidence from the data, explain why each insight matters, and rank all findings by business impact.
+
+3️/ Generate Excel Formulas
+Prompt:
+Review this spreadsheet and identify the highest-value calculations that are currently missing. Generate the exact Excel formulas needed, explain where each should be used, what it measures, why it matters, and how it improves reporting, forecasting, or decision-making. Prioritize recommendations by business value.
+
+4️/ Clean & Validate the Data
+Prompt:
+Conduct a complete data quality audit. Detect duplicates, missing values, inconsistent formatting, invalid records, outliers, broken formulas, logical inconsistencies, and suspicious data. Explain how each issue affects analysis, rank issues by severity, and provide the fastest, most reliable plan to create a clean, trustworthy dataset.
+
+5️/ Find Hidden Business Insights
+Prompt:
+Act as a senior strategy consultant. Go beyond obvious observations to uncover hidden growth opportunities, profit drivers, customer behavior patterns, operational bottlenecks, cost-saving opportunities, risks, and emerging trends. Support every insight with evidence, estimate its potential business impact, and recommend the highest-priority actions.
+
+6️/ Build an Executive Dashboard
+Prompt:
+Design an executive dashboard that gives leadership everything they need at a glance. Recommend the essential KPIs, charts, filters, scorecards, and layout. Explain why each metric deserves a place, what decision it supports, and how the dashboard should be structured for maximum clarity and impact.
+
+7️/ Forecast Future Performance
+Prompt:
+Using the historical data, forecast future performance and explain your methodology. Predict key metrics, identify expected trends, risks, opportunities, and confidence levels, then model best-case, expected-case, and worst-case scenarios. Conclude with strategic recommendations based on your forecast.
+
+8️/ Write an Executive Report
+Prompt:
+Prepare a board-level executive report based on this dataset. Summarize the most important KPIs, trends, risks, opportunities, root causes, and strategic recommendations. Prioritize findings by financial and operational impact, highlight the top decisions leadership should make, and finish with a clear action plan for the next 90 days.
+
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
