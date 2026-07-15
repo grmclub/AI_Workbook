@@ -1,0 +1,38 @@
+
+
+-------------------------------------------------
+https://prowriting.web.illinois.edu/wp-content/uploads/2025/01/GuyHartDavis_2023_Chapter5ChatGPTPrompt_KillerChatGPTPromptsH.pdf
+
+Summarize URL
+ChatGPT reads the article and returns a summary.
+Without the Web Browsing Model enabled, you must paste into
+the Send a Message box the content you want ChatGPT to summarize.
+Give the “Summarize” prompt, paste the material, and press Enter.
+
+Summarize pasted_material
+This method works fine, and is usually quicker than having
+ChatGPT access the material on the web, but it means that the content can be only up to 4096 tokens long (including the “Summarize”
+keyword), so you cannot summarize longer articles.
+Leaving the “Summarize” prompt open like this lets ChatGPT
+decide on the length of summary to create. Results vary depending on
+how long the article is and what its contents are, but ChatGPT typically delivers an introductory paragraph, a number of key points, and a
+concluding paragraph.
+
+If you want ChatGPT to keep the summary to a certain length,
+give the limit. For example:
+
+Summarize in 50 words URL
+
+PROMPT
+ EBSCOhost - printed on 1/17/2025 2:20 PM via UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN. All use subject to https://www.ebsco.com/terms-of-use
+ChatGPT Prompts for Research and Analysis 79
+Alternatively, you might ask for a specific number of key points.
+For example:
+Summarize in three key points URL
+Analyze Data
+ChatGPT can help you to analyze data you have captured. ChatGPT 
+------------------------------------------------- 
+-------------------------------------------------
+------------------------------------------------- 
+-------------------------------------------------
+------------------------------------------------- 
