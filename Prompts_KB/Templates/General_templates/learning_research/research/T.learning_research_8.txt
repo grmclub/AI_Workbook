@@ -147,6 +147,49 @@ Once that raw competitor data is loaded into NotebookLM, it’s time to synthesi
 
 
 -------------------------------------------------
+🚨 NOTEBOOKLM IS CHANGING HOW PEOPLE STUDY.
+If you're still reading PDFs from start to finish, you're doing extra work.
+Here are 9 prompts that turn information into understanding:
+
+1️/ AI Study Guide Builder
+Prompt:
+Analyze every uploaded source related to [Subject/Topic] and create the ultimate study guide. Organize the material into logical sections, explain complex ideas in simple language, highlight key definitions, formulas, dates, and concepts, identify recurring themes across documents, and end with a one-page revision sheet containing everything I need to remember.
+
+2️/ Personal AI Tutor
+Prompt:
+Teach me [Subject/Topic] using only my uploaded sources. Assume my current knowledge level is [Beginner/Intermediate/Advanced] and tailor every explanation accordingly. Use analogies, real-world examples, step-by-step reasoning, and visual descriptions to simplify difficult concepts. Regularly test my understanding before moving to the next topic.
+
+3️/ Smart Flashcards & Active Recall
+Prompt:
+Turn my uploaded materials into a complete active recall study system. Create flashcards, fill-in-the-blank questions, concept checks, scenario-based questions, and short-answer quizzes with answers and explanations. Organize them from easy to difficult and prioritize the topics that appear most frequently across my sources.
+
+4️/ Exam Preparation Assistant
+Prompt:
+Act as an examiner for [Course/Exam Name]. Using only my uploaded materials, generate realistic multiple-choice, short-answer, essay, and case-study questions. Then provide detailed marking schemes, model answers, common mistakes students make, and recommendations for earning full marks.
+
+5️/ 80/20 Learning Accelerator
+Prompt:
+Identify the 20% of concepts from my uploaded sources that will help me understand 80% of [Subject/Topic]. Explain why these ideas matter, simplify them with examples and analogies, connect related concepts, and create the fastest learning roadmap based on my goal of [Passing an Exam/Mastering the Subject/Preparing for an Interview/etc.].
+
+6️/ Knowledge Gap Analyzer
+Prompt:
+Review all my uploaded materials and assess my understanding by asking progressively harder questions. Identify my weak areas, explain what I'm missing, recommend what I should study first, and build a personalized improvement plan based on my target of [Exam/Project/Learning Goal].
+
+7️/ Concept Connection Mapper
+Prompt:
+Build a visual knowledge map from all my uploaded sources. Show how concepts, theories, frameworks, events, and key ideas relate to one another. Highlight recurring themes, dependencies, cause-and-effect relationships, and cross-document insights that improve deep understanding rather than memorization.
+
+8️/ Memory & Revision Coach
+Prompt:
+Transform my uploaded materials into a long-term memory system. Create mnemonics, acronyms, memory palaces, visual associations, and concise revision summaries. Then build a personalized spaced repetition schedule based on my exam date [Date] and available study time of [Hours per Day].
+
+9️/ Final Exam Mastery System
+Prompt:
+Using all my uploaded sources, create a complete exam preparation package for [Course/Exam Name]. Include a condensed revision guide, predicted high-priority topics, timed mock exams, confidence checks, last-minute revision notes, common pitfalls, and a day-by-day study plan based on my exam date [Date], available study time [Hours per Day], and target score [Target Grade/Score].
+
+
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
