@@ -1,0 +1,154 @@
+
+
+-------------------------------------------------
+5 prompts to make it your personal professor
+
+1. THE PROFESSOR PROMPT
+Turns your source into a full lecture from scratch.
+Prompt: 'You are my professor teaching [SUBJECT/TOPIC]. Using only the sources I've uploaded, teach me this material as if this is our first class. Structure your lecture in 3 parts:
+1. Foundation: the 5 core ideas I MUST understand
+2. Deep dive: examples, analogies, and how these ideas connect
+3. Check: 5 questions to test if I actually learned it
+Explain like I'm smart but new to this topic. Cite the source page or section for every claim.'
+
+2. THE STUDY GUIDE GENERATOR
+Compresses everything into a study sheet you'd actually use.
+Prompt: 'Build me a complete study guide from these sources.
+Include:
+- Key concepts (with 1-line definitions)
+- Formulas / frameworks / models
+- 5 examples I can memorize
+- 10 flashcard-style Q&A pairs for spaced repetition
+- 3 common mistakes students make on this topic
+Format it so I can print it and study from one page.'
+
+3. THE EXAM SIMULATOR
+Turns your notes into a full practice exam that grades you.
+Prompt: 'Using only my uploaded sources, create a 15-question test that covers the most important material:
+- 8 multiple choice questions
+- 5 short-answer questions
+- 2 long-form questions
+After I answer, grade each response, explain what I got wrong, and rank my weakest areas so I know where to focus.'
+
+4. THE FEYNMAN EXPLAINER
+Explains a hard concept 3 different ways so it actually sticks.
+Prompt: 'Take [SPECIFIC CONCEPT] from my sources and explain it three times:
+1. Like I'm 12 years old (use everyday analogies)
+2. Like I'm a college student in this field
+3. Like I'm about to teach this concept to someone else
+Then tell me: which explanation matches how deeply I actually understand it?'
+
+5. THE REAL WORLD BRIDGE
+Connects the theory in your notes to actual application.
+Prompt: 'Give me 5 real-world scenarios where I would use [CONCEPT/TOPIC] from these sources.
+For each one:
+- Describe the scenario in 2 sentences
+- Show me exactly how the concept applies
+- Walk me through the step-by-step reasoning
+- End with the practical decision or outcome
+Make me feel like I could use this tomorrow.'
+
+
+-------------------------------------------------
+🚨 Claude can now help you research almost any topic like a professional researcher—in minutes.
+Use these 8 prompts to find stronger sources, spot research gaps, analyze studies, and understand complex topics faster. 👇
+
+1. Research Gap Finder
+Act as an expert research analyst. Analyze [TOPIC] and map the current research landscape. Identify the biggest gaps in existing studies, common methodological weaknesses, unanswered questions, and promising opportunities for future research. Then recommend the strongest research directions based on the available evidence.
+
+2. Knowledge Extraction Matrix
+Act as an academic knowledge architect. Read my research materials and organize them into a structured framework that includes: core concepts, key definitions, major findings, conflicting viewpoints, methodologies used, supporting evidence, and practical takeaways. Highlight the highest-value insights while removing unnecessary information.
+
+3. Literature Review Builder
+Act as a senior research reviewer. Analyze up to 10 research papers at once and produce a structured literature review. Compare objectives, methodologies, datasets, results, limitations, and conclusions. Identify recurring themes, disagreements, research trends, and opportunities for future studies.
+
+4. Explain Complex Topics Simply
+Act as an expert educator. Explain [CONCEPT] using simple language, relatable analogies, and real-world examples. Break difficult theories into easy-to-understand sections while preserving technical accuracy. Finish with a concise summary and key insights.
+
+5. Multi-Study Evidence Analyzer
+Act as a scientific evidence analyst. Compare multiple studies on [TOPIC]. Identify agreements, contradictions, differences in methodology, sample sizes, limitations, and evidence quality. Explain why results differ and determine which conclusions are best supported by the data.
+
+6. Critical Thinking Reviewer
+Act as an academic peer reviewer. Evaluate the following claim: [CLAIM]. First, build the strongest evidence-based argument against it. Then evaluate both sides objectively, identify hidden assumptions and logical weaknesses, and produce a balanced conclusion supported by the strongest available evidence.
+
+7. Source Credibility Checker
+Act as a research integrity auditor. Evaluate every source I provide for credibility, bias, evidence quality, citation strength, conflicts of interest, and methodological reliability. Flag weak or misleading sources, explain why they fail, and rank all sources from most to least trustworthy.
+
+8. Research Quality Optimizer
+Act as a research workflow consultant. Review my research process using these metrics: sources reviewed, evidence quality, research gaps identified, conflicting findings resolved, and final synthesis quality. Identify bottlenecks slowing down my workflow and recommend practical improvements to make my research faster, more accurate, and more comprehensive.
+
+-------------------------------------------------
+🚨 NotebookLM completely changed how I learn from YouTube.
+Now, I drop a video link in as the source, run a few prompts, and it turns the tutorial into a complete skill system, practice plan, and execution framework.
+Here are the 8 prompts I use every time. 👇
+
+1. Turn This Tutorial Into a Masterclass
+You are an expert in this topic and an exceptional teacher. Transform this YouTube tutorial into a complete course instead of a summary. Organize it into logical lessons from beginner to advanced, explain every concept clearly, define important terms, use simple examples and analogies, highlight common mistakes, fill in missing information the creator skipped, and end each lesson with key takeaways and practical action steps.
+
+2. Build a mastery roadmap
+Turn this tutorial into a complete learning roadmap. Break it into beginner, intermediate, and advanced stages. Identify prerequisite knowledge, the correct learning order, milestones, practical skills to develop, estimated timelines, success metrics, and clear indicators that I'm ready to progress to the next stage.
+
+3. Create a deliberate practice plan
+Design a structured 30-day practice plan based on this tutorial. Include daily exercises, increasing difficulty, mini-projects, review sessions, spaced repetition, weekly assessments, measurable goals, and progress checkpoints to help me master the skill through consistent practice.
+
+4. Turn knowledge into action
+Extract every actionable insight from this tutorial. Organize all strategies, frameworks, workflows, checklists, principles, tools, templates, best practices, shortcuts, and implementation steps into a practical playbook I can follow without rewatching the video.
+
+5. Find the missing pieces
+Analyze this tutorial like an industry expert. Identify important concepts the creator skipped, hidden assumptions, advanced techniques that weren't covered, outdated advice, common beginner mistakes, and recommend additional topics and resources I should study to achieve complete mastery.
+
+6. Test my understanding
+Create a comprehensive mastery assessment based on this tutorial. Include challenging questions, real-world scenarios, troubleshooting exercises, case studies, and practical challenges. Explain every answer, identify my weak areas, and generate a personalized improvement plan.
+
+7. Build a real-world project
+Design beginner, intermediate, and advanced real-world projects using everything taught in this tutorial. Include objectives, milestones, deliverables, required tools, evaluation criteria, common pitfalls, and optional extensions that push my skills further.
+
+8. Create my long-term reference guide
+Transform this tutorial into a permanent knowledge base. Create concise summaries, cheat sheets, workflows, decision trees, formulas, checklists, troubleshooting guides, FAQs, key insights, and a one-page quick-reference guide I can revisit anytime.
+Reply
+
+
+-------------------------------------------------
+I paired Google’s NotebookLM with Perplexity—and my research workflow instantly became 10x more powerful.
+Here’s the exact step-by-step system: 👇
+
+Step 1: Research Like a Pro (Perplexity)
+Don't settle for standard chat. Toggle on "Pro" or "Deep Research" mode.
+​Ask a complex, high-level question.
+​Perplexity does the heavy lifting: it scours the real-time web, breaks your query into sub-questions, and gives you a comprehensive, fully-cited breakdown.
+
+Step 2: Curate Your Top Sources
+Perplexity finds the raw information, but NotebookLM needs the specific sources to work its magic.
+​Review the inline citations Perplexity used to build its report.
+➔ Hand-pick the 3-5 most reputable and relevant URLs.
+➔ Copy those links.
+​You are acting as the quality control filter between the search engine and your final content.
+
+Step 3: Build with Total Confidence (NotebookLM)
+➔ Open a new project in NotebookLM.
+➔ Paste the specific URLs you curated from Perplexity as your sources.
+​Here is where the magic happens: Because NotebookLM trains uniquely on the documents and links you provide, it acts as a closed system. It won’t pull outside information, meaning zero hallucinations. It only uses the high-quality data you just vetted.
+
+Use Case A: The Visual Presentation
+Here is the difference in output quality:
+➔ Perplexity: If you ask it to make a slide deck, you get a boring wall of text.
+➔ NotebookLM: Feed those same Perplexity sources into NotebookLM, go to the Studio section, and click "Slide Deck" (Presenter Slides). It generates a stunning, fully-fleshed-out visual presentation complete with titles, auto-generated images, graphs, and maps.
+​Input = Perplexity. Output = NotebookLM.
+
+Use Case B: Autonomous Competitor Analysis
+Want to crush your niche?
+​Use Perplexity's agent (via the Comet browser) to autonomously analyze the top competitors in your field over the last 30 days. It will literally browse the web, open channels, and compile the data for you hands-free.
+​Once it's done, just copy the raw text analysis and paste it into NotebookLM as a "Copied Text" source.
+
+Use Case C: The Data Table & Strategy Trick
+Once that raw competitor data is loaded into NotebookLM, it’s time to synthesize.
+​Prompt it to format the unstructured research. It will instantly generate a clean Data Table comparing metrics (which you can export directly to Google Sheets with one click).
+​Bonus: You can even ask NotebookLM to act as a consultant and generate a strategic plan of action based entirely on the successful competitor data you just fed it.
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
