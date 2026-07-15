@@ -184,6 +184,12 @@ Most people restart every morning and waste the first 10 minutes getting Claude 
 
 
 -------------------------------------------------
+Anthropic's official 33-page Claude Skills guide is now available.
+It walks you through everything from setup to best practices.
+https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5
+https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
