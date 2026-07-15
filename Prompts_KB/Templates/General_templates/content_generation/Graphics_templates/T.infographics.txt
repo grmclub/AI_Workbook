@@ -521,11 +521,32 @@ Transform your notebook into an interactive tutor that teaches, tests, and provi
 Prompt:
 Act as my personal academic tutor using only the assigned course materials. Help me master [Concept] by explaining it step by step with practical examples from the uploaded sources. Then create a realistic case study for me to solve, assess my response against the course materials, identify gaps in my reasoning, and coach me with targeted feedback until I can confidently apply the concept independently.
 
+-------------------------------------------------------------
+Generate neat, handwritten study notes for any subject with GPT Images 2.0.
 
-
+Prompt:
+Create a highly detailed handwritten study note about: “[INSERT TOPIC HERE]”
+Style the page like a real high-performing student’s revision notebook on clean A4 lined paper. Use natural student-style handwriting with realistic spacing, arrows, underlines, side notes, and neat organization.
+The study note should include:
+• A clear title and structured headings
+• Easy-to-understand explanations written in simple language
+• Important definitions, formulas, keywords, and concepts
+• Step-by-step breakdowns where necessary
+• Real-world examples or analogies to improve understanding
+• Quick revision summaries and memory tricks
+• Small educational doodles, diagrams, icons, charts, or sketches that visually explain the topic
+• Highlight key terms and critical points using a bright yellow neon marker
+• Circle important dates, formulas, statistics, or exam-focused information in red ink
+• Add subtle handwritten annotations, arrows, and margin notes to make it feel authentic and highly engaging
+• Make the notes visually aesthetic, organized, and optimized for studying, revision, teaching, and content creation
+The final result should look like premium viral study notes shared by top students online — clean, educational, realistic, highly informative, and easy to memorize from.
 
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
-
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
 
