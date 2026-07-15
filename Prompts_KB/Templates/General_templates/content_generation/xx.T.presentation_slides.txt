@@ -65,6 +65,50 @@ https://www.emaze.com/
 https://www.beautiful.ai/
 
 -------------------------------------------------
+FORGET MAKING PRESENTATIONS MANUALLY.
+Gemini can now, in minutes:
+→ Create complete slide decks
+→ Write speaker notes
+→ Design compelling presentations
+Here are 7 prompts that will dramatically improve your presentations.👇👇
+
+1. The Complete Presentation Architect
+Prompt:
+Act as an expert presentation strategist and visual storyteller. Create a [NUMBER OF SLIDES] slide presentation about [TOPIC] for [AUDIENCE] with the goal of [GOAL].
+For every slide include:
+▪︎ A compelling slide title.
+▪︎ The core message.
+▪︎ 3–5 concise bullet points
+▪︎ Detailed speaker notes.
+▪︎ Suggested visuals (charts, diagrams, icons, images, or screenshots).
+▪︎ Smooth transition to the next slide.
+▪︎ Audience takeaway.
+Finish with a memorable conclusion, a strong call to action, and a final Q&A slide.
+
+2. Document to Presentation Converter
+Prompt:
+Convert the following [DOCUMENT/REPORT/ARTICLE/NOTES] into a professional [NUMBER OF SLIDES] slide presentation for [AUDIENCE]. Organize the content into logical sections, simplify complex ideas, create compelling slide titles, recommend visuals for every slide, generate detailed speaker notes, and remove unnecessary information while preserving the most valuable insights.
+
+3. Executive Presentation Builder
+Prompt:
+Create an executive presentation about [TOPIC] for [COMPANY/AUDIENCE]. Include the business problem, supporting evidence, market trends, risks, opportunities, financial impact, recommendations, implementation roadmap, expected outcomes, KPIs, and next steps. Use a professional tone suitable for executives, investors, or board members.
+
+4. Data Storytelling Master
+Prompt:
+Analyze the following [DATASET/REPORT/SPREADSHEET] and transform it into a compelling presentation for [AUDIENCE]. Identify the most important insights, explain why they matter, highlight trends and anomalies, recommend the best chart for each dataset, anticipate audience questions, and conclude with actionable recommendations supported by the data.
+
+5. Presentation Design Director
+Prompt:
+Redesign my presentation about [TOPIC] using modern presentation design principles. For every slide, recommend the best layout, typography, spacing, color palette, icons, images, charts, animations, and visual hierarchy. Improve readability, reduce clutter, maintain brand consistency using [BRAND COLORS/STYLE], and make the presentation look premium and presentation-ready.
+
+6. Audience Personalization Engine
+Prompt:
+Rewrite my presentation about [TOPIC] specifically for [AUDIENCE]. Adjust the language, tone, technical depth, examples, terminology, objections, motivations, and call to action to match their experience level and interests. The objective is to [GOAL] while keeping the presentation engaging and persuasive.
+
+7. Presentation Auditor & Improvement System
+Prompt:
+Review my presentation about [TOPIC] as an expert presentation coach. Evaluate storytelling, structure, clarity, flow, slide design, readability, audience engagement, persuasion, and visual effectiveness. Score each category out of 10, explain every weakness, identify missing sections, and rewrite the presentation with stronger messaging, smoother transitions, improved visuals, and more impactful speaker notes.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
