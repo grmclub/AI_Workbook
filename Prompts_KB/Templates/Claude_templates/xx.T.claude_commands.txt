@@ -247,9 +247,44 @@ https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-C
 → /negotiation — Prepare negotiation strategies and responses.
 → /excel-style — Format information into clean spreadsheet-style tables.
 
-
-
 -------------------------------------------------
+05 Techniques to Get the Most Out of Claude
+
+1. Gmail Connector (The AI Inbox Assistant)
+Instead of searching your mailbox or typing replies manually, let Claude filter and summarize information directly from your emails.
+Step 1: Open the Claude workspace sidebar and click Customize, then select Connectors.
+Step 2: Choose Gmail from the list of integrations and click log in.
+Step 3: Authorize the security permissions to securely link your workspace inbox.
+Step 4: Give your Executive Assistant a shared seat on that specific Claude account so they can self-serve on historical data questions instead of asking you.
+
+2. Calendar Connector (The AI Executive Coach)
+Connect Claude to your Google Calendar to run autonomous time audits against your business milestones instead of just checking free slots.
+Step 1: Go to Customize ➡️ Connectors on the left sidebar and select Google Calendar.
+Step 2: Click log in and link your primary business calendar.
+Step 3: Paste your core business goals, target projects, or quarterly KPIs straight into the chat viewport.
+Step 4: Run this prompt: "Analyze my calendar time blocks alongside my emails over the past 30 days. Run a brutal time audit and tell me exactly where my hours are mismatched with my stated targets."
+
+3. Co-Work Mode (Hands-Free Desktop Automation)
+Allow Claude to take over your screen layout, control your cursor, and execute multi-app processes across your computer while you step away.
+Step 1: Download and install the standalone Claude desktop app from claude.ai/download.
+Step 2: Open the application, go to your settings panel, and toggle on the Computer Use capability.
+Step 3: Click the Co-Work layout option found in the top left corner of the desktop interface.
+Step 4: Describe a multi-step task in plain English—like pulling metrics from your CRM, pasting them into a sheet, and dropping a chart in Slack—and let the tool take over your machine.
+
+
+4. Scheduled Task (The Autopilot Routine)
+Turn any successful desktop Co-Work automation chain into a routine process that fires off entirely on its own.
+Step 1: Open your configured desktop app and make sure the active Co-Work pane is open.
+Step 2: Type the specialized /schedule macro directly into the prompt bar environment.
+Step 3: Write out the routine instructions and choose your execution cadence from the system menu prompt (Hourly, Daily, Weekly, or Weekdays).
+Step 4: Keep your computer application open; Claude will autonomously run the desktop script—like an early morning email sweep or briefing summary—at that exact time every single day.
+
+5. Projects Hub (Zero-Hallucination Knowledge Bases)
+Isolate your operational conversations into dedicated folders filled with persistent, curated reference materials.
+Step 1: Navigate to the main left sidebar menu layout and click Projects, then hit New Project.
+Step 2: Name your workspace hub and upload your internal documents, transcripts, PDFs, or design brand books directly into the project's knowledge zone.
+Step 3: Open the system instruction configuration box and paste your custom structural prompt guidelines.
+Step 4: Begin chatting inside this folder layout; Claude will strictly reference only your pre-loaded data, completely blocking generic external data noise.
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
