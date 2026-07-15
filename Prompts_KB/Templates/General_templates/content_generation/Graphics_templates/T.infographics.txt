@@ -382,6 +382,52 @@ Prompt:
 
 
 -------------------------------------------------------------
+🚨 Turn any topic into a stunning educational visual guide with GPT Image 2.0.
+
+Prompt:
+Create a museum-quality educational infographic poster of [OBJECT] in a vertical A-series aspect ratio (1:1.414).
+The infographic must prioritize perfect text readability. Every heading, label, paragraph, annotation, number, and specification should be large, sharp, correctly spelled, and easy to read without zooming excessively. Do not generate tiny, blurry, distorted, overlapping, cut-off, or nonsensical text. If there is not enough room, reduce the amount of information rather than reducing the font size.
+Use a photorealistic image or highly realistic 3D render of [OBJECT] as the central focus. Arrange the information around it using a clean engineering textbook layout with generous spacing and a structured grid.
+Design Style:
+- Pure white background
+- Professional engineering manual aesthetic
+- Museum exhibit quality
+- Clean margins
+- Black and dark gray typography
+- Thin technical leader lines and arrows
+- High visual hierarchy with clearly separated sections
+- Dense but uncluttered layout
+Include, where applicable:
+- Front, side, top, rear, and isometric views
+- Exploded view
+- Cross-section and cutaway view
+- Internal structure
+- Component callouts
+- Dimensions and scale references
+- Material composition
+- Engineering properties
+- Flow diagrams showing energy, force, airflow, fluids, heat, sound, or signals
+- Performance specifications
+- Manufacturing process
+- Real-world applications
+Add clearly separated information panels:
+- Overview
+- How It Works
+- Key Components
+- Internal Structure
+- Specifications
+- Materials
+- Engineering Principles
+- Applications
+- Advantages
+- Limitations
+- Maintenance (if applicable)
+- Safety Notes (if applicable)
+- Did You Know?
+Place the title "[OBJECT]" inside a professional technical annotation box at the top.
+Every label must point precisely to the correct part using clean leader lines. Every diagram, measurement, specification, and explanation must be scientifically accurate and suitable for textbooks, classrooms, universities, and museums.
+Render at 8K or higher resolution with razor-sharp typography, crisp vector-like diagrams, flawless spelling, clean alignment, and print-quality detail. The final result should look like it was professionally designed in Adobe Illustrator for a premium engineering textbook, with every piece of text immediately readable and no watermark.
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
