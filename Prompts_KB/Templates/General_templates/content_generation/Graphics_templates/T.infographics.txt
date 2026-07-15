@@ -375,6 +375,15 @@ Output only the completed storyboard infographic poster in a 1:1.414 portrait as
 
 
 -------------------------------------------------------------
+#Create Ultra-Realistic Educational Animal Fact Posters Using ChatGPT Images 2.0 
+
+Prompt:
+“Search the web for detailed information about [ANIMAL] including its habitat, diet, hunting behavior, physical characteristics, lifespan, speed, weight, population status, predators, unique abilities, and surprising lesser-known facts. Then create a dramatic editorial infographic poster in the style of a National Geographic wildlife feature. The most powerful and iconic image of [ANIMAL] is the full-bleed atmospheric hero filling the entire poster top to bottom, dramatically lit and color-graded in tones that match the animal’s natural environment. Oversized bold typography with the animal name dominates the upper portion in a font matching the animal’s personality — fierce, elegant, or wild. Text and graphic panels float naturally over the image as editorial overlays — not boxed magazine layouts. Include: species name and classification, habitat and range map, size and weight stats, diet and hunting style, top speed, lifespan, population and conservation status, unique physical features with annotated callouts pointing directly onto the animal, natural predators and prey, and 3 surprising lesser-known facts. A small world map showing habitat range. A size comparison diagram showing scale relative to a human. Color palette and mood drawn entirely from the animal’s natural environment. No white background, no magazine grid, no boxed sections. Everything layered organically over the full-bleed hero image. Aspect ratio A4 Portrait. Dense, tactile, cinematic, unmistakably that animal.”
+
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
