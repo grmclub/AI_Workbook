@@ -191,5 +191,71 @@ https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-C
 
 
 -------------------------------------------------
+42 Claude commands to help you build, write, research, and create like a pro
+
+1. Writing & Content Creation
+→ /my-viral-linkedin-post — Turn rough ideas into engaging LinkedIn posts.
+→ /linkedin-hook — Generate scroll-stopping opening lines.
+→ /hormozi-viral-1 — Rewrite content in a punchy, high-converting style.
+→ /anti-writing-style — Make AI-generated text sound natural and human.
+→ /blog-writer — Turn any topic into a complete SEO-friendly blog post.
+→ /email-writer — Write professional emails for any situation.
+→ /rewrite — Rewrite content for better clarity, tone, and engagement.
+
+2. Social Media & Marketing
+→ /twitter-thread — Convert an idea into a high-performing X thread.
+→ /youtube-script — Create engaging YouTube scripts with strong retention.
+→ /headline-generator — Generate multiple high-converting headlines.
+→ /linkedin-post-report — Analyze why a LinkedIn post performed well.
+→ /viral-linkedin-post-recipe — Extract the formula behind successful posts.
+→ /marketing-plan — Build a complete marketing strategy.
+→ /sales-page — Write persuasive sales pages that convert.
+
+3. Research & Analysis
+→ /deep-research-analyzer — Research topics across multiple sources.
+→ /paper-summarizer — Summarize research papers into key insights.
+→ /fact-check — Verify claims and highlight inaccuracies.
+→ /competitor-analysis — Compare competitors and identify opportunities.
+→ /swot-analysis — Generate a complete SWOT analysis.
+→ /meeting-visualizer — Turn meeting notes into an interactive dashboard.
+→ /risk-analysis — Identify risks and mitigation strategies.
+
+4. Productivity & Planning
+→ /project-planner — Break projects into milestones and tasks.
+→ /task-prioritizer — Organize work based on urgency and impact.
+→ /roadmap-builder — Build product and project roadmaps.
+→ /workflow-optimizer — Improve inefficient workflows.
+→ /meeting-agenda — Generate structured meeting agendas.
+→ /client-brief — Create professional client briefs.
+→ /deck-builder — Turn notes into presentation-ready slide decks.
+
+5.. Prompt Engineering
+→ /fable-prompter — Turn messy ideas into optimized prompts.
+→ /48 — Rewrite weak prompts into high-performance Claude prompts.
+→ /prompt-improver — Refine prompts for better outputs.
+→ /chain-of-prompts — Break complex tasks into optimized prompt chains.
+→ /role-generator — Create expert AI personas.
+→ /grill-me — Claude asks targeted questions before solving your problem.
+→ /how-to — Generate beginner-friendly step-by-step guides.
+
+6. Business & Strategy
+→ /business-plan — Turn an idea into a complete business plan.
+→ /pricing-strategy — Recommend pricing models.
+→ /proposal-builder — Create polished business proposals.
+→ /pitch-deck — Turn startup ideas into investor-ready pitch decks.
+→ /customer-persona — Build detailed customer profiles.
+→ /negotiation — Prepare negotiation strategies and responses.
+→ /excel-style — Format information into clean spreadsheet-style tables.
+
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
