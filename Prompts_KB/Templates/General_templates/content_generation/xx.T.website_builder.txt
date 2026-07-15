@@ -178,5 +178,40 @@ Act as a complete website copywriting specialist. Write all the copy for my [bus
 
 
 -------------------------------------------------
+🚨 Google Gemini can now build a professional website in just a few hours.
+No coding skills. No design background. No expensive developers.
+Here are 10 prompts to create a website that looks like a $/5K+ project. 👇
+
+1. The Ultimate Website Blueprint Prompt
+“Act as a senior web strategist and help me plan a high-converting website for a [business type] in [industry/location]. My target audience is [audience], and the primary goal is [sales/leads/bookings/portfolio]. Map out the ideal pages this website should have, explain what each page must include to convert visitors, and design a clear site structure with navigation and hierarchy. Also show the key user journey from first visit to final action so the entire website feels intentional, not random. Keep everything simple, strategic, and beginner-friendly.”
+
+2. The High-Converting Homepage Layout Prompt
+“Act as a conversion-focused web designer and create a homepage structure for a [business type] website that is built to turn visitors into customers. Include a strong hero section, trust elements, services overview, benefits, testimonials, FAQs, and clear call-to-action sections. For each section, explain its purpose, what content should go inside, and how it contributes to conversions. The tone should be [friendly/professional/modern], and the layout should feel clean, intentional, and easy to follow.”
+
+3. The Persuasive Homepage Copy Prompt
+“Act as a direct-response copywriter and write compelling homepage copy for a [business type] website. Include a powerful headline that clearly communicates the value proposition, a supporting subheadline, high-converting call-to-action button text, three strong benefits focused on the customer, and a short closing section that builds trust and encourages action. The target audience is [audience], the main goal is [goal], and the tone should be [tone]. Keep the writing simple, clear, and persuasive without unnecessary fluff.”
+
+4. The Professional Website Design System Prompt
+“Act as a UI/UX designer and suggest a complete visual style for a [business type] website that looks polished and professional. Recommend a cohesive color palette with primary, secondary, and accent colors (including HEX codes), font pairings for headings and body text, button styles, spacing guidelines, and an overall design mood. The brand should feel [modern/luxury/minimal/playful/trustworthy], and the system should be simple enough for a beginner to implement while still looking high-end.”
+
+5. The Ready-to-Launch Landing Page Code Prompt
+“Act as a front-end developer and create a fully responsive landing page using HTML and CSS for a [business type]. The page should include a hero section, features or services, testimonials, and a strong call-to-action. Use clean, semantic HTML, beginner-friendly CSS, clear class names, and ensure the design works well on mobile devices. Structure the code in a way that is easy to edit and expand later, and briefly explain how each section works.”
+
+6. The Clear & Compelling Services Page Prompt
+“Act as a website copy strategist and write a high-converting services page for a [business type]. I offer [service 1], [service 2], and [service 3], and for each one, include a clear title, a concise description, the ideal customer, and the key benefit or outcome they can expect. Make the content easy to scan, focused on results rather than features, and aligned with a [tone] tone that builds confidence and clarity.”
+
+7. The Trust-Building About Page Prompt
+“Act as a brand storyteller and write an About page for a [business/person/brand] that builds genuine trust with visitors. Include a short and relatable origin story, a clear mission, core values, and what makes this brand different from others. Show why customers should feel confident choosing this business, and keep the tone [friendly/professional/warm/confident] while making the content feel human, authentic, and easy to connect with.”
+
+8. The SEO Content That Actually Ranks Prompt
+“Act as an SEO expert and write search-optimized content for a [page type] focused on [topic/keyword]. Create a compelling title, well-structured headings, and short, readable paragraphs with natural keyword integration. Ensure the content is helpful, easy to understand, and aligned with the needs of [audience], while avoiding keyword stuffing. The goal is to balance readability with strong search performance.”
+
+9. The Website UX Upgrade Prompt
+“Act as a UX auditor and review my website idea for a [business type], then suggest practical improvements that will make the experience smoother and more effective. Focus on layout, navigation clarity, visual hierarchy, calls to action, readability, and mobile usability. Explain each recommendation in simple terms and include quick, actionable fixes that can immediately improve how the site feels and performs.”
+
+10. The Code Optimization & Upgrade Prompt
+“Act as a senior front-end developer and review this website code to improve its overall quality. Fix any errors, clean up the structure, enhance responsiveness across devices, improve accessibility, and optimize performance. As you make changes, explain them in simple language so a beginner can understand what was improved and why, making this both a fix and a learning experience.”
+
+
 -------------------------------------------------
 -------------------------------------------------
