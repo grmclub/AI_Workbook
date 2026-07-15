@@ -31,6 +31,63 @@ How neural nets power translation, Q&A, summarization, and sentiment.
 → https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D
 
 -------------------------------------------------------------
+RIP PAID COURSES!
+​Here are 10 FREE websites help you to master AI in 2026💨
+
+1/ OpenAI Academy
+This is perfect for anyone who wants to learn AI from the people actually building it.
+Free beginner-to-advanced learning paths, practical prompts, and real-world use cases all built directly by OpenAI experts. This one has to be my favorite. If you're serious about AI, start here.
+⟶ http://academy.openai.com
+
+2/ Google AI Trainings
+This is perfect for creators and developers who use Gemini or Google's tools daily.
+Beginner-friendly resources, hands-on training with Gemini, and career-focused modules with actual certificates. Essential if Google and Gemini are important in your workflow.
+⟶ http://grow.google/ai
+
+3/ Anthropic SkillJar
+This is perfect for anyone building products or workflows with Claude.
+Learn prompt engineering for Claude, explore practical enterprise AI use cases, and get structured lessons with guided examples. 10/10 practical - keep Claude open while you work through it.
+⟶ https://anthropic.skilljar.com
+
+
+4/ MIT OpenCourseWare
+This is perfect for people who want deep, technical AI and ML knowledge.
+Free access to MIT course materials, lecture videos, assignments, and notes from actual MIT professors. It's rigorous. It's hard. But it's MIT-level education completely free.
+⟶ http://ocw.mit.edu
+
+
+5/ Meta's AI Resources
+This is perfect for developers interested in open-source AI models and the Llama ecosystem.
+Research-backed AI educational resources, open-source tools, and insights into how Meta is building AI. Learn Llama applications and applications of their research.
+⟶ https://ai.meta.com/resources
+
+6/ DeepLearning.AI
+This is perfect for people who want structured, practical deep learning courses.
+High-quality videos and courses on neural networks, machine learning, and practical AI applications. Better paced than MIT if you're learning on your own.
+⟶ https://deeplearning.ai
+
+7/ Hugging Face Learn
+This is perfect for developers who want to work with open-source models and transformers.
+Free courses on using transformer models, fine-tuning, and deploying AI models. Hugging Face is where the open-source AI community lives.
+⟶ https://huggingface.co/learn
+
+8/ Kaggle Learn
+This is perfect for people who learn best by doing real projects and competitions.
+Free micro-courses on machine learning, data science, and AI. Plus access to real datasets and competitions so you practice immediately.
+⟶ https://kaggle.com/learn
+
+9/ Stanford Online
+This is perfect for people who want university-level AI education without the price tag.
+Stanford courses taught by the same professors who invented many AI techniques. Free to audit, paid if you want certification.
+⟶ https://online.stanford.edu
+
+10/ Claude 101
+This is perfect for creators and entrepreneurs who use Claude every day.
+Practical guides, prompt templates, and real-world examples of how to use Claude effectively. Simple, direct, and immediately useful.
+⟶ https://claude101.com
+
+
+-------------------------------------------------------------
 1/ The 10 Levels of AI Mastery
 Most people use AI for simple tasks:
 ➔ Asking questions
