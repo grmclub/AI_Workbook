@@ -187,9 +187,6 @@ Transform my uploaded materials into a long-term memory system. Create mnemonics
 Prompt:
 Using all my uploaded sources, create a complete exam preparation package for [Course/Exam Name]. Include a condensed revision guide, predicted high-priority topics, timed mock exams, confidence checks, last-minute revision notes, common pitfalls, and a day-by-day study plan based on my exam date [Date], available study time [Hours per Day], and target score [Target Grade/Score].
 
-
-
-
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
