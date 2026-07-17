@@ -122,6 +122,56 @@
         Do not leave out the key findings
     EXAMPLE INPUT: (Paste the full text or key sections of the research paper here)	
 -------------------------------------------------
+##15 ChatGPT Prompts For Better Research
+
+These templates focus on research strategies, literature mapping, and analysis frameworks.
+
+1. Topic Brainstorm
+    Prompt: Give 10 research topics on [field], why they matter in 2025, one challenge, one key question.
+
+2. Literature Review
+    Prompt: Summarize top 5 studies (2023-2025) on [topic]: methods, findings, gaps, links.
+
+3. Question Builder
+    Prompt: Turn this idea into 5 research questions tied to 2025 trends, each with a hypothesis.
+
+4. Timeline
+    Prompt: List key events in [topic], 2010-2025: breakthroughs, people, implications.
+
+5. Data Helper
+    Prompt: Given this dataset [paste], suggest 3 tests, insights, visuals for a 2025 paper.
+
+6. Gap Finder
+    Prompt: From these sources [links], list 4 gaps and propose an experiment for each.
+
+7. Methodology
+    Prompt: Draft step-by-step method for [topic]: tools, ethics, outcomes for 2025.
+
+8. Credibility Check
+    Prompt: Evaluate this article [link]: score bias, evidence, relevance (1-10). Suggest better sources.
+
+9. Trend Forecast
+    Prompt: Predict 5 trends in [field] for 2026-2030 using 2025 data and research angles.
+
+10. Ethics Review
+    Prompt: List ethical issues in [topic]: privacy, bias, 2025 regulations.
+
+11. Summary Maker
+    Prompt: Condense this abstract [paste] into 5 bullets: innovations, limits, 2025 uses.
+
+12. Hypothesis Generator
+    Prompt: Give 3 testable hypotheses for [question], with variables, results, validation.
+
+13. Interdisciplinary Linker
+    Prompt: Connect [topic1] + [topic2] in 4 ways and suggest hybrid 2025 projects.
+
+14. Quiz Builder
+    Prompt: Create 10 Q&A on [topic] with brief explanations.
+
+15. Research Plan
+    Prompt: Draft a plan for [topic]: objectives, timeline, budget, 2025 impact/partners.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
