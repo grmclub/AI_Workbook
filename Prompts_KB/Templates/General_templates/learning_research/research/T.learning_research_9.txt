@@ -171,9 +171,106 @@ These templates focus on research strategies, literature mapping, and analysis f
 15. Research Plan
     Prompt: Draft a plan for [topic]: objectives, timeline, budget, 2025 impact/partners.
 
+-------------------------------------------------
+##The 20 Ultimate NotebookLM Prompts
 
+Here are the cleanly transcribed and structured prompt templates from your new image, designed to help you analyze long documents, study more effectively, and build smart workflows.
+
+##Phase 1: Foundation & Comprehension
+
+01. Instant Summary
+    Prompt: Summarize the source into the 10 most important ideas, key arguments, and practical takeaways in plain English.
+
+02. Beginner Explanation
+    Prompt: Explain this material as if I am a complete beginner. Use simple analogies, step-by-step logic, and avoid jargon.
+
+03. Deep Dive Breakdown
+    Prompt: Break this source into core concepts, hidden assumptions, expert-level nuances, and what most readers usually miss.
+
+04. Compare Sources
+    Prompt: Compare all uploaded sources. Show where they agree, where they conflict, and what unique insights each source contributes.
+
+##Phase 2: Study & Retention Systems
+
+05. Study Notes Builder
+    Prompt: Turn this content into structured study notes with headings, bullet points, definitions, and memorable examples.
+
+06. Flashcards Generator
+    Prompt: Generate 25 high-quality flashcards from this material with question on front and concise answer on back.
+
+07. Quiz Me
+    Prompt: Create a progressive quiz from easy to difficult based only on this source. Wait for my answers and grade me.
+
+08. Memory Hooks
+    Prompt: Create mnemonics, analogies, and memory anchors that help me retain the most important parts of this content.
+
+##Phase 3: Extraction & Critical Analysis
+09. Timeline Extraction
+
+    Prompt: Extract every important event, milestone, or development from these sources and arrange them into a clean timeline.
+
+10. Key Quotes Finder
+
+    Prompt: Pull out the most impactful quotes, data points, and evidence from these sources that I can cite in writing or presentations.
+
+11. Research Gaps
+
+    Prompt: Identify unanswered questions, weak arguments, missing evidence, and research gaps across these materials.
+
+12. Debate Both Sides
+
+    Prompt: Present the strongest arguments for and against the main thesis of these sources as if two experts were debating.
+
+##Phase 4: Frameworks & Content Repurposing
+
+13. Turn Into Framework
+    Prompt: Convert the ideas in these sources into a practical framework, checklist, or repeatable system I can apply.
+
+14. Content Repurposing
+    Prompt: Use these sources to generate a LinkedIn post, article outline, tweet thread, and newsletter idea.
+
+15. Expert Interview Mode
+    Prompt: Act as the world's top expert on these uploaded materials. I will ask questions—answer only from the sources.
+
+16. Executive Briefing
+    Prompt: Create a 5-minute executive briefing with only the most strategic insights, implications, and action points.
+
+##Phase 5: Application & Output
+
+17. Lesson Plan Creator
+    Prompt: Turn this notebook into a 7-day learning plan with daily lessons, exercises, and checkpoints.
+
+18. Idea Generator
+    Prompt: Generate 20 original ideas, opportunities, or applications inspired by the uploaded materials.
+
+19. Simplify for Teaching
+    Prompt: Rewrite the key ideas from these sources into a teaching script that I can explain to someone in 5 minutes.
+
+20. Action Plan
+    Prompt: Based on everything in these sources, create a practical action plan with first steps, priorities, and deadlines.
+
+-> deploy one of these prompts to break down a specific project or source document you are reviewing
 -------------------------------------------------
--------------------------------------------------
+## Strategic Learning & Document Processing
+
+1. Resource Finder
+    Prompt: Make a list of the 5 best resources (books, videos, courses, or experts) for learning [topic] quickly, and explain why each one deserves my time.
+
+2. One-Page Study Sheet
+    Prompt: Summarize the main concepts of [topic] on a single page. Use bullet points, diagrams, and examples so that I can review it in 5 minutes.
+
+3. The Feynman Technique Deep Dive
+    Prompt: Explain [topic] to me in the simplest way possible. Then make me explain it back in my own words. Point out my mistakes, re-teach what I didn't understand, and repeat the process until I can explain it on my own.
+
+4. Guided Class (Teach Me From Zero)
+    Prompt: Transform this document into a guided class. Explain everything step by step, starting with the most basic concepts and gradually moving to advanced ideas. Assume this is my first time learning the topic.
+
+5. Key Concepts & Essential Definitions
+    Prompt: Analyze this document and identify the core ideas, terms, and notions. Explain each one clearly and directly, like I need to memorize it for a test.
+
+6. Automatic Mind Map
+    Prompt: Transform this content into a structured mind map that connects main ideas, secondary concepts, and important relationships for easier memorization.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
