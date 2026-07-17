@@ -1,0 +1,51 @@
+
+-------------------------------------------------
+🚨 BREAKING: CLAUDE can now help you build a PERSONAL BRAND
+##Content & Growth Prompt Templates
+
+1. The "Blue Ocean Voice" Niche Gap Finder
+"Act as an Elite Personal Branding Strategist. I want to build a standout personal brand in [My Industry]. Run a fast 12 hour audit to find 3 untapped angles, bold opinions, or ignored audience groups where typical experts stay silent. Give me a clean text breakdown showing my unique positioning hook."
+Why it works: It forces Claude to hunt for gaps instead of copying what everyone else already says, so your brand starts different from day one.
+
+2. The "Credibility Stack" Profile Rebuild
+"Act as a Premium Positioning Consultant. Take my industry experience and turn it into a high converting bio and profile layout. Use this order: Attention Grabbing Line + Real Result or Story Proof + One Simple Call to Action. Make it easy for strangers to trust me fast."
+Why it works: People decide if they trust you in seconds. This structure builds trust before they even read your content.
+
+3. The 'Scroll Stopper' Hook Formula (Slide 3/8)
+    Prompt: Act as a Master Copywriter. Build a repeatable formula for writing scroll-stopping headlines and post openers. Every hook should use short punchy lines, bold claims, or curiosity gaps that make someone stop scrolling and keep reading.
+
+    Why it works: Attention is currency online. A strong system for hooks means every post has a fighting chance to be seen.
+
+4. The 'Human First' Story Engine (Slide 4/8)
+    Prompt: Act as a Content Strategist. Design a simple storytelling template for sharing real lessons, mistakes, or wins from my industry. Keep the tone natural and honest, like talking to a friend, not a brand. Show me how to structure it so it feels real and gets shared.
+
+    Why it works: People connect with humans, not robots. Authentic storytelling builds loyal followers faster than polished corporate content.
+
+5. The 'Save This' Carousel Blueprint (Slide 5/8)
+    Prompt: Act as a Content Design Expert. Write a repeatable carousel template for sharing tips or lessons in a way that makes people want to save and share it. Each slide should teach one clear point, use simple language, and build toward one big takeaway.
+
+    Why it works: Carousels that are easy to follow get saved more. Saves and shares are the fuel that pushes content further.
+
+6. The 'Reply To Grow' DM Funnel Script (Slide 6/8)
+    Prompt: Act as a Growth Funnel Expert. Write a caption and automatic DM script that turns viral posts into email subscribers. Structure it in two steps:
+        Step 1: Tell people to comment one simple word.
+        Step 2: Send them an automatic message with a link to join my list.
+
+    Why it works: This turns random viral traffic into people you can talk to directly, which builds long-term followers, not just likes.
+
+7. The 'Deep Dive' Newsletter Bridge (Slide 7/8)
+    Prompt: Act as an Audience Growth Expert. Create a simple bridge template that takes short-form followers into a longer newsletter. Show me how to write a hook that removes doubt, teaches something valuable, and makes people want to subscribe.
+
+    Why it works: Social platforms can change overnight. A newsletter means you own your audience and always have a way to reach them.
+
+8. The 'Growth Check' Performance Audit (Slide 8/8)
+    Prompt: Act as a Personal Brand Data Analyst. Here are my last 14 days of results: [Reach], [Follower Growth], [Comments/DMs], [Email Signups]. Tell me exactly what part of my content or funnel is holding me back and what to fix first.
+
+    Why it works: You cannot fix what you do not measure. This turns guessing into a clear action plan.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
