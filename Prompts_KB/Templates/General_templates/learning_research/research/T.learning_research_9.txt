@@ -270,7 +270,17 @@ Here are the cleanly transcribed and structured prompt templates from your new i
 
 6. Automatic Mind Map
     Prompt: Transform this content into a structured mind map that connects main ideas, secondary concepts, and important relationships for easier memorization.
+-------------------------------------------------
+##Accelerated Learning & Masterclasses
 
+1. Learn Anything in 20 Hours
+    Prompt: I need to learn [topic] quickly. Create a 20-hour plan focused on the 20% of concepts that generate 80% of the results. Divide it into 10 sessions of 2 hours each, including the best resources and a 15-minute review at the end of each session.
+
+2. Create a Learning Ladder
+    Prompt: Break down [topic] into 5 difficulty levels. Show me how to progress from Level 1 (beginner) to Level 5 (advanced), with a clear goal at each stage.
+
+3. Test Me Until I Master It
+    Prompt: I have just studied [topic]. Ask me 10 increasingly difficult questions to assess what I understood. After each answer, give me a score and explain what I got wrong.
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
