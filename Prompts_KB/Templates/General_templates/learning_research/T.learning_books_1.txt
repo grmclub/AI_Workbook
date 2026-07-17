@@ -1,4 +1,32 @@
 
+
+-------------------------------------------------
+##The Nonfiction Book Analysis Blueprints
+These structured prompts are designed to dissect business or personal growth books into actionable takeaways.
+
+1. The One Big Idea (Blueprint 1)
+
+    Prompt: Act as an expert teacher. Based on the ideas in [Book Title] by [Author], tell me the single most important idea in the book. Explain it in simple language and give me one real-world example that makes it easy to remember.
+
+2. The 80/20 Summary (Blueprint 2)
+
+    Prompt: Apply the 80/20 principle to [Book Title] by [Author]. Identify the 20% of ideas that provide roughly 80% of the practical value. Ignore minor details and focus on what matters most.
+
+3. The Action Blueprint (Blueprint 3)
+
+    Prompt: Turn the main ideas from [Book Title] by [Author] into a practical action plan. Give me five specific actions I can start using immediately. Each action should take less than 15 minutes to begin.
+
+4. Connect the Dots (Blueprint 5)
+
+    Prompt: Compare the ideas in [Book Title] by [Author] with three other well-known nonfiction books. Show where the ideas overlap, where they disagree, and what unique perspective this book contributes.
+
+5. Make It Stick (Blueprint 6)
+
+    Prompt: Help me remember the key lessons from [Book Title] by [Author]. Create: five memorable analogies, three mental models, and ten flashcards I can review in under five minutes.
+
+6. Teach It Like an Expert (Blueprint 7)
+
+    Prompt: Pretend I have to teach the ideas from [Book Title] by [Author] tomorrow. Create a simple 10-minute lesson with: the core concepts, relatable examples, common misunderstandings, and three questions that test whether someone truly understands the material. End with the single lesson I should never forget.
 -------------------------------------------------
 ##7 Claude prompts help you understand nonfiction books faster and remember more.
 
