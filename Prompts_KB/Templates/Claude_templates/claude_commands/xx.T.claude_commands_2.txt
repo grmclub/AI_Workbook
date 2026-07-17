@@ -63,6 +63,51 @@ You can prepend these short tags to your queries to instantly lock the AI into a
     /positioning     — Brand positioning
     /competitor      — Competitor analysis	
 -------------------------------------------------
+##30 Claude Shortcut Hacks
+
+🧠 Quick Comprehension
+    /eli5         — Explain simply
+    /tldr         — Summarize fast
+    /briefly      — Keep it short
+    /exec summary — Give key takeaways
+
+🏗️ Structure
+    /step-by-step — Break into steps
+    /checklist    — Make it actionable
+    /schema       — Create structure
+    /pm mode      — Focus on delivery
+
+👤 Persona
+    /act as       — Assign persona
+    /audience     — Adapt to reader
+    /tone         — Set the voice
+    /jargon       — Use expert language
+    /dev mode     — Be technical/direct
+
+📤 Output Control
+    /begin with        — Control opening
+    /role:task:format  — Define assignment
+    /end with          — Control closing
+    /guardrail         — Set strict boundaries
+    /why               — Explain reasoning
+    /first principles  — Start from basics
+
+🔍 Analysis
+    /pitfalls            — Find risks
+    /metrics mode        — Use KPIs/data
+    /debate              — Challenge ideas
+    /deliberate thinking — Slow down reasoning
+    /rewrite as          — Change style
+
+🛡️ Critical Thinking & Analysis
+    /reflective mode     — Review the answer
+    /no autopilot        — Avoid generic output
+
+🗺️ Strategic
+    /multi-perspective   — Show viewpoints
+    /compare             — Show trade-offs
+    /swot                — Analyze strengths/risks
+    /parallel lenses     — Analyze by angles
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
