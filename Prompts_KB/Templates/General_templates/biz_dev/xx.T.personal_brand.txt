@@ -4,12 +4,14 @@
 ##Content & Growth Prompt Templates
 
 1. The "Blue Ocean Voice" Niche Gap Finder
-"Act as an Elite Personal Branding Strategist. I want to build a standout personal brand in [My Industry]. Run a fast 12 hour audit to find 3 untapped angles, bold opinions, or ignored audience groups where typical experts stay silent. Give me a clean text breakdown showing my unique positioning hook."
-Why it works: It forces Claude to hunt for gaps instead of copying what everyone else already says, so your brand starts different from day one.
+    Prompt: Act as an Elite Personal Branding Strategist. I want to build a standout personal brand in [My Industry]. Run a fast 12 hour audit to find 3 untapped angles, bold opinions, or ignored audience groups where typical experts stay silent. Give me a clean text breakdown showing my unique positioning hook.
+
+    Why it works: It forces the AI to hunt for gaps instead of copying what everyone else already says, so your brand starts different from day one.
 
 2. The "Credibility Stack" Profile Rebuild
-"Act as a Premium Positioning Consultant. Take my industry experience and turn it into a high converting bio and profile layout. Use this order: Attention Grabbing Line + Real Result or Story Proof + One Simple Call to Action. Make it easy for strangers to trust me fast."
-Why it works: People decide if they trust you in seconds. This structure builds trust before they even read your content.
+    Prompt: Act as a Premium Positioning Consultant. Take my industry experience and turn it into a high converting bio and profile layout. Use this order: Attention Grabbing Line + Real Result or Story Proof + One Simple Call to Action. Make it easy for strangers to trust me fast.
+
+    Why it works: People decide if they trust you in seconds. This structure builds trust before they even read your content.
 
 3. The 'Scroll Stopper' Hook Formula (Slide 3/8)
     Prompt: Act as a Master Copywriter. Build a repeatable formula for writing scroll-stopping headlines and post openers. Every hook should use short punchy lines, bold claims, or curiosity gaps that make someone stop scrolling and keep reading.
