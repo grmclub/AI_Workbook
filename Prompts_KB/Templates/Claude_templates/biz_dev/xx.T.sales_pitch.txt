@@ -1,0 +1,22 @@
+
+-------------------------------------------------
+1 | The Offer Clarity Test
+"Read my offer: [paste]. Tell me exactly who this is for, what problem it solves, and what life looks like 30 days after buying. Flag every line a skeptical buyer would dismiss."
+
+2 | Painkiller or Vitamin
+"Based on my offer [paste], is this an urgent painkiller or a nice-to-have vitamin? Tell me the one reframe that makes it feel like something people pay for same-day."
+
+3 | The Competitive Moat Check
+"List 5 alternatives to my offer a buyer would compare it against. For each, tell me where my positioning is weaker, and give me one line that closes that gap."
+
+4 | Price It Like a No-Brainer
+"My offer costs $[X]. Write 3 price framing statements that make this feel like an obvious return on investment, not an expense."
+
+5 | The One-Line Offer Test
+"Rewrite my offer in one sentence: I help [who] go from [painful situation] to [specific outcome] in [timeframe], without [objection], even if [limiting belief]."
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------

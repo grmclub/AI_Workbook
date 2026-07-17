@@ -1,0 +1,260 @@
+
+-------------------------------------------------------------
+But Claude can create real spreadsheets, documents, presentations, reports, and PDFs you can actually use.
+Here are 10 useful files Claude can build in minutes 
+
+1. WEEKLY PLANNER
+Stop starting every week with a messy to-do list.
+Ask Claude to create a weekly planning file with your priorities, deadlines, meetings, and daily focus blocks.
+Use this prompt:
+“Create a clean weekly planner for my role as [INSERT ROLE].
+Include:
+1. top priorities
+2. deadlines
+3. meetings
+4. daily focus blocks
+5. quick tasks
+6. follow-ups
+7. end-of-week review
+Format it as a professional document I can use immediately.”
+
+2. SOP DOCUMENT
+If you repeat the same task more than once, turn it into a system.
+Use this prompt:
+“Turn this workflow into a clear SOP document:
+[PASTE WORKFLOW]
+Include:
+1. purpose
+2. tools needed
+3. step-by-step instructions
+4. common mistakes
+5. quality checks
+6. final checklist
+Make it simple enough that someone else can follow it without asking questions.”
+
+3. CONTENT CALENDAR
+Claude can create a full content calendar instead of giving you random ideas.
+Use this:
+“Create a 30-day content calendar for:
+[INSERT BRAND OR NICHE]
+Include:
+1. topic
+2. hook
+3. format
+4. main angle
+5. CTA
+6. posting goal
+Organize everything in a clean spreadsheet-style table.
+Balance educational, relatable, authority-building, and sales content.”
+
+4. CLIENT PROPOSAL
+Stop writing every proposal from scratch.
+Use this prompt:
+“Create a professional client proposal for this service:
+[INSERT SERVICE]
+The client problem is:
+[INSERT PROBLEM]
+Include:
+1. client pain point
+2. proposed solution
+3. deliverables
+4. timeline
+5. pricing structure
+6. what is included
+7. next steps
+Keep the writing clear, confident, and easy to understand.”
+
+5. RESEARCH BRIEF
+Turn messy notes, articles, and findings into one clean report.
+Use this:
+“Create a structured research brief from this material:
+[PASTE NOTES OR INFORMATION]
+Include:
+1. executive summary
+2. key insights
+3. useful facts
+4. recurring patterns
+5. opportunities
+6. risks
+7. unanswered questions
+8. recommended next steps
+Keep it practical and easy to scan.”
+
+6. MEETING SUMMARY
+Your notes should turn into actions, not disappear inside a chat.
+Use this:
+“Turn these raw meeting notes into a professional meeting summary:
+[PASTE NOTES]
+Include:
+1. main discussion points
+2. decisions made
+3. action items
+4. who owns each task
+5. deadlines
+6. blockers
+7. next meeting agenda
+Make it short enough to send to the team.”
+
+7. BUDGET TRACKER
+Claude can build a simple spreadsheet for your personal or business finances.
+Use this prompt:
+“Create a monthly budget tracker.
+Include:
+1. income
+2. fixed expenses
+3. variable expenses
+4. subscriptions
+5. savings
+6. debts
+7. remaining balance
+8. weekly spending limits
+9. monthly review section
+Format it as a clean spreadsheet with clear categories and formulas.”
+
+8. PRESENTATION
+Do not start every presentation from an empty slide.
+Use this:
+“Create a professional presentation about:
+[INSERT TOPIC]
+Audience:
+[INSERT AUDIENCE]
+Goal:
+[EDUCATE / SELL / EXPLAIN / TRAIN]
+Include:
+1. strong opening
+2. why the topic matters
+3. key points
+4. examples
+5. practical steps
+6. common mistakes
+7. final summary
+8. clear CTA
+Keep each slide focused on one idea.”
+
+9. RESUME + COVER LETTER
+Claude can turn your experience into a clean application pack.
+Use this:
+“Create a professional resume and matching cover letter for this job:
+[PASTE JOB DESCRIPTION]
+My experience:
+[PASTE EXPERIENCE]
+Highlight:
+1. relevant skills
+2. measurable achievements
+3. strongest experience
+4. keywords from the job description
+5. why I am a good fit
+Keep the tone professional and natural.”
+
+10. PROMPT LIBRARY
+Stop rewriting your best prompts every week.
+Build your own prompt vault.
+Use this:
+“Create a reusable prompt library for my work in:
+[INSERT ROLE OR NICHE]
+Organize the file into categories.
+For every prompt, include:
+1. prompt name
+2. use case
+3. full prompt
+4. when to use it
+5. what information I need to add
+6. tips to improve the result
+Make it easy to search and reuse.”
+
+IMPORTANT:
+Always review the final file before using it.
+Check the numbers, formulas, claims, formatting, and any sensitive information.
+Claude saves time.
+
+You still make the final decision.
+-------------------------------------------------------------
+1. Viral Video Finder
+"Analyze the [niche] niche and generate 50 YouTube video ideas with the highest potential for views. Focus on audience curiosity, strong outcomes, hidden opportunities, controversial opinions, mistakes, trends, and topics people actively search for. Prioritize ideas with the strongest click potential."
+
+2. Video Angle Generator
+"Take this video idea: [paste idea]. Generate
+15 different angles for it. Include beginner angles, advanced angles, case studies, mistakes, lessons learned, challenges, experiments, and contrarian viewpoints. Make each angle feel like a separate video."
+
+3. Title and Thumbnail Builder
+"Take this video idea: [paste idea]. Create 20 YouTube titles and matching thumbnail concepts. Focus on curiosity, emotional triggers, strong outcomes, and audience psychology. Make every concept highly clickable without using misleading clickbait."
+
+4. High Retention Script Builder
+"Turn this video idea: [paste idea] into a
+complete YouTube script. Create a strong
+opening hook, pattern interrupts, curiosity
+loops, engaging transitions, valuable insights,
+and a memorable ending. Structure the
+script to maximize viewer retention."
+
+5. Retention Analyzer
+"Review this YouTube script: [paste script]. Identify where viewers are most likely to leave. Highlight slow sections, weak transitions, unnecessary filler, and missed opportunities. Rewrite those sections to improve watch time and engagement."
+
+6. Content Multiplier
+"Take this YouTube script: [paste script].
+Generate 10 new video ideas from it. Create
+new hooks, examples, stories, experiments, perspectives, and follow up topics while
+keeping the core theme connected."
+
+7. Viral Video System
+"Create a workflow that allows me to generate
+10 YouTube videos in 30 minutes. Include idea research, angle generation, title creation, thumbnail concepts, scripting, and content planning. Make the process simple, repeatable, and optimized for consistent video production."
+
+-------------------------------------------------------------
+1. The "Brand-Voice" Archetype Scout
+"Act as an Elite Brand Copywriting Strategist. I want to build a highly recognizable professional voice for [My Business]. Conduct a rapid diagnostic sprint to isolate our target audience's language patterns. Map out a foundational structural text layout framework that defines our core vocabulary, explicit tone constraints, and a list of overused corporate jargon words to completely ban."
+
+2. The "Prestige-Landing" Page Blueprint
+"Act as a Premium Conversion Rate Optimization (CRO) Specialist. Write a conversion-focused text layout blueprint for a primary business landing page. Format the copy hierarchy using the 'Immediate Value Metric + Explainer Sub-headline + Scannable Solution Pillars' sequence. Eliminate dense blocks of text to force high readability and accelerate mobile reader navigation loops."
+
+3. The "Pattern-Interrupt" Email Opener
+"Act as a Master Direct-Response Email Marketer. Generate 5 distinct, high-open email subject line and preview text layouts designed for [Target Audience]. Focus entirely on addressing an acute industry bottleneck. Every script must utilize a sharp structural pattern-interrupt layout explicitly engineered to freeze a busy professional's eye inside a crowded workspace inbox."
+
+4. The "Asymmetric-Value" Long-Form SOP
+"Act as an Expert B2B Content Architect. Create a comprehensive Standard Operating Procedure (SOP) text layout to break down a complex operational framework into a highly scannable long-form article or guide. Ensure the body copy uses a sharp heading hierarchy (H2/H3), direct bullet frameworks, and clear visual line breaks to maximize reading velocity and memory retention."
+
+5. The "Two-Step" Social Inbound Hook
+"Act as an Organic Inbound Funnel Engineer. Write 5 variations of an authority-building social media text post layout. Structure the narrative around an unforced, peer-to-peer case study execution. Conclude the piece with a conversion-focused 'Two-Step' call to action layout that instructs readers to reply with a keyword to automatically receive a high-density workflow asset."
+
+6. The "Friction-Free" Product Story Sequence
+"Act as a Consumer Behavioral Psychologist. Design a repeatable, text-based sales sequence layout engineered to turn skeptical viewers into active buyers. Frame the copy framework around a raw, authentic realization regarding a major market frustration, detailing exactly how your specific product mechanism eliminates the problem natively without relying on hyperbole."
+
+
+-------------------------------------------------------------
+Prompt 1: "Find me a book that will actually sell on Amazon"
+"Act as an Amazon KDP market researcher and self-publishing strategist who has launched 50+ profitable books. I want to publish a non-fiction book on Amazon that generates consistent passive income. Analyze current Amazon bestseller lists, trending categories, and buyer search behavior. Give me 5 specific book ideas that meet ALL of these criteria: the topic has proven buyer demand with books already selling in the top 10,000 BSR, the competition is beatable meaning the top results don't have thousands of reviews yet, the target reader has an urgent problem they're willing to pay to solve, the book can be written in 15,000-25,000 words making it achievable in under 30 days, and the topic is evergreen so it keeps selling for years not weeks. For each idea give me the exact book title and subtitle optimized for Amazon search, the target audience and why they buy books on this topic, 3 competing books and their weaknesses I can exploit, and the estimated monthly revenue based on realistic sales volume. Don't give me passion project ideas. Give me books that the MARKET is already asking for."
+
+Prompt 2: "Write my book chapter by chapter"
+"Act as a bestselling non-fiction author who has written 20+ books that consistently rank in Amazon's top charts. I'm writing a book called [TITLE] about [TOPIC] for [TARGET AUDIENCE]. First create a detailed outline with 10-12 chapters. Each chapter should solve one specific problem for the reader and build logically on the last. Then write each chapter one at a time. For each chapter write 1,500-2,000 words using short paragraphs that are easy to read on a Kindle screen, real-world examples, case studies, or analogies that make concepts click, practical action steps the reader can implement immediately, a compelling opening hook that makes the reader want to finish the chapter, and a smooth transition to the next chapter that creates momentum. Writing rules: No filler. No fluff. No generic advice they could find in a free blog post. Every page must earn its place. The reader should finish each chapter thinking 'this book alone was worth 10x what I paid.' Start with Chapter 1 now and I'll prompt you for each following chapter."
+
+Prompt 3: "Edit this until it's better than 90% of books on Amazon"
+"Act as a professional book editor who has edited 200+ published books for traditional publishing houses. I'm going to give you my completed manuscript chapter by chapter. For each chapter perform a three-round edit: Round 1 — Structural Edit: Flag any sections that are out of order, repetitive, or don't serve the reader. Remove anything that slows the pace. Ensure every chapter has a clear purpose and payoff. Round 2 — Line Edit: Tighten every sentence. Replace weak verbs with strong ones. Cut filler words like 'very,' 'really,' 'just,' and 'basically.' Eliminate every AI-sounding phrase. Make sure it reads like a human expert wrote it on their best day. Round 3 — Reader Experience Edit: Read it from the buyer's perspective. Flag any section where a reader might get bored, confused, or tempted to put the book down. Add hooks, transitions, or examples wherever engagement dips. After all 3 rounds give me the polished version plus a summary of every major change you made. Here is Chapter 1: [PASTE CHAPTER]."
+
+Prompt 4: "Tell me exactly how to design a bestseller-level cover in Canva"
+"Act as a book cover designer who has designed covers for 100+ Amazon bestsellers. My book is called [TITLE] about [TOPIC] for [TARGET AUDIENCE]. I'm using Canva to design my cover and I have zero design experience. Give me a step-by-step cover design blueprint that includes the exact Canva template size for Amazon KDP paperback and ebook covers, 3 color palette options that match my genre with specific hex codes, font pairing recommendations — one for the title and one for the subtitle — available in Canva's free library, layout structure showing exactly where to place the title, subtitle, author name, and any imagery, 3 specific cover concepts I can create in Canva using free elements with a description of what each should look like, design mistakes that make self-published books look amateur and how to avoid every one, and a spine and back cover layout for the paperback version. Study the top 10 bestselling covers in my category and tell me the visual patterns they all share. My cover should look so professional that no buyer would ever guess it was made in Canva."
+
+Prompt 5: "Write me an Amazon listing that turns browsers into buyers"
+"Act as an Amazon KDP marketing expert who has optimized 500+ book listings for maximum sales. My book is [TITLE] about [TOPIC] for [TARGET AUDIENCE]. Create a complete high-converting Amazon book listing that includes a keyword-rich title and subtitle that ranks in Amazon search and makes the benefit immediately clear, a 4,000-character book description using Amazon's allowed HTML formatting with a hook in the first 2 lines that creates urgency to keep reading, benefit-driven bullet points showing the transformation the reader will experience, social proof language that builds credibility, a compelling call to action that makes NOT buying feel like a mistake, 7 backend keywords targeting high-volume search terms buyers actually type into Amazon, the 3 best BISAC categories to list my book under for maximum visibility and easier bestseller ranking, and a pricing strategy for both the Kindle ebook and paperback version that maximizes royalties while staying competitive. Study the top 5 bestselling books in my category and reverse engineer what makes their listings convert. Then make mine better."
+
+
+
+-------------------------------------------------------------
+📌 1. Initialize “Creator Intelligence Mode” (Your AI Brain Upgrade)
+Prompt:
+“You are now operating in Creator Intelligence Mode for a [NICHE] creator with [AUDIENCE SIZE] followers on [PLATFORMS]. My audience is [DESCRIBE AUDIENCE + PAIN POINTS]. In this mode, you generate high-performing ideas, write engaging content, and build scalable strategies. Stay in this mode for all future prompts in this session.”
+
+📌 2. Full Content Audit (Find What’s Holding You Back)
+This helps you to diagnose first and stop posting blindly.
+Prompt:
+“Still in Creator Intelligence Mode. Analyze my last 30 days of content: [PASTE CONTENT]. Identify: my core message, gaps in my strategy, weak patterns, and missed opportunities. Then give me the single highest-impact change I should make immediately.”
+
+📌 3. Idea Generation Engine (Never Run Out of Content)
+Turn your past wins into future growth.
+Prompt:
+“Still in Creator Intelligence Mode. Here are my top-performing posts: [PASTE]. Break down why each worked (hook, structure, emotion, timing). Then generate 30 new content ideas using similar frameworks but with fresh angles. Label each by platform, format, and intent (engagement, growth, or conversion).”
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
