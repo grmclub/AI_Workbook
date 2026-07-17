@@ -47,7 +47,21 @@ You can prepend these short tags to your queries to instantly lock the AI into a
     /roadmap         — Timeline-based steps
     /draft           — Rough first version
     /polish          — Clean and refine output
-	
+
+💼 Business / Strategy Slash-Commands
+
+    /startup         — Startup idea
+    /gtm             — Go-to-market plan
+    /monetize        — Revenue ideas
+    /validate        — Validate idea
+    /icp             — Ideal customer profile
+    /sales           — Sales pitch
+    /coldoutreach    — Cold outreach
+    /offer           — Offer creation
+    /funnel          — Funnel strategy
+    /retention       — Retention ideas
+    /positioning     — Brand positioning
+    /competitor      — Competitor analysis	
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
