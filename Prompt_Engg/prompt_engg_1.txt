@@ -58,7 +58,6 @@ Instead of searching for information, use AI to build a Personal Knowledge Graph
     • Proactive Synthesis: Configure AI agents to generate "Morning Briefings" that scan your communication channels for critical developments, decisions, or emerging blockers before your workday starts. 
     • Context-Aware Onboarding: If you join a new project, use an AI agent to ingest the entire repository and documentation, creating a "Query Engine" for the project's architectural history, constraints, and current technical debt.
 
-
 2. Strategic Technical Productivity
 For a Tech Lead, AI should focus on high-leverage architectural and maintenance tasks.
     • Predictive Maintenance & Debt Management: Instead of reactive debugging, use AI agents to scan your repository for "code smells," deprecated API usages, or patterns that correlate with known security vulnerabilities. 
@@ -81,13 +80,30 @@ Start Small: Pick one "Hot Path"—a task you do daily that is high-frequency an
 --------------------------------------------------------------------------------------
 Based on your previous inquiries, you have been focusing on:
 
-    Core Concepts: Modern C++ internals, memory models, concurrency (memory ordering/false sharing), and zero-cost abstractions.
+1/ Core Concepts: Modern C++ internals, memory models, concurrency (memory ordering/false sharing), and zero-cost abstractions.
 
-    Design & Performance: Implementation of Data-Oriented Design (DOD), SoA vs. AoS layouts, and cache-friendly coding.
+2/ Design & Performance: Implementation of Data-Oriented Design (DOD), SoA vs. AoS layouts, and cache-friendly coding.
 
-    Engineering Standards: Developing robust "Deep Research" prompts for architectural decision-making, benchmarking, and team-wide technical guidelines.
+3/ Engineering Standards: Developing robust "Deep Research" prompts for architectural decision-making, benchmarking, and team-wide technical guidelines.
 
-    Implementation Details: Efficient parsing techniques and message throttling (token bucket algorithms).
+4/ Implementation Details: Efficient parsing techniques and message throttling (token bucket algorithms).
+	
+--------------------------------------------------------------------------------------	
+Based on the extensive collections of prompt templates we have processed, your previous inquiries have consistently focused on building highly structured summaries using several core pillars.
+
+Rather than relying on generic descriptions, the frameworks you have curated target specific aspects to extract real, actionable value from a document or book. These core building blocks include:
+
+1/ The 80/20 Leverage Point: Stripping away the filler and minor details to isolate the 20% of the content that delivers 80% of the practical value or impact.
+
+2/ The Single "Big Idea": Distilling an entire piece down to its foundational thesis, immediately pairing it with a simple analogy or real-world example to ensure long-term retention.
+
+3/ Structural Mechanics (The "How"): Breaking the material down by its underlying framework, step-by-step methodology, hidden assumptions, and core definitions so the reader understands how the conclusion was reached.
+
+4/ Actionable Execution: Translating extracted insights into a practical playbook, 90-day growth blueprint, or immediate "under-15-minute" action items.
+
+5/ Critical Gaps & Contradictions: Evaluating the limitations of the text, identifying research gaps, and playing devil's advocate to debate both sides of the author's arguments.
+
+6/ Strategic Categorization: Using strict formatting boundaries (like clear headings, bulleted lists, and navigation indexes) to ensure the final output is optimized for quick executive review or study sessions.
 --------------------------------------------------------------------------------------
 ##Core areas where prompts can be used to synthesize information
 
