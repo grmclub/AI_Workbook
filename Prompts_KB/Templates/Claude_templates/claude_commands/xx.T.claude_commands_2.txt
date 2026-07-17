@@ -1,0 +1,58 @@
+
+-------------------------------------------------
+## Custom Slash-Command Modular Toolkits
+You can prepend these short tags to your queries to instantly lock the AI into a specific lens, workflow, or formatting boundary.
+
+💡 Thinking Styles
+
+    /analyst         — Deep analysis
+    /critic          — Find flaws only
+    /optimizer       — Improve what's given
+    /simplify        — Explain like a beginner
+    /eli5            — Very simple explanation
+    /deepdive        — Go very detailed
+    /compare         — Compare options
+    /proscons        — List pros and cons
+    /firstprinciples — Break down to basics
+    /contrarian      — Challenge the idea
+    /devil           — Argue the other side
+    /steelman        — Best version of an argument
+
+🎯 Productivity System
+
+    /plan            — Daily plan
+    /weekly          — Weekly plan
+    /prioritize      — What to do first
+    /focus           — Remove distractions
+    /automate        — Automation ideas
+    /delegate        — What to delegate
+    /habits          — Habit building
+    /track           — Tracking system
+    /timeblock       — Time blocking
+    /review          — Weekly review
+    /morningroutine  — Start your day right
+    /batchtasks      — Group similar tasks
+
+⚡ Execution & Output Formats
+
+    /ghost           — Final answer only, no explanation
+    /minimal         — Shortest possible response
+    /brief           — 3 to 5 lines max
+    /expand          — Detailed explanation
+    /stepbystep      — Clear steps
+    /checklist       — Actionable checklist
+    /framework       — Structured framework
+    /blueprint       — Implementation plan
+    /playbook        — Repeatable system
+    /roadmap         — Timeline-based steps
+    /draft           — Rough first version
+    /polish          — Clean and refine output
+	
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------	
+	
+	
