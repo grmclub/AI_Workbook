@@ -1,0 +1,438 @@
+
+Repo:
+https://github.com/msitarzewski/agency-agents/
+
+Anthropic's official 33-page Claude Skills guide is now available.
+It walks you through everything from setup to best practices.
+https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5
+https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf
+
+-------------------------------------------------
+##99 Claude (Secret) Commands 
+
+1/ Email & Messages
+/decline [email] → polite refusal.
+/shorten [email] → half the length, key points kept.
+/warmer [email] → less stiff.
+/followup [topic] → nudge for an unanswered email.
+/sono [request] → not photos the relationship.
+/bulletpull [bullet] → builds into a clean email.
+/thanks [person + reason] → short, sincere thank you.
+/confident [email] → strips hedging and apology.
+/ooo [dates + backup] → out-of-office auto-reply.
+/namefix [person + text] → hard message, respectful.
+/intro [person a + person b + context] → double opt-in intro
+
+2/ Write & Edit
+/proof [text] → fixes typos.
+/rewrites [sentence] → five versions.
+/cuthalf [story] → cuts length.
+/opening [text] → three stronger opening lines.
+/filler [text] → flags weak words.
+/active [text] → passive to active.
+/human [text] → adds natural voice.
+/examples [point] → adds examples.
+/simply [concept] → explains at a 12-year-old level
+/titles [text] → title options.
+/tone [text + style] → rewrites text in a chosen tone
+
+3/ Think & Decide
+/choose [a vs b] → weigh options.
+/reality [decision] → pros and cons.
+/blindspot [situation] → surfaces what you might miss.
+/steelman [view] → opposing view.
+/devil [idea] → devil's advocate.
+/xpert [role] → skeptic's questions.
+/steps [decision] → walk it through one step at a time.
+/whatif [decision] → map second-order consequences.
+/honest [prompt] → smallest version to test in a week.
+
+4/ Learn & Understand
+/eli10 [topic] → explain for a ten-year-old.
+/primer [topic] → quick crash course.
+/myths [topic] → common misconceptions.
+/analogy [concept] → real-world comparison.
+/quiz [topic] → five questions.
+/compare [a vs b] → differences.
+/prep [topic] → what to know.
+/sum [text] → three-bullet summary.
+/glossary [topic] → defines key terms.
+/askbetter [topic] → questions you should be asking.
+/mentalmodel [topic] → the one model that unlocks it.
+
+5/ Plan & Organize
+/week [priorities] → plan your week.
+/milestones [goal + deadline] → weekly checkpoints.
+/pack [trip] → packing list.
+/schedule [event + duration] → timed schedule.
+/routine [goal] → daily routine.
+/priorities [list] → reorders a messy to-do list.
+/meals [ingredients/restaurants] → week of dinners.
+/agenda [topic + duration] → meeting agenda.
+/prepdate [event + time available] → prep plan with deadline.
+/order [tasks] → sequences tasks.
+/checklist [task] → step-by-step checklist to run it.
+
+6/ Brainstorm
+/ideas20 [topic] → twenty ideas.
+/gifts [person + occasion + budget] → gift options.
+/names [thing + vibe] → name ideas.
+/angles [problem] → ten unexpected approaches.
+/mix [topic] → overlooked angle.
+/combine [a + b] → makes two ideas work together.
+/headline [concept] → stronger.
+/starters [topic] → non-boring conversation openers.
+/formula [theme] → ten writing prompts.
+/ai [role + problem] → serves as a specific professional.
+/child [problem] → how a curious kid would solve it.
+
+7/ Work & Career
+/interview [questions] → confident answer prep.
+/resumebullet [bullet] → rewrite.
+/askinterviewer [role + company type] → smart questions to ask.
+/negotiate [ask] → scripts the negotiation.
+/reconnect [person + context] → linkedin reach-out.
+/app [lesson] → explains career prep.
+/winss [content] → accomplishments into five bullets.
+/promotion [role] → prep a manager 1:1 call.
+/selfreview [notes] → self-review from your notes.
+/dontknow [situation] → phrases "i don't know" well.
+/raise [context] → script to ask for a raise.
+
+8/ Content & Social
+/hook [topic] → five scroll-stopping openers.
+/caption [photo] → short caption.
+/thread [idea] → one idea, six-tweet thread.
+/caro [topic] → outlined carousel.
+/repurpose [content] → three formats.
+/cta [post] → three calls-to-action.
+/seo [article + vibe] → short lists in three styles.
+/subject [email/post] → five subject lines that get opened.
+/commentbank [topic] → sharp counter-takes, still defensible.
+/shortpost [idea] → 100-word post.
+/content [post] → three sharp replies that add value.
+
+9/ Meetings & Notes
+/meetingnotes [transcript] → rewrites into clean minutes.
+/actionitems [notes] → pulls to-do and owners.
+/standup [yesterday + today + blockers] → daily update format.
+/recap [meeting] → five-line recap.
+/decisions [notes] → decisions made.
+/questions [topic] → what to ask.
+/status [progress] → status update.
+/briefing [topic + partner] → feel pre-meeting briefing.
+/debrief [meeting] → what went well, what to fix.
+/tldr [notes] → shortest summary.
+/retro [project] → what worked, what didn't, what's next.
+-------------------------------------------------
+##5 Secret Codes For Claude
+
+#1: /ghost
+what it does:
+Makes any AI-written text sound like a real human wrote it — strips out robotic phrasing and AI patterns completely. Use it before sending a cold email or any copy that needs to sound like you.
+
+#2: /redteam
+what it does:
+Claude attacks your idea from every angle a critic, competitor, or skeptic would use. It's a military term for "find the holes before the enemy does." Use it before any public launch or pitch.
+
+#3: /premortem
+what it does:
+Imagines your project already failed 6 months from now, then works backwards to figure out why. Forces you to find the cracks before you're in too deep.
+
+#4: /tripwire
+what it does:
+Identifies the single thing most likely to blow up your entire plan. Not a list of risks — just the one that would kill everything. Huge for decisions with a lot of moving pieces.
+
+#5: /ultrathink
+what it does:
+Type this word in any prompt and Claude shifts into its deepest reasoning mode — slower, more thorough, and more deliberate than a normal response. It's the difference between Claude giving you an answer and Claude actually thinking through the problem.
+
+
+-------------------------------------------------
+##8 Claude fable 5 commands that help you get more from every prompt—and make every token count. 🧵
+
+1.
+/compact : Your context window fills up fast. When it does, Claude starts forgetting what you said 20 minutes ago.
+/compact compresses the conversation into a summary without losing the thread.
+This one alone saves you from wasting tokens on repeated context.
+
+2.
+/goal : Set a finish line. Tell Claude what "done" looks like and it keeps working across turns until it gets there. A separate smaller model checks after every step whether the goal is met. You don't babysit it.
+/goal all tests in auth pass and lint is clean
+Walk away.
+
+3.
+/ultrareview : This one's wild. It doesn't do a single code review. It spins up multiple agents that each review your code independently with different checklists, then synthesizes the results.
+Issues flagged by multiple agents get bumped to high priority.
+Run it before every PR.
+
+4.
+/btw : Ask a side question without polluting your main conversation. Need to check something quick mid-task?
+/btw keeps it out of the context so Claude doesn't get confused about what it's actually working on.
+Small command, saves a lot of wasted turns.
+
+5.
+/loop : Set a recurring check on a schedule. Different from /goal. This one watches for something to change, not push toward a finish line.
+/loop 5m check if the deploy went green
+It checks every 5 minutes and reports back. You're not driving. You're monitoring.
+
+6.
+/effort : Not every task needs max reasoning.
+/effort low for boilerplate, /effort max for hard architecture problems. You control how much thinking Claude does per turn.
+At API rates, this is the difference between a $2 session and a $20 one.
+
+7.
+/plan : Before any big change, switch to plan mode. Claude shows you exactly which files it'll touch, why, and in what order. You approve the plan before a single character changes.
+One bad refactor on API pricing can burn through your entire budget.
+
+8.
+/resume : Pick up yesterday's session exactly where you left off. No re-explaining, no rebuilding context from scratch.
+Most people restart every morning and waste the first 10 minutes getting Claude back up to speed. After tomorrow, those 10 minutes cost you.
+
+-------------------------------------------------
+##42 Claude commands to help you build, write, research, and create like a pro
+
+1. Writing & Content Creation
+→ /my-viral-linkedin-post — Turn rough ideas into engaging LinkedIn posts.
+→ /linkedin-hook — Generate scroll-stopping opening lines.
+→ /hormozi-viral-1 — Rewrite content in a punchy, high-converting style.
+→ /anti-writing-style — Make AI-generated text sound natural and human.
+→ /blog-writer — Turn any topic into a complete SEO-friendly blog post.
+→ /email-writer — Write professional emails for any situation.
+→ /rewrite — Rewrite content for better clarity, tone, and engagement.
+
+2. Social Media & Marketing
+→ /twitter-thread — Convert an idea into a high-performing X thread.
+→ /youtube-script — Create engaging YouTube scripts with strong retention.
+→ /headline-generator — Generate multiple high-converting headlines.
+→ /linkedin-post-report — Analyze why a LinkedIn post performed well.
+→ /viral-linkedin-post-recipe — Extract the formula behind successful posts.
+→ /marketing-plan — Build a complete marketing strategy.
+→ /sales-page — Write persuasive sales pages that convert.
+
+3. Research & Analysis
+→ /deep-research-analyzer — Research topics across multiple sources.
+→ /paper-summarizer — Summarize research papers into key insights.
+→ /fact-check — Verify claims and highlight inaccuracies.
+→ /competitor-analysis — Compare competitors and identify opportunities.
+→ /swot-analysis — Generate a complete SWOT analysis.
+→ /meeting-visualizer — Turn meeting notes into an interactive dashboard.
+→ /risk-analysis — Identify risks and mitigation strategies.
+
+4. Productivity & Planning
+→ /project-planner — Break projects into milestones and tasks.
+→ /task-prioritizer — Organize work based on urgency and impact.
+→ /roadmap-builder — Build product and project roadmaps.
+→ /workflow-optimizer — Improve inefficient workflows.
+→ /meeting-agenda — Generate structured meeting agendas.
+→ /client-brief — Create professional client briefs.
+→ /deck-builder — Turn notes into presentation-ready slide decks.
+
+5.. Prompt Engineering
+→ /fable-prompter — Turn messy ideas into optimized prompts.
+→ /48 — Rewrite weak prompts into high-performance Claude prompts.
+→ /prompt-improver — Refine prompts for better outputs.
+→ /chain-of-prompts — Break complex tasks into optimized prompt chains.
+→ /role-generator — Create expert AI personas.
+→ /grill-me — Claude asks targeted questions before solving your problem.
+→ /how-to — Generate beginner-friendly step-by-step guides.
+
+6. Business & Strategy
+→ /business-plan — Turn an idea into a complete business plan.
+→ /pricing-strategy — Recommend pricing models.
+→ /proposal-builder — Create polished business proposals.
+→ /pitch-deck — Turn startup ideas into investor-ready pitch decks.
+→ /customer-persona — Build detailed customer profiles.
+→ /negotiation — Prepare negotiation strategies and responses.
+→ /excel-style — Format information into clean spreadsheet-style tables.
+
+-------------------------------------------------
+##5 Techniques to Get the Most Out of Claude
+
+1. Gmail Connector (The AI Inbox Assistant)
+Instead of searching your mailbox or typing replies manually, let Claude filter and summarize information directly from your emails.
+Step 1: Open the Claude workspace sidebar and click Customize, then select Connectors.
+Step 2: Choose Gmail from the list of integrations and click log in.
+Step 3: Authorize the security permissions to securely link your workspace inbox.
+Step 4: Give your Executive Assistant a shared seat on that specific Claude account so they can self-serve on historical data questions instead of asking you.
+
+2. Calendar Connector (The AI Executive Coach)
+Connect Claude to your Google Calendar to run autonomous time audits against your business milestones instead of just checking free slots.
+Step 1: Go to Customize ➡️ Connectors on the left sidebar and select Google Calendar.
+Step 2: Click log in and link your primary business calendar.
+Step 3: Paste your core business goals, target projects, or quarterly KPIs straight into the chat viewport.
+Step 4: Run this prompt: "Analyze my calendar time blocks alongside my emails over the past 30 days. Run a brutal time audit and tell me exactly where my hours are mismatched with my stated targets."
+
+3. Co-Work Mode (Hands-Free Desktop Automation)
+Allow Claude to take over your screen layout, control your cursor, and execute multi-app processes across your computer while you step away.
+Step 1: Download and install the standalone Claude desktop app from claude.ai/download.
+Step 2: Open the application, go to your settings panel, and toggle on the Computer Use capability.
+Step 3: Click the Co-Work layout option found in the top left corner of the desktop interface.
+Step 4: Describe a multi-step task in plain English—like pulling metrics from your CRM, pasting them into a sheet, and dropping a chart in Slack—and let the tool take over your machine.
+
+4. Scheduled Task (The Autopilot Routine)
+Turn any successful desktop Co-Work automation chain into a routine process that fires off entirely on its own.
+Step 1: Open your configured desktop app and make sure the active Co-Work pane is open.
+Step 2: Type the specialized /schedule macro directly into the prompt bar environment.
+Step 3: Write out the routine instructions and choose your execution cadence from the system menu prompt (Hourly, Daily, Weekly, or Weekdays).
+Step 4: Keep your computer application open; Claude will autonomously run the desktop script—like an early morning email sweep or briefing summary—at that exact time every single day.
+
+5. Projects Hub (Zero-Hallucination Knowledge Bases)
+Isolate your operational conversations into dedicated folders filled with persistent, curated reference materials.
+Step 1: Navigate to the main left sidebar menu layout and click Projects, then hit New Project.
+Step 2: Name your workspace hub and upload your internal documents, transcripts, PDFs, or design brand books directly into the project's knowledge zone.
+Step 3: Open the system instruction configuration box and paste your custom structural prompt guidelines.
+Step 4: Begin chatting inside this folder layout; Claude will strictly reference only your pre-loaded data, completely blocking generic external data noise.
+-------------------------------------------------
+Claude has powerful features that most users never set up.
+If you haven't set them up, you're probably only using 10% of what it can actually do.
+Here are 5 must-enable Claude features to set up on Day One to unlock its full potential. 👇
+
+1. Gmail Connector (The AI Inbox Assistant)
+Instead of searching your mailbox or typing replies manually, let Claude filter and summarize information directly from your emails.
+Step 1: Open the Claude workspace sidebar and click Customize, then select Connectors.
+Step 2: Choose Gmail from the list of integrations and click log in.
+Step 3: Authorize the security permissions to securely link your workspace inbox.
+Step 4: Give your Executive Assistant a shared seat on that specific Claude account so they can self-serve on historical data questions instead of asking you.
+
+2. Calendar Connector (The AI Executive Coach)
+Connect Claude to your Google Calendar to run autonomous time audits against your business milestones instead of just checking free slots.
+Step 1: Go to Customize ➡️ Connectors on the left sidebar and select Google Calendar.
+Step 2: Click log in and link your primary business calendar.
+Step 3: Paste your core business goals, target projects, or quarterly KPIs straight into the chat viewport.
+Step 4: Run this prompt: "Analyze my calendar time blocks alongside my emails over the past 30 days. Run a brutal time audit and tell me exactly where my hours are mismatched with my stated targets."
+
+3. Co-Work Mode (Hands-Free Desktop Automation)
+Allow Claude to take over your screen layout, control your cursor, and execute multi-app processes across your computer while you step away.
+Step 1: Download and install the standalone Claude desktop app from claude.ai/download.
+Step 2: Open the application, go to your settings panel, and toggle on the Computer Use capability.
+Step 3: Click the Co-Work layout option found in the top left corner of the desktop interface.
+Step 4: Describe a multi-step task in plain English—like pulling metrics from your CRM, pasting them into a sheet, and dropping a chart in Slack—and let the tool take over your machine.
+
+4. Scheduled Task (The Autopilot Routine)
+Turn any successful desktop Co-Work automation chain into a routine process that fires off entirely on its own.
+Step 1: Open your configured desktop app and make sure the active Co-Work pane is open.
+Step 2: Type the specialized /schedule macro directly into the prompt bar environment.
+Step 3: Write out the routine instructions and choose your execution cadence from the system menu prompt (Hourly, Daily, Weekly, or Weekdays).
+Step 4: Keep your computer application open; Claude will autonomously run the desktop script—like an early morning email sweep or briefing summary—at that exact time every single day.
+
+5. Projects Hub (Zero-Hallucination Knowledge Bases)
+Isolate your operational conversations into dedicated folders filled with persistent, curated reference materials.
+Step 1: Navigate to the main left sidebar menu layout and click Projects, then hit New Project.
+Step 2: Name your workspace hub and upload your internal documents, transcripts, PDFs, or design brand books directly into the project's knowledge zone.
+Step 3: Open the system instruction configuration box and paste your custom structural prompt guidelines.
+Step 4: Begin chatting inside this folder layout; Claude will strictly reference only your pre-loaded data, completely blocking generic external data noise.
+Reply
+
+-------------------------------------------------
+How to Structure Claude Projects for Consistent, High-Quality Outputs
+
+1/ Start With the Right Mindset
+Claude Projects aren't just folders for chats.
+Think of each Project as a dedicated AI teammate trained for one specific job.
+Instead of creating one Project for everything, create one for each workflow.
+Examples:
+• Content
+• Research
+• Coding
+• Strategy
+• Communication
+
+2/ Step 1: Give Claude an Identity
+The first section of your Project should define who Claude is.
+Include:
+• Its role
+• Primary responsibility
+• Target audience
+• Communication style
+Example:
+You are my senior content strategist. Your job is to write educational AI content for beginners. Write clearly, practically, and avoid unnecessary jargon.
+This gives Claude a consistent perspective for every task.
+
+3/ Step 2: Create Non-Negotiable Rules
+Add a Rules section that tells Claude exactly what to do—and what to avoid.
+For example
+Always:
+• Write concise paragraphs
+• Give specific examples
+• Explain concepts simply
+• Stay actionable
+Never:
+• Use buzzwords
+• Write generic advice
+• Repeat ideas
+• Add unnecessary disclaimers
+Tip: Every time you manually edit Claude's output, turn that edit into a new rule.
+
+4/ Step 3: Define the Workflow
+Don't just tell Claude what to produce.
+Tell it how to approach the task.
+Example workflow:
+▪︎ Understand the objective.
+▪︎ Identify the audience.
+▪︎ Create an outline.
+▪︎ Write the first draft.
+▪︎ Review against the rules.
+▪︎ Improve clarity and remove fluff.
+A repeatable process creates repeatable quality.
+
+5/ Step 4: Specify the Output Format
+Don't leave formatting to chance.
+Define:
+• Structure
+• Length
+• Heading style
+• Tone
+• Formatting
+• CTA
+When Claude knows the destination before it starts, the output becomes far more consistent.
+
+6/ Step 5: Upload Knowledge Files
+This is what separates Claude Projects from normal chats.
+At minimum, upload:
+📄 Style Guide
+📄 Audience Profile
+Also consider adding:
+• Templates
+• Brand guidelines
+• SOPs
+• Research documents
+• Best-performing content
+These become permanent reference material for every conversation.
+
+7/ Step 6: Start Every Chat With a Brief
+Before asking Claude to write anything, provide a short briefing.
+Include:
+• Task
+• Context
+• Goal
+• Constraints
+Then ask Claude to first generate:
+• The best angle
+• A working outline
+• Its proposed approach
+Approve the plan before moving to the draft.
+
+8/ Your Claude Project Template
+Every high-performing Project follows this structure:
+✅ Identity
+✅ Rules
+✅ Workflow
+✅ Output Format
+✅ Knowledge Files
+✅ Task Brief
+Once you build this once, you rarely need to repeat instructions again.
+
+9/ Final Tip
+The quality of Claude Projects isn't determined by better prompts.
+It's determined by better systems.
+Build Projects around workflows—not conversations.
+That's the difference between using Claude as a chatbot and using it as an AI teammate.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
