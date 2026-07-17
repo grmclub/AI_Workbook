@@ -526,7 +526,6 @@ Output only the completed storyboard infographic poster in a 1:1.414 portrait as
 Based on { TOPIC }, create a high-quality vertical “encyclopedia-style educational infographic image.” The Master Prompt You can swap the [Subject] (e.g., Honeybee, Blue Whale, Venus Flytrap) to create new entries in the series. Prompt: A professional educational infographic for a [Subject], designed in a modern "Terrestrial Life" series Style. The layout features a large, realistic 3D central illustration of the [Subject] with anatomical labels like "Compound Eyes," "Thorax," and "Abdomen" using thin pointer lines. The color palette is clean with soft beige and muted tones. The composition includes multiple data modules: a "Quick Profile" sidebar, a "Top 5 Amazing Facts" list, a "Size Comparison" chart against a human silhouette, and a "Knowledge Score" star rating system.
 Include a "Detail Focus" section on the right with four square macro-photography close-ups of life stages or specific features. The bottom features "Habitat" and "Diet" icons, a "Conservation Status" slider, and a small "Did You Know?" footer. High resolution, crisp typography, clean vector lines, and a professional scientific journal aesthetic.
 
-
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
