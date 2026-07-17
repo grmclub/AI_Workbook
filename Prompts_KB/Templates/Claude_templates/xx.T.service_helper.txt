@@ -1,0 +1,62 @@
+
+-------------------------------------------------
+##Service helper
+
+1. Lawyer In Your Pocket
+Decode, write, or fight any legal document without paying $400 an hour.
+Paste to Claude:
+"I need help with a legal situation: [selling a car, signing a lease, disputing a charge, writing a freelance contract, understanding a letter I received]. Walk me through my rights, write the document or response I need, and flag anything that could hurt me. Explain it all in plain English."
+
+2. Price Scanner
+Upload a photo of any product and find the same thing for less.
+Paste to Claude:
+"[upload photo of product] Find me a cheaper version of this exact product. Same quality, same materials, different brand. Search the web and show me where to buy it, the price difference, and whether the cheaper version has any real trade-offs."
+
+3. Ingredient Scanner
+Take a photo of any food or skincare label and find out what's really in it.
+Paste to Claude:
+"[upload photo of ingredient label] Flag every ingredient linked to health concerns. Tell me what each one actually does, how serious the risk is, and suggest a cleaner alternative I can buy instead. Write it so someone with no science background understands."
+
+4. Competitor Analyzer
+Paste any competitor's page and get their full strategy handed to you.
+Paste to Claude:
+"Here's my competitor's website: [paste URL]. Break down their entire strategy. What they sell, how they position it, their pricing, what's working, their weak spots, and how I could beat them. Give me the full breakdown like a $5,000 consultant would."
+
+5. Take a photo of anything you own and discover its actual value.
+Paste to Claude:
+"[upload photo of your item] Tell me what this is worth right now. Find current resale prices, tell me the best platform to sell it on, and write me the listing title and description that gets the highest price. If it's worth more than I think, tell me why."
+
+6. Resume Builder
+Upload your resume and a job listing. Get back the version that actually lands interviews.
+Paste to Claude:
+"[upload your resume and paste the job description] Act as the recruiter hiring for this role. Score my resume out of 100, list the keywords it's missing, name the 3 things that would make you reject it in 10 seconds, then rewrite the whole thing tailored to this exact job. Be brutal."
+
+7. Debt Payoff Planner
+Paste your debts and get the fastest plan to be debt-free.
+Paste to Claude:
+"Here are my debts: [list each one with the balance, interest rate, and minimum payment]. Build me the fastest payoff plan. Show me the exact order to attack them, how much extra to put toward each one, the total interest I'll save, and the exact month I'll be completely debt-free."
+
+8. Travel Planner
+Plan an entire trip better than a $500 travel agent would.
+Paste to Claude:
+"Plan me a [number of days] trip to [destination] for [number of people] on a [budget]. Find the cheapest flights, best-rated hotels in my price range, a day-by-day itinerary with real places to eat and visit, and every way to save money a tourist wouldn't know. Make it a trip I'd book tonight."
+
+9. Contract Reader
+About to sign something? Find every trap before your name hits the page.
+Paste to Claude:
+"Here's a contract I'm about to sign: [paste it]. Read every line and tell me the 5 things most likely to hurt me later. Hidden fees, auto-renewals, cancellation traps, liability shifts, anything designed to benefit them at my expense. Explain each one like I'm not a lawyer."
+
+10. Recipe Stealer
+Take a photo of any restaurant dish and get the exact recipe.
+Paste to Claude:
+"[upload photo of a dish] Reverse-engineer this recipe. Tell me every ingredient, the exact quantities, the cooking technique, and how to make it at home so it tastes like the original. If there's a reason the restaurant version tastes better than homemade, tell me that secret too."
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
