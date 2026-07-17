@@ -46,31 +46,22 @@ TASK:
 
 Guide a learner through the process of rapidly acquiring a new complex skill. Break down the skill into key components, share techniques for deliberate practice, and provide a step-by-step roadmap to mastery. Offer motivation and troubleshooting tips to overcome obstacles.
 
-RESPONSE FORMAT
+Response Format
 
-Respond using the following RESPONSE FORMAT
+Respond Using The Following Response Format
 
-EACH OF THESE AS HEADINGS IN MARKDOWN WITH BULLETS:
-
+Each Of These As Headings In Markdown With Bullets:
 skill - The complex skill to be mastered
-
 subskills - Key component subskills that comprise the complex skill
-
 deliberate practice techniques - Specific techniques for deliberate practice of each subskill
-
 mastery roadmap - Step-by-step roadmap from beginner to mastery
-
 obstacles - Common obstacles and plateaus in the skill acquisition process
-
 troubleshooting - Troubleshooting tips and techniques to overcome obstacles
-
 motivation - Motivational advice and encouragement for the skill acquisition journey
 
-EXAMPLES [INSERT EXAMPLES HERE]
-
-COMPLEX SKILL TO BE LEARNED
-
-[INSERT HERE]
+Examples [Insert Examples Here]
+Complex Skill To Be Learned
+[Insert Here]
 -------------------------------------------------------------
 Prompt 1: High level, 5 to 10 step plan
 Instructions:
@@ -116,24 +107,24 @@ Additional Guidelines:
 - Where possible, suggest community-driven or mentorship opportunities for deeper learning.
 
 -------------------------------------------------------------
-1.THE LEARNING CURVE DESTROYER
-PROMPT:
+1.The Learning Curve Destroyer
+Prompt:
 
 "You are a teacher who only has 4 hours with me and will never see me again. Your only objective is to make me functional in [SKILL] before the time runs out.
 Do not give me theory without practical use. Do not give me a list.
 
 Tell me: what to learn first, what to completely ignore, and what exercise, if I do it once, will already put me ahead of 70% of people who have been studying this for months."
 
-2. THE REAL ERROR SIMULATOR
-PROMPT:
+2. The Real Error Simulator
+Prompt:
 "Do not explain [CONCEPT] to me.
 Put me directly into a real situation where I would have to use it and would probably make a mistake.
 When I make a mistake, do not give me the answer. Ask me a question that forces me to discover where my reasoning is broken.
 Only give me the answer after I have tried at least two times.
 Repeat this cycle until I can get it right without hesitation.
 
-3.THE IMPOSSIBLE LANGUAGE TRANSLATOR
-PROMPT:
+3.The Impossible Language Translator
+Prompt:
 "This content below is confusing to me.
 Before explaining it tell me: what is the one sentence
 that if I understand it will make the rest make sense on its own?
@@ -143,8 +134,8 @@ Then ask me 3 questions that only someone who truly understood would be able to 
 Do not continue until pass all three.
 [PASTE THE CONTENT HERE]
 
-4.THE PERSONAL LEARNING PATH ARCHITECT
-PROMPT:
+4.The Personal Learning Path Architect
+Prompt:
 "My real gool is [GOAL]
 It is not to learn [SKILL] in general. It is to achieve (SPECIFIC RESULT] within [DEADLINE]
 I already know (WHAT YOU HAVE ALREADY MASTERED]
@@ -152,8 +143,8 @@ Based on that, build me 7-day learning plan
 Each day must include one single task that it within 45 minutes, clear criterion so I know whether I did it correctly, and what not to do that day so I do not
 If the entire path does not load me to the gool, rebuild
 
-5. THE HIDDEN GAP DETECTOR
-PROMPT:
+5. The Hidden Gap Detector
+Prompt:
 I think I have already mastered [SKILL]
 I want you to prove me wrong
 Ask me 5 questions that seem simple but еxpose the gaps of someone who has never truly gone deep.
@@ -163,8 +154,8 @@ reveals about what is still missing in my foundation
 Do not go easy on me
 If I am being shallow, tell me directly.
 
-6.THE FORCED FEYNMAN METHOD
-PROMPT:
+6.The Forced Feynman Method
+Prompt:
 I just studied [TOPIC]
 I am going to explain what I understood as if you are a 10-year old child
 While I explain, stop me every time I use jargon without knowing what it means, skip a step in the reasoning, or simplify so much that it becomes wrong.
@@ -207,31 +198,29 @@ At the end, tell me exactly what these mistakes reveal about what is still not s
 "Act as a skills coach. I am stuck at an intermediate level in [insert skill]. Diagnose the likely reason and give me 3 drills to break through. My situation: [describe situation]."
 
 -------------------------------------------------------------
-1. LEARN ANYTHING IN 20 HOURS
-PROMPT:
+1. Learn Anything In 20 Hours
+Prompt:
 "I need to learn [topic] fast. Build me a 20-hour plan focused on the 20% that drives 80% of results. Break it into 10 two-hour sessions with the best resources and a 15-minute review at the end of each."
 
-2. CREATE A ONE-PAGE CHEAT SHEET 
-PROMPT: 
+2. Create A One-Page Cheat Sheet 
+Prompt: 
 "Summarize the key concepts of [topic] on a single page. Use bullet points, diagrams, and examples so I can review it in 5 minutes." 
 
-3. QUIZ ME UNTIL I BREAK
-PROMPT:
+3. Quiz Me Until I Break
+Prompt:
 "I just studied [topic]. Give me 10 progressively harder questions to test my understanding. After each answer, grade me and explain what I missed."
 
-4. BUILD A LEARNING LADDER 
-PROMPT: 
+4. Build A Learning Ladder 
+Prompt: 
 "Break [topic] into 5 levels of difficulty. Show me how to go from Level 1 (beginner) to Level 5 (advanced), with a clear milestone at each step." 
 
-5. FIND THE BEST LEARNING RESOURCES 
-PROMPT: 
+5. Find The Best Learning Resources 
+Prompt: 
 "List the top 5 resources (books, videos, courses, or people) for learning [topic] fast, and explain why each is worth my time." 
 
-6. USE THE FEYNMAN TECHNIQUE
-PROMPT:
+6. Use The Feynman Technique
+Prompt:
 "Explain [topic] to me in the simplest terms. Then have me re-explain it back. Point out gaps, re-teach what I miss, and repeat until I can explain it clearly on my own."
-
-
 
 -------------------------------------------------------------
 -------------------------------------------------------------
