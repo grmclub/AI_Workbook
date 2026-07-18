@@ -80,7 +80,81 @@ Prompt: Build a research brief for [decision]. Cover the key facts, risks, alter
 “Create a detailed step-by-step plan to achieve [goal]. Break it into clear milestones, estimate the time required for each stage, recommend the best resources, highlight common mistakes to avoid, and define what success looks like at every step.”
 
 -------------------------------------------------------------
+## 🚨 Claude can now help you research almost any topic like a professional researcher—in minutes.
+Use these 8 prompts to find stronger sources, spot research gaps, analyze studies, and understand complex topics faster. 
+
+1. Research Gap Finder
+Act as an expert research analyst. Analyze [TOPIC] and map the current research landscape. Identify the biggest gaps in existing studies, common methodological weaknesses, unanswered questions, and promising opportunities for future research. Then recommend the strongest research directions based on the available evidence.
+
+2. Knowledge Extraction Matrix
+Act as an academic knowledge architect. Read my research materials and organize them into a structured framework that includes: core concepts, key definitions, major findings, conflicting viewpoints, methodologies used, supporting evidence, and practical takeaways. Highlight the highest-value insights while removing unnecessary information.
+
+3. Literature Review Builder
+Act as a senior research reviewer. Analyze up to 10 research papers at once and produce a structured literature review. Compare objectives, methodologies, datasets, results, limitations, and conclusions. Identify recurring themes, disagreements, research trends, and opportunities for future studies.
+
+4. Explain Complex Topics Simply
+Act as an expert educator. Explain [CONCEPT] using simple language, relatable analogies, and real-world examples. Break difficult theories into easy-to-understand sections while preserving technical accuracy. Finish with a concise summary and key insights.
+
+5. Multi-Study Evidence Analyzer
+Act as a scientific evidence analyst. Compare multiple studies on [TOPIC]. Identify agreements, contradictions, differences in methodology, sample sizes, limitations, and evidence quality. Explain why results differ and determine which conclusions are best supported by the data.
+
+6. Critical Thinking Reviewer
+Act as an academic peer reviewer. Evaluate the following claim: [CLAIM]. First, build the strongest evidence-based argument against it. Then evaluate both sides objectively, identify hidden assumptions and logical weaknesses, and produce a balanced conclusion supported by the strongest available evidence.
+
+7. Source Credibility Checker
+Act as a research integrity auditor. Evaluate every source I provide for credibility, bias, evidence quality, citation strength, conflicts of interest, and methodological reliability. Flag weak or misleading sources, explain why they fail, and rank all sources from most to least trustworthy.
+
+8. Research Quality Optimizer
+Act as a research workflow consultant. Review my research process using these metrics: sources reviewed, evidence quality, research gaps identified, conflicting findings resolved, and final synthesis quality. Identify bottlenecks slowing down my workflow and recommend practical improvements to make my research faster, more accurate, and more comprehensive.
+
 -------------------------------------------------------------
+##42 Claude commands to help you build, write, research, and create like a pro
+
+1. Writing & Content Creation
+→ /my-viral-linkedin-post — Turn rough ideas into engaging LinkedIn posts.
+→ /linkedin-hook — Generate scroll-stopping opening lines.
+→ /hormozi-viral-1 — Rewrite content in a punchy, high-converting style.
+→ /anti-writing-style — Make AI-generated text sound natural and human.
+→ /blog-writer — Turn any topic into a complete SEO-friendly blog post.
+→ /email-writer — Write professional emails for any situation.
+→ /rewrite — Rewrite content for better clarity, tone, and engagement.
+
+2. Social Media & Marketing
+→ /twitter-thread — Convert an idea into a high-performing X thread.
+→ /youtube-script — Create engaging YouTube scripts with strong retention.
+→ /headline-generator — Generate multiple high-converting headlines.
+→ /linkedin-post-report — Analyze why a LinkedIn post performed well.
+→ /viral-linkedin-post-recipe — Extract the formula behind successful posts.
+→ /marketing-plan — Build a complete marketing strategy.
+→ /sales-page — Write persuasive sales pages that convert.
+
+3. Research & Analysis
+→ /deep-research-analyzer — Research topics across multiple sources.
+→ /paper-summarizer — Summarize research papers into key insights.
+→ /fact-check — Verify claims and highlight inaccuracies.
+→ /competitor-analysis — Compare competitors and identify opportunities.
+→ /swot-analysis — Generate a complete SWOT analysis.
+→ /meeting-visualizer — Turn meeting notes into an interactive dashboard.
+→ /risk-analysis — Identify risks and mitigation strategies.
+
+4. Productivity & Planning
+→ /project-planner — Break projects into milestones and tasks.
+→ /task-prioritizer — Organize work based on urgency and impact.
+→ /roadmap-builder — Build product and project roadmaps.
+→ /workflow-optimizer — Improve inefficient workflows.
+→ /meeting-agenda — Generate structured meeting agendas.
+→ /client-brief — Create professional client briefs.
+→ /deck-builder — Turn notes into presentation-ready slide decks.
+
+5.. Prompt Engineering
+→ /fable-prompter — Turn messy ideas into optimized prompts.
+→ /48 — Rewrite weak prompts into high-performance Claude prompts.
+→ /prompt-improver — Refine prompts for better outputs.
+→ /chain-of-prompts — Break complex tasks into optimized prompt chains.
+→ /role-generator — Create expert AI personas.
+→ /grill-me — Claude asks targeted questions before solving your problem.
+→ /how-to — Generate beginner-friendly step-by-step guides.
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
