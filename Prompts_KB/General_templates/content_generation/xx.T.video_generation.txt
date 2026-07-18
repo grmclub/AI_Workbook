@@ -436,6 +436,75 @@ Script: [PASTE SCRIPT]
     Make the analysis clear" structured" and actionable. Use bullet points" tables" and examples where relevant.		
 
 -------------------------------------------------
+##Create production-ready 3D animation storyboards for any video idea with this prompt. 👇🏻
+
+Prompt:
+Create a premium infographic storyboard poster for {VIDEO TITLE / THEME}.
+CANVAS
+• Aspect ratio: 1:1.414 (A-series portrait)
+• White background with thin black borders.
+• Bold modern black typography.
+• Premium cinematic 3D stylized rendering.
+• Rich, vibrant colors automatically matched to the chosen theme.
+• Professional director's production-board layout with clean spacing, clear hierarchy, and editorial-quality composition.
+• Maintain consistent lighting, environment, props, textures, materials, mood, and visual style throughout.
+
+HEADER
+{TITLE}
+TOTAL VIDEO TIME: {DURATION}
+8 SHOTS • {KEYWORD 1} • {KEYWORD 2} • {KEYWORD 3}
+Include a small production legend with icons for:
+• Action
+• Reaction
+• Time Hint
+• Key Object
+
+MAIN CHARACTER / SUBJECT
+Create one visually consistent main character or primary subject that appears in every storyboard panel. Clearly establish appearance, clothing (if applicable), personality, signature props, environment, and emotional arc. Preserve perfect visual continuity while naturally evolving expressions, poses, and body language.
+
+STORYBOARD
+Create exactly 8 storyboard panels.
+Every panel must include:
+• Panel title
+• Camera angle
+• Main action
+• Key visual details
+• Emotion or reaction
+• Time hint (when useful)
+• Short English dialogue only when absolutely necessary
+
+PANEL SEQUENCE
+1. THE OPENER
+A powerful establishing shot that instantly grabs attention by introducing the setting, main character, mood, and key object through dynamic action.
+2. THE SETUP
+Present the objective, conflict, important object, or situation that drives the story.
+3. THE FIRST ACTION
+The character begins the journey or takes the first meaningful action.
+4. THE TURNING POINT
+The most cinematic moment where everything changes emotionally or visually.
+5. THE PROGRESS
+Show clear progress toward the goal from a noticeably different camera angle.
+6. THE SIGNATURE SHOT
+Feature one visually striking perspective such as overhead, POV, macro, low-angle, side profile, reflection, silhouette, drone view, or extreme close-up.
+7. THE FINAL ACTION
+Show the last important action before completion, maximizing anticipation and emotional tension.
+8. THE REVEAL
+Present the finished result with a satisfying emotional payoff, transformation, or final reveal.
+
+FOOTER
+VIDEO FLOW:
+8 shots distributed evenly across {DURATION}.
+
+CAMERA LANGUAGE:
+Blend cinematic wide shots, medium shots, close-ups, overhead views, POV, low-angle shots, side profiles, reflections, macro shots, tracking shots, and dynamic compositions. Avoid repeating similar framing in consecutive panels.
+
+LIGHTING & ART DIRECTION:
+Automatically adapt lighting, colors, materials, atmosphere, environments, props, textures, and cinematic style to perfectly fit any subject while maintaining premium commercial-quality visuals.
+
+CONTINUITY NOTES:
+Maintain the same character, clothing, props, environment, scale, and visual identity throughout unless a deliberate transformation occurs. Keep the story immediately understandable with minimal text. Present the entire page as a polished, premium director's storyboard infographic suitable for professional film pre-production.
+Output only the completed storyboard infographic poster in a 1:1.414 portrait aspect ratio. Do not include explanations or any text outside the poster.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
