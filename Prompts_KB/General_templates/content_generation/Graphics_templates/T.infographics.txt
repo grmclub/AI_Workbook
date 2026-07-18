@@ -3,13 +3,13 @@ https://www.facebook.com/christopher.odhiambo.3386
 -------------------------------------------------------------
 Prompt:
 Create a high-value hand-drawn sketchnote infographic about: [TOPIC]
-The infographic should visually explain the topic in a way that is educational, engaging, and instantly understandable. Structure the content like a professional visual thinking session or graphic recording.
+The infographic should visually explain the topic in a way that is educational" engaging" and instantly understandable. Structure the content like a professional visual thinking session or graphic recording.
 Style & Design Requirements:
 - Use a pristine white paper background (no lines or textures).
-- Use a hand-drawn “graphic recording” / “visual thinking” style.
-- Draw using black fine-liner ink for outlines, text, arrows, and illustrations.
-- Add simple accent shading using only teal, orange, and muted red markers.
-- Make the layout feel clean, premium, and highly organized.
+- Use a hand-drawn "graphic recording" / "visual thinking" style.
+- Draw using black fine-liner ink for outlines" text" arrows" and illustrations.
+- Add simple accent shading using only teal" orange" and muted red markers.
+- Make the layout feel clean" premium" and highly organized.
 Composition:
 - Place the main title in the center inside a bold 3D-style rectangular box.
 - Arrange key ideas radially around the title.
@@ -19,8 +19,8 @@ Composition:
 - Stick figures
 - Charts and graphs
 - Symbols and metaphors
-- Containers, banners, and callout boxes
-- Connect related ideas using arrows, flow lines, and visual hierarchy.
+- Containers" banners" and callout boxes
+- Connect related ideas using arrows" flow lines" and visual hierarchy.
 Content Structure:
 - Automatically break the topic into:
 - Core concepts
@@ -30,11 +30,11 @@ Content Structure:
 - Examples
 - Actionable takeaways
 - Statistics or trends (if relevant)
-- Prioritize clarity, depth, and practical value over decoration.
+- Prioritize clarity" depth" and practical value over decoration.
 - Make the infographic feel like a high-end workshop summary or consulting whiteboard.
 Typography:
 - Use clear handwritten ALL-CAPS lettering.
-- Ensure all text is legible, distinct, and neatly spaced.
+- Ensure all text is legible" distinct" and neatly spaced.
 - Use varied text sizes for hierarchy and emphasis.
 Output Requirements:
 - A4 portrait layout
@@ -48,17 +48,17 @@ Output Requirements:
 #body parts
 
 Prompt:
-Create an ultra-realistic educational anatomy notebook page featuring a highly detailed 3D anatomical model of the [BODY PART] placed at the center of a clean spiral-bound sketchbook. The page should resemble a premium medical student's handwritten revision notebook with a realistic handcrafted aesthetic, combining scientific accuracy with attractive visual presentation.
-The [BODY PART] should appear as a high-quality 3D anatomical model with realistic biological textures, subtle gloss, intricate anatomical details, gentle ambient shadows, and physically accurate proportions. Color-code each major anatomical region using soft pastel shades that clearly distinguish different structures while maintaining a realistic medical appearance.
-Around the central 3D model, arrange neat handwritten labels connected with thin red arrows pointing precisely to each important anatomical structure. Include clear callouts for all major parts of the [BODY PART], ensuring the labels are scientifically accurate and easy to read.
-At the top of the notebook page, write in attractive handwritten typography:
+Create an ultra-realistic educational anatomy notebook page featuring a highly detailed 3D anatomical model of the [BODY PART] placed at the center of a clean spiral-bound sketchbook. The page should resemble a premium medical student's handwritten revision notebook with a realistic handcrafted aesthetic" combining scientific accuracy with attractive visual presentation.
+The [BODY PART] should appear as a high-quality 3D anatomical model with realistic biological textures" subtle gloss" intricate anatomical details" gentle ambient shadows" and physically accurate proportions. Color-code each major anatomical region using soft pastel shades that clearly distinguish different structures while maintaining a realistic medical appearance.
+Around the central 3D model" arrange neat handwritten labels connected with thin red arrows pointing precisely to each important anatomical structure. Include clear callouts for all major parts of the [BODY PART]" ensuring the labels are scientifically accurate and easy to read.
+At the top of the notebook page" write in attractive handwritten typography:
 Human Body 3D Notes
-Below it, display a large elegant title:
+Below it" display a large elegant title:
 [BODY PART]
 Underline both headings using clean marker-style lines.
 Design the remaining page as a structured educational anatomy notebook with multiple handwritten revision sections surrounding the central 3D model:
 How does the [BODY PART] work?
-Write a short, simple, kid-friendly explanation describing what the [BODY PART] does and why it is important.
+Write a short" simple" kid-friendly explanation describing what the [BODY PART] does and why it is important.
 Labeled Anatomy
 Include a clean anatomical diagram using handwritten labels and thin red arrows pointing to every major structure.
 Step-by-Step Process
@@ -66,7 +66,7 @@ Illustrate how the [BODY PART] works using a numbered flow or cycle with curved 
 Key Functions
 Present the main functions inside a neatly outlined handwritten box with small colorful icons beside each function.
 Zoom-In Detail
-Include a magnified circular callout showing an important internal structure (such as cells, tissues, microscopic anatomy, or functional units), rendered as an ultra-realistic 3D medical illustration.
+Include a magnified circular callout showing an important internal structure (such as cells" tissues" microscopic anatomy" or functional units)" rendered as an ultra-realistic 3D medical illustration.
 Fun Facts
 Add several interesting handwritten facts inside a colorful rounded notebook box with small doodles.
 Health Tips
@@ -85,10 +85,10 @@ The notebook should feature:
 • Thin red annotation arrows
 • Rounded handwritten note boxes
 • Soft colored highlighter accents
-The central anatomical model should remain the main visual focus, with all educational sections carefully arranged around it without clutter.
-Lighting should be soft natural daylight from the upper left, producing realistic shadows beneath both the notebook and the 3D anatomical model. The background should be warm neutral wood or soft cream, slightly blurred to emphasize the notebook.
-Style: Hyper-realistic 3D educational illustration, premium anatomy textbook quality, realistic handwritten medical notes, classroom infographic design, clean academic aesthetic, ultra-detailed, photorealistic, 8K, HDR, global illumination, ray tracing, physically based rendering (PBR), studio-quality lighting, sharp focus, realistic textures, highly legible handwritten typography, Pinterest-worthy educational content, modern visual learning design.
-Output: A4 portrait format (1:1.414), 2480 × 3508 px or higher resolution, ultra-sharp.
+The central anatomical model should remain the main visual focus" with all educational sections carefully arranged around it without clutter.
+Lighting should be soft natural daylight from the upper left" producing realistic shadows beneath both the notebook and the 3D anatomical model. The background should be warm neutral wood or soft cream" slightly blurred to emphasize the notebook.
+Style: Hyper-realistic 3D educational illustration" premium anatomy textbook quality" realistic handwritten medical notes" classroom infographic design" clean academic aesthetic" ultra-detailed" photorealistic" 8K" HDR" global illumination" ray tracing" physically based rendering (PBR)" studio-quality lighting" sharp focus" realistic textures" highly legible handwritten typography" Pinterest-worthy educational content" modern visual learning design.
+Output: A4 portrait format (1:1.414)" 2480 × 3508 px or higher resolution" ultra-sharp.
 
 -------------------------------------------------------------
 Create teaching diagram with this prompt 
@@ -103,50 +103,50 @@ Style
 - Crisp typography and organized layout
 - Dense but readable educational design
 Include (where applicable)
-- Multiple views (front, side, top, sectional)
+- Multiple views (front" side" top" sectional)
 - Correct labels for all major components with callout lines and arrows
-- Exploded views, cutaways, and cross-sections
-- Dimensions, scale markers, and key specifications
-- Materials, assemblies, capacities, and engineering properties
-- Flow diagrams showing movement, airflow, sound, energy, pressure, or force
-- Information panels such as How It Works, Key Components, Specifications, Materials, Did You Know?, and Applications
+- Exploded views" cutaways" and cross-sections
+- Dimensions" scale markers" and key specifications
+- Materials" assemblies" capacities" and engineering properties
+- Flow diagrams showing movement" airflow" sound" energy" pressure" or force
+- Information panels such as How It Works" Key Components" Specifications" Materials" Did You Know?" and Applications
 Place the title [OBJECT] inside a technical annotation box.
-All labels and information must be scientifically accurate, correctly named, and suitable for textbooks and classroom teaching.
-Output: Ultra-high-resolution, print-quality infographic with clean margins and no watermark.
+All labels and information must be scientifically accurate" correctly named" and suitable for textbooks and classroom teaching.
+Output: Ultra-high-resolution" print-quality infographic with clean margins and no watermark.
 
 -------------------------------------------------------------
 Create educational diagrams like this using ChatGPT Images 2.0
 
-Create a highly detailed, colorful educational infographic about [BODY PART].
+Create a highly detailed" colorful educational infographic about [BODY PART].
 The design should combine:
-• A large, central, semi-realistic anatomical illustration of the [BODY PART] (clean, slightly cartoon-stylized but medically accurate)
+• A large" central" semi-realistic anatomical illustration of the [BODY PART] (clean" slightly cartoon-stylized but medically accurate)
 • Multiple labeled sections arranged around it in a structured layout
 Include the following sections:
-• Title: “How does the [BODY PART] work?” in bold, playful typography
-• A short, simple explanation (kid-friendly language)
+• Title: "How does the [BODY PART] work?" in bold" playful typography
+• A short" simple explanation (kid-friendly language)
 • Labeled anatomy diagram with callouts
 • Step-by-step process (numbered flow or cycle)
 • Key functions (with icons)
-• Zoom-in detail (e.g., cells, internal structure)
+• Zoom-in detail (e.g." cells" internal structure)
 • Fun facts section
 • Health tips / how to keep it healthy
-• Optional: “Did you know?” or comparison panel
+• Optional: "Did you know?" or comparison panel
 Style & layout:
-• Bright, engaging, kid-friendly educational poster style
+• Bright" engaging" kid-friendly educational poster style
 • Clean grid-based layout (like a classroom infographic)
-• Rounded boxes, soft shadows, and clear section separation
-• Arrows showing flow (blood, air, food, etc.)
+• Rounded boxes" soft shadows" and clear section separation
+• Arrows showing flow (blood" air" food" etc.)
 • Icons and mini illustrations to support each section
 Visual style:
 • Medical illustration meets friendly cartoon infographic
 • Highly detailed but easy to understand
-• Smooth shading, vibrant colors, polished digital art
+• Smooth shading" vibrant colors" polished digital art
 Color palette:
-• Use bright, appealing colors (reds, blues, greens, yellows)
+• Use bright" appealing colors (reds" blues" greens" yellows)
 • Background: soft off-white or light neutral
 • Clear contrast between sections
 Output:
-A4 format (1:1.414), 2480×3508 px or higher resolution, ultra-sharp.
+A4 format (1:1.414)" 2480×3508 px or higher resolution" ultra-sharp.
 
 
 -------------------------------------------------------------
@@ -154,13 +154,13 @@ A4 format (1:1.414), 2480×3508 px or higher resolution, ultra-sharp.
 
 Prompt:
 Create a high-value hand-drawn sketchnote infographic about: [TOPIC]
-The infographic should visually explain the topic in a way that is educational, engaging, and instantly understandable. Structure the content like a professional visual thinking session or graphic recording.
+The infographic should visually explain the topic in a way that is educational" engaging" and instantly understandable. Structure the content like a professional visual thinking session or graphic recording.
 Style & Design Requirements:
 - Use a pristine white paper background (no lines or textures).
-- Use a hand-drawn “graphic recording” / “visual thinking” style.
-- Draw using black fine-liner ink for outlines, text, arrows, and illustrations.
-- Add simple accent shading using only teal, orange, and muted red markers.
-- Make the layout feel clean, premium, and highly organized.
+- Use a hand-drawn "graphic recording" / "visual thinking" style.
+- Draw using black fine-liner ink for outlines" text" arrows" and illustrations.
+- Add simple accent shading using only teal" orange" and muted red markers.
+- Make the layout feel clean" premium" and highly organized.
 Composition:
 - Place the main title in the center inside a bold 3D-style rectangular box.
 - Arrange key ideas radially around the title.
@@ -170,8 +170,8 @@ Composition:
 - Stick figures
 - Charts and graphs
 - Symbols and metaphors
-- Containers, banners, and callout boxes
-- Connect related ideas using arrows, flow lines, and visual hierarchy.
+- Containers" banners" and callout boxes
+- Connect related ideas using arrows" flow lines" and visual hierarchy.
 Content Structure:
 - Automatically break the topic into:
 - Core concepts
@@ -181,11 +181,11 @@ Content Structure:
 - Examples
 - Actionable takeaways
 - Statistics or trends (if relevant)
-- Prioritize clarity, depth, and practical value over decoration.
+- Prioritize clarity" depth" and practical value over decoration.
 - Make the infographic feel like a high-end workshop summary or consulting whiteboard.
 Typography:
 - Use clear handwritten ALL-CAPS lettering.
-- Ensure all text is legible, distinct, and neatly spaced.
+- Ensure all text is legible" distinct" and neatly spaced.
 - Use varied text sizes for hierarchy and emphasis.
 Output Requirements:
 - A4 portrait layout
@@ -195,40 +195,40 @@ Output Requirements:
 - The final result should look like a premium viral sketchnote infographic created by an expert visual strategist.
 
 -------------------------------------------------------------
-🚨ChatGPT can now help you create, illustrate, and publish a children's book without hiring a writer or illustrator.
+🚨ChatGPT can now help you create" illustrate" and publish a children's book without hiring a writer or illustrator.
 These 9 prompts can take you from idea to Amazon-ready book in just a few days.
 
 1. Book Idea Generator
 Prompt:
-Act as a bestselling children's book author, child psychologist, and publishing expert. Generate 20 original children's book ideas for children aged [AGE RANGE] around the theme of [TOPIC]. Each idea should include a memorable title, a relatable main character, the key lesson or skill being taught, a short plot summary, and a clear explanation of why parents would buy the book. Prioritize concepts that are emotionally engaging, highly marketable, and capable of becoming successful picture books or series.
+Act as a bestselling children's book author" child psychologist" and publishing expert. Generate 20 original children's book ideas for children aged [AGE RANGE] around the theme of [TOPIC]. Each idea should include a memorable title" a relatable main character" the key lesson or skill being taught" a short plot summary" and a clear explanation of why parents would buy the book. Prioritize concepts that are emotionally engaging" highly marketable" and capable of becoming successful picture books or series.
 
 2. Story Outline Creator
 Prompt:
-Create a complete [NUMBER OF PAGES]-page children's picture book outline for children aged [AGE RANGE]. The story should focus on [TOPIC] and teach [LESSON]. The main character is [CHARACTER DESCRIPTION]. Develop a compelling beginning, middle, and ending that keeps young readers engaged while naturally reinforcing the lesson. For each page, describe the story event and provide a detailed illustration brief that captures the setting, actions, emotions, and visual storytelling elements.
+Create a complete [NUMBER OF PAGES]-page children's picture book outline for children aged [AGE RANGE]. The story should focus on [TOPIC] and teach [LESSON]. The main character is [CHARACTER DESCRIPTION]. Develop a compelling beginning" middle" and ending that keeps young readers engaged while naturally reinforcing the lesson. For each page" describe the story event and provide a detailed illustration brief that captures the setting" actions" emotions" and visual storytelling elements.
 
 3. Manuscript Writer
 Prompt:
-Using the outline above, write the complete children's book manuscript for readers aged [AGE RANGE]. Keep the language appropriate for the target audience, using approximately [WORD COUNT RANGE] words per page. The tone should be [TONE], the reading experience should be enjoyable aloud, and the main character's voice should remain consistent throughout. Build emotional connection, curiosity, and momentum across the story, ending with a memorable conclusion that reinforces [LESSON] in a natural and satisfying way.
+Using the outline above" write the complete children's book manuscript for readers aged [AGE RANGE]. Keep the language appropriate for the target audience" using approximately [WORD COUNT RANGE] words per page. The tone should be [TONE]" the reading experience should be enjoyable aloud" and the main character's voice should remain consistent throughout. Build emotional connection" curiosity" and momentum across the story" ending with a memorable conclusion that reinforces [LESSON] in a natural and satisfying way.
 
 4. Character Sheet Creator
 Prompt:
-Act as a professional children's book illustrator and character designer. Create a detailed character sheet for [CHARACTER NAME]. The character is a [SPECIES/TYPE], aged [AGE], with the personality traits [TRAITS]. Include physical appearance, clothing, accessories, color palette, facial expressions, body language, distinctive features, and artistic style. The design should suit a [ART STYLE] children's picture book and remain visually consistent across every illustration in the series.
+Act as a professional children's book illustrator and character designer. Create a detailed character sheet for [CHARACTER NAME]. The character is a [SPECIES/TYPE]" aged [AGE]" with the personality traits [TRAITS]. Include physical appearance" clothing" accessories" color palette" facial expressions" body language" distinctive features" and artistic style. The design should suit a [ART STYLE] children's picture book and remain visually consistent across every illustration in the series.
 
 5. Illustration Generator
 Prompt:
-Create a professional children's book illustration using the character description below and the scene details provided. Character: [CHARACTER SHEET]. Scene: [SCENE DESCRIPTION]. Illustration Style: [ART STYLE]. Color Palette: [COLOR STYLE]. The artwork should be visually consistent with previous illustrations, emotionally expressive, age-appropriate for [AGE RANGE], and designed to feel like a professionally published picture book.
+Create a professional children's book illustration using the character description below and the scene details provided. Character: [CHARACTER SHEET]. Scene: [SCENE DESCRIPTION]. Illustration Style: [ART STYLE]. Color Palette: [COLOR STYLE]. The artwork should be visually consistent with previous illustrations" emotionally expressive" age-appropriate for [AGE RANGE]" and designed to feel like a professionally published picture book.
 
 6. Cover Creator
 Prompt:
-Design a professional children's book cover for the title "[TITLE]" with the subtitle "[SUBTITLE]" (if applicable). The target audience is [AGE RANGE]. The story focuses on [TOPIC] and teaches [LESSON]. Feature [MAIN CHARACTER] prominently on the cover and use a [ART STYLE] illustration style. The cover should be visually striking, easy to understand at thumbnail size, emotionally appealing to parents, and compelling enough to encourage clicks and purchases.
+Design a professional children's book cover for the title "[TITLE]" with the subtitle "[SUBTITLE]" (if applicable). The target audience is [AGE RANGE]. The story focuses on [TOPIC] and teaches [LESSON]. Feature [MAIN CHARACTER] prominently on the cover and use a [ART STYLE] illustration style. The cover should be visually striking" easy to understand at thumbnail size" emotionally appealing to parents" and compelling enough to encourage clicks and purchases.
 
 7. Amazon KDP Description Writer
 Prompt:
-Write a high-converting Amazon KDP description for a children's book titled "[TITLE]". The book is intended for children aged [AGE RANGE] and focuses on [TOPIC]. It helps children learn [LESSON] through the story of [MAIN CHARACTER]. Create a description that highlights the emotional and educational benefits, addresses what parents care about most, and motivates them to purchase the book. Include a strong opening hook, benefit-driven copy, and naturally integrated keywords related to the topic.
+Write a high-converting Amazon KDP description for a children's book titled "[TITLE]". The book is intended for children aged [AGE RANGE] and focuses on [TOPIC]. It helps children learn [LESSON] through the story of [MAIN CHARACTER]. Create a description that highlights the emotional and educational benefits" addresses what parents care about most" and motivates them to purchase the book. Include a strong opening hook" benefit-driven copy" and naturally integrated keywords related to the topic.
 
 8. Series Expansion Prompt
 Prompt:
-Based on the book titled "[TITLE]", create a series plan containing [NUMBER] additional books. Each book should feature the same core character while teaching a different lesson related to [OVERALL THEME]. For each title, provide the lesson, a short story concept, and an explanation of how it strengthens the overall brand. The goal is to create a cohesive children's book series that encourages repeat purchases and long-term audience growth.
+Based on the book titled "[TITLE]"" create a series plan containing [NUMBER] additional books. Each book should feature the same core character while teaching a different lesson related to [OVERALL THEME]. For each title" provide the lesson" a short story concept" and an explanation of how it strengthens the overall brand. The goal is to create a cohesive children's book series that encourages repeat purchases and long-term audience growth.
 
 9. Design your book layout
 Use Canva or Book Brush to:
@@ -243,8 +243,8 @@ Most people skip this step & wonder why their books look unprofessional.
 ##Encyclopedia page
 
 Prompt:
-Based on { TOPIC }, create a high-quality vertical “encyclopedia-style educational infographic image.”
-This image should NOT look like a regular poster or a simple illustration. Instead, it should feel like a structured knowledge guide that combines:
+Based on { TOPIC }" create a high-quality vertical "encyclopedia-style educational infographic image."
+This image should NOT look like a regular poster or a simple illustration. Instead" it should feel like a structured knowledge guide that combines:
 the feeling of a collectible reference handbook
 a modern encyclopedia page
 a lifestyle knowledge card
@@ -256,7 +256,7 @@ Several zoomed-in detail sections highlighting important features
 Multiple modular information panels with rounded corners
 Clear title hierarchy and highlighted key labels
 Concise yet information-rich encyclopedia content
-Visual scoring systems, quick summaries, or “Top 5” modules
+Visual scoring systems" quick summaries" or "Top 5" modules
 The information sections should automatically adapt to the topic. Select and combine relevant categories such as:
 Basic profile
 Classification / taxonomy
@@ -264,8 +264,8 @@ Physical characteristics
 Behavior / ecology / habits
 Structure or formation mechanisms
 Growth conditions or usage methods
-Care, maintenance, or optimization tips
-Risks, warnings, and important notes
+Care" maintenance" or optimization tips
+Risks" warnings" and important notes
 Suitable users or application scenarios
 Pros and cons comparison
 Quick rating tags or summary cards
@@ -278,9 +278,9 @@ Rounded information boxes
 Organized editorial layout
 High information density without feeling crowded
 Comfortable reading experience
-The final result should feel like a real publishable encyclopedia knowledge card designed for reading, collecting, and creating as part of a consistent series — NOT like a commercial advertisement poster.
+The final result should feel like a real publishable encyclopedia knowledge card designed for reading" collecting" and creating as part of a consistent series — NOT like a commercial advertisement poster.
 The image must strongly emphasize:
-“knowledge integration + modular information design + handbook/reference-style presentation.”
+"knowledge integration + modular information design + handbook/reference-style presentation."
 
 -------------------------------------------------------------
 Create production-ready 3D animation storyboards for any video idea with this prompt. 👇🏻
@@ -291,9 +291,9 @@ CANVAS
 • White background with thin black borders.
 • Bold modern black typography.
 • Premium cinematic 3D stylized rendering.
-• Rich, vibrant colors automatically matched to the chosen theme.
-• Professional director's production-board layout with clean spacing, clear hierarchy, and editorial-quality composition.
-• Maintain consistent lighting, environment, props, textures, materials, mood, and visual style throughout.
+• Rich" vibrant colors automatically matched to the chosen theme.
+• Professional director's production-board layout with clean spacing" clear hierarchy" and editorial-quality composition.
+• Maintain consistent lighting" environment" props" textures" materials" mood" and visual style throughout.
 HEADER
 {TITLE}
 TOTAL VIDEO TIME: {DURATION}
@@ -304,7 +304,7 @@ Include a small production legend with icons for:
 • Time Hint
 • Key Object
 MAIN CHARACTER / SUBJECT
-Create one visually consistent main character or primary subject that appears in every storyboard panel. Clearly establish appearance, clothing (if applicable), personality, signature props, environment, and emotional arc. Preserve perfect visual continuity while naturally evolving expressions, poses, and body language.
+Create one visually consistent main character or primary subject that appears in every storyboard panel. Clearly establish appearance" clothing (if applicable)" personality" signature props" environment" and emotional arc. Preserve perfect visual continuity while naturally evolving expressions" poses" and body language.
 STORYBOARD
 Create exactly 8 storyboard panels.
 Every panel must include:
@@ -317,9 +317,9 @@ Every panel must include:
 • Short English dialogue only when absolutely necessary
 PANEL SEQUENCE
 1. THE OPENER
-A powerful establishing shot that instantly grabs attention by introducing the setting, main character, mood, and key object through dynamic action.
+A powerful establishing shot that instantly grabs attention by introducing the setting" main character" mood" and key object through dynamic action.
 2. THE SETUP
-Present the objective, conflict, important object, or situation that drives the story.
+Present the objective" conflict" important object" or situation that drives the story.
 3. THE FIRST ACTION
 The character begins the journey or takes the first meaningful action.
 4. THE TURNING POINT
@@ -327,20 +327,20 @@ The most cinematic moment where everything changes emotionally or visually.
 5. THE PROGRESS
 Show clear progress toward the goal from a noticeably different camera angle.
 6. THE SIGNATURE SHOT
-Feature one visually striking perspective such as overhead, POV, macro, low-angle, side profile, reflection, silhouette, drone view, or extreme close-up.
+Feature one visually striking perspective such as overhead" POV" macro" low-angle" side profile" reflection" silhouette" drone view" or extreme close-up.
 7. THE FINAL ACTION
-Show the last important action before completion, maximizing anticipation and emotional tension.
+Show the last important action before completion" maximizing anticipation and emotional tension.
 8. THE REVEAL
-Present the finished result with a satisfying emotional payoff, transformation, or final reveal.
+Present the finished result with a satisfying emotional payoff" transformation" or final reveal.
 FOOTER
 VIDEO FLOW:
 8 shots distributed evenly across {DURATION}.
 CAMERA LANGUAGE:
-Blend cinematic wide shots, medium shots, close-ups, overhead views, POV, low-angle shots, side profiles, reflections, macro shots, tracking shots, and dynamic compositions. Avoid repeating similar framing in consecutive panels.
+Blend cinematic wide shots" medium shots" close-ups" overhead views" POV" low-angle shots" side profiles" reflections" macro shots" tracking shots" and dynamic compositions. Avoid repeating similar framing in consecutive panels.
 LIGHTING & ART DIRECTION:
-Automatically adapt lighting, colors, materials, atmosphere, environments, props, textures, and cinematic style to perfectly fit any subject while maintaining premium commercial-quality visuals.
+Automatically adapt lighting" colors" materials" atmosphere" environments" props" textures" and cinematic style to perfectly fit any subject while maintaining premium commercial-quality visuals.
 CONTINUITY NOTES:
-Maintain the same character, clothing, props, environment, scale, and visual identity throughout unless a deliberate transformation occurs. Keep the story immediately understandable with minimal text. Present the entire page as a polished, premium director's storyboard infographic suitable for professional film pre-production.
+Maintain the same character" clothing" props" environment" scale" and visual identity throughout unless a deliberate transformation occurs. Keep the story immediately understandable with minimal text. Present the entire page as a polished" premium director's storyboard infographic suitable for professional film pre-production.
 Output only the completed storyboard infographic poster in a 1:1.414 portrait aspect ratio. Do not include explanations or any text outside the poster.
 
 
@@ -348,45 +348,45 @@ Output only the completed storyboard infographic poster in a 1:1.414 portrait as
 #Create Ultra-Realistic Educational Animal Fact Posters Using ChatGPT Images 2.0 
 
 Prompt:
-“Search the web for detailed information about [ANIMAL] including its habitat, diet, hunting behavior, physical characteristics, lifespan, speed, weight, population status, predators, unique abilities, and surprising lesser-known facts. Then create a dramatic editorial infographic poster in the style of a National Geographic wildlife feature. The most powerful and iconic image of [ANIMAL] is the full-bleed atmospheric hero filling the entire poster top to bottom, dramatically lit and color-graded in tones that match the animal’s natural environment. Oversized bold typography with the animal name dominates the upper portion in a font matching the animal’s personality — fierce, elegant, or wild. Text and graphic panels float naturally over the image as editorial overlays — not boxed magazine layouts. Include: species name and classification, habitat and range map, size and weight stats, diet and hunting style, top speed, lifespan, population and conservation status, unique physical features with annotated callouts pointing directly onto the animal, natural predators and prey, and 3 surprising lesser-known facts. A small world map showing habitat range. A size comparison diagram showing scale relative to a human. Color palette and mood drawn entirely from the animal’s natural environment. No white background, no magazine grid, no boxed sections. Everything layered organically over the full-bleed hero image. Aspect ratio A4 Portrait. Dense, tactile, cinematic, unmistakably that animal.”
+"Search the web for detailed information about [ANIMAL] including its habitat" diet" hunting behavior" physical characteristics" lifespan" speed" weight" population status" predators" unique abilities" and surprising lesser-known facts. Then create a dramatic editorial infographic poster in the style of a National Geographic wildlife feature. The most powerful and iconic image of [ANIMAL] is the full-bleed atmospheric hero filling the entire poster top to bottom" dramatically lit and color-graded in tones that match the animal’s natural environment. Oversized bold typography with the animal name dominates the upper portion in a font matching the animal’s personality — fierce" elegant" or wild. Text and graphic panels float naturally over the image as editorial overlays — not boxed magazine layouts. Include: species name and classification" habitat and range map" size and weight stats" diet and hunting style" top speed" lifespan" population and conservation status" unique physical features with annotated callouts pointing directly onto the animal" natural predators and prey" and 3 surprising lesser-known facts. A small world map showing habitat range. A size comparison diagram showing scale relative to a human. Color palette and mood drawn entirely from the animal’s natural environment. No white background" no magazine grid" no boxed sections. Everything layered organically over the full-bleed hero image. Aspect ratio A4 Portrait. Dense" tactile" cinematic" unmistakably that animal."
 
 
 -------------------------------------------------------------
-🚨ChatGPT can now help you create, illustrate, and publish a children's book without hiring a writer or illustrator.
+🚨ChatGPT can now help you create" illustrate" and publish a children's book without hiring a writer or illustrator.
 These 9 prompts can take you from idea to Amazon-ready book in just a few days.
 Save this before its everywhere 👇 See less
 
 1. Book Idea Generator
 Prompt:
-Act as a bestselling children's book author, child psychologist, and publishing expert. Generate 20 original children's book ideas for children aged [AGE RANGE] around the theme of [TOPIC]. Each idea should include a memorable title, a relatable main character, the key lesson or skill being taught, a short plot summary, and a clear explanation of why parents would buy the book. Prioritize concepts that are emotionally engaging, highly marketable, and capable of becoming successful picture books or series.
+Act as a bestselling children's book author" child psychologist" and publishing expert. Generate 20 original children's book ideas for children aged [AGE RANGE] around the theme of [TOPIC]. Each idea should include a memorable title" a relatable main character" the key lesson or skill being taught" a short plot summary" and a clear explanation of why parents would buy the book. Prioritize concepts that are emotionally engaging" highly marketable" and capable of becoming successful picture books or series.
 
 2. Story Outline Creator
 Prompt:
-Create a complete [NUMBER OF PAGES]-page children's picture book outline for children aged [AGE RANGE]. The story should focus on [TOPIC] and teach [LESSON]. The main character is [CHARACTER DESCRIPTION]. Develop a compelling beginning, middle, and ending that keeps young readers engaged while naturally reinforcing the lesson. For each page, describe the story event and provide a detailed illustration brief that captures the setting, actions, emotions, and visual storytelling elements.
+Create a complete [NUMBER OF PAGES]-page children's picture book outline for children aged [AGE RANGE]. The story should focus on [TOPIC] and teach [LESSON]. The main character is [CHARACTER DESCRIPTION]. Develop a compelling beginning" middle" and ending that keeps young readers engaged while naturally reinforcing the lesson. For each page" describe the story event and provide a detailed illustration brief that captures the setting" actions" emotions" and visual storytelling elements.
 
 3. Manuscript Writer
 Prompt:
-Using the outline above, write the complete children's book manuscript for readers aged [AGE RANGE]. Keep the language appropriate for the target audience, using approximately [WORD COUNT RANGE] words per page. The tone should be [TONE], the reading experience should be enjoyable aloud, and the main character's voice should remain consistent throughout. Build emotional connection, curiosity, and momentum across the story, ending with a memorable conclusion that reinforces [LESSON] in a natural and satisfying way.
+Using the outline above" write the complete children's book manuscript for readers aged [AGE RANGE]. Keep the language appropriate for the target audience" using approximately [WORD COUNT RANGE] words per page. The tone should be [TONE]" the reading experience should be enjoyable aloud" and the main character's voice should remain consistent throughout. Build emotional connection" curiosity" and momentum across the story" ending with a memorable conclusion that reinforces [LESSON] in a natural and satisfying way.
 
 4. Character Sheet Creator
 Prompt:
-Act as a professional children's book illustrator and character designer. Create a detailed character sheet for [CHARACTER NAME]. The character is a [SPECIES/TYPE], aged [AGE], with the personality traits [TRAITS]. Include physical appearance, clothing, accessories, color palette, facial expressions, body language, distinctive features, and artistic style. The design should suit a [ART STYLE] children's picture book and remain visually consistent across every illustration in the series.
+Act as a professional children's book illustrator and character designer. Create a detailed character sheet for [CHARACTER NAME]. The character is a [SPECIES/TYPE]" aged [AGE]" with the personality traits [TRAITS]. Include physical appearance" clothing" accessories" color palette" facial expressions" body language" distinctive features" and artistic style. The design should suit a [ART STYLE] children's picture book and remain visually consistent across every illustration in the series.
 
 5. Illustration Generator
 Prompt:
-Create a professional children's book illustration using the character description below and the scene details provided. Character: [CHARACTER SHEET]. Scene: [SCENE DESCRIPTION]. Illustration Style: [ART STYLE]. Color Palette: [COLOR STYLE]. The artwork should be visually consistent with previous illustrations, emotionally expressive, age-appropriate for [AGE RANGE], and designed to feel like a professionally published picture book.
+Create a professional children's book illustration using the character description below and the scene details provided. Character: [CHARACTER SHEET]. Scene: [SCENE DESCRIPTION]. Illustration Style: [ART STYLE]. Color Palette: [COLOR STYLE]. The artwork should be visually consistent with previous illustrations" emotionally expressive" age-appropriate for [AGE RANGE]" and designed to feel like a professionally published picture book.
 
 6. Cover Creator
 Prompt:
-Design a professional children's book cover for the title "[TITLE]" with the subtitle "[SUBTITLE]" (if applicable). The target audience is [AGE RANGE]. The story focuses on [TOPIC] and teaches [LESSON]. Feature [MAIN CHARACTER] prominently on the cover and use a [ART STYLE] illustration style. The cover should be visually striking, easy to understand at thumbnail size, emotionally appealing to parents, and compelling enough to encourage clicks and purchases.
+Design a professional children's book cover for the title "[TITLE]" with the subtitle "[SUBTITLE]" (if applicable). The target audience is [AGE RANGE]. The story focuses on [TOPIC] and teaches [LESSON]. Feature [MAIN CHARACTER] prominently on the cover and use a [ART STYLE] illustration style. The cover should be visually striking" easy to understand at thumbnail size" emotionally appealing to parents" and compelling enough to encourage clicks and purchases.
 
 7. Amazon KDP Description Writer
 Prompt:
-Write a high-converting Amazon KDP description for a children's book titled "[TITLE]". The book is intended for children aged [AGE RANGE] and focuses on [TOPIC]. It helps children learn [LESSON] through the story of [MAIN CHARACTER]. Create a description that highlights the emotional and educational benefits, addresses what parents care about most, and motivates them to purchase the book. Include a strong opening hook, benefit-driven copy, and naturally integrated keywords related to the topic.
+Write a high-converting Amazon KDP description for a children's book titled "[TITLE]". The book is intended for children aged [AGE RANGE] and focuses on [TOPIC]. It helps children learn [LESSON] through the story of [MAIN CHARACTER]. Create a description that highlights the emotional and educational benefits" addresses what parents care about most" and motivates them to purchase the book. Include a strong opening hook" benefit-driven copy" and naturally integrated keywords related to the topic.
 
 8. Series Expansion Prompt
 Prompt:
-Based on the book titled "[TITLE]", create a series plan containing [NUMBER] additional books. Each book should feature the same core character while teaching a different lesson related to [OVERALL THEME]. For each title, provide the lesson, a short story concept, and an explanation of how it strengthens the overall brand. The goal is to create a cohesive children's book series that encourages repeat purchases and long-term audience growth.
+Based on the book titled "[TITLE]"" create a series plan containing [NUMBER] additional books. Each book should feature the same core character while teaching a different lesson related to [OVERALL THEME]. For each title" provide the lesson" a short story concept" and an explanation of how it strengthens the overall brand. The goal is to create a cohesive children's book series that encourages repeat purchases and long-term audience growth.
 
 9. Design your book layout
 Use Canva or Book Brush to:
@@ -397,72 +397,72 @@ Use Canva or Book Brush to:
 Most people skip this step & wonder why their books look unprofessional.
 
 Pro tip: Test your concept first.
-Before spending time on illustrations, create a simple version with basic images.
-If it gets traction, invest in better visuals.
-If not, pivot to a different topic.
+Before spending time on illustrations" create a simple version with basic images.
+If it gets traction" invest in better visuals.
+If not" pivot to a different topic.
 This saves you weeks of wasted effort.
 
 
 -------------------------------------------------------------
 🚨 NOTEBOOKLM JUST CHANGED HOW COURSES ARE BUILT.
-Whether you're building lessons, studying, or creating educational content, this approach is worth trying.
+Whether you're building lessons" studying" or creating educational content" this approach is worth trying.
 Here's how experts are using NotebookLM to build full learning systems: 👇👇
 
 1/ Build a Master Knowledge Base
-Upload your syllabus, lecture notes, reading list, research papers, reference books, and past exams into a single notebook.
-Before generating any content, let NotebookLM understand how your entire knowledge base fits together.
+Upload your syllabus" lecture notes" reading list" research papers" reference books" and past exams into a single notebook.
+Before generating any content" let NotebookLM understand how your entire knowledge base fits together.
 Prompt:
-Act as an elite academic instructional designer and subject matter expert in [Topic]. Analyze the uploaded documents and identify the five foundational principles connecting the knowledge base. Highlight conflicting assumptions, methodologies, or theoretical disagreements, explain their significance, and catalog the primary real-world applications across the materials. Organize everything into a coherent knowledge map and confirm when the analysis is complete before generating any curriculum.
+Act as an elite academic instructional designer and subject matter expert in [Topic]. Analyze the uploaded documents and identify the five foundational principles connecting the knowledge base. Highlight conflicting assumptions" methodologies" or theoretical disagreements" explain their significance" and catalog the primary real-world applications across the materials. Organize everything into a coherent knowledge map and confirm when the analysis is complete before generating any curriculum.
 
 2/ Generate a Curriculum Map
 Turn your materials into a structured learning pathway that develops knowledge progressively from fundamentals to mastery.
 Prompt:
-Using only the uploaded materials, design a comprehensive [X]-week curriculum following Bloom's Taxonomy. For each week, define the core competency, cite the source introducing the concept, recommend a source that expands or challenges it, and include a real-world application. Ensure every lesson builds logically on previous topics without skipping essential prerequisites.
+Using only the uploaded materials" design a comprehensive [X]-week curriculum following Bloom's Taxonomy. For each week" define the core competency" cite the source introducing the concept" recommend a source that expands or challenges it" and include a real-world application. Ensure every lesson builds logically on previous topics without skipping essential prerequisites.
 
 3/ Build Complete Lesson Plans
-Create engaging, evidence-based lessons grounded entirely in your uploaded sources.
+Create engaging" evidence-based lessons grounded entirely in your uploaded sources.
 Prompt:
-Create a detailed [X]-minute lesson plan for [Topic] using only the uploaded materials. Include an engaging hook based on a surprising insight or misconception, explain the concepts with practical analogies, identify the two biggest learning obstacles with strategies to overcome them, and finish with a realistic application exercise supported by evidence from the course materials.
+Create a detailed [X]-minute lesson plan for [Topic] using only the uploaded materials. Include an engaging hook based on a surprising insight or misconception" explain the concepts with practical analogies" identify the two biggest learning obstacles with strategies to overcome them" and finish with a realistic application exercise supported by evidence from the course materials.
 
 4/ Create Complete Student Learning Materials
-Generate everything students need to study, practice, and demonstrate mastery.
+Generate everything students need to study" practice" and demonstrate mastery.
 Prompt:
-Create a complete study package for [Topic] using only the uploaded materials. Include a structured study guide summarizing the key arguments and supporting evidence, fifteen flashcards with context-specific definitions, five scenario-based assessment questions that test application rather than memorization, and a fully cited answer key referencing the relevant sections of the course materials.
+Create a complete study package for [Topic] using only the uploaded materials. Include a structured study guide summarizing the key arguments and supporting evidence" fifteen flashcards with context-specific definitions" five scenario-based assessment questions that test application rather than memorization" and a fully cited answer key referencing the relevant sections of the course materials.
 
 5/ Create Advanced Classroom Discussions
-Design discussions that promote analysis, debate, and evidence-based reasoning.
+Design discussions that promote analysis" debate" and evidence-based reasoning.
 Prompt:
-Act as an expert seminar facilitator. Using only the uploaded materials, create a discussion guide for [Topic]. Generate three thought-provoking discussion questions, three Devil's Advocate questions that challenge the authors' assumptions, one cross-examination activity where students use one source to critique another, and three synthesis prompts that combine competing ideas into practical, evidence-based solutions.
+Act as an expert seminar facilitator. Using only the uploaded materials" create a discussion guide for [Topic]. Generate three thought-provoking discussion questions" three Devil's Advocate questions that challenge the authors' assumptions" one cross-examination activity where students use one source to critique another" and three synthesis prompts that combine competing ideas into practical" evidence-based solutions.
 
 6/ Upgrade Literature Reviews
 Use NotebookLM to strengthen your research with current scholarship and identify knowledge gaps.
 Prompt:
-Act as a senior research assistant specializing in [Subject]. Analyze the uploaded materials to identify three major research gaps, outdated assumptions, or methodological weaknesses. Recommend five recent, credible studies that address those gaps, then produce a literature review matrix summarizing each source's methodology, key findings, and how it supports, updates, or challenges the existing materials.
+Act as a senior research assistant specializing in [Subject]. Analyze the uploaded materials to identify three major research gaps" outdated assumptions" or methodological weaknesses. Recommend five recent" credible studies that address those gaps" then produce a literature review matrix summarizing each source's methodology" key findings" and how it supports" updates" or challenges the existing materials.
 
 7/ Turn NotebookLM into a Personal Tutor
-Transform your notebook into an interactive tutor that teaches, tests, and provides personalized feedback.
+Transform your notebook into an interactive tutor that teaches" tests" and provides personalized feedback.
 Prompt:
-Act as my personal academic tutor using only the assigned course materials. Help me master [Concept] by explaining it step by step with practical examples from the uploaded sources. Then create a realistic case study for me to solve, assess my response against the course materials, identify gaps in my reasoning, and coach me with targeted feedback until I can confidently apply the concept independently.
+Act as my personal academic tutor using only the assigned course materials. Help me master [Concept] by explaining it step by step with practical examples from the uploaded sources. Then create a realistic case study for me to solve" assess my response against the course materials" identify gaps in my reasoning" and coach me with targeted feedback until I can confidently apply the concept independently.
 
 -------------------------------------------------------------
-Generate neat, handwritten study notes for any subject with GPT Images 2.0.
+Generate neat" handwritten study notes for any subject with GPT Images 2.0.
 
 Prompt:
-Create a highly detailed handwritten study note about: “[INSERT TOPIC HERE]”
-Style the page like a real high-performing student’s revision notebook on clean A4 lined paper. Use natural student-style handwriting with realistic spacing, arrows, underlines, side notes, and neat organization.
+Create a highly detailed handwritten study note about: "[INSERT TOPIC HERE]"
+Style the page like a real high-performing student’s revision notebook on clean A4 lined paper. Use natural student-style handwriting with realistic spacing" arrows" underlines" side notes" and neat organization.
 The study note should include:
 • A clear title and structured headings
 • Easy-to-understand explanations written in simple language
-• Important definitions, formulas, keywords, and concepts
+• Important definitions" formulas" keywords" and concepts
 • Step-by-step breakdowns where necessary
 • Real-world examples or analogies to improve understanding
 • Quick revision summaries and memory tricks
-• Small educational doodles, diagrams, icons, charts, or sketches that visually explain the topic
+• Small educational doodles" diagrams" icons" charts" or sketches that visually explain the topic
 • Highlight key terms and critical points using a bright yellow neon marker
-• Circle important dates, formulas, statistics, or exam-focused information in red ink
-• Add subtle handwritten annotations, arrows, and margin notes to make it feel authentic and highly engaging
-• Make the notes visually aesthetic, organized, and optimized for studying, revision, teaching, and content creation
-The final result should look like premium viral study notes shared by top students online — clean, educational, realistic, highly informative, and easy to memorize from.
+• Circle important dates" formulas" statistics" or exam-focused information in red ink
+• Add subtle handwritten annotations" arrows" and margin notes to make it feel authentic and highly engaging
+• Make the notes visually aesthetic" organized" and optimized for studying" revision" teaching" and content creation
+The final result should look like premium viral study notes shared by top students online — clean" educational" realistic" highly informative" and easy to memorize from.
 
 -------------------------------------------------------------
 Use this prompt to instantly generate a scene-by-scene 3D animation storyboard. 👇🏻
@@ -472,11 +472,11 @@ Create a premium storyboard infographic poster for {VIDEO TITLE / THEME} using C
 Canvas
 - Aspect ratio: 1:1.414 (A-series portrait)
 - White background with thin black borders.
-- Bold, modern typography.
+- Bold" modern typography.
 - Premium cinematic 3D illustrations.
 - Professional commercial storyboard layout with clear visual storytelling.
-- Match the lighting, colors, environment, props, and mood to the chosen topic.
-- Keep the design clean, readable, visually balanced, and highly engaging.
+- Match the lighting" colors" environment" props" and mood to the chosen topic.
+- Keep the design clean" readable" visually balanced" and highly engaging.
 Header
 {TITLE IN ENGLISH}
 Total Video Time: 10 Seconds
@@ -487,9 +487,9 @@ Include a small legend with icons for:
 - Time
 - Key Object
 Main Character / Subject
-Create one consistent main character or subject that appears in every panel. Define their appearance, clothing (if applicable), personality, emotions, key props, and environment. Maintain visual consistency throughout the storyboard while showing a clear emotional progression from beginning to end.
+Create one consistent main character or subject that appears in every panel. Define their appearance" clothing (if applicable)" personality" emotions" key props" and environment. Maintain visual consistency throughout the storyboard while showing a clear emotional progression from beginning to end.
 Storyboard
-Create exactly 8 storyboard panels, with each panel representing 1.25 seconds.
+Create exactly 8 storyboard panels" with each panel representing 1.25 seconds.
 Each panel must include:
 - Panel title
 - Camera angle
@@ -499,12 +499,12 @@ Each panel must include:
 - Time hint (when helpful)
 - Short English dialogue only if necessary
 Panel Sequence
-1. Opener — Establish the setting, introduce the character, mood, and key object.
-2. Setup — Present the goal, challenge, or important object.
+1. Opener — Establish the setting" introduce the character" mood" and key object.
+2. Setup — Present the goal" challenge" or important object.
 3. First Action — The character begins the primary action.
 4. Turning Point — The strongest cinematic moment where everything changes.
 5. Progress — Show clear advancement toward the objective.
-6. Unique Angle — Use a distinctive perspective such as overhead, POV, low-angle, side view, or reflection.
+6. Unique Angle — Use a distinctive perspective such as overhead" POV" low-angle" side view" or reflection.
 7. Final Action — The final major step before completion.
 8. Reveal — Showcase the outcome with a satisfying and emotionally rewarding ending.
 Requirements
@@ -512,21 +512,43 @@ Requirements
 - Use exactly 8 visually distinct panels.
 - Maintain the same main character or subject throughout.
 - Ensure the story is easy to understand even with minimal text.
-- Keep every composition cinematic, premium, clean, and professional.
+- Keep every composition cinematic" premium" clean" and professional.
 - Automatically adapt the visuals to any topic or theme.
-- Educational topics should feel friendly, engaging, and easy to understand.
-- Avoid unsafe, violent, graphic, shocking, or prohibited content.
+- Educational topics should feel friendly" engaging" and easy to understand.
+- Avoid unsafe" violent" graphic" shocking" or prohibited content.
 Output
-Output only the completed storyboard infographic poster in a 1:1.414 portrait aspect ratio. Do not include any explanations, notes, or additional text outside the poster.
+Output only the completed storyboard infographic poster in a 1:1.414 portrait aspect ratio. Do not include any explanations" notes" or additional text outside the poster.
 
 -------------------------------------------------------------
 ##Encyclopedia Info Page
 
 📌 PROMPT: (Adjust to suit your needs)
-Based on { TOPIC }, create a high-quality vertical “encyclopedia-style educational infographic image.” The Master Prompt You can swap the [Subject] (e.g., Honeybee, Blue Whale, Venus Flytrap) to create new entries in the series. Prompt: A professional educational infographic for a [Subject], designed in a modern "Terrestrial Life" series Style. The layout features a large, realistic 3D central illustration of the [Subject] with anatomical labels like "Compound Eyes," "Thorax," and "Abdomen" using thin pointer lines. The color palette is clean with soft beige and muted tones. The composition includes multiple data modules: a "Quick Profile" sidebar, a "Top 5 Amazing Facts" list, a "Size Comparison" chart against a human silhouette, and a "Knowledge Score" star rating system.
-Include a "Detail Focus" section on the right with four square macro-photography close-ups of life stages or specific features. The bottom features "Habitat" and "Diet" icons, a "Conservation Status" slider, and a small "Did You Know?" footer. High resolution, crisp typography, clean vector lines, and a professional scientific journal aesthetic.
+Based on { TOPIC }" create a high-quality vertical "encyclopedia-style educational infographic image." The Master Prompt You can swap the [Subject] (e.g." Honeybee" Blue Whale" Venus Flytrap) to create new entries in the series. Prompt: A professional educational infographic for a [Subject]" designed in a modern "Terrestrial Life" series Style. The layout features a large" realistic 3D central illustration of the [Subject] with anatomical labels like "Compound Eyes"" "Thorax"" and "Abdomen" using thin pointer lines. The color palette is clean with soft beige and muted tones. The composition includes multiple data modules: a "Quick Profile" sidebar" a "Top 5 Amazing Facts" list" a "Size Comparison" chart against a human silhouette" and a "Knowledge Score" star rating system.
+Include a "Detail Focus" section on the right with four square macro-photography close-ups of life stages or specific features. The bottom features "Habitat" and "Diet" icons" a "Conservation Status" slider" and a small "Did You Know?" footer. High resolution" crisp typography" clean vector lines" and a professional scientific journal aesthetic.
 
 -------------------------------------------------------------
+Generate neat" handwritten study notes for any subject with GPT Images 2.0.
+
+Prompt:
+Create a highly detailed handwritten study note about: "[INSERT TOPIC HERE]"
+Style the page like a real high-performing student’s revision notebook on clean A4 lined paper. Use natural student-style handwriting with realistic spacing" arrows" underlines" side notes" and neat organization.
+The study note should include:
+• A clear title and structured headings
+• Easy-to-understand explanations written in simple language
+• Important definitions" formulas" keywords" and concepts
+• Step-by-step breakdowns where necessary
+• Real-world examples or analogies to improve understanding
+• Quick revision summaries and memory tricks
+• Small educational doodles" diagrams" icons" charts" or sketches that visually explain the topic
+• Highlight key terms and critical points using a bright yellow neon marker
+• Circle important dates" formulas" statistics" or exam-focused information in red ink
+• Add subtle handwritten annotations" arrows" and margin notes to make it feel authentic and highly engaging
+• Make the notes visually aesthetic" organized" and optimized for studying" revision" teaching" and content creation
+The final result should look like premium viral study notes shared by top students online — clean" educational" realistic" highly informative" and easy to memorize from.
+
+https://www.facebook.com/profile.php?id=100084019087375
+
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
