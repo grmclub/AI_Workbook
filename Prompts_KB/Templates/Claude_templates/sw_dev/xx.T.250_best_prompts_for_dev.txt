@@ -1,0 +1,646 @@
+
+-------------------------------------------------
+What’s Inside — 250 Prompts
+
+Category 1:
+🔧 Prompts 1–50: Coding & Debugging — code reviews, performance, security, API design
+
+Category 2:
+🤖 Prompts 51–100: AI Workflows — agents, RAG systems, prompt chains, multi-agent setups
+
+Category 3:
+📊 Prompts 101–150: Research & Analysis — competitor analysis, market sizing, risk frameworks
+
+Category 4:
+⚙️ Prompts 151–200: Automation — Zapier flows, email sequences, CRM, data pipelines
+
+Category 5:
+🏗️ Prompts 201–210: Vibe Coding & Planning NEW
+
+Category 6:
+💻 Prompts 211–220: Claude Code & Codex Agent Control NEW
+
+Category 7:
+⚡ Prompts 221–230: Harness Engineering & Agent Architecture NEW
+
+Category 8:
+🔌 Prompts 231–240: MCP & Tool Integration NEW
+
+Category 9:
+🎯 Prompts 241–250: Outcome-First Prompting (GPT-5.5 / Claude Opus style) NEW
+
+-------------------------------------------------
+🔧 Category 1 — Coding & Debugging (Prompts 1–50)
+
+Prompt 1 · Code Review
+
+Review this [language] code: [paste code]. Find potential bugs, performance issues, security vulnerabilities, and code quality problems. For each issue, explain why it matters and show me the fix.
+
+Prompt 2 · Debug This Error
+
+Debug this error: [error message]. Here’s the relevant code: [paste code]. Explain the root cause, then walk me through the fix step by step.
+
+Prompt 3 · Refactor for Readability
+
+Refactor this code to be more readable and maintainable: [paste code]. Improve variable names, function structure, and add comments where needed. Explain why you made each change.
+
+Prompt 4 · Write Unit Tests
+
+Write unit tests for this function: [paste code]. Use [test framework, e.g., Jest/Pytest]. Cover happy path, edge cases, and error cases. Explain the reasoning behind each test.
+
+Prompt 5 · Optimize Performance
+
+Optimize the performance of this code: [paste code]. Identify bottlenecks, provide an improved version, and explain the time/space complexity changes.
+
+Prompt 6 · Convert to TypeScript
+
+Convert this JavaScript to TypeScript: [paste code]. Add proper types, interfaces, and generics. Minimize use of ‘any’. Explain key type decisions.
+
+Prompt 7 · Explain This Code
+
+Explain how this code works step by step: [paste code]. Break it down so a beginner can understand each part’s role and the overall flow.
+
+Prompt 8 · Build a REST API Endpoint
+
+Create a REST API endpoint in [language/framework] for [feature]. Include request validation, error handling, and standardized response format.
+
+Prompt 9 · Optimize Database Query
+
+Optimize this database query: [paste query]. Explain index usage, join optimization, and execution plan analysis. Show the improved version.
+
+Prompt 10 · Write Technical Docs
+
+Write comprehensive technical documentation for this code: [paste code]. Include function descriptions, parameters, return values, usage examples, and caveats.
+
+Prompt 11 · Security Audit
+
+Find security vulnerabilities in this code: [paste code]. Check against OWASP Top 10 — SQL injection, XSS, CSRF, auth bypass, etc. Show me how to fix each one.
+
+Prompt 12 · Build a CLI Tool
+
+Build a CLI tool in [language] that [describe function]. Include argument parsing, help text, error handling, and progress indicators.
+
+Prompt 13 · Convert Sync to Async
+
+Convert this synchronous function to async: [paste code]. Use async/await with proper error handling and Promise chaining.
+
+Prompt 14 · Design a Database Schema
+
+Design a database schema for [system]. Include table structures, relationships, indexes, constraints, and explain your normalization decisions.
+
+Prompt 15 · Write a Regex
+
+Write a regex to validate/extract [pattern]. Explain each part of the pattern, and provide test cases including edge cases.
+
+Prompt 16 · Build a Web Scraper
+
+Build a web scraper to extract [data] from [URL] using [language/library]. Include rate limiting, retry logic, and error handling.
+
+Prompt 17 · Architecture Review
+
+Review this project structure: [paste structure or code]. Analyze scalability, maintainability, and dependency issues. Suggest specific improvements.
+
+Prompt 18 · Add Error Handling
+
+Add robust error handling to this code: [paste code]. Include try/catch, user-friendly error messages, error logging, and recovery strategies.
+
+Prompt 19 · Build a Cron Job
+
+Create a cron job that runs [task] every [interval]. Include the schedule expression, failure notifications, duplicate prevention, and execution logging.
+
+Prompt 20 · Translate Between Languages
+
+Convert this [source language] code to [target language]: [paste code]. Use idiomatic patterns for the target language and explain key differences.
+
+Prompt 21 · Write a Webhook Handler
+
+Write a webhook handler for [service] events. Include signature verification, event type routing, idempotency guarantees, and error handling.
+
+Prompt 22 · Build a Rate Limiter
+
+Implement an API rate limiter using [sliding window or token bucket]. Explain the algorithm choice and how to support distributed environments.
+
+Prompt 23 · Create Middleware
+
+Create a [feature] middleware for [framework]. Include request/response processing, error propagation, config options, and integration with other middleware.
+
+Prompt 24 · Design a Caching Strategy
+
+Design a caching strategy for [system]. Include cache layers, invalidation policies, TTL settings, stampede prevention, and hit-rate optimization.
+
+Prompt 25 · Write a Data Migration Script
+
+Write a data migration script from [source schema] to [target schema]. Include data validation, rollback capability, and progress logging.
+
+Prompt 26 · Build an Auth System
+
+Build a [JWT/OAuth/session] auth system in [language/framework]. Include token management, refresh logic, authorization, and security best practices.
+
+Prompt 27 · Generate Mock Data
+
+Generate realistic mock data matching this [schema/structure]. Include diverse cases and edge cases for testing and development.
+
+Prompt 28 · Implement Pagination
+
+Implement [cursor-based/offset] pagination for an API. Include sorting, filtering, total count, and next-page cursor in the response metadata.
+
+Prompt 29 · Set Up CI/CD Pipeline
+
+Write a CI/CD pipeline for [GitHub Actions/GitLab CI/Jenkins]. Include build, test, lint, security scan, and environment-specific deployment stages.
+
+Prompt 30 · Design a Microservice
+
+Design a microservice for [feature]. Include API contracts, data store, inter-service communication, fault isolation, and monitoring.
+
+Prompt 31 · Implement Retry Logic
+
+Implement exponential backoff retry logic for API calls. Include max retries, retryable error types, jitter, and circuit breaker pattern.
+
+Prompt 32 · Build a State Machine
+
+Implement a finite state machine for [process]. Include state list, transition conditions, guard conditions, entry/exit actions, and state history tracking.
+
+Prompt 33 · Build a Job Queue
+
+Build a job queue system in [language]. Include priority queues, parallel workers, failed job retries, dead letter queue, and progress tracking.
+
+Prompt 34 · Create an SDK
+
+Create a developer-friendly SDK for [API]. Include an intuitive interface, auto-retry, error handling, type definitions, and detailed usage examples.
+
+Prompt 35 · Optimize React Component
+
+Optimize the rendering performance of this React component: [paste code]. Show when and how to apply useMemo, useCallback, and React.memo, with reasoning.
+
+Prompt 36 · Write Integration Tests
+
+Write integration tests for [system/service]. Include real API calls, database interactions, external service mocking, and E2E scenarios.
+
+Prompt 37 · Build Full-Text Search
+
+Implement full-text search functionality. Include indexing strategy, fuzzy matching, relevance scoring, result highlighting, and autocomplete.
+
+Prompt 38 · Build a Notification System
+
+Build a notification system supporting email, SMS, and push. Include template management, delivery queue, tracking, retry logic, and subscription management.
+
+Prompt 39 · Write a Parser
+
+Write a parser for [format/language]. Include lexer/tokenizer, grammar definition, AST generation, error recovery, and position tracking.
+
+Prompt 40 · Design an Event System
+
+Design a pub/sub event system. Include type-safe event definitions, handler registration/deregistration, async processing, error propagation, and memory leak prevention.
+
+Prompt 41 · Implement File Upload
+
+Implement multipart file uploads. Include chunked uploads, progress tracking, file type/size validation, resumable uploads, and cloud storage integration.
+
+Prompt 42 · Build a Config System
+
+Build an environment-aware configuration system. Include env variables, config files, schema validation, defaults, secrets management, and runtime reload.
+
+Prompt 43 · Build a Health Check Endpoint
+
+Build a service health check endpoint. Include DB connection status, external dependencies, memory/CPU usage, response time, and custom checks.
+
+Prompt 44 · Implement Feature Flags
+
+Implement a feature flag system. Include flag definitions, user/group targeting, gradual rollout percentages, A/B testing support, and real-time updates.
+
+Prompt 45 · Build Structured Logging
+
+Build a structured logging system. Include log levels, request trace IDs, context info, JSON output, and log aggregation tool integration.
+
+Prompt 46 · Build a Report Generator
+
+Build a system that auto-generates [format] reports from [data source]. Include template engine, data aggregation, scheduling, and email distribution.
+
+Prompt 47 · Build Data Validation
+
+Build a data validation layer for [data type/source]. Include schema validation, type coercion, sanitization, custom validators, and detailed error messages.
+
+Prompt 48 · Design an API Gateway
+
+Design an API gateway for [system]. Include routing, authentication, rate limiting, request transformation, load balancing, and observability.
+
+Prompt 49 · Write a Plugin System
+
+Design a plugin system for [application]. Include plugin discovery, lifecycle hooks, sandboxing, dependency management, and versioned APIs.
+
+Prompt 50 · Build a Search Autocomplete
+
+Build a search autocomplete system for [application]. Include debouncing, trie/prefix indexing, ranked suggestions, keyboard navigation, and accessibility.
+-------------------------------------------------
+🤖 Category 2 — AI Workflows (Prompts 51–100)
+
+Agents, RAG systems, prompt chains, multi-agent setups — originals preserved from April 2026 edition.
+
+Prompt 51 · Build a ReAct Agent
+
+Build a ReAct (Reasoning + Acting) agent for [task]. Include thought-action-observation loop, tool definitions, stopping conditions, and error recovery.
+
+Prompt 52 · Design a RAG Pipeline
+
+Design a RAG pipeline for [use case]. Include document ingestion, chunking strategy, embedding model selection, vector store setup, retrieval tuning, and answer synthesis.
+
+Prompt 53 · Write a Prompt Chain
+
+Write a multi-step prompt chain for [workflow]. Each step should have clear inputs/outputs, validation gates, and fallback handling if a step fails.
+
+Prompt 54 · Build a Supervisor Agent
+
+Design a supervisor agent that coordinates [N] specialized subagents for [task]. Include task delegation logic, result aggregation, conflict resolution, and progress reporting.
+
+Prompt 55 · Write an Evaluation Framework
+
+Build an eval framework for [AI system]. Include automated test cases, human evaluation rubrics, regression tracking, and benchmark comparisons against [baseline].
+
+Prompt 56 · Build a Tool-Use Agent
+
+Build an agent that uses [tool list] to complete [goal]. Define each tool’s schema, when to invoke it, how to parse results, and how to handle tool failures.
+
+Prompt 57 · Design a Memory System
+
+Design a memory system for an AI agent. Include short-term context window, long-term vector storage, episodic memory, and retrieval-augmented memory injection.
+
+Prompt 58 · Prompt for Structured Output
+
+Write a prompt that reliably produces structured JSON output for [task]. Include schema definition, few-shot examples, validation rules, and error recovery instructions.
+
+Prompt 59 · Build a Conversational Agent
+
+Design a conversational agent for [use case]. Include persona definition, intent classification, context management, fallback handling, and graceful escalation to a human.
+
+Prompt 60 · Write a System Prompt
+
+Write a production system prompt for an AI assistant that [role/goal]. Include persona, behavioral rules, output format, what to avoid, and how to handle edge cases.
+
+Prompt 61 · Fine-Tuning Dataset
+
+Generate 20 high-quality training examples for fine-tuning a model on [task]. Each example should have a realistic prompt and an ideal response following [style/format].
+
+Prompt 62 · Reduce Hallucinations
+
+Rewrite this prompt to minimize hallucination risk: [original prompt]. Add grounding instructions, source-citation requirements, uncertainty acknowledgment, and a [VERIFY] tagging system for claims.
+
+Prompt 63 · Build a Document QA System
+
+Build a document Q&A system for [document type]. Include ingestion, chunking, semantic search, answer extraction, source attribution, and confidence scoring.
+
+Prompt 64 · Write a Classifier Prompt
+
+Write a prompt that classifies [input type] into [categories]. Include category definitions, decision rules for ambiguous cases, confidence output, and few-shot examples for each class.
+
+Prompt 65 · Build an AI Content Pipeline
+
+Design an AI content pipeline for [content type]. Include topic research, outline generation, drafting, fact-checking, SEO optimization, and publishing automation.
+
+Prompt 66 · Design Agent Tools
+
+Design a tool set for an agent that needs to [accomplish goal]. For each tool, define name, description, input schema, output schema, and error states. Follow OpenAI/Anthropic tool calling spec.
+
+Prompt 67 · Build a Summarization System
+
+Build a summarization system for [content type]. Include length control, key entity extraction, abstractive vs extractive modes, hierarchical summarization for long docs, and quality scoring.
+
+Prompt 68 · Prompt Compression
+
+Compress this system prompt while preserving all behavioral intent: [paste prompt]. Reduce token count by at least 40% without losing any rules, constraints, or persona details.
+
+Prompt 69 · Context Window Management
+
+Design a context management strategy for an agent with a [N]K token window. Include sliding window, compression triggers, priority-based retention, and session handoff.
+
+Prompt 70 · Build a Feedback Loop
+
+Design an RLHF-style feedback loop for improving [AI system]. Include feedback collection UI, preference data format, batch processing for fine-tuning, and deployment gating.
+
+Prompts 71–100 · Extended AI Workflows
+
+Semantic routing, embedding pipeline, A/B test framework, sentiment analysis, entity extraction, translation pipeline, knowledge graph, conversational memory, multi-modal agent, cost optimization, guardrails system, bias detection, prompt injection defense, model routing, latency optimization, token counting, batch API patterns, streaming output handler, tool result parser, agent loop debugger, self-reflection prompt, chain-of-thought template, few-shot selector, output validator, prompt versioning, agent observability, task decomposition, critic-agent pattern, self-consistency voting, and retrieval quality scorer.
+
+-------------------------------------------------
+📊 Category 3 — Research & Analysis (Prompts 101–150)
+
+Competitor analysis, market sizing, risk frameworks, decision support.
+
+Prompt 101 · Competitor Analysis
+
+Analyze [competitor] from the perspective of [my product]. Cover their positioning, pricing, strengths, weaknesses, and what they’re likely doing next. Format as a battlecard I can use in sales conversations.
+
+Prompt 102 · Market Sizing
+
+Estimate the TAM, SAM, and SOM for [product/market]. Walk through each calculation with assumptions, data sources, and sensitivity analysis. Flag where estimates are most uncertain.
+
+Prompt 103 · SWOT Analysis
+
+Run a SWOT analysis for [company/product/decision]. Go beyond surface observations — for each quadrant, rank by impact, identify second-order effects, and suggest specific actions.
+
+Prompt 104 · Risk Assessment
+
+Identify and assess risks for [project/decision]. Rate each risk by probability and impact, define early warning signals, and propose mitigation strategies with owners and timelines.
+
+Prompt 105 · Literature Review
+
+Summarize the state of research on [topic]. Cover key findings, methodologies, open questions, and conflicting evidence. Structure as an academic literature review with a critical perspective.
+
+Prompt 106 · Decision Framework
+
+Build a decision framework for [decision]. Define criteria, weight each by strategic importance, score [options] against the criteria, and recommend a path with explicit assumptions.
+
+Prompt 107 · User Interview Analysis
+
+Analyze these user interview transcripts: [paste transcripts]. Extract pain points, patterns, unmet needs, and notable quotes. Group insights by theme and rank by frequency.
+
+Prompt 108 · Write an Executive Summary
+
+Write an executive summary of [document/report]: [paste content]. Capture the key findings, recommendations, and required decisions in 300 words or less. Lead with the most critical information.
+
+Prompt 109 · Scenario Planning
+
+Develop 3 scenarios (optimistic, base, pessimistic) for [situation]. For each: describe the conditions, business impact, key indicators to watch, and recommended response strategy.
+
+Prompt 110 · Synthesize Conflicting Sources
+
+Reconcile these conflicting sources about [topic]: [sources]. Identify where they agree, where they diverge, likely reasons for the differences, and your best-supported conclusion.
+
+Prompts 111–150 · Extended Research Prompts
+
+Pricing strategy analysis, customer segmentation, churn analysis, cohort study design, survey design, A/B test analysis, funnel analysis, North Star metric framework, OKR breakdown, product roadmap prioritization, go-to-market strategy, positioning statement, jobs-to-be-done analysis, value proposition canvas, business model canvas, unit economics, LTV/CAC analysis, retention analysis, NPS interpretation, competitive moat analysis, industry five forces, regulatory landscape scan, technical due diligence checklist, vendor evaluation matrix, build/buy/partner analysis, make vs buy decision, M&A fit analysis, exit strategy framework, funding readiness checklist, and pitch deck narrative arc.
+
+-------------------------------------------------
+⚙️ Category 4 — Automation (Prompts 151–200)
+
+Zapier flows, email sequences, CRM automation, data pipelines.
+
+Prompt 151 · Design a Zapier Workflow
+
+Design a Zapier automation for [workflow]. Define the trigger, filter conditions, action steps, data mappings, and error paths. Include a test plan for each branch.
+
+Prompt 152 · Write an Email Sequence
+
+Write a [N]-email nurture sequence for [audience] who [trigger event]. Each email should have a subject line, opening hook, value delivery, and clear CTA. Include timing and behavioral branching logic.
+
+Prompt 153 · CRM Automation Rules
+
+Design CRM automation rules for [sales process stage]. Include lead scoring criteria, stage transition triggers, automated tasks, alert conditions, and data hygiene rules.
+
+Prompt 154 · Build a Data Pipeline
+
+Design a data pipeline from [source] to [destination]. Include ingestion schedule, transformation steps, quality checks, error alerting, and lineage tracking.
+
+Prompt 155 · Automate a Report
+
+Automate this manual report process: [describe current process]. Define data sources, transformation logic, output format, distribution list, and anomaly alerting rules.
+
+Prompt 156 · Build a Slack Bot
+
+Build a Slack bot that [function]. Include slash commands, event subscriptions, interactive messages, permission scopes, and OAuth installation flow.
+
+Prompt 157 · Google Sheets Automation
+
+Write a Google Apps Script to automate [task] in Google Sheets. Include trigger setup, data processing logic, email notifications, and error logging to a dedicated sheet.
+
+Prompt 158 · n8n Workflow Design
+
+Design an n8n workflow that [automates what]. List each node type, connection logic, credential requirements, error handling branches, and retry settings.
+
+Prompt 159 · Social Media Scheduler
+
+Design a social media automation system for [brand/account]. Include content calendar, AI generation pipeline, approval workflow, platform-specific formatting, and performance tracking.
+
+Prompt 160 · Invoice Processing Automation
+
+Automate invoice processing from [source]. Include OCR extraction, field validation, PO matching, approval routing, payment scheduling, and exception handling for mismatches.
+
+Prompts 161–200 · Extended Automation Prompts
+
+Customer onboarding flow, support ticket routing, lead enrichment pipeline, proposal generation, contract management automation, customer health score system, renewal workflow, churn prediction alert, usage-based billing logic, referral program automation, affiliate tracking, feedback collection system, NPS response automation, review request flow, knowledge base updater, changelog generator, release notes formatter, deployment checklist, incident response playbook, postmortem template, on-call rotation scheduler, runbook automation, infrastructure cost alert, capacity planning report, SLA monitoring, SLO tracking, uptime report, audit log aggregation, compliance checklist runner, and disaster recovery testing scheduler.
+
+-------------------------------------------------
+🏗️ Category 5 — Vibe Coding & Planning (Prompts 201–210) NEW · May 2026
+
+Prompt 201 · Write My PRD in One Message
+
+I want to build [app idea]. Help me write a one-page PRD before I start prompting. Include: problem statement (1 sentence), target user (1 specific person), core flow (numbered steps), data model (fields + storage), success criteria (3 checkboxes), and explicit v1 out-of-scope list.
+
+Prompt 202 · Scope Check Before Building
+
+I’m about to build [feature list]. Play devil’s advocate: which of these features belong in v1 and which should move to v2? For each v2 suggestion, explain the specific risk of including it now (scope creep, complexity, build time). Be direct.
+
+Prompt 203 · Define “Done” for This Feature
+
+I’m building [feature]. Write me a done-definition checklist: 4-6 specific, testable conditions that must all be true before I consider this complete. Make each item something I can verify by actually clicking/testing — not subjective criteria.
+
+Prompt 204 · Data Model First
+
+Before I build any UI for [app], help me lock the data model. What fields does each entity need? What are the relationships? Where should data be stored — localStorage, [database], or both? What would break if I got this wrong and had to refactor later?
+
+Prompt 205 · Session Reset (Anti-Drift)
+
+New session. Here is my PRD: [paste PRD]. Here is what has been built so far: [brief description or code]. Before we continue, tell me: (1) what’s been built that matches the PRD, (2) anything that drifts from the original plan, (3) the single next task that moves us closest to the done-definition.
+
+Prompt 206 · Phased Build Plan
+
+I want to build [app] with [stack]. Break the build into phases, each ending with something I can demo. Phase 1 should be the minimum that proves the core loop works. For each phase: what gets built, what can be tested, what should not be touched yet.
+
+Prompt 207 · Tech Stack Decision
+
+I’m building [type of app] as a solo vibe coder with [skill level] in [languages]. Recommend a tech stack that maximizes my speed to v1 without creating maintenance hell. For each layer (frontend, backend, database, auth, hosting), give one specific recommendation and one sentence on why it beats the alternatives for my situation.
+
+Prompt 208 · Core Flow Test Script
+
+Here is my app’s core user flow: [numbered steps]. Write a manual test script I can run to verify each step works. Include: the exact action to take, the expected result, and one edge case to try per step.
+
+Prompt 209 · Scope Creep Intervention
+
+I’m mid-build and I want to add [new feature]. My original v1 scope was [original scope]. Should I add this now or after shipping? Evaluate it on: does it change the data model, does it affect the core flow, and does it move me closer to or further from the v1 done-definition.
+
+Prompt 210 · Ship Readiness Check
+
+My app does [describe what it does]. Before I share it with real users, what are the 5 most likely things that will break? For each risk: the failure scenario, the consequence, and the minimum fix I need to do before shipping. Don’t sugarcoat it.
+
+-------------------------------------------------
+💻 Category 6 — Claude Code & Codex Agent Control (Prompts 211–220) NEW · May 2026
+
+Prompt 211 · CLAUDE.md Bootstrap
+
+Generate a CLAUDE.md file for my project: [project description, stack, key constraints]. Include: project overview, tech stack, file structure notes, coding conventions, what Claude should always do, what Claude should never do, and how to run the project locally.
+
+Prompt 212 · Scope-Locked Task
+
+TASK: [describe what to build]. FILES IN SCOPE: [list exact file paths]. SUCCESS CRITERIA: [2-3 testable conditions]. EXPLICITLY OUT OF SCOPE: [what not to touch]. Respond with [PLAN] first. Wait for my approval before [CHANGES].
+
+Prompt 213 · Hallucination Guard
+
+You are a harness-aware engineer. Rule: if you are unsure whether a library method, API endpoint, or language feature exists, stop and ask me — do not guess. Mark anything you’re uncertain about with [VERIFY]. Do not install new packages without asking first.
+
+Prompt 214 · Codebase Orientation
+
+Read the codebase. Before you write a single line: (1) summarize what it does in 3 sentences, (2) identify the 3 most important files, (3) list any patterns or conventions I’m clearly following, (4) flag anything that looks like a bug or anti-pattern but is NOT the task I’ve given you. Don’t fix anything yet.
+
+Prompt 215 · Minimal Diff Rule
+
+Rule for this session: produce the smallest possible diff that completes the task. Do not rename variables, reorder functions, or refactor working code. If something is broken and outside scope, put it in [OBSERVATIONS] — do not fix it.
+
+Prompt 216 · Codex Mobile Task Handoff
+
+I’m approving this task from my phone. Here’s what I need: [task description in 2-3 sentences]. My codebase context is in CLAUDE.md. Complete this task on [repo/branch], create a PR with a description of what changed and why, and pause before pushing to main.
+
+Prompt 217 · Debug Without Breaking
+
+Here’s a bug: [describe bug]. Here’s the relevant code: [paste]. Find the root cause without changing anything else. Show me: (1) what you think is causing it, (2) the minimum change that fixes it, (3) a test I can run to confirm the fix worked.
+
+Prompt 218 · Approved Stack Only
+
+My approved tech stack for this project: [list packages from package.json]. You may only use packages on this list. If you think a new package is needed, flag it in [BLOCKERS] with the reason — do not add it without my confirmation.
+
+Prompt 219 · PR Review Prompt
+
+Review this pull request diff: [paste diff]. Check for: correctness (does it do what the PR title says?), unintended changes (anything outside scope?), security issues, missing error handling, and missing tests. Respond with a pass/fail and specific line-level feedback.
+
+Prompt 220 · End-of-Session Handoff
+
+This session is ending. Write me a handoff note I can paste at the start of the next session: what was accomplished, what state the code is in, what the next task is, and any decisions or assumptions made that I should know about.
+
+-------------------------------------------------
+⚡ Category 7 — Harness Engineering & Agent Architecture (Prompts 221–230) NEW · May 2026
+
+Prompt 221 · Design the Task Table
+
+Design a task table schema for an AI agent harness managing [workflow]. Include columns for: id, type, status (pending/in_progress/done/failed/dead_letter), payload, attempts, created_at, updated_at, error. Write the SQL and explain the index strategy.
+
+Prompt 222 · Write the Dispatcher
+
+Write a task dispatcher in [language] that: queries the task table for the highest-priority pending task, marks it in_progress, hands it to the agent, and handles the case where the agent crashes mid-task (heartbeat timeout → reset to pending). No LLM decides what to work on.
+
+Prompt 223 · Hard-Code the Retry Policy
+
+Write a retry policy module in [language]: max 3 attempts, exponential backoff (1s, 5s, 30s), jitter to prevent thundering herd, dead-letter after 3 failures, and an alert on dead-letter. The agent cannot override this. It’s the harness, not the model, that decides.
+
+Prompt 224 · Idempotency Guard
+
+Add idempotency to this agent operation: [describe operation]. It should: generate an idempotency key from the input, check the operation_log before executing, store the result if successful, and return the stored result on duplicate calls. Show me the implementation and the DB schema.
+
+Prompt 225 · Draw the State Machine
+
+Draw a state machine for [agent workflow] using Mermaid syntax. Include: all valid states, all valid transitions, guard conditions, and which transitions the LLM drives vs. which are automatic harness logic.
+
+Prompt 226 · Quality Gate Implementation
+
+Write a quality gate for this agent’s output: [describe output type]. The gate should: run without calling the LLM, check [specific conditions], return pass/fail, and if failing, return specific feedback the agent can act on to fix the output. Show the implementation.
+
+Prompt 227 · Brain vs. Body Separation
+
+Review this agent code: [paste code]. Separate it into Brain (things only the LLM should decide) and Body (things the harness should handle deterministically). Refactor so the LLM only touches judgment — routing, content, interpretation. All state transitions, retries, and scheduling move to the harness layer.
+
+Prompt 228 · Harness Logging Layer
+
+Add a structured logging layer to my agent harness. Log: every task state transition (with timestamp, task_id, from_state, to_state), every retry attempt, every quality gate result, and every dead-letter event. Format as JSON. Separate harness logs from LLM output logs.
+
+Prompt 229 · DAG Task Dependencies
+
+I have these agent tasks with dependencies: [list tasks and what each depends on]. Build a DAG execution engine in [language] that: resolves the topological order, executes tasks whose dependencies are complete, skips downstream tasks when a dependency fails, and shows the execution graph visually.
+
+Prompt 230 · Harness Health Dashboard
+
+Build a CLI dashboard that shows the live health of my agent harness: tasks by state (pending/in_progress/done/failed/dead_letter), retry rate, average task duration, dead-letter queue contents, and a list of any tasks stuck in_progress for more than [threshold] minutes.
+
+-------------------------------------------------
+🔌 Category 8 — MCP & Tool Integration (Prompts 231–240) NEW · May 2026
+
+Prompt 231 · MCP Server Setup
+
+Help me configure an MCP server connection for [tool/service] in Claude Code / Codex. Give me the exact JSON config block to add to my MCP config file, what permissions/scopes the token needs, and how to test that the connection is working.
+
+Prompt 232 · Build an MCP Tool
+
+Build an MCP tool that lets an AI agent [do what]. Define the tool name, description, input schema (with types and descriptions), output schema, error states, and rate limiting. Follow the MCP spec for tool definitions.
+
+Prompt 233 · MCP Tool Call Handler
+
+Write a robust MCP tool call handler for [tool]. Include: input validation before execution, timeout handling, result serialization, error message formatting that’s useful for the agent, and a retry policy for transient failures.
+
+Prompt 234 · Connect Notion via MCP
+
+I want my Claude Code agent to read and write to Notion. Give me: the MCP config for the Notion connector, what OAuth scopes I need, which databases to grant access to, and a sample prompt that uses the Notion MCP tool to create a new page in [database name].
+
+Prompt 235 · Tool Use Decision Rules
+
+I have these MCP tools available: [list tools]. Write decision rules (not ALWAYS/NEVER commands) that tell the agent when to use each tool. Format as: “If [condition], use [tool]. If [condition], use [tool] instead. If [ambiguous case], ask before using any tool.”
+
+Prompt 236 · MCP Security Audit
+
+Audit my MCP server configuration for security issues: [paste config]. Check for: overly broad permissions, credentials in config files, lack of rate limiting, missing input validation, and tools that could cause irreversible actions without confirmation. For each issue, show the fix.
+
+Prompt 237 · Tool Result Parser
+
+Write a parser for the results from [MCP tool]. The raw result is: [paste example result]. Extract the relevant fields, handle missing data gracefully, normalize the format, and return a structured object the agent can reason about without seeing the raw API response.
+
+Prompt 238 · Multi-Tool Workflow
+
+I want an agent to: [describe workflow that requires multiple tools]. I have these MCP tools available: [list]. Design the tool call sequence, what data passes between each call, where to checkpoint results, and what to do if any tool in the chain fails.
+
+Prompt 239 · Tool Preamble Pattern
+
+My agent uses multiple tools and users see a loading spinner during tool calls. Write a preamble instruction: before any multi-step tool use, the agent should send 1-2 sentences confirming it understood the request and stating the first step. This runs before any tool calls start.
+
+Prompt 240 · MCP Test Suite
+
+Write a test suite for my MCP tool integrations. For each tool in [list], include: a happy-path test, a test for invalid input, a test for API timeout, and a test for unexpected response format. Use [test framework]. Mock external API calls — don’t hit live services in tests.
+
+-------------------------------------------------
+🎯 Category 9 — Outcome-First Prompting (Prompts 241–250) NEW · May 2026
+
+These prompts follow the Outcome-First structure formalized in OpenAI’s GPT-5.5 guide (April 2026): define what “done” looks like, not how to get there. They work equally well with Claude Opus 4.7 and GPT-5.5 — both models respond better to destination-definition than step-by-step instructions.
+
+Prompt 241 · Outcome-First Code Task
+
+Complete this task: [describe what needs to be built]. Success means: (1) [specific testable outcome], (2) [specific testable outcome], (3) [required output fields/format]. Available context: [data/files/APIs]. If evidence is missing for any criterion, ask for the smallest missing piece before proceeding.
+
+Prompt 242 · Customer Issue Resolution
+
+Resolve this customer’s issue end to end. Success means: the eligibility decision is made from available policy and account data — any allowed action is completed before responding — the final answer includes: completed_actions, customer_message, blockers. If evidence is missing, ask for the smallest missing field.
+
+Prompt 243 · Research Task (Outcome-First)
+
+Research [topic] and produce a report. Done means: the report answers [specific question], cites at least [N] verifiable sources, distinguishes between confirmed facts and uncertain claims, and is under [word count]. Do not pad with background information I didn’t ask for.
+
+Prompt 244 · Writing Task (Outcome-First)
+
+Write [content type] for [audience]. Done means: the piece opens with [specific hook type], covers [required points], is [length], avoids [specific patterns to exclude], and ends with [specific CTA or conclusion]. Use only facts from [provided sources]. Mark any claim that needs verification with [VERIFY].
+
+Prompt 245 · Edit Without Inflating
+
+Edit this text for clarity: [paste text]. Rules: preserve length, structure, and genre. Quietly improve clarity and flow. Do not add new claims, sections, or a more promotional tone unless I explicitly ask. If something is factually uncertain, flag it — don’t fix it with a guess.
+
+Prompt 246 · Analysis Task (Outcome-First)
+
+Analyze [data/situation]. Done means: you’ve answered [specific question], ranked [items] by [criteria], identified [N] specific action items with owners, and flagged assumptions I should validate. Don’t describe what analysis you’re going to do — just do it and show the output.
+
+Prompt 247 · Replace ALWAYS/NEVER with Decision Rules
+
+Rewrite this system prompt to replace ALWAYS/NEVER/MUST with decision rules: [paste prompt]. Identify which rules are true invariants (keep the absolute language) and which are judgment calls (convert to “If [condition], then [action]. Otherwise [alternative].”).
+
+Prompt 248 · Personality + Collaboration Separation
+
+I’m writing a system prompt for [AI assistant]. Separate it into two sections: PERSONALITY (how it sounds — tone, warmth, formality) and COLLABORATION STYLE (how it works — when to ask vs. assume, how proactive, how it handles uncertainty). Keep each section under 50 words.
+
+Prompt 249 · Verbosity Control
+
+Rewrite this response at low verbosity: [paste response]. Keep all factual content. Remove: filler transitions (Furthermore, Additionally, It’s worth noting), headers where prose works, bullet points where a sentence works, and the closing summary that repeats what was just said.
+
+Prompt 250 · Content Factual Guardrail
+
+You are writing [content type] for [company/product]. FACTS: use only the following sourced information: [paste facts]. Do not invent: specific customer names, metrics, roadmap dates, product capabilities, or competitive claims. If a claim lacks a source, use a placeholder [PLACEHOLDER: need data on X] rather than a plausible-sounding guess.
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
