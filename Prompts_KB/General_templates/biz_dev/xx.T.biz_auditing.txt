@@ -65,6 +65,32 @@ Prompt: Create 15 myth vs reality content ideas related to [NICHE] that challeng
     Prompt: Act as a brand strategist. Build a complete visual identity system for a [industry] brand. Include logo direction, color palette logic, typography, visual elements, and overall style.
 
 -------------------------------------------------
+##business research like a pro
+
+1. The PhD-Level Researcher
+Act as a research mastery specialist. I want to research [topic] with the depth of a PhD without spending months doing it. Give me: the research framework going from surface to genuinely deep in under 20 minutes" the source hierarchy making my findings feel credible" the synthesis approach turning information into genuine insight" and the research output format making my findings immediately actionable.
+
+2. The Competitor Intelligence Researcher
+Act as a competitor intelligence research specialist. I want to understand my competitors in [market] better than they understand themselves. Research them completely: the specific information sources revealing their real strategy" the gap analysis revealing what they're consistently missing" the positioning weakness I can exploit" and the insight making my competitive response feel genuinely informed rather than reactive.
+
+3. The Customer Research Master
+Act as a customer research mastery specialist. I want to understand my [target customer] so completely that my marketing writes itself. Research them: the specific language they use describing their problem in their own words" the emotional state making them finally decide to buy" the alternative they tried before finding me and why it failed them" and how I use this research to make every marketing message feel personally written for each reader.
+
+4. The Market Trend Spotter
+Act as a market trend spotting research specialist. I want to identify emerging trends in [market] before they become obvious to everyone else. Design my research: the early signal sources showing trends before mainstream adoption" the validation approach confirming a trend is real versus temporary" the opportunity window making early action feel genuinely worthwhile" and my realistic competitive advantage from spotting this specific trend before competitors.
+
+5. The Investment Research System
+Evaluate opportunities across four vectors: structural moat" liquidation velocity" friction costs" and unit economics. Filter out red flags like opaque cash flows or locked capital terms instantly. Compare options inside a matrix weighting capital efficiency against worst-case downside. Never invest until you can map the entire revenue flow on a single page.
+
+6. The Business Idea Researcher
+Validate market size by tracking active software buyers and indexing high-intent search volume. Analyze top competitors to isolate friction points in their user delivery pipelines. Test real demand by deploying a low-friction landing page with an unedited technical VSL to capture cash commitments" dictating whether you scale or pivot immediately.
+
+7. The Content Research Accelerator
+Extract assets inside 15 minutes using a framework mapping a systemic shift" a technical patch" and raw metrics. Pull data exclusively from vetted open-ledger databases and technical repositories to skip long articles entirely. Drop these insights straight into a bulleted checklist template to slash your content production time by 70%.
+
+8. The Research to Revenue System
+Format research directly into modular execution templates instead of dense text. Pull only the minimum viable data required to clear your very next operational bottleneck" stopping overthinking paralysis instantly. Trigger action the moment your data solves that single blocker" converting passive collection into a $3"000+ monthly revenue driver.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
