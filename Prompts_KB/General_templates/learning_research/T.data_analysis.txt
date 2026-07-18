@@ -62,10 +62,56 @@ Upload to NotebookLM:
 Prompt:
 "Using the uploaded qualitative data, refined coding framework, and research objectives, identify patterns, relationships, and connections across the codes. Examine how different codes relate to one another and identify recurring patterns, similarities, differences, contradictions, and underlying processes within the dataset. Determine whether certain codes frequently co-occur, cluster together, or represent broader conceptual categories. Highlight important relationships between participants' experiences, perceptions, and contextual factors. Critically evaluate the significance of these patterns in relation to the research questions and provide recommendations for grouping related codes into meaningful thematic categories that will support the development of robust and coherent themes."
 
-
-
-
 -------------------------------------------------------------
+##🚨 NotebookLM can now replace endless searching through Google Drive.
+Connect your documents and instantly find facts, quotes, and insights with source citations.
+Here's the exact workflow 🧵👇
+
+1. The problem
+Finding one piece of information in Google Drive is slow.
+You search a keyword, open multiple files, skim hundreds of lines, and still aren't sure you found the latest version.
+NotebookLM solves this by indexing only the documents you choose, so you can ask questions instead of searching folders.
+
+2. Create a notebook
+Create a new notebook for each client, team, or project.
+Keeping related documents together improves answer quality and makes everything easier to manage.
+
+3. Add your Google Drive files
+Click Insert sources, then select Google Drive as your source.
+Choose the folder or documents you want NotebookLM to use. It will index those files so every answer is grounded in your uploaded sources and includes citations.
+
+4. Set custom instructions
+Open Customize and define how NotebookLM should respond.
+Example:
+"Act as our Operations Manager. Answer only from the uploaded sources. Be concise, use bullet points, and never make assumptions."
+
+5. Ask questions
+Once your sources are indexed, ask questions in plain English.
+For example:
+• Summarize this document.
+• Compare these two reports.
+• What does this source say about [topic]?
+• Find every mention of [keyword].
+• Explain this concept in simple terms.
+NotebookLM answers using only your uploaded sources and includes citations you can click to verify every response.
+
+6. Why this works
+• Answers are grounded in your uploaded sources.
+• Every response includes citations so you can verify the information.
+• Team members can quickly find answers without digging through folders.
+• NotebookLM can also generate summaries, FAQs, study guides, briefs, and mind maps from your documents.
+
+7. Use cases
+• Company SOPs
+• Client documentation
+• Research papers
+• Meeting notes
+• Product documentation
+• Course materials
+• Books and PDFs
+If the information lives in your documents, NotebookLM can help you find it in seconds.
+
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
