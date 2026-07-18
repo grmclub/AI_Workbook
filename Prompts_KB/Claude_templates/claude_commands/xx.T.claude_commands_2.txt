@@ -109,6 +109,66 @@ You can prepend these short tags to your queries to instantly lock the AI into a
     /swot                — Analyze strengths/risks
     /parallel lenses     — Analyze by angles
 -------------------------------------------------
+##42 Powerful Claude Skills You Can Get on GitHub
+
+1. Developers
+	Superpowers
+	→https://github.com/obra/superpowers
+	Context7
+	→ https://github.com/upstash/context7
+	Skill Creator
+	→ https://github.com/anthropics/skills
+	MCP Builder
+	→ https://github.com/anthropics/skills
+	Webapp Testing
+	→ https://github.com/anthropics/skills
+	Claude-Mem
+	→ https://github.com/thedotmack/claude-mem
+	GitHub - obra/superpowers: An agentic skills framework & software development methodology that works.
+	GITHUB.COM
+	GitHub - obra/superpowers: An agentic skills framework & software development methodology that works.
+
+2. Designers
+	UI UX Pro Max
+	→ https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+	Taste
+	→https://github.com/Leonxlnx/taste-skill
+	Frontend Design
+	→ https://github.com/Leonxlnx/taste-skill
+	Transitions
+	→ https://github.com/Jakubantalik/transitions.dev
+	Web Artifacts
+	→https://github.com/anthropics/skills
+	Brand Guidelines
+	→ https://github.com/anthropics/skills
+	GitHub - nextlevelbuilder/ui-ux-pro-max-skill: An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+
+3. Marketing
+	45 skills to run your marketing, from copywriting to SEO to lead magnets.
+	Access them all here
+	→ https://github.com/coreyhaines31/marketingskills
+	Social Media
+	17 skills to run your social media, from post writing to Reels to thumbnails.
+	Access them all here
+	→ https://github.com/charlie947/social-media-skills
+	GitHub - coreyhaines31/marketingskills: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+
+4. Finance
+	8 skills to run your finances, from statements to reconciliation to audits.
+	Access them all here
+	→ claude.com/plugins/finance
+	Small Business
+	31 skills to run your small business, from cash flow to payroll to invoicing.
+	Access them all here
+	→ https://claude.com/plugins/small-business
+	Finance Plugin | Claude by Anthropic
+
+
+5. Legal
+	9 skills to handle your legal work, from contract review to NDAs to compliance.
+	Access them all here
+	→https://claude.com/plugins/legal
+	Every skill on the chart is real and installable from the links above.
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
