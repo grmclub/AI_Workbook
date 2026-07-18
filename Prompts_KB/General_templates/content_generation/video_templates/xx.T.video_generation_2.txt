@@ -1,0 +1,51 @@
+
+-------------------------------------------------
+##You do not need a film crew to create cinematic videos.
+With Seedance, one strong prompt can become a polished video with professional camera movement, atmosphere, storytelling, and visual effects.
+Here are the 5 steps I use to create cinematic AI videos 👇
+
+1/ Add Natural Breathing and Micro-Movements
+Prompt:
+"Use the attached image as the exact visual reference and animate the main character with subtle" realistic breathing and natural micro-movements. Preserve the character’s exact identity" facial features" hairstyle" body proportions" clothing" pose" and environment. Add gentle chest movement" small posture adjustments" natural blinking" minimal eye movement" and slight motion in the hair or fabric. Keep the camera stable and the animation restrained. Avoid exaggerated gestures" facial distortion" identity drift" body warping" or sudden movement. The final result should feel like a real person standing naturally in front of a camera."
+
+2/ Add Realistic Hair and Clothing Movement
+Prompt:
+"Animate the attached image with subtle" realistic movement in the subject’s hair and clothing. Preserve the exact identity" face" body proportions" outfit" pose" lighting" and environment. Create a gentle breeze that moves loose hair strands" fabric edges" jackets" dresses" scarves" or accessories according to their material and weight. Keep the movement physically believable and consistent with the scene. Avoid excessive wind" floating fabric" duplicated strands" unstable anatomy" or changes to the character’s appearance. Use one continuous shot with no cuts."
+
+3/ Create Natural Eye Movement and Blinking
+Prompt:
+"Use the attached portrait as the exact identity reference and animate subtle eye movement" natural blinking" and small facial micro-expressions. Preserve the person’s exact facial structure" age" skin texture" hairstyle" expression" clothing" and lighting. The eyes should track gently toward a nearby point before returning naturally. Blinking must be soft" occasional" and realistic. Add minimal breathing and slight head movement only when necessary. Avoid crossed eyes" unstable pupils" exaggerated expressions" lip movement" face drift" or plastic skin."
+
+4/ Create a Slow Cinematic Camera Orbit
+Prompt:
+"Animate the attached image with a slow and smooth camera orbit around the main subject. Preserve the subject’s exact identity" face" body shape" clothing" pose" accessories" and environment. Move the camera gradually from the front three-quarter angle toward a subtle side angle while maintaining realistic perspective and spatial continuity. Add natural parallax between the foreground" subject" and background. Keep the motion elegant" controlled" and physically accurate. Avoid sudden acceleration" warped backgrounds" duplicated elements" changing facial features" or unstable anatomy."
+
+5/ Create a Smooth Forward Tracking Shot
+Prompt:
+"Use the attached image as the exact opening frame and create a smooth forward tracking movement toward the main subject. Preserve the subject’s identity" position" proportions" clothing" lighting" and environment. The camera should move slowly through the scene while maintaining accurate perspective" realistic depth" and stable geometry. Add subtle motion to background elements" atmosphere" hair" fabric" or vegetation when appropriate. Avoid a digital zoom effect" sudden speed changes" camera shake" identity drift" or environmental deformation."
+
+6/ Animate the Environment Naturally
+Prompt:
+"Animate the attached image by adding realistic movement to the surrounding environment while keeping the main subject stable and recognizable. Preserve the original composition" lighting" colors" perspective" and visual style. Add subtle motion to clouds" trees" grass" water" curtains" smoke" traffic" distant people" or other environmental elements depending on the scene. Every movement must follow realistic physics and remain consistent with the weather and lighting. Avoid chaotic motion" repeated animation loops" changing architecture" unstable backgrounds" or newly generated objects
+
+7/ Add Cinematic Particles and Atmosphere
+Prompt:
+"Use the attached image as the exact reference and add subtle cinematic atmospheric movement. Preserve the main subject" environment" lighting" colors" and composition. Introduce restrained floating dust" pollen" snow" embers" mist" light particles" or fine debris depending on the scene. The particles should react naturally to air movement" depth" lighting" and camera focus. Keep them subtle and visually supportive rather than distracting. Avoid excessive effects" random glowing objects" particle storms" unstable lighting" or changes to the subject."
+
+8/ Create Realistic Rain and Reflections
+Prompt:
+"Animate the attached image as a realistic rainy scene while preserving the subject" environment" architecture" proportions" and lighting. Add natural rainfall with varied droplet size" wet surfaces" moving reflections" subtle splashes" water trails" and atmospheric mist. Ensure reflections match the scene’s light sources" colors" and perspective. Add restrained movement to clothing" hair" puddles" and nearby objects when appropriate. Avoid excessive rain" flickering reflections" disappearing details" changing signs" unstable geometry" or distorted faces."
+
+9/ Create a Premium Product Rotation
+Prompt:
+"Use the attached product image as the exact visual reference and create a slow" elegant product rotation. Preserve the product’s exact shape" proportions" colors" materials" packaging" logo placement" typography" and branding. Rotate the product smoothly while maintaining stable geometry and realistic perspective. Add controlled studio lighting" accurate reflections" subtle shadows" and premium depth of field. Keep the background clean and consistent. Avoid distorted logos" changing materials" warped packaging" floating movement" incorrect reflections" or unstable product details."
+
+10/ Create a Seamless Cinematic Loop
+Prompt:
+"Animate the attached image as a seamless cinematic loop. Preserve the exact subject" identity" composition" colors" lighting" environment" and visual style. Add subtle repeating movement such as breathing" hair motion" fabric movement" drifting particles" water ripples" moving clouds" or gentle camera drift. The final frame must transition naturally back into the first frame without a visible jump" change in position" lighting shift" or scene reset. Keep all motion restrained" stable" and physically believable. Avoid large gestures" camera cuts" sudden changes" or progressive scene transformation."
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
