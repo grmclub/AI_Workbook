@@ -38,7 +38,6 @@ Act as an experienced instructional coach. Guide me through a reflective analysi
 -------------------------------------------------------------
 Use these 10 powerful NotebookLM prompts to create engaging, classroom-ready English presentations in minutes
 
-
 1. Complete English Lesson
 "Act as an experienced English teacher and create a complete, slide-by-slide presentation on [insert topic]. Include a title slide, lesson objectives, a warm-up activity, clear explanations, examples, guided practice, independent practice, review activities, and a final recap slide. Structure the lesson according to communicative language teaching (CLT) principles to maximize student engagement and learning."
 
@@ -106,7 +105,6 @@ Act as an experienced language assessment specialist. Review the following langu
 
 -------------------------------------------------------------
 
-Andalus Andalus
 1. Administrative Workload Reducer
 Act as an experienced teacher's assistant. Help me streamline the following task: [TASK]. Create templates, checklists, communication drafts, and efficient workflows that reduce the time I spend on administrative responsibilities while maintaining quality and professionalism. Identify opportunities to automate repetitive tasks and recommend practical strategies that improve efficiency without compromising student support.
 
@@ -293,6 +291,54 @@ STEP 10 — Record or Deliver
 Now you actually make the course. NotebookLM handed you the skeleton. You bring the delivery — video, live cohort, PDF, audio, whatever format fits your audience.
 
 -------------------------------------------------------------
+##Google NotebookLM can teach you almost anything from a single document.
+5 prompts to make it your personal professor. 👇
+
+1. The Professor Prompt
+Turns your source into a full lecture from scratch.
+Prompt: 'You are my professor teaching [SUBJECT/TOPIC]. Using only the sources I've uploaded, teach me this material as if this is our first class. Structure your lecture in 3 parts:
+1. Foundation: the 5 core ideas I MUST understand
+2. Deep dive: examples, analogies, and how these ideas connect
+3. Check: 5 questions to test if I actually learned it
+Explain like I'm smart but new to this topic. Cite the source page or section for every claim.'
+
+2. The Study Guide Generator
+Compresses everything into a study sheet you'd actually use.
+Prompt: 'Build me a complete study guide from these sources.
+Include:
+- Key concepts (with 1-line definitions)
+- Formulas / frameworks / models
+- 5 examples I can memorize
+- 10 flashcard-style Q&A pairs for spaced repetition
+- 3 common mistakes students make on this topic
+Format it so I can print it and study from one page.'
+
+3. The Exam Simulator
+Turns your notes into a full practice exam that grades you.
+Prompt: 'Using only my uploaded sources, create a 15-question test that covers the most important material:
+- 8 multiple choice questions
+- 5 short-answer questions
+- 2 long-form questions
+After I answer, grade each response, explain what I got wrong, and rank my weakest areas so I know where to focus.'
+
+4. The Feynman Explainer
+Explains a hard concept 3 different ways so it actually sticks.
+Prompt: 'Take [SPECIFIC CONCEPT] from my sources and explain it three times:
+1. Like I'm 12 years old (use everyday analogies)
+2. Like I'm a college student in this field
+3. Like I'm about to teach this concept to someone else
+Then tell me: which explanation matches how deeply I actually understand it?'
+
+5. The Real World Bridge
+Connects the theory in your notes to actual application.
+Prompt: 'Give me 5 real-world scenarios where I would use [CONCEPT/TOPIC] from these sources.
+For each one:
+- Describe the scenario in 2 sentences
+- Show me exactly how the concept applies
+- Walk me through the step-by-step reasoning
+- End with the practical decision or outcome
+Make me feel like I could use this tomorrow.'
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
