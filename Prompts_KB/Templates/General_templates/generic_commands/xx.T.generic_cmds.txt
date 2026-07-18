@@ -1,0 +1,112 @@
+
+-------------------------------------------------
+##slash-command system cards
+
+1. Start & Create
+    /new — Start a fresh chat
+    /project — Set up a project
+    /upload — Upload your files
+    /paste — Paste from clipboard
+    /template — Use a ready template
+    /import — Pull from a file
+    /scan — Scan a document
+    /voice — Use voice input
+
+2. Focus & Context
+    /focus — Set your main goal
+    /context — Add background info
+    /details — Give more details
+    /examples — Ask for examples
+    /clarify — Ask follow-up questions
+    /define — Define key terms
+    /assumptions — List all assumptions
+    /priorities — Set what matters most
+    /constraints — Set limits
+
+3. Think & Solve
+    /analyze — Break it down
+    /compare — Compare options
+    /pros-cons — Sort pros and cons
+    /evaluate — Rate the idea
+    /recommend — Get suggestions
+    /brainstorm — Generate ideas
+    /solve — Find a solution
+    /challenge — Question assumptions
+
+4. Write & Edit
+    /write — Create content
+    /edit — Edit for clarity
+    /rewrite — Make it better
+    /shorten — Cut the fluff
+    /expand — Add more depth
+    /improve — Upgrade the writing
+    /summarize — Shorten any text
+    /paraphrase — Say it differently
+    /proofread — Fix all errors
+
+5. Organize & Structure
+    /outline — Build an outline
+    /structure — Organize content
+    /bullet — Make bullet points
+    /numbered — Create a numbered list
+    /table — Build a table
+    /summary — Summarize content
+    /key-points — Pull the key points
+    /mindmap — Create a mind map
+    /flowchart — Build a flowchart
+
+6. Code & Tech
+    /code — Write code
+    /debug — Fix bugs
+    /explain — Explain the code
+    /optimize — Make it faster
+    /refactor — Clean it up
+    /test — Write test cases
+    /convert — Switch formats
+    /documentation — Write the docs
+    /review — Do a code review
+
+8. Automate & Integrate
+    /workflow — Design a workflow
+    /automate — Automate any task
+    /api — Connect an API
+    /integrate — Link your tools
+    /schedule — Set reminders
+    /trigger — Create triggers
+    /tasklist — Build a task list
+    /checklist — Make a checklist
+
+9. Personalize & Control
+    /preferences — Set your preferences
+    /memory — Save important info
+    /tone — Adjust the tone
+    /style — Change writing style
+    /length — Change response length
+    /format — Change the format
+    /reset — Reset the chat
+    /clear — Clear all context
+
+10. Learn & Research
+    /search — Search the web
+    /research — Deep research mode
+    /learn — Get a full explanation
+    /tl;dr — Get a short summary
+    /sources — Find your sources
+    /fact-check — Verify the facts
+    /explore — Discover new angles
+
+11. Collaborate & Share
+    /share — Share the chat
+    /export — Export your content
+    /download — Download the file
+    /copy — Copy to clipboard
+    /email — Email the content
+    /publish — Publish directly
+    /feedback — Send feedback to Claude
+
+------------------------------------------------- 
+-------------------------------------------------
+------------------------------------------------- 
+-------------------------------------------------
+------------------------------------------------- 
+
