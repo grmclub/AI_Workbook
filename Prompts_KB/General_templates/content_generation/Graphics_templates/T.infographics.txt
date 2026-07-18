@@ -550,6 +550,88 @@ https://www.facebook.com/profile.php?id=100084019087375
 
 
 -------------------------------------------------------------
+##Generate educational food infographics with ChatGPT Images 2.0.
+Prompt below 👇 :
+
+Create a premium encyclopedia-style educational food infographic featuring a hyper-realistic exploded vertical composition of [FOOD]. The final image should look like a page from a luxury culinary encyclopedia, combining Michelin-star food photography, scientific food illustration, and premium editorial design. The composition must automatically adapt to the chosen food, accurately separating every major component in the order it naturally appears.
+Aspect Ratio: 1:1.414 (A-Series Portrait)
+Background:
+• Pure white
+• Soft diffused studio lighting
+• Subtle realistic shadows beneath each floating element
+• Ultra-sharp DSLR macro photography
+• Hyper-realistic textures
+• 8K quality
+• Clean minimalist editorial layout
+TITLE
+• Large title: "The Anatomy of [FOOD]"
+• Short educational description explaining what the food is and why it is unique.
+• Country of origin with flag.
+• Cuisine.
+• Preparation time.
+• Cooking time.
+• Difficulty.
+• Servings.
+MAIN EXPLODED COMPOSITION
+Construct the food as a perfectly aligned exploded vertical stack. Automatically identify the food's structure and separate every major edible component into its own floating layer while preserving the correct order and proportions. Every layer should reveal realistic internal textures, natural ingredients, moisture, fibers, fillings, sauces, or structural details where applicable.
+Above the food, include realistic floating garnishes naturally associated with the dish, such as herbs, spices, seeds, crumbs, powders, droplets, oils, steam, smoke, fruits, nuts, or aromatic particles.
+At the bottom, place the completed stack above the appropriate serving vessel that naturally matches the food (plate, bowl, cup, tray, basket, board, leaf, glass, etc.).
+ANNOTATIONS
+Use elegant thin pointer lines connecting every layer to detailed labels.
+For every labeled component include:
+• Ingredient name
+• Culinary purpose
+• Flavor contribution
+• Texture contribution
+• Nutritional value
+RIGHT INFORMATION PANEL
+INGREDIENTS
+• Complete ingredient list
+• Exact measurements
+• Optional substitutions
+RECIPE
+Include a complete recipe with:
+• Preparation
+• Step-by-step cooking instructions
+• Cooking temperatures
+• Cooking times
+• Serving instructions
+NUTRITION
+Estimated per serving:
+• Calories
+• Protein
+• Carbohydrates
+• Fat
+• Fiber
+• Sugar
+• Sodium
+LOWER INFORMATION PANELS
+CHEF TIPS
+• Best preparation techniques
+• Common mistakes
+• Storage
+• Reheating
+• Professional cooking tips
+FOOD SCIENCE
+Automatically explain the scientific processes relevant to the chosen food, such as browning, caramelization, fermentation, emulsification, gelatinization, aeration, melting, protein denaturation, crystallization, or other applicable reactions.
+
+HISTORY
+• Country of origin
+• Brief historical background
+• Modern evolution
+VARIATIONS
+Display 3–4 realistic miniature versions of popular variations of the same food with captions.
+PAIR WITH
+Recommend complementary foods and beverages.
+FUN FACTS
+Include 3–5 concise educational facts about the food.
+STYLE
+The final poster should resemble a premium culinary science textbook page with perfect spacing, elegant typography, thin annotation lines, scientifically accurate ingredients, museum-quality layout, photorealistic food textures, balanced composition, and a clean white background. Automatically adapt every visual element, layer, ingredient, recipe, labels, and educational content specifically to the selected [FOOD] without requiring any additional instructions.
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
