@@ -104,6 +104,48 @@
 	like a professional retoucher.
 
 -------------------------------------------------
+10 MOST Powerful ChatGPT Prompts That Instantly Upgrade Your Images👇
+
+1. Remove Background
+Prompt:
+"Remove the background from this image and make it transparent."
+
+2. Enhance Image Quality
+Prompt:
+"Enhance the image quality, improve lighting, and increase sharpness while keeping it natural."
+
+3. Change Background
+Prompt:
+"Replace the background with a beautiful [type of background] while keeping the subject the same."
+
+4. Color Correction
+Prompt:
+"Adjust the colors, contrast, and brightness to make the image look vibrant and professional."
+
+5. Remove Objects
+Prompt:
+"Remove the [object] from the image and fill the space naturally."
+
+6. Add Text to Image
+Prompt:
+"Add the text 'Your Text Here' to this image in a stylish font and place it at the bottom."
+
+7. Change Colors
+Prompt:
+"Change the color of [object] to [new color] while keeping the rest of the image the same."
+
+8. Resize Image
+Prompt:
+"Resize this image to [dimensions or aspect ratio] while maintaining its quality."
+
+9. Add Shadow
+Prompt:
+"Add a realistic shadow effect to the subject to make it look more natural."
+
+10. Create a Flat Lay
+Prompt:
+"Convert this image into a flat lay style with a clean background and aesthetic arrangement."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
