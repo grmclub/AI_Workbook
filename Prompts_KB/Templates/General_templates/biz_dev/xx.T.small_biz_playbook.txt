@@ -1,0 +1,85 @@
+
+-------------------------------------------------
+## 31 Claude Skills For Small Businesses command suite
+
+📋 Briefings (Daily and Weekly Snapshots)
+
+    /business-pulse — A single page showing where your business stands today, pulling cash, sales, pipeline, and follow-ups from every tool you use.
+
+    /monday-brief — Starts your week with the three things actually worth doing, alongside cash position, deals in play, and what is due.
+
+    /friday-brief — Wraps up the week with revenue against last week, your best-performing products, and anything to keep an eye on.
+---------------------------
+💰 Money (Cash, Invoices, Margins, and Tax)
+
+    /cash-flow-snapshot — Builds a 30, 60, and 90-day cash forecast from every payment platform, flagging which receivables are most likely to slip.
+
+    /invoice-chase — Writes follow-up emails to late payers, softer for clients who usually pay on time, firmer for ones who never do.
+
+    /plan-payroll — Maps your cash against payday, prioritizes which invoices to chase first, and queues reminders before payroll runs.
+
+    /margin-analyser — Breaks margin down product by product, then models what happens when you change price, volume, or input cost.
+
+    /price-check — Shows you what a price change would do to margin across the catalogue before you commit to it.
+
+    /month-heads-up — Runs on the 25th of every month with a 30-day cash forecast and a list of anything that needs sorting before month-end.
+
+    /month-end-prep — Matches QuickBooks against Stripe and PayPal, flags anything uncategorized, and saves you the manual reconcile.
+
+    /close-month — Closes the books, writes the profit and loss narrative, and exports a one-page summary for you or your accountant.
+
+    /tax-prep — Calculates quarterly tax estimates or builds a clean year-end packet ready for your accountant.
+
+    /tax-season-organiser — Pulls year-to-date income, builds a contractor 1099 list with missing W-9 flags, and hands it straight to your accountant.
+---------------------------
+🤝 Sales & CRM (Pipeline, Leads, and Reviews)
+
+    /call-list — Picks the five leads worth calling today and gives you the talking points based on your email history with each one.
+
+    /lead-triage — Scores new leads in HubSpot by how engaged they are and how well they fit, then drafts your first follow-up.
+
+    /crm-cleanup — Hunts down stale deals and duplicate contacts in HubSpot, then waits for your sign-off before fixing anything.
+
+    /crm-maintenance — Keeps HubSpot tidy on autopilot, updating contacts and deals from your inbox and calendar without you touching it.
+
+    /sales-brief — Ranks your best and worst sellers, factors in the time of year, and gives you a two-week content plan around it.
+
+    /quarterly-review — Builds a full QBR with revenue, margin, and customer health, formatted as either a deck or a PDF for the board.
+---------------------------
+👥 Customers (Support, Complaints, and Feedback)
+
+    /customer-pulse — Reads every complaint, ticket, and public review, groups them into themes, and tells you the three things to fix this week.
+
+    /customer-pulse-check — Combines support tickets, payment disputes, and reviews into the top three fixable issues with ready-to-send replies.
+
+    /handle-complaint — Reads the customer history, drafts a reply in your tone, and suggests what to fix internally so it does not happen again.
+
+    /ticket-deflector — Reads incoming support emails, drafts the response in your voice, and issues a PayPal refund where one is warranted.
+---------------------------
+📢 Marketing (Content, Campaigns, & Design)
+
+    /content-strategy — Looks at what is selling and what is not, then builds a 30-day content plan around the products you actually want to push.
+
+    /canva-creator — Plans your social calendar, generates the Canva designs, writes the captions, and queues everything in HubSpot to go out.
+
+    /run-campaign — Runs an entire campaign end-to-end, from analyzing the sales gap, to designing the creative, to scheduling the sends.
+---------------------------
+🛠️ Setup, Hiring & Legal (Onboarding, Hiring, and Contracts)
+
+    /smb-router — Your starting point. Tell it what you need in plain English and it routes you to the right skill or command.
+
+    /smb-onboard — Walks you through connecting your first two tools and runs a quick example skill to show you the value straight away.
+
+    /job-post-builder — Turns a brief into a job advert, interview guide, scoring rubric, and offer letter, all ready to send via DocuSign.
+
+    /contract-review — Reads any contract, flags clauses that are unusual or risky, and explains them in language a non-lawyer can act on.
+
+    /review-contract — Reviews any document, rates each red flag by how much it matters, and suggests redlines you can drop straight in.
+---------------------------
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------	
+	
