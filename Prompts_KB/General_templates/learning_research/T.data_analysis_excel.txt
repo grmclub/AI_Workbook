@@ -8,41 +8,41 @@ Find hidden insights.
 Create executive reports.
 
 
-1.UNDERSTAND ANY SPREADSHEET
+1.Understand Any Spreadsheet
 Upload your Excel file and use:
 PROMPT:
 Analyze this spreadsheet and develop a comprehensive understanding of its structure, purpose, and contents. Identify the types of data included, key metrics being tracked, relationships between columns, reporting objectives, and the overall business context. Explain how the dataset is organized, assess its completeness and quality, and provide an overview of the most important information it contains. Present the output as a structured briefing that helps a new analyst quickly understand the dataset before performing deeper analysis.
 
-2.ANALYZE THE DATA LIKE A SENIOR ANALYST
+2.Analyze The Data Like A Senior Analyst
 PROMPT:
 Analyze this spreadsheet as a senior business analyst. Explain what the dataset represents, identify key trends, patterns, anomalies, missing values, inconsistencies, and potential errors. Evaluate the overall quality and reliability of the data while highlighting the most important findings and business insights. Support your conclusions with evidence from the dataset and explain the practical implications of each observation. Present the analysis in a clear, structured format prioritized by significance and potential business impact.
 
-3.GENERATE EXCEL FORMULAS AUTOMATICALLY
+3.Generate Excel Formulas Automatically
 PROMPT:
 Review this spreadsheet and determine the most valuable calculations, metrics, and formulas needed to improve analysis, reporting, forecasting, and decision-making. Generate the exact Excel formulas required, including lookups, growth calculations, profitability metrics, conditional logic, trend analysis, and forecasting models. Explain the purpose of each formula, how it should be implemented, what business problem it solves, and provide examples of expected outputs. Prioritize recommendations based on analytical value and business usefulness.
 
-4.CLEAN AND FIX THE DATA
+4.Clean And Fix The Data
 PROMPT:
 Act as a data quality specialist and perform a comprehensive audit of this spreadsheet. Identify duplicate records, missing values, formatting inconsistencies, outliers, broken formulas, invalid entries, and any issues that could affect accuracy or analysis. Explain the impact of each issue, assess the overall health of the dataset, and recommend specific corrective actions. Create a step-by-step data-cleaning plan that improves reliability, consistency, and analytical readiness.
 
-5.FIND HIGH-VALUE BUSINESS INSIGHTS
+5.Find High-Value Business Insights
 PROMPT:
 Act as a senior strategy consultant and analyze this spreadsheet to uncover meaningful business insights. Identify growth opportunities, emerging trends, performance drivers, customer behavior patterns, operational inefficiencies, potential risks, and hidden opportunities that may not be immediately obvious. Support each insight with evidence from the data, explain its significance, and provide actionable recommendations. Prioritize findings based on strategic importance, potential impact, and decision-making value.
 
-6.BUILD CHARTS & DASHBOARDS
+6.Build Charts & Dashboards
 PROMPT:
 Act as a business intelligence and data visualization expert. Analyze this spreadsheet and recommend the most effective charts, visualizations, dashboards, and reporting structures. For each recommendation, explain why it should be used, what insight it communicates, who the intended audience is, and how it supports decision-making. Design an executive-level dashboard framework that highlights the most important KPIs, trends, opportunities, and risks while maximizing clarity, usability, and business impact.
 
-7.CREATE AUTOMATED REPORTING SYSTEMS
+7.Create Automated Reporting Systems
 PROMPT:
 Design a comprehensive reporting and automation system based on this spreadsheet. Recommend workflows for recurring reports, KPI monitoring, automated alerts, executive summaries, dashboard updates, performance tracking, and operational reporting. Explain how each automation improves efficiency, reduces manual effort, increases accuracy, and supports better decision-making. Create a scalable framework that transforms this spreadsheet into an automated business intelligence and reporting system.
 
-8.EXECUTIVE SUMMARY MODE
+8.Executive Summary Mode
 PROMPT:
 Analyze the spreadsheet and create a comprehensive executive summary. Include the most important findings, key trends, critical risks, growth opportunities, supporting evidence, business implications, and strategic recommendations. Prioritize information based on significance and potential impact. Present the output in a concise, professional, data-driven format suitable for executives, decision-makers, investors, and stakeholders, with a clear focus on actions, priorities, and next steps.
 
 -------------------------------------------------------------
-🚨 GEMINI CAN CREATE INTERACTIVE DASHBOARDS FROM RAW DATA.
+🚨 Gemini Can Create Interactive Dashboards From Raw Data
 
 Step 1: Upload Your Data
 Open Gemini and upload your Excel file, CSV, Google Sheet, or PDF report.
@@ -86,7 +86,7 @@ You can:
 
 
 -------------------------------------------------------------
-🚨 CLAUDE CAN ANALYZE EXCEL FILES LIKE A DATA ANALYST.
+🚨 Claude Can Analyze Excel Files Like A Data Analyst.
 Most people don't know this feature exists.
 Here are 8 prompts to try: 👇
 
@@ -123,7 +123,42 @@ Using the historical data, forecast future performance and explain your methodol
 Prompt:
 Prepare a board-level executive report based on this dataset. Summarize the most important KPIs, trends, risks, opportunities, root causes, and strategic recommendations. Prioritize findings by financial and operational impact, highlight the top decisions leadership should make, and finish with a clear action plan for the next 90 days.
 
-
 -------------------------------------------------------------
+📌 Claude can now analyze spreadsheets like a senior data analyst.
+Here are 8 prompts every Excel user needs: 👇👇
+
+1. Upload and Understand the Spreadsheet
+Prompt:
+Analyze this spreadsheet from the ground up. First, identify its overall structure by examining the worksheets, columns, data types, relationships, and organization. Explain what the dataset appears to represent, highlight any structural issues or inconsistencies, and summarize your understanding before performing any further analysis.
+
+2. Analyze the Data
+Prompt:
+Act as a senior business analyst and perform a comprehensive analysis of this spreadsheet. Explain what the data represents, identify key trends and patterns, detect anomalies, missing values, and possible errors, then provide high-level business insights and actionable recommendations based on your findings.
+
+3. Generate Excel Formulas
+Prompt:
+Review this dataset and generate the exact Excel formulas needed to analyze it effectively. Include formulas for growth rates, profit margins, forecasting, averages, lookups, conditional logic, and any other relevant calculations. Use the most appropriate functions, such as XLOOKUP, VLOOKUP, INDEX-MATCH, SUMIFS, IF, and other advanced Excel formulas, while explaining how each one works and where it should be applied.
+
+4. Clean and Fix the Data
+Prompt:
+Act as a professional data-cleaning specialist and audit this spreadsheet for data quality issues. Identify duplicate records, inconsistent formatting, missing values, broken formulas, outliers, invalid entries, and any other inconsistencies. Explain each issue, recommend the best solution, and provide clear steps to transform the dataset into a clean, reliable, and analysis-ready spreadsheet.
+
+5. Generate Business Insights
+Prompt:
+Analyze this spreadsheet as a senior strategy consultant and uncover the most valuable business insights. Identify the biggest opportunities, major risks, hidden trends, customer behavior patterns, revenue drivers, operational weaknesses, and potential areas for growth. Support every conclusion with evidence from the data and finish with strategic recommendations that can improve business performance.
+
+6. Create Charts and Dashboard Ideas
+Prompt:
+Review this dataset and recommend the most effective charts, visualizations, and dashboard layout to communicate the information clearly. For each recommendation, explain why it is appropriate, the insights it reveals, the ideal chart type to use, and the key takeaway executives should gain from it. Design a dashboard that is both visually appealing and easy to interpret.
+
+7. Build an Automated Reporting Workflow
+Prompt:
+Design a complete automated reporting workflow using this spreadsheet as the primary data source. Include recurring reports, KPI tracking, automated alerts, executive summaries, dashboard updates, and workflow improvements that minimize manual work. Recommend practical automation strategies and explain how the entire reporting system should operate efficiently.
+
+8. Create an Executive Summary
+Prompt:
+Summarize this spreadsheet as if you were presenting its findings to senior executives. Keep the report concise, strategic, data-driven, and easy to understand while focusing on the most important trends, risks, opportunities, and business decisions. Finish with a clear set of recommendations that leadership can use to take action.
+Reply
+
 -------------------------------------------------------------
 -------------------------------------------------------------
