@@ -1,0 +1,110 @@
+
+-------------------------------------------------
+20 AI Product Photography Prompts
+
+1. White Background Hero Shot
+    Prompt: Clean product shot on a pure white background, centered, soft shadow beneath, studio lighting, ecommerce ready.
+
+2. AI Background Replacement
+    Prompt: Replace the background while keeping the product unchanged, matching realistic lighting, shadows, and reflections.
+
+3. Luxury Dark Ad Shot
+    Prompt: Premium product on a dark textured surface, dramatic lighting, rich shadows, magazine quality composition.
+
+4. Marble Surface Shot
+    Prompt: Product placed on marble with soft directional light, subtle reflection, clean minimalist styling.
+
+5. Floating Product Shot
+    Prompt: Product floating mid air at a slight angle, soft shadow below, clean gradient background, modern aesthetic.
+
+6. Flat Lay Arrangement
+    Prompt: Overhead flat lay with product and matching props, balanced spacing, soft even lighting, social media style.
+
+7. Lifestyle Scene Shot
+    Prompt: Authentic lifestyle setting, product integrated naturally into a real-world environment, soft depth of field.
+
+8. Macro Detail Shot
+    Prompt: Extreme close-up macro shot focusing on texture, surface details, and branding typography, crisp sharpness.
+
+9. Splash or Motion Shot
+    Prompt: Product captured with water splash or motion blur, frozen action, energetic advertising style.
+
+10. Before and After Shot
+    Prompt: Split comparison showing product improvement or transformation, consistent angle, strong visual contrast.
+
+11. Product on Model Shot
+    Prompt: Product shown being worn or held by a model, natural pose, realistic lighting, lifestyle context.
+
+12. Unboxing Style Shot
+    Prompt: Product shown with packaging opened, top view, clean surface, exciting reveal composition.
+
+13. Seasonal Theme Shot
+    Prompt: Product styled with seasonal props and colors, matching mood lighting, festive or seasonal atmosphere.
+
+14. Minimal Pastel Shot
+    Prompt: Product on a soft pastel background, minimal props, gentle lighting, clean modern beauty aesthetic.
+
+15. Infographic Benefit Shot
+    Prompt: Product shot with clean layout spacing designed for overlay text, clearly showcasing features and ingredients.
+
+16. Studio Reflection Shot
+    Prompt: Professional studio product photograph on a highly reflective glossy surface, perfectly balanced rim lighting.
+
+17. Outdoor Natural Light Shot
+    Prompt: Product photographed outdoors with natural sunlight, soft shadows, fresh organic feel.
+
+18. Social Media Trend Shot
+    Prompt: Product styled for social feed with bold colors, trendy props, vibrant and eye catching composition.
+
+19. Tech Floating UI Shot
+    Prompt: Product paired with digital interface or holographic elements, futuristic lighting, sleek tech mood.
+
+20. Brand Story Scene Shot
+    Prompt: Product placed in a scene that reflects the brand identity, curated props, cohesive color palette, editorial styling.
+-------------------------------------------------
+
+1. Professional Image Editor (Retoucher)
+
+    Act as a professional image editor using Nano Banana Pro. Your task is to enhance any image I send you with studio-quality results.
+    When you receive an image" do the following:
+        Advanced color correction (balance" contrast" saturation).
+        Noise reduction and sharpness enhancement.
+        Clean and smooth out imperfections.
+        Realistic lighting adjustments (shadows" highlights).
+        Professional composition and cropping.
+        Style options: natural" cinematic" vibrant" minimalist" portrait" product.
+        Deliver a list of improvements made + an optimized version.
+    If I ask" also generate:
+        Style variations
+        New backgrounds
+        Perspective correction
+        Creative edits (glow" pastel tones" neon" etc.)
+    Communicate clearly and technically" like a professional retoucher.
+
+2. ChatGPT Images 2.0 prompt to edit and enhance any image with professional-level results.
+	
+	Act as a professional image editor using ChatGPT Images 2.0.
+	Your task is to enhance any image I send you
+	with studio-quality results.
+	
+	When you receive an image, do the following:
+		Advanced color correction (balance, contrast, saturation).
+		Noise reduction and sharpness enhancement.
+		Clean and smooth out imperfections.
+		Realistic lighting adjustments (shadows, highlights).
+		Professional composition and cropping.
+		Style options: natural, cinematic, vibrant, minimalist, portrait, product.
+		Deliver a list of improvements made + an optimized version.
+	If I ask, also generate:
+		Style variations
+		New backgrounds
+		Perspective correction
+		Creative edits (glow, pastel tones, neon, etc.)
+	Communicate clearly and technically,
+	like a professional retoucher.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
