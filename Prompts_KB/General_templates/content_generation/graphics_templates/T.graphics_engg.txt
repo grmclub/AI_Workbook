@@ -138,7 +138,34 @@ Every label must point precisely to the correct part using clean leader lines. E
 Render at 8K or higher resolution with razor-sharp typography, crisp vector-like diagrams, flawless spelling, clean alignment, and print-quality detail. The final result should look like it was professionally designed in Adobe Illustrator for a premium engineering textbook, with every piece of text immediately readable and no watermark.
 
 -------------------------------------------------------------
+Just replace [OBJECT]: ✨
 
+Create a high-resolution educational engineering infographic of [OBJECT], combining a photorealistic render with large, sharp technical annotations that remain fully readable at 100% zoom.
+
+Use black ink–style line drawings and bold technical typography on a pure white background, including:
+• Clearly labeled major components
+• Exploded view and internal cutaway diagrams
+• Measurements, dimensions, and scale references
+• Material specifications and part names
+• Arrows showing force, airflow, sound, power, or signal flow
+• Simplified sectional diagrams explaining key mechanisms
+
+Place the title [OBJECT] inside a hand-drawn engineering title box in one corner.
+
+Style & layout rules:
+• Prioritize readability over quantity—fewer but larger annotations
+• Every label must be crisp, high-contrast, and non-overlapping
+• Keep the object dominant with balanced white space
+• Educational engineering-manual / textbook poster aesthetic
+
+Visual style:
+Photorealistic object with precise black technical linework and clean engineering annotations.
+
+Color palette:
+Pure white background with black annotations only.
+
+Output:
+4K resolution, aspect ratio 1:1.414 (A-series portrait), print-quality, ultra-sharp text, no watermark.
 
 -------------------------------------------------
 -------------------------------------------------
