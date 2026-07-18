@@ -1,0 +1,70 @@
+
+-------------------------------------------------
+📊 Business Auditing & Analysis
+
+1. Define My Ideal Customer
+
+    Prompt: Analyze my business and identify my ideal customer. Describe who they are, what problem they are trying to solve, what they care about most, what motivates them to buy, and what objections might stop them from taking action. Then explain how I can speak to them more clearly in my marketing.
+
+2. Evaluate My Offer
+
+    Prompt: Review my product or service and explain the core problem it solves, the strongest benefits it provides, and where the offer may be unclear or too weak. Then suggest ways to improve the value, make the offer more compelling, and better separate it from competitors.
+
+3. Find Weak Points in My Marketing
+
+    Prompt: Analyze my current marketing message, content, and call to action. Show me what is working, what may be confusing, and what might fail to connect with my target audience. Then give specific recommendations to improve clarity, trust, and conversions.
+
+4. Map the Customer Experience
+
+    Prompt: Break down the customer journey from first discovery to final purchase and beyond. Identify any friction points, trust issues, delays, or missed opportunities in the process. Then suggest ways to make the experience smoother, faster, and more enjoyable for customers.
+
+5. Create a Business Growth Plan
+
+    Prompt: Based on what you learn about my business, give me a clear analysis of my biggest opportunities, biggest risks, and top priorities. Then create a simple action plan with the next steps I should focus on to improve sales, strengthen my brand, and grow efficiently.
+
+-------------------------------------------------
+📈 Content Strategy Playbooks
+
+1. The 90-Day Roadmap
+Prompt: Act as a senior content strategist and create a 90-day Instagram content strategy for a creator in [NICHE] targeting [AUDIENCE]. Include weekly themes, content formats, and authority-building post ideas.
+
+2. High-Performance Ideator
+Prompt: Generate 30 high-performing content ideas for a creator in [NICHE]. For each idea include a hook and explain why the idea would attract attention.
+
+3. Scroll-Stopping Hook Engine
+Prompt: Turn the topic [TOPIC] into 10 scroll-stopping reel hooks that maximize curiosity and watch time.
+
+4. Multi-Format Omnichannel Engine
+Prompt: Transform the idea [IDEA] into five different content formats: reel, carousel, story, thread, and newsletter topic.
+
+5. Storytelling Framework Builder
+Prompt: Turn the lesson [LESSON] into three storytelling posts using the structure: hook $\rightarrow$ struggle $\rightarrow$ insight $\rightarrow$ takeaway.
+
+6. Industry Myth Buster
+Prompt: Create 15 myth vs reality content ideas related to [NICHE] that challenge common industry beliefs.
+
+-------------------------------------------------
+🎨 Design & Brand Systems
+
+1. Design Brief Simplifier
+    Prompt: Act as a senior creative director. Simplify this client brief into a clear design direction. Extract the main objective, target audience, key message, visual tone, and deliverables: [paste/attach brief].
+
+2. Logo Concept Generator
+    Prompt: Act as an expert logo designer. Generate 10 logo concepts for a brand in the [industry]. Focus on symbolism, meaning, and visual metaphors. Explain the idea behind each concept.
+
+3. Layout & Composition Builder
+    Prompt: Create 5 layout ideas for a [type of design: poster, social media post, website section]. Describe the structure, hierarchy, spacing, and visual balance.
+
+4. Typography System Generator
+    Prompt: Act as a typography expert. Create a typography system for a [industry] brand. Include font pairing suggestions, hierarchy (headlines, subheadings, body), and usage guidelines.
+
+5. Design Critique & Improvement
+    Prompt: Act as a professional design critic. Analyze this design and give honest, detailed feedback on composition, typography, color, and branding. Suggest specific improvements: [describe design].
+
+6. Brand Identity System Builder
+    Prompt: Act as a brand strategist. Build a complete visual identity system for a [industry] brand. Include logo direction, color palette logic, typography, visual elements, and overall style.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
