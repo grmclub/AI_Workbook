@@ -160,5 +160,10 @@ Prompt:
 Summarize this spreadsheet as if you were presenting its findings to senior executives. Keep the report concise, strategic, data-driven, and easy to understand while focusing on the most important trends, risks, opportunities, and business decisions. Finish with a clear set of recommendations that leadership can use to take action.
 Reply
 
--------------------------------------------------------------
--------------------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
