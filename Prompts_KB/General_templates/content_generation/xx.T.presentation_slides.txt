@@ -65,8 +65,9 @@ https://www.emaze.com/
 https://www.beautiful.ai/
 
 -------------------------------------------------
-FORGET MAKING PRESENTATIONS MANUALLY.
+##Forget Making Presentations Manually
 Gemini can now, in minutes:
+
 → Create complete slide decks
 → Write speaker notes
 → Design compelling presentations
@@ -110,6 +111,31 @@ Prompt:
 Review my presentation about [TOPIC] as an expert presentation coach. Evaluate storytelling, structure, clarity, flow, slide design, readability, audience engagement, persuasion, and visual effectiveness. Score each category out of 10, explain every weakness, identify missing sections, and rewrite the presentation with stronger messaging, smoother transitions, improved visuals, and more impactful speaker notes.
 
 -------------------------------------------------
+## 🚨 Breaking: I asked Claude to fix my presentation.
+It didn't just polish the slides. It made the pitch investor-ready.
+Here are the 7 prompts I used:
+
+1. Presentation Audit
+Review my presentation about [TOPIC] for [TARGET AUDIENCE]. Score every slide from 1–10 for clarity, storytelling, structure, design, credibility, and persuasiveness. Explain every weakness and provide specific recommendations to improve it.
+
+2. Storyline Rebuild
+Rebuild this presentation into a compelling narrative. My goal is to [DESIRED OUTCOME]. Rearrange the slides if necessary, strengthen the flow between ideas, and explain why your structure is more persuasive.
+
+3. Slide Rewrite
+Rewrite every slide using concise, high-impact language. Replace weak headlines, remove fluff, simplify complex ideas, and ensure every slide communicates one memorable takeaway. Keep the presentation under [X] minutes.
+
+4. Visual Upgrade
+Redesign every slide with a premium, modern look. Recommend the best layouts, charts, diagrams, typography, spacing, icons, and visual hierarchy. Describe exactly what each slide should look like and why.
+
+5. Tough Question Simulator
+Generate the 25 toughest questions that [AUDIENCE] is likely to ask after this presentation. Explain why each question matters and help me prepare confident, evidence-backed answers.
+
+6. Credibility Check
+Analyze every claim in this presentation. Identify weak arguments, unsupported statements, and missing proof. Recommend statistics, benchmarks, case studies, examples, or testimonials that would strengthen each point.
+
+7. Delivery Coach
+Create speaker notes for every slide. Improve my opening, transitions, pacing, emphasis, body language, and closing. Then identify likely objections from [AUDIENCE] and write persuasive responses to each.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
