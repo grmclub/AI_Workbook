@@ -1,7 +1,7 @@
 
 
 -------------------------------------------------------------
-Andalus Andalus
+
 1. The Research Methodology Planner
 Using the uploaded sources and my proposed research area ([Insert Your Research Area Here]), help me develop a comprehensive research methodology for my study. Evaluate the methodological requirements of the research problem, identify the most appropriate methodological options, and recommend a coherent strategy for addressing the research objectives. Assess the suitability, feasibility, strengths, and limitations of the proposed methodology, and provide specific recommendations to strengthen its rigor, coherence, and overall quality.
 
@@ -62,6 +62,23 @@ Prompt: Explain [complex topic] like a PhD advisor teaching a first year student
 9/ Research Brief
 Prompt: Build a research brief for [decision]. Cover the key facts, risks, alternatives, and evidence based recommendation in under 500 words.
 -------------------------------------------------------------
+🚨Claude Fable 5 Can Explain, Critique, Research, And Write Like A Pro.
+
+1. Learn Any Topic Faster
+“Teach me [topic] from first principles. Start with the core concepts, explain them step by step using simple language and practical examples, then finish with a quick summary and three questions to test my understanding.”
+
+2. Stress-Test Your Ideas
+“Act as an experienced critic. Analyze the idea below, identify weak points, hidden assumptions, potential risks, and overlooked opportunities. Then suggest practical improvements and a stronger version of the idea. Idea: [paste].”
+
+3. Rewrite Like a Pro
+“Rewrite the text below to make it clearer, more engaging, and more persuasive without changing its meaning or tone. Then explain the five biggest improvements you made. Text: [paste].”
+
+4. Deep Research Assistant
+“Research [topic] thoroughly. Summarize the most important facts, explain why they matter, compare different viewpoints, and end with actionable insights and recommended next steps.”
+
+5. Action Plan Generator
+“Create a detailed step-by-step plan to achieve [goal]. Break it into clear milestones, estimate the time required for each stage, recommend the best resources, highlight common mistakes to avoid, and define what success looks like at every step.”
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
