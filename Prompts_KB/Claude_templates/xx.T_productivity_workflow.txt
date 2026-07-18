@@ -198,6 +198,30 @@ Build an actionable 3-part script to pivot this conversation.
 
 
 -------------------------------------------------------------
+##🚨 10 Claude Prompts You Should Know - Simple, Powerful, Useful
+
+1/ The Ask-First Rule Prompt: “Before answering, ask me the key questions you need to fully understand my goal.” Better input.
+
+2/ The Deep Thinker Prompt: “Think deeply before answering. Challenge assumptions and give a well-reasoned response: [topic].” Depth wins.
+
+3/ The Strategist Mode Prompt: “Act as a strategist. Based on this situation: [context], what are the smartest next steps?” Clarity fast.
+
+4/ The Brutal Truth Prompt: “Be brutally honest.What am I getting wrong or underestimating: [idea]?” Truth > comfort.
+
+5/ The First-Principles Mode Prompt: “Break this down to fundamentals and rebuild the best solution: [problem].” No assumptions.
+
+6/ The System Builder Prompt: “Turn this into a simple, repeatable system: [process].” Execution made easy.
+
+7/ The 80/20 Filter Prompt: “For this goal: [goal], what actions create most of the results?” Focus wins.
+
+8/ The Opportunity Scanner Prompt: “What opportunities am I overlooking here: [context]?” Hidden leverage.
+
+9/ The Decision Engine Prompt: “Break this into options, trade-offs, and give a clear recommendation: [decision].” Decide smarter.
+
+10/ The One-Move Focus Prompt: “If I could only take one action right now, what should it be: [goal]?”Start moving.
+
+
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
