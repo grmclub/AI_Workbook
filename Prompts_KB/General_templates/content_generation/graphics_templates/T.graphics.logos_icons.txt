@@ -1,0 +1,187 @@
+
+-------------------------------------------------
+1. The “Premium Brand System” Prompt
+“Create a world-class luxury logo for a brand called [BRAND NAME].
+Style: minimal, premium, timeless, iconic.
+Use clean geometry, balanced spacing, and elegant typography.
+Color palette: [COLORS].
+Include subtle symbolism related to [INDUSTRY].
+The logo should look worthy of brands like Apple, Nike, or Rolex.
+Flat design, no mockups, no background clutter, centered composition, ultra-sharp details.”
+
+2. The “Hidden Meaning” Prompt
+“Design a clever modern logo for [BRAND NAME] with a hidden symbol embedded into the design.
+The hidden meaning should represent [VALUE/IDEA].
+Style should feel smart, memorable, minimal, and scalable for apps, websites, and packaging.
+Use negative space creatively like FedEx or Amazon.
+White background, vector-style precision.”
+
+3. The “Future Tech Startup” Prompt
+“Create a futuristic AI startup logo for [BRAND NAME].
+Style: sleek, modern, geometric, slightly cyberpunk but still corporate.
+Inspired by OpenAI, Tesla, Stripe, and Anthropic branding.
+Use glowing gradients, clean typography, abstract symbol mark, and symmetry.
+High-end Silicon Valley aesthetic.
+Dark background version and light background version.”
+
+4. The “Luxury Monogram” Prompt
+“Design a luxury monogram logo using the initials [INITIALS].
+Style inspired by Louis Vuitton, Chanel, and Yves Saint Laurent.
+Elegant serif typography mixed with geometric precision.
+Gold on black aesthetic.
+Create a timeless fashion-house identity with premium visual balance.”
+
+5. The “Brutalist Viral Startup” Prompt
+“Create a bold brutalist-style logo for [BRAND NAME].
+Style: oversized typography, aggressive minimalism, monochrome, high contrast.
+Inspired by modern Gen Z startup branding and viral AI companies.
+The logo should feel disruptive, rebellious, and instantly recognizable on social media.”
+
+6. The “Mascot Character” Prompt
+“Create a mascot logo for [BRAND NAME].
+Design a memorable character related to [NICHE].
+Style should feel like Duolingo, Discord, or Reddit mascots — simple, expressive, and highly brandable.
+Vector illustration, clean outlines, modern flat design, transparent background.”
+
+7. The “3D Glassmorphism” Prompt
+“Design a futuristic 3D glassmorphism logo for [BRAND NAME].
+Use translucent materials, glowing reflections, soft neon lighting, and ultra-clean typography.
+Inspired by Apple Vision Pro aesthetics.
+The logo should feel advanced, premium, and digital-first.”
+
+8. The “Swiss Design” Prompt
+“Create a Swiss-style logo for [BRAND NAME].
+Use perfect typography hierarchy, grid systems, minimal shapes, and strong spacing.
+Style should feel extremely professional, modern, and trustworthy.
+Inspired by Swiss graphic design and modern fintech branding.”
+
+9. The “Animated Logo Concept” Prompt
+“Create a logo concept for [BRAND NAME] that looks designed for motion graphics and animation.
+Include dynamic shapes, layered geometry, and visual movement.
+The logo should feel alive even as a static image.
+Inspired by modern streaming platforms and AI companies.”
+
+10. The “Iconic Symbol Only” Prompt
+“Design an iconic symbol-only logo for [BRAND NAME].
+No text.
+The symbol must be simple enough to recognize instantly, scalable to an app icon, and memorable after one glance.
+Inspired by Nike swoosh, Apple logo, and McDonald’s arches.
+Minimal vector design, perfect symmetry, clean white background.”
+
+
+-------------------------------------------------
+✦ LinkedIn Profile Picture
+(Studio-quality headshot from your selfie)
+Prompt:
+Transform this selfie into a studio-quality LinkedIn headshot.
+85mm lens look, shallow depth of field, soft cinematic lighting from 45-degree angle.
+Neutral blurred background (light gray gradient).
+Professional posture, confident expression, natural skin texture (no plastic smoothing).
+Ultra sharp focus on eyes.
+Corporate editorial photography style.
+4K resolution.
+Maintain facial identity 100%.
+If you want a stronger executive look, add:
+Subtle rim light for depth, premium business magazine aesthetic.
+
+✦ Infographic From Any Article
+Prompt:
+Read this article: [PASTE LINK]
+Extract the 5–7 most important insights.
+Create a clean vertical infographic (4:5 ratio).
+Minimalist design, bold headline, strong hierarchy.
+Use high-contrast typography, modern sans-serif fonts.
+Include icons for each section.
+White background with subtle accent color #14fff4.
+Designed for LinkedIn and Instagram carousel.
+If you want it more corporate:
+Swiss design layout, grid-based structure, plenty of white space.
+
+✦ Upscale Any Image to 4K
+Prompt:
+Upscale this image to true 4K resolution (3840x2160).
+Enhance micro-details and texture while preserving original composition.
+No artificial oversharpening.
+Maintain natural lighting and colors.
+Remove compression artifacts and noise.
+Professional-grade clarity.
+If it’s a portrait:
+Preserve skin texture realism. No AI smoothing.
+
+✦ Blurred Photo to Ultra Sharp
+Prompt:
+Restore this blurred image to ultra sharp editorial quality.
+Maintain exact composition and framing.
+Reconstruct fine details naturally (hair strands, fabric texture, facial details).
+Correct focus depth without changing subject proportions.
+Remove motion blur while preserving realism.
+High-end magazine photography finish.
+
+✦ Change the Color of Anything
+Prompt:
+Change the color of the [OBJECT] to [NEW COLOR].
+Preserve lighting, shadows, reflections, and texture.
+Make it look naturally manufactured in that color.
+No color spill into surrounding objects.
+Maintain realism and material properties.
+If metallic:
+Preserve reflective behavior and light response.
+
+✦ Edit Specific Parts of an Image
+Prompt:
+In this image, modify ONLY the object located [describe position: top left corner / behind subject / on table].
+Replace it with [NEW ELEMENT].
+Match lighting direction, perspective, and depth of field.
+Seamless integration.
+No changes to the rest of the image.
+Precision matters here. Be surgical.
+
+✦ Whiteboard Hand-Drawn Look
+Prompt:
+Convert this concept into a whiteboard-style hand-drawn sketch.
+Black marker lines with slight ink fading.
+Minimal shading.
+Slightly imperfect human strokes.
+Clean white background.
+Business explainer style.
+If you want it more startup vibe:
+Add small doodle icons and arrows between concepts.
+
+✦ Room Design & Floor Plans
+Prompt:
+Convert this 2D floor plan into a professional interior design board.
+Realistic materials and textures.
+Natural lighting simulation.
+Modern minimal aesthetic.
+Include furniture placement and decor suggestions.
+Render in high-resolution presentation format.
+If modern luxury:
+Add marble accents, warm wood tones, indirect LED lighting.
+
+✦ 3D Commercial Product Shots
+Prompt:
+Create a hyper-realistic 3D commercial product render of this item.
+Premium studio lighting.
+Soft shadows.
+White seamless background.
+Ultra detailed material textures.
+E-commerce ready.
+4K resolution.
+If luxury product:
+Add subtle reflection floor and dramatic edge lighting.
+
+✦ Change the Style of Anything
+Prompt:
+Keep the exact composition and subject placement.
+Transform the visual style into [STYLE: watercolor / 3D render / anime / cinematic film grain / cyberpunk / oil painting].
+Maintain proportions and facial identity.
+High detail.
+Professional finish.
+If anime:
+High-end anime studio quality, dramatic lighting, sharp linework.
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------

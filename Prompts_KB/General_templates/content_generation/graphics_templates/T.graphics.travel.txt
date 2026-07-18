@@ -1,0 +1,46 @@
+
+
+-------------------------------------------------
+## Travel poster
+
+Create a premium, ultra-realistic travel agency promotional poster in vertical 4:5 format with a luxurious international tourism theme. The background features a bright blue sky filled with soft cinematic clouds and multiple white airplane contrails crossing dramatically. A large commercial passenger airplane flies across the upper center of the composition, creating a sense of movement and adventure.
+Behind the package cards, seamlessly blend iconic world landmarks into one realistic travel skyline, including the Eiffel Tower, Big Ben, Statue of Liberty, Taj Mahal, Mount Fuji, Colosseum, Burj Khalifa, Leaning Tower of Pisa, Sydney Opera House, Christ the Redeemer, and other famous monuments. The landmarks should have natural lighting, realistic depth, atmospheric perspective, and vibrant colors.
+In the foreground, display three premium destination package cards with smooth rounded-rectangle shapes, thick white borders, subtle gradients, realistic soft shadows, and floating 3D appearance.
+The center card is larger and slightly overlaps the left and right cards to establish visual hierarchy.
+At the top of each card, include a perfectly circular destination photograph with a clean white frame.
+Below the image, place a large editable destination title in bold uppercase modern sans-serif typography.
+Under the title, display an editable bullet list with travel services such as:
+• Airline Tickets
+Hotel Booking
+• Local Transportation
+• Guided Tours
+• Visa Assistance
+• Airport Pickup
+At the bottom, include a large editable package price in bold typography with currency symbol.
+Leave every text element fully editable using placeholder text:
+{{DESTINATION}}
+{{SERVICE_1}}
+{{SERVICE_2}}
+{{SERVICE_3}}
+{{PRICE}}
+At the bottom of the poster, create a premium footer containing:
+Company Logo Placeholder
+• Website Placeholder
+• Phone Number Placeholder
+• Email Placeholder
+• Social Media Icons
+• QR Code Placeholder
+Add realistic lighting, glossy highlights, glassmorphism effects, subtle reflections, premium drop shadows, soft ambient occlusion, cinematic HDR lighting, and luxury travel branding aesthetics.
+Use a clean color palette dominated by sky blue, white, gold accents, and elegant neutral tones. Maintain generous spacing, excellent readability, and modern editorial design suitable for a luxury travel company.
+Style: Luxury Travel Advertisement, Editorial Design, Commercial Marketing Poster, High-End Graphic Design, Realistic Photomontage, Ultra Detailed, Adobe Photoshop Quality,Behance Featured Design, Dribbble Trending, 8K, HDR, Hyper Realistic, Professional Print Ready, Crisp Typography, Premium Branding.
+3:4
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
