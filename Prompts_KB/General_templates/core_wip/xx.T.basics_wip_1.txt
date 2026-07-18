@@ -121,39 +121,10 @@ Instructions on how to make the script executable and set it up to run in the ba
 
 
 —---------
-
-
 -------------------------------------------------
 Anime japanese warrior straw hat 
 Anime japanese farmer straw hat 
 list prompts to generate anime images of real persons 
-
-
--------------------------------------------------
-1. The "Modern Anime" Style (Clean & Detailed)
-
-Use this for a contemporary, high-definition look similar to modern studio films like those from CloverWorks or Kyoto Animation.
-
-    Prompt: "Anime portrait of a [description of person: e.g., man with short dark hair, glasses, and a sharp jawline], wearing [clothing description]. High-quality digital art, modern anime style, clean line art, soft cinematic lighting, detailed eyes, vibrant color palette, 8k resolution, trending on Pixiv."
-
-2. The "90s Retro" Style (Nostalgic)
-
-Use this for a vintage, grainy aesthetic reminiscent of 90s OVAs (e.g., Cowboy Bebop or Sailor Moon).
-
-    Prompt: "90s retro anime style portrait of a [description of person], flat cel shading, grainy texture, muted nostalgic colors, hand-drawn aesthetic, high contrast, cinematic composition, vintage anime frame."
-
-3. The "Makoto Shinkai" Style (Lush & Emotional)
-
-Use this for breathtaking, ethereal lighting, high-contrast skies, and a focus on mood and atmosphere.
-
-    Prompt: "Anime character portrait of a [description of person], Makoto Shinkai art style, cinematic lighting, lens flare, incredibly detailed eyes, emotional expression, soft bokeh background, ethereal atmosphere, masterpiece, vibrant colors, high fidelity."
-
-4. The "Dark/Grim" Style (Intense)
-
-Use this for more dramatic, high-contrast, or action-oriented portraits.
-
-    Prompt: "Dark fantasy anime style portrait of a [description of person], sharp angular features, intense expression, dramatic chiaroscuro lighting, deep shadows, moody color grading, high-quality digital illustration, intricate details, inspired by Dark Souls or Jujutsu Kaisen."
-
 
 
 -------------------------------------------------
@@ -164,6 +135,35 @@ Use this for more dramatic, high-contrast, or action-oriented portraits.
 
 "Dark fantasy anime style portrait from [character in the uploaded image], sharp angular features, intense expression, dramatic chiaroscuro lighting, deep shadows, moody color grading, high-quality digital illustration, intricate details, inspired by Dark Souls or Jujutsu Kaisen."
 -------------------------------------------------
+
+Create a professional engineering teaching infographic of [physics formulas shown in the video]
+Fully labeled components with educational descriptions
+Transparent and exploded sections revealing internal architecture
+Show clear arrows to denote the flow in a linear fashion
+Output:
+A4 format (1:1.414)" 2480×3508 px or higher resolution" ultra-sharp.
+
+-------
+Create a professional engineering teaching infographic of [physics formulas shown in the video]
+Output:
+A4 format (1:1.414)" 2480×3508 px or higher resolution" ultra-sharp.
+
+make graphics more simpler 
+
+
+-------------------------------------------------
+displayed in the video infographic" along with their variables and typical uses:
+show physics formulas shown in the video  in a one page summary for quick lookup 
+
+generate a one page graphics summary of the formulas with simplified descriptions 
+
+generate a one page image cheat sheet summary of the formulas with simplified descriptions do not clutter with graphics 
+Display title as 10 Essential Physics Formulas  
+
+Some Basic Concepts of Physics
+A clean" fast-reference cheat sheet based on the fundamental definitions of physics.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
