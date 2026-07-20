@@ -1,0 +1,101 @@
+
+-------------------------------------------------
+Here is the complete list of the 9 free prompt websites featured in the image, organized in a clean, scannable format:
+
+1.General Prompt Libraries & Communities
+    flowgpt.com
+        Features over 10,000+ ready-to-use prompts.
+        Includes community-voted prompts for ChatGPT, Claude, Midjourney, and more.
+    thepromptindex.com
+        A prompt search engine with 600+ curated AI prompts.
+        Works across multiple platforms with an active community sharing daily.
+    snackprompt.com
+        Contains over 50,000+ prompts browsable by category.
+        Allows you to upvote and save your favorite prompts.
+    aiprm.com
+        A Chrome extension featuring over 4,500+ one-click prompts (free tier).
+        Integrates directly into the ChatGPT interface once installed.
+    github.com/f/awesome-chatgpt-prompts
+        A massive, popular open-source repository (100k+ stars) with 200+ curated prompts.
+        Focuses on making ChatGPT act as specific personas (expert, translator, developer, etc.).
+
+2. Courses & Learning
+    learnprompting.org
+        A complete, free prompt engineering course designed to take you from beginner to advanced in about 2 hours.
+        Includes step-by-step lessons and real-world examples.
+
+3. AI Art Specific
+    prompthero.com
+        A dedicated search engine for AI art prompts (Midjourney, DALL-E, Stable Diffusion).
+        Displays millions of generated images alongside the exact prompts used to create them.
+
+4.Official Developer Libraries
+    docs.anthropic.com/en/prompt-library
+        The official, expert-crafted prompt library provided by Anthropic for Claude.
+        Regularly updated with proven examples for work, play, and creativity.
+    platform.openai.com/docs/examples
+        Official prompt examples created directly by OpenAI for ChatGPT.
+        Covers foundational use cases like grammar correction, translation, data analysis, and coding.
+--------------
+⚡ Quick Start:
+1. Visit FlowGPT first
+2. Pick any trending prompt
+3. Copy and test in ChatGPT
+4. Install AIPRM extension
+5. See the difference in 60 seconds
+
+#5. prompthero.com
+Search engine for AI art prompts (100% FREE).
+Millions of images with their exact prompts shown.
+Perfect for Midjourney, DALL-E, Stable Diffusion users.
+Search Prompts for AI Image & Video Generation | PromptHero
+prompthero.com
+Search Prompts for AI Image & Video Generation | PromptHero
+
+#6. docs.anthropic.com/en/prompt-library
+Official Claude prompt library by Anthropic (FREE).
+Expert-crafted prompts for work, play, and creativity.
+Updated regularly with new proven examples.
+Prompting best practices
+platform.claude.com
+Prompting best practices
+
+#7. aiprm.com
+Chrome extension with 4,500+ one-click prompts (FREE tier).
+Install once, access prompts directly in ChatGPT.
+Saves 10+ hours every week.
+AIPRM: Your Cheat Code for ChatGPT · AIPRM
+aiprm.com
+
+
+#8. github.com/f/awesome-chatgpt-prompts
+200+ curated prompts on GitHub (totally FREE).
+Act as expert, translator, developer, writer, etc.
+Most popular prompt collection online (100k+ stars).
+GitHub - f/prompts.chat: f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+GITHUB.COM
+GitHub - f/prompts.chat: f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+
+
+#9. platform.openai.com/docs/examples
+Official OpenAI prompt examples (FREE).
+Direct from ChatGPT creators.
+Covers grammar, translation, code, and more.
+Page not found
+developers.openai.com
+
+💡 Pro Tips:
+- Bookmark all 9 sites right now
+- Start with FlowGPT for quick wins
+- Use LearnPrompting for weekend learning
+- Install AIPRM extension today for instant access
+- Browse PromptHero for image generation ideas
+- Check The Prompt Index search engine when stuck
+- Visit official libraries (Claude + OpenAI) for quality
+- Check GitHub prompts weekly for updates
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
