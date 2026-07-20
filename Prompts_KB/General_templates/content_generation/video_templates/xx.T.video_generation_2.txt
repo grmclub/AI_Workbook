@@ -45,6 +45,75 @@ Prompt:
 "Animate the attached image as a seamless cinematic loop. Preserve the exact subject" identity" composition" colors" lighting" environment" and visual style. Add subtle repeating movement such as breathing" hair motion" fabric movement" drifting particles" water ripples" moving clouds" or gentle camera drift. The final frame must transition naturally back into the first frame without a visible jump" change in position" lighting shift" or scene reset. Keep all motion restrained" stable" and physically believable. Avoid large gestures" camera cuts" sudden changes" or progressive scene transformation."
 
 -------------------------------------------------
+
+prompt:
+make the storyboard with chatgpt image 2
+"Create a crisp, clean infographic storyboard poster for { VIDEO TITLE / THEME } , white background, clean black borders, bold modern typography, premium cinematic 3D stylized rendering, high-detail visual storytelling, professional commercial storyboard style.
+Mood and visual style must match the topic:
+* Choose lighting, colors, props, environment, and atmosphere that fit the title.
+* Keep the scene visually clear, cinematic, and easy to understand.
+* Make the story suitable for a short 10-second video.
+* Use the same main character or main subject consistently throughout all panels.
+* Avoid confusing details, random objects, or unrelated background elements.
+* If the topic is educational, make it friendly and suitable for students.
+* If the topic includes dialogue, write the dialogue in eng.
+* Avoid unsafe, violent, shocking, or prohibited words. Use safe creative wording instead.
+Top header:
+• [TITLE IN ENGLISH]
+• TOTAL VIDEO TIME: 10 SECONDS
+• 8 SHOTS · [KEYWORD 1] · [KEYWORD 2] · [KEYWORD 3]
+• Legend icons: ACTION, REACTION, TIME HINT, KEY OBJECT
+Main character / subject:
+Describe one clear main character or subject that fits the title. Keep this same character or subject throughout every panel. Describe outfit, mood, expression, important props, and environment. The character should have a clear emotional journey from beginning to end.
+Storyboard structure:
+Create exactly 8 panels.
+Each panel should represent about 1.25 seconds.
+Each panel must include:
+* Panel title
+* Camera angle
+* Main action
+* Visual details
+* Emotion or reaction
+* Time hint if useful
+* eng dialogue only if needed
+8 panels:
+Panel 1 — THE OPENER:
+Wide establishing shot. Introduce the main character, setting, mood, and key object. The viewer should immediately understand where the story begins.
+
+Panel 2 — THE SETUP:
+Medium shot or close-up. Show the character preparing for the main action. Reveal the important tool, object, problem, or goal.
+
+Panel 3 — THE FIRST ACTION:
+Close-up. The character begins the main action. Show movement, focus, and the first visible change.
+
+Panel 4 — THE TURNING POINT:
+Extreme close-up or dramatic angle. Show the most important moment where something changes clearly. This should be the strongest visual moment in the middle of the story.
+
+Panel 5 — THE PROGRESS:
+Medium close-up. Show the result developing. The character continues working, reacting, or moving toward the goal.
+
+Panel 6 — THE UNIQUE ANGLE:
+Use a special camera angle such as overhead shot, side shot, low angle, reflection shot, or point-of-view shot. Show the same action from a visually interesting perspective.
+
+Panel 7 — THE FINAL ACTION:
+Close-up dramatic shot. Show the final step before the result is revealed. Make the transformation or outcome almost complete.
+
+Panel 8 — THE REVEAL:
+Wide emotional shot. Show the final result clearly. The main character reacts with satisfaction, surprise, happiness, pride, or another emotion that fits the title. End with a complete visual resolution.
+Important requirements:
+* Total video time must be 10 seconds.
+* Use exactly 8 panels.
+* Make every panel visually different.
+* Keep the same character or subject throughout.
+* Make the story clear even without reading long text.
+* Use cinematic, clean, professional storyboard poster composition.
+* No unsafe, violent, weapon-related, or shocking content.
+* If the title is in eng, keep the meaning but create the storyboard prompt in English.
+* If dialogue appears, write only short eng dialogue.
+* Do not add explanations outside the final prompt."
+for video prompt use seedance with :
+Based on the storyboard create a 15 seconds video, multi-shot, add matching SFX and music. Make sure to maintain character consistency.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
