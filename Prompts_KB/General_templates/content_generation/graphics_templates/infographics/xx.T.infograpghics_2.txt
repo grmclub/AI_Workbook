@@ -1,0 +1,83 @@
+
+-------------------------------------------------
+#3 hybrid prompts great for movie posters
+
+Prompt: 
+2x2 grid, 16:9, do this for 4 famous movies: -- input: $ subject
+create temp view subject_analysis as
+select
+  infer_main_identity(:subject)          as identity,
+  infer_dynamic_pose(:subject)           as action_pose,
+  infer_power_or_function(:subject)      as motion_system,
+  infer_world_context(:subject)          as world,
+  infer_symbolic_details(:subject)       as symbols,
+  infer_study_points(:subject)           as closeups,
+  infer_short_title(:subject)            as title;
+create temp view parchment_board as
+select
+  build_action_study_sheet(
+    material = 'aged cream paper',
+    borders = 'thin technical crop marks and panel lines',
+    texture = 'ink stains, paper grain, pencil construction marks'
+  ) as board
+from subject_analysis;
+create temp view main_action as
+select
+  render_manga_subject(
+    identity,
+    pose = action_pose,
+    linework = 'black brush ink, scratch hatching, broken speed strokes',
+    energy = motion_system,
+    accent_color = 'muted blue, red, or sepia inferred from subject'
+  ) as hero
+from subject_analysis;
+create temp view atlas_layer as
+select
+  add_world_fragments(
+    world,
+    style = 'travel-poster landmarks, tiny city shapes, map labels, symbolic scenery',
+    placement = 'behind and around the main action'
+  ) as background_world,
+  add_title_and_stamps(
+    title,
+    style = 'bold poster heading, small seals, side labels, handwritten notes'
+  ) as title_system
+from subject_analysis;
+create temp view study_layer as
+select
+  add_inset_panels(
+    closeups,
+    panels = array[
+      'face or focal feature close-up',
+      'motion diagram',
+      'tool or accessory detail',
+      'alternate state',
+      'silhouette thumbnail'
+    ],
+    style = 'manga production notes'
+  ) as studies
+from subject_analysis;
+render
+  parchment_board.board,
+  atlas_layer.background_world,
+  main_action.hero center,
+  study_layer.studies around main_action.hero,
+  atlas_layer.title_system
+with
+  camera = 'flat illustrated production-board view',
+  palette = 'cream paper, black ink, gray wash, one restrained accent color',
+  mood = 'dynamic, analytical, legendary, worldbuilding-rich';
+-- output rules:
+-- 1. $ subject becomes the hero of a manga-style action dossier.
+-- 2. surround it with travel-poster-like world fragments and symbolic location details.
+-- 3. include inset panels for anatomy, expression, movement, tools, and alternate states.
+-- 4. use callouts, arrows, stamps, and notes as decorative production language.
+-- 5. preserve subject identity while making the page feel hand-drawn, kinetic, and collectible.
+-- 6. avoid polished photorealism, cute toy clay, full-color comic clutter, and empty layouts
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
