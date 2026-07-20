@@ -183,6 +183,37 @@ Here are the transcribed and structured prompt templates, designed to help elimi
 
     Why it works: Great hooks carry the whole post.
 -------------------------------------------------------------
+##The 5 Biggest Ai Writing Tells
+• Everything sounds overly polished
+• Every paragraph feels the same
+• No real opinions or personality
+• Predictable transitions everywhere
+• It sounds written, not spoken
+If you recognize these, keep scrolling.
+
+Fix #1: The Real Person Rewrite
+You are editing writing that sounds overly polished and AI-generated. Rewrite it the way a knowledgeable person would naturally say it in conversation. Remove corporate phrasing, unnecessary adjectives, and anything that sounds written to impress. Keep the meaning the same, but make it feel lived-in, direct, and human.
+Text: [paste]
+
+Fix #2: Voice Shaper
+Rewrite this so it sounds like it came from one specific person with strong opinions and real experiences. Avoid sounding neutral or universally agreeable. Let personality, preferences, and small imperfections show through. The goal is not perfect writing. The goal is recognizable voice.
+Text: [paste]
+
+Fix #3: The Credibility Test
+Read this like a skeptical reader. Highlight any sentence that feels exaggerated, generic, overly certain, or written to sound smart. Rewrite those sections so they feel believable, specific, and earned.
+Text: [paste]
+
+Fix #4: Pattern Disruptor
+Rewrite this while intentionally breaking predictable AI writing patterns. Vary sentence length. Mix short thoughts with longer explanations. Avoid repetitive paragraph structures and perfectly balanced lists. The writing should feel spontaneous rather than generated.
+Text: [paste]
+
+Fix #5: The Ai Phrase Killer
+Rewrite this and remove any phrases commonly associated with AI writing. Replace generic transitions, predictable framing, and overused expressions with language that feels more natural and specific. Keep the meaning unchanged while making the writing less recognizable as AI-generated.
+Text: [paste]
+
+The goal isn't to hide AI. The goal is to make the writing sound like you. AI should amplify your voice, not replace it.
+
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
