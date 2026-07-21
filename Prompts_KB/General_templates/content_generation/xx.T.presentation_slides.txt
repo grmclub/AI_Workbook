@@ -137,6 +137,29 @@ Analyze every claim in this presentation. Identify weak arguments, unsupported s
 Create speaker notes for every slide. Improve my opening, transitions, pacing, emphasis, body language, and closing. Then identify likely objections from [AUDIENCE] and write persuasive responses to each.
 
 -------------------------------------------------
+##5 Claude prompts that will help you create your next presentation in minutes.👇👇
+
+1. Turn Any PDF into a Presentation
+Prompt:
+Analyze the attached PDF or pasted document: [ATTACH PDF OR PASTE CONTENT]. Create a polished 10-slide presentation that captures the document's core message. Extract only the most important insights, remove repetition and unnecessary details, organize the content into a logical narrative, give each slide a clear title with concise bullet points, and ensure the presentation is easy to understand for someone who has never read the original document.
+
+2. Generate a Complete Presentation Outline
+Prompt:
+Create a professional presentation on [TOPIC] for [AUDIENCE]. Build an 8–10 slide outline with a logical flow from introduction to conclusion. For each slide, include: a compelling title, 3–5 key talking points, the objective of the slide, speaker notes, and the most effective visual or graphic to support the content.
+
+3. Turn Raw Data into a Storytelling Presentation
+Prompt:
+Analyze the following data: [PASTE DATA OR DESCRIBE SPREADSHEET]. Create a presentation that tells a compelling story using the data. Identify the most significant trends, patterns, and insights, organize them into presentation slides, recommend the most appropriate chart or graph for each insight, and write concise explanations that make the findings easy to understand and actionable.
+
+4. Turn Meeting Notes into an Executive Recap Deck
+Prompt:
+Review the following meeting transcript or notes: [PASTE TRANSCRIPT OR NOTES]. Create a clean, executive-style presentation summarizing the meeting. Include the meeting objective, key discussion points, decisions made, action items with owners and deadlines (if available), unresolved questions, risks, and recommended next steps. Keep every slide concise, organized, and easy to skim.
+
+5. Turn Numbers into Powerful Presentation Visuals
+Prompt:
+Review these statistics and data points: [PASTE DATA OR METRICS]. For each data point, recommend the most effective visualization (such as a bar chart, line graph, pie chart, waterfall chart, comparison table, heat map, icon grid, or infographic). Explain why that visual is the best choice, provide a clear chart title, and write a compelling one-line insight or caption that highlights the significance of the data rather than simply repeating the numbers.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
