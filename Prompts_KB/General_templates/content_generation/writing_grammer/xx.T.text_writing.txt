@@ -215,6 +215,36 @@ The goal isn't to hide AI. The goal is to make the writing sound like you. AI sh
 
 
 -------------------------------------------------------------
+Don't Copy and Paste Answers from ChatGPT. People Can Tell! 7 Prompts To Make AI Writing Sound Like You 👇
+
+1. Humanizer Prompt
+Prompt: Rewrite this text to sound natural and conversational. Remove robotic phrasing, corporate jargon, and overly formal language. Make it feel like a real person wrote it.
+Text: [Paste your text]
+
+2. Tone Matcher
+Prompt: Rewrite this in my voice. I write in a [casual / bold / witty / direct] style. Match that energy while keeping the same message.
+Text: [Paste your text]
+
+3. Simplicity Filter Prompt
+Prompt: Remove all unnecessary complexity from this text. Use shorter sentences, simpler words, and make every line easy to scan and understand.
+Text: [Paste your text]
+
+4. Flow Fixer
+Prompt: Improve the rhythm and flow of this writing. Vary sentence length, add natural transitions, and make it feel smooth to read out loud.
+Text: [Paste your text]
+
+5. Personality Injector Prompt
+Prompt: Add personality to this text without changing the core message. Make it more engaging, relatable, and interesting to read.
+Text: [Paste your text]
+
+6. AI Detection Killer Prompt
+Prompt: Rewrite this to pass AI detection tools. Use natural phrasing, varied sentence structure, and human imperfections while keeping clarity.
+Text: [Paste your text]
+
+7. Real Person Test Prompt
+Prompt: Edit this so it sounds like something a real person would actually say. Remove anything that feels generated or templated.
+Text: [Paste your text]
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
