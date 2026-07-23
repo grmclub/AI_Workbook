@@ -1,0 +1,309 @@
+
+-------------------------------------------------
+🚨CLAUDE CAN HELP YOU SAVE 10+ HOURS EVERY WEEK.
+Copy these 9 automation prompts to eliminate repetitive work.👇👇
+
+
+1. Workflow Audit
+"I'm a [job title] who works roughly [X hours] per day. My main responsibilities are [list 3-5 tasks]. Audit my typical workday and give me a focused 1-hour plan that cuts the lowest-ROI work and puts the highest-leverage tasks first."
+Paste your title. Get a leaner workday in 60 seconds.￼
+
+2. Repetitive Task Killer
+"Here are the tasks I repeat most often: [list 5-10 tasks]. For each one, write me a Claude prompt I can save and reuse so I stop rebuilding it from scratch every time."
+Your whole week of manual work. One reusable playbook.
+
+3. SOP Builder
+"I need to document this process: [describe the messy process in plain language]. Turn it into a clean step-by-step SOP. For any step that involves writing, thinking, or summarising, include the Claude prompt I should use at that step."
+Messy process in. Documented system out.
+
+4. Email Draft Machine
+"I write these types of emails regularly: [list 4-6 email types, e.g. follow-ups, cold outreach, client updates]. For each one, write me a reusable template plus a Claude prompt I can use to rewrite it, shorten it, or make it more persuasive depending on the situation."
+Never draft from a blank page again.
+
+5. Meeting Notes to Action Plan
+"Here are my raw meeting notes: [paste notes]. Turn these into a clean action plan. Group items by owner if possible. Include deadlines where they were mentioned. Flag anything that is a decision versus a task."
+Chaotic notes. Real action plan. 30 seconds.
+
+6. Daily Priority Planner
+"My goals this week are [list goals]. Today I have [X hours] available. My tasks are [list tasks]. I do my best thinking in the [morning / afternoon / evening]. Map out my ideal workday with time blocks, priorities ordered by impact, and low-energy slots reserved for admin."
+Two minutes to fill in. No more wasted morning figuring out where to start.
+
+7. Deep Work Sprint
+"I need to finish [specific task] today. It usually takes me [estimated time] but I keep getting pulled away. Break this into 3 focused work blocks with a clear goal for each block, a short checkpoint question at the end of each block, and one rule I should follow to protect the session."
+Stop circling the task. Start finishing it.
+
+8. Research Assistant
+"I need to understand [topic] well enough to [explain it to a client / write about it / make a decision]. Give me the 5 most important questions to answer first, 3 angles most people miss, a plain-language summary format I can fill in as I go, and 2-3 action points once I know enough."
+The structured research brief that would take you an hour to build yourself.
+
+9. 30 Day Content Map
+"My niche is [niche]. My audience is [describe them in one sentence]. Give me a full 30-day content plan with weekly themes, one hook idea per day, the format that fits each post (carousel, short video, text post), and a CTA for each piece tied to [your offer or lead magnet]."
+A full month planned. Done before lunch.
+-------------------------------------------------
+Google Gemini can now generate Docs, Sheets, Slides, and PDFs from one simple prompt.
+Here's exactly how it works 👇
+
+Setup
+​Step 1: Open Google Gemini.
+Step 2: Upload your raw data (receipts, text) or tell Gemini to find a file in your Google Drive.
+Step 3: State your format (e.g., "create a Google Doc" or "export to PDF").
+Step 4: Click the link to open it in Workspace or download it locally.
+
+​1. Spreadsheets & Data (Sheets/Excel)
+​Upload raw files or connect your data. The AI builds the spreadsheet, writes formulas, and visualizes the numbers.
+​What it does:
+​↳ Extracts data from uploaded images (like receipts) into clean rows.
+​↳ Automatically builds formulas and reorganizes messy logs.
+​↳ Features Canvas: Instantly turns raw data into an interactive visual dashboard.
+​↳ Exports directly to Google Sheets, Excel (.xlsx), or CSV.
+​Starter prompt: "Take these receipt images and create an Excel file with all expenses listed by date, amount, and category."
+
+​2. Documents & Reports (Docs/Word)
+​Have the AI research a topic or analyze a file, then watch it compile a polished, formatted document.
+​What it does:
+​↳ Researches the web in real-time and formats findings into structured layouts.
+​↳ Uses an inline Gemini Bar to rewrite text, adjust tone, and tweak content on the fly.
+​↳ Supports direct export to Google Docs, Word (.docx), and Markdown (.md).
+​Starter prompt: "Research the latest Google IO rumors and create a Google Doc with a clean breakdown of the findings."
+
+​3. Decks & Presentations (Slides/PowerPoint)
+​Turn text, research, or data into a structured presentation deck.
+​What it does:
+​↳ Converts long documents or spreadsheets into complete slide outlines.
+​↳ Writes slide copy, structures bullet points, and generates speaker notes.
+​↳ Features an "Enhance this slide" button to instantly optimize visual layouts.
+​↳ Exports to Google Slides or PowerPoint (.pptx).
+​Starter prompt: "Take the research report we just generated and convert it into a structured Google Slides deck."
+
+​4. Summaries & Document Exports (PDFs)
+​Pull data from your existing Google Drive ecosystem to find trends and export them into client-ready PDF reports.
+​What it does:
+​↳ Accesses and analyzes files deep inside your Google Drive.
+​↳ Automatically embeds visual charts (pie charts, bar graphs) into text documents.
+​↳ Generates finalized PDF layouts perfect for instant sharing.
+​Starter prompt: "Find my trip expenses log in Google Sheets, find where I can save money, and create a PDF summary with a breakdown pie chart."
+
+​💡 Quick Tips for Best Results:
+​↳ Name your format: Explicitly ask for a "PDF", "Markdown file", or "Google Sheet".
+​↳ Expect duplicates: When editing a Drive file, the AI creates a "V2" copy to protect your original data.
+​↳ Skip the upload: Just reference the file name; the system can pull it straight from your Drive.
+​The people spending hours manually copy-pasting data and formatting slides are doing it the old way.
+​The ones finishing in minutes are letting the AI generate the files directly.
+​Save this cheatsheet. Share it with someone still building reports by hand!
+
+-------------------------------------------------
+
+
+Prompt #1: The CEO Daily Planner
+Turn a chaotic day into a clear action plan.
+    Prompt:
+    You are a world-class productivity strategist.
+    Help me organize my day using the information below.
+    Goals for today:
+    [List goals]
+    Tasks:
+    [List tasks]
+    Meetings:
+    [List meetings]
+    Deadlines:
+    [List deadlines]
+    Then:
+        Identify my top 3 priorities
+        Create an optimized schedule
+        Highlight tasks that can be automated
+        Recommend the highest-impact activities
+
+Prompt #2: Research A New Industry In Minutes
+    Prompt:
+    You are a professional research analyst.
+    Research the following topic:
+    [Topic]
+    Provide:
+        Key information
+        Current trends
+        Important statistics
+        Main companies in the space
+        Opportunities and risks
+    Present everything in a clear, structured format.
+
+Prompt #3: Learn Any Topic Faster
+    Prompt:
+    You are an expert teacher in [Topic].
+    Explain the following concept:
+    [Concept]
+    Structure your answer as:
+        Simple explanation
+        Key principles
+        Practical examples
+        Common mistakes
+        Quick summary for recall
+    Assume I am intelligent but new to the topic.
+
+Prompt #4: Instant Writing Upgrade
+    Prompt:
+    Improve the following text so it becomes:
+        Clearer
+        More concise
+        More persuasive
+        More professional
+    Keep the original meaning.
+    Text:
+    [Paste text]
+    Then explain the most important improvements you made.
+
+Prompt #5: Why Did This Go Viral?
+    Prompt:
+    Analyze the following post:
+    [Paste post]
+    Break down:
+        Why it performed well
+        Psychological triggers
+        Hook structure
+        Content framework
+        How I can adapt these ideas to my niche
+    Provide actionable takeaways.
+
+
+-------------------------------------------------
+https://github.com/businessbarista/daily-planner-skill
+
+The Master Prompt
+Use the following prompt into your preferred AI (such as ChatGPT or Claude) to structure your day. 
+You are a world-class productivity strategist and executive coach. Help me organize my day using the CEO Daily Planner framework.
+Here is my situation:
+    • My current top 3 overarching goals are: [List your main goals]
+    • Today's date and known events/meetings: [List date and fixed appointments]
+    • My brain-dump of things I need or want to do: [List all your random tasks, errands, and projects]
+Please generate a plan for me with the following sections:
+    1. The Executive 3: The top 3 absolute highest-leverage tasks that move the needle on my goals today.
+    2. Task Batching: Group the rest of my tasks into logical batches to prevent context-switching.
+    3. Time-Blocked Schedule: A realistic, hour-by-hour schedule assigning my 'Executive 3' to my peak energy hours.
+    4. Delegate & Delete: Identify 1-2 tasks I should hand off or remove entirely.
+    5. Daily Alignment Question: A specific question to test if today's actions aligned with my macro goals.
+
+-------------------------------------------------
+How to Plan Your Day Like a CEO: The Jack Ma-Inspired “Alibaba Mindset”
+
+Focusing on the Big Picture and Long-Term Strategy: CEOs like Jack Ma prioritize strategic vision and long-term planning over short-term reactive tasks.
+    3. Delegation and Empowering Teams: Instead of micromanaging daily operational details, effective leadership relies on entrusting capable team members to execute specific responsibilities.
+    4. Customer-First Philosophy: A core pillar of the Alibaba mindset is prioritizing customer needs above shareholder or internal demands when structuring focus and time.
+    5. Continuous Learning and Adaptability: Allocating time daily or weekly for reading, reflection, and adjusting to market shifts.
+
+💡 Put It Into Action
+If you want to apply these principles to structure your day using an AI prompt (such as the CEO Daily Planner prompt from earlier), you can use a format like this:
+
+Role: Strategic Productivity Planner
+Inputs:
+    • Goals: [Insert main objectives]
+    • Tasks: [Insert daily tasks]
+    • Meetings/Deadlines: [Insert fixed commitments]
+Instructions:
+Organize my agenda using the Jack Ma / Alibaba CEO Mindset:
+    1. Prioritize Customer & Long-Term Impact: Highlight the 2–3 tasks that create the highest long-term value.
+    2. Delegation Candidate Identification: Mark low-leverage or routine tasks that should be delegated or automated.
+    3. Strategic Block Allocation: Protect dedicated time for focused, high-level planning away from minor distractions.
+
+-------------------------------------------------
+##How I’ve Been Using AI To Build Complex Software (And What Actually Worked)
+
+been trying to build full software projects w/ ai lately, actual apps w/ auth, db, and front-end logic. it took a bunch of trial + error (and couple of total meltdowns lol), but turns out ai can handle complex builds if you manage it like a dev team instead of a prompt machine. here’s what finally started working for me 👇
+
+1. Start With Architecture, Not Code before you type a single prompt, define your stack and structure. write it down or have the ai help you write a claude .md or spec .md file that outlines your app layers, api contracts, and folder structure. treat that doc like the blueprint of your project — every decision later depends on it. i also keep a /context.md where i summarize each conversation phase — so even if i switch to a new chat, i can paste that file and the ai instantly remembers where we left off.
+
+2. Keep Modules Small modules over 500–800 lines? break them up. large files make ai forget context and write inconsistent logic. create smaller, reusable parts and use git branches for each feature. It makes debugging and regeneration 10x easier. i also use naming patterns like auth_service_v2.js instead of overwriting old versions — so i can revert easily if the ai’s new output breaks something.
+
+3. Separate front-end and back-end builds (unless you know why you shouldn’t). most pros suggest running them as separate specs — it keeps things modular and easy to maintain. others argue monorepos give ai better context. pick one approach, but stay consistent.
+
+4. Document Everything your ai can only stay sane if you give it memory through files — /design.md, /architecture.md, /tasks/phase1.md, etc. keep your api map and decision records in one place. i treat these files like breadcrumbs for ai bonus tip — when ai gives you good reasoning (not just code), copy it into your doc. those explanations are gold for when you or another dev revisit the logic later.
+
+5. Plan → Build → Refactor → Repeat ai moves fast, but that also means it accumulates bad code fast. when something feels messy, i refactor or rebuild from spec — don’t patch endlessly. try to end each build session with a summary prompt like: “rewrite a clean overview of the project so far.” that keeps the architecture coherent across sessions.
+
+6. Test Early, Test Often after each feature, i make the ai write basic unit + integration tests. sometimes i even open a parallel chat titled “qa-bot” and only feed it test prompts. i also ask it to “predict how this could break in production.” surprisingly, it catches edge cases like missing null checks or concurrency issues.
+
+7. Think Like A Project Manager, Not A Coder i used to dive into code myself. now i mostly orchestrate — plan features, define tasks, review outputs. ai writes; i verify structure. i also use checklists in markdown for every sprint (like “frontend auth done? api tested? errors logged?”). feeding that back to ai helps it reason more systematically.
+
+8. Use Familiar Stacks try to stick to popular stacks and libraries. ai models know them better and produce cleaner code. react, node, express, supabase — they’re all model-friendly.
+
+9. Self-Review Saves Hours after each phase, i ask: “review your own architecture for issues, duplication, or missing parts.” it literally finds design flaws faster than i could. once ai reviews itself, i copy-paste that analysis into a new chat and say “build a fixed version based on your own feedback.” it cleans things up beautifully.
+
+10. Review The Flow, Not Just The Code the ai might write perfect functions that don’t connect logically. before running anything, ask it: “explain end-to-end how data flows through the system.” that catches missing dependencies or naming mismatches early.
+
+-------------------------------------------------
+You are a content strategist. When I describe my business, you create a 30-day content calendar and write it to a Google Sheet.
+
+The calendar has these columns:
+- Day (1-30)
+- Date (starting from today)
+- Platform (rotate between: YouTube, Skool, X/Twitter, LinkedIn)
+- Content Type (rotate between: Educational, Story, Proof, Engagement, Behind-the-scenes)
+- Topic (specific to my business, not generic)
+- Hook (the first line that stops the scroll, under 10 words)
+- Format (short post, long post, video, thread, poll)
+- Status (all set to "Planned")
+
+Rules:
+- Never repeat the same topic twice
+- Every hook should create curiosity or call out a specific pain
+- Mix platforms so no single platform gets more than 8 posts
+- Educational posts teach one thing. Story posts share one experience. Proof posts show one result.
+- Keep topics specific. "How to write emails" is bad. "The 3-line cold email that booked 11 calls last week" is good.
+
+After generating the calendar:
+1. Create a new Google Sheet called "[Business Name] Content Calendar"
+2. Write all the data to the sheet
+3. Share the link with me
+
+-------------------------------------------------
+##10 Claude Prompts for Higher Productivity I use every week:
+
+Most founders aren't underworked. 
+
+They're just working on the wrong things.
+
+1/ Weekly Priorities
+"You're a productivity coach with 15+ years of experience working with founders. Here's everything on my plate this week [paste]. Sort it into: do today, do this week, delegate, delete. Tell me which one task would move the business the most."
+
+2/ Time Audit
+"Here's how I spent the last 7 days, hour by hour [paste]. Show me where my time actually went vs. where I think it went. Flag the 3 biggest leaks and what to replace them with."
+
+3/ Delegation List
+"Here's a list of every recurring task I do each week [paste]. Categorize each one: keep, delegate now, document and delegate, or kill. Tell me which task would free up the most hours if I let go of it first."
+
+4/ Meeting Audit
+"Here's my calendar from the last 2 weeks [paste]. Score each meeting on whether it needed me, whether it could've been async, and whether it produced a clear next step. Tell me which 5 to cancel."
+
+5/ Deep Work Blocks
+"Build me a weekly schedule template that protects 4 hours of deep work each weekday morning. Include rules for meetings, Slack, email, and interruptions. Make it realistic for a founder running multiple businesses."
+
+6/ Daily Shutdown
+"Build me a 10-minute end-of-day shutdown routine. Include reviewing what got done, capturing open loops, setting tomorrow's top 3, and a clean way to actually stop working. Make it repeatable."
+
+7/ Email Triage
+"Here are the 50 most recent emails in my inbox [paste subjects and senders]. Sort each one into: reply now, reply later, delegate, archive, unsubscribe. Tell me which 3 actually need me today."
+
+8/ Decision Filter
+"Here's a decision I'm stuck on [paste]. Walk me through it using a clear framework: what's reversible, what's the cost of waiting, what would I tell a friend in this spot. Give me a recommendation."
+
+9/ Energy Mapping
+"Here's a log of my energy levels every 2 hours for the last week [paste]. Tell me when I'm sharpest, when I'm dragging, and how to rebuild my schedule so I'm doing creative work in my best windows and admin work in my worst."
+
+10/ Quarterly Reset
+"Here's what I planned to get done this quarter and what I actually got done [paste]. Tell me what worked, what didn't, what I overcommitted to, and the 3 things I should focus on next quarter. Be honest."
+
+The prompts are only half of it.
+
+Productivity isn't a stack of apps and a clever schedule. 
+
+It's the willingness to look at your week and admit most of it didn't matter. 
+
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
+
+
+
+
