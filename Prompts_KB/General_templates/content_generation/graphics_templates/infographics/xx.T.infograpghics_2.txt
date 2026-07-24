@@ -76,6 +76,18 @@ with
 -- 6. avoid polished photorealism, cute toy clay, full-color comic clutter, and empty layouts
 
 -------------------------------------------------
+--food recepie infographics
+
+Create a premium 4:5 recipe infographic poster for [Recipe Name]. Use a clean editorial cookbook layout with a large ultra-realistic hero food photo in the center. Display realistic ingredient icons with quantities on the left, nutrition facts (calories, prep time, cook time, servings, difficulty) on the right, and 6–8 illustrated step-by-step cooking instructions connected by arrows at the bottom. Use modern typography, rounded cards, soft shadows, white background, subtle food-themed colors, and plenty of clean spacing. Style: Pinterest recipe infographic, Behance-quality, Swiss editorial, commercial food photography, ultra-realistic, 8K, crisp details, readable text, premium cookbook design. Negative prompt: blurry, low quality, unreadable text, cluttered layout, watermark, logo, cartoon, CGI, distorted food, duplicated objects.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
