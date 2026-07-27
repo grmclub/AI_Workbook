@@ -57,5 +57,41 @@ done
 
 
 -------------------------------------------------------------
+##8 Essential Google Gemini features every beginner should try👇👇
+
+1️/ GEMINI NOTEBOOK
+Open Notebook in the sidebar and upload PDFs, Docs, Slides, websites, or notes.
+Ask questions about your sources, generate summaries, create study guides, or turn your documents into podcast-style Audio Overviews.
+
+2️/ STORYBOOK
+Open Storybook from the Gemini sidebar.
+Describe your idea, choose the characters, and Gemini creates a fully illustrated children's storybook in minutes.
+
+3️/ CANVAS
+Open any chat → click Canvas.
+Edit documents or code alongside your conversation. Rewrite sections, debug code, or make targeted changes without starting over.
+
+4️/ LIVE VOICE
+Open the Gemini app → tap the microphone.
+Talk naturally, ask follow-up questions, brainstorm ideas, or practice interviews without typing.
+
+5️/ CONNECT GMAIL, DRIVE & CALENDAR
+Go to Settings → Apps and connect your Google apps.
+Then ask Gemini to summarize emails, find files in Drive, check your calendar, or search your YouTube history.
+
+6️/ DEEP RESEARCH
+Choose Deep Research from the model menu and enter your topic.
+Gemini researches across multiple sources and generates a structured report with citations.
+
+7️/ GRMINI GEMS
+Go to the sidebar → Gems → Create New.
+Create custom AI assistants for writing, coding, studying, fitness, or any repeated task. Each Gem remembers its instructions.
+
+8️/ IMAGE GENERATION & EDITING
+Describe an image to generate it.
+Or upload an image and ask Gemini to remove backgrounds, replace objects, change colors, or edit specific parts—all inside the same chat.
+
+
+
 -------------------------------------------------------------
 -------------------------------------------------------------
