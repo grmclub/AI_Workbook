@@ -32,6 +32,27 @@ This is something most language apps don't do particularly well, but Claude can.
 
 
 -------------------------------------------------
+##Use these 6 prompts in Claude to learn any language faster
+
+1. Outcome-First Language Plan
+I want to become confidently conversational in [language] for [travel/work/daily life]. Create a practical 30-day learning plan focused on speaking and listening from Day One. Prioritize real communication over grammar drills, streaks, or unnecessary theory, with clear daily goals and milestones.
+
+2. High-Frequency Vocabulary
+Teach me the most commonly used words and phrases in [language] for [context]. Include the native spelling, pronunciation, English meaning, and one natural example for each. Start with the highest-frequency vocabulary that native speakers use every day, and organize everything from the most useful to the least.
+
+3. Speak From Day One
+Act as my personal [language] tutor and help me build confidence through real conversations. Ask me one short question at a time, wait for my reply, then gently correct my mistakes and rewrite my answer to sound more natural while keeping the conversation flowing.
+
+4. Grammar on Demand
+Explain this grammar point: [paste grammar or sentence] only if it's needed for me to speak correctly today. Keep the explanation short, practical, and focused on one natural sentence I can immediately use in conversation.
+
+5. Real Conversation Simulator
+Roleplay a realistic conversation in [language] for [scenario]. Respond like a native speaker, pause after each message for my reply, then improve my response to sound more fluent while briefly explaining any important corrections or cultural nuances.
+
+6. Weekly Review & Improvement
+Review everything I've learned this week with recall questions, speaking exercises, and short conversation prompts. Identify my weakest areas, explain what needs improvement, and create a personalized 7-day plan that strengthens my skills and builds on my progress.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
