@@ -22,6 +22,11 @@ Copy. Paste. Generate.
 https://banana-ai.art/meigen-gallery
 
 -------------------------------------------------
+https://github.com/kesslernity/awesome-microsoft-copilot-prompts
+https://github.com/pnp/copilot-prompts
+https://github.com/nidhinjs/prompt-master
+
+https://m365.cloud.microsoft/copilot-prompts
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
