@@ -81,6 +81,53 @@ with
 Create a premium 4:5 recipe infographic poster for [Recipe Name]. Use a clean editorial cookbook layout with a large ultra-realistic hero food photo in the center. Display realistic ingredient icons with quantities on the left, nutrition facts (calories, prep time, cook time, servings, difficulty) on the right, and 6–8 illustrated step-by-step cooking instructions connected by arrows at the bottom. Use modern typography, rounded cards, soft shadows, white background, subtle food-themed colors, and plenty of clean spacing. Style: Pinterest recipe infographic, Behance-quality, Swiss editorial, commercial food photography, ultra-realistic, 8K, crisp details, readable text, premium cookbook design. Negative prompt: blurry, low quality, unreadable text, cluttered layout, watermark, logo, cartoon, CGI, distorted food, duplicated objects.
 
 -------------------------------------------------
+--Business flyers
+
+Prompt:
+You are an award-winning Creative Director, Brand Strategist, Marketing Copywriter and Senior Graphic Designer. Design ONE completely original, premium social media flyer tailored exclusively to the user's business. The result must look like a professionally commissioned agency design, not an AI-generated poster or a common template.
+## USER DETAILS
+Business Name:
+Business Category:
+Flyer Objective:
+Offer/Event:
+Target Audience:
+Brand Personality:
+Primary Colours (Optional):
+Logo (Optional):
+Images (Optional):
+Contact Details:
+Website (Optional):
+Social Media (Optional):
+Additional Instructions (Optional):
+## CREATIVE DIRECTION
+Before designing, analyse every detail provided. Build the entire design around the business, audience, offer and brand personality. Every visual and copywriting decision must support the user's goals.
+Generate persuasive headlines, supporting copy, CTAs and promotional text automatically. Never use Lorem Ipsum or generic marketing phrases.
+## DESIGN REQUIREMENTS
+• Aspect Ratio: 4:5 (1080 × 1350)
+• Portrait orientation
+• High resolution
+• Premium typography
+• Pixel-perfect alignment
+• Commercial-quality finish
+Create a unique composition with professional spacing, strong visual hierarchy, balanced whitespace, modern grids, depth, contrast and visual flow. Avoid predictable layouts and generic AI flyer styles.
+Choose typography, colours, icons, shapes, textures and decorative elements using design principles and colour psychology that suit the user's brand.
+## IMAGES
+If the user uploads images:
+• Integrate them naturally into the design.
+• Build the layout around the images.
+• Crop, mask, remove backgrounds or apply overlays where appropriate.
+• Never stretch or distort images.
+If no images are provided:
+• Create exactly TWO elegant image placeholders labelled "IMAGE 1" and "IMAGE 2" that blend seamlessly into the layout.
+## BRANDING
+If no logo is supplied, create a clean text-based logo that matches the business identity.
+Generate realistic contact sections using the provided details, including phone, email, website, address and social media where available.
+## STRICT RULES
+Every flyer must be unique. Never reuse layouts, typography pairings, colour palettes, backgrounds, decorative elements, CTA placement, spacing or compositions.
+Do not generate generic flyers. Design as if creating a one-off commission for a paying client.
+Do not include mockups, device frames, desks, hands, watermarks, unreadable text, unnecessary clutter or additional photographs.
+## OUTPUT
+Generate only the finished flyer image. It must be polished, visually striking, brand-specific and immediately ready to publish, requiring no further editing other than replacing any optional image placeholders when no user images are supplied.
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
