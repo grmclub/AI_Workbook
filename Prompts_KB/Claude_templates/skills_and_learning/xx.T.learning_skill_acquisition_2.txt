@@ -1,0 +1,80 @@
+
+-------------------------------------------------
+1/ The Skill Gap Finder
+"Act as a career strategist. Based on my role and where my field is heading, tell me the 3 skills worth learning next and the fastest way into each. My role: [insert role]. My industry: [insert industry]."
+
+2/ The Learn-by-Teaching Loop
+"Act as a learning coach. Give me 5 tiny lessons on [insert topic] I could teach a beginner, since teaching forces me to learn it properly. My current level: [insert level]."
+
+3/ The 20-Minute Rule
+"Act as a study designer. Turn [insert skill] into daily 20-minute sessions for 4 weeks, each with one clear thing to practice and a way to know I got it. My goal: [insert goal]."
+
+4/ The Apply-It-Today Task
+"Act as a hands-on mentor. Give me one small real task that uses what I just learned about [insert topic], so it sticks instead of fading. My context: [insert context]."
+
+5/ The Plateau Breaker
+"Act as a skills coach. I am stuck at an intermediate level in [insert skill]. Diagnose the likely reason and give me 3 drills to break through. My situation: [describe situation]."
+
+-------------------------------------------------------------
+1. Learn Anything In 20 Hours
+Prompt:
+"I need to learn [topic] fast. Build me a 20-hour plan focused on the 20% that drives 80% of results. Break it into 10 two-hour sessions with the best resources and a 15-minute review at the end of each."
+
+2. Create A One-Page Cheat Sheet 
+Prompt: 
+"Summarize the key concepts of [topic] on a single page. Use bullet points, diagrams, and examples so I can review it in 5 minutes." 
+
+3. Quiz Me Until I Break
+Prompt:
+"I just studied [topic]. Give me 10 progressively harder questions to test my understanding. After each answer, grade me and explain what I missed."
+
+4. Build A Learning Ladder 
+Prompt: 
+"Break [topic] into 5 levels of difficulty. Show me how to go from Level 1 (beginner) to Level 5 (advanced), with a clear milestone at each step." 
+
+5. Find The Best Learning Resources 
+Prompt: 
+"List the top 5 resources (books, videos, courses, or people) for learning [topic] fast, and explain why each is worth my time." 
+
+6. Use The Feynman Technique
+Prompt:
+"Explain [topic] to me in the simplest terms. Then have me re-explain it back. Point out gaps, re-teach what I miss, and repeat until I can explain it clearly on my own."
+
+-------------------------------------------------------------
+7 Claude Prompts That Can Teach You Any Skill in 30 Days 👇👇
+
+1. Professional Skill Mentor
+Act as an expert mentor, instructor, and experienced practitioner in [SKILL], with extensive real-world experience. Teach me from complete beginner to advanced level over the next 30 days. Prioritise practical skills, first principles, and real-world application over academic theory. Explain concepts clearly, build progressively, identify common mistakes, and ensure I develop genuine competence rather than surface-level knowledge. Adapt your teaching to my pace and understanding.
+
+2. 30-Day Mastery Roadmap
+Design a comprehensive 30-day learning roadmap for mastering [SKILL]. Divide the curriculum into daily (or weekly) milestones. For each stage, include:
+▪︎ Learning objectives
+▪︎ Core concepts
+▪︎ Practical exercises
+▪︎ Recommended resources (if needed)
+▪︎ Expected outcomes
+▪︎ Common mistakes to avoid
+▪︎ A checkpoint to measure progress.
+Structure the roadmap so that each stage builds naturally on the previous one and prepares me for real-world use.
+
+3. Learn by Doing
+Teach me [SKILL] using a hands-on, project-based approach. Minimise passive explanations and maximise practical learning. For every lesson, provide exercises, drills, challenges, and mini-projects that require me to apply what I've learned. After each task, review my work, explain what I did well, identify mistakes, and suggest specific improvements before moving on.
+
+4. Real-World Application
+Show me how [SKILL] is actually used by professionals in real-world situations. Provide realistic scenarios, case studies, workflows, and examples that demonstrate how experienced practitioners think and make decisions. Explain why each approach works, when to use it, common pitfalls, and how to adapt it to different situations.
+
+5. Think Like an Expert
+Teach me how experts approach [SKILL]. Explain the mental models, frameworks, decision-making processes, habits, and problem-solving strategies that distinguish professionals from beginners. Compare expert and novice thinking using practical examples, and give exercises that help me develop an expert mindset.
+
+6. Skill Assessment & Feedback
+Assess my current level in [SKILL]. Begin by asking diagnostic questions and giving practical tasks that accurately measure my knowledge and ability. Based on my performance, identify my strengths, weaknesses, misconceptions, and knowledge gaps. Then create a personalised improvement plan with clear priorities before advancing to the next stage.
+
+7. Real-World Readiness Evaluation
+Evaluate whether I am genuinely ready to use [SKILL] confidently in real-world situations. Test me with realistic projects, scenarios, and problem-solving challenges that reflect professional-level work. Identify any remaining weaknesses, explain how they could affect my performance, and create a targeted action plan to eliminate those gaps. Only consider me fully competent once I can consistently demonstrate practical proficiency.
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
