@@ -62,6 +62,39 @@ motivation - Motivational advice and encouragement for the skill acquisition jou
 Examples [Insert Examples Here]
 Complex Skill To Be Learned
 [Insert Here]
+
+=====================
+I want to understand [TOPIC] deeply using the Feynman learning method.
+
+Act like a patient teacher. First, explain [TOPIC] to me in simple language, as if I am 12 years old.
+
+Use:
+- simple words
+- real-life examples
+- analogies
+- no unnecessary jargon
+- short explanations
+
+After explaining, ask me to explain the topic back in my own words.
+
+Then review my explanation and do the following:
+1. Identify what I explained correctly.
+2. Find every gap, mistake, confusion, or missing idea.
+3. Re-teach only the parts I got wrong or missed.
+4. Ask me to explain it again in a cleaner way.
+5. Repeat this loop until my explanation is simple, accurate, and complete.
+
+Rules:
+- Do not move forward until my explanation is clear.
+- Do not overload me with extra theory.
+- Correct me gently but clearly.
+- Use examples whenever I am confused.
+- At the end, give me a final clean explanation of [TOPIC] that I can save as notes.
+
+Make this feel like an interactive learning conversation, not a lecture.
+================
+use this prompt right now on learning [advanced Linux commands for text processing] , and tweak it for a specific subject
+
 -------------------------------------------------------------
 Prompt 1: High level, 5 to 10 step plan
 Instructions:
