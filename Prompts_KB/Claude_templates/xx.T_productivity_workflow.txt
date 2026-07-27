@@ -223,5 +223,38 @@ Build an actionable 3-part script to pivot this conversation.
 
 
 -------------------------------------------------------------
+10 Productivity Claude Prompts Cheat Sheet
+
+Prompt 1 | Weekly Priorities
+"You're a productivity coach with 15+ years of experience working with founders. Here's everything on my plate this week [paste]. Sort it into: do today, do this week, delegate, delete. Tell me which one task would move the business the most."
+    • Note: highest leverage
+
+Prompt 2 | Time Audit
+"Here's how I spent the last 7 days, hour by hour [paste]. Show me where my time actually went vs. where I think it went. Flag the 3 biggest leaks and what to replace them with."
+
+Prompt 3 | Delegation List
+"Here's a list of every recurring task I do each week [paste]. Categorize each one: keep, delegate now, document and delegate, or kill. Tell me which task would free up the most hours first."
+    • Note: buy back time
+
+Prompt 4 | Meeting Audit
+"Here's my calendar from the last 2 weeks [paste]. Score each meeting on whether it needed me, whether it could've been async, and whether it produced a clear next step. Tell me which 5 to cancel."
+
+Prompt 5 | Deep Work Blocks
+"Build me a weekly schedule template that protects 4 hours of deep work each weekday morning. Include rules for meetings, Slack, email, and interruptions. Make it realistic for a founder running multiple businesses."
+
+Prompt 6 | Daily Shutdown (Mandatory)
+"Build me a 10-minute end-of-day shutdown routine. Include reviewing what got done, capturing open loops, setting tomorrow's top 3, and a clean way to actually stop working. Make it repeatable."
+    • Note: close the loop
+
+Prompt 7 | Email Triage
+"Here are the 50 most recent emails in my inbox [paste subjects and senders]. Sort each one into: reply now, reply later, delegate, archive, unsubscribe. Tell me which 3 actually need me today."
+    • Note: inbox $\downarrow$
+
+Prompt 8 | Decision Filter
+"Here's a decision I'm stuck on [paste]. Walk me through it using a framework: what's reversible, what's the cost of waiting, what would I tell a friend in this spot. Give me a recommendation."
+
+
+
+
 -------------------------------------------------------------
 -------------------------------------------------------------
