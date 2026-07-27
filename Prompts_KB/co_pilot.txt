@@ -16,13 +16,10 @@ https://github.com/pnp/copilot-prompts
 https://www.reddit.com/r/PromptEngineering/comments/1r0s8v1/i_compiled_50_microsoft_copilot_prompts_that_work/
 
 https://www.reddit.com/r/microsoft_365_copilot/comments/1srr0ll/whats_your_go_to_copilot_prompt_library_building/
-
-https://youtu.be/oGEriQxhZOU?si=jPeS5AmIeExorfpU
-
-https://github.com/kesslernity/awesome-microsoft-copilot-prompts
-
 https://m365.cloud.microsoft/copilot-prompts
 
+
+https://youtu.be/oGEriQxhZOU?si=jPeS5AmIeExorfpU
 
 --------------------------------------------------------------------------------------
 Key Prompt Examples by App
@@ -36,8 +33,6 @@ Best Practices for Building Collections
 Focus on Structure: Use the Goal-Context-Source-Expectation structure.
 Use Promptbooks: In Microsoft Purview, you can chain prompts together to run in sequence, known as a promptbook.
 Save & Share: Use the "save" feature to store frequently used prompts in the gallery, and share them with teammates via link. 
-
-
 
 --------------------------------------------------------------------------------------
 ##I compiled 50 Microsoft Copilot prompts that work with ANY version — no M365 integration needed 
