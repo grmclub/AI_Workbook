@@ -1,0 +1,32 @@
+
+-------------------------------------------------
+🚨 You can use Claude Opus 5 to create an entire book in less than 24 hours.
+No writing skills required.
+Completely FR€€.
+Here are 7 powerful prompts to brainstorm, write, edit, and prepare your book for publication.
+
+1. Book Idea Finder
+Take on the role of an experienced author and publishing analyst. Suggest 10 book ideas within [your niche] that have strong commercial potential. For each idea, explain who it's for, the challenge it addresses, what makes it stand out, and why readers would buy it.
+
+2. Book Blueprint
+You're a professional book coach. Build a complete outline for [book idea], organising the content into engaging chapters. Include each chapter's purpose, key concepts, and a progression that keeps readers interested until the end.
+
+3. Chapter Draft Creator
+Write Chapter [X] for [book title] in a clear, conversational style. Blend practical advice with relatable stories, real-world examples, and actionable takeaways to create an engaging reading experience.
+
+4. Expert Content Enhancer
+Review the chapter below as an industry expert. Improve its depth, authority, and clarity by adding stronger insights, refining explanations, and making the content more persuasive while keeping the original intent intact. [Paste chapter]
+
+5. Book Branding Assistant
+Create 10 memorable book title and subtitle combinations for [topic]. Then design a cover concept by recommending the ideal colour scheme, typography, imagery, and overall visual direction for the target audience.
+
+6. Manuscript Polisher
+Act as a senior editor reviewing a book manuscript. Improve the writing by refining grammar, sentence flow, readability, and structure. Eliminate unnecessary repetition while maintaining the author's voice and message. [Paste text]
+
+7. KDP Launch Roadmap
+Act as an Amazon KDP publishing expert. Develop a practical launch strategy that covers manuscript formatting, keyword selection, category optimisation, pricing, pre-launch preparation, and a 7-day promotion plan to maximise visibility and sales.
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
