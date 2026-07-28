@@ -1,0 +1,52 @@
+
+
+-------------------------------------------------
+Use ChatGPT as a thinking partner, not just an answer machine.
+These 20 prompts help you challenge bias, stress-test ideas, and reason with more clarity.
+
+
+1/ 20 ChatGPT Prompts for Critical Thinking: Foundations
+The first four prompts help you challenge how you are framing the problem before you commit to an answer.
+➔ 1. First Principles Thinking: Give ChatGPT a [TOPIC]. Ask it to separate assumptions from verified facts, identify constraints and dependencies, rebuild the problem from fundamentals, and compare that result with conventional thinking.
+➔ 2. Multi Perspective Analysis: Analyze the same topic through several viewpoints such as founder, customer, investor, expert, regulator, marketer, or engineer. Compare their goals, concerns, incentives, opportunities, and disagreements.
+➔ 3. Cognitive Bias Detection: Give ChatGPT your [CONTENT]. Ask it to detect confirmation bias, anchoring, survivorship bias, sunk cost thinking, optimism, authority bias, framing, and loss aversion. Then examine how each bias affects the reasoning.
+➔ 4. Devil's Advocate Stress Test: Give it an [IDEA] and ask it to attack the assumptions, logic, execution, timing, market fit, scalability, incentives, dependencies, and edge cases before recommending improvements.
+
+
+2/ Better Decisions Before You Commit
+These four prompts help when several options look reasonable but you need stronger reasoning before choosing one.
+➔ 5. Decision Matrix Builder: Compare [OPTION A], [OPTION B], and [OPTION C] using criteria such as cost, effort, risk, upside, time, scalability, reversibility, learning, and strategic fit. Include best, average, worst, and black-swan scenarios before choosing.
+➔ 6. Root Cause Analysis: Give ChatGPT a [PROBLEM]. Ask it to use Five Whys, causal chains, dependency mapping, and systems thinking to separate symptoms from root causes. Then rank possible fixes by impact versus effort.
+➔ 7. Argument Strength Evaluator: Paste an [ARGUMENT]. Have ChatGPT break it into premises, evidence, assumptions, claims, and conclusions. Ask it to identify logical weaknesses, assess evidence quality, and rebuild the argument in a stronger form.
+➔ 8. Scenario Planning: Analyze a [TOPIC / INDUSTRY / DECISION] across optimistic, realistic, pessimistic, and disruptive futures. For each, examine drivers, triggers, risks, opportunities, probabilities, and response strategies.
+
+
+3/ Systems, Assumptions, Risks and Opportunity Costs
+Good decisions become easier when ChatGPT helps you see what sits underneath the obvious answer.
+➔ 9. Systems Thinking: Treat your [TOPIC / PROBLEM] as a system. Map inputs, outputs, actors, incentives, feedback loops, bottlenecks, dependencies, delays, and emergent effects. Then identify leverage points and unintended consequences.
+➔ 10. Assumption Audit: Paste a plan or belief. Ask ChatGPT to extract every explicit and implicit assumption, classify them, estimate confidence, identify the assumptions supported by the weakest evidence, and explain what happens if they fail.
+➔ 11. Red Team Analysis: Give ChatGPT a project, strategy, or decision. Ask it to search for vulnerabilities, blind spots, manipulation risks, execution failures, resource constraints, competitive attacks, human errors, and unexpected dependencies. Finish with mitigation actions.
+➔ 12. Opportunity Cost Evaluation: Analyze a [DECISION] by looking beyond what you gain. Ask what you sacrifice in money, time, skills, relationships, growth, learning, optionality, and future positioning by not choosing the alternatives.
+
+4/ Tradeoffs, Consequences, Evidence and Testing
+These prompts are useful when a decision sounds good today but its long-term effects or evidence are unclear.
+➔ 13. Strategic Tradeoff: Give ChatGPT a [CASE]. Ask it to compare short term versus long term, efficiency versus quality, speed versus accuracy, risk versus reward, growth versus stability, and simplicity versus flexibility. Then examine what happens when one variable is optimized at the expense of another.
+➔ 14. Second Order Thinking: Give it a [DECISION]. Start with the immediate effects, then map secondary consequences, tertiary consequences, long-term ripple effects, unintended outcomes, and how different stakeholders could react over time.
+➔ 15. Evidence Quality Analyzer: Paste your [DATA], claims, or sources. Ask ChatGPT to assess reliability, credibility, sample quality, bias risk, source independence, statistical validity, and limitations. Separate facts from interpretation and rank the evidence from weak to strong.
+➔ 16. Hypothesis Testing: Provide a [HYPOTHESIS]. Define independent and dependent variables, assumptions, measurements, success metrics, and falsification criteria. Then identify supporting and opposing evidence and design tests that could strengthen or weaken confidence.
+
+5/ Mental Models and the Full Critical Thinking Framework
+The final four prompts help you combine several reasoning methods instead of relying on one way of looking at a problem.
+➔ 17. Mental Model Stacking: Analyze a [TOPIC] through several mental models such as first principles, inversion, opportunity cost, Pareto principle, compounding, systems thinking, and game theory. Compare what each model reveals, then combine the strongest insights.
+➔ 18. Inversion Thinking: Start with a [GOAL], but ask how you would guarantee failure instead of success. Identify the behaviors, assumptions, incentives, environments, and decisions that would create the worst outcome. Reverse those findings into principles for success.
+➔ 19. Strategic Question Generator: Give ChatGPT a [PROJECT / PROBLEM]. Ask for deep questions covering assumptions, risks, opportunities, incentives, unintended consequences, ethics, scalability, timing, alternatives, evidence quality, uncertainty, and long-term effects.
+➔ 20. Master Critical Thinking Framework: Analyze a [TOPIC] by defining the problem, validating assumptions, assessing evidence, checking biases, examining risks and alternatives, comparing tradeoffs, and mapping second-order effects. Finish with Facts, Assumptions, Risks, Opportunities, Contradictions, Unknowns, Strategic Options, and a recommendation with confidence level.
+You do not need all 20 for every decision.
+Pick two or three that match the problem you are working on and run them against something real. The goal is not simply faster output. It is better judgment before you act.
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
