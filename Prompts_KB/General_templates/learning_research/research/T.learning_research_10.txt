@@ -44,7 +44,179 @@ The final four prompts help you combine several reasoning methods instead of rel
 You do not need all 20 for every decision.
 Pick two or three that match the problem you are working on and run them against something real. The goal is not simply faster output. It is better judgment before you act.
 -------------------------------------------------
+🚨 BREAKING: ChatGPT can now RESEARCH any topic at PhD level in 20 minutes. For free.
+Here are 8 prompts to master any subject fast: 💨👇
+
+1/ The Research Map System
+"Act as a research professor. Give me a complete map of [topic] for a smart beginner. Cover the core concepts, the key debates, the foundational sources, the common misconceptions, and the questions experts still argue about. Structure it from the big picture down to the details, and end with the five things I must understand before anything else makes sense. My topic: [insert]."
+
+2/ The Concept Breakdown
+"Act as a teacher who explains hard things simply. Break down the toughest concept in [topic] using plain language, a real-world analogy, and a worked example. Then show me where beginners misunderstand it, the nuance experts add, and one question I can answer to prove I actually get it. Avoid jargon until I understand the idea underneath. The concept: [insert]."
+
+3/ The Source Evaluator
+"Act as a critical research analyst. I will paste an article or claim about [topic]. Tell me what it gets right, what it overstates, what it leaves out, and how strong the evidence actually is. Rate my confidence in it and explain why. Then point me to what I should read to get the other side of the argument. The source: [paste]."
+
+4/ The Argument Builder
+"Act as a debate coach. Help me build a rigorous argument about [question] in [topic]. Give me the strongest case for each side, the best evidence behind each, the hidden assumptions, and where the two sides actually disagree. Then help me form my own position and stress-test it with the toughest counterargument a real expert would raise. My question: [insert]."
+
+5/ The Expert Interview
+"Act as the leading expert on [topic] and let me interview you. Answer my questions with the depth of someone who has studied this for decades, admit where the field is uncertain, and correct any wrong assumptions baked into my questions. When I go shallow, push me to ask a better one. Start by telling me the question I should be asking."
+
+6/ The Study Plan
+"Act as a learning designer. Build me a two-week plan to genuinely understand [topic]. Break it into daily sessions with a clear focus, the concept to learn, a small test of understanding, and how each day builds on the last. Add the checkpoints that catch me fooling myself, and the final task that proves I actually learned it. My time per day: [insert]."
+
+7/ The Feynman Test
+"Act as a tough but fair examiner. I will explain a concept from [topic] in my own words. Find the gaps, the vague parts, and the places I am hiding confusion behind big words. Ask me the three questions that expose what I do not really understand, then tell me exactly what to review. Do not let me off easy. My explanation: [paste]."
+
+8/ The Synthesis Brief
+"Act as a research analyst. Turn everything I have learned about [topic] into one clear brief. Summarize the core idea, the key evidence, the open debates, my own position, and what I would tell someone who has ten minutes. Keep it to one page, lead with what matters most, and flag the one thing I still need to research. My notes: [paste]."
+Missing steps 3 ,5abd 7and ...makes all out puts huminzed and safe of plagerism
+
 -------------------------------------------------
+1. X-Ray the Whole Field in One Pass
+Stop skimming abstracts one by one. This gives you the shape of an entire field in a single answer.
+
+Prompt:
+
+“Review all uploaded sources on [TOPIC]. List each one by author, year, title, and a one-sentence core claim. Then group them into major themes, show exactly where they agree or clash, and turn the theme groups into a comparison table I can export.”
+
+Why it works: NotebookLM only answers from the sources you upload, so it will not invent a theme that isn’t actually there. Asking for a table forces it to compare instead of just listing.
+
+Tip: Ask for the table in Markdown so it drops cleanly into a Doc, or push it to the new Data Tables output so you can send it straight to Sheets.
+
+2. Expose Where the Experts Actually Disagree
+Skip the boring summary. This shows you the fight happening underneath the field.
+
+Prompt:
+
+“Across all uploaded sources on [TOPIC], find the major contested claims. Split the authors into opposing camps, summarize each camp’s strongest argument, weigh the evidence for each side, and explain why the disagreement hasn’t been resolved yet.”
+
+Why it works: Framing it as “camps” instead of “opinions” forces the model to actually take a side by side structure instead of a mushy overview.
+
+Tip: Follow up with “which camp has the stronger methodology, not just the louder argument” to get past surface level disagreement.
+
+3. Build a Living Timeline of a Key Idea
+Great for intro chapters and defending why your question matters now.
+
+Prompt:
+
+“Identify the [3–5] most important concepts across the uploaded sources. For each one, find the earliest source that introduced it, explain how later sources expanded, refined, or challenged it, and lay it out as a dated timeline with citations.”
+
+Why it works: Forcing a chronological structure stops the model from treating every source as equally important, which is what happens with a flat summary.
+
+Tip: Once you have the timeline, ask NotebookLM to render it using one of the new infographic styles like Scientific or Editorial so you have a poster ready visual in minutes.
+
+4. Hunt Down the Gaps Nobody Has Filled Yet
+This is the prompt that finds your actual research question.
+
+Prompt:
+
+“Analyze the uploaded sources on [TOPIC] and identify the [3–10] most important research gaps. For each gap, explain why it remains unresolved, name the source that came closest to addressing it, recommend a research methodology to study it, and rank the gaps by potential impact.”
+
+Why it works: Ranking by impact stops you from chasing a gap that’s unresolved simply because nobody cares about it.
+
+Tip: Then ask “which of these gaps could I realistically study with the data or access I already have” to turn a wish list into a real project.
+
+5. Turn a Pile of PDFs into One Clean Review
+This is the one that actually writes your first draft.
+
+Prompt:
+
+“Using only the uploaded sources on [TOPIC], synthesize the literature by covering the main research questions, areas of consensus, major debates, well supported findings, current limitations, and the single most important unanswered question. Limit the response to [WORD LIMIT] words.”
+
+Why it works: The word limit forces prioritization. Without it, the model will pad the answer with detail instead of judgment.
+
+Tip: Turn this synthesis into an audio overview and use interactive mode to interrupt it with follow up questions while you’re walking or commuting.
+
+6. Bulletproof Your Grant Application Before Reviewers Do
+Catch your own weak spots before a panel does.
+
+Prompt:
+
+“Using my uploaded CV, publication list, and the attached guidelines for [GRANT NAME], draft the Lead Investigator section. Point out any gaps in my research track record, explain how a reviewer is likely to interpret them, and suggest realistic ways to strengthen the application before I submit.”
+
+Why it works: Asking it to think like a reviewer, not like you, is what surfaces the blind spots you’re too close to see.
+
+Tip: Paste in two or three funded proposals from the same scheme as extra sources so it can pattern match tone and structure, not just check boxes.
+
+7. Turn Messy Feedback into a Clear Action Plan
+For when three people gave you five contradictory notes.
+
+Prompt:
+
+“Analyze all uploaded supervisor, reviewer, or co-author feedback alongside my draft of [CHAPTER OR PAPER TITLE]. Identify the three most common criticisms, group similar comments together, prioritize the required revisions, and point to the exact sections or paragraphs that need updating.”
+
+Why it works: Grouping comments by theme instead of by person stops you from treating every single note as a separate fire to put out.
+
+Tip: Paste your own draft in full so it critiques your actual wording, not a generic version of your argument.
+
+8. Turn a Conference Program into a Networking Game Plan
+Walk in with a plan instead of wandering the hallway.
+
+Prompt:
+
+“Using the uploaded conference program and my research interests in [RESEARCH FIELD], build me a day-by-day schedule. Recommend the sessions most worth attending, name three researchers I should try to meet, explain why each one is relevant to my work, and write one short opening line I could use to start a conversation with each.”
+
+Why it works: Naming specific people and giving you an opener removes the awkward blank stare moment at the poster session.
+
+Tip: Upload the speakers’ recent abstracts as extra sources so the opening lines reference their actual current work, not just their bio.
+
+9. Turn Academic Jargon into a Story Anyone Gets
+For your family, your funder, or your own sanity.
+
+Prompt:
+
+“Using only the uploaded sources on [TOPIC], explain what the evidence supports most strongly, the biggest unanswered question, and the single most important real-world outcome. Write it like you’re explaining it to a smart friend outside the field. No jargon, no hedging.”
+
+Why it works: Removing hedging language forces the model to commit to what actually matters instead of qualifying every sentence into mush.
+
+Tip: Ask for a second version aimed at a 12 year old. If it can’t simplify further, you’ve probably found the real core finding.
+
+📌 PRO TIPS
+Upload full PDFs, not just pasted text or links. Docs, Slides, and Sheets update automatically when you edit them, but PDFs stay locked as a static snapshot, which is actually more reliable for citations.
+
+Lock in a persona first. Use the Configure Chat feature to set a custom instruction so every single answer stays framed around your actual goal instead of drifting.
+
+Wipe the slate between questions. Delete the chat history after a few exchanges so an old answer doesn’t quietly bias your next one.
+
+One notebook, one topic. Mixing unrelated papers in the same notebook makes the AI blend things that should stay separate.
+
+Teach it to say “not reported.” Explicitly ask it to write “not reported” instead of guessing when a source leaves a detail out.
+
+Take control of Deep Research. You can now tell it to pull only from peer reviewed journals and official reports and to ignore blogs and opinion pieces entirely.
+
+Export your tables, don’t just read them. Ask for a comparison table and push it straight into a spreadsheet for your appendix.
+
+Make your timeline visual. Pick one of the ten new infographic styles to turn a concept timeline into something you could actually put on a poster.
+
+Listen on the move. Turn a finished synthesis into an audio overview and interrupt it with follow up questions while you walk, cook, or commute.
+
+🕵️ THE TRUTH
+NotebookLM will not go out and discover every relevant paper for you.
+
+It can now start from a rough idea and suggest sources, but you still have to check every single one.
+
+It will not fabricate a citation out of thin air. If the answer isn’t in your uploaded sources, it will tell you that, not make something up.
+
+But grounded does not mean flawless. Independent tests have caught real citation mistakes, wrong authors, mismatched page numbers.
+
+So treat every output as a strong first draft, not a finished answer. Click through and verify before you trust it.
+
+🚀 QUICK START
+Create one notebook per research question, not one giant notebook per project.
+
+Upload PDFs directly whenever you can instead of pasting text.
+
+Turn on Configure Chat and paste in a short persona so answers stay on target from message one.
+
+Run Prompt 1 first, always. Map the field before you try to argue with it.
+
+Save your synthesis back into the notebook as a source so your next questions build on it instead of starting from zero.
+
+💡 BOTTOM LINE
+NotebookLM will not write your paper for you, and honestly, it shouldn’t. But it will read forty sources before your coffee gets cold and hand you the map, the fights, and the gaps, all with receipts attached. That’s hours back in your week, every single week.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
