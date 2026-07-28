@@ -1,0 +1,77 @@
+
+-------------------------------------------------
+##Turn Claude Cowork into a practical second brain.
+These 25 prompts handle reports, research, files, planning, sales, content, and more. 👇
+
+1/ 25 Claude Cowork Prompts: Reports, Meetings, Inbox, Research & Files
+
+➔ Prompt 01: Weekly Status Report Generator
+Point Claude Cowork to [FOLDER NAME]. Have it review files updated in the last 7 days, summarize completed work, work in progress, and blockers, then save a dated Word report in the same folder.
+➔ Prompt 02: Meeting Notes Summarizer
+Give it [FILE PATH]. Ask for three sections: key decisions, action items with owners, and open questions. Save the cleaned summary inside [OUTPUT FOLDER].
+➔ Prompt 03: Inbox Zero Assistant
+Have Claude review unread Gmail messages from the last [NUMBER] days, sort them into reply today, reply this week, and FYI, then create a prioritized task list.
+➔ Prompt 04: Competitor Research Brief
+Give Claude [COMPETITOR NAME]. Have it research the last 30 days of product launches, pricing changes, and positioning shifts, then create a two-page Word brief.
+➔ Prompt 05: File Cleanup and Organization
+Point it to [FOLDER NAME]. Ask it to create Documents, Spreadsheets, Presentations, Images, and Archive folders, sort files by type, and move files older than [X MONTHS] into Archive.
+
+2/ Claude Cowork Prompts for Sales, Hiring, Finance, Projects & Presentations
+➔ Prompt 06: Sales Call Preparation Sheet
+Give Claude the [CLIENT NAME NOTES FILE]. Have it combine those notes with recent company news, previous open items, company context, and three suggested talking points into one call-prep page.
+➔ Prompt 07: Job Description Writer
+Provide your company overview, [JOB TITLE], [TEAM NAME], and [SENIORITY LEVEL]. Ask for responsibilities, requirements, and a short company description, then save the result as a Word document.
+➔ Prompt 08: Monthly Expense Report Builder
+Point Claude to receipts and expense files for [MONTH, YEAR]. Have it extract dates, amounts, and categories, calculate monthly totals, and create an Excel expense report.
+➔ Prompt 09: Project Kickoff Document Creator
+Provide [PROJECT NAME], goal, team members and roles, deadline, and three milestones. Claude turns those inputs into a structured kickoff document your team can actually use.
+➔ Prompt 10: Presentation Slide Deck Builder
+Give it a source document at [FILE PATH]. Ask Claude to convert the key ideas into a [NUMBER]-slide PowerPoint with a title slide, slides for each main section, and a closing summary.
+
+3/ Claude Cowork Prompts for SOPs, Research, Reviews, Contracts & Content
+➔ Prompt 11: SOP / Standard Operating Procedure Writer
+Point Claude to existing process notes in [FOLDER PATH]. Have it create a formal SOP for [PROCESS NAME] covering purpose, scope, step-by-step instructions, and exceptions.
+➔ Prompt 12: Research Synthesis Document
+Give Claude [TOPIC] and require at least [NUMBER] sources. Ask it to organize the research around background, current trends, key players, and open questions, then save a Word research brief.
+➔ Prompt 13: Performance Review Draft Writer
+Give it raw notes about [EMPLOYEE NAME]. Ask for strengths, growth areas, accomplishments, and next-period goals using your chosen tone: [FORMAL / CONSTRUCTIVE / DIRECT].
+➔ Prompt 14: Contract and Document Scanner
+Point Claude at PDFs in [FOLDER PATH]. Have it extract each document's title, date, parties, deadlines, and renewal dates, then compile everything into Document Tracker.xlsx.
+➔ Prompt 15: Content Calendar Builder
+Provide [MONTH YEAR], [PLATFORM NAME], three content themes, and posting frequency. Ask Claude to create an Excel calendar with date, content type, topic, and status columns.
+
+4/ Claude Cowork Prompts for Leads, Budgets, Onboarding, Feedback & Proposals
+➔ Prompt 16: Lead Research Sheet
+Give Claude a file containing company names. For each one, have it research company size, industry, headquarters, and the name plus LinkedIn URL of the relevant [DECISION MAKER TITLE]. Save everything in Excel.
+➔ Prompt 17: Budget vs. Actuals Tracker
+Point Claude to the budget and actuals files for [QUARTER / MONTH]. Have it compare each line item and calculate budget, actual spend, dollar variance, and percentage variance. Flag rows above [X]%.
+➔ Prompt 18: Onboarding Pack Compiler
+Give Claude a folder containing onboarding files. Ask it to combine them into one guide with Welcome, Company Overview, Tools & Access, First Week Schedule, and Key Contacts sections.
+➔ Prompt 19: Survey or Feedback Analyzer
+Provide a file containing [NUMBER] responses. Ask Claude to identify the five most frequent themes, strong positive feedback, critical concerns, and selected quotes, then create a summary document.
+➔ Prompt 20: Proposal Draft Generator
+Provide [CLIENT NAME], [SERVICE OR SOLUTION NAME], the problem statement, your approach, [X WEEKS] timeline, and [PRICE OR RANGE]. Claude turns those inputs into a structured Word proposal.
+
+5/ Claude Cowork Prompts for Email, Meetings, Case Studies, Training & Daily Wraps
+➔ Prompt 21: Email Campaign Copy Writer
+Give Claude [AUDIENCE TYPE], [CAMPAIGN GOAL], number of emails, and [TONE]. Ask for a nurture sequence where every email includes a subject line, short intro, main point, and clear call to action.
+➔ Prompt 22: Team Meeting Agenda Builder
+Provide [MEETING NAME], date, time, attendees, key topics, and total duration. Ask Claude to allocate time across topics and reserve a five-minute question buffer.
+➔ Prompt 23: Customer Case Study Writer
+Point Claude to customer notes at [FILE PATH]. Have it create a one-page case study covering customer background, challenge, solution provided, and results achieved.
+➔ Prompt 24: Training Material Creator
+Give Claude [SKILL OR PROCESS NAME]. Ask it to explain what it is, why it matters, step-by-step instructions, examples, common mistakes, and a five-question quiz.
+➔ Prompt 25: End-of-Day Wrap Report
+Have Claude review files modified today plus your [CALENDAR APP / NOTES APP] tasks. Ask it to summarize what was completed, what moved to tomorrow, and important notes, then save a dated EOD report.
+
+The bigger idea is simple: Claude Cowork becomes far more useful when recurring work has a defined input, task, format, and output location. Instead of starting from zero every time, you create workflows your team can repeat consistently.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
