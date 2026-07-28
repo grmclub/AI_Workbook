@@ -129,6 +129,55 @@ Do not include mockups, device frames, desks, hands, watermarks, unreadable text
 ## OUTPUT
 Generate only the finished flyer image. It must be polished, visually striking, brand-specific and immediately ready to publish, requiring no further editing other than replacing any optional image placeholders when no user images are supplied.
 -------------------------------------------------
+Medical illustrations no longer require advanced design skills.
+
+Describe what you Νёеd.
+
+ChatGPT creates the diagram. 👇
+
+
+1/ ChatGPT Can Now Create Educational Anatomy Diagrams
+You no longer need advanced illustration skills to create anatomy visuals.
+Simply describe what you want, and ChatGPT can generate clean educational diagrams for learning, teaching, presentations, blogs, or social media.
+Examples:
+➔ Human heart anatomy
+➔ Brain structure
+➔ Nervous system
+➔ Digestive system
+➔ Skeletal system
+➔ Muscular system
+➔ Cell structure
+➔ Eye and ear anatomy
+With the right prompt, ChatGPT can produce labeled, easy-to-understand diagrams that look like modern educational illustrations.
+
+2/ Describe Exactly What You Want
+The more specific your prompt, the better the result.
+Include:
+➔ Organ or body part
+➔ View (front, side, cross-section)
+➔ Labels required
+➔ Color style
+➔ Educational audience
+➔ White background
+➔ Clean vector infographic style
+Example:
+"Create a clean educational diagram of the human heart with labeled chambers, major arteries, and veins. Use flat medical illustration style with readable labels on a white background."
+Small prompt improvements usually create much more professional diagrams.
+
+3/ Create Different Types of Medical Visuals
+ChatGPT can generate much more than simple anatomy charts.
+Examples:
+➔ Cross-section diagrams
+➔ Step-by-step biological processes
+➔ Disease comparison charts
+➔ Before vs after anatomy
+➔ Organ function infographics
+➔ Medical classroom posters
+➔ Biology flashcards
+➔ Patient education graphics
+These visuals are useful for teachers, students, healthcare creators, educational websites, and medical presentations.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
