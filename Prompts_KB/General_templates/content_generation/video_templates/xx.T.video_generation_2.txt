@@ -115,6 +115,53 @@ for video prompt use seedance with :
 Based on the storyboard create a 15 seconds video, multi-shot, add matching SFX and music. Make sure to maintain character consistency.
 
 -------------------------------------------------
+## 30 AI Video style prompts 
+Here is a diverse collection of 30 AI video style prompts designed to produce distinct visual aesthetics, cinematic feels, and creative atmospheres.
+
+###Cinematic & Photorealistic
+    1. 35mm Film Noir: A detective walking down a wet, reflection-heavy city alleyway at night. Neon signs flickering, heavy fog, high contrast dark shadows, subtle film grain, shot on 35mm lens, atmospheric sound design.
+    2. Sci-Fi IMAX Blockbuster: A massive futuristic spaceship slowly breaking through glowing purple nebula clouds, anamorphic lens flare, high detail, volumetric lighting, epic scale, slow cinematic pan, 8K hyper-realistic.
+    3. 80s Dark Fantasy: An ancient stone castle sitting on a jagged cliff during a lightning storm, dark synthwave aesthetic, dramatic thunder flashes, grainy VHS texture, cinematic atmospheric lighting, shot on 16mm.
+    4. National Geographic Wildlife Doc: Extreme macro close-up of a iridescent chameleon's eye shifting colors, high-speed camera capture at 120fps, crisp focus, soft natural bokeh background, hyper-detailed skin textures.
+    5. Vintage Golden Hour: A vintage convertible driving down a coastal highway along the Pacific during golden hour, dust motes floating in sunlight, soft lens bloom, warm nostalgia, 1970s Kodak Chrome look.
+
+###Surreal & Conceptual
+    6. Biomimetic Liquid Gold: A surreal, humanoid figure made entirely of flowing, reflective liquid gold, morphing and shifting fluidly against a stark pitch-black void, mesmerizing motion, sharp metallic reflections.
+    7. Bioluminescent Deep Sea: An alien-like jellyfish floating through an ethereal underwater cave system, glowing with soft neon blues and pinks, slow-motion floating particles, atmospheric dreamscape.
+    8. Cyberpunk Hologram: A holographic glitching advertisement of a glowing cherry blossom tree flickering in a rain-soaked, futuristic Tokyo street, digital artifacting, neon reflections in puddles.
+    9. Gravity-Defying Architecture: A surreal minimalist city where buildings float independently in a pastel sky, clouds weaving between concrete structures, ultra-smooth drone fly-through.
+    10. Crystalline Growth: Time-lapse of vibrant, prismatic crystals rapidly growing across an ancient, overgrown mossy stone statue, refractive light leaks, sharp focal depth.
+
+###Animation & Illustrative
+    11. Ghibli-Style Anime: A quiet, sun-drenched train station in rural Japan, wind gently swaying lush green grass, soft watercolors, painterly background, warm summer breeze atmosphere.
+    12. Dark Gothic Claymation: A quirky, skeletal clockmaker working inside a massive, intricate brass clocktower, handcrafted clay texture, subtle stop-motion jitter, dramatic candlelight shadows.
+    13. Retro 90s Cyber Anime: A cyberpunk runner sprinting across neon-lit rooftops in a gritty cyberpunk metropolis, hand-drawn 2D aesthetic, dynamic speed lines, heavy cel-shading, lo-fi aesthetic.
+    14. 3D Stylized Clay: A cute, chunky astronaut walking across a pastel pink lunar surface, soft studio lighting, smooth claymation textures, playfulness, tilt-shift lens effect.
+    15. Paper Cutout Craft: A fox running through a dense forest made entirely of layered, textured craft paper, subtle drop shadows, stop-motion animation style, tactile paper grain.
+	
+###Artistic & painterly
+    16. Van Gogh Impasto: A starry night sky swirling dynamically over a rustic French village, thick oil paint brushstrokes moving fluidly, vibrant cobalt blues and glowing yellows, living canvas effect.
+    17. Dynamic Ink Wash (Sumi-e): A mountain mist sweeping across towering bamboo stalks, black ink dripping and spreading across textured rice paper, fluid brushstrokes, minimalist elegance.
+    18. Impressionist Garden: A vibrant lily pond bathed in dappled sunlight, soft pastel color palette, flickering light effects, brushwork gently shifting like oil paint in motion.
+    19. Graphite & Charcoal Sketch: A portrait of a jazz musician playing a saxophone, rough charcoal shading, dynamic smudge effects, stark black-and-white contrast, fast-paced sketch animation lines.
+    20. Fluid Marble Art: Swirling marble ink in vibrant turquoise, magenta, and metallic gold blending seamlessly together in liquid motion, hypnotic flow, ultra-HD detail.
+
+###Commercial & Design Aesthetics
+    21. High-Fashion Editorial: A model in an avant-garde avant-garde red silk gown walking through a stark white desert, extreme wind motion, ultra-clean commercial lighting, dynamic low-angle tracking shot.
+    22. Tech Minimalist Render: A sleee, matte-black smartphone floating in mid-air, dismantling gently into exploded view components, soft studio lighting, clean industrial design aesthetic.
+    23. Vibrant Beverage Commercial: A slice of fresh ruby red grapefruit falling into crystal-clear bubbling soda water in slow motion, macro focus, high-speed camera, splash explosion, hyper-refreshing lighting.
+    24. Pastel Pop Design: A collection of geometric pastel shapes bouncing rhythmically on a soft pink grid backdrop, clean shadows, playful physics, modern 3D motion graphics loop.
+    25. Cyber Kinetic Typography: Glowing 3D typography rotating and deconstructing in a dark virtual grid, metallic reflections, slick camera tracking, modern tech aesthetic.
+
+###Experimental & Retro
+    26. 1920s Silent Film: A slapstick chase scene through a vintage city street, flickering black-and-white print, scratches and dust lines on film, high-speed vintage frame rate.
+    27. 80s VHS Synthwave: A grid road stretching toward a giant glowing wireframe sun, low-poly chrome sports car driving fast, scanlines, analog tracking glitches, vibrant neon purple and cyan palette.
+    28. Thermal Imaging Glitch: A deer leaping through a dark forest captured in glowing heat-map infrared colors, digital distortion artifacts, glitch transition effects.
+    29. Polaroid Time-Lapse: A instant film photo lying on a table as the image inside slowly develops and shifts from a hazy white blur into a bright summer beach scene.
+    30. Microscopic Cosmic: Zooming into a drop of water to reveal what looks like a swirling galaxy of glowing star clusters and nebulae, blending microscopic with cosmic scales.
+
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------

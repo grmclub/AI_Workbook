@@ -179,6 +179,38 @@ These visuals are useful for teachers, students, healthcare creators, educationa
 
 
 -------------------------------------------------
+20 AI Image Styles for ChatGPT (Complete Prompt Guide)
+
+
+1. QUICK PROMPT FORMULA
+SUBJECT + STYLE + DETAILS + MOOD = PERFECT IMAGE
+▪︎ SUBJECT
+What do you want to create?
+▪︎ STYLE
+Which image style do you want?
+▪︎ DETAILS
+Colours, lighting, quality, composition, camera, textures.
+▪︎ MOOD
+The emotion or atmosphere you want.
+Prompt:
+[SUBJECT], in a [STYLE] style, [DETAILS], with a [MOOD] atmosphere, ultra-detailed, professional composition, high quality, sharp focus, 8K.
+
+2. PRO TIPS
+▪︎ Be specific with details.
+▪︎ Mention lighting & mood.
+▪︎ Use reference words.
+▪︎ Choose high resolution.
+▪︎ Experiment and combine styles.
+
+3. STYLE HACKS
+▪︎ Realistic + Cinematic = Powerful
+▪︎ Anime + Fantasy = Epic
+▪︎ Vintage + Warm Tones = Nostalgic
+▪︎ Minimalist + Clean = Elegant
+▪︎ Neon + Cyberpunk = Futuristic
+
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
