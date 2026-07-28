@@ -121,3 +121,80 @@ Below is an execution preview of the above skill, using the data provided in Ima
 
 ===========================
 ------------------------------------------------------------
+Most people use Claude as a chatbot.
+Power users build systems around it.
+That small shift changes everything. 👇
+
+
+1/ Start With Opus 4.7 + Extended Thinking
+The quality of your outputs depends heavily on the model you choose.
+For complex work:
+➔ Switch to Opus 4.7.
+➔ Enable Extended Thinking.
+➔ Give Claude more room to reason before answering.
+This is especially useful for:
+➔ Research.
+➔ Strategy work.
+➔ Technical problem solving.
+➔ Long-form content creation.
+➔ Workflow design.
+Better reasoning often leads to better results than writing longer prompts.
+
+2/ Replace Prompts With Reusable Markdown Files
+Most people rewrite the same instructions repeatedly.
+A better approach is creating reusable .md files.
+These files can contain:
+➔ Writing guidelines.
+➔ Brand voice instructions.
+➔ Process documentation.
+➔ Examples of good outputs.
+➔ Project-specific rules.
+➔ Standard operating procedures.
+Instead of explaining everything every time, Claude can reference structured instructions stored in markdown files.
+This creates more consistency and reduces repetitive prompting.
+
+3/ Let Claude Ask Questions First
+Many poor outputs happen because important information is missing.
+Instead of forcing Claude to guess:
+➔ Use tools like AskUserQuestion.
+➔ Have Claude collect missing details before generating answers.
+➔ Clarify objectives, constraints, audience, and expected outcomes.
+The fastest path to better results is often asking better questions before producing an answer.
+The more context Claude gathers, the stronger the final output becomes.
+
+4/ Define Your Rules And Restrictions
+Claude performs better when boundaries are explicit.
+Create a list of:
+➔ Phrases you never want used.
+➔ Writing habits to avoid.
+➔ Formatting requirements.
+➔ Brand-specific language rules.
+➔ Tone preferences.
+Many users focus only on what they want.
+Power users also define what they do not want.
+This helps eliminate repetitive editing and improves consistency across projects.
+
+5/ Use Global Instructions To Build A Personal AI System
+Global Instructions allow you to create persistent rules that apply across conversations.
+You can define:
+➔ Preferred writing style.
+➔ Output formats.
+➔ Communication rules.
+➔ Business context.
+➔ Project standards.
+Instead of re-explaining your preferences every session, Claude starts with that context already available.
+The result is simple:
+➔ Less prompting.
+➔ Better consistency.
+➔ Faster workflows.
+➔ Higher-quality outputs.
+The biggest productivity gains rarely come from a single prompt.
+They come from building a system Claude can follow repeatedly.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
