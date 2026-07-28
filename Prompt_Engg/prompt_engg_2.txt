@@ -62,6 +62,30 @@ How might LLMs store facts | Deep Learning Chapter 7
 https://www.youtube.com/watch?v=9-Jl0dxWQs8
 
 -------------------------------------------------
+deeper breakdown of the AI integration skills
+AI integration is no longer a niche skill for machine learning engineers. It is now expected of general developers, including frontend engineers.
+
+The core skills required move beyond simple API prompts into building intelligent data systems:
+
+1. Working with Embeddings for Search
+    • What it means: Converting text, images, or data into mathematical vectors that capture semantic meaning.
+    • Why it matters: It allows you to build "fuzzy" or conceptual search engines. Instead of matching exact keywords, your application can find relevant information based on the user's intent or context.
+
+2. Advanced Prompt Engineering & Structuring
+    • What it means: Moving away from casual chatting to designing predictable, programmatic prompts.
+    • Why it matters: Applications require consistent, machine-readable data (like JSON) from an AI model. You must master techniques like few-shot prompting, system instructions, and schemas to ensure the AI seamlessly powers your application's UI without breaking it.
+
+3. Building RAG (Retrieval-Augmented Generation) Systems
+    • What it means: Connecting a Large Language Model (LLM) to a private database or document store to extract facts before generating an answer.
+    • Why it matters: LLMs do not know your company's private data or real-time changes. RAG prevents AI "hallucinations" by feeding the model exact, retrieved text chunks, allowing it to answer user queries with perfect accuracy based on your own documentation.
+
+4. Moving Beyond Traditional CRUD
+    • What it means: Transitioning from standard "Create, Read, Update, Delete" databases to applications that actively assist the user.
+    • Why it matters: Modern companies want features that auto-summarize, predict user needs, clean messy data text input, or provide interactive chat interfaces natively inside the product.
+
+Would you like to explore how to start learning RAG systems, or do you want to look at the cloud-native skills required to host these AI features?
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
