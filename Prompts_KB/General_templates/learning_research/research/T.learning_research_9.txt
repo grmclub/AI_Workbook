@@ -282,6 +282,64 @@ Here are the cleanly transcribed and structured prompt templates from your new i
 3. Test Me Until I Master It
     Prompt: I have just studied [topic]. Ask me 10 increasingly difficult questions to assess what I understood. After each answer, give me a score and explain what I got wrong.
 -------------------------------------------------
+A successful PhD dissertation begins with a systematic research process. These 7 NotebookLM prompts will help you complete each stage of your dissertation with greater clarity, structure, and confidence.
+
+NotebookLM helps you organize and synthesize literature, identify research gaps, refine research questions, develop a rigorous methodology, analyze findings, and produce clear, well-written academic content using your uploaded sources. With these carefully designed prompts, you can complete each stage of your PhD dissertation more efficiently while maintaining academic rigor, coherence, and readiness for submission. These prompts are designed to support your research, not replace your critical thinking, subject expertise, or academic judgment.
+
+This guide includes 7 NotebookLM prompts to help you complete every essential stage of a PhD dissertation, from identifying a research gap to writing the final dissertation, using your uploaded sources. 👇👇
+
+1. Identify a Research Gap
+"Review all uploaded sources in NotebookLM and use them as the sole basis for this task.
+Conduct a comprehensive critical analysis of the uploaded literature to identify significant research gaps related to my research topic. Synthesize the existing evidence, compare and contrast previous studies, evaluate their strengths and limitations, and identify inconsistencies, unresolved questions, underexplored areas, methodological weaknesses, or conflicting findings.
+Based on this analysis, identify the most important research gap that warrants further investigation. Explain why this gap exists, why it is significant, and how addressing it would contribute to advancing knowledge in the field. Conclude by recommending the most suitable research gap for a PhD dissertation.
+Ensure that the analysis is logically organized, academically rigorous, coherent, and suitable for doctoral-level research. Maintain a formal academic writing style, avoid unsupported claims, and ensure that every statement is fully supported by the uploaded sources. Do not invent information or cite sources that are not available in NotebookLM."
+
+2. Develop Research Questions and Objectives
+"Review all uploaded sources in NotebookLM and use them as the sole basis for this task.
+Based on the identified research gap, develop a clear and well-defined research problem for my PhD dissertation. Formulate a precise research aim that addresses the identified gap, followed by specific, measurable, and logically connected research objectives. Where appropriate, develop research questions or hypotheses that align directly with the research aim and objectives.
+Justify each research objective and explain how it contributes to addressing the identified research gap. Ensure that the proposed research questions or hypotheses are clear, focused, answerable, and appropriate for doctoral-level research. Demonstrate how the proposed study will contribute to advancing knowledge in the field.
+Ensure that the output is logically organized, academically rigorous, coherent, and suitable for a PhD dissertation. Maintain a formal academic writing style, use clear and precise language, avoid unsupported claims, and ensure that every statement is fully supported by the uploaded sources. Do not invent information, include unsupported interpretations, or cite sources that are not available in NotebookLM."
+
+ ·
+How can we identify the suitable resources to find the gap plz? I need an orientation and clarification for a master thesis
+
+
+3. Write the Literature Review
+"Review all uploaded sources in NotebookLM and use them as the sole basis for writing the Literature Review of my PhD dissertation.
+Write a publication-quality Literature Review that provides a comprehensive and critical synthesis of the existing research related to my topic.
+Organize the literature into clear themes, concepts, theories, or areas of debate rather than summarizing studies individually. Compare and contrast the findings, methodologies, theoretical perspectives, strengths, limitations, and conclusions of previous studies. Identify major patterns, areas of agreement, conflicting evidence, methodological weaknesses, unresolved issues, and underexplored areas.
+Critically evaluate how the existing body of knowledge has developed over time and explain how the identified research gap emerges from the literature. Establish clear connections between the reviewed studies, the research problem, and the objectives of the proposed dissertation. Where appropriate, identify the theoretical or conceptual framework that best supports the study and justify its relevance.
+Ensure that the Literature Review is logically organized, coherent, analytically rigorous, and suitable for a PhD dissertation. Maintain a formal academic writing style, use smooth transitions between sections and paragraphs, avoid unsupported claims, and ensure that every statement is fully supported by the uploaded sources. Do not invent information, include unsupported interpretations, or cite sources that are not available in NotebookLM."
+
+4. Develop the Methodology
+"Review all uploaded sources in NotebookLM and use them as the sole basis for this task.
+Develop a rigorous and well-justified Methodology for my PhD dissertation that is appropriate for addressing the research aim, objectives, and research questions.
+Recommend and justify the most appropriate research design based on the uploaded sources. Clearly describe the study setting where applicable, the target population, sampling strategy, sample size, participant selection criteria, data collection methods, research instruments, variables or measures, and procedures used to ensure the validity, reliability, or trustworthiness of the study. Explain why each methodological decision is appropriate and how it supports the research objectives.
+Describe the procedures for data collection, data management, and data analysis, including any statistical methods, qualitative analysis techniques, software, or analytical frameworks where appropriate. Also discuss the ethical considerations relevant to the study, including ethical approval, informed consent, confidentiality, and data protection where applicable.
+Ensure that the Methodology is logically organized, coherent, academically rigorous, and suitable for a PhD dissertation. Present the methods in sufficient detail to allow the study to be replicated. Maintain a formal academic writing style, avoid unsupported claims, and ensure that every methodological decision is fully supported by the uploaded sources. Do not invent information, include unsupported interpretations, or cite sources that are not available in NotebookLM.
+
+5. Analyze and Interpret the Findings
+"Review all uploaded sources in NotebookLM and use them as the sole basis for this task.
+Analyze and critically interpret my research findings in relation to the research aim, objectives, research questions, and the existing body of literature.
+Explain the meaning and significance of the findings by comparing and contrasting them with previous studies. Identify areas where the findings support, extend, challenge, or contradict existing knowledge, and discuss possible reasons for similarities or differences. Evaluate how the findings address the identified research gap and explain their contribution to advancing theory, practice, policy, or future research where appropriate.
+Critically discuss the implications of the findings, highlighting their theoretical, practical, and methodological significance. Acknowledge the strengths and limitations of the study and explain how these factors may influence the interpretation or generalizability of the results. Based on the findings, provide well-supported recommendations for future research that address remaining gaps in the literature.
+Ensure that the analysis and discussion are logically organized, coherent, academically rigorous, and suitable for a PhD dissertation. Maintain a formal academic writing style, present balanced and evidence-based interpretations, avoid introducing new results or unsupported claims, and ensure that every interpretation is fully supported by the uploaded sources. Do not invent information or cite sources that are not available in NotebookLM."
+
+6. Write the PhD Dissertation
+"Review all uploaded sources in NotebookLM and use them as the sole basis for writing my PhD dissertation.
+Write a complete, publication-quality PhD dissertation by integrating the evidence from the uploaded sources into a coherent, well-structured, and academically rigorous document. Ensure that every chapter is logically connected and contributes to addressing the research aim, objectives, research questions, and identified research gap.
+Structure the dissertation with appropriate chapters, including the Introduction, Literature Review, Methodology, Results, Discussion, Conclusion, and any additional sections required for a doctoral dissertation. Ensure that each chapter flows naturally into the next, maintaining consistency in terminology, writing style, argumentation, and overall structure throughout the document.
+Present a clear and logical argument supported by evidence from the uploaded sources. Demonstrate critical thinking by synthesizing the literature, justifying methodological decisions, interpreting the findings, discussing their theoretical and practical implications, acknowledging limitations, and providing meaningful recommendations for future research. Ensure that the dissertation makes a clear and original contribution to the existing body of knowledge.
+Maintain a formal academic writing style suitable for submission as a PhD dissertation. Ensure that the writing is clear, coherent, concise, and free from redundancy. Avoid unsupported claims, speculative statements, or information not contained in the uploaded sources. Do not invent information or cite sources that are not available in NotebookLM. Ensure that every section meets the standards of doctoral-level academic writing and is suitable for examination and publication."
+
+7. Review and Improve the Dissertation
+"Review all uploaded sources in NotebookLM and use them as the sole basis for this task.
+Conduct a comprehensive critical review of my completed PhD dissertation to evaluate its overall academic quality, coherence, logical flow, and scholarly rigor.
+Assess each chapter to determine whether it effectively addresses the research aim, objectives, research questions, and identified research gap. Evaluate the clarity and consistency of the arguments, the quality of the literature synthesis, the appropriateness of the methodology, the interpretation of the findings, and the alignment between the results, discussion, and conclusions. Identify any inconsistencies, weaknesses, gaps in reasoning, repetitive content, unsupported statements, or areas requiring further clarification or improvement.
+Review the dissertation for organization, structure, academic tone, clarity, grammar, consistency in terminology, and overall readability. Recommend specific, actionable revisions that strengthen the quality of the dissertation while preserving its original meaning and scholarly integrity. Where appropriate, suggest improvements to enhance critical analysis, coherence, transitions between sections, and the overall contribution of the research.
+Ensure that all recommendations are evidence-based, academically rigorous, and fully supported by the uploaded sources. Maintain a formal academic writing style throughout the review. Do not introduce new information, unsupported interpretations, or citations from sources that are not available in NotebookLM."
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
