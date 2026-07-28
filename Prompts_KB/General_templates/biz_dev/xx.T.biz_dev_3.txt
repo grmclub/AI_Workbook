@@ -174,6 +174,34 @@ Here are 8 prompts to try today 👇
 "Act as a world-class entrepreneur and long-term wealth advisor. Using my skills ([insert]), goals ([insert]), budget ([insert]), and available time ([insert]), create a detailed 36-month roadmap for building multiple passive and semi-passive income streams. Include quarterly milestones, product launches, audience growth targets, automation upgrades, reinvestment plans, KPIs, and contingency strategies if growth falls behind schedule."
 
 -------------------------------------------------------------
+BREAKING: Claude just became your highest-converting lead magnet creator.
+Use these 7 prompts to create premium lead magnets that turn complete strangers into paying customers. 💨👇
+
+1. Lead Magnet Strategist
+Act as a world-class lead generation expert. Create a premium lead magnet for [NICHE/TARGET AUDIENCE] that solves one urgent problem and naturally leads people toward my paid offer. Recommend the best format (ebook, checklist, template, toolkit, swipe file, workbook, etc.), title, transformation promise, content outline, design ideas, and CTA strategy.
+
+2. High-Converting Ebook Creator
+Write a complete lead magnet ebook on [TOPIC]. Include a compelling title, engaging introduction, step-by-step framework, actionable tips, real-world examples, worksheets, implementation checklist, and a persuasive call-to-action that encourages readers to take the next step.
+
+3. Checklist & Template Generator
+Create a premium checklist and companion template for [GOAL]. Make it practical, easy to follow, visually organized, and immediately useful. Include common mistakes, expert tips, and a CTA that naturally introduces my product or service.
+
+
+4. Landing Page Copywriter
+Write a high-converting landing page for my lead magnet. Include a powerful headline, emotional hook, benefit-driven copy, bullet-point outcomes, social proof, FAQs, objection handling, opt-in form copy, and compelling CTAs designed to maximize email signups.
+
+5. Email Nurture Sequence Builder
+Create a 7-email welcome sequence for new subscribers who download my lead magnet. Build trust, deliver additional value, overcome objections, share case studies, educate the audience, and smoothly transition readers toward purchasing my paid offer.
+
+6. Lead Magnet Optimization Consultant
+Review my lead magnet like a conversion optimization expert. Identify weak sections, missing value, unclear messaging, poor design choices, and missed conversion opportunities. Recommend improvements that increase downloads, engagement, and sales.
+
+
+7. AI Funnel Architect
+Act as a premium funnel strategist. Design a complete lead generation funnel using my lead magnet as the entry point. Map every stage—from traffic sources and landing pages to email automation, upsells, retargeting, and conversion optimization—creating a system that consistently turns strangers into loyal customers.
+
+
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
