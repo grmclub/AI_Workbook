@@ -320,6 +320,165 @@ Use only the uploaded sources. Do not invent information, make unsupported claim
 
 
 -------------------------------------------------
+The #1 Skill a HUMAN can possess is the ability to create AGENTIC skills.
+Here are skills EVERYONE needs👇
+
+1️/ System Design & Workflow Automation
+You need to think like an engineer.
+Not code like one. Think like one.
+How does a system work?
+What inputs does it need?
+What outputs should it produce?
+Most people think linearly: "I do this, then this, then this."
+Agentic thinkers think differently: "This system continuously does this without me."
+Then they break work into components.
+Some tasks need human judgment.
+Some can be automated completely.
+Learn to identify which is which.
+Then automate the hell out of the repetitive parts.
+That's how you build systems instead of doing tasks.
+
+2️/ Data Flow & Problem-Solution Mapping
+Agentic systems live and die on data.
+You need to understand how information moves.
+Where does it come from? How does it transform? Where does it go?
+You don't need to be a data scientist.
+You need to understand the flow.
+But here's what really matters: seeing problems that have agentic solutions.
+Someone complains: "I spend 10 hours on emails."
+Most people say "that sucks."
+You see: "This is an agentic opportunity."
+Same problem. Different perspective.
+Agentic thinkers see opportunities everywhere.
+Everyone else sees complaints.
+
+3️/ Testing, Iteration & Integration Thinking
+Agentic systems fail constantly at first.
+You need to obsess over testing.
+Does it work as designed? What breaks it? How do we make it more reliable?
+Most people build something once and stop.
+Agentic builders test obsessively. Iterate constantly. Refine endlessly.
+And systems don't exist in isolation.
+They need to connect to other systems.
+Your email automation needs to connect to your CRM.
+Your CRM needs to connect to your sales tool.
+You need to think about how systems connect and communicate.
+That's integration thinking.
+
+4️/ Delegation to AI (The Real Mindset Shift)
+You're not building AI.
+You're delegating work to AI.
+There's a massive difference.
+Users ask AI questions: "Write this email."
+Builders delegate tasks: "Check all incoming leads, score them, and send warm emails to the top 20."
+Learn to think in tasks you can delegate.
+Not questions you can ask.
+Everyone can learn this.
+You don't need a technical degree.
+You don't need to know how to code.
+You just need to obsess over how systems work.
+Most people won't. They'll stay at the "prompt AI to do one thing" level forever.
+You can go deeper.
+
+-------------------------------------------------
+## 7 Gemini Notebook prompts to help you write every essential component of a research abstract, from identifying the key elements of your study to reviewing and refining the final abstract, using your uploaded sources. 👇👇
+
+1. Identify the Abstract Requirements and Core Study Information
+"Review all uploaded sources in Gemini Notebook and use them as the sole basis for this task.
+Analyze all uploaded materials to identify the essential information required to write a high-quality research abstract. Begin by determining the type of research article and identifying the abstract format that is most appropriate based on the uploaded materials (structured or unstructured). If the uploaded sources specify a target journal, publisher, institution, or submission guidelines, identify and summarize all abstract requirements, including the required structure, section headings, word limit, style, and formatting. If no such requirements are provided, state this clearly and proceed using the information available in the uploaded sources without introducing external standards.
+Then extract and organize the core elements of the study that should be included in the abstract. Identify the research context, research problem, purpose of the study, research objectives or research questions, methodology, principal findings, main conclusions, and the study's contribution or significance based solely on the uploaded materials.
+Evaluate whether each element contains sufficient information for inclusion in the abstract. Identify any missing, unclear, incomplete, or inconsistent information found within the uploaded sources that may affect the quality or completeness of the abstract.
+Present the output using the following headings:
+Research Article Type
+Abstract Format (Structured or Unstructured)
+Abstract Requirements (if provided)
+Research Context
+Research Problem
+Research Purpose
+Research Objectives or Research Questions
+Methodology
+Principal Findings
+Main Conclusions
+Research Contribution or Significance
+Information Requiring Clarification (if applicable)
+Recommended Abstract Outline
+Ensure that the extracted information is comprehensive, logically organized, concise, and accurately reflects the uploaded materials, providing a complete foundation for drafting a publication-ready abstract.
+Use only the uploaded sources. Do not invent information, make unsupported claims, or introduce external knowledge or references that are not contained within the uploaded materials."
+
+2. Write the Background and Objective
+"Review all uploaded sources in Gemini Notebook and use them as the sole basis for this task.
+Write the Background and Objective portion of the research abstract using only the uploaded materials.
+Begin with one or two concise sentences that introduce the research topic and provide only the essential background needed to understand the study. Clearly identify the research problem or knowledge gap and explain its importance without including unnecessary detail.
+Then state the primary purpose of the study by clearly presenting the research objective, research question, or hypothesis, as appropriate. Ensure that the objective follows logically from the identified research problem and accurately reflects the scope of the study described in the uploaded materials.
+Keep this section concise, focused, and suitable for inclusion in a publication-ready abstract. Ensure that every sentence contributes directly to helping readers understand why the study was conducted and what it aimed to accomplish.
+Ensure that the writing is clear, precise, academically rigorous, and fully supported by the uploaded materials.
+Use only the uploaded sources. Do not invent information, make unsupported claims, or introduce external knowledge or references that are not contained within the uploaded materials."
+
+3. Write the Methods Summary
+"Review all uploaded sources in Gemini Notebook and use them as the sole basis for this task.
+Write the Methods Summary portion of the research abstract using only the uploaded materials.
+Concisely describe the methodology by identifying the research design, study setting (where applicable), participants or data sources, sampling strategy, sample size (if reported), data collection procedures, and the principal methods of data analysis. Include only the methodological details that are essential for readers to understand how the study was conducted and how the research objectives or research questions were addressed.
+Present the methodology in a logical sequence using clear, precise, and concise language suitable for a publication-ready abstract. Avoid unnecessary procedural details, extensive descriptions of instruments, or methodological information that is not essential for interpreting the study.
+Ensure that the methods summary accurately reflects the uploaded materials, is proportionate to the overall abstract, and provides sufficient information for readers to evaluate the study design without exceeding the level of detail appropriate for an abstract.
+Ensure that the writing is clear, concise, academically rigorous, and fully supported by the uploaded materials.
+Use only the uploaded sources. Do not invent information, make unsupported claims, or introduce external knowledge or references that are not contained within the uploaded materials."
+
+4. Write the Principal Results
+"Review all uploaded sources in Gemini Notebook and use them as the sole basis for this task.
+Write the Principal Results portion of the research abstract using only the uploaded materials.
+Present the principal findings that directly address the research objectives or research questions. Summarize only the most important results, ensuring that they accurately reflect the evidence contained in the uploaded materials.
+Where appropriate and supported by the uploaded sources, include key quantitative results, such as sample outcomes, effect estimates, percentages, confidence intervals, or other important statistical findings. For qualitative, mixed-methods, or other non-quantitative studies, summarize the major themes, patterns, or findings that best represent the study's outcomes.
+Report the findings objectively and concisely without interpreting, explaining, or discussing their implications, as these should be addressed in the conclusion. Prioritize the most significant results and avoid including minor, repetitive, or unnecessary details.
+Ensure that the results are presented in a logical sequence, are concise, academically rigorous, publication-ready, and fully supported by the uploaded materials.
+Use only the uploaded sources. Do not invent information, make unsupported claims, or introduce external knowledge or references that are not contained within the uploaded materials."
+
+5. Write the Conclusion and Research Significance
+"Review all uploaded sources in Gemini Notebook and use them as the sole basis for this task.
+Write the Conclusion and Research Significance portion of the research abstract using only the uploaded materials.
+Clearly state the principal conclusion of the study based directly on the reported findings. Explain how the findings address the research objectives or research questions without repeating the detailed results.
+Summarize the study's most important contribution by highlighting its theoretical, practical, methodological, clinical, or policy significance, as appropriate and supported by the uploaded materials. Ensure that the conclusion accurately reflects the scope of the study and does not overstate the importance, generalizability, or implications of the findings.
+Keep this section concise and focused by emphasizing only the key message that readers should retain after reading the abstract. Avoid introducing new information, unsupported interpretations, recommendations, or limitations unless they are essential to the study's overall conclusion and are clearly supported by the uploaded materials.
+Ensure that the conclusion is clear, precise, logically organized, academically rigorous, publication-ready, and fully supported by the uploaded materials.
+Use only the uploaded sources. Do not invent information, make unsupported claims, or introduce external knowledge or references that are not contained within the uploaded materials."
+
+6. Integrate and Optimize the Complete Abstract
+"Review all uploaded sources in Gemini Notebook and use them as the sole basis for this task.
+Integrate the previously developed Background and Objective, Methods Summary, Principal Results, and Conclusion and Research Significance into a complete, publication-ready research abstract using only the uploaded materials.
+Organize the abstract in a logical sequence that clearly communicates the purpose of the study, the methodology, the principal findings, and the overall conclusion. Ensure that each sentence contributes essential information and that the abstract presents a coherent and accurate summary of the entire study.
+Optimize the abstract by improving clarity, conciseness, logical flow, and readability. Eliminate redundancy, unnecessary detail, and repetitive wording while preserving all essential information. Ensure that the writing is precise, objective, and appropriate for a scholarly audience.
+If the uploaded materials specify a target journal, publisher, institution, or submission guidelines, ensure that the abstract conforms to the required format, structure, headings (where applicable), style, and word limit. If no such requirements are provided, produce a well-balanced, publication-ready abstract that accurately reflects the uploaded materials without introducing external standards.
+Present the completed abstract, followed by a brief summary describing how it satisfies the required structure and effectively represents the study.
+Ensure that the abstract is clear, concise, logically organized, academically rigorous, publication-ready, and fully supported by the uploaded materials.
+Use only the uploaded sources. Do not invent information, make unsupported claims, or introduce external knowledge or references that are not contained within the uploaded materials."
+
+7. Verify and Refine the Final Abstract
+"Review all uploaded sources in Gemini Notebook and use them as the sole basis for this task.
+Review the complete research abstract to ensure that it accurately, concisely, and comprehensively represents the study using only the uploaded materials.
+Compare every statement in the abstract with the uploaded sources to verify that the research problem, objectives or research questions, methodology, principal findings, conclusions, and research significance are accurate, internally consistent, and fully supported by the available evidence. Identify any unsupported statements, omissions, inconsistencies, ambiguities, or inaccuracies, and recommend specific revisions where necessary.
+Evaluate the abstract for clarity, conciseness, logical flow, coherence, academic rigor, readability, and overall effectiveness. Ensure that each sentence contributes essential information, that there is no unnecessary repetition or irrelevant detail, and that the abstract provides a balanced summary of the entire study.
+If the uploaded materials specify a target journal, publisher, institution, or submission guidelines, verify that the abstract complies with the required format, structure, headings (where applicable), style, terminology, and word limit. If no such requirements are provided, assess whether the abstract follows the conventions of a high-quality scholarly abstract based solely on the uploaded materials without introducing external standards.
+Present the output using the following headings:
+Overall Assessment
+Strengths of the Abstract
+Areas Requiring Improvement
+Recommended Revisions
+Revised Abstract
+Final Publication Readiness Assessment
+Ensure that the revised abstract is clear, concise, accurate, logically organized, academically rigorous, publication-ready, and fully supported by the uploaded materials.
+Use only the uploaded sources. Do not invent information, make unsupported claims, or introduce external knowledge or references that are not contained within the uploaded materials."
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
+
+
+
+
+
+
