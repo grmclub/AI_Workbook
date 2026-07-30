@@ -218,6 +218,107 @@ NotebookLM will not write your paper for you, and honestly, it shouldn’t. But 
 
 
 -------------------------------------------------
+This guide includes 7 Gemini Notebook prompts to help you write every essential component of a research paper, from planning the manuscript to reviewing and refining the final draft, using your uploaded sources. 👇👇
+
+1. Plan the Research Paper
+"Review all uploaded sources in Gemini Notebook and use them as the sole basis for this task.
+Analyze all uploaded materials and develop a comprehensive plan for a research paper based exclusively on the available evidence.
+Begin by identifying the central research topic, research problem, objectives or research questions, and the overall purpose of the paper. Then determine the most appropriate manuscript structure by specifying the major sections and subsections that should be included.
+For each section, explain its purpose, summarize the key information and evidence that should be incorporated from the uploaded sources, and indicate how it contributes to the overall argument of the paper. Organize the available literature, theoretical concepts, empirical findings, methodological information, and supporting evidence into the appropriate sections to create a logical and coherent flow.
+Present the output using the following headings:
+Proposed Research Paper Title
+Research Topic
+Research Problem
+Research Objectives or Research Questions
+Purpose of the Research Paper
+Recommended Paper Structure
+Section-by-Section Content Plan
+Key Evidence to Include in Each Section
+Recommended Writing Sequence
+Ensure that the proposed structure is academically rigorous, logically organized, and suitable for producing a high-quality research paper based solely on the uploaded materials.
+Use only the uploaded sources. Do not invent information, make unsupported claims, or introduce external knowledge or references that are not contained within the uploaded materials."
+
+2. Write the Introduction
+"Review all uploaded sources in Gemini Notebook and use them as the sole basis for this task.
+Write the Introduction section of the research paper using only the uploaded materials.
+Begin by introducing the research topic and providing sufficient background to establish the context of the study. Clearly define the research problem, explain its significance, and demonstrate why it warrants investigation based on the evidence presented in the uploaded sources.
+Present the rationale for the study by synthesizing the relevant literature and identifying the knowledge gap, unresolved issue, or practical problem that the research addresses. Clearly state the research objectives or research questions and explain how the study contributes to the existing body of knowledge.
+Conclude the introduction with a brief overview of the organization of the research paper.
+Ensure that the introduction is logically organized, academically rigorous, clearly written, and supported throughout by evidence from the uploaded materials.
+Use only the uploaded sources. Do not invent information, make unsupported claims, or introduce external knowledge or references that are not contained within the uploaded materials."
+
+3. Write the Literature Review
+"Review all uploaded sources in Gemini Notebook and use them as the sole basis for this task.
+Write the Literature Review section of the research paper using only the uploaded materials.
+Critically analyze, compare, and synthesize the relevant literature to establish the current state of knowledge on the research topic. Identify and discuss the major themes, concepts, theoretical perspectives, methodological approaches, areas of agreement and disagreement, and significant findings across the uploaded sources.
+Evaluate the strengths, limitations, and relationships among the existing studies where supported by the uploaded materials. Identify the research gap, unresolved issues, or limitations in the existing literature and demonstrate how the current study addresses them.
+Organize the literature review into coherent thematic or conceptual sections rather than discussing individual sources sequentially. Ensure that each paragraph contributes to a logical progression of ideas and supports the overall rationale for the research.
+Ensure that the literature review is comprehensive, analytical, academically rigorous, logically organized, and fully supported by evidence from the uploaded materials.
+Use only the uploaded sources. Do not invent information, make unsupported claims, or introduce external knowledge or references that are not contained within the uploaded materials."
+
+4. Write the Methodology
+"Review all uploaded sources in Gemini Notebook and use them as the sole basis for this task.
+Write the Methodology section of the research paper using only the uploaded materials.
+Describe and justify the research methodology based on the information provided in the uploaded sources. Clearly explain the research design, study setting (if applicable), participants or data sources, sampling strategy, data collection methods, instruments or materials, data analysis procedures, and ethical considerations where relevant.
+Provide a clear rationale for each methodological decision by explaining why the selected approach is appropriate for addressing the research objectives or research questions. Ensure that the methodology is described in sufficient detail to demonstrate the rigor, transparency, and reproducibility of the study.
+Organize the methodology using clear subheadings where appropriate, ensuring logical flow and consistency throughout the section.
+Ensure that the methodology is precise, comprehensive, academically rigorous, and fully supported by the uploaded materials.
+Use only the uploaded sources. Do not invent information, make unsupported claims, or introduce external knowledge or references that are not contained within the uploaded materials."
+
+5. Write the Results and Discussion
+"Review all uploaded sources in Gemini Notebook and use them as the sole basis for this task.
+Write the Results and Discussion section of the research paper using only the uploaded materials.
+Present the research findings in a clear, logical, and objective manner. Organize the results according to the research objectives, research questions, or major themes identified in the uploaded materials. Describe the findings accurately without introducing unsupported interpretations.
+Following the presentation of the results, critically discuss and interpret their meaning in relation to the research objectives or research questions. Compare the findings with the relevant literature contained in the uploaded sources, highlighting areas of agreement, disagreement, and new insights where supported by the evidence.
+Discuss the theoretical, practical, or methodological implications of the findings, explain their significance, and address any limitations identified within the uploaded materials. Ensure that the discussion demonstrates critical analysis while remaining fully grounded in the available evidence.
+Organize the section using clear subheadings where appropriate, ensuring logical progression from the presentation of findings to their interpretation and implications.
+Ensure that the Results and Discussion section is comprehensive, analytical, academically rigorous, logically organized, and fully supported by the uploaded materials.
+Use only the uploaded sources. Do not invent information, make unsupported claims, or introduce external knowledge or references that are not contained within the uploaded materials."
+
+6. Write the Conclusion
+"Review all uploaded sources in Gemini Notebook and use them as the sole basis for this task.
+Write the Conclusion section of the research paper using only the uploaded materials.
+Summarize the main findings of the study in relation to the research objectives or research questions without repeating the detailed results. Clearly explain how the findings address the research problem and contribute to the existing body of knowledge based on the uploaded sources.
+Highlight the theoretical, practical, and methodological contributions of the study where supported by the uploaded materials. Discuss the limitations of the research and explain their implications for interpreting the findings. Provide appropriate recommendations for future research, policy, or practice when these are supported by the available evidence.
+Conclude with a concise closing statement that reinforces the overall significance of the study and its contribution to the field.
+Ensure that the conclusion is clear, concise, logically organized, academically rigorous, and fully supported by the uploaded materials.
+Use only the uploaded sources. Do not invent information, make unsupported claims, or introduce external knowledge or references that are not contained within the uploaded materials."
+
+7. Review and Refine the Research Paper
+"Review all uploaded sources in Gemini Notebook and use them as the sole basis for this task.
+Review the complete research paper to evaluate its academic quality, logical coherence, clarity, consistency, and alignment with the uploaded materials.
+Assess whether each section of the manuscript effectively fulfills its purpose and contributes to a coherent overall argument. Evaluate the introduction, literature review, methodology, results and discussion, and conclusion for completeness, organization, accuracy, and consistency. Identify any gaps, redundancies, inconsistencies, unsupported statements, weak transitions, or areas requiring further development based solely on the uploaded sources.
+Evaluate the strength of the evidence supporting the arguments, the integration and synthesis of the uploaded materials, the clarity of the writing, the flow between sections, and the consistency of terminology, style, and academic tone throughout the manuscript.
+Provide specific, actionable recommendations to improve the quality of the paper. Where appropriate, rewrite sentences, paragraphs, or sections to improve clarity, coherence, conciseness, and scholarly writing while preserving the original meaning and ensuring that every revision remains fully supported by the uploaded materials.
+Present the review under the following headings:
+Overall Assessment
+Section-by-Section Evaluation
+Strengths
+Areas for Improvement
+Recommended Revisions
+Revised Text (where applicable)
+Final Assessment
+Ensure that the final manuscript is academically rigorous, logically organized, internally consistent, publication-ready, and fully supported by the uploaded materials.
+Use only the uploaded sources. Do not invent information, make unsupported claims, or introduce external knowledge or references that are not contained within the uploaded materials."
+
+7. Review and Refine the Research Paper
+"Review all uploaded sources in Gemini Notebook and use them as the sole basis for this task.
+Review the complete research paper to evaluate its academic quality, logical coherence, clarity, consistency, and alignment with the uploaded materials.
+Assess whether each section of the manuscript effectively fulfills its purpose and contributes to a coherent overall argument. Evaluate the introduction, literature review, methodology, results and discussion, and conclusion for completeness, organization, accuracy, and consistency. Identify any gaps, redundancies, inconsistencies, unsupported statements, weak transitions, or areas requiring further development based solely on the uploaded sources.
+Evaluate the strength of the evidence supporting the arguments, the integration and synthesis of the uploaded materials, the clarity of the writing, the flow between sections, and the consistency of terminology, style, and academic tone throughout the manuscript.
+Provide specific, actionable recommendations to improve the quality of the paper. Where appropriate, rewrite sentences, paragraphs, or sections to improve clarity, coherence, conciseness, and scholarly writing while preserving the original meaning and ensuring that every revision remains fully supported by the uploaded materials.
+Present the review under the following headings:
+Overall Assessment
+Section-by-Section Evaluation
+Strengths
+Areas for Improvement
+Recommended Revisions
+Revised Text (where applicable)
+Final Assessment
+Ensure that the final manuscript is academically rigorous, logically organized, internally consistent, publication-ready, and fully supported by the uploaded materials.
+Use only the uploaded sources. Do not invent information, make unsupported claims, or introduce external knowledge or references that are not contained within the uploaded materials."
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
