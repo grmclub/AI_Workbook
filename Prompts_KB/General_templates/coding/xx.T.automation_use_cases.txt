@@ -97,7 +97,6 @@ This helps prove ROI and guides future automation projects.
 Automation is a game-changer when done right. Focus on small, consistent improvements. Write modular code. Test. Secure. Monitor. Measure. Then iterate.
 
 -------------------------------------------------
-
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
