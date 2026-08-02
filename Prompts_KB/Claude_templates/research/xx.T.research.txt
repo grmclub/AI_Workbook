@@ -156,6 +156,30 @@ Act as a research workflow consultant. Review my research process using these me
 → /how-to — Generate beginner-friendly step-by-step guides.
 
 -------------------------------------------------------------
+## Claude can now perform PhD-level research on virtually any topic—in as little as 20 minutes.
+
+1. The "Asymmetric-Yield" Literature Bottleneck Scout
+Act as a world-class research strategist and methodology expert. I want you to map the entire research landscape of [My Research Topic] from first principles. Identify the three most significant gaps in the literature, expose the key methodological limitations, and uncover high-impact research opportunities where existing work depends on outdated assumptions, weak evidence, or unexplored perspectives. Then create a rigorous, text-based validation framework to verify claims, evaluate source credibility, rank evidence quality, and prioritize the most promising directions for future research.
+ 
+2. The "Prestige-Identity" Core Axiom Extraction Matrix
+Act as a world-class academic information architect. Transform a complex collection of source materials into a high-value conceptual intelligence matrix. Organize the knowledge around Primary Definitional Axioms, High-Contrast Methodological Discrepancies, and Quantifiable Metric Anchors to reveal the highest-signal insights, expose hidden relationships, identify recurring patterns, and eliminate low-value qualitative noise. Produce a structured output that maximizes clarity, analytical depth, and decision-making value.
+ 
+3. The "Pattern-Interrupt" Literature Review Pipeline SOP
+Act as a world-class research synthesis specialist and information systems architect. Design a repeatable Standard Operating Procedure (SOP) for reviewing 10 research papers simultaneously with maximum speed and analytical depth. Create a high-clarity, pattern-driven review framework featuring clear heading hierarchies, strategic visual separation, and ALL CAPS for DOMAINS, DATASETS, and other critical elements. Optimize the structure to reduce cognitive load, accelerate insight extraction, compare methodologies side by side, identify recurring patterns, highlight contradictions, and surface the highest-value findings at a glance.
+ 
+4. The "Humanized-Velocity" Complex Analogy Engine
+Act as a world-class cognitive science educator and expert science communicator. Transform complex academic concepts into exceptionally clear, human-centered explanations using a structured, text-based teaching framework. Convert dense terminology, abstract theories, and technical formulas into intuitive, conversational analogies, real-world examples, and step-by-step reasoning. Prioritize zero fluff, maximum clarity, rapid comprehension, long-term retention, and deep conceptual understanding while preserving technical accuracy.
+ 
+6. The "Two-Step" Dialectical Synthesis Pipeline
+Act as a world-class academic peer reviewer and critical reasoning expert. Design a structured synthesis framework that rigorously stress-tests any technical claim before reaching a conclusion. Build a disciplined two-step process: first, generate a comprehensive, evidence-based counterargument that challenges the thesis from multiple scientific, methodological, and logical perspectives; second, synthesize both viewpoints to identify key strengths, hidden assumptions, methodological limitations, evidence gaps, and the most robust, defensible conclusion supported by the available evidence.
+ 
+7. The "Skeptic-Filter" Source Validity Audit Matrix
+Act as a world-class investigative research auditor and evidence evaluation specialist. Create a repeatable, text-based verification framework that serves as a rigorous adversarial filter for assessing source credibility and evidence quality. Design a high-clarity audit matrix that minimizes confirmation bias, enforces systematic citation cross-validation, identifies weak, conflicting, or unsupported claims, ranks evidence by reliability, and ensures every research synthesis meets the highest standards of accuracy, transparency, and scientific integrity.
+ 
+8. The "Velocity-Check" 20-Minute Deep Research Audit
+Act as a world-class research optimization strategist and knowledge systems auditor. Evaluate my 20-minute research sprint using the following performance metrics: [Source Papers Filtered], [Core Axioms Isolated], [Logical Discrepancies Caught %], and [Synthesis Alignment]. Diagnose the exact prompt design weaknesses, workflow inefficiencies, formatting issues, delimiter inconsistencies, and context bottlenecks limiting performance. Then provide precise, actionable optimizations to improve research speed, analytical accuracy, evidence quality, synthesis depth, and overall efficiency while maintaining maximum reliability.
+
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
