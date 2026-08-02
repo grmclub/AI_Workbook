@@ -159,7 +159,36 @@ Review the following meeting transcript or notes: [PASTE TRANSCRIPT OR NOTES]. C
 Prompt:
 Review these statistics and data points: [PASTE DATA OR METRICS]. For each data point, recommend the most effective visualization (such as a bar chart, line graph, pie chart, waterfall chart, comparison table, heat map, icon grid, or infographic). Explain why that visual is the best choice, provide a clear chart title, and write a compelling one-line insight or caption that highlights the significance of the data rather than simply repeating the numbers.
 
+-------------------------------------------------
+## ChatGPT can build a stunning presentation in just 2 minutes
 
+1. The Complete Presentation Blueprint
+Act as a professional presentation consultant. Create a complete presentation blueprint for [TOPIC]. Define the presentation objective, target audience, core message, recommended number of slides, and a logical slide-by-slide outline. Ensure the structure is engaging, persuasive, and professionally organized from beginning to end.
+
+2. Slide Structure & Flow Architect
+Design a seamless slide-by-slide structure for a presentation about [TOPIC]. Give each slide a powerful title, define its purpose, and explain how it connects to the next slide to create a natural, compelling flow from introduction to conclusion.
+ 
+3. The Full Slide Content Generator
+Create presentation-ready content for every slide on [TOPIC]. Write clear, concise bullet points, key takeaways, and speaker-friendly content that is professional, easy to understand, and tailored for [TARGET AUDIENCE].
+
+4. The Story-Based Presentation Builder
+Transform [TOPIC] into a memorable presentation using a powerful storytelling framework: Hook → Problem → Insight → Solution → Key Takeaway → Call to Action. Keep it engaging, persuasive, and highly informative while maintaining a professional tone.
+ 
+5. Visual Direction & Design Expert
+Act as a presentation designer. Recommend the ideal visual style for each slide of a presentation on [TOPIC], including layouts, color schemes, typography, icons, charts, diagrams, illustrations, and image suggestions that maximize clarity and visual impact.
+ 
+6. Slide Simplification & Clarity Editor
+Review the presentation below and transform it into clean, presentation-ready slides. Remove unnecessary text, highlight the most important ideas, improve readability, and ensure every slide communicates one clear message. Content: [PASTE CONTENT].
+
+ 
+7. Presentation Flow & Impact Polisher
+Act as an executive presentation coach. Refine this presentation by improving slide titles, transitions, wording, and overall flow. Make every slide more persuasive, confident, and engaging while maintaining a polished, professional style. Content: [PASTE PRESENTATION].
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
