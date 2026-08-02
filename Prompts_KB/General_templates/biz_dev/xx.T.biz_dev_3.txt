@@ -366,6 +366,26 @@ It creates them.
 
 
 -------------------------------------------------------------
+## Claude can now tell you what to S€LL, who to sell it to, and how to price it.
+Here are 5 prompts:👇
+
+
+1. Tell Me What To Sell
+“Act as a digital business strategist. Based on my skills, experience, interests, and target audience, recommend 25 offers I could sell online. Rank them by demand, profitability, ease of creation, and long-term potential.”
+ 
+2. Find My Ideal Customer
+“For the best offer you recommended, create a detailed customer profile. Explain their biggest pain points, goals, objections, buying triggers, and where I can find them online.”
+ 
+3. Price My Offer
+“Recommend the best pricing strategy for my offer. Explain why you’d choose that price, how to increase perceived value, and what bonuses I should include without discounting.”
+ 
+4. Validate Before I Build
+“Show me how to validate this offer before I create it. Include free validation methods, questions to ask potential customers, and signs that prove there’s real demand.”
+ 
+5. Build My Launch Plan
+“Create a 30-day Instagram launch strategy for my offer. Include Reels, carousel ideas, storytelling posts, hooks, CTAs, and a simple content plan that attracts buyers.”
+
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
