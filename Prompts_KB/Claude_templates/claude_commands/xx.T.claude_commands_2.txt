@@ -258,12 +258,136 @@ Step 4: Begin chatting inside this folder layout; Claude will strictly reference
     • /feedback $\rightarrow$ Submit feedback directly from the session
     • /help $\rightarrow$ See every command available to you
 
-
-
 -------------------------------------------------
+## 100 Claude Commands to Help You Build Faster
+
+1. EMAIL & MESSAGES
+​➔ /DECLINE [email] – polite refusal
+➔ /SHORTEN [email] – half the length, key points kept.
+➔ /WARMER [email] – less stiff.
+➔ /FOLLOWUP [topic] – nudge for an unanswered email.
+➔ /SAYNO [request] – a no that protects the relationship.
+➔ /BULLETS2EMAIL [bullets] – bullets into a clean email.
+➔ /THANKS [person + reason] – short, sincere thank-you.
+➔ /CONFIDENT [email] – strips hedging and apology.
+➔ /OOO [dates + backup] – out-of-office auto-reply.
+➔ /HARDMSG [person + topic] – hard message, respectful.
+➔ /INTRO [person A + person B + context] – double opt-in intro.
+
+2. WRITE & EDIT
+​➔ /PROOF [text] – fixes typos.
+➔ /REWRITES [sentence] – five versions.
+➔ /CUTHALF [text] – cuts length.
+➔ /OPENERS [text] – three stronger opening lines.
+➔ /FILLER [text] – flags weak words.
+➔ /ACTIVE [text] – passive to active.
+➔ /HUMAN [text] – AI-sounding text made natural.
+➔ /EXAMPLES [text] – adds examples.
+➔ /SIMPLIFY [text] – rewrites at a 12-year-old level.
+➔ /TITLES [text] – title options.
+➔ /TONE [text + vibe] – rewrites text in a chosen tone.
+ 
+3. THINK & DECIDE
+​➔ /CHOOSE [A vs B] – weighs options.
+➔ /PROSCONS [decision] – pros and cons.
+➔ /BLINDSPOT [situation] – surfaces what you might miss.
+➔ /STEELMAN [view] – opposing view.
+➔ /DEVIL [idea] – devil's advocate.
+➔ /SKEPTIC [plan] – skeptic's questions.
+➔ /STEPS [problem] – walks it through one step at a time.
+➔ /RIPPLE [decision] – maps second-order consequences.
+➔ /PREMORTEM [plan] – how it may fail.
+➔ /MINTEST [project] – smallest version to test in a week.
+
+4. LEARN & UNDERSTAND
+​➔ /ELI10 [topic] – explained for a ten-year-old.
+➔ /PRIMER [topic] – quick crash course.
+➔ /MYTHS [topic] – common misconceptions.
+➔ /ANALOGY [concept] – real-world comparison.
+➔ /QUIZ [topic] – five questions.
+➔ /COMPARE [A vs B] – differences.
+➔ /PREREQ [topic] – what to know.
+➔ /SUM3 [text] – three-bullet summary.
+➔ /GLOSSARY [topic] – defines key terms.
+➔ /ASKBETTER [topic] – questions you should be asking.
+➔ /MENTALMODEL [topic] – the one model that unlocks it.
+
+5. PLAN & ORGANIZE
+​➔ /WEEK [priorities] – plan your week.
+➔ /MILESTONES [goal + deadline] – weekly checkpoints to the goal.
+➔ /PACK [trip] – packing list.
+➔ /SCHEDULE [event + duration] – timed schedule.
+➔ /ROUTINE [goal] – daily routine.
+➔ /PRIORITIZE [list] – reorders a messy to-do list.
+➔ /MEALS [ingredients/constraints] – a week of dinners.
+➔ /AGENDA [topic + duration] – meeting agenda.
+➔ /PREPTIME [event + time available] – prep plan within the deadline.
+➔ /ORDER [tasks] – sequences tasks.
+➔ /CHECKLIST [task] – step-by-step checklist to run it.
+ 
+6. BRAINSTORM
+​➔ /IDEAS20 [topic] – twenty ideas.
+➔ /GIFTS [person + occasion + budget] – gift options.
+➔ /NAMES [thing + vibe] – name ideas.
+➔ /UNUSUAL [problem] – ten unconventional approaches.
+➔ /ANGLE [topic] – overlooked angle.
+➔ /COMBINE [A + B] – mashes two into five directions.
+➔ /METAPHOR [concept] – a metaphor.
+➔ /STARTERS [topic] – non-boring conversation openers.
+➔ /JOURNAL10 [theme] – ten journal prompts.
+➔ /AS [role + problem] – solves it as a specific profession would.
+➔ /CHILD [problem] – how a curious kid would solve it.
+
+7. WORK & CAREER
+​➔ /INTERVIEWQ [questions] – confident answer prep.
+➔ /RESUMEBULLET [bullet] – rewrite.
+➔ /ASKINTERVIEWER [role + company type] – smart questions to ask.
+➔ /NEGOTIATE [the ask] – scripts the negotiation.
+➔ /RECONNECT [person + context] – LinkedIn reach-out.
+➔ /GAP [reason] – explains career gap.
+➔ /WINS5 [notes] – accomplishments into five bullets.
+➔ /ONBOARDME [topic] – preps a manager 1:1 call.
+➔ /SELFREVIEW [paste] – self-review from your notes.
+➔ /IDONTKNOW [situation] – phrases "I don't know yet" professionally.
+➔ /RAISE [context] – script to ask for a raise.
+ 
+8. CONTENT & SOCIAL
+​➔ /HOOK [topic] – five scroll-stopping openers.
+➔ /CAPTION [photo/topic] – short caption.
+➔ /THREAD [idea] – one idea, six-tweet thread.
+➔ /CARO [topic] – outlined carousel.
+➔ /REPURPOSE [post] – three formats.
+➔ /CTA [post] – three calls-to-action.
+➔ /BIO [details + vibe] – short bio in three styles.
+➔ /SUBJECT [email/post] – five subject lines that get opened.
+➔ /CONTRARIAN [topic] – sharp counter-take, still defensible.
+➔ /SHORTPOST [idea] – 100-word post.
+➔ /COMMENT [post] – three sharp replies that add value.
+
+9. MEETINGS & NOTES
+​➔ /MEETINGNOTES [transcript] – raw notes into clean minutes.
+➔ /ACTIONITEMS [notes] – pulls to-dos and owners.
+➔ /STANDUP [yesterday + today + blockers] – daily update format.
+➔ /RECAP [meeting] – five line recap.
+➔ /DECISIONS [notes] – decisions made.
+➔ /QUESTIONS [topic] – what to ask.
+➔ /STATUS [project] – status update.
+➔ /BRIEFME [topic + paste] – fast pre-meeting briefing.
+➔ /DEBRIEF [meeting] – what went well, what to fix.
+➔ /TLDR [paste] – shortest summary.
+➔ /RETRO [project] – what worked, what didn't, what's next.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------	
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
+
+
 	
 	
