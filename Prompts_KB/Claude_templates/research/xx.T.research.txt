@@ -181,6 +181,52 @@ Act as a world-class research optimization strategist and knowledge systems audi
 
 
 -------------------------------------------------------------
+🚨 CLAUDE CAN ANALYZE 40 RESEARCH PAPERS IN MINUTES.
+These 9 prompts turn academic papers into structured reviews, knowledge maps, and research opportunities.
+
+You can read 10 papers a day and learn more than AI will give you. It can be helpful, yes, but it generates AI slop papers later that are substandard quality.
+Why do we need researchers then if as profs we potentially could spawn unlimited number of agents and subagents that can do this job?
+
+1. The Intake Protocol
+Upload all your research papers first, then use this prompt:
+"I am going to share [X] papers on [Topic]. Before answering any questions, list each paper by its author, publication year, and a one-sentence core thesis. Group the papers into clusters based on their shared assumptions, identify any papers that directly contradict one another, and map the overall research landscape without summarizing the individual papers."
+
+2. The Contradiction Detector
+Use this prompt to uncover disagreements across the literature:
+"Review all uploaded papers and identify every point where two or more authors directly contradict each other. For each contradiction, explain both positions, name the specific papers involved, and describe why the disagreement likely exists, such as differences in methodology, datasets, or publication era. Present the results in a clear comparison table."
+
+3. The Citation Chain
+Use this prompt to trace the evolution of key ideas:
+"Identify the three most frequently cited concepts across all uploaded papers. For each concept, explain who introduced it first, who later challenged it, who refined or expanded it, and what the current academic consensus is, if one exists. Present the intellectual development as a family-tree style lineage showing how each idea evolved over time."
+
+4. The Gap Scanner
+Use this prompt to discover research opportunities:
+"Analyze all uploaded papers and identify five important research questions that remain unanswered. For each gap, explain why it still exists, whether because it is technically difficult, too niche, or largely ignored, identify the paper that came closest to addressing it, and recommend the methodology most likely to resolve it."
+
+5. The Methodological Audit
+Compare the research methods across the literature with this prompt:
+"Review the methodologies used in all uploaded papers and group them into categories such as surveys, experiments, simulations, meta-analyses, and case studies. Then identify which methodology dominates the field and explain why, which approach is underutilized, and which methodology appears to be the weakest, including the reasons behind that assessment."
+
+6. The Master Synthesis
+Once you've completed the earlier analyses, use this prompt:
+"Using your complete understanding of the uploaded literature, write a synthesis that does not summarize individual papers. Instead, explain what the field collectively believes, what issues remain disputed, what findings are supported beyond reasonable doubt, and conclude with the single most important unanswered research question. Keep the response under 400 words and avoid unnecessary filler."
+
+7. The Assumption Destroyer
+Reveal hidden assumptions with this prompt:
+"Identify the assumptions that the majority of these papers rely on without explicitly proving or justifying them. For each assumption, explain it clearly, identify one or two papers that depend on it most heavily, and describe how the field would change if that assumption turned out to be false."
+
+8. The Knowledge Map Builder
+Organize the entire field with this prompt:
+"Create a structured knowledge map of all uploaded literature. Include the central thesis around which the field revolves, three to five well-established supporting pillars, two to three active areas of debate, one to two unresolved frontier questions, and recommend the three papers every newcomer should read first, explaining why each is essential. Present the output as a clean outline rather than prose."
+
+9. The "So What?" Test
+Finish your literature review with this prompt:
+"Imagine you have five minutes to explain this entire body of research to an intelligent non-expert. Summarize the field by stating, in one sentence, what has been conclusively proven, honestly describe the single biggest thing researchers still do not know, and explain the one real-world implication that matters most. Use plain language with no jargon or academic writing style."
+
+
+
+
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
