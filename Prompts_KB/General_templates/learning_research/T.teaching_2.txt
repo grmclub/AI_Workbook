@@ -1,0 +1,114 @@
+
+-------------------------------------------------
+## 10 CHATGPT Prompts For Teachers and Educators
+
+1. The Lesson Architect
+Prompt:
+
+“Act as an experienced secondary school teacher. Create a 45 minute lesson plan on [topic] for [grade level]. Include a hook, learning objective, main activity, group task, and an exit ticket. Keep the reading level simple.”
+
+Why it works:
+It forces a full lesson structure in one shot, not a list of random ideas. The hook and exit ticket keep the lesson focused from start to finish.
+
+2. The Reading Level Rewriter
+Prompt:
+
+“Rewrite this text so a [grade level] student can understand it. Keep the key facts. Use short sentences. Add three vocabulary words with simple definitions at the end.”
+
+Why it works:
+Most classroom text is written above student reading level. This prompt adjusts difficulty without losing the actual content.
+
+3. The Question Generator
+Prompt:
+
+“Create 10 questions on [topic] for [grade level]. Include 4 easy, 4 medium, and 2 challenging questions. Do not repeat question types. Provide an answer key.”
+
+Why it works:
+Mixed difficulty keeps every student engaged, not just the top performers. The answer key saves grading time later.
+
+4. The Feedback Coach
+Prompt:
+
+“Read this student writing. Give feedback using this structure: one strength, one area to improve, one clear next step. Keep the tone encouraging and specific.”
+
+Why it works:
+Vague feedback like “good job” does not help students grow. This structure forces specific, actionable comments every time.
+
+5. The Differentiation Builder
+Prompt:
+
+“Take this activity and create 3 versions: one simplified for struggling learners, one standard, and one extended for advanced learners. Keep the same learning objective across all three.”
+
+Why it works:
+One lesson rarely fits every student. This prompt saves the time of rebuilding a task three separate times.
+
+6. The Parent Email Drafter
+Prompt:
+
+“Write a short, professional email to a parent about [situation]. Keep the tone calm, clear, and supportive. End with a next step or invitation to talk.”
+Why it works:
+
+Parent communication needs the right tone every time. This prompt removes the stress of finding the right words under time pressure.
+
+7. The Concept Simplifier
+Prompt:
+
+“Explain [difficult concept] to a [grade level] student using a simple real life example. Avoid technical language. End with one question to check understanding.”
+
+Why it works:
+Students remember concepts better through examples, not definitions. The check question confirms if the explanation actually landed.
+
+8. The Rubric Creator
+Prompt:
+
+“Create a grading rubric for [assignment type]. Include 4 criteria, each with 4 performance levels and a short description for each level.”
+
+Why it works:
+A clear rubric speeds up grading and helps students understand exactly what quality work looks like before they submit.
+
+9. The Discussion Starter
+Prompt:
+
+“Create 5 open ended discussion questions on [topic] for [grade level]. Each question should encourage debate, not a one word answer.”
+
+Why it works:
+Good discussions do not start with yes or no questions. Open ended prompts push students to explain their thinking out loud.
+
+10. The Lesson Reflection Prompt
+Prompt:
+
+“I taught a lesson on [topic] today. Here is what happened: [short summary]. Help me identify what worked, what did not, and one change to improve it next time.”
+
+Why it works:
+Reflection is where real teaching improvement happens. This turns a quick mental note into a structured, useful review.
+
+🔥 PRO TIPS
+Always tell ChatGPT the grade level, subject, and learning goal before asking for output.
+Ask for a first draft, then request one specific improvement instead of starting over.
+Save your best prompts in one document so you never rewrite them from scratch.
+Use simple, direct instructions. Long, complicated prompts often produce weaker results.
+Test every prompt on a topic you already understand well before using it live in class.
+Ask ChatGPT to explain its reasoning if an answer feels incomplete or generic.
+Combine two prompts together for bigger tasks, for example a lesson plan followed by a rubric.
+
+⚠️ THE TRUTH
+ChatGPT can save you real time on planning, writing, and feedback.
+It cannot replace your judgment, your relationship with students, or your understanding of your classroom.
+It can sound confident while being wrong, so always check facts before sharing material with students.
+A polished worksheet is not automatically a good worksheet. Quality still depends on your review.
+Never paste student names or private information into any AI tool unless your school clearly allows it.
+The teachers who benefit most are not the ones using the most prompts. They are the ones using a few good prompts consistently and reviewing every output carefully.
+
+🚀 QUICK START
+Pick one task you repeat every week, such as quizzes or feedback.
+Copy the matching prompt from this list.
+Fill in your subject, grade level, and topic.
+Run it in ChatGPT and read the output fully before using it.
+Ask for one specific change if something feels off.
+Save the final version somewhere you can reuse it next time.
+Repeat with a second prompt only after the first one feels easy.
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
