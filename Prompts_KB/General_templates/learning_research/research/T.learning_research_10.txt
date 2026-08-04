@@ -492,6 +492,35 @@ Do not write this like a textbook or technical documentation. Write it like you'
 
 
 -------------------------------------------------
+## 9 Claude Skills that practically write your pr0mpts for you
+
+1. Turn Ideas Into Great Prompts
+Prompt Maker — /prompt-master.
+Drop in a rough idea, messy notes, or a half-finished thought. It transforms them into a clear, well-structured prompt.
+ 
+2. Eliminate the Blind Spots
+Grill Me — /grill-me
+Asks smart follow-up questions until every important detail is covered.
+How To — /how-to
+Breaks your goal into clear, actionable steps and fills in the gaps you might have missed.
+ 
+3. Fine-Tune for Better Results
+Optimizer 4.8 — /48
+Refines your prompt to get the best possible results from Claude Opus 4.8.
+Fable Prompter — /fable
+Optimizes your prompt specifically for Fable 5.
+ 
+4. Match Your Writing Style
+Personal Voice — /personal-voice
+Rewrites the output so it sounds like you—not AI.
+Anti-AI — /anti-ai
+Removes robotic phrasing and AI giveaways to make your writing feel natural and authentic.
+ 
+5. Build Once, Reuse Forever
+Write a Skill — /write-a-skill
+Turns your workflow into a reusable Claude Skill you can run anytime.
+Hand Off — /handoff
+Generates a complete handoff document so another Claude chat can continue exactly where you left off.
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
