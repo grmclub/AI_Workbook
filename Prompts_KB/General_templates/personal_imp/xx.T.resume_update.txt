@@ -21,11 +21,36 @@
 6/ THE EXECUTIVE RESUME REFINEMENT SYSTEM:
 "Conduct a deep final-pass evaluation of my resume from the perspective of a recruiter reviewing top-tier candidates. Identify anything that weakens clarity, professionalism, credibility, or overall impact. This includes inconsistent writing style, repetitive sentence structure, vague descriptions, weak transitions, low-value wording, and overused corporate phrases that fail to differentiate me. Refine the language throughout the resume so every section sounds precise, intentional, and high-value. Replace generic statements with sharper positioning, stronger achievement-driven phrasing, and wording that reflects expertise, confidence, and real-world contribution. The final resume should feel polished, modern, and competitive at a professional level."
 
-
-
-
-
 -------------------------------------------------
+🚨 BREAKING: Claude can now help you get hired for your dream job completely free.
+
+1. Dream Job Career Strategy Prompt
+"Act as a world-class career strategist, recruiter, hiring manager, executive coach, resume expert, interview specialist, and personal branding consultant. Help me create a complete strategy to land my dream job as a candidate. Analyze my background, skills, experience, goals,desired roles, and current job market conditions. Build my career positioning, application strategy, networking plan, personal brand strategy, and step-by-step roadmap.
+
+
+2. Resume & LinkedIn Optimization Prompt
+"Act as a senior recruiter from a top global company. Analyze my resume, LinkedIn profile, and professional background like you are screening candidates for my target role. Identify weaknesses, missing keywords, unclear achievements, and opportunities to improve my positioning. Rewrite my resume bullets using measurable impact, optimize my LinkedIn headline and About section, and create a profile that attracts recruiters.
+
+
+3. Skill Gap & Career Upgrade Prompt
+"Act as an expert career development coach. Analyze the requirements for my dream position and compare them with my current skills, experience, portfolio, and qualifications. Identify the highest-impact skills I need to develop, recommend learning resources, create practical projects to prove my abilities, and design a 90-day improvement plan.
+
+4. Job Search & Application Strategy Prompt
+"Act as a professional recruiter and job search strategist. Build a complete job acquisition system for my target role. Create strategies for finding opportunities, identifying high-quality companies, optimizing applications, writing customized cover letters, reaching out to recruiters, leveraging networking, preparing referrals, and tracking applications. Include daily and weekly actions.
+
+5. Interview Mastery Prompt
+"Act as a senior hiring manager and interview coach. Prepare me for my upcoming interview for [ROLE] at [COMPANY]. Analyze the job description, predict likely questions, create strong answers using frameworks like STAR, identify technical and behavioral topics to prepare, conduct mock interviews, and provide feedback on my responses.
+
+6. Personal Brand & Networking Prompt
+"Act as a personal branding strategist. Help me build a professional online presence that attracts opportunities in [INDUSTRY/ROLE]. Create my LinkedIn content strategy, networking approach, portfolio positioning, expertise-building plan, and relationship-building system. Design ways to demonstrate my skills publicly and become more visible to recruiters and industry professionals.
+ 
+7. Portfolio & Proof-of-Skills Prompt
+"Act as a hiring manager evaluating candidates for my dream role. Design a portfolio strategy that makes me stand out. Recommend projects, case studies, achievements, certifications, demonstrations, and proof-of-work that would convince employers I can deliver results. Create a structure for presenting my work professionally.
+ 
+8. 30-Day Dream Job Action Plan Prompt
+"Act as an elite career coach and accountability partner. Create a detailed 30-day plan to maximize my chances of landing my dream position. Break down each day into actions covering resume improvement, LinkedIn optimization, skill development, networking, applications, interview preparation, portfolio building, and follow-ups. Include measurable goals, tracking systems, and weekly reviews.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
