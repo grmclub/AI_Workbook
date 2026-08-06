@@ -222,6 +222,56 @@ Render in 1080x1080, ultra-detailed, photorealistic style.
 Include a small stitched fabric name tag sewn onto the INNER wall of the diorama (top-left corner inside the cube), clearly integrated into the scene, not floating and not outside the structure, displaying the name: [CHARACTER NAME].
 
 -------------------------------------------------
+
+Premium Storyboard Infographic Poster Prompt
+Create a premium storyboard infographic poster for {VIDEO TITLE / THEME} using ChatGPT Image 2.
+Output: Single poster only • Aspect Ratio: 1:1.414 (A-Series Portrait) • No explanations or extra text.
+Style
+Minimal white background with thin black borders.
+Bold modern typography.
+Premium cinematic 3D illustrations with realistic lighting and depth.
+Commercial storyboard layout with strong visual hierarchy.
+Match lighting, colors, environment, props, and mood to the theme.
+Keep the design clean, elegant, readable, and visually engaging.
+Header
+{TITLE IN ENGLISH}
+Total Video Time: 10 Seconds
+8 Shots • {Keyword 1} • {Keyword 2} • {Keyword 3}
+Include a compact legend with icons for Action, Reaction, Time, and Key Object.
+Main Character / Subject
+Create one consistent main character or primary subject that appears in every panel. Maintain the same appearance, clothing/design, colors, props, environment, and visual identity throughout. Show a clear emotional journey from beginning to end.
+Storyboard
+Create exactly 8 panels, each representing 1.25 seconds.
+Each panel must include:
+Panel number & title
+Camera angle
+Main action
+Key visual details
+Emotion/reaction
+Time hint (if useful)
+Very short English dialogue only when essential
+Story Flow
+1. Opener: Establish the setting, character, mood, and key object.
+2. Setup: Introduce the goal, challenge, or important object.
+3. First Action: The character begins the main action.
+4. Turning Point: The strongest cinematic moment where everything changes.
+5. Progress: Show clear advancement toward the goal.
+6. Unique Shot: Use an overhead, POV, low-angle, high-angle, side, reflection, or macro shot.
+7. Final Action: The final decisive step before completion.
+8. Reveal: Display the successful outcome with a satisfying emotional ending.
+Requirements
+Total runtime: 10 seconds.
+Use exactly 8 visually distinct panels.
+Maintain complete visual consistency across all panels.
+Make the story understandable with minimal text.
+Prioritize visual storytelling over written descriptions.
+Use cinematic composition and professional presentation.
+Automatically adapt visuals, props, colors, and environments to any topic.
+Educational topics should feel friendly, engaging, and easy to understand.
+Avoid unsafe, violent, graphic, shocking, hateful, sexual, or prohibited content.
+Final Output: A polished, presentation-ready storyboard infographic poster containing all 8 panels in one cohesive premium design at 1:1.414, with no additional text outside the poster.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
