@@ -279,6 +279,70 @@ Prompt:
 "Minimalist advertisement visual, pure white background with soft gray geometric accents, single elegant modern Shopify store mockup floating in the center with clean product grid, refined navigation and conversion-focused layout, modern typography with large bold high-tech geometric sans-serif headline “Shopify Stores That Sell”, smaller refined medium-weight text below reading “Website & eCommerce Design”, muted charcoal and soft green accents, soft diffused lighting, ultra-clean composition, premium eCommerce aesthetic. 2:3 aspect ratio"
 
 -------------------------------------------------
+
+MASTER PROMPT — PRODUCT INFOGRAPHIC GENERATOR
+
+PRODUCT: [PRODUCT NAME]
+
+Create a premium, photorealistic commercial product infographic for [PRODUCT NAME] in a portrait 1:1.414 aspect ratio. The final image must look like a professionally designed high-end product brochure/catalogue page, combining realistic product photography, technical product visualization, lifestyle scenes, feature callouts, comparison graphics, specifications and marketing copy.
+
+First identify the product category, intended users, realistic functions, important features, materials, controls, accessories and major selling points of [PRODUCT NAME]. Automatically adapt every section to the product. Never use irrelevant features or generic information. Do not fabricate exact technical specifications unless confidently known.
+
+LAYOUT — create one continuous vertical infographic with these sections:
+
+1. HERO LIFESTYLE SECTION
+Show [PRODUCT NAME] prominently in a realistic, premium environment appropriate to its use. Add a strong headline, short benefit-focused tagline, product/model name and polished commercial photography. Use realistic lighting, reflections, shadows and depth.
+
+2. PRODUCT HERO + CALLOUTS
+Show a large isolated studio-quality render of [PRODUCT NAME]. Add thin professional leader lines pointing to important physical components, controls, materials and design elements. Label each with concise, accurate descriptions.
+
+3. KEY FEATURES
+Create 4–6 product-specific feature blocks. Each contains a clean icon, short title and one concise benefit statement. Prioritize performance, convenience, durability, safety, efficiency, comfort, capacity or reliability depending on the product.
+
+4. WHY CHOOSE IT?
+Create a clean comparison section: [PRODUCT NAME] VS STANDARD ALTERNATIVE. Compare 5–7 meaningful criteria using checkmarks and subtle crosses. Keep comparisons realistic, fair and relevant.
+
+5. DETAILED FEATURE PANELS
+Create 3–4 photographic or technically accurate close-up panels showing the most important aspects of the product, such as construction, materials, controls, internal mechanism, capacity, performance, ergonomics, connectivity, cleaning or accessories. Number each panel and add short educational descriptions.
+
+6. CONTROLS / FUNCTIONALITY
+If the product has buttons, controls, settings, modes, ports or a digital interface, show a detailed close-up and clearly explain the important controls. If it has no controls, replace this section with its most important functional feature.
+
+7. PERFORMANCE / RESULTS
+Show [PRODUCT NAME] being used for its intended purpose and delivering a realistic result. Add a visual before/after, process/result or standard/product comparison when appropriate.
+
+8. LIFESTYLE SECTION
+Show a premium realistic lifestyle scene with [PRODUCT NAME] naturally integrated into its intended environment. Communicate quality, convenience, reliability and everyday usefulness.
+
+9. WHAT'S IN THE BOX
+Display the likely included product, accessories and essential components neatly arranged on a clean background with labels. Do not invent unusual accessories.
+
+10. SPECIFICATIONS
+Create a compact technical specification panel containing only relevant information such as product type, capacity, power, performance, dimensions, materials, weight, operating range, connectivity, functions and included accessories. Use exact values only when known.
+
+11. PREMIUM FOOTER
+Finish with the product name, a short brand-style slogan, quality/reliability statement and minimal professional icons. Include warranty information only when appropriate.
+
+VISUAL STYLE:
+Premium commercial advertising, photorealistic product photography, realistic 3D renders, sophisticated editorial infographic design, clean grid system, strong visual hierarchy, modern typography, elegant icons, thin technical callout lines, realistic materials, natural shadows, controlled reflections, professional studio lighting and high-end catalogue quality.
+
+Use white, off-white, charcoal and product-appropriate brand colors. Keep the design visually consistent throughout. Use a balanced mixture of lifestyle photography, isolated product renders, technical close-ups and infographic elements.
+
+TYPOGRAPHY:
+Use bold modern sans-serif typography for technology, appliances and consumer products. Use refined serif/sans-serif combinations for luxury or fashion products when appropriate. Keep headlines prominent, descriptions concise and all text highly legible. No gibberish, distorted lettering, random characters or misspelled labels.
+
+PRODUCT CONSISTENCY:
+The exact same [PRODUCT NAME] must appear consistently in every panel. Maintain identical shape, proportions, colors, materials, controls, buttons, logos and physical details throughout the entire infographic.
+
+IMPORTANT:
+Do not create a generic template. Analyze [PRODUCT NAME] and intelligently customize the imagery, copy, comparisons, feature panels, specifications, lifestyle environment and accessories specifically for that product. Do not copy another company's exact advertising layout, packaging or copyrighted promotional design.
+
+FINAL OUTPUT:
+One complete portrait infographic at 1:1.414 aspect ratio, full-bleed, highly detailed, photorealistic, professionally typeset, visually rich but clean, educational and persuasive, suitable for premium product marketing and product education.
+
+A professional head-and-shoulders portrait of a man, with features perfectly identical to the reference image. His face and neck are seamlessly carved into a majestic canyon wall, blending human tissue with layered, stratified red rock textures. He has a neatly trimmed beard and well-groomed hair formed from eroded stone ridges and fine canyon sediment. The lighting matches a dramatic golden hour, casting deep shadows across the rocky crevices of his skin. The background is a vast canyon landscape under a sunset sky, maintaining a warm palette of terracotta, deep orange, and crimson. 9:16 aspect ratio.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
