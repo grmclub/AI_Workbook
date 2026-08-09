@@ -73,6 +73,33 @@ Originally built for presentations, Gamma can also create sleek, scrollable webs
 https://gamma.app
 
 -------------------------------------------------
+🚨 BREAKING: CLAUDE CAN NOW BUILD AN ULTRA-PREMIUM WEBSITE IN 30 MINUTES.
+Here are 8 prompts to build yours.
+
+1. 3D Website Concept & Creative Direction
+"Act as a Creative Director at a top digital agency. I'm building a 3D animated website for [your business/brand]. My audience is [your target audience] and the core goal is [sales/portfolio/launch]. Define the overall creative concept, visual mood, and one signature 3D experience that makes this site unforgettable."
+
+2. Visual Identity & Mood System
+"Act as an Art Director. Based on my brand [your brand name] in [your industry], define a complete visual mood system: color palette with hex codes, typography pairing, lighting mood (warm/cool/dramatic), and 3 reference websites that capture the feeling I should aim for. Every choice should support a cinematic, agency-grade aesthetic."
+
+3. Sitemap & Narrative Scroll Flow
+"Act as an Information Architect for immersive websites. Design a scroll-driven narrative flow for my site about [your product/service], mapping each scroll section to a story beat (hook, problem, solution, proof, CTA) and noting where 3D transitions should occur between sections to guide the visitor emotionally."
+
+4. 3D Hero Scene Design
+"Act as a Creative Technologist specializing in WebGL. Design an immersive 3D hero scene for my [your business type] website using Three.js or Spline, including lighting setup, camera angle, and one interactive element like cursor-reactive rotation or scroll-driven zoom, optimized for smooth 60fps on modern browsers."
+
+5. Scroll-Driven Animation Choreography
+"Act as a Motion Designer. Choreograph a full-page scroll-driven animation sequence for my [your website topic] site where 3D elements transform and transition as the user scrolls. Specify exact trigger points, easing curves, and storytelling logic behind each movement so the scroll feels cinematic, not gimmicky."
+
+6. GSAP Page Transitions & Micro-Interactions
+"Act as a Senior Frontend Animator. Design a GSAP-powered transition system for my [your brand] website with seamless page enter/exit animations, magnetic hover effects, split-text character reveals, and smooth link animations. Specify exact duration, easing values, and sequencing for agency-level polish."
+
+7. 3D Asset Optimization & Performance
+"Act as a WebGL Performance Engineer. My [your website type] site uses custom 3D models and scroll-driven animations. Explain how to compress GLTF/GLB models, implement lazy loading, and optimize GPU rendering to keep load time under 3 seconds and PageSpeed above 85 on mobile."
+
+8. Premium Loading & Launch Polish
+"Act as a Web Performance Architect. Design a cinematic preloader animation for my [your brand] 3D website that masks asset loading time, plus a final QA checklist covering animation smoothness, responsive 3D behavior, and cross-browser testing before launch."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
