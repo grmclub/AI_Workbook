@@ -107,8 +107,44 @@ Summarize:
 - The 3 most important papers or sources to read first.
 Keep it clear, concise, and evidence-based.»
 
-
 -------------------------------------------------
+## How to Study Anything With NotebookLM
+
+Step 1: Setup & Priming
+​➔ Upload Everything at Once
+Load all your course materials, textbooks, slide decks, and transcripts into a single notebook so NotebookLM can connect relationships across sources.
+​➔ Listen Before Reading
+Generate a short Audio Overview and listen to it before opening the text.
+​➔ Why It Works
+Hearing main concepts first builds a mental framework (schema). When you read the text later, details slot into an existing structure rather than arriving as disconnected facts.
+
+Step 2: Visual & Structural Mapping
+​➔ Build Video Overviews & Mind Maps
+Generate visual overviews and mind maps to see how topics and subtopics connect.
+​➔ Fact-Check Visual Summaries
+Review generated infographics against your source text. Catching errors forces active engagement and deepens memory.
+​➔ Why It Works
+Struggling to learn is usually an organization problem, not a memory problem. Mapping out the hierarchy gives every detail a clear place to sit.
+
+Step 3: Deep Interrogation
+​➔ Study on the Go
+Listen to Deep Dive audio overviews during low-friction activities like walking or commuting to engage your brain's relaxed-mode processing.
+​➔ Interactive Q&A (Ask "Why?")
+Use interactive audio mode to steer the conversation. Continually ask "Why did this happen?" and "Why does this follow?" to force logical explanations.
+​➔ Use Study Guide Mode
+Generate short-answer quizzes and glossaries. Active recall through short answers requires pulling information from scratch rather than simple multiple-choice recognition.
+​➔ Why It Works
+Rereading material creates a false sense of familiarity. Interrogating the concepts proves whether you actually understand the underlying reasoning.
+
+Step 4: Active Retrieval & Testing
+​➔ Spaced Repetition Flashcards
+Generate flashcards and review them over several days right before you naturally forget the information.
+​➔ Cross-Source Quizzes
+Run comprehensive quizzes across all uploaded sources. This forces your brain to identify which concept applies to an unknown question, replicating real-world exams and meetings.
+​➔ The Feynman Slide Test
+Generate a slide deck and present it aloud to an empty room. The exact moment you stumble reveals a critical knowledge gap.
+​➔ Why It Works
+Pulling information out of your head is the single most effective way to lock it into long-term memory.
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
