@@ -273,6 +273,11 @@ Final Output: A polished, presentation-ready storyboard infographic poster conta
 
 
 -------------------------------------------------
+##Use GPT Image 2.0 to create this minimalist advertisement image.
+
+Prompt:
+"Minimalist advertisement visual, pure white background with soft gray geometric accents, single elegant modern Shopify store mockup floating in the center with clean product grid, refined navigation and conversion-focused layout, modern typography with large bold high-tech geometric sans-serif headline “Shopify Stores That Sell”, smaller refined medium-weight text below reading “Website & eCommerce Design”, muted charcoal and soft green accents, soft diffused lighting, ultra-clean composition, premium eCommerce aesthetic. 2:3 aspect ratio"
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
