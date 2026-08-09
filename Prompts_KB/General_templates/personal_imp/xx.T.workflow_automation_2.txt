@@ -118,6 +118,46 @@ Prompt:
 “Design my personal AI operating system. Include reusable prompts, workflows, weekly reviews, productivity systems, and a plan for continuous improvement.”
 
 -------------------------------------------------
+##These prompts give you a teacher, course, quiz, project, and coach in one.
+
+1. THE "EXPLAIN LIKE I'M 5" + "EXPLAIN LIKE I'M AN EXPERT" PROMPT
+`Act as a world-class teacher. Explain [TOPIC] to me in 3 levels:
+Like I'm 5 years old
+Like I'm a beginner
+Like I'm an expert preparing for an exam.
+Then give me 3 analogies to lock it in my brain.`
+Why it works: You understand the foundation AND the details in 5 minutes.
+
+2. THE "PERSONAL COURSE CREATOR" PROMPT
+`You are my $997 course instructor for [SKILL]. Create a 30-day learning plan for me.
+I have [X hours/day] and [my current skill level].
+Break it into Week 1, Week 2, Week 3, Week 4 with daily 20-min tasks.`
+Why it works: No more random YouTube videos. You get a roadmap.
+
+3. THE "BLIND SPOT DETECTOR" PROMPT
+`I’m learning [TOPIC]. What are the top 5 mistakes beginners make that keep them stuck?
+For each mistake, tell me how to avoid it and give me 1 practice drill.`
+Why it works: Experts get paid to tell you what NOT to do.
+
+4. THE "ACTIVE RECALL TESTER" PROMPT
+`Quiz me on [TOPIC]. Start with 5 easy questions, then 5 hard ones.
+After each answer, tell me if I’m right, explain why, and adjust the next question based on what I got wrong.`
+Why it works: Courses make you watch. This makes you REMEMBER.
+
+5. THE "REAL-WORLD PROJECT" PROMPT
+`Give me 3 real projects I can build using [SKILL] in the next 7 days.
+For each project: list steps, tools needed, and how it proves I’ve learned it.
+Pick the best one and give me a day-by-day breakdown.`
+Why it works: You don’t learn to swim by watching. You build.
+
+6. THE "ACCOUNTABILITY COACH" PROMPT
+`Act as my coach for learning [SKILL]. Every day at [TIME] ask me:
+"What did you learn yesterday, what will you do today, what’s blocking you?"
+If I miss 2 days, give me a tough pep talk and simplify the task.`
+Why it works: Courses don’t follow up. This does.
+
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
