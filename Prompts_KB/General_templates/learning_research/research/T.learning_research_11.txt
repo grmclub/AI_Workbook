@@ -1,0 +1,116 @@
+
+
+-------------------------------------------------
+🚨 BREAKING: Claude can now handle hours of deep research while you focus on what actually matters.
+Here are 10 powerful research prompts that will save you hours every single week. 👇
+Fast Research Publication Hub
+
+1. Deep Topic Researcher
+Prompt:
+«Act as a senior research analyst. Help me understand [topic] in 20 minutes.
+Include:
+- A 2-sentence explanation of the core concept.
+- The 3 most important ideas to learn first.
+- The biggest misconception.
+- What experts know that beginners don't.
+- One real-world example.
+- The single best resource to study next and why.
+Keep it clear, practical, and concise.»
+
+2. Competitor Intelligence Report
+Prompt:
+«Act as a competitive intelligence analyst. My business is [describe] and my top competitors are [list].
+Create a report covering:
+- Their positioning and pricing.
+- Key strengths and weaknesses.
+- Opportunities they're missing.
+- The biggest market gap I can exploit to stand out and win.
+Keep the analysis practical, strategic, and actionable.»
+
+3. Industry Trend Scanner
+Prompt:
+«Act as an industry analyst. My field is [describe].
+Tell me:
+- The 3 biggest trends shaping the industry.
+- What's overhyped vs. what truly matters.
+- The biggest emerging opportunity.
+- What I should build or learn before everyone else.
+Keep it practical, forward-looking, and actionable.»
+
+5. Source Synthesizer
+Prompt:
+«Here are my research sources on [topic]: [paste or describe].
+Synthesize them into:
+- The 3 most important insights.
+- Where the sources agree.
+- Where they conflict.
+- The key question none of them fully answer.
+Keep it clear, concise, and actionable.»
+
+6. Expert Knowledge Extractor
+Prompt:
+«Act as the world's leading expert on [topic]. I have 10 minutes to become credible in this subject.
+Give me:
+- 5 key concepts to understand.
+- 3 influential names and why they matter.
+- 2 important statistics.
+- 1 nuanced insight that separates experts from beginners.
+Keep it practical, concise, and accurate.»
+
+7. Research to Decision Converter
+Prompt:
+«I've researched [topic] and need to decide [describe]. Here are my notes: [paste].
+Tell me:
+- What the research actually recommends.
+- What's still missing before making a confident decision.
+- The single most important factor to prioritize.
+Keep it clear, practical, and objective.»
+
+4. Contrarian Research Lens
+Prompt:
+«Act as a contrarian researcher. The mainstream view on [topic] is [describe].
+Find:
+- The strongest evidence against it.
+- What credible experts disagree on.
+- The assumption everyone makes that could be wrong.
+Keep the analysis balanced, evidence-based, and concise.»
+
+8. Market Research Brief
+Prompt:
+«Act as a market research analyst. I'm entering [market] with [offer].
+Provide:
+- Market size.
+- Customer segments ranked by value.
+- Top competitors.
+- The biggest market gap.
+- A final verdict: real opportunity or overcrowded market?
+Keep it concise, data-driven, and actionable.»
+
+10. Research Summary & Action Plan
+Prompt:
+«Here is my research on [topic]: [paste notes].
+Create a 5-minute brief with:
+- Key findings in plain English.
+- What's confirmed vs. uncertain.
+- The 3 biggest implications for [my goal].
+- The first action I should take.
+Keep it concise, practical, and actionable.»
+
+9. Literature Review Builder
+Prompt:
+«Act as a PhD research assistant. Help me understand the research on [topic].
+Summarize:
+- The main findings.
+- Where researchers disagree.
+- Common research methods.
+- The biggest research gap.
+- The 3 most important papers or sources to read first.
+Keep it clear, concise, and evidence-based.»
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
