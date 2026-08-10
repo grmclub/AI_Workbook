@@ -24,25 +24,25 @@ Prompt 8 "Use these notes to write a 'what, so what, now what' slide structure. 
 7 ChatGPT prompts instead to create professional presentations in 2 minutes
 
 1. The Full Presentation Builder
-“Act as a world-class presentation creator. Create a complete, slide-by-slide presentation on the topic: [insert topic]. Include title slides, key points, examples, data, metaphors, visuals suggestions, and a closing call-to-action. Structure it like a TED-level presentation with storytelling flow.”
+"Act as a world-class presentation creator. Create a complete, slide-by-slide presentation on the topic: [insert topic]. Include title slides, key points, examples, data, metaphors, visuals suggestions, and a closing call-to-action. Structure it like a TED-level presentation with storytelling flow."
 
 2. The Deep Research Presentation
-“Create a full presentation on [insert topic] using deep research. Include real statistics, case studies, expert quotes, practical insights, and examples. Make each slide educational, engaging, and backed by credible sources. Provide references at the end.”
+"Create a full presentation on [insert topic] using deep research. Include real statistics, case studies, expert quotes, practical insights, and examples. Make each slide educational, engaging, and backed by credible sources. Provide references at the end."
 
 3. The Simplified Explanation Presentation
-“Build a presentation on [insert topic] designed for beginners. Break down complex concepts into simple explanations, analogies, and step-by-step logic. Make the content so clear that even a 10-year-old can understand the full topic.”
+"Build a presentation on [insert topic] designed for beginners. Break down complex concepts into simple explanations, analogies, and step-by-step logic. Make the content so clear that even a 10-year-old can understand the full topic."
 
 4. The Business Pitch Presentation Creator
-“Create a complete investor-style pitch deck for my business idea: [insert idea]. Include problem, solution, market size, product features, business model, competitive advantage, financial projections, team slide, and closing pitch script.”
+"Create a complete investor-style pitch deck for my business idea: [insert idea]. Include problem, solution, market size, product features, business model, competitive advantage, financial projections, team slide, and closing pitch script."
 
 5. The Storytelling Master Presentation
-“Create a complete presentation on [insert topic] using storytelling structure: Hook → Conflict → Journey → Insight → Transformation → Call to Action. Make slides emotional, memorable, and persuasive. Add speaker notes with delivery guidance.”
+"Create a complete presentation on [insert topic] using storytelling structure: Hook → Conflict → Journey → Insight → Transformation → Call to Action. Make slides emotional, memorable, and persuasive. Add speaker notes with delivery guidance."
 
 6. The Corporate Presentation
-“Create a formal, corporate-style presentation on [insert topic]. Include professional tone, structured bullet points, charts, graphs, SWOT analysis, trends, forecasts, and data-backed recommendations. Make it suitable for boardrooms.”
+"Create a formal, corporate-style presentation on [insert topic]. Include professional tone, structured bullet points, charts, graphs, SWOT analysis, trends, forecasts, and data-backed recommendations. Make it suitable for boardrooms."
 
 7. The Complete Presentation + Script Combo
-“Create a fully ready presentation on [insert topic], AND write a complete spoken script I can read while presenting. Ensure the script matches the tone, pacing, and emotional flow of the slides. Include pauses, emphasis, storytelling cues, and delivery instructions.”
+"Create a fully ready presentation on [insert topic], AND write a complete spoken script I can read while presenting. Ensure the script matches the tone, pacing, and emotional flow of the slides. Include pauses, emphasis, storytelling cues, and delivery instructions."
 
 
 
@@ -209,6 +209,33 @@ Analyze every claim in this presentation. Identify weak arguments, unsupported s
 Create speaker notes for every slide. Improve my opening, transitions, pacing, emphasis, body language, and closing. Then identify likely objections from [AUDIENCE] and write persuasive responses to each.
 
 -------------------------------------------------
+## 7 ChatGPT prompts for creating impressive presentations in minutes 👇👇
+
+1. Build the Entire Presentation
+"You are an expert presentation strategist and visual storyteller. Develop a complete presentation about [TOPIC] from beginning to end. Create a logical slide-by-slide structure with a compelling opening, clear explanations, supporting examples, relevant data points, visual ideas, transitions between sections, and a strong conclusion. Make the narrative engaging and easy to follow, with each slide serving a clear purpose."
+Reply
+Dennis Obi Ekunie
+ ·
+Great 👍
+
+2. Turn Research Into a Presentation
+"Research and structure a comprehensive presentation about [TOPIC]. Identify the most important findings, current statistics, credible evidence, notable case studies, expert perspectives, and real-world examples. Organize the information into concise, engaging slides rather than long blocks of text. Clearly indicate sources and provide a reference section at the end. Prioritize accuracy and distinguish verified facts from interpretation."
+
+3. Explain a Complex Topic Simply
+"Create a beginner-friendly presentation explaining [TOPIC] from the ground up. Assume the audience has little or no prior knowledge. Break difficult ideas into simple steps, use relatable analogies and everyday examples, and introduce technical terms only when necessary. Arrange the slides so that each concept naturally builds on the previous one. The final presentation should make a complicated subject feel simple and understandable."
+
+4. Create a Business Pitch Deck
+"Develop a compelling pitch deck for this business idea: [BUSINESS IDEA]. Build the presentation around the information investors need to understand the opportunity: the problem, target customer, proposed solution, product or service, market opportunity, business model, competitive landscape, differentiation, traction, go-to-market strategy, financial outlook, team, funding requirement, and final investment case. Keep each slide concise and persuasive, and add brief speaker notes explaining how to present the key points."
+
+5. Turn Information Into a Story
+"Transform [TOPIC] into a presentation-driven story rather than a collection of facts. Start with an attention-grabbing opening, establish the central challenge or question, develop the narrative through discoveries and insights, reveal the key transformation, and finish with a memorable takeaway or action. For every slide, suggest the ideal message, visual direction, and transition to the next slide. Include speaker notes that make the presentation feel natural, emotional, and memorable."
+
+6. Create an Executive-Level Presentation
+"Prepare a polished executive presentation about [TOPIC] for a professional audience. Use a concise, evidence-based structure with clear headlines, key metrics, relevant charts or tables, industry trends, risks, opportunities, forecasts, and actionable recommendations. Where appropriate, include frameworks such as SWOT or competitor analysis. Avoid unnecessary text and make every slide communicate one clear business insight. End with a concise summary and recommended next steps."
+
+7. Generate the Slides + Presentation Script
+"Create a complete presentation about [TOPIC] and write the corresponding speaking script for every slide. For each slide, provide: **1) slide title, 2) on-slide content, 3) recommended visual, 4) speaker notes, and 5) delivery cues. Make the spoken script flow naturally from one slide to the next without simply repeating the text on screen. Add suggestions for pauses, emphasis, transitions, audience engagement, and timing so I can confidently deliver the presentation from start to finish."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
