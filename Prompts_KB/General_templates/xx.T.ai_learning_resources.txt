@@ -30,6 +30,40 @@ Meaning, intent, grounding, and how dialogue systems are built.
 How neural nets power translation, Q&A, summarization, and sentiment.
 → https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D
 
+
+-------------------------------------------------------------
+## 6 FR££ Resources Will Help You Understand AI From Scratch
+
+1. The Basics of Generative AI
+A straightforward introduction to the essential ideas behind generative AI, without unnecessary technical language.
+Link: https://sites.google.com/g.harvard.edu/hksslate-genai/the-basics-of-generative-ai
+
+2. Teaching with AI in the Classroom
+Practical guidance for educators looking to integrate AI into classroom instruction and training.
+Link: https://www.hbsp.harvard.edu/educator-training/teaching-with-ai
+
+3. Generative AI in Teaching & Learning
+Discover ways AI can reshape teaching, learning, and the way educators approach their work.
+Playlist: https://www.youtube.com/watch?v=CkHi5jpRbz8&list=PL_kRkvxqHjkqjnhAdSdejAkyQf1TnPkNM
+
+4. Beyond Chatbots: System Prompts & RAG
+Explore the technologies and methods that turn AI from a simple chatbot into a more capable application.
+Link: https://generative-ai-course.hks.harvard.edu/2-using-genai/class-5
+The Science and Implications of Generative AI - Class 5
+
+5.Prompt Engineering
+Learn practical techniques for writing prompts that consistently produce better responses from AI models.
+Link: https://generative-ai-course.hks.harvard.edu/2-using-genai/class-4
+The Science and Implications of Generative AI - Class 4
+
+6. Introduction to Generative AI
+Understand the core concepts behind generative AI and how these systems produce results.
+Link: https://generative-ai-course.hks.harvard.edu/1-how-genai-works/class-1
+The Science and Implications of Generative AI - Class 1
+
+
+
+
 -------------------------------------------------------------
 RIP PAID COURSES!
 ​Here are 10 FREE websites help you to master AI in 2026💨
