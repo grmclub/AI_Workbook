@@ -355,10 +355,68 @@ Final Readiness Assessment
 Conclude with a polished, concise, and academically rigorous research problem statement suitable for inclusion in a research proposal, thesis, dissertation, or journal article.
 Use only the uploaded sources. Do not invent research gaps, statistics, populations, variables, contexts, consequences, citations, findings, or claims that are not supported by the uploaded materials."
 
+-------------------------------------------------
+Copy this and use it right now. It takes 30 minutes if you’re focused.
+THE 30-MINUTE RESEARCH CONSTRUCTION WORKSHEET
 
+Go from PROBLEM → METHODOLOGY in 7 Steps
+STEP 1: PROBLEM - 3 minutes
+What is actually wrong or not working in the real world?
+Prompt: In [my field/community/country], people are struggling with __ because __
+Your answer:
+____________*____
+STEP 2: RESEARCH GAP - 5 minutes
+What have other researchers NOT done yet about this problem?
+Prompt: I searched Google Scholar and found studies on __, but they missed __
+Gap 1: __________*____
+Gap 2: __________*____
+STEP 3: RESEARCH TOPIC - 3 minutes
+Turn your gap into a working title.
+Formula: The Effect of [Variable A] on [Variable B] among in
+Your topic:
+____________*____
+STEP 4: RESEARCH AIM - 2 minutes
+What is the general goal of your study? Start with "To..."
+Prompt: The aim of this study is to __
+Your aim:
+____________*____
+STEP 5: RESEARCH OBJECTIVES - 5 minutes
+Break your aim into 3-4 specific things you will DO.
+Formula: To examine... / To assess... / To determine...
+1. To _______________
+2. To _______________
+3. To _______________
+4. To _______________[Population][Location]
+STEP 6: RESEARCH QUESTIONS - 5 minutes
+Turn each objective into a question.
+1. ____________*___
+2. ____________*___
+3. ____________*___
+4. ____________*___
 
 
 -------------------------------------------------
--------------------------------------------------
+## 4 Claude prompts for PhD-level research in minutes 👇👇
+
+1. MULTI-PERSPECTIVE RESEARCH SCAN
+Prompt:
+“I need to research [YOUR TOPIC]. Analyze it through five expert perspectives: the Practitioner, who understands what works in real-world practice; the Academic, who focuses on peer-reviewed evidence; the Skeptic, who challenges the mainstream view; the Economist, who examines incentives, money, and who benefits; and the Historian, who identifies relevant historical patterns and parallels. For each perspective, give me its core position, strongest supporting evidence, and one insight the other perspectives would likely miss.”
+What it does: Forces Claude to examine your topic from five different angles instead of giving you one mainstream perspective.
+
+2. CONTRADICTION & BLIND-SPOT MAP
+Prompt:
+“Using the five perspectives above, map the key disagreements and blind spots. Identify where they directly contradict each other and the specific claims in conflict; determine which perspective has the strongest and weakest evidence and why; identify the single question that could resolve the biggest contradiction; highlight what all perspectives agree on; and identify the important topic or question that none of them addressed.”
+What it does: Shows you where experts disagree, where the evidence is strongest, and what everyone may be missing.
+
+3. RESEARCH SYNTHESIS
+Prompt:
+“Synthesize the five perspectives and contradiction map into a concise research briefing. Start with a one-paragraph explanation for a CEO who has 60 seconds and needs nuance, then give me the five most important findings ranked by reliability, showing which perspectives support or challenge each one. Identify one non-obvious connection between the findings, explain what someone in [YOUR ROLE] should specifically do differently based on the evidence, and end with the one question whose answer could fundamentally change our understanding of the topic.”
+What it does: Turns scattered perspectives and disagreements into a clear briefing, actionable insight, and deeper understanding.
+
+4. RESEARCH PEER REVIEW
+Prompt:
+“Now critically peer-review your research briefing. Score each of the five key findings from 1–10 for reliability and explain each score; identify the weakest claim and what evidence would be needed to verify it; check whether any perspective was overrepresented; identify a missing sixth perspective that could change the conclusions; and grade the briefing as if reviewed by a rigorous Stanford professor, explaining the most important corrections needed. Clearly flag uncertainty, unsupported assumptions, source bias, and claims requiring further verification.”
+What it does: Stress-tests the research, exposes weak claims and bias, and tells you what still needs verification.
+
 -------------------------------------------------
 -------------------------------------------------
