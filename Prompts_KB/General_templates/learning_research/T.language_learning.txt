@@ -154,6 +154,65 @@ Review
 The goal isn't just to memorize words. It's to understand, speak, write, and think in your target language. AI helps make that process more personalized, interactive, and consistent.
 
 -------------------------------------------------
+## ChatGPT can teach you a new language with these 7 prompts 👇
+
+1. START FROM ZERO
+Build your personal language tutor.
+PROMPT:
+Act as my private [LANGUAGE] tutor.
+Assume I'm a complete beginner.
+Teach me one lesson at a time using simple explanations, real-life examples, pronunciation tips, and short exercises.
+Don't move to the next lesson until I understand the current one.
+
+2. BUILD A 90-DAY PLAN
+Turn your goal into a daily roadmap.
+PROMPT:
+Create a 90-day learning plan for [LANGUAGE].
+I can study [TIME] per day.
+Give me daily lessons covering vocabulary, grammar, pronunciation, listening, speaking, reading, and writing.
+Set weekly goals and give me a simple way to track my progress.
+
+3. PRACTICE REAL CONVERSATIONS
+Turn ChatGPT into your conversation partner.
+PROMPT:
+Be my [LANGUAGE] conversation partner.
+Start with beginner conversations and increase the difficulty as I improve.
+When I make a mistake:
+• Correct me
+• Explain why
+• Show me a more natural way to say it
+• Continue the conversation
+
+5. MAKE GRAMMAR SIMPLE
+Learn one rule at a time.
+PROMPT:
+Teach me [LANGUAGE] grammar from beginner to advanced.
+Explain one rule at a time in simple language with practical examples.
+Compare it with my native language when helpful.
+After each lesson, test me and explain any mistakes.
+
+6. LEARN THROUGH REAL LIFE
+Focus on using the language, not just memorizing rules.
+PROMPT:
+Help me learn [LANGUAGE] through listening, speaking, repetition, stories, and everyday situations.
+Prioritize practical use before introducing complex grammar.
+Keep each lesson interactive and gradually increase the difficulty as I improve.
+
+7. CREATE YOUR OWN IMMERSION MODE
+Practice without getting on a plane.
+PROMPT:
+Create an immersive [LANGUAGE] practice experience for me.
+Simulate real-life situations, ask me questions, and introduce new vocabulary naturally.
+Gradually use less of my native language as I improve.
+Adjust the difficulty based on my progress.
+
+4. LEARN WORDS YOU'LL ACTUALLY USE
+Build practical vocabulary first.
+PROMPT:
+Help me build useful [LANGUAGE] vocabulary.
+Organize lessons around real-life situations like travel, food, shopping, work, greetings, and everyday conversations.
+For each lesson, give me example sentences, memory techniques, and a short quiz.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
