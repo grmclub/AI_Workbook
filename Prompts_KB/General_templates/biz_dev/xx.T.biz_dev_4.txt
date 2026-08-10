@@ -46,8 +46,98 @@ Start with the week's spine.
 6/ The Repurpose Move
 "Act as a content recycler. Take my best performing post, which I will paste, and spin it into three new posts: a different angle, a deeper dive, and a shorter punchier version. Keep the core insight but make each stand alone. Tell me how many days to space them. Paste to ChatGPT: [post]."
 
-
 -------------------------------------------------
+## How to make money with AI in the top 8 niches 👇🏻
+
+1 👨 MEN AND EGO
+💸 WHAT THEY SPEND ON
+Grooming, sneakers, gym gear, betting apps, gaming setups, dating apps, watches, car mods
+🛠 TOOLS
+ChatGPT + ElevenLabs + CapCut AI
+✅ 4 STEP STARTER PLAN
+1. Pick a micro niche inside "men's lifestyle" (example: budget grooming, gym fits, dating app tips)
+2. Use ChatGPT to write 5 short video scripts, 30 to 45 seconds each
+3. Turn the script into voiceover with ElevenLabs, then edit with CapCut AI's auto captions and pacing
+4. Post one per day for 5 days on the same page, then check which one performs best and make 3 more like it
+🤖 AI PROMPT TO USE
+"Act as a men's lifestyle content writer. Write 5 short, punchy video scripts (30 to 45 seconds each) about [budget grooming tips / gym outfit ideas / dating app profile mistakes] for men aged 20 to 35. Make the hook line attention grabbing in the first 3 seconds, keep language simple, and end each script with a soft call to action to follow the page."
+
+2 👩 WOMEN AND BEAUTY
+💸 WHAT THEY SPEND ON
+Skincare, makeup, cosmetic treatments, hair and nails, wellness retreats, anti-aging products
+🛠 TOOLS
+ChatGPT + Midjourney + Canva AI
+✅ 4 STEP STARTER PLAN
+1. Choose a lane: skincare routines, makeup dupes, or anti-aging tips
+2. Use Midjourney to generate clean before and after style visuals or aesthetic backgrounds
+3. Use ChatGPT to write short captions explaining the routine or product benefit in plain language
+4. Design the final post in Canva AI, add your affiliate link in bio, and post 3 times this week
+🤖 AI PROMPT TO USE
+"Act as a beauty content strategist. Write 5 Instagram or Facebook captions about [skincare routine for oily skin / drugstore makeup dupes / anti-aging night routine]. Keep tone warm and relatable, use simple words, add one clear benefit per caption, and end with a soft nudge to check the link in bio."
+
+3 💸 PEOPLE CHASING RICHES
+💸 WHAT THEY SPEND ON
+Crypto courses, MLM kits, seminars, stock tips, business coaching, passive income promises
+🛠 TOOLS
+ChatGPT + Gumroad + Canva AI
+✅ 4 STEP STARTER PLAN
+1. Pick ONE skill you already know a little about (AI prompts, budgeting, side hustle basics)
+2. Use ChatGPT to help you outline a short digital product, 10 to 20 pages or a template pack
+3. Design the cover and layout in Canva AI, keep it clean and simple
+4. Upload to Gumroad, price it low to start, and share it inside relevant Facebook groups
+🤖 AI PROMPT TO USE
+"Act as a digital product coach. Help me outline a simple ebook or template pack about [AI prompts for beginners / budgeting for freelancers / starting a side hustle with no money]. Give me a table of contents with 6 to 8 short sections, written in plain simple English for total beginners."
+
+6 👶 KIDS AND EDUCATION
+💸 WHAT THEY SPEND ON
+School fees, tutoring, music and art classes, STEM toys, coding camps, robotics programs
+🛠 TOOLS
+ChatGPT + Pictory + ElevenLabs
+✅ 4 STEP STARTER PLAN
+1. Pick an age group and subject (example: phonics for age 5, basic coding for age 10)
+2. Use ChatGPT to write a short, simple lesson script with a fun hook
+3. Turn it into a video using Pictory, and voice it with ElevenLabs
+4. Upload to YouTube with a clear, searchable title parents would type
+🤖 AI PROMPT TO USE
+"Act as a children's education scriptwriter. Write a fun, simple 2 minute lesson script about [phonics for 5 year olds / basic addition / how computers work for kids]. Use short sentences, a friendly tone, and include one small quiz question at the end to keep kids engaged."
+
+7 🐾 PET LOVERS
+💸 WHAT THEY SPEND ON
+Premium pet food, vet visits, grooming, pet insurance, pet hotels, training classes
+🛠 TOOLS
+ChatGPT + Midjourney + WordPress
+✅ 4 STEP STARTER PLAN
+1. Choose a pet niche (dog training, cat health, pet nutrition)
+2. Use ChatGPT to write short, helpful blog posts or captions answering common pet owner questions
+3. Use Midjourney to create cute, scroll stopping visuals if you don't want to use real photos
+4. Publish on a simple WordPress blog or social page and add pet product affiliate links
+🤖 AI PROMPT TO USE
+"Act as a pet care blogger. Write a short, helpful post (200 words) about [common puppy training mistakes / signs your cat is stressed / best affordable dog food ingredients]. Keep the tone caring and simple, and end with a gentle product recommendation."
+
+8 🧠 MENTAL HEALTH
+💸 WHAT THEY SPEND ON
+Therapy apps, mindfulness programs, sleep trackers, burnout retreats, journaling and breathwork courses
+🛠 TOOLS
+ChatGPT + Notion AI + Circle
+✅ 4 STEP STARTER PLAN
+1. Pick a focus area: stress relief, better sleep, or daily journaling
+2. Use ChatGPT to write 30 days of short affirmations or journal prompts
+3. Organize them into a clean digital product using Notion AI
+4. Host a small paid community on Circle where people get new prompts weekly
+🤖 AI PROMPT TO USE
+"Act as a mindfulness coach. Write 30 short daily journal prompts about [reducing stress / improving sleep / building confidence]. Keep each prompt to one sentence, simple and reflective, suitable for beginners with no journaling experience."
+
+💡 PRO TIPS (SAVE THIS SLIDE)
+✅ You do not need to be techy, you need to be consistent
+✅ Pick ONE row, do not try all eight at once
+✅ Stack three things together: content, affiliate links, and one digital product
+✅ Let AI handle the boring 80 percent so you can focus on the creative 20 percent
+✅ Choose the niche you already understand, it saves you months of guessing
+✅ Post at the same time every day so people know when to expect you
+✅ Study your first ten comments closely, that is free market research
+✅ Do not skip the AI prompts, they are the shortcut, not the whole plan
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
