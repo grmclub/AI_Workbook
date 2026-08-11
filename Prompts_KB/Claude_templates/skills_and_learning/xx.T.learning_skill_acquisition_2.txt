@@ -74,6 +74,64 @@ Evaluate whether I am genuinely ready to use [SKILL] confidently in real-world s
 
 
 -------------------------------------------------
+##These 10 folders have the best skills that help your Claude build better, faster, and skip the AI slop
+Use them to become an AI expert in 2026👇
+
+1/ Frontend Design
+Claude's designs usually look like AI made them. Purple gradients, boring layouts, the same font everywhere. This folder fixes that by picking a real style first, so your websites and apps actually look good.
+→ https://github.com/anthropics/skills/tree/main/skills/frontend-design
+skills/skills/frontend-design at main · anthropics/skills
+GITHUB.COM
+skills/skills/frontend-design at main · anthropics/skills
+skills/skills/frontend-design at main · anthropics/skills
+
+2/ Algorithmic Art
+Turns your idea into interactive art you can play with. Move sliders, change colors, and save the versions you like. Great for NFTs or anyone who wants something unique without design skills.
+→ https://github.com/anthropics/skills/tree/main/skills/algorithmic-art
+
+
+3/ Systematic Debugging
+Fixing bugs is usually a guessing game. This folder gives Claude a clear process that finds the problem in 15-30 minutes instead of hours.
+→ https://github.com/obra/superpowers
+GitHub - obra/superpowers: An agentic skills framework & software development methodology that works.
+GITHUB.COM
+GitHub - obra/superpowers: An agentic skills framework & software development methodology that works.
+GitHub - obra/superpowers: An agentic skills framework & software development methodology that works.
+
+4/ Canvas Design
+Makes posters, covers, and images as PNG or PDF. It thinks through the design first, so you get real art instead of random AI pictures.
+→ https://github.com/anthropics/skills/tree/main/skills/canvas
+
+
+5/ Theme Factory
+10 ready-made looks (colors and fonts) you can add to anything with one command. Slides, docs, reports, all of it. Or make your own. Saves you tons of time.
+→ https://github.com/anthropics/skills/tree/main/skills/theme-factory
+
+6/ Web Artifacts Builder
+For building real apps inside Claude, not just simple demos. It sets up everything you need so your app actually works with pages and features.
+→ https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder
+
+
+7/ Superpowers
+A full toolkit for coding with Claude, with 20+ skills for planning, testing, and reviewing code. Claude can work on its own for hours without messing up. The biggest game-changer on this list.
+→ https://github.com/obra/superpowers
+
+8/ File Search
+Finds anything in your code fast. When you're lost in a big project, this saves you hours of scrolling and searching.
+→ https://github.com/massgen/massgen
+
+
+9/ Context Optimization
+Stops Claude from slowing down or forgetting things after a long chat. If Claude starts lagging after a while, this fixes it.
+→ https://github.com/muratcankoylan/agent-skills-for-context-engineering
+
+
+10/ Skill Creator
+Teaches Claude to build its own skills. Want Claude to always follow your rules? Start here. This is how you build a Claude that fits exactly how you work.
+→ https://github.com/anthropics/skills/tree/main/skills/skill-creator
+
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
