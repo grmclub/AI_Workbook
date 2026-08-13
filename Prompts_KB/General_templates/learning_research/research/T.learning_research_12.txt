@@ -34,6 +34,39 @@ For content in languages other than English, also check the captions carefully. 
 
 
 -------------------------------------------------
+🚨 You can turn your documents, research, and notes into educational videos with NotebookLM.
+Here’s a practical workflow for creating short video explainers from your own sources: 🧵👇
+
+1. Add your sources
+Create a new notebook in NotebookLM and add the material you want to use:
+• PDFs, ebooks, or research papers.
+• Notes, scripts, or text files.
+• Web sources using NotebookLM’s search feature when you don’t have a document ready.
+
+2. Set the language first
+Open the settings and choose your preferred output language before generating the video.
+This helps ensure the narration and generated content match the language you want.
+
+3. Pick your video format
+Open Video Overview and choose the format that fits your content.
+• Short Video — ideal for Shorts, Reels, and TikTok.
+• Cinematic Explainer — better suited for longer, landscape-style educational content.
+
+4. Use these custom prompt templates
+Choose Custom Topic instead of relying entirely on the default options. Give NotebookLM a clear idea of what you want emphasized.
+▪︎ Educational explainer:
+Prompt > "Explain the main ideas from this source in a fast, engaging video. Use simple visual animations and motion graphics to make [TOPIC] easy to understand. Prioritize clarity and visually simplify complex information.”
+▪︎ Story-driven:
+Prompt > “Turn this source into a compelling narrative about [TOPIC]. Start with a strong hook, build curiosity throughout the video, and use cinematic visuals to highlight the most important discoveries and conclusions.”
+▪︎ Step-by-step tutorial:
+Prompt > "Create a practical instructional video based on this source. Present [PROCESS] as clear visual steps and focus on helping the viewer achieve [OUTCOME]. Keep each stage simple and easy to follow.”
+
+5. Review before publishing
+Always preview the generated video.
+AI-generated visuals can sometimes misrepresent diagrams, data, or technical details, so verify the important sections before publishing.
+For content in languages other than English, also check the captions carefully. If they need correction, you can add accurate subtitles afterward using a video editor.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
