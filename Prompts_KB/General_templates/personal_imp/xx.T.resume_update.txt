@@ -50,7 +50,38 @@
 8. 30-Day Dream Job Action Plan Prompt
 "Act as an elite career coach and accountability partner. Create a detailed 30-day plan to maximize my chances of landing my dream position. Break down each day into actions covering resume improvement, LinkedIn optimization, skill development, networking, applications, interview preparation, portfolio building, and follow-ups. Include measurable goals, tracking systems, and weekly reviews.
 
+-------------------------------------------------
+🚨 BREAKING: Claude can now help you build a LinkedIn profile that gets you noticed
+Here are 7 prompts to land more interviews: 👇
+
+1. The 30 Day Hired Blueprint
+Act as a career strategist. I want to pivot or level up from [current role] to [target role] within 30 days. Design my complete blueprint: my resume repositioning, my LinkedIn authority plan, and my exact outreach to hiring managers.
+
+2. The Resume Complete Rewriter
+Act as a resume specialist. I want my resume for [target role] rewritten to pass both ATS systems and human reviewers. Rewrite this completely: my summary and my top 3 bullet points using quantified achievements.
+
+3. The LinkedIn Headline Complete Writer
+Act as a LinkedIn positioning specialist. I want a headline for [target role] that gets recruiter attention instead of just listing my job title. Write this completely: 3 variations to test.
+
+7. The Complete Job Search Master Map
+Act as a complete career transition mapping specialist. Map my full 30 days: my applications, my networking, my interview prep, and my honest realistic outcome by day 30.
+
+4. The Cold Outreach Complete Scripter
+Act as a job search outreach specialist. I want to message a hiring manager at [company] about [target role] directly. Script this completely: under 100 words, one clear ask.
+
+5. The Interview Story Complete Builder
+Act as an interview coaching specialist. I want a STAR-format story about [my achievement] ready for behavioral interview questions. Build this completely.
+
+6. The Salary Negotiation Complete Scripter
+Act as a salary negotiation specialist. I have an offer of $[amount] for [role] and want to negotiate higher. Script this completely: my counter-offer email and talking points.
 
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
+
+
+
