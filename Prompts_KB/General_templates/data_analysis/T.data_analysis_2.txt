@@ -1,0 +1,31 @@
+
+-------------------------------------------------
+## BREAKING: Claude can now build a premium dashboard UI in 30 minutes. 
+Here are 7 powerful prompts to build like a pro: 👇🏻
+
+1. The 30 Minute Dashboard Blueprint
+Act as a premium UI design specialist. I want a dashboard for [my app or product] looking like a $30,000 SaaS build, done in 30 minutes. Design my complete blueprint: my layout, my data visualization style, and my exact build sequence. 
+
+2. The Animated Chart Complete Coder
+Act as a data visualization specialist. I want animated charts for [my metric] on my dashboard. Code this completely: production-ready, smooth entrance animation, and responsive sizing. 
+
+3. The Dark-Mode Complete Dashboard
+Act as a UI design specialist. I want my dashboard for [my product] in a premium dark mode with proper contrast. Design this completely: the exact color palette and component styling. 
+
+4. The Sidebar Navigation Complete Builder
+Act as a UX specialist. I want a collapsible sidebar navigation for [my dashboard] that feels smooth, not clunky. Build this completely: the exact interaction and code.
+
+5. The Empty State Complete Designer
+Act as a UX specialist. I want my dashboard's empty states for [feature] to feel intentional, not broken. Design this completely: the exact copy and visual treatment.
+
+6. The Loading Skeleton Complete Coder
+Act as a perceived-performance specialist. I want skeleton loading states for [my dashboard] instead of a blank screen or spinner. Code this completely.
+
+7. The Complete Premium Dashboard Master Map
+Act as a complete dashboard build mapping specialist. Map my full 30-minute build: my layout, my charts, my dark mode, and my honest realistic outcome for how premium it looks. 
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
