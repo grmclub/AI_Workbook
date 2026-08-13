@@ -342,8 +342,31 @@ Prompt:
 Prompt:
 “Study my previous client communications: [insert/attach messages]. Learn how I handle updates, follow-ups, feedback, revisions, and difficult conversations. Write responses for [client situation] that match my natural style while maintaining clarity, professionalism, and trust.”
 
-
 -------------------------------------------------
+🚨 BREAKING: NotebookLM just became your personal AI tutor.
+Feed it your notes, PDFs & research and use these 7 prompts to master almost any skill faster. 👇🔥
+
+1️/ AI Skill Mentor
+«Act as my personal mentor for [SKILL], using only my uploaded sources. Turn them into a structured 30-day learning path, taking me from beginner to advanced. Explain complex concepts simply, connect insights across documents, prioritize practical skills and real-world application, and highlight common mistakes, best practices, and key takeaways.
+
+2️/ 30-Day Learning Roadmap
+«Analyze my uploaded materials and build a 30-day roadmap to master [SKILL]. For each day, provide: a clear learning goal, key concepts, practical exercises, relevant sections from my sources, common mistakes to avoid, and a progress checkpoint. Make the plan progressive, practical, and focused on measurable results.
+
+3️/ Learn by Doing
+«Turn my uploaded resources into a hands-on learning course for [SKILL]. For each lesson, create practical exercises, mini-projects, and real-world challenges based strictly on my sources. Review my answers, identify mistakes, explain what went wrong, and suggest specific improvements. Don’t move to the next lesson until I’m ready.
+
+4️/ Real-World Application
+«Use my uploaded sources to show how professionals apply [SKILL] in real-world situations. Extract the most useful workflows, case studies, and examples, then explain when to use each approach, why it works, how to apply it, and what mistakes to avoid. Focus on actionable insights I can use immediately.
+
+5️/ Think Like an Expert
+«Analyze my uploaded materials and teach me to think like an expert in [SKILL]. Extract the most important mental models, frameworks, principles, and decision-making strategies. Contrast beginner vs. expert thinking, explain the reasoning behind expert decisions, and create practical exercises that train me to apply these patterns in real situations.
+
+6️/ Skill Assessment
+«Assess my current level in [SKILL] using my uploaded sources. Start with diagnostic questions and practical tasks to evaluate my understanding and application. Identify my strengths, weaknesses, knowledge gaps, and blind spots, then create a personalized improvement plan with clear priorities and measurable milestones.
+
+7️/ Real-World Readiness
+«Test whether I’m truly ready to use [SKILL] professionally. Create realistic scenarios, challenges, and projects based strictly on my uploaded materials. Evaluate my performance against professional-level standards, identify any remaining gaps, and build a focused action plan to close them. Keep testing and refining my skills until I demonstrate consistent real-world proficiency.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
