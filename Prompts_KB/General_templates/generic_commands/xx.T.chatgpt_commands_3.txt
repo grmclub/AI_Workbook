@@ -1,0 +1,31 @@
+
+-------------------------------------------------
+##Chatgpt commands
+
+01.	/human	   -  Natural, human-like writing
+02.	/eli5	   - Explain it like I’m 5
+03.	/brief	   - Give me the shortest possible answer
+04.	/expert	   - Give specialist-level answers
+05.	/research  - Go into deep research mode
+06.	/critic	   - Find weaknesses, flaws, and gaps
+07.	/strategy  - Think in long-term planning mode
+08.	/ceo	   - Analyze from a founder/CEO mindset
+09.	/promptengineer	- Improve and optimize any prompt
+10.	/copywriter	    - Write persuasive marketing copy
+11.	/seo	        - Create search-optimized content
+12.	/viral	        - Generate high-engagement content ideas
+
+13. /teacher    - Teach the topic step by step
+14. /analyst    - Break down data, patterns, and insights
+15. /brainstorm - Generate creative ideas from multiple angles
+16. /editor     - Rewrite and polish text for clarity
+17. /summarize  - Turn long content into key takeaways
+18. /stepbystep - Break complex tasks into simple steps
+19. /factcheck  - Identify claims that need verification
+20. /examples   - Explain the idea using practical examples
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
