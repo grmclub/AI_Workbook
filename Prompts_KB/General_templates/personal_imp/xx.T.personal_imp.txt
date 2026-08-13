@@ -316,6 +316,33 @@ Make it your "personal professor" in [the desired field]. Tell it you want to le
 Let it be your 'Mind Clarity Expert'. It helps you get rid of the noise, the things you feel are important but aren't, and random decisions. It designs a simple system for you that lets you focus on what gets you real results and achieve your goals!
 
 -------------------------------------------------
+🚨 STOP Asking AI to “Make It Sound Like Me.” Use this 10-prompt system to build an AI that thinks, writes, communicates & works more like you 👇
+
+1. Build Your Personal Identity System
+Prompt:
+“Analyze the writing samples I’ve attached or pasted: [insert/attach samples]. Extract my values, beliefs, mindset, tone, vocabulary, communication patterns, and way of thinking. Turn these insights into a clear identity system my AI should consistently follow across [content types or situations].”
+
+2. Replicate Your Natural Communication Style
+Prompt:
+“Study the communication examples I’ve attached: [insert/attach examples]. Identify my vocabulary, sentence structure, pacing, tone, emotional style, and level of directness. Create practical rules for reproducing my communication style across [audiences, platforms, or situations].”
+
+3. Turn Your Personality Into a Content System
+Prompt:
+“Use my brand information and examples: [insert/attach materials]. Learn my personality, expertise, audience, values, and positioning. Create [content types] for [platforms] about [topics] that reflect my perspective and voice while delivering clear value.”
+
+4. Turn Your AI Into a Natural Sales Assistant
+Prompt:
+“Analyze my previous sales conversations: [insert/attach conversations]. Learn how I communicate with prospects, handle objections, and guide conversations toward action. Write responses for [lead type or scenario] that match my style and feel natural, relevant, and non-pushy.”
+
+5. Make Your AI Think Like You
+Prompt:
+“Analyze my goals, values, priorities, and previous decisions from the information I’ve provided: [insert/attach details]. Build a decision-making framework that reflects how I evaluate opportunities, risks, and trade-offs. Apply it to [business area or decision] and recommend the highest-leverage option.”
+
+6. Let Your AI Handle Client Communication
+Prompt:
+“Study my previous client communications: [insert/attach messages]. Learn how I handle updates, follow-ups, feedback, revisions, and difficult conversations. Write responses for [client situation] that match my natural style while maintaining clarity, professionalism, and trust.”
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
