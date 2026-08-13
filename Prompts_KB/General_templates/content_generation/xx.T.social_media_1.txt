@@ -1,0 +1,32 @@
+
+-------------------------------------------------
+🚨 CHATGPT JUST MADE CONTENT PLANNING EASY.
+7 prompts to fill your week with scroll-stopping posts.
+
+1/ The Weekly Content System
+"Act as a social media strategist. Build me a full week of posts for my niche. Analyze my audience, my goal for the week, and my content pillars. For each day, give a hook, a post body, a format, and a call to engage. Vary the style across the week so nothing feels repeated. Mark the post most likely to travel. My niche: [insert]."
+
+2/ The Hook Rotation
+"Act as a viral copywriter. Write me seven opening lines for the week, one per day, each a different style: a bold claim, a useful list, a personal story, a contrarian take, a question, a stat, and a mistake. For each, name the post it fits. Keep them under fifteen words. My topic: [insert]."
+
+3/ The Story Post
+"Act as a storytelling coach. Turn one lesson from my niche into a short personal post. Structure it with a hook, a moment of tension, the turn, and the takeaway the reader can use. Keep it honest and specific, not generic. End on a line that invites replies. My lesson: [insert]."
+
+4/ The Carousel Outline
+"Act as a carousel designer. Take one idea and outline a ten slide carousel. Give me the cover hook, the point of each slide in one line, and a final slide that drives a save or a follow. Tell me which slide carries the most weight and why. My idea: [insert]."
+
+5/ The Reply Magnet
+"Act as an engagement strategist. Write me five short posts designed to start conversations, not just get likes. Each should ask something specific my audience has an opinion on. Explain the psychology behind why people will answer each one. Rank them by expected replies. My niche and audience: [insert]."
+
+6/ The Repurpose Move
+"Act as a content recycler. Take my best performing post, which I will paste, and spin it into three new posts: a different angle, a deeper dive, and a shorter punchier version. Keep the core insight but make each stand alone. Tell me how many days to space them. Paste to ChatGPT: [post]."
+
+
+7/ The Week Review
+"Act as a growth analyst. At the end of the week I will paste my post stats. Show me the pattern behind my top two posts and my worst one, across hook, topic, and format. Give me three specific changes for next week and one format to test. Keep it to three takeaways. Paste to ChatGPT: [stats]."
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
