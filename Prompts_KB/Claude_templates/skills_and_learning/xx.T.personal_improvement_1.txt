@@ -1,0 +1,210 @@
+
+-------------------------------------------------
+## Claude Can Help You Organize Almost Every Part Of Your Life!
+
+1. BUILD YOUR LIFE OS
+Prompt:
+"Act as my Life OS planner.
+My main areas:
+[work/business]
+[health]
+[money]
+[relationships]
+[learning]
+[personal goals]
+My biggest challenges:
+[overwhelm / procrastination / lack of routine / etc.]
+Build me a simple system that includes:
+• Life categories
+• Daily routine
+• Weekly planning
+• Task tracker
+• Habit tracker
+• Sunday review
+• Simple dashboard
+Format it so I can easily copy it into Notion or my notes app. Keep everything practical and beginner-friendly."
+
+2. ORGANIZE YOUR BRAIN DUMP
+Prompt:
+"Act as my productivity assistant.
+Here’s everything on my mind:
+[paste brain dump]
+Organize it into:
+• Urgent
+• Important
+• Schedule
+• Delegate
+• Delete
+• Personal
+• Work
+• Ideas
+Then create:
+• Priority list
+• 3-day action plan
+• 7-day action plan
+• Quick wins under 15 minutes
+• The 3 things I should focus on first"
+
+3. BUILD A DAILY ROUTINE
+Prompt:
+"Create a realistic daily routine around my actual schedule.
+Wake-up: [time]
+Bedtime: [time]
+Work/school: [hours]
+Peak energy: [morning / afternoon / night]
+Main goals: [goals]
+Include:
+• Morning routine
+• Focus blocks
+• Breaks
+• Exercise
+• Meals
+• Evening reset
+• Night routine
+Also create a minimum version for days when I'm busy."
+
+4. PLAN YOUR ENTIRE WEEK
+Prompt:
+"Act as my weekly planning assistant.
+Deadlines: [deadlines]
+Meetings/events: [events]
+Goals: [goals]
+Unfinished tasks: [tasks]
+Available time: [time]
+Create a realistic weekly plan with:
+• Top 3 priorities
+• Day-by-day schedule
+• Focus blocks
+• Personal time
+• Buffer time
+• Backup plan
+• Sunday review checklist
+Don't overload my schedule. Leave room for unexpected tasks."
+
+5. TURN GOALS INTO ACTION
+Prompt:
+"Help me turn these goals into an actionable plan:
+Goal 1: [goal]
+Goal 2: [goal]
+Goal 3: [goal]
+For each one, create:
+• 90-day target
+• Monthly milestones
+• Weekly actions
+• Daily habits
+• Likely obstacles
+• Progress tracker
+Then rank the goals based on the priorities and constraints I provide, explain your reasoning, and give me one practical action I can take today."
+
+6. BUILD BETTER HABITS
+Prompt:
+"Act as my habit-planning assistant.
+Habits I want to build:
+[habits]
+Habits I want to reduce:
+[habits]
+My normal routine:
+[routine]
+Create a practical habit system with:
+• Best time for each habit
+• 2-minute starter version
+• Habit stacking ideas
+• Reminder ideas
+• Missed-day recovery plan
+• Ways to reduce common triggers
+• Simple 30-day tracker
+Make the plan realistic enough to maintain."
+
+7. ORGANIZE YOUR DIGITAL LIFE
+Prompt:
+"Help me create a simple digital organization system.
+Email: [tool]
+Calendar: [tool]
+Notes: [tool]
+Tasks: [tool]
+Storage: [tool]
+Social media: [platforms]
+Create a system for organizing:
+• Email
+• Calendar
+• Notes
+• Tasks
+• Files
+• Password-related records
+• Content
+• Documents
+Include a folder structure, naming conventions, and weekly cleanup checklist.
+Don't ask me to paste passwords, recovery codes, or other sensitive credentials."
+
+8. THINK THROUGH A BIG DECISION
+Prompt:
+"Help me evaluate this decision:
+Decision: [decision]
+Options:
+[option]
+[option]
+[option]
+My priorities:
+[time / cost / family / career / health / etc.]
+Compare each option based on:
+• Pros
+• Cons
+• Risks
+• Costs
+• Short-term impact
+• Long-term impact
+• Opportunity cost
+• Fit with my priorities
+Then identify which option appears to best match the priorities I've given you and explain why.
+Flag any assumptions or missing information that could change the conclusion."
+
+9. BUILD A PRODUCTIVITY SYSTEM
+Prompt:
+"Help me build a productivity system around how I actually work.
+Work style:
+[morning / night / flexible]
+Biggest distractions:
+[distractions]
+Responsibilities:
+[responsibilities]
+Main productivity problem:
+[problem]
+Create a simple system for:
+• Capturing tasks
+• Prioritizing
+• Daily planning
+• Focused work
+• Managing distractions
+• Unfinished tasks
+• Weekly reviews
+• Sustainable workload
+Keep it simple enough that I can actually use it every day."
+
+10. CREATE A 30-DAY RESET
+Prompt:
+"Act as a planning and accountability assistant.
+Here's my current situation:
+[describe your situation]
+Areas I want to improve:
+Health: [details]
+Finances: [details]
+Career: [details]
+Relationships: [details]
+Personal development: [details]
+First, ask me 10 useful questions to understand my situation.
+After I answer, create a realistic 30-day plan with:
+• Top priorities
+• Weekly goals
+• Daily actions
+• Habits to build
+• Behaviors to reduce
+• Weekly check-ins
+• Simple progress tracker
+For medical, financial, legal, or other high-stakes issues, identify where professional guidance may be appropriate."
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
