@@ -85,6 +85,37 @@ My niche is [NICHE]. Give me 100 content ideas broken into:
 10 mistakes, 10 myths, 10 tips, 10 tools, 10 case studies, 10 questions, 10 stories, 10 predictions, 10 how-tos, 10 resources.
 Make them specific, not generic.
 -------------------------------------------------
+##10 power user prompts
+
+1. "Before answering, ask me the key questions you need to fully understand my goal."
+→ Better input.
+
+2. "Think through this with me step-by-step. Challenge assumptions and refine my thinking: [problem]."
+→ Think better.
+
+3. "Act as a strategist. Based on this situation: [context], what are the smartest next steps?"
+→ Clear direction.
+
+4. "Be brutally honest. What am I getting wrong or underestimating: [idea]?"
+→ Truth > comfort.
+
+5. "For this goal: [goal], what actions will create most of the results?"
+→ Focus wins.
+
+6. "Turn this into a simple, repeatable system I can follow: [process]."
+→ Execution unlocked.
+
+7. "What opportunities am I overlooking in this situation: [context]?"
+→ Hidden leverage.
+
+8. "Break this into options, trade-offs, and give a clear recommendation: [decision]."
+→ Decide smarter.
+
+9. "Improve this by making it clearer, sharper, and more effective: [output]."
+→ Good → great.
+
+10. "If I could only take one action to move this forward, what would it be: [goal]?"
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
