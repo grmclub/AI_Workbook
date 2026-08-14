@@ -1,0 +1,55 @@
+
+-------------------------------------------------
+
+##Thinking helpers 1
+1. THE "BRAIN DUMP TO STRATEGY" PROMPT
+I’m overwhelmed. Here’s everything in my head about [GOAL/PROJECT]: [BRAIN DUMP].
+Act as my CEO coach. Organize this mess into a 90-day plan. Tell me what to do first, what to delete, and what 20% will get 80% of results.
+
+2. THE "WRITE LIKE ME" PROMPT
+Analyze my writing style from these 3 examples: [PASTE 3 POSTS/EMAILS].
+Now write a [post/email/thread] about [TOPIC] in my exact voice. Match my tone, sentence length, and word choices.
+
+3. THE "DEBATE ME" PROMPT
+I believe [YOUR OPINION].
+Take the opposite side and destroy my argument. Find every flaw and blind spot.
+Then help me strengthen my original argument so it’s bulletproof.
+
+4. THE "UPLOAD + EXECUTIVE SUMMARY" PROMPT
+Read this document: [UPLOAD PDF/BOOK/TRANSCRIPT].
+Give me: 1. 3-sentence summary 2. 10 key takeaways 3. 5 action steps 4. The 1 quote I should remember.
+Make it so I never have to read the full thing.
+
+5. THE "PRODUCT LAUNCH IN 1 HOUR" PROMPT
+I want to sell [PRODUCT/IDEA] to [AUDIENCE].
+Create: Product name, offer, pricing, sales page copy, 5 tweets, and 3 email pitches.
+Everything should be ready to copy-paste today.
+
+6. THE "CODE WITHOUT CODING" PROMPT
+I don’t know how to code. Build me a [website/app/tool] that does [FUNCTION].
+Give me the full code + step-by-step instructions to deploy it for free. Explain it like I’m 12.
+
+7. THE "HARD CONVERSATION SIMULATOR" PROMPT
+I need to tell [PERSON] that [DIFFICULT MESSAGE].
+Roleplay as them. Be difficult, emotional, and ask tough questions.
+Then coach me on the exact words to say so it goes well.
+
+8. THE "RESEARCHER ON STEROIDS" PROMPT
+Research [TOPIC] like a PhD student.
+Find: Key data, expert opinions, controversies, and what nobody is talking about.
+Cite sources and give me a 1-page brief I can use to sound smart.
+
+9. THE "TURN PAIN INTO CONTENT" PROMPT
+I’m struggling with [PROBLEM].
+Turn this struggle into 20 viral content ideas. Mix of stories, lessons, frameworks, and hot takes.
+Write 3 of them in full so I can post today.
+
+10. THE "SECOND BRAIN" PROMPT
+From now on, you are my second brain.
+Remember this about me: [GOALS, SKILLS, VALUES, TARGET AUDIENCE].
+Whenever I ask for help, use this context and challenge me to think bigger.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
