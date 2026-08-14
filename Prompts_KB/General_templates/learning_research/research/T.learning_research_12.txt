@@ -68,6 +68,163 @@ For content in languages other than English, also check the captions carefully. 
 
 
 -------------------------------------------------
+## The most useful AI skill is building AI workflows that research, analyze, create, verify, and improve. 8 prompts to practice it 👇
+
+1. TURN ONE GOAL INTO AN AI WORKFLOW
+Prompt:
+"Act as my AI Systems Architect.
+My goal: [GOAL]
+Current situation: [CURRENT STATE]
+Desired result: [RESULT]
+Tools available: [TOOLS]
+Resources: [RESOURCES]
+Obstacles: [OBSTACLES]
+Timeframe: [TIME]
+Constraints: [CONSTRAINTS]
+Success metrics: [METRICS]
+Design an AI-assisted workflow from input to final result.
+Show what should be researched, analyzed, created, verified, executed, monitored, and improved.
+Explain each stage and remove unnecessary steps."
+
+
+2. FIND WHAT AI CAN AUTOMATE
+Prompt:
+"Audit this workflow: [WORKFLOW].
+My role: [ROLE]
+Frequency: [FREQUENCY]
+Time spent: [TIME]
+Current tools: [TOOLS]
+Recurring problems: [PROBLEMS]
+Quality requirements: [STANDARD]
+Human-only tasks: [TASKS]
+Classify each step as:
+• Automate
+• AI-assisted
+• Delegate
+• Keep human-controlled
+Rank the opportunities by potential time saved, difficulty, reliability, risk, and impact.
+Then design the highest-value automation."
+
+
+3. BUILD AN AI RESEARCH WORKFLOW
+Prompt:
+"Design a research workflow for [GOAL].
+Topic: [TOPIC]
+Audience: [AUDIENCE]
+Region: [REGION]
+Preferred sources: [SOURCES]
+Freshness: [TIMEFRAME]
+Depth: [DEPTH]
+Final output: [FORMAT]
+Create a process that:
+• Identifies key questions
+• Searches relevant sources
+• Compares evidence
+• Finds contradictions
+• Separates facts from assumptions
+• Flags uncertainty
+• Produces actionable conclusions
+Add verification checkpoints before the final answer."
+
+
+4. BUILD A SMARTER CONTENT WORKFLOW
+Prompt:
+"Build an AI-assisted content workflow for [GOAL].
+Niche: [NICHE]
+Audience: [AUDIENCE]
+Platform: [PLATFORM]
+Voice: [VOICE]
+Expertise: [EXPERTISE]
+Formats: [FORMATS]
+Frequency: [FREQUENCY]
+Examples I like: [EXAMPLES]
+Create a process to research ideas, find original angles, draft content, verify important claims, improve hooks, adapt it to the platform, and review performance data.
+Prioritize useful, original content over generic viral formulas."
+
+
+5. GIVE AI A DECISION FRAMEWORK
+Prompt:
+"Help me evaluate this decision: [DECISION].
+Objective: [OBJECTIVE]
+Options: [OPTIONS]
+Priorities: [PRIORITIES]
+Evidence: [EVIDENCE]
+Constraints: [CONSTRAINTS]
+Risk tolerance: [RISK LEVEL]
+Deadline: [DEADLINE]
+Identify missing information, compare the options, quantify trade-offs where possible, and stress-test the strongest choices.
+Clearly separate:
+• Facts
+• Assumptions
+• Predictions
+• Recommendations
+Explain the reasoning behind the final recommendation."
+
+
+6. MAKE AI CHECK ITS WORK
+Prompt:
+"Create a quality-control process for [WORKFLOW].
+Expected output: [OUTPUT]
+Quality standard: [STANDARD]
+Common failures: [FAILURES]
+Critical information: [DATA]
+Unacceptable errors: [ERRORS]
+Human approval points: [APPROVALS]
+Before delivery, check:
+• Accuracy
+• Completeness
+• Consistency
+• Relevance
+• Source quality
+• Formatting
+• Compliance
+If a check fails, identify the problem, revise the output, and verify it again."
+
+
+7. DESIGN A MULTI-AGENT WORKFLOW
+Prompt:
+"Design a multi-agent workflow for [GOAL].
+Desired result: [OUTCOME]
+Available tools: [TOOLS]
+Data sources: [SOURCES]
+Constraints: [CONSTRAINTS]
+Quality standard: [STANDARD]
+Create only the specialized roles needed for research, analysis, writing, coding, verification, or execution.
+For each agent, define:
+• Input
+• Task
+• Output
+• Tools
+• Decision authority
+• Human approval
+Explain how agents exchange information, resolve conflicts, and verify the final result.
+Minimize unnecessary handoffs."
+
+
+8. BUILD A CONTINUOUS IMPROVEMENT LOOP
+Prompt:
+"Create an improvement loop for [AI WORKFLOW].
+Current performance: [CURRENT]
+Target: [TARGET]
+Metrics: [METRICS]
+Feedback data: [FEEDBACK]
+Common failures: [FAILURES]
+Review frequency: [FREQUENCY]
+Design a process that:
+• Records outcomes
+• Analyzes failures
+• Finds patterns
+• Tests changes
+• Compares results
+• Keeps changes only when evidence supports them
+Include safeguards against degradation, unnecessary complexity, overfitting, and silent failures."
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
 
