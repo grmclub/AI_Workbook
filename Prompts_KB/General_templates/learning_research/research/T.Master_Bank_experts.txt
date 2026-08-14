@@ -1,0 +1,115 @@
+
+-------------------------------------------------
+🧠 7 TYPES OF EXPERTS. 70 PROMPTS.
+collected exact questions philosophers, scientists, therapists, strategists, founders, speakers and economists use to think clearly.
+
+Use any of these straight into ChatGPT, Claude, or Gemini. Your AI stops agreeing with everything you say and actually starts helping you think.
+
+🧠 THE PHILOSOPHER’S QUESTIONS
+(For when your thinking isn’t clear yet)
+    1. "If you’re not sure, say so. Don’t make things up." [Honesty Check] Why it works: Stops AI from confidently guessing wrong answers.
+    2. "Point out the blind spot in my thinking." [Blind Spot Finder] Why it works: Forces AI to challenge you, not just agree with you.
+    3. "List every assumption you made before answering." [Assumption Reveal] Why it works: Shows the hidden guesses hiding behind the answer.
+    4. "Argue against your own answer as hard as you can." [Devil’s Advocate] Why it works: Weak answers fall apart fast under real pressure.
+    5. "Rebuild this answer from the most basic truth up. Skip the shortcuts." [First Principles] Why it works: Gets you real logic instead of recycled opinions.
+    6. "Break this problem down until it can’t be broken down any further." [Smallest Piece] Why it works: Complex problems get simple once split small enough.
+    7. "If everyone did this, what would happen?" [Scale Test] Why it works: Reveals if your idea only works for you, not everyone.
+    8. "Separate what is fact from what is your interpretation." [Fact vs Opinion] Why it works: Stops you confusing a guess with the truth.
+    9. "Give me three opposite views that could all be true." [Multiple Angles] Why it works: Shows you’re not seeing the full picture yet.
+    10. "In the worst case, how could this advice hurt me?" [Worst Case Filter] Why it works: Catches bad advice before you act on it.
+
+🔬 THE SCIENTIST’S QUESTIONS
+(For testing an idea, not just believing it)
+    1. "Try to prove this wrong first, not right." [Break It First] Why it works: Weak ideas collapse fast when tested this way.
+    2. "Does this claim make a prediction we can actually test?" [Testable Claim] Why it works: Filters real insight from empty talk.
+    3. "Change only one thing at a time. Keep everything else the same." [One Variable Rule] Why it works: Shows you what actually caused the result.
+    4. "Don’t jump to cause and effect without a control to compare it to." [No Control, No Claim] Why it works: Stops false cause and effect conclusions.
+    5. "Is this correlation or causation? Split them clearly." [Correlation Check] Why it works: Two things happening together doesn’t mean one caused the other.
+    6. "If two explanations both work, pick the simpler one." [Simplicity Wins] Why it works: Simple explanations are usually more accurate.
+    7. "Would this result still show up with a different set of data?" [Repeat Test] Why it works: A one time result can be luck, not truth.
+    8. "Is the sample big enough? Check for hidden bias." [Sample Check] Why it works: Small or biased samples give misleading answers.
+    9. "Tell me your confidence level before you tell me the answer." [Confidence First] Why it works: Shows how sure the answer really is.
+    10. "What new evidence would make you change your answer?" [Stay Open] Why it works: Good thinking updates itself with new facts.
+
+💛 THE THERAPIST’S QUESTIONS
+(For when emotion is clouding the facts)
+    1. "List the facts and my interpretation of the facts separately." [Fact vs Feeling] Why it works: Untangles emotion from what’s actually true.
+    2. "What automatic negative thoughts are hiding in what I just said?" [Catch the Pattern] Why it works: Spots thinking traps you don’t notice on your own.
+    3. "Help me find the distortion in this thought." [Distortion Finder] Why it works: Names the exact thinking error, not just "you’re overthinking."
+    4. "Describe my situation like a stranger watching from outside." [Outside View] Why it works: Creates distance so you can see clearer.
+    5. "What do I actually need underneath this emotion?" [Real Need] Why it works: Emotions are signals, not the whole story.
+    6. "What is the real chance of the worst case actually happening?" [Reality Check] Why it works: Fear usually exaggerates the odds.
+    7. "If my friend had this exact problem, what would I tell them?" [Friend Test] Why it works: We’re kinder and smarter when advising others.
+    8. "What am I avoiding, and what does avoiding it give me?" [Avoidance Audit] Why it works: Avoidance often hides a short term reward.
+    9. "Is this thought a fact or just a thought?" [Thought Label] Why it works: Thoughts feel true but aren’t always true.
+    10. "Confirm how I feel first, then give me advice." [Feel Then Fix] Why it works: People hear advice better after feeling heard first.
+
+♟️ THE STRATEGIST’S QUESTIONS
+(For when you have to make a hard call)
+    1. "Clearly define what we are actually competing for here." [Define the Battle] Why it works: Half of conflicts are about the wrong thing entirely.
+    2. "Put yourself in my opponent’s shoes. How would you attack me?" [Enemy View] Why it works: You defend better once you think like them.
+    3. "What are the top 3 reactions they’ll have to this move?" [Think Ahead] Why it works: Good strategy plans several steps, not just one.
+    4. "Can my time and resources actually support this plan?" [Resource Check] Why it works: Great plans fail from lack of resources, not lack of ideas.
+    5. "Which single link, if it breaks, collapses the whole plan?" [Weak Link] Why it works: Every plan has one point that matters most.
+    6. "If I must give up one thing, what should go first?" [Priority Cut] Why it works: Forces real tradeoffs instead of trying to keep everything.
+    7. "Design a plan that lets me attack or retreat safely." [Keep Options Open] Why it works: Flexibility beats a rigid plan every time.
+    8. "How long can this advantage last, and what keeps it alive?" [Advantage Lifespan] Why it works: Advantages fade, so plan for that now.
+    9. "What is the cost of doing nothing at all?" [Cost of Inaction] Why it works: Staying still is a choice with a price too.
+    10. "What is the smallest action that creates the biggest shift?" [Small Move, Big Shift] Why it works: Leverage beats brute effort.
+
+🚀 THE FOUNDER’S QUESTIONS
+(For testing an idea before you commit to it)
+    1. "Whose problem does this actually solve, and how do they solve it now?" [Real Problem] Why it works: No real problem means no real business.
+    2. "What proof is there that people will actually pay for this?" [Willingness to Pay] Why it works: Interest is not the same as payment.
+    3. "What is the smallest version I can test first?" [Tiny Test] Why it works: Small tests save time and effort.
+    4. "What does this cost to run, and what does it bring in?" [Unit Math] Why it works: An idea only works if the math works.
+    5. "Why does this need to happen now? What changes in 3 years either way?" [Timing Check] Why it works: Timing decides winners as much as ideas do.
+    6. "If I only had half the resources, what would I cut?" [Half Budget Test] Why it works: Reveals what actually matters versus what’s just nice to have.
+    7. "Where exactly can I find my first real customers?" [First Customers] Why it works: A vague market means no customers at all.
+    8. "If demand grew 10x overnight, what breaks first?" [Breaking Point] Why it works: Growth exposes weak spots fast.
+    9. "What are the top 3 reasons this could fail?" [Risk List] Why it works: Naming risks early means you can plan around them.
+    10. "What’s the fastest way to test this within a week?" [Fast Validation] Why it works: Fast and cheap beats slow and expensive every time.
+
+🎤 THE SPEAKER’S QUESTIONS
+(For making people actually listen)
+    1. "Turn my opening into one specific scene or story." [Story Opening] Why it works: Scenes stick in memory, plain facts don’t.
+    2. "Which line deserves to be said slower, with a pause?" [Slow It Down] Why it works: Pacing makes your key line actually land.
+    3. "Turn this abstract number into something people can feel." [Make Numbers Real] Why it works: "2,000 people" hits harder as "a stadium full."
+    4. "Did I use logic, emotion, or credibility? Add whichever is missing." [Missing Piece] Why it works: Real persuasion needs all three, not just facts.
+    5. "Mark where I should pause for effect." [Pause Points] Why it works: Silence often says more than words.
+    6. "Break my long sentences into short, speakable pieces." [Speak Rhythm] Why it works: Long sentences trip up speech, short ones flow.
+    7. "Where can I turn a statement into a question for the audience?" [Ask, Don’t Just Tell] Why it works: Questions wake up a distracted audience.
+    8. "Reorganize my main points into three clear parts." [Rule of Three] Why it works: Three points stick better than five.
+    9. "Find the filler words I keep repeating." [Cut the Filler] Why it works: Cutting "um" and "so" instantly sounds sharper.
+    10. "Rewrite my ending to echo my opening line." [Full Circle Ending] Why it works: Callbacks make a speech feel complete.
+
+📊 THE ECONOMIST’S QUESTIONS
+(For seeing the cost hiding behind the decision)
+    1. "What is everyone’s incentive in this situation?" [Follow the Incentive] Why it works: People follow incentives more than intentions.
+    2. "Is the extra gain worth the extra cost of doing this again?" [Marginal Thinking] Why it works: The next unit matters more than the average one.
+    3. "This cost is already spent. Don’t let it affect the next decision." [Ignore Sunk Cost] Why it works: Money already spent shouldn’t control future choices.
+    4. "What is the second layer effect of this decision?" [Second Order Effect] Why it works: First effects are obvious, second ones surprise you.
+    5. "Did this change happen because of supply or demand? Separate them." [Supply vs Demand] Why it works: Same change, totally different cause and fix.
+    6. "Is there an unrelated third party paying the cost for this?" [Hidden Cost] Why it works: Some costs get paid by people who never agreed to it.
+    7. "What would happen if I did nothing, compared to doing this?" [Compare to Nothing] Why it works: The real cost is what you give up, not just what you spend.
+    8. "Is this a win-win or a zero-sum situation? Where’s the benefit?" [Find the Trade] Why it works: Good trades benefit both sides, not just one.
+    9. "Separate the short term and long term effects clearly." [Split the Timeline] Why it works: What looks good short term can be bad long term.
+    10. "What does the full range look like behind this average?" [Beyond the Average] Why it works: Averages hide huge gaps in the real numbers.
+
+💡 PRO TIPS
+    • Save these prompts in your notes app so they’re always ready to use
+    • Start with 2 or 3 prompts. Don’t dump all 70 into one chat at once
+    • Mix categories. Try a Scientist prompt then a Therapist prompt on the same issue
+    • Add your own details right after the prompt for sharper, more specific answers
+    • Use the Strategist and Founder sections together for big decisions
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
