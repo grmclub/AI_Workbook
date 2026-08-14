@@ -1,0 +1,13 @@
+
+https://sifuyik.substack.com/p/543-5601000-viral-video-prompts
+-------------------------------------------------
+Universal Base Prompt (Drop-in Replacement)
+This is the direct adaptation — just fill in [TOPIC]:
+
+Create a visually rich infographic about [TOPIC]. Research its core components, history/origin, key facts, and unique characteristics. Present information through annotated visuals and structured callouts, not generic sections. Style it like a bold graphic illustration: a detailed, photorealistic or hyper-detailed central visual as the focal point, supported by diagrams, callouts, and concise text elements. Use clean backgrounds and a mix of photorealism with strong graphic elements (shapes, icons, color blocking) in a layered composition. Make it dense, tactile, and professionally authored.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
