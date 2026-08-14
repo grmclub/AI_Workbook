@@ -139,6 +139,32 @@ ChatGPT + Notion AI + Circle
 
 
 -------------------------------------------------
+##7 expert prompts to find, validate, and build a side income
+
+1. FIND YOUR OPPORTUNITY
+Act as a side income strategist. Based on my skills: [list your skills], time available: [X hours/week], and budget: [$X], give me 10 side income ideas that can make $500-$2000/month in 2026. Rank them by speed to first $100 and startup cost.
+
+2. VALIDATE DEMAND FAST
+Act as a market researcher. For the idea "[your idea]", list 5 problems people are actively paying to solve in 2026. Give me 3 places to check if people are already buying solutions for this and 5 questions I can ask 10 potential customers this week.
+
+3. BUILD THE OFFER
+Act as a $10K/month freelancer. Turn "[your idea]" into 3 irresistible service/product offers. Include pricing, what’s included, who it’s for, and the result they get. Make one a "done-for-you", one "done-with-you", and one "DIY".
+
+4. GET FIRST CUSTOMERS
+Act as a growth marketer. I’m selling [your offer] to [target audience]. Give me a 14-day plan to get my first 5 paying customers with $0 ad spend. Include exact DM scripts, post templates, and where to find my first buyers online.
+
+5. AUTOMATE & SYSTEMIZE
+Act as an operations expert. For a [your side income], list the 5 most repetitive tasks I’ll do weekly. Then give me free AI tools + prompts to automate 80% of each task so I can do this in under 5 hours/week.
+
+6. SCALE TO $1K/MONTH
+Act as a business coach. I’m making $300/month with [your side income]. Give me a 30-day roadmap to scale to $1000/month. Include what to double down on, what to stop, and how to raise prices without losing customers.
+
+7. LEGAL + TAX SMART
+Act as a Kenyan business advisor. For a side income of [amount]/month from [your business type], explain in simple terms: how to register, track expenses, and avoid tax mistakes in Kenya in 2026. Give me a simple spreadsheet template to track it.
+
+Pro tip: Copy-paste each prompt and just fill the with your info. ChatGPT will do the heavy lifting.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
