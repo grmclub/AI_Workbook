@@ -57,7 +57,7 @@
     Rewrite this text for fast online reading. Use concise wording, short paragraphs, and a clear structure that highlights the most important ideas. Keep the meaning unchanged while making the content easy to understand in under 30 seconds.
     Text: [Paste your writing]
 -------------------------------------------------
-🚨 STOP Asking AI to “Fix My Writing.” Use this 10-prompt system to turn weak drafts into polished, engaging & professional content 👇
+🚨 STOP Asking AI to "Fix My Writing." Use this 10-prompt system to turn weak drafts into polished, engaging & professional content 👇
 
 1/ Turn a Rough Draft Into Strong Copy
 Prompt: Take the draft below and rebuild it into clear, confident, compelling copy. Replace vague language with specific wording, eliminate repetition, tighten weak sentences, and use active voice. Preserve the original ideas while making the writing sound polished and credible.
@@ -109,6 +109,26 @@ Draft: [Paste your writing]
 
 
 -------------------------------------------------
+## 6 prompts for better writing
+
+1. "Rewrite this in a way that is clearer, more persuasive, and more engaging without changing the core message: [text]."
+
+2. "Act as a professional editor. Critique this piece and suggest specific improvements for clarity, flow, and impact: [text]."
+
+3. "Write this in my voice. Here are examples of my writing style: [examples]. Maintain my tone, vocabulary, and sentence structure."
+
+4. "Create 10 different hooks for this topic optimized for curiosity, attention, and engagement: [topic]."
+
+5. "Analyze this content and explain where readers might lose interest, get confused, or stop reading: [content]."
+
+6. "Turn these ideas into a compelling piece with a strong opening, clear structure, and memorable conclusion: [ideas]."
+
+Most people ask AI to write.Great writers use AI to:
+• sharpen ideas
+• strengthen structure
+• improve clarity
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
