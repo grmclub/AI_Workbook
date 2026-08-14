@@ -21,11 +21,11 @@ Open Video Overview and choose the format that fits your content.
 4. Use these custom prompt templates
 Choose Custom Topic instead of relying entirely on the default options. Give NotebookLM a clear idea of what you want emphasized.
 ▪︎ Educational explainer:
-Prompt > "Explain the main ideas from this source in a fast, engaging video. Use simple visual animations and motion graphics to make [TOPIC] easy to understand. Prioritize clarity and visually simplify complex information.”
+Prompt > "Explain the main ideas from this source in a fast, engaging video. Use simple visual animations and motion graphics to make [TOPIC] easy to understand. Prioritize clarity and visually simplify complex information."
 ▪︎ Story-driven:
-Prompt > “Turn this source into a compelling narrative about [TOPIC]. Start with a strong hook, build curiosity throughout the video, and use cinematic visuals to highlight the most important discoveries and conclusions.”
+Prompt > "Turn this source into a compelling narrative about [TOPIC]. Start with a strong hook, build curiosity throughout the video, and use cinematic visuals to highlight the most important discoveries and conclusions."
 ▪︎ Step-by-step tutorial:
-Prompt > "Create a practical instructional video based on this source. Present [PROCESS] as clear visual steps and focus on helping the viewer achieve [OUTCOME]. Keep each stage simple and easy to follow.”
+Prompt > "Create a practical instructional video based on this source. Present [PROCESS] as clear visual steps and focus on helping the viewer achieve [OUTCOME]. Keep each stage simple and easy to follow."
 
 5. Review before publishing
 Always preview the generated video.
@@ -55,11 +55,11 @@ Open Video Overview and choose the format that fits your content.
 4. Use these custom prompt templates
 Choose Custom Topic instead of relying entirely on the default options. Give NotebookLM a clear idea of what you want emphasized.
 ▪︎ Educational explainer:
-Prompt > "Explain the main ideas from this source in a fast, engaging video. Use simple visual animations and motion graphics to make [TOPIC] easy to understand. Prioritize clarity and visually simplify complex information.”
+Prompt > "Explain the main ideas from this source in a fast, engaging video. Use simple visual animations and motion graphics to make [TOPIC] easy to understand. Prioritize clarity and visually simplify complex information."
 ▪︎ Story-driven:
-Prompt > “Turn this source into a compelling narrative about [TOPIC]. Start with a strong hook, build curiosity throughout the video, and use cinematic visuals to highlight the most important discoveries and conclusions.”
+Prompt > "Turn this source into a compelling narrative about [TOPIC]. Start with a strong hook, build curiosity throughout the video, and use cinematic visuals to highlight the most important discoveries and conclusions."
 ▪︎ Step-by-step tutorial:
-Prompt > "Create a practical instructional video based on this source. Present [PROCESS] as clear visual steps and focus on helping the viewer achieve [OUTCOME]. Keep each stage simple and easy to follow.”
+Prompt > "Create a practical instructional video based on this source. Present [PROCESS] as clear visual steps and focus on helping the viewer achieve [OUTCOME]. Keep each stage simple and easy to follow."
 
 5. Review before publishing
 Always preview the generated video.
@@ -221,6 +221,39 @@ Include safeguards against degradation, unnecessary complexity, overfitting, and
 
 
 -------------------------------------------------
+## Elevate Skills
+
+1. THE KNOWLEDGE GAP FINDER
+"Ask me 15 questions about [subject] without giving me the answers. Analyze my responses and identify the exact concepts I misunderstand or haven't mastered."
+
+2. THE FEYNMAN TEST
+"Ask me to explain [concept] as if I'm teaching it to a 12-year-old. Identify every vague or incorrect part of my explanation, then help me rebuild it clearly."
+
+3. THE EXPERT VS BEGINNER
+"Show me how a beginner, intermediate learner, and expert would approach [problem]. Explain the differences in their reasoning and decision-making."
+
+4. THE PRESSURE TEST
+"Give me increasingly difficult real-world problems involving [skill]. Don't give hints unless I ask. After each attempt, evaluate my reasoning and raise the difficulty."
+
+5. THE COUNTEREXAMPLE MACHINE
+"Challenge my understanding of [idea]. Give me edge cases, counterexamples, and scenarios where my current assumptions could fail."
+
+6. THE FEEDBACK LOOP
+"Review my work: [paste work]. Score it from 1–100 across accuracy, clarity, depth, originality, and execution. Give me the three improvements that would make the biggest difference."
+
+7. THE MASTERY CHECKPOINT
+"Based on everything I've learned about [subject], create a final mastery test combining recall, application, problem-solving, and explanation. Afterward, create my next-level learning plan."
+
+Pro Tip:
+The goal isn't to make AI think for you.
+It's to make AI challenge your thinking.
+Learn.
+Test.
+Fail.
+Correct.
+Repeat.
+That's how skills compound.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
