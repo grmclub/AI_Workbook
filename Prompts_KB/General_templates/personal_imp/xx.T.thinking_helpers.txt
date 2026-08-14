@@ -50,6 +50,47 @@ Remember this about me: [GOALS, SKILLS, VALUES, TARGET AUDIENCE].
 Whenever I ask for help, use this context and challenge me to think bigger.
 
 -------------------------------------------------
+## Brainstorm ideas for 10x creativity
+
+1. THE "BAD IDEAS FIRST" PROMPT
+Give me 20 terrible ideas for [YOUR GOAL/NICHE]. The worse, the better.
+Then take the 3 worst ones and flip them into brilliant ideas that could actually work.
+
+2. THE "ANGLE MULTIPLIER" PROMPT
+My topic is [TOPIC].
+List 15 completely different angles to talk about it that nobody is using.
+Angles like: contrarian, beginner, expert, mistake-based, money-saving, time-saving, controversial.
+
+3. THE "COMBINE 2 WORLDS" PROMPT
+Combine [INDUSTRY 1] + [INDUSTRY 2] and give me 10 business/product/content ideas.
+Example: Fitness + AI, Cooking + Finance, Parenting + Tech
+Make them so unique they don’t exist yet.
+
+4. THE "CUSTOMER PAIN BRAINSTORM" PROMPT
+Act as my target customer: [DESCRIBE CUSTOMER].
+List 30 problems you have that you’d pay to solve today.
+Then turn each problem into a product, service, or content idea.
+
+5. THE "STEAL LIKE AN ARTIST" PROMPT
+Here are 3 successful businesses in [NICHE]: [LIST 3].
+Don’t copy them. Deconstruct what makes them work and give me 10 new ideas inspired by their model but for a different audience.
+
+6. THE "WHAT IF" PROMPT
+What if [IMPOSSIBLE THING] was possible in [NICHE]?
+Give me 10 ideas assuming money, time, and skills are not a problem.
+Then scale the 3 best ones down to something I can launch this week.
+
+7. THE "CONTENT INFINITE ENGINE" PROMPT
+My niche is [NICHE]. Give me 100 content ideas broken into:
+10 mistakes, 10 myths, 10 tips, 10 tools, 10 case studies, 10 questions, 10 stories, 10 predictions, 10 how-tos, 10 resources.
+Make them specific, not generic.
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
+
