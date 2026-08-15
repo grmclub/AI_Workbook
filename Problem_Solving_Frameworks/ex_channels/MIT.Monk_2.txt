@@ -196,6 +196,35 @@ AI makes generation cheap and abundant, which makes human taste, curated judgmen
 
 
 -------------------------------------------------
+"How To Become Dangerously Self-Educated With AI (for free)", Sandeep Swadia presents a framework called "University in a Box" designed to turn AI into a full personal learning system.
+
+The core of the system relies on the ALTER framework, where you assign five distinct roles to AI to guide your self-education journey:
+
+The ALTER Framework
+1. Advisor
+    Role: Acts as an academic advisor to study your current knowledge, weaknesses, and goals to build a customized, sequenced learning plan [04:47].
+    Key Steps:
+        Asks you questions to determine your Destination, Baseline, Sequencing, Cut List (what to ignore), and Milestones [04:58].
+        Tip: Ask the AI to act as an elite advisor and interview you one question at a time before generating a custom curriculum [05:46].
+2. Librarian
+    Role: Defends your curriculum from internet noise and distraction by triaging and curating high-signal sources [10:31].
+    Key Steps:
+        Gather 3–4 high-quality foundational sources (e.g., textbook, academic papers, top video series) [11:02].
+        Use tools like Google NotebookLM to anchor the AI to your chosen sources, enabling you to generate audio overviews, podcasts, or study guides anchored to the source material [11:31].
+3. Tutor
+    Role: Provides 1-on-1 personalized instruction, focusing on diagnosing specific gaps in your understanding [14:11].
+    Key Steps:
+        Use voice features (like ChatGPT Voice or Gemini Voice) for an office-hours feel [15:35].
+        Tell the tutor to ask you questions one at a time and refine your logic using the commands: "Teach me" and "Test me" [16:00, 16:36].
+4. Editor
+    Role: Provides real-time feedback on your output to refine structure, challenge logic, and polish execution [17:00, 18:00].
+    Key Steps:
+        Pass your written work or projects to AI to catch flaws in argument, cut fluff, and improve clarity before final delivery [18:06].
+5. Roommate
+    Role: Broadens your domain depth by offering unexpected perspectives and analogies from outside your field [18:33, 19:54].
+    Key Steps:
+        Prompt the AI to connect topics from completely different disciplines (e.g., comparing design trade-offs with financial strategies) [20:01].
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
