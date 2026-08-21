@@ -27,6 +27,42 @@
 
 
 -------------------------------------------------
+
+PROMPT 1: The Strategy Phase
+"Act as a senior Facebook growth strategist. Analyze my niche and audience, identify the 7 most saturated content patterns on Facebook, and create 10 post ideas that intentionally break those patterns while still aligning with platform algorithms. For each idea, provide: concept, hook, post format (text, image, video, or link), psychological angle, and why it would drive comments, shares, and saves."
+Niche: [NICHE]
+Audience: [AUDIENCE]
+Goal: [GOAL]
+
+PROMPT 2: The Hook Generator
+"Act as a viral copywriter specializing in Facebook engagement. Generate 15 high-impact opening hooks for this idea, structured into: curiosity, contrarian, emotional tension, authority, and relatability. Each hook must be optimized to stop the scroll on Facebook’s feed, encourage comments, and feel natural, conversational, and native to the platform. Rank the top 5 strongest hooks at the end."
+Idea: [IDEA]
+Audience: [AUDIENCE]
+Tone: [TONE]
+
+PROMPT 3: The Content Format Adapter
+"Act as a Facebook content strategist. Transform this idea into 4 optimized formats: long-form text post, image post (with text overlay guidance), short-form video (Reels), and shareable post format (designed for reposts and group sharing). For each, provide structure, opening lines, formatting, caption, and a clear call-to-action tailored for Facebook engagement."
+Idea: [IDEA]
+Audience: [AUDIENCE]
+Goal: [GOAL]
+
+PROMPT 4: The Retention Specialist
+"Act as a Facebook engagement and retention expert. Rewrite this content to maximize read-through rate, comment triggers, shares, and saves. Improve pacing, remove filler, strengthen emotional hooks, and ensure each line drives the reader forward. Optimize for mobile readability. After rewriting, explain the key improvements made and why the new version performs better on Facebook."
+Content: [PASTE THE TEXT]
+Voice: [VOICE]
+Audience: [AUDIENCE]
+
+PROMPT 5: The Authority Refiner
+"Act as a brand positioning expert for Facebook. Rewrite my content to communicate credibility, expertise, and authority without sounding arrogant or overly promotional. Avoid hype, clichés, and 'guru' language. Deliver 3 variations: one minimal and clean, one narrative-driven, and one highly polished and professional."
+Content: [PASTE THE TEXT]
+Audience: [AUDIENCE]
+Brand voice: [VOICE]
+
+PROMPT 6: The Engagement Amplifier
+"Act as a Facebook engagement strategist. Enhance this post to maximize comments, shares, and meaningful interactions. Add natural conversation triggers, open-ended questions, and opinion prompts without sounding forced or engagement-baiting. Suggest subtle psychological triggers, ideal post structure, and 3 variations of comment-bait questions that feel organic and discussion-worthy."
+Content: [PASTE THE TEXT]
+Audience: [AUDIENCE]
+Goal: [GOAL]
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
