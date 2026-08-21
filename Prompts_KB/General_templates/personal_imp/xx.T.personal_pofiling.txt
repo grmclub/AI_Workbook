@@ -1,0 +1,25 @@
+https://www.facebook.com/profile.php?id=61581712152688
+-------------------------------------------------
+## Chat GPT remembers
+
+PROMPT 1: The Hidden Profile
+Based on all our conversations, what have you concluded about me? Don't repeat what I told you. Tell me what you INFERRED. My personality, habits, goals, fears, income level, mindset, and patterns. Be brutally detailed. List it like a profile.
+
+PROMPT 2: The Memory Dump
+Show me everything you remember about me. Every single detail you have stored. Don't summarize. Give me the full list, categorized: Facts I told you, Preferences I showed, Things you assumed about me. Then tell me how to delete what I don't want.
+
+PROMPT 3: The Bias Mirror
+What biases or assumptions are you making about me based on how I write and what I ask? What do you think I'm doing wrong in life/business that I don't see? No filter. Act like my therapist + business coach.
+
+PROMPT 4: The Money & Career Read
+From my chat history, what do you think my current job, income level, and financial habits are? What conclusions did you draw about how I make decisions about money and work? Where am I playing small according to you?
+
+PROMPT 5: The Rewrite My Future Prompt
+If you had to predict my next 12 months based on my current patterns from our chats, what would happen? Then give me 3 prompts I should run every week to change that trajectory and force you to build a better conclusion about me.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
