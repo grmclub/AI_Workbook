@@ -165,6 +165,19 @@ A clean" fast-reference cheat sheet based on the fundamental definitions of phys
 
 
 -------------------------------------------------
+Create a professional engineering teaching infographic of[xx]
+Fully labeled components with educational descriptions
+Transparent and exploded sections revealing internal architecture 
+Show clear arrows to denote flow in a linear fashion 
+constraints: 
+simplify components to explain to a high school student 
+Background should be in light color
+Output:
+Title: “Parts of a xx” in bold professional typography 
+A4 format(1:1.414), 2480x3508px or higher resolution, ultra sharp
+
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
