@@ -1,0 +1,33 @@
+
+-------------------------------------------------
+## 7 prompts help me spot red flags in a contract, uncover hidden risks, and build the right questions to take to a lawyer:
+
+1/ The Plain English Pass
+"Act as a contract analyst preparing me to speak with a lawyer. Rewrite each clause in plain English without changing its meaning. Then identify my obligations, rights I’m giving up, key dates and deadlines, and the clauses that could matter most if things go wrong."
+
+2/ The Missing Clause Check
+"Act as a contract reviewer. Compare this agreement with what’s typical for its type. Identify what’s missing, unusually narrow or broad, and turn the gaps into questions for a qualified lawyer—ranked by potential financial impact."
+
+3/ The Exit Map
+"Act as a contract risk analyst. Map every way this agreement can end: early termination, notice requirements, surviving clauses, exit costs, non-performance by either party, and what happens if neither side acts. Flag anything that could bind me longer than expected."
+
+4/ The Money Trail
+"Act as a commercial reviewer. Extract every financial obligation: amounts, payment dates, triggers, penalties, price increases, expenses, taxes, and potential costs without a fixed amount. Present them as a timeline and flag any open-ended figures."
+
+5/ The Question List
+"Act as my consultation prep assistant. Based on everything we found, create a one-page list of questions for my lawyer. Rank them by importance, tie each to a specific clause, explain why it matters, and label what must be answered before signing versus what can wait."
+
+6/ The Negotiation Redlines
+"Act as a commercial negotiator. For each concerning clause, draft my preferred wording, an acceptable middle ground, and why the other side might agree. Flag what’s routine, unusual, or not worth spending goodwill on."
+
+7/ The Record Keeping Plan
+"Act as an operations manager. Build a system to manage this agreement after signing: key dates, advance reminders, required documentation, where to store the contract and correspondence, and an annual review to catch automatic renewals before they happen."
+-------------------------------------------------
+-------------------------------------------------
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
