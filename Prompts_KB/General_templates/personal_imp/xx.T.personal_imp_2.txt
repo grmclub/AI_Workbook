@@ -1,0 +1,66 @@
+
+-------------------------------------------------
+## You don’t have a time problem. You have a system problem.
+##Turn ChatGPT into your $100/hour productivity coach
+
+PROMPT 1 — The Weekly Planning Session
+"Build me a weekly planning template. Include how to prioritize tasks, block time, and leave room for the unexpected."
+Result: A real system, not just a to-do list.
+
+PROMPT 2 — The Procrastination Diagnosis
+"I keep procrastinating on [task]. Here’s why I think it happens: [describe]. Diagnose the real reason and give me 3 fixes."
+Result: You fix the cause, not the symptom.
+
+PROMPT 3 — The Daily Priority Filter
+"Here’s everything on my plate today: [list]. Help me identify the top 3 that actually matter and what can wait or be dropped."
+Result: You stop confusing busy with productive.
+
+PROMPT 4 — The Meeting/Distraction Auditor
+"Here’s how my week actually goes: [describe]. Find the biggest time leaks and suggest what to cut, delegate, or shorten."
+Result: You find hours you didn’t know you were losing.
+
+PROMPT 5 — The Deep Work Block Builder
+"Design a daily schedule that protects at least [X] hours of focused work around my existing commitments: [list]."
+Result: Focus time that isn’t just wishful thinking.
+
+PROMPT 6 — The Bad-Day Backup Plan
+"Give me a minimum-viable version of my routine for days I’m exhausted or overwhelmed. Something realistic, not ideal."
+Result: A plan that survives your worst days.
+
+PROMPT 7 — The Weekly Reflection Ritual
+"Design a 5-minute Sunday review: what to ask myself, what to track, and how to adjust next week’s plan."
+Result: You improve the system instead of repeating mistakes.
+
+-------------------------------------------------
+## 🚨 NotebookLM just became your personal AI tutor.
+Feed it your notes, PDFs & research, then use these 7 prompts to learn almost anything faster. 🧠🔥
+
+2️. 30-Day Learning Roadmap
+Analyze my uploaded materials and build a 30-day roadmap to master [SKILL]. For each day, include a learning goal, key concepts, practical exercises, relevant source sections, mistakes to avoid, and a progress checkpoint. Keep it progressive, practical, and results-driven.
+
+1️. AI Skill Mentor
+Act as my personal mentor for [SKILL] using only my uploaded sources. Create a structured 30-day learning path from beginner to advanced. Simplify complex concepts, connect insights across sources, focus on practical application, and highlight key mistakes, best practices, and takeaways.
+
+4️. Real-World Application
+Use my uploaded sources to show how professionals apply [SKILL] in real-world situations. Extract the best workflows, case studies, and examples. Explain when and why they work, how to apply them, and what to avoid. Focus on actionable insights I can use immediately.
+
+7️. Real-World Readiness
+Test whether I’m ready to use [SKILL] professionally. Create realistic scenarios, challenges, and projects based strictly on my sources. Evaluate my performance against professional standards, identify remaining gaps, and build a focused action plan to close them. Keep testing until I demonstrate real-world proficiency.
+
+3️. Learn by Doing
+Turn my uploaded resources into a hands-on course for [SKILL]. Create practical exercises, mini-projects, and real-world challenges based strictly on my sources. Review my answers, explain mistakes, and suggest specific improvements. Don’t move on until I’m ready.
+
+5️. Think Like an Expert
+Analyze my uploaded materials and teach me to think like an expert in [SKILL]. Extract key mental models, frameworks, principles, and decision-making strategies. Compare beginner vs. expert thinking, explain the reasoning behind expert decisions, and create exercises to practice these patterns in real situations.
+
+6️. Skill Assessment
+Assess my current level in [SKILL] using my uploaded sources. Start with diagnostic questions and practical tasks. Identify my strengths, weaknesses, knowledge gaps, and blind spots, then create a personalized improvement plan with clear priorities and measurable milestones.
+
+-------------------------------------------------
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
