@@ -1,5 +1,5 @@
 -------------------------------------------------
-## Unlocked “God Mode” in ChatGPT 😮 These 7 Prompts Showed Me Things I Didn’t Know Existed 👇
+## Unlocked "God Mode" in ChatGPT 😮 These 7 Prompts Showed Me Things I Didn’t Know Existed 👇
 
 1. Forbidden Wisdom Decoder
 Prompt:
@@ -91,31 +91,31 @@ Prompt:
 
 DAY 1 — Learn How to Talk to AI
 Prompt:
-“Teach me how to write effective AI prompts from scratch. Give me 10 practical rules and quiz me after each lesson.”
+"Teach me how to write effective AI prompts from scratch. Give me 10 practical rules and quiz me after each lesson."
 
 DAY 2 — Make AI Your Personal Assistant
 Prompt:
-“Help me automate my daily work. Based on my routine: [describe it], identify tasks AI can handle and build simple workflows.”
+"Help me automate my daily work. Based on my routine: [describe it], identify tasks AI can handle and build simple workflows."
 
 DAY 3 — Master Content Creation
 Prompt:
-“Create a complete content system for my niche, including post ideas, hooks, outlines, captions, and a weekly publishing schedule.”
+"Create a complete content system for my niche, including post ideas, hooks, outlines, captions, and a weekly publishing schedule."
 
 DAY 4 — Solve Real Problems
 Prompt:
-“Act as my strategic advisor. For this challenge: [problem], ask clarifying questions, identify blind spots, compare solutions, and recommend the best path forward.”
+"Act as my strategic advisor. For this challenge: [problem], ask clarifying questions, identify blind spots, compare solutions, and recommend the best path forward."
 
 DAY 5 — Learn Faster
 Prompt:
-“Teach me [skill] using the 80/20 principle. Give me a learning roadmap, practical exercises, quizzes, and a real-world project.”
+"Teach me [skill] using the 80/20 principle. Give me a learning roadmap, practical exercises, quizzes, and a real-world project."
 
 DAY 6 — Build Something Valuable
 Prompt:
-“Based on my skills and experience, help me create a digital product or service people would genuinely pay for. Include validation, pricing, and a launch plan.”
+"Based on my skills and experience, help me create a digital product or service people would genuinely pay for. Include validation, pricing, and a launch plan."
 
 DAY 7 — Build Your AI System
 Prompt:
-“Design my personal AI operating system. Include reusable prompts, workflows, weekly reviews, productivity systems, and a plan for continuous improvement.”
+"Design my personal AI operating system. Include reusable prompts, workflows, weekly reviews, productivity systems, and a plan for continuous improvement."
 
 -------------------------------------------------
 ##These prompts give you a teacher, course, quiz, project, and coach in one.
