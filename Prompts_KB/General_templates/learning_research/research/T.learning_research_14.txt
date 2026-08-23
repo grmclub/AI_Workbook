@@ -40,6 +40,57 @@ Prompt:
 
 
 -------------------------------------------------
+## Most people use ChatGPT, Claude, and Gemini separately. Power users combine them. 7 AI workflows 👇
+
+1. ChatGPT + Claude
+ChatGPT creates. Claude challenges.
+Prompt:
+"Use ChatGPT as the creative strategist to generate multiple ideas for [Goal]. Then send the best ideas to Claude and ask it to critique every assumption, identify weaknesses, improve the structure, and create a detailed execution plan with priorities, risks, and measurable milestones."
+Don't stop at your first idea.
+Pressure-test it before you build.
+
+2. Gemini + ChatGPT
+Let one AI research. Let the other teach.
+Prompt:
+"Use Gemini to analyze YouTube videos, screenshots, PDFs, and visual content related to [Topic]. Extract the most valuable insights, then give everything to ChatGPT and ask it to build a complete learning system with action steps, practical projects, quizzes, and implementation strategies."
+Research once.
+Learn faster.
+
+3. NotebookLM + Claude
+Don't just collect information. Build a playbook.
+Prompt:
+"Upload your documents, notes, research papers, and transcripts into NotebookLM. Ask it to organize and summarize your sources. Then give those insights to Claude and ask it to build decision frameworks, implementation guides, SOPs, and expert strategies."
+Reading is easy.
+Applying what you learn is where the value is.
+
+4. Gemini + NotebookLM
+Stop relearning the same things.
+Prompt:
+"Use Gemini to extract key ideas from YouTube videos, presentations, and screenshots. Upload those outputs into NotebookLM and ask it to organize them into summaries, connected concepts, revision notes, mental models, FAQs, and searchable reference material."
+Turn scattered information into knowledge you can actually use.
+
+5. ChatGPT + NotebookLM
+Your best content is already in your notes.
+Prompt:
+"Store your research, documents, audience feedback, and ideas inside NotebookLM. Then ask ChatGPT to turn that knowledge into X threads, LinkedIn posts, YouTube scripts, newsletters, lead magnets, and content calendars while maintaining a consistent voice and style."
+Build your knowledge once.
+Create from it over and over.
+
+6. Claude + Gemini
+Never trust your first AI answer.
+Prompt:
+"Ask Gemini to generate multiple practical solutions for [Challenge]. Then ask Claude to evaluate each option, identify hidden risks, compare trade-offs, estimate long-term outcomes, and recommend the strongest strategy with detailed reasoning."
+One AI explores.
+The other helps you choose wisely.
+
+7. ChatGPT + Claude + Gemini + NotebookLM
+Stop using AI like one assistant. Build an AI team.
+Prompt:
+"Use NotebookLM as your knowledge hub, Gemini for visual understanding and research, ChatGPT for planning and content creation, and Claude for critical thinking, editing, and strategy. Assign every task to the AI that's best suited for it instead of expecting one model to do everything."
+The biggest AI advantage isn't finding the perfect chatbot.
+It's building the right workflow.
+
+
 -------------------------------------------------
 
 -------------------------------------------------
