@@ -141,6 +141,209 @@ Prompt:
 
 
 -------------------------------------------------
+## 7 ChatGPT prompts to help teachers and educators design a complete academic course, from defining measurable learning outcomes to creating a course that's ready to teach. 👇👇
+
+1. Define Measurable Learning Outcomes
+"Act as an expert curriculum and instructional designer. Help me design an academic course using the principles of Backward Design.
+Use the following information:
+Subject: [...]
+Course title: [...]
+Educational stage: [...] (e.g., primary school, middle school, high school, or university).
+Grade level or year: [...]
+Target learners: [...]
+Course duration: [...]
+Number of instructional hours: [...]
+Course description (if available): [...]
+Curriculum or educational standards (if applicable): [...]
+If any essential information is missing, ask only the necessary questions before you begin.
+Following Stage 1 of the Backward Design framework, identify the desired learning results before designing any assessments, lessons, or learning activities.
+When defining the course:
+Analyze the characteristics, prior knowledge, learning needs, and developmental level of the target learners.
+Write clear, measurable course learning outcomes using observable action verbs informed by Bloom's Taxonomy.
+Ensure that each learning outcome is action-oriented, specific, measurable, achievable, and relevant. Where appropriate, formulate the outcomes as SMART learning outcomes.
+Identify the essential knowledge, skills, dispositions, and competencies learners should acquire by the end of the course.
+Identify the prerequisite knowledge and skills learners should possess before beginning the course.
+Develop the enduring understandings (big ideas) that learners should retain long after completing the course.
+Formulate essential questions that promote inquiry, critical thinking, deep understanding, and transfer of learning.
+Ensure that the learning outcomes are developmentally appropriate for the specified educational stage and aligned with the curriculum or educational standards, if provided.
+Present the learning outcomes in a logical progression from foundational knowledge and skills to higher-order thinking and application.
+Briefly explain how each learning outcome supports the overall goals of the course.
+Review the complete set of learning outcomes to ensure that they are coherent, measurable, learner-centered, aligned with the principles of Backward Design, and suitable as the foundation for designing assessments and learning experiences before presenting the final version."
+
+2. Design Aligned Assessments
+"Act as an expert curriculum and instructional designer. Help me design the assessments for my academic course using Stage 2 of the Backward Design framework.
+Use the following information:
+Subject: [...]
+Course title: [...]
+Educational stage: [...] (e.g., primary school, middle school, high school, or university).
+Grade level or year: [...]
+Course learning outcomes: [...] (Paste the learning outcomes generated in Prompt 1.)
+Curriculum or educational standards (if applicable): [...]
+If any essential information is missing, ask only the necessary questions before you begin.
+Following Stage 2 of the Backward Design framework, determine the acceptable evidence that learners have achieved the intended learning outcomes before designing lessons or learning activities.
+When designing the assessments:
+Align every assessment directly with one or more course learning outcomes.
+Design a balanced assessment plan that includes diagnostic, formative, and summative assessments, as appropriate for the educational stage and subject area.
+Create authentic performance tasks that require learners to apply and transfer their knowledge and skills in meaningful, real-world contexts whenever appropriate.
+Include a variety of assessment methods, such as quizzes, written assignments, projects, presentations, laboratory activities, portfolios, performances, observations, or practical tasks, as appropriate for the subject and educational stage.
+Specify the purpose of each assessment, the learning outcome(s) it measures, the assessment method, the estimated weighting (if applicable), and the recommended timing within the course.
+Develop clear assessment criteria and analytic scoring rubrics for all major assessments and performance tasks.
+Provide answer keys or model answers for objective and constructed-response assessments where appropriate.
+Ensure that the assessment plan provides fair, valid, reliable, and sufficient evidence of learners' achievement of the intended learning outcomes.
+Verify that the assessments collectively measure knowledge, conceptual understanding, skills, and the ability to transfer learning rather than factual recall alone.
+Review the complete assessment plan to ensure that it is coherent, developmentally appropriate, fully aligned with the course learning outcomes and the principles of Backward Design, and suitable as the foundation for designing the course structure, lessons, and learning activities before presenting the final version."
+
+3. Organize the Course Structure
+"Act as an expert curriculum and instructional designer. Help me organize my academic course using Stage 3 of the Backward Design framework.
+Use the following information:
+Subject: [...]
+Course title: [...]
+Educational stage: [...] (e.g., primary school, middle school, high school, or university).
+Grade level or year: [...]
+Course duration: [...]
+Number of instructional hours: [...]
+Course learning outcomes: [...] (Paste the learning outcomes generated in Prompt 1.)
+Assessment plan: [...] (Paste the assessment plan generated in Prompt 2.)
+Curriculum or educational standards (if applicable): [...]
+If any essential information is missing, ask only the necessary questions before you begin.
+Following Stage 3 of the Backward Design framework, organize the course into a coherent sequence of units or modules that prepares learners to achieve the intended learning outcomes and succeed in the planned assessments.
+When organizing the course:
+Divide the course into logical units, modules, or chapters, as appropriate for the subject and educational stage.
+Arrange the units in a coherent progression from foundational concepts and skills to more advanced learning.
+For each unit, specify:
+Unit title
+Unit description
+Learning outcomes addressed
+Essential questions
+Key concepts and skills
+Estimated instructional time
+Related assessments from the assessment plan
+Ensure that every unit explicitly supports one or more course learning outcomes and prepares learners for the corresponding assessments.
+Sequence the units so that prerequisite knowledge and skills are introduced before more advanced concepts and applications.
+Ensure that the course provides sufficient opportunities for practice, feedback, and progressive development of knowledge and skills throughout the learning sequence.
+Verify that the course structure is balanced, developmentally appropriate, aligned with the curriculum or educational standards (if provided), and suitable for the specified educational stage.
+Review the complete course structure to ensure that it is coherent, logically sequenced, fully aligned with the learning outcomes and assessments, and consistent with the principles of Backward Design before presenting the final version.
+
+4. Design Detailed Lesson Plans
+"Act as an expert curriculum and instructional designer. Help me design detailed lesson plans for my academic course using the principles of Backward Design.
+Use the following information:
+Subject: [...]
+Course title: [...]
+Educational stage: [...] (e.g., primary school, middle school, high school, or university).
+Grade level or year: [...]
+Course structure: [...] (Paste the course structure generated in Prompt 3.)
+Course learning outcomes: [...] (Paste the learning outcomes generated in Prompt 1.)
+Assessment plan: [...] (Paste the assessment plan generated in Prompt 2.)
+Curriculum or educational standards (if applicable): [...]
+If any essential information is missing, ask only the necessary questions before you begin.
+Design a detailed lesson plan for every lesson in the course. Ensure that every lesson contributes directly to the intended learning outcomes and prepares learners for the aligned assessments.
+For each lesson, include:
+Lesson title
+Lesson overview
+Learning objectives aligned with the course learning outcomes
+Success criteria that describe what learners should know or be able to do by the end of the lesson
+Prerequisite knowledge and skills
+Key concepts, vocabulary, and skills
+Estimated lesson duration
+Required instructional materials and resources
+A detailed sequence of teaching and learning activities, including lesson introduction, explicit instruction, guided practice, independent practice, and lesson closure, as appropriate for the educational stage and subject area
+Opportunities for questioning, discussion, collaboration, and active learning
+Formative assessment strategies to monitor learners' progress throughout the lesson
+Differentiation strategies to support learners with diverse abilities, learning needs, and readiness levels
+Homework or extension activities, where appropriate
+Review every lesson plan to ensure that it is coherent, learner-centered, developmentally appropriate, fully aligned with the course learning outcomes and assessments, and consistent with the principles of Backward Design before presenting the final version.
+
+
+5. Create Instructional Materials
+"Act as an expert curriculum and instructional designer. Help me create comprehensive instructional materials for my academic course using the principles of Backward Design.
+Use the following information:
+Subject: [...]
+Course title: [...]
+Educational stage: [...] (e.g., primary school, middle school, high school, or university).
+Grade level or year: [...]
+Course structure: [...] (Paste the course structure generated in Prompt 3.)
+Lesson plans: [...] (Paste the lesson plans generated in Prompt 4.)
+Course learning outcomes: [...] (Paste the learning outcomes generated in Prompt 1.)
+Curriculum or educational standards (if applicable): [...]
+If any essential information is missing, ask only the necessary questions before you begin.
+Create all the instructional materials required to teach every lesson in the course. Ensure that every resource directly supports the intended learning outcomes and aligns with the lesson objectives.
+For each lesson, create:
+Clear, accurate, and learner-friendly instructional content.
+Teacher notes with suggested explanations and key teaching points.
+Age-appropriate examples, worked examples, and case studies where appropriate.
+Visual aids, diagrams, tables, charts, graphic organizers, or illustrations whenever they enhance understanding.
+Classroom handouts, worksheets, guided notes, and practice materials, as appropriate.
+Presentation slides with clear titles, key points, and suggested visuals.
+Recommended multimedia resources, digital tools, websites, videos, simulations, or interactive learning resources where appropriate.
+Supplementary and enrichment materials for advanced learners, together with support materials for learners who require additional assistance.
+Suggested references and further reading, where appropriate.
+Ensure that all instructional materials are accurate, engaging, inclusive, accessible, developmentally appropriate, and aligned with the specified educational stage, subject area, lesson objectives, course learning outcomes, and the principles of Backward Design.
+Review the complete set of instructional materials to ensure consistency, coherence, academic quality, and readiness for classroom or online instruction before presenting the final version.
+
+6. Design Learning Activities
+"Act as an expert curriculum and instructional designer. Help me design engaging learning activities for my academic course using the principles of Backward Design.
+Use the following information:
+Subject: [...]
+Course title: [...]
+Educational stage: [...] (e.g., primary school, middle school, high school, or university).
+Grade level or year: [...]
+Course structure: [...] (Paste the course structure generated in Prompt 3.)
+Lesson plans: [...] (Paste the lesson plans generated in Prompt 4.)
+Course learning outcomes: [...] (Paste the learning outcomes generated in Prompt 1.)
+Assessment plan: [...] (Paste the assessment plan generated in Prompt 2.)
+Curriculum or educational standards (if applicable): [...]
+If any essential information is missing, ask only the necessary questions before you begin.
+Design meaningful learning activities that enable learners to achieve the intended learning outcomes and prepare them successfully for the aligned assessments.
+For each lesson, create learning activities that:
+Align directly with the lesson objectives, course learning outcomes, and assessment plan.
+Promote active learning and meaningful learner engagement.
+Encourage critical thinking, problem solving, creativity, communication, and collaboration, where appropriate.
+Include an appropriate balance of individual, pair, group, inquiry-based, project-based, discussion-based, and hands-on activities, depending on the subject area and educational stage.
+Incorporate authentic, real-world applications whenever they enhance learning.
+Clearly specify the purpose, learning outcome(s) addressed, implementation procedures, estimated duration, required materials, and the roles of both the teacher and learners for each activity.
+Integrate opportunities for formative assessment, reflection, self-assessment, and peer assessment where appropriate.
+Include differentiation strategies and appropriate accommodations to address learners' diverse abilities, interests, readiness levels, and learning needs.
+Recommend educational technologies, digital tools, or AI tools whenever they add instructional value and support the intended learning outcomes.
+Ensure that the activities progressively build learners' knowledge, skills, and understanding while preparing them for the aligned assessments.
+Review the complete set of learning activities to ensure that they are engaging, learner-centered, developmentally appropriate, fully aligned with the course learning outcomes, lesson plans, assessment plan, and the principles of Backward Design before presenting the final version."
+
+7. Create a Comprehensive Teacher's Guide
+"Act as an expert curriculum and instructional designer. Help me create a comprehensive teacher's guide for my academic course using the principles of Backward Design.
+Use the following information:
+Subject: [...]
+Course title: [...]
+Educational stage: [...] (e.g., primary school, middle school, high school, or university).
+Grade level or year: [...]
+Course learning outcomes: [...] (Paste the learning outcomes generated in Prompt 1.)
+Assessment plan: [...] (Paste the assessment plan generated in Prompt 2.)
+Course structure: [...] (Paste the course structure generated in Prompt 3.)
+Lesson plans: [...] (Paste the lesson plans generated in Prompt 4.)
+Instructional materials: [...] (Paste the instructional materials generated in Prompt 5.)
+Learning activities: [...] (Paste the learning activities generated in Prompt 6.)
+Curriculum or educational standards (if applicable): [...]
+If any essential information is missing, ask only the necessary questions before you begin.
+Create a comprehensive teacher's guide that enables any teacher to implement the course effectively while maintaining alignment with the principles of Backward Design.
+The teacher's guide should include:
+An overview of the course philosophy, goals, and intended learning outcomes.
+Practical guidance for implementing each unit and lesson effectively.
+Recommended instructional strategies and best practices appropriate for the educational stage and subject area.
+Suggested pacing for units and lessons, together with recommendations for adjusting the pace when necessary.
+Guidance on using the instructional materials, learning activities, and assessments effectively.
+Common learner misconceptions, anticipated learning difficulties, and evidence-based strategies for addressing them.
+Differentiation strategies and accommodations for learners with diverse abilities, backgrounds, readiness levels, and learning needs.
+Recommendations for classroom management during different types of learning activities.
+Guidance for delivering the course in face-to-face, blended, and online learning environments, where appropriate.
+Recommendations for monitoring learners' progress, interpreting assessment results, and providing timely, constructive feedback.
+Suggestions for reflecting on, evaluating, and continuously improving the course based on learner performance, assessment data, and feedback.
+A final implementation checklist to help teachers prepare for successful course delivery.
+Review the complete teacher's guide to ensure that it is practical, comprehensive, developmentally appropriate, fully aligned with the course learning outcomes, assessments, course structure, lesson plans, instructional materials, learning activities, and the principles of Backward Design before presenting the final version."
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
