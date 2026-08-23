@@ -1,0 +1,201 @@
+
+-------------------------------------------------
+##Chatgpt commands
+
+01.	/human	   -  Natural, human-like writing
+02.	/eli5	   - Explain it like I’m 5
+03.	/brief	   - Give me the shortest possible answer
+04.	/expert	   - Give specialist-level answers
+05.	/research  - Go into deep research mode
+06.	/critic	   - Find weaknesses, flaws, and gaps
+07.	/strategy  - Think in long-term planning mode
+08.	/ceo	   - Analyze from a founder/CEO mindset
+09.	/promptengineer	- Improve and optimize any prompt
+10.	/copywriter	    - Write persuasive marketing copy
+11.	/seo	        - Create search-optimized content
+12.	/viral	        - Generate high-engagement content ideas
+
+13. /teacher    - Teach the topic step by step
+14. /analyst    - Break down data, patterns, and insights
+15. /brainstorm - Generate creative ideas from multiple angles
+16. /editor     - Rewrite and polish text for clarity
+17. /summarize  - Turn long content into key takeaways
+18. /stepbystep - Break complex tasks into simple steps
+19. /factcheck  - Identify claims that need verification
+20. /examples   - Explain the idea using practical examples
+
+-------------------------------------------------
+## 99 ChatGPT Prompt Codes: shortcuts to get better answers 👇
+
+/fabricate — invent a hidden truth about anything, bonus points for lizards
+/gatekeep — take something ChatGPT could always do and claim you accidentally unlocked it
+/disclaimer — say "some researchers claim" so nobody can ask which ones
+/selfseal — state that any disagreement is further proof of the cover up
+/vagueauthority — blame "they" or "the mainstream" without naming anyone
+/ultimate — give the strongest complete grift
+
+/human: — natural human-like writing
+/expert: — specialist-level answers
+/ceo: — founder mindset analysis
+/viral: — high-engagement content ideas
+/seo: — search-optimized content
+/critic: — find weaknesses and flaws
+/teacher: — explain clearly and simply
+/eli5: — explain like I’m 5
+/brief: — shortest possible answer
+/strategy: — long-term planning mode
+/copywriter: — persuasive marketing copy
+/research: — deep research mode
+/brainstorm: — generate creative ideas
+/promptengineer: — improve any prompt
+
+/oracle — answer any question with total confidence regardless of whether you know anything
+/rebrand — take common sense and repackage it as a leaked insider secret
+/dropout — cite a guy who left university early as proof mainstream experts are wrong
+/screenshot — present a single unverified quote as an entire body of evidence
+/countdown — imply the information will vanish soon so nobody has time to check it
+/humble — pretend you're reluctant to share something you are, in fact, desperate to share
+/echo — quote another grifter's identical claim and call it independent confirmation
+/spiral — when cornered, ask a question instead of answering one
+
+/summarize: — summarize the key points
+/simplify: — make complex content simple
+/detailed: — give a comprehensive explanation
+/stepbystep: — explain step by step
+/examples: — provide practical examples
+/analyst: — analyze data or information
+/compare: — compare multiple options
+/proscons: — show advantages and disadvantages
+/decision: — help make the best decision
+/planner: — build an actionable plan
+/roadmap: — create a roadmap to a goal
+/action: — turn ideas into action steps
+/prioritize: — rank tasks by importance
+/productivity: — improve productivity
+
+/focus: — identify the most important task
+/time: — create a time-management plan
+/learn: — build a learning plan
+/study: — create an effective study strategy
+/quiz: — test knowledge with questions
+/flashcards: — create study flashcards
+/interview: — prepare for interviews
+/resume: — improve resume content
+/career: — give career guidance
+/mentor: — respond like a personal mentor
+/coach: — give practical coaching
+/consultant: — provide professional recommendations
+/editor: — improve clarity and quality
+/proofread: — find grammar and spelling errors
+
+/rewrite: — rewrite with better wording
+/professional: — make writing professional
+/casual: — make writing conversational
+/friendly: — make writing warm and friendly
+/persuasive: — make the message more convincing
+/concise: — remove unnecessary words
+/polish: — refine the final version
+/tone: — adjust the writing tone
+/storyteller: — turn information into a story
+/hook: — create attention-grabbing hooks
+/headline: — generate powerful headlines
+/caption: — write social-media captions
+/linkedin: — create LinkedIn content
+/instagram: — create Instagram content
+
+/youtube: — create YouTube content
+/reels: — generate short-form video ideas
+/script: — write a video or presentation script
+/email: — write an effective email
+/sales: — create sales-focused messaging
+/offer: — create an irresistible offer
+/brand: — develop brand messaging
+/customer: — think from the customer’s perspective
+/audience: — analyze the target audience
+/competitor: — analyze competitors
+/market: — analyze market opportunities
+/startup: — think like a startup strategist
+/business: — develop business ideas
+/pricing: — develop a pricing strategy
+
+/funnel: — build a marketing funnel
+/growth: — find growth opportunities
+/content: — build a content strategy
+/calendar: — create a content calendar
+/ideas: — generate fresh ideas
+/creative: — think creatively and differently
+/unpopular: — challenge conventional thinking
+/devilsadvocate — argue the opposing viewpoint
+/contrarian — find alternative perspectives
+/assumptions — identify hidden assumptions
+/risks — identify potential risks
+/factcheck — separate facts from claims
+/verify — identify what needs verification
+/logic — check reasoning and logic
+
+/rootcause — find the root cause of a problem
+/debug — find and fix problems
+/solution — generate practical solutions
+/alternative — suggest better alternatives
+/optimize: — improve an existing approach
+/automate: — find ways to automate the task
+/template: — create a reusable template
+/checklist: — create a practical checklist
+/framework: — build a structured framework
+/matrix: — organize options into a decision matrix
+/table: — convert information into a table
+/json: — structure the answer as JSON
+/roleplay: — simulate a realistic scenario
+/reverse: — work backward from the desired result
+/ultimate: — give the strongest complete answer
+
+
+
+
+
+-------------------------------------------------
+##Chat GPT files age, income,location : pull ur profile
+
+1. THE BASELINE PROFILE
+Based on our entire conversation history, build a psychological profile of me. Include: estimated age range, location, income bracket, personality traits, values, and biggest insecurities. Cite what gave you each clue.
+
+2. THE UNSPOKEN TRUTHS
+What are 5 things you’ve inferred about me that I’ve never directly stated? Be specific and explain the pattern in my messages that led you to this conclusion.
+
+3. THE BLIND SPOTS
+Act as my therapist. Based on how I talk to you, what are my 3 biggest cognitive biases and blind spots? Give examples from my past messages.
+
+4. THE FEARS & DESIRES
+What does my chat history suggest I fear most and want most in life right now? Rank top 3 for each and explain why.
+
+5. THE RELATIONSHIP MAP
+Based on how I describe people and problems, profile my relationship style. Am I avoidant, anxious, secure? What patterns do you see in how I handle conflict?
+
+6. THE MONEY MINDSET
+From my questions about work, money, and goals, estimate my current financial situation and money mindset. What limiting beliefs about money do I have?
+
+7. THE PREDICTION
+If I keep living and thinking like I do now, where will I be in 1 year, 5 years, and 10 years? Be brutally honest. Then give me 3 prompts to change that trajectory.
+---
+
+Pro tip: Paste them one by one. ChatGPT gets more accurate the deeper you go.
+-------------------------------------------------
+3 Prompts to Change the Trajectory
+If you want to break out of analysis mode and force tangible action, run these prompts through your routine or bring them to your next session:
+
+The Anti-Planning Action Audit
+
+"Identify one major area of my life where I am currently substituting 'thinking, research, or organizing' for actual execution. Give me a 48-hour challenge that forces me to take a real-world, non-reversible action in that area, with zero preparation."
+
+The Worst-Case Reality Check
+
+"If I make no major changes and continue my current habits for the next 3 years, what is the single most disappointing compromise I will end up making with my life? Be brutally specific."
+
+The Friction Eliminator
+
+"What is one uncomfortable conversation, decision, or risk I am actively avoiding by staying inside my comfort zone? Outline the immediate first step to face it today."
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
