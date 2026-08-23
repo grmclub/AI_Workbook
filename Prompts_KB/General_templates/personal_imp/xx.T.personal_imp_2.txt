@@ -57,6 +57,47 @@ Analyze my uploaded materials and teach me to think like an expert in [SKILL]. E
 Assess my current level in [SKILL] using my uploaded sources. Start with diagnostic questions and practical tasks. Identify my strengths, weaknesses, knowledge gaps, and blind spots, then create a personalized improvement plan with clear priorities and measurable milestones.
 
 -------------------------------------------------
+##Sidecar helpers
+
+1. Identity Architect
+Prompt:
+"[Paste sample] Analyze my writing samples to identify my tone, beliefs, mindset, communication patterns, and thought process. Study how I structure ideas, explain concepts, make arguments, and express emotion. Create a clear personality blueprint that my AI clone can follow consistently across all outputs. Include specific rules for maintaining this identity when creating [content types]."
+
+2. Voice & Communication Trainer
+Prompt:
+"Train my AI clone to communicate like me by analyzing my tone, vocabulary, pacing, sentence structure, emotional expression, and communication habits. Identify how my style changes based on context and audience. Create clear guidelines with examples for casual conversations, professional communication, persuasive writing, and high-stakes situations. Adapt the voice for [audience types or situations]."
+
+3. Brand-Aligned Content Engine
+Prompt:
+"Use my personality, niche, audience, and brand values to create content that reflects my perspective and communicates clear value. Maintain consistent voice, messaging, positioning, and opinions across every piece so the content feels authentic to me. Create content for [platforms] focused on [topics]."
+
+4. Soft-Sell Conversion Specialist
+Prompt:
+"Train my AI clone to write persuasive DMs and replies that turn genuine interest into sales without sounding pushy or scripted. Teach it to identify intent, understand objections, respond with relevance, and naturally guide conversations toward the right action. Adapt responses for [lead types, objections, or conversation stages]."
+
+5. Decision-Making Framework
+Prompt:
+"Create a decision-making system that reflects how I evaluate real-world opportunities. Use my values, audience needs, risk tolerance, priorities, and income goals as decision filters. Define a clear process for evaluating options, identifying trade-offs, prioritizing actions, and making consistent decisions under uncertainty. Apply this framework to [business areas]."
+
+6. Client Relationship Manager
+Prompt:
+"Train my AI clone to handle client communication, updates, follow-ups, feedback, revisions, and expectation-setting in my natural tone. Keep every interaction clear, professional, and trustworthy while preserving how I normally communicate. Create response guidelines for routine conversations and sensitive situations involving [client types or industries]."
+
+7. Daily Operations Manager
+Prompt:
+"Design a structured daily workflow for my AI clone to manage content planning, scheduling, performance tracking, and insight generation. Build a practical system that balances execution, review, and optimization while keeping tasks organized and consistent. Customize the workflow around my tools and platforms: [tools/platforms]."
+
+8. Idea Expansion Engine
+Prompt:
+"Train my AI clone to turn rough ideas, notes, and voice memos into polished content without changing the original thinking or perspective. Improve clarity, structure, depth, and readability while preserving my personality and intent. Turn raw ideas into [blog posts, threads, scripts, newsletters, etc.] while keeping the final output authentic to me."
+
+9. Audience Intelligence Analyzer
+Prompt:
+"Train my AI clone to analyze comments, DMs, questions, and engagement patterns to identify what my audience wants, fears, struggles with, and responds to. Use these insights to improve messaging, discover content opportunities, and identify changes in audience demand. Focus the analysis on my audience across [platform or niche]."
+
+10. Long-Term Growth Planner
+Prompt:
+"Train my AI clone to think long term by identifying emerging trends, improving positioning, and recommending actions that compound over time. Ensure every recommendation aligns with my personal brand, audience development, and business direction. Prioritize sustainable growth over short-term noise and align the strategy with [growth goals, income targets, or brand direction]."
 
 -------------------------------------------------
 -------------------------------------------------
