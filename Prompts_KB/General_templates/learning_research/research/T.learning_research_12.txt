@@ -308,11 +308,6 @@ Paste this into Claude:
 «-Act as a productivity architect. Build my Personal Claude Operating System using everything I’ve learned: prompting, context, chaining, Projects, deep thinking, and monetization.
 Create: a 10-minute morning routine, a 15-minute content workflow from idea to post, a client/business workflow, a weekly review prompt, a monthly strategy prompt, and an organized master prompt library for content, business, learning, strategy, and monetization.
 
-
-
-
-
-
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
