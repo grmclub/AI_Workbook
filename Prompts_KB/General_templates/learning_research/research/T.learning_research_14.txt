@@ -224,6 +224,36 @@ Prompt:
 "Suggest [X] clear, memorable metaphors for explaining the benefits of [PRODUCT/SERVICE]. Make each metaphor easy for a beginner to understand and connect it to a familiar real-world experience. For each metaphor, briefly explain why it works and what concept it helps communicate."
 
 -------------------------------------------------
+
+1. Give ChatGPT the Context It Needs
+Prompt: "I want to achieve [goal]. Before giving me an answer, identify the most important information you need about my goal, situation, audience, experience, resources, deadline, and constraints. Ask only the questions that could meaningfully change your recommendation. Once I answer, use that context to give me a specific solution instead of generic advice."
+
+2. Find the Real Problem
+Prompt: "Here’s the problem I’m facing: [problem]. Don’t assume the problem I described is the real problem. Analyze the situation, separate the symptoms from the underlying causes, identify the root issue that matters most, and then recommend the most effective solution. Explain what makes you believe that is the real problem."
+
+3. Think Like a Strategic Expert
+Prompt: "My goal is [goal], and my current situation is [situation]. Think like a highly experienced professional who is responsible for achieving this result. Identify the highest impact opportunities, the biggest risks, the important tradeoffs, and the actions that would create the most leverage. Then give me a clear priority order for what I should do next."
+
+4. Challenge My Thinking
+Prompt: "Here’s my idea: [idea]. I don’t want encouragement. I want an honest stress test. Challenge my assumptions, identify weaknesses, expose hidden risks, consider how someone smarter or more experienced might criticize it, and show me stronger alternatives. Then tell me what I should change before moving forward."
+
+5. Teach ChatGPT Your Standard
+Prompt: "Here are examples of the quality I want: [examples]. Study them carefully and identify the patterns behind their structure, clarity, tone, depth, specificity, and effectiveness. Then use those patterns to create a new result for this request: [request]. Do not copy the examples. Match the underlying standard while making the result original."
+
+6. Create a Self Improvement Loop
+Prompt: "Complete this task: [task]. After producing your first answer, review it as a demanding expert. Look for weak reasoning, vague wording, missing information, unnecessary content, unsupported assumptions, and anything that could reduce its effectiveness. Improve every important weakness, then give me the final version that you would actually be confident using."
+
+7. Turn One Goal Into a Complete System
+Prompt: "I want to achieve [goal]. Don’t just give me individual tips. Build a repeatable system for achieving this goal with ChatGPT. Break the process into clear stages, show me what information to provide at each stage, give me the type of prompt to use, explain how to evaluate the output, and show me how to improve the process over time."
+
+8. Make Better Decisions With ChatGPT
+Prompt: "I need to choose between [options]. First determine the decision criteria that matter most for my specific goal. Then evaluate each option against those criteria, including benefits, drawbacks, risks, opportunity cost, effort, and long term value. Identify the most important uncertainty, explain the tradeoffs, and recommend the option you would choose if you had to make the decision."
+
+9. Turn Answers Into Action
+Prompt: "I need to accomplish [goal]. Give me an action focused answer rather than general advice. Identify the few actions that will have the biggest impact, put them in the right order, explain exactly how to execute each one, give me realistic examples where useful, and tell me what results I should look for to know whether the approach is working."
+
+10. Build Your Personal ChatGPT Advantage
+Prompt: "I want ChatGPT to give me a meaningful advantage in [skill, career, business, or task]. Analyze where ChatGPT could save me time, improve my thinking, increase the quality of my work, or help me make better decisions. Then design a personalized workflow I can repeatedly use, including what to give ChatGPT, what to ask it, how to evaluate its output, and how to turn the best results into a reusable system."
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
