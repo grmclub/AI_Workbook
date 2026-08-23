@@ -7,7 +7,29 @@ This is the direct adaptation — just fill in [TOPIC]:
 Create a visually rich infographic about [TOPIC]. Research its core components, history/origin, key facts, and unique characteristics. Present information through annotated visuals and structured callouts, not generic sections. Style it like a bold graphic illustration: a detailed, photorealistic or hyper-detailed central visual as the focal point, supported by diagrams, callouts, and concise text elements. Use clean backgrounds and a mix of photorealism with strong graphic elements (shapes, icons, color blocking) in a layered composition. Make it dense, tactile, and professionally authored.
 
 -------------------------------------------------
+## 20 Essential AI Video Styles (Complete Prompt Guide)
+
+Getting Started with Seedance 2.0
+1. Import Your Reference Frame
+Begin by uploading the image that will serve as the visual foundation for your animation. Seedance will use this image to preserve the subject and overall composition.
+
+2. Pick a Visual Style
+Choose one of the styles from the cheat sheet—whether you're aiming for a cinematic film look, realistic documentary footage, anime, sci-fi, or a vintage aesthetic.
+
+3. Apply the Master Prompt
+Use the uploaded image as the visual reference. Animate it using a [VIDEO STYLE] aesthetic while preserving the same subject, environment, framing, lighting direction, and overall composition. Recreate the scene with the visual characteristics of this style, including its color palette, texture, mood, and artistic treatment. Add realistic movement, smooth cinematic motion, subtle camera dynamics, natural depth, professional color grading, crisp details, and ultra-high-resolution 4K quality.
+
+4. Swap Styles, Keep Everything Else
+Once you've generated one version, simply replace [VIDEO STYLE] with another style from the list. This lets you compare completely different visual treatments while maintaining the exact same scene, making it perfect for testing creative directions or building consistent variations.
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
 
