@@ -18,6 +18,39 @@ PROMPT 5: The Rewrite My Future Prompt
 If you had to predict my next 12 months based on my current patterns from our chats, what would happen? Then give me 3 prompts I should run every week to change that trajectory and force you to build a better conclusion about me.
 
 -------------------------------------------------
+
+
+
+1. THE MIRROR
+Act as my brutal shadow self. Based on everything you know about how I prompt you, tell me the 3 self-sabotaging patterns I keep repeating, why I'm stuck, and what I'm too scared to admit. No sugarcoating.
+
+2. THE FUTURE YOU
+You are me 10 years from now. You took the safe path, didn't take risks, stayed comfortable. Write a letter to me today telling me what you regret and what life looks like now. Make it hurt enough to make me act.
+
+3. THE INCOME AUTOPSY
+I make $ a month. My skills are [SKILLS]. Tear apart why I'm not making $10K/month. What beliefs, excuses, and dumb daily habits are keeping me broke? Give me a 7-day fix.[X]
+
+4. THE RELATIONSHIP TRUTH
+Analyze my recent messages/way I talk about relationships [PASTE]. Tell me what attachment style I have, how I ruin connections, and what my ex would say is the real reason we ended. Be brutally honest.
+
+5. THE DEATHBED TEST
+I have 24 hours to live. My life is [DESCRIBE LIFE]. What did I waste time on? What did I never do that I should have? Give me a list of 5 things I need to start TODAY before it's too late.
+
+6. THE AI THAT KNOWS YOUR LIES
+List 10 lies I'm telling myself about [MY GOAL: e.g., business, fitness, studies]. For each lie, give me the uncomfortable truth and one action that proves I'm done lying.
+
+7. THE 90-DAY DOOM TIMELINE
+If I continue living exactly like I did in the last 30 days, paint a terrifyingly detailed picture of my life in 90 days, 1 year, and 5 years. Health, money, relationships. No filter.
+
+8. THE MANIPULATION DETECTOR
+Here is a conversation [PASTE SCREENSHOT/TEXT]. Analyze it like a FBI psychologist. Is this person manipulating me, gaslighting me, love-bombing? What are the red flags I'm blind to?
+
+9. THE SUCCESS LEAK
+Audit my typical day [PASTE YOUR SCHEDULE]. Show me where I leak 3+ hours daily, what 2 activities give me 80% results, and what I need to delete forever to become dangerous.
+
+10. THE UNRECOGNIZABLE
+Build me a 30-day protocol to become completely unrecognizable. Physically, mentally, financially. Daily non-negotiables, weekly checks, rules that scare me. Make it so intense my friends won't recognize me in 30 days.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
