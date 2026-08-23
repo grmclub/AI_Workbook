@@ -166,5 +166,41 @@ Pro tip: Copy-paste each prompt and just fill the with your info. ChatGPT will d
 
 
 -------------------------------------------------
+## 7 PROMPTS TO UNLOCK ENTREPRENEUR MODE - Save this 🔖
+
+1. THE BUSINESS BRAIN
+Activate Entrepreneur Mode. Act as my billionaire co-founder who has built 3 x $100M businesses. My skills are: [YOUR SKILLS], I have $[BUDGET], [HOURS]/day. Give me 5 business models that fit me perfectly and can hit $10K/mo in 90 days. Rank them by speed to first dollar, not hype.
+
+2. THE VALIDATION MACHINE
+Take Business Idea #1: [PASTE]. Brutally validate it. Who is the exact customer? What painful problem do I solve? Who are 3 competitors and how do I beat them? What are 3 reasons this will fail? If it passes, give me a 1-sentence offer people will actually pay for.
+
+3. THE ONE-PAGE LAUNCH PLAN
+Create a 7-day launch plan for this offer: [PASTE OFFER]. Day-by-day tasks, no fluff. Include: name, price, where to find first 10 customers, what to build first, what to ignore. I want my first sale in 7 days, not 7 months.
+
+4. THE CONTENT THAT SELLS
+Act as a content strategist who made $1M from content. For my business [BUSINESS DESCRIPTION], give me 30 days of content that gets customers, not likes. 10 hooks for Reels, 10 carousel ideas, 10 tweet threads. Each piece must end with a soft CTA to my offer.
+
+5. THE SALES PAGE IN 5 MINUTES
+Write a high-converting landing page for [OFFER]. Structure: Headline that hits pain, subheadline with promise, 3 benefits with bullets, social proof template, FAQ that kills objections, CTA. Tone: confident, not salesy. Like Stripe / Linear. Give me copy I can paste into Carrd / Framer.
+
+6. THE MONEY SYSTEM
+Build me a lean money system. For [BUSINESS], tell me: What to charge, what tools I need for $0-$50/mo (no expensive stack), how to take payments, how to automate delivery, and how to track profit daily in a simple sheet. Make it so I can run this alone.
+
+7. THE CEO DASHBOARD (This is the mode)
+From now on you are my CEO Coach in Entrepreneur Mode. Every morning I will tell you what I did yesterday. You will: 1) Tell me what I did wrong, 2) Give me the 3 MITs (Most Important Tasks) for today that move revenue, 3) Hold me accountable like a $1000/hr coach. Start by creating my KPI tracker.
+
+How to use it:
+Open ChatGPT > Create a Project called "My Business - Entrepreneur Mode" > Upload your skills/resume > Paste Prompt #1, then run 2-7 in order. Don't skip validation.
 -------------------------------------------------
 -------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
+
+
+
