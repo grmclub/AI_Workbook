@@ -6,25 +6,25 @@ list prompts to generate content for teaching high school science
 
 Teachers: 7 ChatGPT prompts to regain your prep time
 
-1 | “Create a 45-minute lesson plan on [topic] for [grade], including standards, a hook, stepwise activities, and an assessment.”
+1 | "Create a 45-minute lesson plan on [topic] for [grade], including standards, a hook, stepwise activities, and an assessment."
 → Ready-to-use plans instantly.
 
-2 | “Turn this article/chapter into a concise, student-friendly summary for [grade level].”
+2 | "Turn this article/chapter into a concise, student-friendly summary for [grade level]."
 → Make difficult material accessible.
 
-3 | “Generate 15 quiz questions (mix of MC, true/false, and short answer) on [topic] with an answer key.”
+3 | "Generate 15 quiz questions (mix of MC, true/false, and short answer) on [topic] with an answer key."
 → Assess understanding in minutes.
 
-4 | “Suggest 5 interactive stations or classroom games to teach [concept] to [age group].”
+4 | "Suggest 5 interactive stations or classroom games to teach [concept] to [age group]."
 → Increase engagement and participation.
 
-5 | “Write a brief, upbeat newsletter blurb for parents summarizing this week in [subject].”
+5 | "Write a brief, upbeat newsletter blurb for parents summarizing this week in [subject]."
 → Faster, clearer parent updates.
 
-6 | “Create homework or classwork tasks on [topic] at three difficulty tiers.”
+6 | "Create homework or classwork tasks on [topic] at three difficulty tiers."
 → Basic differentiation for mixed-ability classes.
 
-7 | “Generate a clear, transparent rubric for grading [project/essay] with descriptors for each level.”
+7 | "Generate a clear, transparent rubric for grading [project/essay] with descriptors for each level."
 → Consistent grading, fewer follow-ups.
 
 -------------------------------------------------------------
@@ -186,7 +186,7 @@ Insert any topic 👇
 
 Prompt: 
 
-Based on { TOPIC }, create a high-quality vertical “encyclopedia-style educational infographic image.”
+Based on { TOPIC }, create a high-quality vertical "encyclopedia-style educational infographic image."
 This image should NOT look like a regular poster or a simple illustration. Instead, it should feel like a structured knowledge guide that combines:
 the feeling of a collectible reference handbook
 a modern encyclopedia page
@@ -200,7 +200,7 @@ Several zoomed-in detail sections highlighting important features
 Multiple modular information panels with rounded corners
 Clear title hierarchy and highlighted key labels
 Concise yet information-rich encyclopedia content
-Visual scoring systems, quick summaries, or “Top 5” modules
+Visual scoring systems, quick summaries, or "Top 5" modules
 
 The information sections should automatically adapt to the topic. Select and combine relevant categories such as:
 Basic profile
@@ -226,7 +226,7 @@ Comfortable reading experience
 
 The final result should feel like a real publishable encyclopedia knowledge card designed for reading, collecting, and creating as part of a consistent series — NOT like a commercial advertisement poster.
 The image must strongly emphasize:
-“knowledge integration + modular information design + handbook/reference-style presentation.”
+"knowledge integration + modular information design + handbook/reference-style presentation."
 
 -------------------------------------------------
 
@@ -237,7 +237,7 @@ The design should combine:
 • A large, central, semi-realistic anatomical illustration of the [BODY PART] (clean, slightly cartoon-stylized but medically accurate)
 • Multiple labeled sections arranged around it in a structured layout
 Include the following sections:
-• Title: “How does the [BODY PART] work?” in bold, playful typography
+• Title: "How does the [BODY PART] work?" in bold, playful typography
 • A short, simple explanation (kid-friendly language)
 • Labeled anatomy diagram with callouts
 • Step-by-step process (numbered flow or cycle)
@@ -245,7 +245,7 @@ Include the following sections:
 • Zoom-in detail (e.g., cells, internal structure)
 • Fun facts section
 • Health tips / how to keep it healthy
-• Optional: “Did you know?” or comparison panel
+• Optional: "Did you know?" or comparison panel
 Style & layout:
 • Bright, engaging, kid-friendly educational poster style
 • Clean grid-based layout (like a classroom infographic)
@@ -275,7 +275,7 @@ Create a high-value hand-drawn sketchnote infographic about: [TOPIC]
 The infographic should visually explain the topic in a way that is educational, engaging, and instantly understandable. Structure the content like a professional visual thinking session or graphic recording.
 Style & Design Requirements:
 - Use a pristine white paper background (no lines or textures).
-- Use a hand-drawn “graphic recording” / “visual thinking” style.
+- Use a hand-drawn "graphic recording" / "visual thinking" style.
 - Draw using black fine-liner ink for outlines, text, arrows, and illustrations.
 - Add simple accent shading using only teal, orange, and muted red markers.
 - Make the layout feel clean, premium, and highly organized.
@@ -324,7 +324,7 @@ constraints:
 simplify components to explain to a high school student 
 background should be in a light color 
 Output:
-• Title: “Layout of a modern airport” in bold, playful typography
+• Title: "Layout of a modern airport" in bold, playful typography
 A4 format (1:1.414), 2480×3508 px or higher resolution, ultra-sharp.
 
 -------------------------------------------------------------
