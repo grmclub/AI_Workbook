@@ -21,7 +21,7 @@ Prompt:
 4. Test Yourself Like an Exam
 The best way to measure learning? Test yourself.
 Prompt:
-"Create a quiz on [TOPIC] with multiple-choice, true/false, and real-world questions. Hide the answers until I finish, then explain every answer."
+"Create a quiz on [TOPIC] with multiple-choice, true.false, and real-world questions. Hide the answers until I finish, then explain every answer."
 
 5. Learn From Your Mistakes
 Mistakes aren’t setbacks—they’re your fastest path to improvement.
@@ -98,37 +98,37 @@ Here are 7 powerful prompts to start learning smarter: 👇
 1. Learn ANY Topic From Scratch
 Stop guessing what to learn next. Let AI build your learning path.
 Prompt:
-“I want to master [TOPIC] from beginner to advanced. Build a step-by-step roadmap with clear milestones, daily practice, and the best free resources. Tell me what to learn first—and why.”
+"I want to master [TOPIC] from beginner to advanced. Build a step-by-step roadmap with clear milestones, daily practice, and the best free resources. Tell me what to learn first—and why."
 
 2. Turn AI Into Your Personal Tutor
 Don’t just ask AI for answers. Make it teach you.
 Prompt:
-“Act as my personal tutor for [TOPIC]. Teach me one lesson at a time using simple explanations, real examples, and quick quizzes. Only move on when I’ve mastered the current lesson.”
+"Act as my personal tutor for [TOPIC]. Teach me one lesson at a time using simple explanations, real examples, and quick quizzes. Only move on when I’ve mastered the current lesson."
 
 3. Practice Until It Sticks
 Learning happens when you practice—not just when you read.
 Prompt:
-“Give me 10 practice exercises for [TOPIC], starting easy and getting harder. After each answer, explain what I got right, what I got wrong, and how to improve.”
+"Give me 10 practice exercises for [TOPIC], starting easy and getting harder. After each answer, explain what I got right, what I got wrong, and how to improve."
 
 4. Test Yourself Like an Exam
 The best way to measure learning? Test yourself.
 Prompt:
-“Create a quiz on [TOPIC] with multiple-choice, true/false, and real-world questions. Hide the answers until I finish, then explain every answer.”
+"Create a quiz on [TOPIC] with multiple-choice, true.false, and real-world questions. Hide the answers until I finish, then explain every answer."
 
 5. Learn From Your Mistakes
 Mistakes aren’t setbacks—they’re your fastest path to improvement.
 Prompt:
-“Review my work like a teacher. Don’t fix it for me. Identify my mistakes, explain why they’re wrong, and guide me toward the correct answer.”
+"Review my work like a teacher. Don’t fix it for me. Identify my mistakes, explain why they’re wrong, and guide me toward the correct answer."
 
 6. Build a Daily Learning Habit
 15 minutes a day beats hours of inconsistent studying.
 Prompt:
-“Create a 15-minute daily learning plan for [TOPIC] for the next 30 days. Make each lesson build on the previous one and include one practical exercise.”
+"Create a 15-minute daily learning plan for [TOPIC] for the next 30 days. Make each lesson build on the previous one and include one practical exercise."
 
 7. Master Any Skill Faster
 Don’t just memorize. Understand it. Apply it. Teach it.
 Prompt:
-“Help me master [TOPIC] using the Feynman Technique. Teach me the concept, have me explain it in my own words, identify gaps, and repeat until I can explain it simply.”
+"Help me master [TOPIC] using the Feynman Technique. Teach me the concept, have me explain it in my own words, identify gaps, and repeat until I can explain it simply."
 
 
 -------------------------------------------------
@@ -168,7 +168,7 @@ Explain each concept in plain English, give me a real-world example, and tell me
 4. Find the answer buried in a long document
 Upload a PDF, report, research paper, or other document and make ChatGPT do the digging.
 Copy this prompt:
-Analyze this document and find everything related to [TOPIC/QUESTION].
+Analyze this document and find everything related to [TOPIC.QUESTION].
 For each relevant finding:
 Explain it in plain English
 Tell me why it matters
@@ -203,7 +203,7 @@ Prompt:
 
 4. PRACTICE YOUR NEXT INTERVIEW
 Prompt:
-"Act as a world-class interviewer specializing in [FIELD/ROLE]. Conduct a realistic mock interview with me one question at a time. I will answer each question before you continue. After every answer, evaluate my response, explain what I did well, identify what I should improve, provide a stronger example answer, and then ask the next interview question. Gradually increase the difficulty as the interview progresses."
+"Act as a world-class interviewer specializing in [FIELD.ROLE]. Conduct a realistic mock interview with me one question at a time. I will answer each question before you continue. After every answer, evaluate my response, explain what I did well, identify what I should improve, provide a stronger example answer, and then ask the next interview question. Gradually increase the difficulty as the interview progresses."
 
 5. GATHER MULTIPLE PERSPECTIVES
 Prompt:
@@ -221,7 +221,7 @@ Text: [INSERT WRITING]"
 
 8. EXPLAIN COMPLEX IDEAS SIMPLY
 Prompt:
-"Suggest [X] clear, memorable metaphors for explaining the benefits of [PRODUCT/SERVICE]. Make each metaphor easy for a beginner to understand and connect it to a familiar real-world experience. For each metaphor, briefly explain why it works and what concept it helps communicate."
+"Suggest [X] clear, memorable metaphors for explaining the benefits of [PRODUCT.SERVICE]. Make each metaphor easy for a beginner to understand and connect it to a familiar real-world experience. For each metaphor, briefly explain why it works and what concept it helps communicate."
 
 -------------------------------------------------
 
@@ -255,5 +255,37 @@ Prompt: "I need to accomplish [goal]. Give me an action focused answer rather th
 10. Build Your Personal ChatGPT Advantage
 Prompt: "I want ChatGPT to give me a meaningful advantage in [skill, career, business, or task]. Analyze where ChatGPT could save me time, improve my thinking, increase the quality of my work, or help me make better decisions. Then design a personalized workflow I can repeatedly use, including what to give ChatGPT, what to ask it, how to evaluate its output, and how to turn the best results into a reusable system."
 -------------------------------------------------
+7 prompts—and make ChatGPT think before it writes: 👇
+
+1. The Thinking-First System
+"Act as a reasoning partner, not an answer machine. Before answering, clarify what I’m actually asking, identify the assumptions, point out missing information, and outline two possible approaches. Then ask me which approach to use. Only after I choose, deliver the complete answer with the reasoning clearly explained.
+My question: [insert]"
+
+2. The Context Loader
+"Before answering, interview me. Ask the 8 questions you need to understand my situation—not give me generic advice. Cover my goal, constraints, resources, deadline, what I’ve already tried, and how I’ll measure success. Ask one question at a time, wait for my answer, then give me a response built entirely around what I told you."
+
+3. The Constraint Frame
+"Solve my problem three different ways under different constraints. First with zero budget, second with one week and a small budget, and third with unlimited resources. For each version, explain the tradeoffs, first three steps, and what could go wrong. Then tell me which version best fits my situation—and why the other two could be traps.
+My problem: [insert]"
+
+4. The Rubric Method
+"Before writing anything, build the rubric you’ll be judged against. Analyze my request, the audience, the professional standard, and the most common failure points. Create 6 criteria, defining what excellent vs. mediocre looks like for each. Then produce the work, score it against your rubric, and revise the two lowest-scoring areas.
+My request: [insert]"
+
+5. The Steelman Pass
+"Take the position I give you and build the strongest possible case against it. Examine my reasoning, the evidence I rely on, the alternatives I dismissed, and the incentives shaping my view. Give me the 3 strongest counterarguments, the logic behind each, when each would be decisive, and the strongest version of my position that survives all three.
+My position: [insert]"
+
+6. The Output Shape Setter
+"Before writing, determine the ideal shape for the answer. Analyze my request, how I’ll use the result, the right length, and the format that makes it easiest to scan. Propose the structure, headers, section lengths, level of detail, and what should be left out entirely. Wait for my approval, then write the final answer exactly to that structure."
+
+7. The Self-Critique Loop
+"Deliver your answer, then immediately review it like a demanding editor. Check for vague claims, missing steps, unsupported assumptions, and places where you simply told me what I wanted to hear. Identify the 5 weakest points, rewrite the 2 worst sections, and tell me what additional information you’d need from me to improve the result further. Do everything in one message."
+
 -------------------------------------------------
 -------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
