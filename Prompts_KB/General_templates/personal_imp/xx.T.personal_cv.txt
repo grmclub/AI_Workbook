@@ -1,0 +1,48 @@
+
+-------------------------------------------------
+7 ChatGpt Prompts to Fix Your CV & Job Search👇👇
+
+1. ZERO-CALLBACK DIAGNOSTIC
+Prompt:
+Act as a senior recruiter and career strategist. Analyze my resume, target role, and application history to identify the most likely reasons I am not receiving interview calls. Look for positioning problems, missing keywords, weak experience framing, unclear achievements, and potential role mismatches. Give me specific, actionable recommendations to improve my chances of getting interviews.
+Resume & details: [Paste here]
+
+2. TARGET ROLE CLARITY
+Prompt:
+Based on my background, skills, experience, and career goals, identify the most realistic job titles I should target. Prioritize roles where my current profile is a strong match and eliminate roles that are too broad, unrealistic, or poorly aligned. Then define a focused job-search direction with the top roles I should prioritize.
+Background: [Paste here]
+
+3. APPLICATION STRATEGY BUILDER
+Prompt:
+Create a structured job-application strategy based on my target role, experience, and current job market. Recommend how many positions I should apply to each week, how to prioritize opportunities, when to customize my resume and cover letter, how to approach referrals and networking, and how to track applications efficiently. Build the strategy around quality, consistency, and maximizing interview opportunities.
+
+4. RECRUITER 10-SECOND TEST
+Prompt:
+Review my resume and LinkedIn profile from the perspective of a recruiter who has only 10 seconds to scan my profile. Identify what immediately stands out, what is confusing, what feels weak, and what information is missing. Then rewrite the most important sections to make my profile clearer, more relevant, and more impactful.
+Profile: [Paste here]
+
+5. COLD OUTREACH MESSAGE BUILDER
+Prompt:
+Write a concise, professional outreach message I can send to a recruiter or hiring manager about the [JOB TITLE] position. Make it personalized, confident, and focused on my relevance and potential value. Keep it natural and conversational without sounding desperate, overly formal, or generic.
+My background: [Paste here]
+
+6. INTERVIEW SIMULATOR
+Prompt:
+Act as a hiring manager interviewing candidates for the [JOB TITLE] position. Conduct a realistic mock interview tailored to the role. Ask one question at a time and wait for my answer before continuing. After each answer, evaluate my clarity, structure, relevance, confidence, and overall effectiveness. Give me specific feedback and show me how I could improve my answer.
+
+7. COMPLETE JOB SEARCH AUDIT
+Prompt:
+Conduct a complete audit of my job-search strategy, including my resume, target roles, applications, networking, recruiter outreach, LinkedIn presence, and interview preparation. Identify the biggest weaknesses and opportunities for improvement. Then turn everything into one cohesive, step-by-step job-search system designed to increase the quality of my applications and maximize my chances of getting interviews.
+My current approach: [Paste here]
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
