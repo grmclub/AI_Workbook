@@ -54,6 +54,33 @@ Create a mini battle plan showing 3 differentiators and one killer talking point
 Finish with a 2-sentence elevator pitch that wins attention instantly.”
 
 -------------------------------------------------
+🚨 BREAKING: Claude can now build a business plan that looks like it came straight from McKinsey.
+Here are 8 essential prompts every founder needs before launching. 👇
+
+
+Prompt 1 — One-Page Business Plan
+“Act as a top-tier strategy consultant. My business idea is [DESCRIBE IDEA]. Create a complete one-page business plan covering the problem, target customer, solution, revenue model, competitive advantage, and 90-day action plan. Make it concise enough to pitch, yet practical enough to start executing tomorrow.”
+
+Prompt 2 — Market Validation Report
+“Act as a senior market analyst. My idea is [DESCRIBE IDEA] for [TARGET AUDIENCE]. Analyze the market size, identify the top 3 competitors and their key weaknesses, uncover the most promising market gap I could own, and give me an honest verdict: worth building, needs repositioning, or too crowded?”
+
+Prompt 3 — Revenue Model Designer
+“Act as a startup CFO. My business is [DESCRIBE BUSINESS]. Develop 3 revenue model options: subscription, one-time purchase, and hybrid. For each, show how I make money, recommended pricing, realistic month-one revenue, and estimated break-even point. Then recommend the strongest option and explain why.”
+
+Prompt 4 — Go-To-Market Blueprint
+“Act as a senior growth strategist. My business is [DESCRIBE BUSINESS] for [TARGET CUSTOMER]. Build a practical plan to land my first 10 paying customers. Identify the fastest acquisition channels, craft the core message I should use, and reveal the one critical step most founders overlook that can cost them months of wasted effort.”
+
+Prompt 6 — Financial Projections Builder
+“Act as a startup CFO. My business is [DESCRIBE BUSINESS]. Build a clear 12-month financial model covering monthly revenue projections, key expenses, cash burn, and break-even month. Identify the 3 critical assumptions that could make or break these projections, and explain how sensitive the model is to each.”
+
+Prompt 5 — Competitor Teardown
+“Act as a senior competitive strategist. My business is [DESCRIBE BUSINESS]. Analyze my top 5 competitors across their strengths, weaknesses, pricing, positioning, and key advantages. Identify the most valuable gaps they’re leaving open and show me exactly where I can differentiate and win quickly.”
+
+Prompt 7 — Risk Assessment Report
+“Act as a senior business risk analyst. My idea is [DESCRIBE IDEA]. Identify the 5 biggest risks across market, execution, financial, legal, and competitive factors. For each risk, assess its likelihood and potential impact, then provide a practical mitigation strategy I can implement before investing any money.”
+
+Prompt 8 — Investor Pitch Summary
+“Act as an elite pitch coach. My business is [DESCRIBE BUSINESS]. Write a compelling 300-word investor summary covering the problem, solution, market opportunity, business model, traction, team, and funding ask. Make every sentence purposeful, concise, and persuasive. End with a powerful closing line that makes investors want the meeting.”
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
