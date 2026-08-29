@@ -283,6 +283,78 @@ My position: [insert]"
 "Deliver your answer, then immediately review it like a demanding editor. Check for vague claims, missing steps, unsupported assumptions, and places where you simply told me what I wanted to hear. Identify the 5 weakest points, rewrite the 2 worst sections, and tell me what additional information you’d need from me to improve the result further. Do everything in one message."
 
 -------------------------------------------------
+🚨 BREAKING: ChatGPT can now research almost any topic at a PhD-level depth in a single afternoon.
+These 8 powerful prompts take you from curious → fully informed. 👇
+
+1. The Research System
+"Act as a world-class research director and subject-matter expert. Build an evidence-based research briefing on [TOPIC].
+Identify the core debates, major viewpoints, strongest evidence, key disagreements, and unresolved questions.
+Deliver:
+• A 1-page executive summary
+• 10 essential terms
+• 5 high-quality sources
+• The key questions that reveal true understanding vs. surface-level knowledge."
+
+2. The Steel Man Pair
+"Act as two opposing experts debating [TOPIC]. Build the strongest, most intellectually honest case for each side.
+Analyze their assumptions, evidence, incentives, and strongest arguments. Identify where they genuinely agree.
+End with the single question whose answer would most change my view."
+
+3. The Evidence Audit
+"Act as a research methodologist. Audit the claim below and determine how strong the evidence really is.
+Assess the study design, sample size, effect size, replication, limitations, and whether the headline matches the actual finding.
+Return:
+• Confidence rating
+• Key caveats
+• Questions to ask before repeating the claim
+• What evidence would change your rating
+Claim: [PASTE CLAIM]"
+
+4. The Timeline Builder
+"Act as a historian of the field. Trace how [TOPIC] evolved into its current state.
+Identify the key turning points, breakthroughs, abandoned ideas, and influential people who shaped its direction.
+Deliver:
+• A dated timeline
+• Why each milestone mattered
+• The 3 pivotal moments that best explain where the field stands today."
+Reply
+Ebere Orji Aniekwe
+ ·
+Interesting
+Reply
+Merry Joseph Ajiboye
+ ·
+It will be flagged..
+
+5. The Jargon Decoder
+"Act as a translator between experts and beginners. Decode the key terms in [TOPIC] and explain each one twice:
+• Expert definition
+• Simple explanation I could give a friend
+Also flag overused terms, concepts that vary across subfields, commonly confused ideas, and the one term that signals genuine expertise."
+
+6. The Question Ladder
+"Act as a doctoral supervisor. Turn my vague interest into research questions worth answering.
+Identify what’s established, what remains uncertain, and what can realistically be investigated with my available resources.
+Build a 5-level question ladder from broad to specific, then identify the one question narrow enough to answer this month."
+
+8. The Briefing Delivery
+"Act as a communications advisor. Turn my research into a clear, persuasive 10-minute briefing.
+Analyze the audience’s knowledge level, the decision they need to make, what could overwhelm them, and the strongest objection they’re likely to raise.
+Deliver:
+• A compelling opening
+• 3 key points, each backed by evidence
+• Ideal slide count
+• The strongest answer to the hardest question I’m likely to face."
+
+7. The Source Sorter
+"Act as an academic librarian. Rank the sources below by how much weight they deserve.
+Evaluate funding, publication quality, peer review, recency, and whether each claim is supported by primary evidence or merely repeated elsewhere.
+Deliver:
+• A tiered source ranking
+• The 2 sources I should read in full
+• Sources to discard, with a brief reason
+Sources: [PASTE]"
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
