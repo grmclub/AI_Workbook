@@ -100,6 +100,24 @@ Prompt:
 "Train my AI clone to think long term by identifying emerging trends, improving positioning, and recommending actions that compound over time. Ensure every recommendation aligns with my personal brand, audience development, and business direction. Prioritize sustainable growth over short-term noise and align the strategy with [growth goals, income targets, or brand direction]."
 
 -------------------------------------------------
+##Life Audit
+
+1. THE LIFE AUDIT (You can't fix what you don't see)
+Act as my brutally honest life auditor. Based on this info about me: Age, daily routine [PASTE], income, goals [PASTE], bad habits [PASTE]. Give me a no-crap audit: What 3 things are ruining my life? What am I wasting time on? What is the ONE thing if I fixed it, everything else improves? Be ruthless.[X]
+
+2. THE $10K/MO BLUEPRINT
+You are my billionaire mentor. My skills are [PASTE SKILLS], I have 3 hours/day, $100 starting budget. Build me a realistic 120-day plan to hit $10K/month before 2027. Include: exact business model, daily tasks for Week 1, where to find first customers, tools I need, what to ignore. No motivational fluff, only actionable steps.
+
+3. THE UNBREAKABLE MIND & BODY PROTOCOL
+Design a 90-day protocol to make me mentally and physically unrecognizable. My current stats: Weight, sleep, focus level, anxiety. Give me: Morning routine (60 mins), evening routine (30 mins), workout plan (4 days/week, no gym needed option), diet rules, and 3 daily habits to kill brain fog and procrastination forever.[X]
+
+4. THE SKILL STACK THAT PRINTS MONEY
+The world is changing before 2027. AI will kill 50% of jobs. Based on my background in [YOUR FIELD], tell me the 3 high-income skills I must stack in the next 4 months to become irreplaceable. For each skill: why it matters in 2027, free resources to learn it in 30 days, and 1 small project to make money with it immediately.
+
+5. THE FUTURE SELF SIMULATOR
+Simulate my life on Jan 1st, 2027 if I execute everything above perfectly for 120 days. Be specific: What does my day look like? How much do I earn? How do I feel? What do people say about me? Then simulate it if I stay exactly as I am now. Make the contrast so painful I have no choice but to act today.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
