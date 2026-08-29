@@ -1,0 +1,91 @@
+
+
+-------------------------------------------------
+7 prompts to learn & focus
+
+1.
+"Here’s the result I want: [outcome]. Reverse engineer the fastest, simplest path to get there."
+→ Start from the end.
+
+2.
+"What am I missing that could completely change this outcome: [situation]?"
+→ Find blind spots.
+
+3.
+"For this goal: [goal], what actions will create most of the results?"
+→ 80/20 everything.
+
+4.
+"Turn this into a simple, repeatable system I can follow: [process]."
+→ Consistency wins.
+
+5.
+"Be brutally honest. What’s wrong, weak, or likely to fail here: [idea]?"
+→ Truth > comfort.
+
+6.
+"What opportunities am I overlooking in this situation: [context]?"
+→ Hidden leverage.
+
+7.
+"If I could only take one action to move this forward, what should it be: [goal]?"
+→ Momentum starts.
+
+Most people want more tools.
+But the real edge is:
+• better thinking
+• sharper focus
+• faster execution
+-------------------------------------------------
+##Quick summary and briefs
+
+1.
+The Executive Brief
+“Turn this into a one-minute executive briefing. Include the key insights, major risks, and recommended actions: [text].”
+
+2.
+The 80/20 Summary
+“Apply the 80/20 principle and extract the 20% of information that delivers 80% of the value: [text].”
+
+3.
+The Action-Only Summary
+“Don't summarize everything. List only the practical takeaways and specific actions I should take after reading this: [text].”
+
+4.
+The Beginner Version
+“Explain the main ideas as if you're teaching someone with no prior knowledge. Use simple language and real-world examples: [text].”
+
+5.
+The Decision Maker Prompt
+“Summarize this from the perspective of someone who has to make a decision. Highlight opportunities, risks, trade-offs, and missing information: [text].”
+
+6.
+The Memory Prompt
+“Convert this into concise bullet points that are easy to remember. End with the three most important insights.”
+
+8.
+The Critical Thinker Prompt
+“Summarize the main arguments, then identify weak assumptions, potential biases, and questions that remain unanswered.”
+
+7.
+The Compare & Contrast Prompt
+“Summarize this, then compare it with common alternatives, highlighting the biggest differences and why they matter.”
+
+Most people ask for shorter text.
+Power users ask for:
+• clarity
+• decisions
+• action
+That's where the real value is.
+
+
+-------------------------------------------------
+-------------------------------------------------
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
