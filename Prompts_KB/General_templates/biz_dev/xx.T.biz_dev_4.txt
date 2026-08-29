@@ -192,6 +192,35 @@ From now on you are my CEO Coach in Entrepreneur Mode. Every morning I will tell
 How to use it:
 Open ChatGPT > Create a Project called "My Business - Entrepreneur Mode" > Upload your skills/resume > Paste Prompt #1, then run 2-7 in order. Don't skip validation.
 -------------------------------------------------
+🚨Your Niche Is Full of Untapped Business Opportunities… You Just Need to Know Where to Look
+Here's How to Use AI to Find the Problems, Gaps & Opportunities Everyone Else Is Overlooking 👇
+
+📌 1. The “Business Time Travel” Prompt
+Most founders ask AI what to do now. Few ask AI what their business would look like two versions into the future. This prompt gives you an edge.
+📌 Prompt:
+“Act as a Future-Version Strategist. Imagine my business in Version 2.0 and Version 3.0 based on where the market is heading. Describe the upgrades, new opportunities, automation layers, and customer expectations that will define each version, and what decisions I must make NOW to reach them.”
+
+📌 2. The “Customer Emotion X-Ray” Prompt
+Entrepreneurs analyze data but rarely analyze emotional patterns behind buying behavior.
+📌 Prompt:
+“Analyze the emotional journey of a buyer in my industry. Identify the micro-emotions they feel at each stage; curiosity, hesitation, excitement, doubt, fear and reveal hidden emotional triggers I can use to influence conversions ethically.”
+
+📌 3. The “Undetected Competitor Strategy Swipe” Prompt
+Most competitor reviews feel basic. This one goes deeper, it extracts what competitors don’t even know they’re doing well.
+📌 Prompt Idea:
+“Reverse-engineer the subconscious strategies of my top 3 competitors. Identify tactics they’re using unintentionally, patterns they repeat but don’t publicly claim, and show how I can adapt these strategies more intelligently.”
+
+📌 4. The “Bottleneck Elimination Blueprint” Prompt
+Entrepreneurs often fix problems as they appear. But few ask AI to detect bottlenecks caused by their own habits. This prompt is for you👇
+📌 Prompt:
+“Act as a Business Efficiency Psychologist. Analyze how my personal work style, decisions, perfectionism, or delays might be creating bottlenecks in my business. Then build a system that removes ME as the bottleneck.”
+
+📌 5. The “Invisible Opportunity Mapping” Prompt
+Sometimes the best opportunities are quiet, emerging in overlooked corners of the market. Try this out👇
+📌 Prompt:
+“Conduct an Invisible Opportunity Scan on the [your industry] space. Identify 5 emerging but unnoticed market gaps, underserved audience segments, or problems no one is solving. Rank them by potential disruptive impact.”
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
