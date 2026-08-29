@@ -105,6 +105,63 @@
     /feedback — Send feedback to Claude
 
 ------------------------------------------------- 
+99 Claude Secret commands
+
+Email & Messages
+1. /Decline [Email] — Polite Refusal
+2. /Shorten [Email] — Half The Length, Key Points Kept.
+3. /Warmer [Email] — Less Stiff.
+4. /Followup [Topic] — Nudge For An Unanswered Email.
+5. /Sayno [Request] — A No That Protects The Relationship.
+6. /Bullet2email [Bullets] — Bullets Into A Clean Email.
+7. /Thanks [Person + Reason] — Short, Sincere Thank-You.
+8. /Confident [Email] — Strips Hedging And Apology.
+9. /Ooo [Dates + Backup] — Out-Of-Office Auto-Reply.
+10. /Hardmsg [Person + Topic] — Hard Message, Respectful.
+11. /Intro [Person A + Person B + Context] — Double Opt-In Intro.
+
+Write & Edit
+12. /Proof [Text] — Fixes Typos.
+13. /Rewrites [Sentence] — Five Versions.
+14. /Cut[Half] [Text] — Cuts Length.
+15. /Openers [Text] — Three Stronger Opening Lines.
+16. /Filler [Text] — Flags Weak Words.
+17. /Active [Text] — Passive To Active.
+18. /Human [Text] — Ai-Sounding Text Made Natural.
+19. /Examples [Text] — Adds Examples.
+20. /Simplify [Text] — Rewrites At A 12-Year-Old Level.
+21. /Titles [Text] — Title Options.
+22. /Tone [Text + Vibe] — Rewrites Text In A Chosen Tone.
+
+Think & Decide
+23. /Choose [A Vs B] — Weighs Options.
+24. /Realpc [Decision] — Pros And Cons.
+25. /Blindspot [Situation] — Surfaces What You Might Miss.
+26. /Steelman [View] — Opposing View.
+27. /Devil [Idea] — Devil's Advocate.
+28. /Skeptic [Plan] — Skeptic's Questions.
+29. /Steps [Problem] — Walks It Through One Step At A Time.
+30. /Ripple [Decision] — Maps Second-Order Consequences.
+31. /Premortem [Plan] — How It May Fail.
+32. /Mintest [Project] — Smallest Version To Test In A Week.
+
+Learn & Understand
+33. /Eli10 [Topic] — Explained For A Ten-Year-Old.
+34. /Primer [Topic] — Quick Crash Course.
+35. /Myths [Topic] — Common Misconceptions.
+36. /Analogy [Concept] — Real-World Comparison.
+37. /Quiz [Topic] — Five Questions.
+38. /Compare [A Vs B] — Differences.
+39. /Prereq [Topic] — What To Know.
+40. /Sum3 [Text] — Three-Bullet Summary.
+41. /Glossary [Topic] — Defines Key Terms.
+42. /Askbetter [Topic] — Questions You Should Be Asking.
+43. /Mentalmodel [Topic] — The One Model That Unlocks It.
+
+
+
+
+
 -------------------------------------------------
 ------------------------------------------------- 
 -------------------------------------------------
