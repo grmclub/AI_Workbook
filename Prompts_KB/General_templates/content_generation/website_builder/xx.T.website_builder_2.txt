@@ -192,6 +192,31 @@ Each prompt builds on the previous one, so Claude continuously improves the webs
 The result: a polished website that gets better with every step. 🚀
 
 -------------------------------------------------
+🚨 BREAKING: Claude can now build ULTRA-SMOOTH, animated websites that look like they came straight from a top-tier design agency — for FREE.
+Here are 7 powerful prompts to create premium websites: 👇
+
+1. Create the High-End Creative Direction
+Act as a world-class digital creative director. Transform [BRAND] into an ultra-smooth, premium website that feels crafted by a top-tier design studio. Define the visual identity, mood, typography, color palette, layout system, imagery, signature interactions, and motion language. Make every detail distinctive, modern, intentional, and conversion-focused—creating a memorable, original experience that feels genuinely premium.
+
+2. Design the Complete Experience
+Act as a world-class UX/UI designer. Design the complete website experience for [BRAND]. Map the navigation, hero, content flow, storytelling, product/service presentation, social proof, CTAs, forms, footer, and mobile experience. For every section, define its purpose, visual hierarchy, composition, interactions, and transitions. Make the entire journey feel seamless, premium, intuitive, and effortless to navigate.
+
+3. Create the Signature Hero
+Act as an elite creative technologist. Design a signature hero section for [BRAND] around one unforgettable visual concept. Define the composition, typography, imagery or 3D elements, lighting, depth, entrance animation, hover states, cursor interactions, and first-scroll transition. Make it instantly captivating while communicating the brand’s core value within seconds.
+
+4. Engineer Ultra-Smooth Motion
+Act as a world-class web motion designer. Create a premium motion system for [WEBSITE]. Define page-load choreography, scroll reveals, easing, parallax, text animations, image transitions, hover states, cursor effects, page transitions, and micro-interactions. Make every movement fluid, intentional, and seamlessly connected. Prioritize performance, consistency, and storytelling—never unnecessary effects.
+
+5. Build It With Claude
+Act as a senior AI web engineer. Create a step-by-step sequence of Claude prompts to build [WEBSITE] without manually writing code. Cover architecture, components, responsive design, styling, animations, interactions, smooth scrolling, forms, SEO, accessibility, and performance. Build in stages, instructing Claude to inspect existing work before changes, test every update, fix errors, and preserve all working features throughout development.
+
+
+6. Make It Feel Agency-Built
+Act as a premium digital-agency creative director. Audit [WEBSITE/SCREENSHOTS] and identify anything that feels generic, cheap, or AI-generated. Improve the typography, spacing, composition, hierarchy, imagery, motion, transitions, interactions, responsive behavior, and micro-details. Provide specific, actionable changes that add polish, sophistication, and the unmistakable feel of a custom-built site from a world-class studio.
+
+7. Final Smoothness & Launch Audit
+Act as my senior web engineer and creative QA director. Perform a final audit of [WEBSITE] covering animation smoothness, responsiveness, performance, accessibility, navigation, forms, SEO, browser compatibility, visual consistency, and conversion. Rank every issue by impact and priority, then provide exact fixes. Finish with a concise launch checklist to ensure the website is fast, flawless, ultra-polished, and production-ready.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
