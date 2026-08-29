@@ -1,0 +1,41 @@
+
+-------------------------------------------------
+🚨 8 Claude prompts to analyze Excel files like a pro. 👇🏻
+
+1. UPLOAD THE EXCEL FILE
+• Upload your Excel spreadsheet directly into Claude.
+• Works best for sales, finance, marketing, inventory, KPIs, and business data.
+• Claude automatically understands the spreadsheet’s structure and data.
+
+2. ASK CLAUDE TO ANALYZE THE DATA
+Prompt: “Analyze this spreadsheet like a senior business analyst. Explain what this data represents, identify the most important trends and patterns, detect anomalies or unusual values, point out missing information and possible errors, and provide high-level business insights that could help guide decision-making. Highlight anything that deserves further investigation and explain why it matters.”
+
+3. GENERATE EXCEL FORMULAS AUTOMATICALLY
+Prompt: “Generate the exact Excel formulas needed for this dataset. Help me calculate growth rates, profit margins, forecasts, averages, lookups, conditional logic, and other relevant metrics. For every formula, show me where it should be placed, explain what each part does, and provide a simple step-by-step explanation so I can apply it correctly. Use functions such as VLOOKUP/XLOOKUP, INDEX MATCH, SUMIFS, IF statements, Pivot Table logic, and advanced calculations whenever appropriate.”
+
+4. CLEAN + FIX THE DATA
+Prompt: “Act as a professional data-cleaning specialist and audit this spreadsheet for data-quality problems. Identify duplicate records, inconsistent formatting, missing values, broken or incorrect formulas, unusual outliers, inconsistent entries, and any other issues that could affect the accuracy of the analysis. For each issue you find, explain what is wrong, why it matters, and recommend the best correction or cleanup method.”
+
+5. ASK FOR BUSINESS INSIGHTS
+Prompt: “Act as a senior strategy consultant analyzing this spreadsheet. Identify the biggest business opportunities, major risks, hidden trends, customer behavior patterns, key revenue drivers, and areas of underperformance. Use the data to explain what is happening, why it may be happening, and what actions the business should consider taking to improve growth, profitability, efficiency, and overall performance.”
+
+6. GENERATE CHARTS + DASHBOARD IDEAS
+Prompt: “Analyze this dataset and recommend the most effective charts and dashboard layouts for presenting the information. For each recommendation, explain why the visualization is useful, what specific insight it should reveal, which chart type is most appropriate, which metrics should be displayed, and what the executive takeaway should be. Organize the recommendations into a clear dashboard structure that makes the most important information easy to understand at a glance.”
+
+7. BUILD AUTOMATION WORKFLOWS
+Prompt: “Design an automated reporting workflow based on this spreadsheet. Show me how to structure recurring reports, KPI tracking, automated alerts, performance summaries, dashboards, and other useful reporting processes. Recommend which tasks should be automated, what should trigger each action, what outputs should be generated, and how the workflow could reduce manual work while keeping decision-makers updated with the latest information.”
+
+8. EXECUTIVE SUMMARY MODE
+Prompt: “Summarize this spreadsheet as if you were presenting the findings to senior executives. Keep the summary concise, strategic, data-driven, and easy to understand. Focus primarily on the most important decisions, risks, opportunities, performance changes, and recommended actions. Prioritize the insights that executives need to know rather than simply repeating the numbers in the spreadsheet.”
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
