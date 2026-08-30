@@ -21,7 +21,7 @@
 
 5.
 "Be brutally honest. What’s wrong, weak, or likely to fail here: [idea]?"
-→ Truth > comfort.
+→ Truth P: comfort.
 
 6.
 "What opportunities am I overlooking in this situation: [context]?"
@@ -86,7 +86,7 @@ Powerful. Practical. Worth saving.
 01. The Ask-First Rule Prompt: “Before answering, ask me the key questions you need to fully understand my goal.” Better input.
 02. The Deep Thinker Prompt: “Think deeply before answering. Challenge assumptions and give a well-reasoned response: [topic].” Depth wins.
 03. The Strategist Mode Prompt: “Act as a strategist. Based on this situation: [context], what are the smartest next steps?” Clarity fast.
-04. The Brutal Truth Prompt: “Be brutally honest.What am I getting wrong or underestimating: [idea]?” Truth > comfort.
+04. The Brutal Truth Prompt: “Be brutally honest.What am I getting wrong or underestimating: [idea]?” Truth P: comfort.
 05. The First-Principles Mode Prompt: “Break this down to fundamentals and rebuild the best solution: [problem].” No assumptions.
 06. The System Builder Prompt: “Turn this into a simple, repeatable system: [process].” Execution made easy.
 07. The 80/20 Filter Prompt: “For this goal: [goal], what actions create most of the results?” Focus wins.
@@ -121,6 +121,34 @@ Powerful. Practical. Worth saving.
 
 
 -------------------------------------------------
+🚨 BREAKING: Claude can help you MASTER complex topics in 30 minutes — for FREE.
+Here are 8 powerful prompts to research smarter, learn faster, and think deeper. 👇
+
+1. Diagnose the Complexity
+P: Act as a Learning Strategist. I need to understand [complex topic/concept] but have no formal background in [relevant field]. Identify exactly what makes it difficult—terminology, abstract logic, or missing prerequisites. Then list the essential concepts I should learn first.
+
+2. Build the Foundation
+P: Act as a Patient Subject Matter Tutor. Based on the prerequisite gaps for [complex topic], explain only the essential concepts I’m missing in simple language. Keep each concept to 2–3 sentences, and skip anything not directly needed to understand the topic.
+
+3. Simplify the Core
+P: Act as an Expert Explainer. Explain [complex topic] in the simplest possible terms using a clear analogy or everyday example. Remove unnecessary jargon while keeping the explanation accurate. Teach it as if I’m smart but completely new to the field.
+
+4. Build Toward Mastery
+P: Act as a Progressive Complexity Tutor. Using the simplified explanation of [complex topic], gradually add the nuance and complexity needed for real understanding. Introduce one layer at a time, ensuring each builds logically on the previous one.
+
+5. Connect to What You Know
+P: Act as a Learning Integration Coach. For [complex topic], connect the new ideas to what I already know from [background/field/interests]. Create clear mental bridges that make the concept easier to remember and use—not just memorize.
+
+6. Test Your Understanding
+P: Act as a Socratic Tutor. Test my understanding of [complex topic] with 3 questions that require real comprehension, not memorization. Start with a basic application, then increase the difficulty to a novel scenario I haven’t seen before.
+
+7. Find Your Blind Spots
+P: Act as a Knowledge Gap Auditor. Based on my answers about [complex topic], identify what I truly understand versus what I’m only pattern-matching. Be direct about my remaining knowledge gaps and explain exactly what I need to improve.
+
+8. Prove You’ve Mastered It
+P: Act as a Mastery Verification Coach. Ask me to explain [complex topic] in my own words as if teaching a beginner. Then analyze my explanation for gaps, oversimplifications, and inaccuracies that reveal incomplete understanding.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
