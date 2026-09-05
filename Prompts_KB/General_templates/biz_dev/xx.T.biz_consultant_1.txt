@@ -1,0 +1,88 @@
+
+
+-------------------------------------------------
+##ChatGPT-5 Can Do 90% of Consulting Work with This Custom Workflow
+
+1. Strategic Growth Advisor
+“You’re my senior strategy consultant for a company in the [industry] field.
+Perform a deep SWOT + market gap analysis to reveal our biggest untapped growth lever and the single biggest threat.
+Conclude with one bold move we should take immediately to shift momentum in our favor.”
+
+2. Marketing Strategy Architect
+“You’re my marketing strategist. Our audience is [describe audience].
+Develop 5 original, data-backed customer acquisition plays that align with real buyer psychology — not just ad trends.
+Rank them by potential ROI and implementation difficulty.”
+
+3. Root-Cause Problem Solver
+“You’re my diagnostic consultant. The issue is [describe problem].
+Use the 5 Whys method to trace the true root cause behind it, and summarize the full chain of reasoning.
+End with a short action plan that directly attacks the real cause — not the symptom.”
+
+4. Decision-Making Blueprint
+“You’re my decision strategist. We’re choosing between [Option A] and [Option B].
+Build a quick weighted decision matrix using 5 critical factors (impact, cost, risk, time, scalability).
+Score each option, pick the best one, and defend it in one concise argument.”
+
+5. Product Innovation Sprint
+“You’re my product development partner. We’re building a [product/service] for [target audience].
+Write the 5 essential user stories (use: ‘As a [user], I want to [action], so I can [benefit].’)
+From those, define a clear MVP and one bold differentiator that would make it irresistible.”
+
+6. Risk & Resilience Planner
+“You’re my risk strategy consultant for [project or department].
+Identify the 3 most probable risks and the 3 highest-impact risks.
+For each, give a brief prevention plan and a fast recovery strategy if it happens.”
+
+7. Operational Excellence Engineer
+“You’re my process improvement consultant. Our workflow for [describe process] wastes time or resources.
+Rebuild it into a 5-step lean system that increases speed, consistency, and accountability.
+Add one automation or AI-driven improvement suggestion.”
+
+8. Content & Visibility Strategist
+“You’re my content strategy consultant. We want to become the go-to authority in [niche/topic].
+Create a content pillar system with 3 major pillars and 5 detailed content ideas per pillar.
+Make them high-authority pieces that position us as experts — not just posters.”
+
+9. Performance & Focus Coach
+“You’re my personal productivity mentor. I’m struggling to manage [task type or workload].
+Design a weekly schedule separating deep work, admin, and strategy.
+Ensure it’s sustainable, prevents burnout, and doubles focus time.”
+
+10. Sales & Persuasion Strategist
+“You’re my sales strategy expert. We sell [product/service] and compete with [competitor].
+Create a mini battle plan showing 3 differentiators and one killer talking point that flips their main strength into our advantage.
+Finish with a 2-sentence elevator pitch that wins attention instantly.”
+
+-------------------------------------------------
+🚨 BREAKING: Claude can now build a business plan that looks like it came straight from McKinsey.
+Here are 8 essential prompts every founder needs before launching. 👇
+
+
+Prompt 1 — One-Page Business Plan
+“Act as a top-tier strategy consultant. My business idea is [DESCRIBE IDEA]. Create a complete one-page business plan covering the problem, target customer, solution, revenue model, competitive advantage, and 90-day action plan. Make it concise enough to pitch, yet practical enough to start executing tomorrow.”
+
+Prompt 2 — Market Validation Report
+“Act as a senior market analyst. My idea is [DESCRIBE IDEA] for [TARGET AUDIENCE]. Analyze the market size, identify the top 3 competitors and their key weaknesses, uncover the most promising market gap I could own, and give me an honest verdict: worth building, needs repositioning, or too crowded?”
+
+Prompt 3 — Revenue Model Designer
+“Act as a startup CFO. My business is [DESCRIBE BUSINESS]. Develop 3 revenue model options: subscription, one-time purchase, and hybrid. For each, show how I make money, recommended pricing, realistic month-one revenue, and estimated break-even point. Then recommend the strongest option and explain why.”
+
+Prompt 4 — Go-To-Market Blueprint
+“Act as a senior growth strategist. My business is [DESCRIBE BUSINESS] for [TARGET CUSTOMER]. Build a practical plan to land my first 10 paying customers. Identify the fastest acquisition channels, craft the core message I should use, and reveal the one critical step most founders overlook that can cost them months of wasted effort.”
+
+Prompt 6 — Financial Projections Builder
+“Act as a startup CFO. My business is [DESCRIBE BUSINESS]. Build a clear 12-month financial model covering monthly revenue projections, key expenses, cash burn, and break-even month. Identify the 3 critical assumptions that could make or break these projections, and explain how sensitive the model is to each.”
+
+Prompt 5 — Competitor Teardown
+“Act as a senior competitive strategist. My business is [DESCRIBE BUSINESS]. Analyze my top 5 competitors across their strengths, weaknesses, pricing, positioning, and key advantages. Identify the most valuable gaps they’re leaving open and show me exactly where I can differentiate and win quickly.”
+
+Prompt 7 — Risk Assessment Report
+“Act as a senior business risk analyst. My idea is [DESCRIBE IDEA]. Identify the 5 biggest risks across market, execution, financial, legal, and competitive factors. For each risk, assess its likelihood and potential impact, then provide a practical mitigation strategy I can implement before investing any money.”
+
+Prompt 8 — Investor Pitch Summary
+“Act as an elite pitch coach. My business is [DESCRIBE BUSINESS]. Write a compelling 300-word investor summary covering the problem, solution, market opportunity, business model, traction, team, and funding ask. Make every sentence purposeful, concise, and persuasive. End with a powerful closing line that makes investors want the meeting.”
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
