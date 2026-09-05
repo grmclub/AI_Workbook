@@ -282,6 +282,40 @@ Paste into ChatGPT:
 "Take my claim through this sequence: Signal → Deconstruct → Pattern → Principle → Competing Models → Falsification → Application → Consequence → Feedback → Revision. Preserve unresolved contradictions instead of forcing closure. Then give me the strongest version that survives."
 The sixth is the important one. The first five make ChatGPT less agreeable. The sixth makes disagreement part of an actual epistemic operating system, rather than just instructing the model to be contrarian.
 -------------------------------------------------
+* ChatGPT Prompts to learn anything 10X Faster:
+
+1/Metaphorical Learning
+"Illustrate the concept of [insert topic] through metaphors or storytelling. Use relatable examples to make the learning experience engaging and memorable."
+
+2/Mind Mapping
+"Guide me in creating a comprehensive mind map for [insert topic]. Include key concepts, subtopics, and connections to enhance my visualization and understanding of the material."
+
+3/Feynman Technique
+"Help me explain [insert topic] in simple terms as if teaching it to a young child. This should ensure I grasp the fundamental concepts clearly."
+
+4/Spaced Repetition Schedule
+"Create a spaced repetition learning schedule for [insert topic]. Include specific intervals for review sessions and brief quizzes to reinforce memory retention over time."
+
+5/Growth Mindset Development
+"Provide insights on how to cultivate a growth mindset in relation to [insert topic]. Focus on strategies that encourage resilience, persistence, and continuous improvement."
+
+6/Achieving Flow State
+"Guide me on how to achieve a state of 'flow' while learning [insert topic]. Include tips for maintaining focus, minimizing distractions, and enhancing my overall learning experience."
+
+7/Curiosity-Driven Exploration
+"Generate a list of intriguing questions or exploration tasks related to [insert topic] that will stimulate my curiosity and encourage independent learning."
+
+8/Feedback Mechanism
+"Design a feedback loop for assessing my understanding of [insert topic]. Include methods for self-assessment and ways to track my progress over time."
+
+9/Reverse Engineering Concepts
+"Assist me in reverse engineering [insert topic]. Break down complex ideas into simpler components to facilitate better understanding and application."
+
+10/Scenario-Based Learning
+"Create a series of hypothetical scenarios where I can apply knowledge related to [insert topic]. This should help me develop problem-solving skills and practical understanding."
+
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
