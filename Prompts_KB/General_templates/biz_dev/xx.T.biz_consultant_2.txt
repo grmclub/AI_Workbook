@@ -1,0 +1,107 @@
+
+-------------------------------------------------
+🚨 BREAKING: Claude is bringing McKinsey-level strategic thinking to your business.
+Here are 8 powerful Claude prompts every founder should run before launching. 👇
+
+Prompt 1 — One-Page Business Plan
+Act as a McKinsey-level strategy consultant. Analyze my business idea: [DESCRIBE].
+Create a concise, investor-ready one-page plan covering:
+• Problem & target customer
+• Solution & value proposition
+• Revenue model
+• Competitive advantage
+• Go-to-market strategy
+• Key KPIs
+• 90-day execution plan
+Challenge weak assumptions, identify key risks, and give me the 3 highest-impact actions to take before launching.
+
+Prompt 2 — Market Validation Report
+Act as a McKinsey-level market strategist. Analyze my business idea: [DESCRIBE] for [TARGET AUDIENCE].
+Evaluate:
+• Market size, demand & opportunity
+• Top 3 competitors + weaknesses
+• The strongest market gap I can own
+• Key risks & validation signals
+• Final verdict: Build it or skip it — and why
+Keep it concise, evidence-driven, brutally honest, and actionable.
+
+Prompt 3 — Revenue Model Designer
+Act as a McKinsey-level startup CFO and revenue strategist. Analyze my business: [DESCRIBE].
+Build 3 revenue models:
+• Subscription
+• One-time purchase
+• Hybrid
+For each, show:
+• Revenue mechanism
+• Recommended pricing
+• Month-one revenue estimate
+• Break-even point
+Then recommend the strongest model and explain why.
+Keep it practical, data-driven, and focused on sustainable profitability.
+
+Prompt 4 — Go-To-Market Blueprint
+Act as a McKinsey-level growth strategist and go-to-market expert. My business is: [DESCRIBE] for [TARGET CUSTOMER].
+Build a practical launch plan covering:
+• Fastest channels to land the first 10 customers
+• Strongest positioning & messaging
+• A repeatable customer acquisition strategy
+• The #1 founder mistake — and how to avoid it
+• A 30-day execution roadmap
+Keep it focused, practical, and immediately actionable.
+
+Prompt 5 — Competitor Teardown
+Act as a McKinsey-level competitive intelligence strategist. My business is: [DESCRIBE].
+Analyze my top 5 competitors across:
+• Strengths & weaknesses
+• Pricing & offers
+• Positioning & differentiation
+• Target customers
+Then identify the biggest market gaps, overlooked opportunities, and fastest ways I can win.
+Keep it strategic, concise, evidence-based, and action-oriented.
+
+Prompt 6 — Financial Projections Builder
+Act as a McKinsey-level startup CFO and financial strategist. My business is: [DESCRIBE].
+Build a realistic 12-month financial model covering:
+• Monthly revenue projections
+• Key operating expenses
+• Monthly burn rate
+• Break-even month
+• Best-, base-, and worst-case scenarios
+Highlight the 3 assumptions that could most impact the results.
+Keep it realistic, numbers-driven, easy to understand, and investor-ready.
+
+Prompt 7 — Risk Assessment Report
+Act as a McKinsey-level business risk strategist. My idea is: [DESCRIBE].
+Identify the 5 biggest risks across:
+• Market
+• Execution
+• Financial
+• Legal
+• Competitive
+For each, provide:
+• Likelihood & potential impact
+• Early warning signs
+• How to mitigate or eliminate it before launch
+Rank each risk by severity and urgency.
+Keep it concise, practical, brutally honest, and actionable.
+
+
+Prompt 8 — Investor Pitch Summary
+Act as a McKinsey-level startup pitch strategist. My business is: [DESCRIBE].
+Write a compelling 300-word investor pitch covering:
+• Problem & urgency
+• Solution & unique value
+• Market opportunity
+• Business model
+• Traction & proof
+• Team & unfair advantage
+• Funding ask & use of funds
+End with a powerful closing that creates urgency and earns the next meeting.
+Keep every sentence concise, credible, persuasive, and investor-focused.
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
