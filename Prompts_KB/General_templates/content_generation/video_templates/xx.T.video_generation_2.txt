@@ -160,8 +160,38 @@ Here is a diverse collection of 30 AI video style prompts designed to produce di
     29. Polaroid Time-Lapse: A instant film photo lying on a table as the image inside slowly develops and shifts from a hazy white blur into a bright summer beach scene.
     30. Microscopic Cosmic: Zooming into a drop of water to reveal what looks like a swirling galaxy of glowing star clusters and nebulae, blending microscopic with cosmic scales.
 
+-------------------------------------------------
+🚨 BREAKING: CHATGPT can now create a full YouTube channel for you with AI, like an agency that generates $10,000 a month.
 
+Prompt 1 — Niche and Positioning
+"Analyze the 10 YouTube niches with the highest ad revenue, low competition, and high constant demand. For each one, give me: average revenue per thousand views, content difficulty, monetization methods beyond ads, and a 3-word channel concept."
+What it gives you: A data-based niche decision, not based on assumptions
 
+Prompt 2 — Channel Identity
+"I'm going to create a YouTube channel about [NICHE]. Create a complete identity: channel name (5 options), slogan, target audience profile, content pillars (4) and a 'unique mechanism' that differentiates me from other creators."
+What it gives you: A brand, not just a channel.
+
+Prompt 3 — 90-Day Content Plan
+"Create a 90-day content calendar for a new channel in [NICHE]. Include: 12 search-optimized titles, posting frequency, which videos to prioritize for ranking vs virality, and a content progression that builds authority over time."
+What it gives you: A plan that grows with time.
+
+Prompt 4 — Script System
+"Write a complete YouTube script titled '[VIDEO TITLE]'. Use this structure: hook (first 30 seconds to capture attention), problem, development of the solution, 3 key ideas, call to action, and closing that connects to the next video. Tone: [conversational/authority/etc.]"
+What it gives you: Scripts that retain audience and increase watch time.
+
+Prompt 5 — SEO Strategy and Thumbnails
+"For the video '[TITLE]', give me: 3 thumbnail ideas with text, an optimized title (under 60 characters), description (with timestamps, keywords, and links), and 10 tags. Also suggest variations to test different thumbnails."
+What it gives you: More clicks and discovery even before publishing.
+
+Prompt 6 — Monetization System
+"I have a YouTube channel in [NICHE] with [X] subscribers. Create a complete monetization plan beyond ads: affiliates, digital product ideas, template for getting sponsors, and a free resource to capture emails from my audience."
+What it gives you: Multiple income streams without relying solely on ads
+
+Prompt 7 — Growth Engine and Reuse
+"Take this YouTube script or transcript and turn it into: a thread for X (Twitter), a post for LinkedIn, 3 short video ideas, an email, and a Pinterest description. Also tell me which platforms to prioritize based on my niche."
+What it gives you: One video → 7+ pieces of content with no extra work
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
+-------------------------------------------------
+
