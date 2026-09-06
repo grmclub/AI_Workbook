@@ -35,6 +35,33 @@ Brief: [PASTE BRIEF]"
 Brief: [PASTE BRIEF]"
 
 -------------------------------------------------
+🚨 BREAKING: Claude can now research any topic at a PhD level in 20 minutes. For free.
+Here are 8 prompts to master research with Claude: 👇
+
+ 1. The "Asymmetric-Yield" Literature Bottleneck Scout
+Act as an elite research methodologist. I want to map the complete research landscape of [My Research Topic] from the ground up. Conduct a rapid structural analysis to identify the three biggest gaps in the literature, major methodological weaknesses, and overlooked research opportunities where current studies rely on outdated assumptions or limited evidence. Then build a rigorous text-based verification framework to validate claims, assess source credibility, and prioritize the strongest directions for further research.
+
+2. The "Prestige-Identity" Core Axiom Extraction Matrix
+Act as a premium academic information architect. Transform a dense collection of source materials into a high-utility conceptual matrix. Organize the knowledge using a structured framework built around Primary Definitional Axioms, High-Contrast Methodological Discrepancies, and Quantifiable Metric Anchors to surface the highest-signal insights, expose meaningful patterns, and eliminate low-value qualitative filler.
+
+3. The "Pattern-Interrupt" Literature Review Pipeline SOP
+Act as a master direct-response information engineer. Design a repeatable Standard Operating Procedure (SOP) for reviewing 10 research papers simultaneously. Create a high-contrast, pattern-interrupt document structure with clear heading hierarchies, using ALL CAPS for DOMAINS or DATASETS, to reduce cognitive fatigue, accelerate information extraction, and reveal key trends, insights, and methodological patterns at a glance.
+
+4. The "Humanized-Velocity" Complex Analogy Engine
+Act as an inbound cognitive science educator. Create a text-based framework for transforming complex academic concepts into clear, human-centered explanations. Design a natural, zero-fluff narrative structure that converts dense terminology, abstract theories, and technical formulas into intuitive, conversational analogies that maximize rapid understanding, long-term retention, and deep conceptual clarity.
+
+5. The "Hyper-Targeted" Multi-Variable Hypothesis Parser
+Act as an advanced epistemic token optimizer. Create three distinct, high-impact input parsing frameworks designed to analyze multiple conflicting scientific variables and research studies simultaneously while preserving contextual accuracy. Each framework should use a high-contrast, pattern-interrupt structure that systematically cross-examines inconsistencies, highlights anomalies, and validates evidence before generating conclusions.
+
+6. The "Two-Step" Dialectical Synthesis Pipeline
+Act as an elite academic peer reviewer. Design a structured synthesis framework that automatically pressure-tests any technical claim. Build a strict two-step process: first, generate a rigorous, evidence-based counterargument that challenges the thesis from multiple perspectives; second, synthesize both positions to identify logical strengths, hidden assumptions, validation gaps, and the most defensible evidence-based conclusion.
+
+7. The "Skeptic-Filter" Source Validity Audit Matrix
+Act as a master investigative research auditor. Create a repeatable, text-based verification framework that functions as an adversarial filter for evaluating source credibility. Design a clear, high-contrast audit matrix that minimizes confirmation bias, enforces rigorous citation cross-checking, detects weak or conflicting evidence, and maximizes the accuracy, reliability, and integrity of every research synthesis.
+
+8. The "Velocity-Check" 20-Minute Deep Research Audit
+Act as a data-driven knowledge pipeline operations auditor. Evaluate my 20-minute research sprint using these performance metrics: [Source Papers Filtered], [Core Axioms Isolated], [Logical Discrepancies Caught %], and [Synthesis Alignment]. Diagnose the exact instruction design flaws, formatting inefficiencies, delimiter inconsistencies, or context bottlenecks limiting performance, then recommend precise optimizations to improve speed, accuracy, and research quality.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
