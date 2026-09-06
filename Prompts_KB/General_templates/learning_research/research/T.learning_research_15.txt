@@ -323,6 +323,38 @@ Paste this: "After I solve a problem in [skill], don't validate it just because 
 7. Reverse Teaching Simulator
 Paste this: "Pretend that you are the student and I will teach you [skill]. Ask me the simple questions of a real beginner and, every time I use a technical term, ask for an example. When I explain something wrong, pretend to believe it and follow my flawed logic all the way to an absurd conclusion, so that I realize the mistake myself. Only stop when my explanation is completely coherent."
 -------------------------------------------------
+🚨 Copy & paste these powerful ChatGPT prompts to 10X your productivity, save hours, and get more done with less effort. 👇
+
+1. 🧠 Strategic Thinking Partner
+"Act as my strategic thinking partner. Analyze my situation, identify the key decisions I need to make, challenge my assumptions, expose blind spots, and show me the highest-leverage actions I should take. Don’t just agree with me—tell me what I need to hear."
+
+2. 🎯 Goal → Action Plan
+"Take this goal: [GOAL]. Turn it into a realistic execution plan. Define the outcome, break it into milestones, identify dependencies and obstacles, prioritize the highest-impact actions, and give me a clear step-by-step plan I can start today."
+
+3. ⚡ Priority Filter
+"Here is everything on my plate: [TASKS]. Act as a ruthless prioritization expert. Categorize each task by impact, urgency, effort, and consequence. Tell me what to do now, delegate, automate, postpone, or eliminate—and explain why."
+
+4. ⏱️ Time Optimization
+"Analyze my schedule: [SCHEDULE]. Find where my time is being wasted, identify low-value activities, and redesign my day around deep work, high-impact priorities, recovery, and realistic constraints. Give me a schedule I can actually follow."
+
+5. 🔍 Find the Bottleneck
+"My current goal is [GOAL], and my current approach is [APPROACH]. Diagnose why progress is slower than it should be. Identify the single biggest bottleneck, the root cause behind it, and the smallest change that could create the biggest improvement."
+
+6. 🤖 AI Automation Finder
+"Analyze my recurring tasks: [TASKS]. Identify what can be automated, delegated, simplified, or eliminated using AI. Rank the opportunities by time saved, difficulty, and potential impact. Then design the simplest workflow for the top 3."
+
+7. ✍️ Turn Messy Ideas Into Clarity
+"Here are my raw thoughts: [PASTE]. Organize them into a clear structure. Separate facts, assumptions, problems, ideas, decisions, and next actions. Remove repetition and turn the chaos into a concise action plan."
+
+8. 🧪 Devil’s Advocate
+"Challenge my plan: [PLAN]. Assume you are trying to prove it will fail. Identify the strongest objections, hidden risks, unrealistic assumptions, opportunity costs, and failure points. Then show me how to strengthen the plan before I execute it."
+
+9. 📚 Learn Faster
+"I need to learn [TOPIC] for [GOAL] within [TIMEFRAME]. Act as an expert learning designer. Build the fastest practical learning path using the 20% of concepts that produce 80% of the results. Include what to learn, what to ignore, practice exercises, checkpoints, and a way to test whether I actually understand it."
+
+10. 🔄 Weekly Productivity Audit
+"Act as my productivity coach. Review my week: [WEEK]. Identify what produced results, what wasted time, what I should stop doing, what I should continue, and what I should change. Find the highest-leverage improvement for next week and give me 3 specific actions to implement."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
