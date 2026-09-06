@@ -197,5 +197,48 @@ The Friction Eliminator
 
 
 -------------------------------------------------
+* Drop one word in front of your prompt and it changes the entire response.
+Here’s the 10 codes below 👇
+
+1. /TRUTHMODE
+Stops it from agreeing with everything you say.
+Gives you the answer you'd actually need to hear, not the one that feels nice
+
+2. /ELI10
+Breaks down anything complicated like you're 10 years old.
+No jargon, no assumed background knowledge.
+
+3. /REDTEAM
+Instead of cheering your plan on, it goes looking for the holes in it.
+Built to argue with you, not agree with you.
+
+4. /HORMOZI
+Answers like someone who's actually built and sold companies.
+Direct, no fluff, straight to what moves the needle.
+
+5. /human
+Makes the output sound like a person wrote it.
+Not stiff, not robotic, not obviously AI.
+
+6. /FUTUREYOU
+Answers as the version of you who already went through this.
+Gives you the hindsight before you need it.
+
+7. /UNLEARN
+Points out the outdated beliefs quietly holding your decisions back.
+The ones you don't notice because you've had them so long.
+
+8. /80/20
+Finds the smallest set of actions that get you most of the result.
+Cuts straight past the busy work.
+
+9. /SOCRATES
+Doesn't just hand you the answer.
+Asks you questions until you find it yourself.
+
+10. /LINDYMODE
+Filters out whatever's trendy and unproven.
+Only gives advice that's actually held up over time.
+
 -------------------------------------------------
 -------------------------------------------------
