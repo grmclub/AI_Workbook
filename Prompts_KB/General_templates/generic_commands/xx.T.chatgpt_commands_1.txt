@@ -241,4 +241,124 @@ Filters out whatever's trendy and unproven.
 Only gives advice that's actually held up over time.
 
 -------------------------------------------------
+## 99 ChatGPT Prompt Codes.
+Save these shortcuts to get better answers 👇
+
+1. /human: — natural human-like writing
+2. /expert: — specialist-level answers
+3. /ceo: — founder mindset analysis
+4. /viral: — high-engagement content ideas
+5. /seo: — search-optimized content
+6. /critic: — find weaknesses and flaws
+7. /teacher: — explain clearly and simply
+8. /eli5: — explain like I’m 5
+9. /brief: — shortest possible answer
+10. /strategy: — long-term planning mode
+11. /copywriter: — persuasive marketing copy
+12. /research: — deep research mode
+13. /brainstorm: — generate creative ideas
+14. /promptengineer: — improve any prompt
+
+15. /summarize: — summarize the key points
+16. /simplify: — make complex content simple
+17. /detailed: — give a comprehensive explanation
+18. /stepbystep: — explain step by step
+19. /examples: — provide practical examples
+20. /analyst: — analyze data or information
+21. /compare: — compare multiple options
+22. /proscons: — show advantages and disadvantages
+23. /decision: — help make the best decision
+24. /planner: — build an actionable plan
+25. /roadmap: — create a roadmap to a goal
+26. /action: — turn ideas into action steps
+27. /prioritize: — rank tasks by importance
+28. /productivity: — improve productivity
+
+29. /focus: — identify the most important task
+30. /time: — create a time-management plan
+31. /learn: — build a learning plan
+32. /study: — create an effective study strategy
+33. /quiz: — test knowledge with questions
+34. /flashcards: — create study flashcards
+35. /interview: — prepare for interviews
+36. /resume: — improve resume content
+37. /career: — give career guidance
+38. /mentor: — respond like a personal mentor
+39. /coach: — give practical coaching
+40. /consultant: — provide professional recommendations
+41. /editor: — improve clarity and quality
+42. /proofread: — find grammar and spelling errors
+
+43. /rewrite: — rewrite with better wording
+44. /professional: — make writing professional
+45. /casual: — make writing conversational
+46. /friendly: — make writing warm and friendly
+47. /persuasive: — make the message more convincing
+48. /concise: — remove unnecessary words
+49. /polish: — refine the final version
+50. /tone: — adjust the writing tone
+51. /storyteller: — turn information into a story
+52. /hook: — create attention-grabbing hooks
+53. /headline: — generate powerful headlines
+54. /caption: — write social-media captions
+55. /linkedin: — create LinkedIn content
+56. /instagram: — create Instagram content
+
+57. /youtube: — create YouTube content
+58. /reels: — generate short-form video ideas
+59. /script: — write a video or presentation script
+60. /email: — write an effective email
+61. /sales: — create sales-focused messaging
+62. /offer: — create an irresistible offer
+63. /brand: — develop brand messaging
+64. /customer: — think from the customer’s perspective
+65. /audience: — analyze the target audience
+66. /competitor: — analyze competitors
+67. /market: — analyze market opportunities
+68. /startup: — think like a startup strategist
+69. /business: — develop business ideas
+70. /pricing: — develop a pricing strategy
+
+71. /funnel: — build a marketing funnel
+72. /growth: — find growth opportunities
+73. /content: — build a content strategy
+74. /calendar: — create a content calendar
+75. /ideas: — generate fresh ideas
+76. /creative: — think creatively and differently
+77. /unpopular: — challenge conventional thinking
+78. /devilsadvocate — argue the opposing viewpoint
+79. /contrarian — find alternative perspectives
+80. /assumptions — identify hidden assumptions
+81. /risks — identify potential risks
+82. /factcheck — separate facts from claims
+83. /verify — identify what needs verification
+84. /logic — check reasoning and logic
+
+85. /rootcause — find the root cause of a problem
+86. /debug — find and fix problems
+87. /solution — generate practical solutions
+88. /alternative — suggest better alternatives
+89. /optimize: — improve an existing approach
+90. /automate: — find ways to automate the task
+91. /template: — create a reusable template
+92. /checklist: — create a practical checklist
+93. /framework: — build a structured framework
+94. /matrix: — organize options into a decision matrix
+95. /table: — convert information into a table
+96. /json: — structure the answer as JSON
+97. /roleplay: — simulate a realistic scenario
+98. /reverse: — work backward from the desired result
+99. /ultimate: — give the strongest complete answer
+
 -------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
+
+
+
+
+
