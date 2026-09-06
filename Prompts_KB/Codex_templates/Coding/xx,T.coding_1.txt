@@ -1,0 +1,35 @@
+
+-------------------------------------------------
+##  7 levels of Codex 👇
+
+Level 1: Chat
+Ask Codex about errors, files, bugs or changes you want to make.
+
+Level 2: Access
+Use Codex where you actually work: ChatGPT, web, CLI, IDE or desktop.
+
+Level 3: Connectors
+Connect Codex to your projects, files and tools so it has the context it needs.
+
+Level 4: Browser
+Let Codex preview your website or app, find problems and help fix them.
+
+Level 5: Skills
+Turn your best instructions into reusable workflows so Codex can repeat tasks consistently.
+
+Level 6: Computer Use
+Let Codex interact with apps, buttons, menus and pages to test workflows and report back.
+
+Level 7: Background Tasks
+Give Codex a task in the cloud and let it keep working while you move onto something else.
+
+The shift is simple:
+Level 1 = asking AI for help.
+Level 7 = giving AI work to do.
+That’s where Codex starts getting seriously powerful.
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
