@@ -1,0 +1,84 @@
+
+-------------------------------------------------
+🚨 BREAKING: Claude can now help you build an ELITE ATHLETE TRAINING PROTOCOL to maximize muscle growth, strength, and performance. For free.
+Here are 8 powerful prompts to build a world-class physique: 👇
+
+1. 🧬 Build My Elite Physique Blueprint
+Act as an elite strength, hypertrophy, and athletic-performance coach. Analyze my [AGE], [HEIGHT], [WEIGHT], [TRAINING EXPERIENCE], [CURRENT PHYSIQUE], [GOAL PHYSIQUE], [SPORT/ACTIVITY], and [SCHEDULE]. Build a realistic long-term transformation blueprint covering muscle growth, strength, athleticism, nutrition, conditioning, and recovery. Prioritize sustainable progress, measurable milestones, and a clear strategy I can follow consistently.
+
+2. 🏋️ Engineer My Muscle-Building Protocol
+Act as a world-class hypertrophy coach. Design my optimal weekly training program based on my [GOAL], [EXPERIENCE], [AVAILABLE DAYS], [EQUIPMENT], and [LIMITATIONS]. Include exercises, sets, reps, RIR, rest periods, exercise order, training frequency, progression rules, and substitutions. Optimize for maximum muscle growth while managing fatigue and recovery.
+
+3. 📈 Build My Progressive Overload Engine
+Create a complete progression system for my training program. Define exactly when to increase weight, reps, sets, or exercise difficulty. Include double progression, plateau strategies, stalled-lift solutions, fatigue management, missed-session rules, and deload timing. Base progression on performance trends and recovery—not forced progress every workout.
+
+4. 🍚 Engineer My Performance Nutrition
+Act as an evidence-based sports nutrition coach. Using my [AGE], [HEIGHT], [WEIGHT], [ACTIVITY LEVEL], [TRAINING VOLUME], and [GOAL], estimate practical starting calories and macros. Build a flexible nutrition framework covering protein targets, carbohydrate timing, healthy fats, meal ideas, hydration, and clear adjustment rules based on body-weight trends, recovery, and training performance.
+
+5. ⚡ Build My Athletic Performance System
+Act as an elite athletic-performance coach. Combine hypertrophy, strength, explosiveness, conditioning, mobility, and athleticism into one weekly training system based on my [GOAL/SPORT]. Determine the ideal training split, exercise selection, volume, intensity, and recovery while minimizing interference between different training qualities.
+
+6. 😴 Optimize My Recovery Like an Athlete
+Act as a high-performance recovery specialist. Analyze my [SLEEP], [STRESS], [TRAINING LOAD], [NUTRITION], [CARDIO], and [DAILY ACTIVITY]. Build a practical recovery protocol covering sleep, hydration, rest days, fatigue monitoring, mobility, nutrition timing, and deloads. Identify my biggest recovery bottlenecks and prioritize the changes that will have the greatest impact.
+
+7. 📊 Build My Physique Performance Dashboard
+Create a simple weekly tracking system for my physique and performance. Track body weight, measurements, progress photos, key lifts, reps, training volume, calories, protein, sleep, energy, and recovery. Identify the trends that matter most and create clear rules for when to adjust calories, training volume, cardio, or recovery.
+
+8. 🧠 Become My Elite Physique Coach
+Act as my long-term, evidence-based physique and performance coach. Each week, I’ll provide my body weight, training log, nutrition, sleep, recovery, and progress data. Analyze everything, identify my single biggest bottleneck, and tell me exactly what to maintain, increase, reduce, test, or change next week to maximize sustainable progress.
+-------------------------------------------------
+🚨 chatgpt is a free university in your pocket but most people are barely scratching the surface. 🔝
+here are 7 powerful prompts to turn it into your personal professor and learn almost anything faster:👇
+
+🚨 1. build my personalized ai university
+prompt:
+act as a world-class university curriculum designer. build a complete, personalized learning program for [topic].
+first, ask me about my skill level, learning goal, deadline, weekly study time, preferred learning style, and biggest challenges.
+then create a structured path from beginner to advanced with lessons, projects, milestones, assessments, and recommended resources. focus on practical skills and real-world mastery.
+
+🚨 2. become my personal professor
+prompt:
+act as my personal university professor and expert tutor for [topic].
+teach me step-by-step using simple explanations, practical examples, real-world analogies, visual explanations when useful, and interactive exercises.
+after every lesson, test my understanding, explain my mistakes, adapt the next lesson to my performance, and give me a practical challenge.
+don't just give me information — make sure i can actually understand and apply it.
+
+🚨 3. teach me how experts think
+prompt:
+don't just teach me [topic] — teach me how experts think about it.
+show me the mental models, decision-making frameworks, patterns, common mistakes, advanced problem-solving strategies, professional workflows, and real-world case studies experts use.
+challenge my reasoning and explain why experts make certain decisions. help me develop expert-level judgment instead of simply memorizing information.
+
+🚨 4. create my high-speed learning blueprint
+prompt:
+design the fastest practical path for mastering [topic] without wasting time on low-impact information.
+identify the highest-impact concepts, then build a structured system with daily lessons, weekly milestones, active recall, spaced repetition, practical exercises, quizzes, mini-projects, revision sessions, and progress checkpoints.
+recommend the best free and paid resources for each stage and adjust the plan based on my progress.
+
+🚨 5. turn this chat into a live classroom
+prompt:
+transform this conversation into a fully interactive classroom for [topic].
+teach one lesson at a time. after each lesson, ask me questions, challenge my reasoning, give me practical exercises, simulate real-world situations, and correct misunderstandings immediately.
+adapt future lessons based on my performance. don't move to the next topic until i've demonstrated genuine understanding.
+act like a demanding but supportive professor focused on helping me truly master the subject.
+
+🚨 6. create my mastery roadmap
+prompt:
+i want to become highly skilled in [topic].
+build a complete mastery roadmap covering beginner fundamentals, intermediate concepts, advanced techniques, real-world projects, portfolio ideas, practice schedules, weekly milestones, and monthly assessments.
+recommend the most valuable books, courses, communities, ai tools, and certifications where relevant.
+show me exactly what to learn, what to practice, what to build, and what i should be able to do before moving to the next level.
+
+🚨 7. find my knowledge gaps
+prompt:
+i'm currently learning [topic]. act as an expert assessor and diagnose exactly what i don't understand.
+ask me progressively harder questions. after every answer, evaluate my understanding, identify knowledge gaps, explain what i misunderstood, provide clearer examples, assign targeted practice, and retest me on weak areas.
+keep adapting the questions until you've verified my understanding.
+finish by creating a personalized revision plan based only on the areas i still need to improve.
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
