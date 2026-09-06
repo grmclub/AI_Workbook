@@ -58,8 +58,36 @@ My current approach: [Paste here]
 ‎Prompt: "Perform a complete audit of my final CV: [paste]. Check every section: ATS compatibility, keyword strength, achievement quality, formatting clarity, summary impact, skills relevance, length appropriateness. Score each section out of 10. Tell me exactly what is still weak and the precise fix for each. I want this CV to score 90+ before I send it anywhere."
 
 -------------------------------------------------
--------------------------------------------------
+🚨 Claude is your new AI recruiter.
+Find hidden jobs, target top companies, and land better opportunities.
+8 prompts: 👇
 
+1. 🎯 The $72K Personal Recruiter Master Blueprint
+Act as my personal recruiter and career strategist. Find hidden $72K+ opportunities in [field] that most candidates never discover. Identify the best targets, explain why they are worth pursuing, and build a step-by-step strategy to help me approach, qualify, and secure them.
+
+2. 🔓 The Hidden Job Market Unlocker
+Act as a hidden job market specialist. Show me how to uncover genuine $72K+ opportunities in [field] before they become widely advertised. Use networking, referrals, company research, professional communities, and direct outreach to build a practical system for finding these roles.
+
+3. 🏢 The Before-They-Post Hiring Detector
+Act as a pre-hiring intelligence specialist. Identify companies in [field] that may be preparing to hire based on growth, funding, expansion, new projects, leadership changes, or team gaps. Rank the strongest opportunities and explain how I can approach each company before the role reaches major job boards.
+
+4. ✉️ The Hidden Opportunity Outreach Master
+Act as an expert in proactive career outreach. Write a personalized message to approach a company in [field] about a potential role that hasn't been publicly advertised. Make the message natural, confident, concise, and focused on the specific value I could bring to the company.
+
+5. 🤝 The Recruiter Network & Opportunity Builder
+Act as my recruiter networking strategist. Help me identify 5 recruiters who specialize in $72K+ positions in [field]. Create a personalized outreach strategy for each, including the first message, follow-up timing, relationship-building approach, and how to stay on their radar for future opportunities.
+
+6. 🎤 The Unlisted Job Interview Advantage
+Act as an expert interview coach for unlisted positions. Prepare me for a $72K+ interview in [field] that was discovered through direct outreach or networking. Cover likely questions, strong answers, value positioning, company research, and how to differentiate myself from typical applicants.
+
+7. 💰 The Maximum Compensation Negotiation Playbook
+Act as an expert salary negotiation strategist. Create a complete negotiation script for a $72K+ offer, including how to confidently discuss salary, demonstrate my value, respond to pushback, negotiate benefits, and maximize the overall package without damaging the relationship.
+
+8. 🗺️ The Complete $72K Career Domination Roadmap
+Act as my personal career strategist and recruiter. Build a complete roadmap to landing a realistic $72K+ role in [field] using hidden job opportunities, target-company research, direct outreach, recruiter relationships, strategic follow-ups, interview preparation, and salary negotiation. Organize everything into clear steps I can execute.
+
+
+-------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
