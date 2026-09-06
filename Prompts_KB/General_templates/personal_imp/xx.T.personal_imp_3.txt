@@ -76,8 +76,42 @@ ask me progressively harder questions. after every answer, evaluate my understan
 keep adapting the questions until you've verified my understanding.
 finish by creating a personalized revision plan based only on the areas i still need to improve.
 
-
 -------------------------------------------------
+
+🚨 BREAKING: ChatGPT 6 Astra is insanely good at using your computer on its own, yet many people are still doing everything themselves.
+Here are 10 prompts worth trying that could save you hours
+
+1. The inbox cleaner.
+"Open my email, find old newsletters, spam, receipts, and emails I never read. Unsubscribe where it is safe, sort important emails into folders, and show me anything I should reply to."
+
+2. Find me cheaper software.
+"Look at all the software tools I pay for. Check what I actually use, find cheaper options that do the same job, and show me how much money I could save each month."
+
+3. The job finder.
+"Search LinkedIn, Indeed, company websites, and other job sites for [job title] jobs in [location]. Only show me jobs posted recently, remove duplicates, and put the best ones in a spreadsheet with links."
+
+4. Build my weekly business report.
+"Look at my sales, website numbers, customer messages, tasks, and projects. Make one simple report that tells me what made money, what is not working, what customers want, and the three things I should focus on next week."
+
+5. Find work AI can do for me.
+"Look at the work I do every week. Find tasks that AI can do instead of me. For each task, tell me how much time it could save, what tools are needed, what could go wrong, and the easiest way to test it."
+
+6. Do this browser task for me.
+"Use the browser to complete this task: [task]. Open the websites, collect the information, fill in the forms when needed, and keep track of any problems. When finished, give me the result and simple steps I can use again."
+
+7. Test my website like a customer.
+"Open my website and use it like a new customer. Test the signup, buttons, forms, checkout, links, and main pages. Take screenshots of anything broken or confusing and tell me how to fix it."
+
+8. Study my competitors.
+"Visit my top 3 competitors. Check their website, prices, offers, features, signup process, and emails. Tell me what they do better, what they do worse, and three ideas I can use to improve my own business."
+
+9. Build me a simple tool people will use.
+"Create a small online tool for [audience] that solves this problem: [problem]. Make it simple, useful, and easy to understand. Add a reason for people to enter their email, and connect the tool naturally to my product or service."
+
+10. The meeting prep assistant.
+"Check my calendar for tomorrow, open the files and emails linked to each meeting, and give me a short briefing before each one. Include who I am meeting, what we talked about before, what I need to prepare, and the three best questions to ask."
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
