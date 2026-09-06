@@ -250,6 +250,41 @@ Act as an income-modeling expert. Show me exactly how [SKILL] could realisticall
 Act as an elite online-income strategist. Map my complete journey from [SKILL] to my first $300 and eventually $2,250/month. Identify the best business model, offer, customers, pricing, acquisition strategy, weekly actions, milestones, and biggest risks.
 
 -------------------------------------------------
+🚨 BREAKING: Claude Can Help You Build Your First Online Business in 30 Days From Zero.
+No coding. No design skills. No marketing experience. Just 8 powerful prompts to get started for free. 👇
+
+1. 🔎 Find Your Best Business Opportunity
+Prompt:
+Act as an elite online business strategist. Analyze my [INTERESTS], [SKILLS], [AVAILABLE TIME], [BUDGET], and [INCOME GOAL]. Identify 5 realistic online businesses I can start from scratch with minimal upfront costs. Rank them by demand, launch speed, difficulty, profit potential, and scalability. Recommend the best option and give me a clear reason why.
+
+2. 🎯 Find a Problem People Will Pay to Solve
+Prompt:
+Act as an elite market research strategist. For my [IDEA/NICHE], identify the biggest problems, frustrations, desires, and buying triggers of potential customers. Define the ideal customer, existing solutions, market gaps, and strongest reasons to buy. Then show me how to validate real demand before investing significant time or money.
+
+3. 💎 Build My Offer From Scratch
+Prompt:
+Act as a world-class offer strategist. Turn my [SKILL/IDEA/SOLUTION] into a compelling, easy-to-buy offer. Define the ideal customer, core problem, desired outcome, deliverables, positioning, pricing, differentiation, bonuses, and guarantee boundaries. Make it specific, valuable, realistic, and easy to understand—without exaggerated promises.
+
+4. 💨 Build My Minimum Viable Business
+Prompt:
+Act as a lean startup operator. Design the simplest version of my business that I can launch within 7 days. Define only what I need for the offer, landing page, tools, payments, delivery, customer workflow, and tracking. Eliminate unnecessary websites, branding, automation, and perfectionism. Focus only on launching fast and getting my first real customer.
+
+5. 📈 Create My Customer Acquisition Engine
+Prompt:
+Act as an elite organic marketing strategist. Build a customer acquisition system for [BUSINESS]. Identify the best channels to reach my ideal customers and create strategies for content, communities, outreach, partnerships, referrals, and audience growth. Give me daily actions, messaging angles, and KPIs focused on leads, conversations, and sales—not vanity metrics.
+
+6. 💰 Build My Sales System
+Prompt:
+Act as a world-class sales strategist. Build a simple sales system for my [OFFER], including discovery questions, outreach messages, follow-ups, objection handling, offer presentation, and closing frameworks. Keep it ethical, conversational, and focused on finding genuine fit—not manipulation or pressure.
+
+7. 🗓️ Create My 30-Day Launch Plan
+Prompt:
+Act as my startup execution coach. Build a 30-day roadmap to launch my online business from zero. Break it into daily priorities covering research, offer creation, setup, marketing, customer acquisition, sales, delivery, and improvement. Keep every task focused on getting real customers, generating revenue, and collecting feedback—not busywork.
+
+8. 🧠 Run My Business Command Center
+Prompt:
+Act as my personal business operator. Review my weekly leads, conversations, sales, revenue, customer feedback, marketing, and operations. Identify my single biggest bottleneck, explain why it matters, and tell me exactly what to prioritize next. Continuously improve my offer, customer acquisition, sales process, and customer experience using real market feedback.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
