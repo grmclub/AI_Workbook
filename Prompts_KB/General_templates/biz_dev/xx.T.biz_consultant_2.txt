@@ -99,6 +99,52 @@ Write a compelling 300-word investor pitch covering:
 End with a powerful closing that creates urgency and earns the next meeting.
 Keep every sentence concise, credible, persuasive, and investor-focused.
 -------------------------------------------------
+🚨 BREAKING: Claude now delivers McKinsey-level business strategy.
+Here are 8 powerful Claude prompts every founder should run before launching. 👇
+
+Prompt 1 — One-Page Business Plan
+Act as a McKinsey-level strategy consultant. Analyze my business idea: [DESCRIBE].
+Build a concise, investor-ready one-page plan covering the problem, target customer, solution, value proposition, revenue model, competitive advantage, go-to-market strategy, key KPIs, and 90-day execution plan.
+Prioritize strategic clarity, commercial viability, and high-impact actions.
+
+Prompt 2 — Market Validation Report
+Act as a McKinsey-level market strategist. Analyze my business idea: [DESCRIBE] for [TARGET AUDIENCE].
+Evaluate market demand, opportunity size, top 3 competitors, market gaps, customer pain points, risks, and validation signals.
+Give me a brutally honest verdict: BUILD, MODIFY, or SKIP — with the 3 strongest reasons why.
+
+Prompt 3 — Revenue Model Designer
+Act as a startup CFO and McKinsey-level revenue strategist. Analyze my business: [DESCRIBE].
+Design 3 revenue models: Subscription, One-Time Purchase, and Hybrid.
+For each, recommend pricing, revenue mechanics, month-one projection, scalability, and break-even path.
+Then select the strongest model and explain why it offers the best balance of growth, profitability, and sustainability.
+
+Prompt 4 — Go-To-Market Blueprint
+Act as a McKinsey-level growth strategist. My business is: [DESCRIBE] for [TARGET CUSTOMER].
+Build a 30-day launch blueprint covering the fastest path to the first 10 customers, positioning, messaging, acquisition channels, conversion strategy, and daily priorities.
+Identify the #1 launch mistake I must avoid and the highest-leverage action to take first.
+
+Prompt 5 — Competitor Teardown
+Act as a McKinsey-level competitive intelligence strategist. Analyze my business: [DESCRIBE] and its top 5 competitors.
+Compare their positioning, pricing, offers, strengths, weaknesses, and target customers.
+Identify the biggest underserved gaps and give me a clear strategy to differentiate, compete, and win.
+
+Prompt 6 — Financial Projections Builder
+Act as a startup CFO and McKinsey-level financial strategist. Analyze my business: [DESCRIBE].
+Build a realistic 12-month financial model with monthly revenue, expenses, burn rate, break-even point, and best/base/worst-case scenarios.
+Identify the 3 assumptions most likely to change the outcome and explain how to improve them.
+
+Prompt 7 — Risk Assessment Report
+Act as a McKinsey-level business risk strategist. Analyze my idea: [DESCRIBE].
+Identify and rank the 5 most dangerous risks across market, execution, financial, legal, and competitive factors.
+For each, provide likelihood, impact, warning signs, and a practical mitigation plan.
+Be brutally honest and prioritize risks that could kill the business before launch.
+
+Prompt 8 — Investor Pitch Summary
+Act as an elite startup pitch strategist with McKinsey-level business insight. My business is: [DESCRIBE].
+Write a compelling 300-word investor pitch covering the problem, urgency, solution, market opportunity, business model, traction, team advantage, funding ask, and use of funds.
+End with a powerful, credible closing that creates urgency and earns the meeting.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
