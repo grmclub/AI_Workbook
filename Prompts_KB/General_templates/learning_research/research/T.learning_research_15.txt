@@ -3,33 +3,26 @@
 -------------------------------------------------
 7 prompts to learn & focus
 
-1.
+1. Start from the end.
 "Here’s the result I want: [outcome]. Reverse engineer the fastest, simplest path to get there."
-→ Start from the end.
 
-2.
+2. Find blind spots.
 "What am I missing that could completely change this outcome: [situation]?"
-→ Find blind spots.
 
-3.
+3. 80. 20 everything.
 "For this goal: [goal], what actions will create most of the results?"
-→ 80/20 everything.
 
-4.
+4. Consistency wins.
 "Turn this into a simple, repeatable system I can follow: [process]."
-→ Consistency wins.
 
-5.
+5. Truth P: comfort.
 "Be brutally honest. What’s wrong, weak, or likely to fail here: [idea]?"
-→ Truth P: comfort.
 
-6.
+6. Hidden leverage.
 "What opportunities am I overlooking in this situation: [context]?"
-→ Hidden leverage.
 
-7.
+7. Momentum starts.
 "If I could only take one action to move this forward, what should it be: [goal]?"
-→ Momentum starts.
 
 Most people want more tools.
 But the real edge is:
@@ -39,36 +32,28 @@ But the real edge is:
 -------------------------------------------------
 ##Quick summary and briefs
 
-1.
-The Executive Brief
+1. The Executive Brief
 "Turn this into a one-minute executive briefing. Include the key insights, major risks, and recommended actions: [text]."
 
-2.
-The 80/20 Summary
-"Apply the 80/20 principle and extract the 20% of information that delivers 80% of the value: [text]."
+2. The 80. 20 Summary
+"Apply the 80. 20 principle and extract the 20% of information that delivers 80% of the value: [text]."
 
-3.
-The Action-Only Summary
+3. The Action-Only Summary
 "Don't summarize everything. List only the practical takeaways and specific actions I should take after reading this: [text]."
 
-4.
-The Beginner Version
+4. The Beginner Version
 "Explain the main ideas as if you're teaching someone with no prior knowledge. Use simple language and real-world examples: [text]."
 
-5.
-The Decision Maker Prompt
+5. The Decision Maker Prompt
 "Summarize this from the perspective of someone who has to make a decision. Highlight opportunities, risks, trade-offs, and missing information: [text]."
 
-6.
-The Memory Prompt
+6. The Memory Prompt
 "Convert this into concise bullet points that are easy to remember. End with the three most important insights."
 
-8.
-The Critical Thinker Prompt
+8. The Critical Thinker Prompt
 "Summarize the main arguments, then identify weak assumptions, potential biases, and questions that remain unanswered."
 
-7.
-The Compare & Contrast Prompt
+7. The Compare & Contrast Prompt
 "Summarize this, then compare it with common alternatives, highlighting the biggest differences and why they matter."
 
 Most people ask for shorter text.
@@ -89,7 +74,7 @@ Powerful. Practical. Worth saving.
 04. The Brutal Truth Prompt: "Be brutally honest.What am I getting wrong or underestimating: [idea]?" Truth P: comfort.
 05. The First-Principles Mode Prompt: "Break this down to fundamentals and rebuild the best solution: [problem]." No assumptions.
 06. The System Builder Prompt: "Turn this into a simple, repeatable system: [process]." Execution made easy.
-07. The 80/20 Filter Prompt: "For this goal: [goal], what actions create most of the results?" Focus wins.
+07. The 80. 20 Filter Prompt: "For this goal: [goal], what actions create most of the results?" Focus wins.
 08. The Opportunity Scanner Prompt: "What opportunities am I overlooking here: [context]?" Hidden leverage.
 09. The Decision Engine Prompt: "Break this into options, trade-offs, and give a clear recommendation: [decision]." Decide smarter.
 10. The One-Move Focus Prompt: "If I could only take one action right now, what should it be: [goal]?"Start moving.
@@ -125,7 +110,7 @@ BREAKING: Claude can help you MASTER complex topics in 30 minutes — for FREE.
 Here are 8 powerful prompts to research smarter, learn faster, and think deeper. 👇
 
 1. Diagnose the Complexity
-P: Act as a Learning Strategist. I need to understand [complex topic/concept] but have no formal background in [relevant field]. Identify exactly what makes it difficult—terminology, abstract logic, or missing prerequisites. Then list the essential concepts I should learn first.
+P: Act as a Learning Strategist. I need to understand [complex topic. concept] but have no formal background in [relevant field]. Identify exactly what makes it difficult—terminology, abstract logic, or missing prerequisites. Then list the essential concepts I should learn first.
 
 2. Build the Foundation
 P: Act as a Patient Subject Matter Tutor. Based on the prerequisite gaps for [complex topic], explain only the essential concepts I’m missing in simple language. Keep each concept to 2–3 sentences, and skip anything not directly needed to understand the topic.
@@ -137,7 +122,7 @@ P: Act as an Expert Explainer. Explain [complex topic] in the simplest possible 
 P: Act as a Progressive Complexity Tutor. Using the simplified explanation of [complex topic], gradually add the nuance and complexity needed for real understanding. Introduce one layer at a time, ensuring each builds logically on the previous one.
 
 5. Connect to What You Know
-P: Act as a Learning Integration Coach. For [complex topic], connect the new ideas to what I already know from [background/field/interests]. Create clear mental bridges that make the concept easier to remember and use—not just memorize.
+P: Act as a Learning Integration Coach. For [complex topic], connect the new ideas to what I already know from [background. field. interests]. Create clear mental bridges that make the concept easier to remember and use—not just memorize.
 
 6. Test Your Understanding
 P: Act as a Socratic Tutor. Test my understanding of [complex topic] with 3 questions that require real comprehension, not memorization. Start with a basic application, then increase the difficulty to a novel scenario I haven’t seen before.
@@ -154,7 +139,7 @@ BREAKING: Claude can now help you SUMMARIZE ENTIRE BOOKS with academic-level pre
 Here are 8 powerful prompts to master research: 👇
 
 1. Book Triage & Reading Strategy
-Act as a Reading Strategy Consultant. I want to understand [book title/topic] as efficiently as possible. Determine whether its core argument is established early and supported throughout, or whether its ideas build sequentially and require a more thorough reading. Then recommend the most effective reading and summarization strategy so I can save time without losing essential meaning, context, or nuance.
+Act as a Reading Strategy Consultant. I want to understand [book title. topic] as efficiently as possible. Determine whether its core argument is established early and supported throughout, or whether its ideas build sequentially and require a more thorough reading. Then recommend the most effective reading and summarization strategy so I can save time without losing essential meaning, context, or nuance.
 
 2. Structural Mapping
 Act as a Book Structure Analyst. For [book title], map its structural skeleton: identify the major sections or parts, explain the role each plays in developing the overall argument, and distinguish the sections most likely to contain the book’s core original contributions from those focused primarily on supporting context, evidence, or examples.
@@ -179,49 +164,49 @@ Act as a Knowledge Retention Coach. Help me build a simple system for retaining 
 
 
 -------------------------------------------------
-chatgpt is a free university in your pocket but most people are barely scratching the surface. 🔝
+* Chatgpt is a free university in your pocket but most people are barely scratching the surface. 🔝
 here are 7 powerful prompts to turn it into your personal professor and learn almost anything faster:👇
 
-1. build my personalized ai university
+1. Build my personalized ai university
 prompt:
 act as a world-class university curriculum designer. build a complete, personalized learning program for [topic].
 first, ask me about my skill level, learning goal, deadline, weekly study time, preferred learning style, and biggest challenges.
 then create a structured path from beginner to advanced with lessons, projects, milestones, assessments, and recommended resources. focus on practical skills and real-world mastery.
 
-2. become my personal professor
+2. Become my personal professor
 prompt:
 act as my personal university professor and expert tutor for [topic].
 teach me step-by-step using simple explanations, practical examples, real-world analogies, visual explanations when useful, and interactive exercises.
 after every lesson, test my understanding, explain my mistakes, adapt the next lesson to my performance, and give me a practical challenge.
 don't just give me information — make sure i can actually understand and apply it.
 
-3. teach me how experts think
+3. Teach me how experts think
 prompt:
 don't just teach me [topic] — teach me how experts think about it.
 show me the mental models, decision-making frameworks, patterns, common mistakes, advanced problem-solving strategies, professional workflows, and real-world case studies experts use.
 challenge my reasoning and explain why experts make certain decisions. help me develop expert-level judgment instead of simply memorizing information.
 
-4. create my high-speed learning blueprint
+4. Create my high-speed learning blueprint
 prompt:
 design the fastest practical path for mastering [topic] without wasting time on low-impact information.
 identify the highest-impact concepts, then build a structured system with daily lessons, weekly milestones, active recall, spaced repetition, practical exercises, quizzes, mini-projects, revision sessions, and progress checkpoints.
 recommend the best free and paid resources for each stage and adjust the plan based on my progress.
 
-5. turn this chat into a live classroom
+5. Turn this chat into a live classroom
 prompt:
 transform this conversation into a fully interactive classroom for [topic].
 teach one lesson at a time. after each lesson, ask me questions, challenge my reasoning, give me practical exercises, simulate real-world situations, and correct misunderstandings immediately.
 adapt future lessons based on my performance. don't move to the next topic until i've demonstrated genuine understanding.
 act like a demanding but supportive professor focused on helping me truly master the subject.
 
-6. create my mastery roadmap
+6. Create my mastery roadmap
 prompt:
 i want to become highly skilled in [topic].
 build a complete mastery roadmap covering beginner fundamentals, intermediate concepts, advanced techniques, real-world projects, portfolio ideas, practice schedules, weekly milestones, and monthly assessments.
 recommend the most valuable books, courses, communities, ai tools, and certifications where relevant.
 show me exactly what to learn, what to practice, what to build, and what i should be able to do before moving to the next level.
 
-7. find my knowledge gaps
+7. Find my knowledge gaps
 prompt:
 i'm currently learning [topic]. act as an expert assessor and diagnose exactly what i don't understand.
 ask me progressively harder questions. after every answer, evaluate my understanding, identify knowledge gaps, explain what i misunderstood, provide clearer examples, assign targeted practice, and retest me on weak areas.
@@ -232,35 +217,35 @@ finish by creating a personalized revision plan based only on the areas i still 
 🚨 ChatGPT was designed to agree with you.
 These 6 prompts force it to challenge your thinking and give more accurate answers. 👇
 
-1/ Find The Weak Points
+1. Find The Weak Points
 Ask ChatGPT if your plan is good, and it may say yes. This prompt removes that option.
 Paste into ChatGPT:
 "Skip the reassurance. Tell me what’s wrong with [my plan]. I want weaknesses, not validation. Give me the 3 reasons this could fail that I’m least prepared to hear."
 
-2/ Make It Attack Its Own Answer
+2. Make It Attack Its Own Answer
 Before acting on ChatGPT’s advice, make it challenge its own reasoning.
 Paste into ChatGPT:
 "Take your previous answer and challenge it. Identify the 3 strongest reasons it could be wrong. Support each with evidence or logic. Then tell me which counterargument is most convincing and why."
 
-3/ See What Happens After
+3. See What Happens After
 Most people plan for the obvious outcome. Smart decisions account for what happens next.
 Paste into ChatGPT:
 "Ignore the immediate outcome of [my decision]. Map the second- and third-order consequences. What happens after the obvious result? What does this look like 6 months later, and how are competitors likely to respond?"
 
-4/ Build An Expert Panel
+4. Build An Expert Panel
 Get 5 expert perspectives instead of one—and make them challenge each other.
 Paste into ChatGPT:
 "Assemble 5 experts in [field], each with a different perspective or philosophy. Have them debate [my problem], challenge each other’s assumptions, and present their strongest arguments. End with the conclusion all 5 would stand behind."
 
-5/ Find What You Never Verified
+5. Find What You Never Verified
 The assumption you never checked could be the one that sinks your entire plan.
 Paste into ChatGPT:
 "Review everything I’ve written. Identify every unverified assumption I’m making. Rank them by importance, and highlight the single assumption that, if proven wrong, would cause the entire plan to fail."
 
-6/ Apply The 80/20 Rule
+6. Apply The 80. 20 Rule
 Most plans contain unnecessary work. This reveals what actually drives the results.
 Paste into ChatGPT:
-"Apply the 80/20 rule to [my plan]. Keep only the actions most likely to create the majority of results. Tell me what to eliminate first, what to cut next, and which elements are absolutely essential."
+"Apply the 80. 20 rule to [my plan]. Keep only the actions most likely to create the majority of results. Tell me what to eliminate first, what to cut next, and which elements are absolutely essential."
 
 -------------------------------------------------
 1. Attack my premise
@@ -284,39 +269,59 @@ The sixth is the important one. The first five make ChatGPT less agreeable. The 
 -------------------------------------------------
 * ChatGPT Prompts to learn anything 10X Faster:
 
-1/Metaphorical Learning
+1. Metaphorical Learning
 "Illustrate the concept of [insert topic] through metaphors or storytelling. Use relatable examples to make the learning experience engaging and memorable."
 
-2/Mind Mapping
+2. Mind Mapping
 "Guide me in creating a comprehensive mind map for [insert topic]. Include key concepts, subtopics, and connections to enhance my visualization and understanding of the material."
 
-3/Feynman Technique
+3. Feynman Technique
 "Help me explain [insert topic] in simple terms as if teaching it to a young child. This should ensure I grasp the fundamental concepts clearly."
 
-4/Spaced Repetition Schedule
+4. Spaced Repetition Schedule
 "Create a spaced repetition learning schedule for [insert topic]. Include specific intervals for review sessions and brief quizzes to reinforce memory retention over time."
 
-5/Growth Mindset Development
+5. Growth Mindset Development
 "Provide insights on how to cultivate a growth mindset in relation to [insert topic]. Focus on strategies that encourage resilience, persistence, and continuous improvement."
 
-6/Achieving Flow State
+6. Achieving Flow State
 "Guide me on how to achieve a state of 'flow' while learning [insert topic]. Include tips for maintaining focus, minimizing distractions, and enhancing my overall learning experience."
 
-7/Curiosity-Driven Exploration
+7. Curiosity-Driven Exploration
 "Generate a list of intriguing questions or exploration tasks related to [insert topic] that will stimulate my curiosity and encourage independent learning."
 
-8/Feedback Mechanism
+8. Feedback Mechanism
 "Design a feedback loop for assessing my understanding of [insert topic]. Include methods for self-assessment and ways to track my progress over time."
 
-9/Reverse Engineering Concepts
+9. Reverse Engineering Concepts
 "Assist me in reverse engineering [insert topic]. Break down complex ideas into simpler components to facilitate better understanding and application."
 
-10/Scenario-Based Learning
+10. Scenario-Based Learning
 "Create a series of hypothetical scenarios where I can apply knowledge related to [insert topic]. This should help me develop problem-solving skills and practical understanding."
 
-
-
 -------------------------------------------------
+🚨BREAKING: ChatGPT has a secret mode called "infinite personal tutor" that teaches any skill from scratch in just 3 hours.
+
+1. Confusion Breaker
+Paste this: "I didn't understand this content. Before explaining, tell me the 'key phrase,' the one that, if I understand it, makes everything else fall into place. Explain only that phrase, with an everyday analogy, without jargon. Then ask me 3 questions that only someone who truly understood can get right. Only continue when I get all of them right. [paste the content]"
+
+2. Personalized Learning Path
+Paste this: "My ultimate goal is [goal]. I don’t want to learn [skill] in a generic way. I want to achieve [specific result] within [timeframe]. I already know [base I already have]. Give me a 7-day plan, with a 45-minute task per day, clear completion criteria, and the pitfall I should avoid that day. If the complete plan isn’t enough to achieve the goal, adjust it until it is."
+
+3. Detector de Falhas Escondidas
+Paste this: "I think I’ve already mastered [skill]. Prove me wrong. Give me 5 questions that seem simple, but that unmask anyone who’s only scratched the surface. In each answer, point out my blind spot. No beating around the bush: if I only understand the basics, say it straight to my face."
+
+4. Rigorous Mirror of Progress
+Paste this: "Track my long-term progress in [skill], not just in this conversation. In each response, compare with the previous ones and tell me: have I really evolved or am I just repeating the same mistake with different words? If I've stagnated, speak bluntly. Only praise me when there's real and measurable progress."
+
+5. Extreme Scenario Coach
+Copy and paste this: "I want to learn [skill] by imagining the worst-case scenario: everything going wrong, under high pressure, without materials and without time. Give me a real and high-pressure situation involving [skill], throw me straight into it without warning and see how I react. Then, point out exactly where I failed and what I need to train."
+
+6. Mental Shortcuts Inspector
+Paste this: "After I solve a problem in [skill], don't validate it just because I got it right. Examine my reasoning. If I used a shortcut, memorized without understanding, or got it right by luck, point that out and make me start from scratch, explaining each step. Only count it as mastery when I can explain the ‘why’ behind each stage."
+
+7. Reverse Teaching Simulator
+Paste this: "Pretend that you are the student and I will teach you [skill]. Ask me the simple questions of a real beginner and, every time I use a technical term, ask for an example. When I explain something wrong, pretend to believe it and follow my flawed logic all the way to an absurd conclusion, so that I realize the mistake myself. Only stop when my explanation is completely coherent."
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
