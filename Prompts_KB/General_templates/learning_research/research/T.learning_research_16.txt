@@ -1,0 +1,42 @@
+
+-------------------------------------------------
+🚨 BREAKING: Claude can now turn any question into a PhD-level, source-backed research brief — for FREE.
+These 8 prompts take you from idea → deep research → credible, cited brief: 👇
+
+1/ The Research Brief System
+"Act as a senior research analyst and editor. Build a rigorous, decision-ready brief on [TOPIC]. Define the real question, key sub-questions, relevant fields, major debates, common misconceptions, and what a decision-maker needs to know. Specify the best source types and evidence standards, then structure the brief with an executive summary, key findings, evidence, counterarguments, and practical implications."
+
+2/ The Question Sharpener
+"Turn my vague topic into a strong research question. Give me 5 versions—from narrow and answerable to broad and ambitious. For each, state the evidence needed, estimated research time, and what would remain unknown. Recommend the best question for a single afternoon.
+Topic: [INSERT TOPIC]"
+
+3/ The Source Map
+"Map where reliable answers to this question live. Identify the key source types—primary data, peer-reviewed research, industry reports, official statistics, and expert accounts. For each, explain what it’s best for, what it may miss, and 2 questions to ask before trusting its data.
+Research Question: [INSERT QUESTION]"
+
+4/ The Steel Man Pass
+"Steel-man the position I disagree with. Present its strongest reasoning and evidence, explain where it challenges my view, then identify what I should accept as valid—and the single piece of evidence most likely to change my mind.
+Position: [INSERT POSITION]"
+
+5/ The Evidence Table
+"Turn my research into an evidence table. For each source, capture the claim, evidence type, scope/sample, date, producer/funder, and strength of support. Highlight where sources agree, conflict, or rely on the same original study. Flag the 2 most important hidden source dependencies.
+Research: [PASTE YOUR SOURCES/FINDINGS]"
+
+6/ The Gap Finder
+"Audit my draft for what’s missing. Flag claims based on one source, numbers lacking context, correlation treated as causation, overlooked counterexamples, and questions a skeptical reader would raise early. Rank every gap by potential damage and tell me exactly what to fix.
+Draft: [PASTE DRAFT]"
+
+7/ The Plain Language Rewrite
+"Rewrite my brief for a smart reader outside the field. Replace jargon with plain language, shorten long sentences, lead with conclusions, and turn the 2 most abstract points into concrete examples. Keep every number and caveat unchanged. End by identifying the sentence most likely to lose the reader.
+Brief: [PASTE BRIEF]"
+
+8/ The One-Page Summary
+"Compress my research brief into one page. Start with the answer in 2 sentences, then give the 3 strongest findings, the strongest counterpoint and why it doesn’t overturn the conclusion, your confidence level and why, and the one thing to verify before acting. Keep every bullet to 2 lines max.
+Brief: [PASTE BRIEF]"
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
