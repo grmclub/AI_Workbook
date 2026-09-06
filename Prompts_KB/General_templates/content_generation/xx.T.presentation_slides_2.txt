@@ -33,6 +33,30 @@ Use these 7 prompts instead to create:
 7. Presentation + Speaker Script
 "Create a complete presentation about [TOPIC] for [AUDIENCE], then write a matching speaker script for every slide. Keep the on-slide content concise while using the script for context, explanations, examples, and storytelling. Add delivery cues for pauses, emphasis, transitions, and audience engagement. Make the spoken narrative naturally complement—not repeat—the slide content."
 -------------------------------------------------
+## 7 Claude prompts to create professional presentations in 2 minutes.👇👇
+
+1. Full Presentation Builder
+Act as a world-class presentation creator. Build a complete, slide-by-slide presentation on [insert topic]. Include a compelling title, key points, examples, data, metaphors, visual suggestions, and a strong closing call-to-action. Structure the presentation like a TED-level talk, with a clear narrative that keeps the audience engaged from beginning to end.
+
+2. Deep Research Presentation
+Create a comprehensive presentation on [insert topic] using deep research. Include real statistics, relevant case studies, expert insights, practical examples, and credible data. Make every slide educational, engaging, and easy to understand. Cite reliable sources throughout and provide a complete reference list at the end.
+
+3. Simplified Explanation Presentation
+Build a beginner-friendly presentation on [insert topic]. Break complex ideas into simple explanations, relatable analogies, examples, and step-by-step logic. Avoid unnecessary jargon and explain each concept so clearly that someone with no prior knowledge can understand it.
+
+4. Business Pitch Deck
+Create a complete investor-style pitch deck for my business idea: [insert idea]. Include the problem, solution, target market, market size, product or service, business model, competitive advantage, go-to-market strategy, financial projections, team, and closing pitch. Make it persuasive, professional, and suitable for potential investors.
+
+5. Storytelling Presentation
+Create a complete presentation on [insert topic] using this storytelling structure: Hook → Conflict → Journey → Insight → Transformation → Call to Action. Make each slide emotional, memorable, and persuasive. Use curiosity and narrative momentum to keep the audience engaged. Add speaker notes with guidance on how to deliver each slide effectively.
+
+6. Corporate Presentation
+Create a professional corporate presentation on [insert topic]. Use a clear business tone and structured bullet points. Include relevant charts, graphs, SWOT analysis, industry trends, forecasts, key insights, and data-backed recommendations. Make it polished, concise, and suitable for executives, boardrooms, or business meetings.
+
+7. Presentation + Speaking Script
+Create a complete, presentation-ready deck on [insert topic] and write a full speaking script for every slide. Make sure the script matches the content, tone, pacing, and emotional flow of the presentation. Include natural transitions, pauses, emphasis, storytelling cues, and delivery instructions so I know exactly what to say and how to present it.
+
+
 -------------------------------------------------
 -------------------------------------------------
 
