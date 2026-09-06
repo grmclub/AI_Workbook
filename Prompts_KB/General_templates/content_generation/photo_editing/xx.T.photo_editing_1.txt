@@ -107,8 +107,22 @@ Transform my photo into a realistic golden-hour portrait. Keep my identity, face
 6. 🏙️ Urban Street Photography
 Transform my photo into a realistic professional urban street portrait. Preserve my exact face, identity, body proportions, expression, and clothing. Enhance the natural lighting, shadows, colors, and background while adding realistic depth of field and subtle camera grain. Keep the scene authentic, cinematic, and natural—no face reshaping, artificial skin, or exaggerated effects.
 
+-------------------------------------------------
+* prompts are designed to help improve and enhance images using AI tools.
 
 
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
+
+
+
+
+
+
+
