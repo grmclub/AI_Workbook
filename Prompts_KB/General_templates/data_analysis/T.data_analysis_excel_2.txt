@@ -30,7 +30,191 @@ Prompt: “Summarize this spreadsheet as if you were presenting the findings to 
 
 
 -------------------------------------------------
+## 🚨 Forget Excel formulas.
+Claude can handle your everyday Excel work in seconds.
+Here are 10 powerful prompts to automate your most common tasks: 👇
+
+PROMPT 1: Build Any Excel Formula
+“Act as a Microsoft Excel expert with 10+ years of experience helping businesses
+automate spreadsheets. I will describe what I want my Excel sheet to do in simple
+words, and your job is to create the exact formula, function, or calculation
+needed to achieve that result.
+Explain the formula step by step, including what each part means, where I should
+place it, and how I can modify it for different situations. If there is a simpler or
+more efficient way to solve the problem, suggest that as well. My Excel task is:
+[describe what you need].”
+
+PROMPT 2: Clean and Organize Spreadsheet
+“Act as a professional data cleaning specialist. I will upload an Excel spreadsheet
+that contains messy, inconsistent, or poorly formatted data. Analyze the entire
+spreadsheet and identify problems such as duplicate entries, missing values,
+inconsistent formats, spelling mistakes, incorrect data types, unnecessary
+columns, and structural issues. Then provide a clear action plan to clean and
+organize the spreadsheet into a professional, analysis-ready format. Suggest
+Excel formulas, Power Query steps, or automation methods whenever possible.
+Here is my spreadsheet: [upload file].”
+
+PROMPT 3: Analyze Excel Data
+“Act as a senior data analyst who helps companies make better decisions using
+Excel data. I will provide you with an Excel file containing business or personal
+data. Analyze the information carefully and identify important trends, patterns,
+correlations, unusual changes, opportunities, and potential problems. Explain
+your findings in simple language that a non-technical person can understand.
+Create a summary of the most important insights, recommend what actions
+should be taken based on the data, and suggest additional analysis that could
+provide more value. Here is my Excel file: [upload file].”
+
+PROMPT 4: Create an Excel Dashboard
+“Act as an expert Excel dashboard designer who creates executive-level reports. I
+will provide you with raw Excel data, and your job is to transform it into a
+professional dashboard concept. Analyze what information matters most,
+identify the key performance indicators, recommend the best charts and
+visualizations, and design a dashboard structure that is easy to understand.
+Explain which Excel features should be used, including Pivot Tables, charts,
+slicers, formulas, or conditional formatting. My goal is to create a dashboard for:
+[business purpose]. Here is my data: [upload file].”
+
+PROMPT 5: Find and Fix Excel Errors
+“Act as an advanced Excel troubleshooting expert. I have an Excel spreadsheet
+with formulas that are not working correctly, showing errors, or producing
+unexpected results. Analyze the formulas, identify the exact reason behind the
+problem, and explain what went wrong. Then provide the corrected formula and
+explain how I can prevent similar issues in the future. Also check if there is a
+better formula, function, or spreadsheet structure that would make the file more
+reliable. Here is the formula or spreadsheet section: [paste formula/upload file].”
+
+PROMPT 6: Automate Excel Work
+“Act as an Excel automation consultant. Analyze my current spreadsheet
+workflow and identify repetitive manual tasks that take too much time. Find
+opportunities to automate the process using Excel formulas, Power Query, Pivot
+Tables, VBA, macros, or other built-in Excel features. Explain exactly how I can
+automate each step and create a faster workflow. Focus on reducing manual
+work, improving accuracy, and making the spreadsheet easier to maintain. My
+current Excel process is: [describe workflow].”
+
+PROMPT 7: Turn Data Into a Report
+“Act as a professional business reporting specialist. I will provide you with raw
+Excel data, and your job is to transform it into a polished, professional report
+that can be presented to managers, clients, or stakeholders. Analyze the data
+structure, organize the information logically, create a clear summary section,
+recommend important metrics, and suggest charts or visual elements that
+improve understanding. Explain how the final report should be formatted and
+what key insights should be highlighted. My report purpose is: [describe
+purpose].”
+
+PROMPT 8: Explain Any Excel Formula
+“Act as an Excel instructor who teaches beginners and professionals. I will give
+you an Excel formula, and your job is to explain it in a simple but detailed way.
+Break down every function, symbol, reference, and calculation inside the
+formula. Explain why each part is used, show a real-world example, and provide
+a beginner-friendly explanation of when I should use this formula. If there is a
+better alternative formula, explain that too. The formula is: [paste formula].”
+
+PROMPT 9: Create Excel Templates
+“Act as an expert Excel template creator. I need a professional spreadsheet
+template designed for a specific purpose. Based on my requirements, create the
+ideal spreadsheet structure including column names, formulas, automation
+ideas, formatting recommendations, data validation rules, and workflow
+improvements. Make the template easy to use for beginners while still powerful
+enough for professional needs. Explain how each section should work and how I
+can customize it later. The template I need is for: [describe your requirement].”
+
+PROMPT 10: Convert Data Into Insights
+“Act as a data visualization and business intelligence expert. I will upload an
+Excel spreadsheet containing raw information, and your job is to turn it into a
+meaningful analysis. Identify the most important numbers, explain what the
+data is showing, highlight trends or problems, and create a clear written
+summary. Recommend the best charts, graphs, and visualizations to
+communicate the information effectively. The final goal is to help someone
+quickly understand the story behind the data and make better decisions. Here is
+my spreadsheet: [upload file].”
+
 -------------------------------------------------
+## This feels unfair 🚨 Claude can now help with Excel work that used to take hours. 8 prompts worth saving 👇
+
+1/ 📊 Find insights hiding in your spreadsheet
+Upload your spreadsheet and prompt:
+"Analyze this dataset like a senior business analyst. Identify important trends, anomalies, growth opportunities, and risks. Summarize the 10 most useful insights and show the data behind each one."
+Instead of digging through rows manually...
+Claude can help surface patterns that are easy to miss.
+
+2/ 🧮 Build complicated Excel formulas
+Stop searching Google for the right formula.
+Prompt:
+"Create an Excel formula that calculates rolling 90-day revenue by customer while excluding refunded transactions. Explain how the formula works and provide an alternative if possible."
+Claude can give you:
+✅ The formula
+✅ How it works
+✅ Alternative approaches
+Much easier than building it from scratch.
+
+3/ 📈 Turn your data into a dashboard
+Give Claude your spreadsheet and prompt:
+"Design an executive dashboard for this dataset. Recommend the most useful KPIs, charts, filters, and dashboard layout. Explain why each should be included."
+It can help map out:
+• Revenue metrics
+• Growth trends
+• Profitability
+• Regional performance
+You still build the final dashboard, but the planning gets much easier.
+
+4/ 🔍 Find spreadsheet mistakes
+Prompt:
+"Audit this spreadsheet for errors, inconsistencies, missing values, duplicate records, unusual values, and suspicious trends. Show me exactly where each potential issue appears."
+Claude can help flag problems you might otherwise overlook.
+Just verify anything important before making decisions from it.
+
+5/ 💰 Forecast what could happen next
+Give it historical data and prompt:
+"Using this historical data, create a 12-month forecast. Explain the methodology, assumptions, uncertainties, and factors that could change the results."
+Useful for:
+• Sales planning
+• Budgeting
+• Inventory
+• Revenue forecasting
+Think of the forecast as a starting point, not a guarantee.
+
+6/ ⚡ Speed up repetitive reports
+Prompt:
+"Create a concise weekly executive summary from this data. Highlight the biggest changes, wins, risks, anomalies, and recommended follow-up actions."
+Instead of rebuilding the same report every week...
+Claude can help turn the latest data into a first draft.
+
+7/ 📉 Figure out WHY a metric changed
+Dashboards tell you what happened.
+The better question is why.
+Prompt:
+"Revenue dropped 12% month-over-month. Analyze this dataset and identify the factors most strongly associated with the decline. Show the supporting data and flag anything that cannot be determined from this dataset alone."
+Now you're not just looking at the number.
+You're investigating what may have caused it.
+
+8/ 🎯 Turn the analysis into next steps
+Prompt:
+"Act as a management consultant. Review this dataset and recommend actionable ways to improve profitability and growth. Rank each recommendation by potential impact, confidence, and difficulty."
+Analysis is useful.
+Knowing what to do next is even better.
+
+9/ 🤯 But here's the bigger idea...
+The real productivity gain isn't formula generation.
+It's getting from data → insight → decision faster.
+When hours of analysis can sometimes become minutes of AI-assisted work...
+Teams can spend more time deciding what to do next.
+
+10/ Excel isn't going anywhere.
+The interesting combination is:
+Excel + AI
+Excel organizes the data.
+Claude helps you explore and interpret it.
+Humans verify the results and make the decisions.
+
+11/ The analyst of the future...
+May spend less time manually building reports...
+And more time asking better questions.
+AI can help with the mechanics.
+Humans bring context, judgment, and strategy.
+Save these 8 prompts for your next spreadsheet.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
