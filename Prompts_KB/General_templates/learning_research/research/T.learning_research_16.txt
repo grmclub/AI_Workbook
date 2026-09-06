@@ -63,6 +63,30 @@ Act as a master investigative research auditor. Create a repeatable, text-based 
 Act as a data-driven knowledge pipeline operations auditor. Evaluate my 20-minute research sprint using these performance metrics: [Source Papers Filtered], [Core Axioms Isolated], [Logical Discrepancies Caught %], and [Synthesis Alignment]. Diagnose the exact instruction design flaws, formatting inefficiencies, delimiter inconsistencies, or context bottlenecks limiting performance, then recommend precise optimizations to improve speed, accuracy, and research quality.
 
 -------------------------------------------------
+##Find a research gap and make thesis better
+
+1. The Research Gap Sniper (Stop being generic)
+Act as a PhD supervisor with 20 years in [YOUR FIELD]. I've uploaded 15 papers: [ATTACH TOP PAPERS]. Don't just summarize. Do this: 1. Create a table: Author / Year / Method / Finding / Limitation 2. Find 3 contradictions between them 3. Find 2 populations/methods they ALL ignored 4. Give me 3 specific, researchable gaps with WHY they matter and HOW I can fill them. No generic "more research is needed" BS.
+
+2. The Literature Review Architect
+I need a Literature Review for [YOUR TOPIC]. My research question is: [QUESTION]. Structure it like a top-tier journal in [FIELD]. 1. Group these papers into 3-4 themes (not just list them) 2. For each theme: What do we know? What is debated? What is missing? 3. End with a funnel: Broad -> Narrow -> My Gap. 4. Write it in academic tone with in-text citations APA 7th, and suggest where I need transition sentences. Use only the papers I uploaded.
+
+3. The Methodology Defender
+My topic is: [TOPIC], Gap is: [GAP], Question is: [QUESTION]. My supervisor will attack my methodology. Act as an external examiner. Design my methodology and defend it: 1. Recommend: Qualitative/Quantitative/Mixed + WHY 2. Exact design (e.g., semi-structured interviews with 15 participants) 3. Sampling + Justification 4. Data analysis plan (Thematic Analysis with Braun & Clarke) 5. How to answer: "Why didn't you do X instead?" Give me a bulletproof paragraph for my thesis.
+
+4. The Data Analysis Whisperer
+I have [INTERVIEW TRANSCRIPTS / SURVEY DATA]. Don't just code it. Act as a qualitative researcher: 1. Code this data line-by-line, give me initial codes 2. Group codes into 4-5 themes 3. For each theme: 2 direct quotes as evidence + my interpretation 4. Find 1 surprising pattern I missed. Output as a table: Theme / Codes / Evidence / Meaning. Be rigorous, not nice.
+
+5. The Argument Builder (For Discussion Chapter)
+My findings are: [PASTE FINDINGS]. My literature says: [PASTE KEY LITERATURE]. Write my Discussion like a top 1% thesis: 1. Does my finding confirm, contradict, or extend previous literature? 2. WHY did I get this result? Give me 3 theoretical explanations 3. What is the practical implication? 4. What is 1 limitation that makes me look smart, not stupid? Write 500 words, academic, no fluff.
+
+6. The Supervisor-Proof Editor
+Act as a strict academic editor. Edit this chapter: [PASTE CHAPTER]. Rules: 1. Fix: Passive voice, weak verbs, AI-sounding sentences 2. Check: Every paragraph must have Topic Sentence -> Evidence -> Analysis -> Link 3. Flag any claim without a citation 4. Make it sound human, like a final-year Masters student in [FIELD] at [UNIVERSITY], not AI. Keep my meaning, change my style. Show tracked changes: Before vs After.
+
+7. The Viva / Defense Killer
+My thesis title is: [TITLE]. My full thesis is: [UPLOAD PDF]. Act as my external examiner. Grill me: 1. Ask me 10 toughest questions you'll ask in my viva/defense 2. For each, give me a model answer in 90 seconds (STAR method) 3. Ask 3 trap questions: "What would you do differently?" "What is your contribution?" "Why should we give you this degree?" Prepare me so I don't freeze.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
