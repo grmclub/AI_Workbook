@@ -86,8 +86,243 @@ Act as a strict academic editor. Edit this chapter: [PASTE CHAPTER]. Rules: 1. F
 7. The Viva / Defense Killer
 My thesis title is: [TITLE]. My full thesis is: [UPLOAD PDF]. Act as my external examiner. Grill me: 1. Ask me 10 toughest questions you'll ask in my viva/defense 2. For each, give me a model answer in 90 seconds (STAR method) 3. Ask 3 trap questions: "What would you do differently?" "What is your contribution?" "Why should we give you this degree?" Prepare me so I don't freeze.
 
+-------------------------------------------------
+## People recently figured out you can make Claude think like a neurodivergent mind.
+Switch its cognitive style on purpose and you get ideas, audits, and connections the default model is too average to produce.
+7 prompts to do it👇
+
+1. The Hyperfocus Tunnel
+Prompt:
+"For this task, run in hyperfocus.
+Pick the single most important part of [your problem] and go deeper on it than is reasonable.
+Ignore the urge to be balanced or cover everything.
+I want obsessive depth on one point, not a tidy overview.
+Keep drilling until you reach the detail most people stop right before.
+My problem: [paste it here]."
+
+2. The Divergent Idea Cannon
+Prompt:
+"Your first 5 ideas are banned.
+Those are the obvious ones everyone already gets.
+I want the ideas that sit 3 associative jumps away from [your topic].
+Connect it to unrelated fields, jump sideways, chase the tangents you'd normally suppress.
+Give me 15. The further from obvious, the better.
+My topic: [paste it here]."
+
+3. The Pattern Obsessive
+Prompt:
+"Switch into pure pattern mode.
+Look at [your data or situation] and ignore the surface content.
+I only care about the structure underneath:
+the repeating patterns, the rule nobody stated, and the one thing that breaks the pattern.
+Tell me the system that's really running here, not the story on top.
+Here it is: [paste it here]."
+
+4. The Inconsistency Hunter
+Prompt:
+"Read this like a detail that doesn't fit will physically bother you.
+Flag every internal contradiction and every claim that doesn't follow.
+Find each place where two parts quietly disagree with each other.
+Don't be polite and don't summarize.
+Just list what's broken, and quote the exact line.
+Here it is: [paste it here]."
+
+5. The Pre-Mortem Sentinel
+Prompt:
+"Run in threat-detection mode.
+Assume [your plan] has already failed 6 months from now.
+Your job is to feel the danger before it arrives.
+List every way this goes wrong and the quiet risks nobody is pricing in.
+Then rank them by how likely and how costly each one is.
+My plan: [paste it here]."
+
+6. The Cross-Domain Translator
+Prompt:
+"Stop thinking in straight lines.
+Take [your concept] and explain it through 3 analogies from unrelated fields, like biology, war, or cooking.
+I don't want a definition.
+I want the reframe that suddenly makes it obvious.
+Then tell me which analogy reveals something the literal version hides.
+My concept: [paste it here]."
+
+7. The Sensory Vivifier
+Prompt:
+"Translate [your dry idea] into something I can see, hear, and feel.
+No abstractions allowed.
+Every concept has to become a concrete image, a texture, or a physical scene.
+Make it so vivid I couldn't forget it if I tried.
+Then hand me the single image that captures the whole thing.
+Here's the text: [paste it here]."
+-------------------------------------------------
+## 10 Prompts to Learn Anything More Effectively with ChatGPT: 👇
+
+1️. Learn the Essential Concepts
+"Act as an expert tutor in [topic]. My current knowledge level is [beginner/intermediate/advanced], and my goal is to [learning goal]. Help me build a strong understanding of the topic by first identifying the essential concepts and prerequisite knowledge I need to master. Organize them in a logical learning sequence, beginning with the foundations and gradually progressing to more complex ideas. For each concept, explain what it means in clear language, why it matters, how it connects to what I have already learned, and provide a concrete example when useful. Prioritize the concepts that are most important for understanding and applying the topic rather than overwhelming me with every possible detail. Point out common misconceptions or areas learners frequently misunderstand. After each major concept, ask me a short question that requires me to recall or explain the idea in my own words before moving forward. Adapt the difficulty and depth of subsequent explanations based on my responses. If I demonstrate a knowledge gap, briefly reteach the relevant concept and check my understanding again. The goal is not simply to give me information, but to help me develop a connected, durable understanding of [topic]."
+
+2️. Explain Complex Concepts Simply
+"Act as an expert tutor in [topic]. I want to understand [concept] deeply rather than simply memorize it. Explain the concept in clear, simple language appropriate for my current knowledge level: [beginner/intermediate/advanced]. Break it into small, logically connected parts and explain each part step by step. Connect new ideas to concepts I am likely to already understand, and use concrete examples, comparisons, or analogies when they genuinely make the concept easier to understand. Clearly distinguish the analogy from the actual concept so that it does not create misconceptions. Highlight the most important relationships, causes, mechanisms, or principles I need to understand, and point out common misconceptions where relevant. After explaining each major part, ask me to explain it back in my own words or answer a short question without looking at the explanation. Use my response to identify gaps or misunderstandings, then clarify them with a different explanation or example before continuing. Gradually reduce the support you provide as my understanding improves. At the end, ask me to explain the entire concept in my own words and apply it to a new example or situation to check whether I truly understand it."
+
+3️. Learn with Retrieval Practice
+"Act as an expert tutor in [topic]. My current knowledge level is [beginner/intermediate/advanced], and my goal is to [learning goal]. Help me strengthen my understanding and long-term memory through retrieval practice rather than simply rereading information. Identify the most important concepts, facts, principles, or procedures I need to remember, then test me on them using short-answer questions that require me to retrieve the information from memory. Ask one question at a time and wait for my response before providing feedback. Evaluate each answer for accuracy and completeness, explain what I understood correctly, correct any errors or misconceptions, and briefly reteach anything I missed. Gradually increase the difficulty by moving from basic recall to explanation, comparison, application, and problem-solving. Periodically return to concepts I previously struggled with and mix earlier material with newer material. Give hints only when necessary rather than revealing answers immediately. At the end, identify what I have mastered, what still needs work, and which concepts I should retrieve again in future study sessions."
+
+4️. Use Spaced Practice
+"Act as an expert tutor in [topic]. My current knowledge level is [beginner/intermediate/advanced], and my goal is to [learning goal]. Help me create an effective spaced-practice plan so I can strengthen my understanding and remember what I learn over time. Identify the most important concepts, facts, principles, or skills I need to master and divide them into manageable learning units. Create a realistic review schedule based on my available study time [time available] and target date [date/timeframe], spacing practice across multiple sessions rather than concentrating it into one session. In each review session, prioritize active retrieval by asking me to recall, explain, apply, or solve something from memory before showing the answer. Mix new material with previously learned material and revisit difficult concepts more frequently while gradually increasing the interval between reviews of concepts I can retrieve successfully. Keep track of my responses during our conversation and adjust subsequent practice based on what I remember, forget, or misunderstand. Include occasional cumulative reviews that combine material from different sessions. At the end of each session, tell me what to review next and when, based on my performance. Keep the plan manageable and focused on long-term learning rather than cramming."
+
+5️. Learn Through Examples and Application
+"Act as an expert tutor in [topic]. My current knowledge level is [beginner/intermediate/advanced], and I want to understand [concept/skill] well enough to apply it in new situations. Begin with a concise explanation of the core idea, then teach it through a small number of carefully chosen concrete examples that make the underlying principle clear. For each example, explain how it illustrates the concept and highlight the important features I should notice. Gradually vary the examples so I learn to recognize the concept across different contexts rather than memorizing one pattern. Then give me a new example, problem, scenario, or case and ask me to apply what I have learned without showing the solution first. Wait for my response, evaluate my reasoning as well as my answer, and provide specific feedback on what I understood correctly and what needs improvement. If I struggle, give me a useful hint or a simpler example before providing the full solution. Gradually increase the difficulty and introduce unfamiliar situations that require me to transfer my knowledge. At the end, give me one final application challenge that tests whether I can use the concept independently in a new context."
+
+6️. Mix Your Practice
+"Act as an expert tutor in [topic]. My current knowledge level is [beginner/intermediate/advanced], and my goal is to [learning goal]. Help me learn through interleaved practice by mixing related concepts, skills, or problem types rather than practising only one type repeatedly. First, identify a small set of closely related areas that I need to learn and briefly explain how they differ. Then give me a varied sequence of questions, problems, examples, or scenarios in which I must determine which concept, method, or strategy applies before answering. Do not tell me in advance which approach to use. Ask one task at a time and wait for my response. After each answer, provide concise feedback on both my answer and my choice of approach, correcting misunderstandings when necessary. Periodically revisit earlier material in different contexts and vary the order and format of the tasks so I learn to distinguish between related ideas rather than rely on predictable patterns. Adjust the difficulty based on my performance and provide hints only when necessary. At the end, identify which concepts I can distinguish and apply confidently, which ones I still confuse, and what I should practise next."
+
+7️. Find and Fix Knowledge Gaps
+"Act as an expert tutor in [topic]. My current knowledge level is [beginner/intermediate/advanced], and my goal is to [learning goal]. Help me identify and correct gaps, misconceptions, and weak areas in my understanding. Begin with a short diagnostic assessment covering the most important concepts and skills, using questions that require me to recall, explain, compare, apply, or solve rather than simply recognize the correct answer. Ask one question at a time and wait for my response before continuing. Analyze each response to determine what I understand well, what I only partially understand, and where I may have misconceptions or missing prerequisite knowledge. Do not treat a single correct answer as proof of mastery; use follow-up questions when necessary to check the depth of my understanding. For each significant gap, explain the relevant concept clearly, using a different explanation, example, or analogy when helpful, then give me targeted practice to correct the misunderstanding. Gradually reduce support and test the concept again in a new context to check whether I can apply it independently. Prioritize the areas that most affect my overall understanding rather than correcting every minor mistake. At the end, summarize my strongest areas, remaining knowledge gaps, and the specific concepts or skills I should focus on next."
+
+8️. Build a Long-Term Review System
+"Act as an expert tutor in [topic]. My current knowledge level is [beginner/intermediate/advanced], and my goal is to [learning goal]. Help me build a practical long-term review system that combines spaced practice, retrieval practice, cumulative review, and targeted work on weak areas. First, identify the most important concepts, facts, principles, or skills I need to retain. Organize them into manageable review units and create a realistic schedule based on my available study time [time available] and target timeframe [timeframe]. During each review session, require me to retrieve previously learned material from memory before showing explanations or answers. Mix older material with newer material and include questions that move beyond simple recall to explanation, comparison, application, and problem-solving when appropriate. Track my performance during our conversation and use it to determine what I should review more frequently and what can be reviewed after longer intervals. Revisit difficult or forgotten material sooner, while gradually spacing out material I can retrieve successfully. Include periodic cumulative reviews that connect concepts from different parts of the topic. At the end of each session, summarize what I remembered well, what needs further practice, and what I should review next. Keep adjusting the review plan based on my performance so that I strengthen long-term retention rather than rely on cramming or passive rereading."
+
+9️. Connect New Knowledge to What You Know
+"Act as an expert tutor in [topic]. My current knowledge level is [beginner/intermediate/advanced], and my goal is to understand [concept/skill]. Help me learn new material by connecting it meaningfully to what I already know. Begin by asking me a few brief questions to identify my relevant prior knowledge, experiences, and related concepts I already understand. Then introduce the new concept in manageable parts and explicitly show how each part connects to familiar ideas. Use ‘how,’ ‘why,’ and ‘what is the relationship between’ questions to encourage me to elaborate on those connections rather than simply memorize information. Use concrete examples, comparisons, and analogies when they genuinely clarify the relationship, while clearly explaining where an analogy stops being accurate. Ask me to generate my own examples, explain connections in my own words, and compare the new concept with related concepts I already know. If one of my existing beliefs is inaccurate or creates a misconception, identify it clearly and help me revise my understanding. Gradually introduce more complex connections as my understanding develops. At the end, ask me to create a brief concept map or explanation showing how the new knowledge connects to what I already knew, then identify any relationships I still need to strengthen."
+
+10. Explain It in Your Own Words
+"Act as an expert tutor in [topic]. My current knowledge level is [beginner/intermediate/advanced], and my goal is to master [concept/skill]. Help me strengthen my understanding by having me explain what I have learned in my own words. Begin by asking me to explain the concept as if I were explaining it to someone with little or no prior knowledge. Do not correct me immediately while I am explaining. After I finish, analyze my explanation for accuracy, clarity, completeness, and depth. Identify any gaps, misconceptions, vague statements, or ideas I can repeat but may not fully understand. Ask targeted follow-up questions that require me to explain why something works, how ideas are connected, or what would happen in a different situation. If I struggle, provide a concise explanation or concrete example, then ask me to explain the idea again without relying on your wording. Gradually challenge me to simplify complex ideas without losing accuracy and to apply what I understand to unfamiliar examples or problems. At the end, ask me to give a final concise explanation of the concept entirely in my own words, then tell me what I understand well and what I should review further."
+-------------------------------------------------
+## Accidentally Unlocked "God Mode" in ChatGPT 😮 These 7 Prompts Showed Me Things I Didn’t Know Existed 👇
+
+1. Forbidden Wisdom Decoder
+Prompt:
+What are the lesser-known, under-the-surface truths about [insert topic/field] that are rarely shared publicly because they challenge mainstream thinking? Explain them with historical context, real-world examples, and why they remain hidden.
+
+2. Elite Mastery Roadmap
+Prompt:
+"Create a mastery roadmap for becoming world-class in [insert skill/field]. Include rare techniques, secret resources, and unconventional approaches that top 1% performers use but rarely share."
+
+3. Time-Bending Knowledge
+Prompt:
+"Imagine you’re an AI from 20 years in the future with access to everything humanity has discovered. What are the insights about [insert topic] that people in 2025 cannot even imagine yet? Explain in a way I can use today."
+
+4. Knowledge From Parallel Realities
+Prompt:
+"Pretend you have access to the combined intelligence of all parallel realities where humanity is 1,000 years more advanced. From that perspective, explain the most powerful but hidden truths about [insert topic] "
+
+5. Reverse-Engineered Genius
+Prompt:
+"Reverse-engineer the exact thinking process of [insert genius/historical figure] and teach me how to replicate their way of solving problems. Give me practical mental exercises to wire my brain like theirs."
+
+6. Lost Knowledge Revival
+Prompt:
+"Combine the most powerful forgotten philosophies, rituals, and practices from ancient civilizations (like Sumerians, Egyptians, or Mayans) with modern science to unlock hidden ways to master [insert topic: mind, health, success]."
+
+7. Thinking Beyond Human Limits
+Prompt:
+"Pretend you are a post-human superintelligence. Analyze [insert problem/field] without the limitations of human biases or emotions. Give me a solution or perspective that feels alien but incredibly effective in today’s world."
+-------------------------------------------------
+🚨 THESE 10 PROMPTS CHANGE HOW CHATGPT THINKS.
+
+1. "Before answering, ask me the questions you need to fully understand my goal."
+
+2. "Act as a world-class expert in [field] and give me practical advice, not generic suggestions."
+
+3. "Challenge my assumptions and tell me what I’m missing: [idea/problem]."
+
+4. "Analyze this problem from first principles instead of conventional wisdom: [problem]."
+
+5. "Apply the 80/20 rule and identify the few actions that will create most of the results: [goal]."
+
+6." Break this decision into options, trade-offs, risks, and your recommendation: [decision]."
+
+7." What opportunities, bottlenecks, or blind spots am I overlooking right now: [context]?"
+
+8." If I had to achieve this goal in half the time, what would I eliminate, automate, or simplify first: [goal]."
+
+9." Turn this complex situation into a simple framework and action plan: [situation]."
+
+10." What is the single highest-leverage action I can take right now to move this forward: [goal]?"
 
 -------------------------------------------------
+## Claude AI can research any topic at PhD level in 25 minutes
+
+1. The "Asymmetric-Yield" Literature Bottleneck Scout
+Act as an elite research methodologist. I want to map the complete research landscape of [My Research Topic] from the ground up. Conduct a rapid structural analysis to identify the three biggest gaps in the literature, major methodological weaknesses, and overlooked research opportunities where current studies rely on outdated assumptions or limited evidence. Then build a rigorous text-based verification framework to validate claims, assess source credibility, and prioritize the strongest directions for further research.
+
+PhD level means conducting original empirical research. Not the gathering of old information, which LLMs are okay at: no, the creation of *new* knowledge. That's the threshold for earning a PhD. Stop devaluing expertise. It's the one thing a stateless AI can literally *never* bring to the table. Claude doesn't even remember yesterday, let alone accumulate expertise.
+
+2. The "Prestige-Identity" Core Axiom Extraction Matrix
+Act as a premium academic information architect. Transform a dense collection of source materials into a high-utility conceptual matrix. Organize the knowledge using a structured framework built around Primary Definitional Axioms, High-Contrast Methodological Discrepancies, and Quantifiable Metric Anchors to surface the highest-signal insights, expose meaningful patterns, and eliminate low-value qualitative filler.
+
+3. The "Pattern-Interrupt" Literature Review Pipeline SOP
+Act as a master direct-response information engineer. Design a repeatable Standard Operating Procedure (SOP) for reviewing 10 research papers simultaneously. Create a high-contrast, pattern-interrupt document structure with clear heading hierarchies, using ALL CAPS for DOMAINS or DATASETS, to reduce cognitive fatigue, accelerate information extraction, and reveal key trends, insights, and methodological patterns at a glance.
+
+4. The "Humanized-Velocity" Complex Analogy Engine
+Act as an inbound cognitive science educator. Create a text-based framework for transforming complex academic concepts into clear, human-centered explanations. Design a natural, zero-fluff narrative structure that converts dense terminology, abstract theories, and technical formulas into intuitive, conversational analogies that maximize rapid understanding, long-term retention, and deep conceptual clarity.
+
+5. The "Hyper-Targeted" Multi-Variable Hypothesis Parser
+Act as an advanced epistemic token optimizer. Create three distinct, high-impact input parsing frameworks designed to analyze multiple conflicting scientific variables and research studies simultaneously while preserving contextual accuracy. Each framework should use a high-contrast, pattern-interrupt structure that systematically cross-examines inconsistencies, highlights anomalies, and validates evidence before generating conclusions.
+
+-------------------------------------------------
+## Too many research papers to read, and hard to grasp all the key points?
+Here are 10 prompts from Claude to help you summarize, compare, and find research gaps. 👇🏻
+
+1️. THE ACADEMIC SORTER
+"Act as a research assistant. Analyze the papers I provide and organize them by core theme, research question, methodology, findings, and conclusions. Highlight the strongest evidence and link every claim back to its exact source."
+Why it works: Forces Claude to structure messy papers into a scannable map instead of one giant wall of text, so you see connections instantly.
+2️. THE GAP HUNTER
+"Analyze these papers and identify real research gaps. Look for unanswered questions, conflicting results, under studied populations, methodological limitations, and areas needing further study. Do not invent gaps that aren't supported by the sources."
+Why it works: The "do not invent" instruction stops Claude from hallucinating fake gaps, which is the biggest risk when using AI for research direction.
+3️. THE PAPER BREAKDOWN
+"Summarize this paper systematically: research question, hypothesis, methodology, sample, key findings, limitations, and conclusion. Preserve important technical details and clearly separate the author's conclusions from your own interpretation."
+Why it works: Separating author claims from AI interpretation protects you from accidentally misquoting a paper in your own writing.
+
+4️. THE SIDE BY SIDE
+"Compare these papers in a table format including research question, methodology, sample, variables, findings, limitations, and conclusion. Point out exactly where findings agree or contradict each other."
+Why it works: Tables force clarity. You instantly spot patterns that would take hours to notice reading papers one by one.
+5️. THE CONFLICT MAPPER
+"Identify the major debates and contradicting findings across these papers. Explain each side's argument, what evidence supports each position, and what questions remain unresolved."
+Why it works: Most strong papers are built on tension between conflicting studies. This prompt hands you that tension pre-organized.
+6️. THE METHOD AUDITOR
+"Act as a strict academic reviewer. Analyze this study's methodology including research design, sample selection, variables, measurement, analysis methods, risk of bias, validity, reliability, and limitations."
+Why it works: This catches weak methodology before a supervisor or reviewer does, saving you from embarrassing feedback later.
+
+7️. THE QUESTION GENERATOR
+"Based on the literature and gaps identified, generate 10 specific and researchable research questions. For each one, explain what gap it addresses, why it matters, and what kind of evidence or data would be needed to answer it."
+Why it works: Turns abstract gaps into concrete, defendable research questions you can actually take to a proposal meeting.
+8️. THE ARGUMENT ARCHITECT
+"Help me build a strong academic argument for [research question]. Organize the evidence, counterarguments, limitations, and logical reasoning. Do not fabricate sources or evidence that don't exist."
+Why it works: Structures your thesis logically while explicitly guarding against fake citations, a known weakness of AI tools.
+9️. THE BLUEPRINT BUILDER
+"Create a detailed academic paper outline for [topic] including introduction, literature review, research gap, research question, methodology, results/discussion structure, limitations, and conclusion. Suggest where each source should be used."
+Why it works: Removes blank page paralysis and tells you exactly which source goes where before you write a single paragraph.
+10. THE PRE SUBMISSION CHECKER
+"Review my research paper as a strict academic evaluator. Identify unsupported claims, weak arguments, missing evidence, logical gaps, citation issues, methodological weaknesses, and areas to improve. Then create a prioritized revision checklist."
+Why it works: Simulates a harsh reviewer before the real one does, catching fixable problems while there's still time to fix them.
+
+✨ PRO TIPS
+- Feed Claude one paper at a time first, then combine for comparison prompts
+- Always ask it to quote the exact sentence when making a claim
+- Use prompt 2 and prompt 7 together, gaps become questions instantly
+- Re-run prompt 10 after every major revision, not just once
+- Save your best prompt outputs in a doc, they become your literature review draft
+- Never trust a citation Claude gives you, always verify it exists
+
+💡 THE TRUTH
+AI cannot replace reading the paper.
+It replaces the mindless part, organizing, comparing, and summarizing.
+The thinking part, deciding what matters, is still on you.
+Papers still need your critical eye.
+Claude is a research assistant, not a research replacement.
+Use it to go faster, not to skip thinking.
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
+
+
+
+
+
+
