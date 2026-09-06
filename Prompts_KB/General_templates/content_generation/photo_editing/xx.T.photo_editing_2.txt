@@ -1,0 +1,27 @@
+
+-------------------------------------------------
+##Fix photos
+
+1. The $500 Headshot Fixer
+Take this selfie and turn it into a $500 professional headshot. Keep my face EXACTLY the same, don't change my identity. Fix: lighting to soft studio light, background to blurred charcoal office, shirt to crisp white, skin to natural texture (keep pores). Shot on Canon R5, 85mm, ultra-sharp.
+
+2. The Blurry to 4K Magic
+This photo is blurry/noisy. Upscale to 4K, de-blur, fix grain, enhance details in eyes and hair, but DO NOT create a fake AI face. Keep it 100% photorealistic, like it was shot on iPhone 15 Pro RAW. Preserve original facial structure.
+
+3. The Golden Hour God Mode
+Transform this photo's lighting to golden hour sunset. Add warm soft light on my face from the side, natural glow, cinematic shadows. Keep my outfit and pose same. Make it look like a photographer waited 2 hours for perfect light. Realistic, not filtered.
+
+4. The Background Eraser Pro
+Keep me exactly as I am. Replace background with [luxury Dubai balcony at night / minimalist beige studio / aesthetic coffee shop]. Match the lighting on me to the new background, add realistic shadows on floor, no fake cutout halo. Blend like it was really shot there.
+
+5. The Outfit Switch (Without Looking Fake)
+Don't touch my face, body, or pose. Only change my clothes to [black tailored suit + white tee / old money beige outfit / luxury abaya]. Make fabric folds, texture, and shadows 100% realistic. Fit must look natural on my body.
+
+6. The Anti-AI Formula (Use This Every Time)
+Paste this at the end of EVERY photo prompt to avoid that fake plastic look:
+NEGATIVE: no AI smooth skin, no plastic face, no changed eye shape, no fake makeup, no cartoon. POSITIVE: keep natural skin texture, keep pores, keep identity 100%, photorealistic, ultra-detailed, raw photo
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
