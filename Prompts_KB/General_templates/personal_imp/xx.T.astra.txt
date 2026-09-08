@@ -1,0 +1,147 @@
+
+-------------------------------------------------
+ChatGPT 6 Astra can do way more than you think.
+These 10 prompts turn hours into minutes 👇
+
+1/ TURN ANY IDEA INTO A BUSINESS
+“Act as a startup strategist.
+Take this idea: [IDEA]
+Turn it into a realistic business model.
+Give me:
+* Target customer
+* Painful problem
+* Core offer
+* Pricing
+* Fastest way to validate demand
+* 3 ways to acquire the first 10 customers
+* A 7-day launch plan
+Prioritise ideas I can test without building a full product.”
+
+2/ THE 80/20 RESEARCH PROMPT
+“Research [TOPIC] and identify the 20% of information that will give me 80% of the understanding.
+Separate your answer into:
+1. What I absolutely need to know
+2. What most people misunderstand
+3. What experts pay attention to
+4. What is mostly noise
+5. The 5 best questions I should ask next.”
+
+3/ TURN A GOAL INTO A SYSTEM
+“I want to achieve [GOAL].
+Don’t just give me advice.
+Reverse-engineer the goal into:
+* Monthly target
+* Weekly milestones
+* Daily actions
+* Leading indicators
+* Biggest bottlenecks
+* What I should stop doing
+* A simple tracking system
+Optimise the plan for consistency, not motivation.”
+
+4/ FIND THE MONEY
+“Analyse this business:
+[BUSINESS / WEBSITE / DESCRIPTION]
+Find the 5 biggest opportunities to increase revenue.
+Look specifically for:
+* Pricing opportunities
+* Upsells
+* Recurring revenue
+* Lead generation
+* Conversion improvements
+* Automation opportunities
+* Products or services we could add
+Rank each opportunity by potential impact, difficulty and speed to implement.”
+
+5/ LEARN ANYTHING FASTER
+“Teach me [TOPIC] like an expert tutor.
+Assume I’m intelligent but completely new to it.
+Start with the mental model I need first.
+Then explain:
+* Core concepts
+* Simple analogy
+* Real-world example
+* Common beginner mistakes
+* What experts understand differently
+Finish by testing me with 5 increasingly difficult questions.”
+
+6/ THE DEVIL’S ADVOCATE PROMPT
+“I’m considering this decision:
+[DECISION]
+Don’t agree with me automatically.
+Act as a critical strategic adviser.
+Identify:
+* Assumptions I’m making
+* What could go wrong
+* What I’m overlooking
+* Strongest argument against this
+* Opportunity cost
+* What evidence would change the decision
+Then give me your recommended decision and explain why.”
+
+7/ TURN MESSY NOTES INTO ACTION
+“Turn these messy notes into an execution plan:
+[PASTE NOTES]
+Extract:
+* Key decisions
+* Action items
+* Priorities
+* Owners
+* Deadlines
+* Open questions
+* Risks
+Then create a prioritised ‘What happens next’ section.
+Do not summarise things that don’t require action.”
+
+8/ CREATE A WEEK OF CONTENT
+“Act as my content strategist.
+My expertise: [EXPERTISE]
+My audience: [AUDIENCE]
+My offer: [OFFER]
+Create 7 content ideas designed around:
+* Contrarian opinions
+* Mistakes
+* Tutorials
+* Case studies
+* Personal insights
+* Useful frameworks
+* Industry changes
+For each, give me:
+Hook
+Core idea
+3 talking points
+CTA
+Avoid generic AI-sounding hooks.”
+
+9/ BUILD MY AI WORKFORCE
+“Analyse this role or workflow:
+[ROLE / WORKFLOW]
+Break every task into:
+* Human should do it
+* AI should assist
+* AI can fully automate
+For anything AI can handle, recommend the simplest workflow.
+Then redesign the entire process to minimise repetitive human work while keeping humans responsible for judgement, relationships and high-impact decisions.”
+
+10/ THE CEO PROMPT
+“Act as my AI chief of staff.
+Here’s everything currently on my plate:
+[PASTE TASKS / PROJECTS / PROBLEMS]
+Organise it into:
+1. Do today
+2. Do this week
+3. Delegate
+4. Automate
+5. Delay
+6. Delete
+Identify the single highest-leverage thing I should work on next.
+Explain why.
+Then give me the first 3 actions to take.”
+Most people use ChatGPT like Google with a text box.
+Astra gets much more useful when you give it a role, context, constraints and a clear outcome.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
