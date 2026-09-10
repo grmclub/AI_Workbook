@@ -1,0 +1,61 @@
+
+-------------------------------------------------
+## Here is what those specific Markdown symbols actually do when incorporated into prompts:
+
+    # and ### (Headers): Used to denote structural hierarchy (Title or Heading 3). Placing instructions under a heading like ### Context or ### Constraints helps visually segregate different parts of a complex prompt so the AI processes instructions in structured blocks.
+
+    * or - (Bullet Points & Bolding): Single asterisks create bulleted lists to break complex constraints into concise items. Surrounding text with double asterisks (**text**) bolds key emphasis words, signaling high priority.
+
+    [] (Brackets / Variable Placeholders): Indicates dynamic slots inside a prompt template—for example, Summarize the following text: [Insert Article Here]. It acts as a clear visual boundary for text substitution.
+
+    | (Pipes / Table Structure): Used to construct Markdown tables. This is helpful when asking an AI to format tabular data or provide structured output with clear column dividers.
+
+While these symbols improve readability and prompt organization, writing clear, natural-language instructions remains vastly more important than relying on specific syntax tricks.
+
+1/ The # Symbol
+Marks a heading, so it knows a new instruction is starting.
+Type it like this: "# Role: You are a marketing expert"
+What it does: it stops skipping over your instructions, because the # tells it that line is a section header rather than another sentence.
+
+2/ ## And ###
+Same thing, one level down. Use these when a task has steps.
+Type it like this: "## Task: do the following. ### First: [thing]. ### Second: [thing]."
+What it does: keeps complicated requests in the correct order rather than doing step three first.
+
+3/ The * Symbol
+Turns anything into a bullet point and flags it as important.
+Type it like this: "Rules you must follow: * Write concisely * No jargon"
+What it does: makes it treat those as hard rules rather than suggestions, which cuts down how often it ignores them.
+
+4/ Quotation Marks
+Wrap anything you're pasting in.
+Type it like this: "Rewrite this for a business audience: [paste your text inside quote marks]"
+What it does: tells it exactly where your text starts and stops. Without them, it can't always tell your instruction from the thing you want changed.
+
+5/ Square Brackets
+Mark the parts you swap out each time.
+Type it like this: "Write an email template for [your industry]"
+What it does: turns a prompt into something reusable. You keep the prompt, change what's in the brackets.
+
+6/ Three Dashes
+Draws a line between two different things in the same message.
+Type it like this: "--- Background information below --- [paste it]"
+What it does: separates your instructions from your information, so it no longer treats your background notes as commands.
+
+7/ The Pipe Symbol
+Gets your answer back as a table instead of paragraphs.
+Type it like this: "Organise this into a table: | Item | Details | Priority |"
+What it does: comes back as a proper table you can copy straight into a spreadsheet.
+
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
