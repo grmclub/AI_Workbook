@@ -163,9 +163,258 @@ Here are 7 prompts every teacher should save 👇
 8/ The Rubric Creator
 "Create a grading rubric for [assignment type]. Include 4 criteria, each with 4 performance levels and a short description for each level."
 
-
-
 -------------------------------------------------
+
+
+##1. Lesson Planning & Curriculum
+
+The deepest time sink and the safest place to start. AI drafts from the objective and standard you give it; you shape the pedagogy and confirm the alignment.
+
+1. Build a standards-aligned lesson plan
+
+    Draft a [duration] lesson plan for [grade] [subject] on [topic], aligned to this standard: [paste standard]. Include: a clear learning objective, a hook, direct instruction, guided practice, independent practice, and a quick check for understanding. Note the materials needed. Keep activities realistic for a class of [size]. I will confirm the standard alignment myself.
+
+2. Design a unit overview
+
+    Outline a [number]-week unit for [grade] [subject] on [theme]. Map it as a sequence of lessons, each with an objective and the standard it targets [I will supply the standards]. Show how the skills build week to week and where the summative assessment fits. Flag any concept that usually needs more time than teachers expect.
+
+3. Write clear learning objectives
+
+    Turn this topic into 3-5 measurable learning objectives for [grade level], using observable verbs (not "understand" or "know"). For each objective, suggest how I could check it in under five minutes. Match the cognitive level to [grade].
+
+4. Create a lesson hook
+
+    Give me three different openers for a [grade] lesson on [topic]: one question, one short scenario, one quick activity. Each should surface what students already think and take under five minutes. Keep them concrete and age-appropriate.
+
+5. Plan a hands-on activity
+
+    Design a hands-on or collaborative activity for [grade] students to practice [skill/concept]. Include: the setup, the student instructions in plain language, the time needed, the materials, and how I will know it worked. Add one variation for groups that finish early.
+
+6. Build a pacing guide
+
+    Given these topics and this number of instructional days: [paste], propose a pacing guide for [subject], [grade]. Include buffer days for review and reteaching. Flag the topics students most often struggle with so I can allocate more time there.
+
+7. Generate warm-ups and exit tickets
+
+    Create a set of five warm-ups and five exit tickets for a unit on [topic], [grade]. Each warm-up activates prior knowledge; each exit ticket checks one objective. Keep them to a single question or task. Mark which objective each exit ticket measures.
+
+8. Adapt a lesson for a shorter period
+
+    I planned this lesson for [X] minutes but only have [Y]: [paste plan]. Trim it to fit without dropping the core objective. Tell me what to cut, what to assign as follow-up, and what to keep. Preserve the check for understanding.
+
+## 2. Assessment & Quizzes
+
+Fast to draft, high-value to reuse, and low-risk as long as you verify the answer key. AI writes items from your objective; you check every correct answer.
+
+9. Write a quiz aligned to objectives
+
+    Create a [number]-question quiz for [grade] [subject] on [topic], aligned to these objectives: [paste]. Mix formats: multiple choice, short answer, one applied question. Provide an answer key with a one-line rationale for each. Keep the language at [grade] reading level. I will verify every answer.
+
+Gemini's structured output is handy when you want the quiz and the answer key as clean, separate tables.
+
+10. Generate multiple-choice items with strong distractors
+
+    Write [number] multiple-choice questions on [concept] for [grade]. Each needs one correct answer and three plausible distractors based on common student misconceptions, not obviously wrong throwaways. Label the misconception each distractor targets so I can use the results diagnostically.
+
+11. Build a rubric
+
+    Create an analytic rubric for [assignment type] in [grade] [subject]. Use [3/4] performance levels and these criteria: [paste, or ask it to propose]. Write descriptors in specific, observable language a student could self-check against. Keep it to one page.
+
+12. Create a range of question difficulties
+
+    Write questions on [topic] at three levels for [grade]: recall, application, and analysis. Give me [number] at each level, labeled. This is for a tiered quiz, so keep the content consistent across levels and vary only the cognitive demand.
+
+13. Draft a project brief with assessment criteria
+
+    Design a [duration] project for [grade] students on [topic]. Include: the driving question, the deliverable, step-by-step milestones, and the assessment criteria as a rubric. Keep it achievable with [available resources]. Add a short student-facing checklist.
+
+14. Write a self-assessment for students
+
+    Create a student self-assessment for [assignment/unit], [grade]. Use plain "I can" statements tied to the objectives: [paste]. Add a reflection prompt asking what they found hard and what they would do differently. Keep it to half a page.
+
+15. Generate a review game
+
+    Turn this list of concepts into a review-game question bank for [grade]: [paste]. Give me [number] questions sorted easy to hard, each with the answer and a one-line explanation. Format so I can drop them into a quiz-game tool.
+
+## 3. Feedback & Grading Support
+
+Where AI saves the most evenings and where the two rules matter most. AI drafts feedback against your rubric; you read the work, make the call, and own the grade.
+
+16. Draft rubric-based feedback
+
+    Here is a rubric and a piece of de-identified student work: [paste rubric] [paste work]. Draft feedback strictly against the rubric criteria: two specific strengths, two specific next steps, and one concrete example from the work for each point. Warm, direct, actionable. Do not assign a grade; I decide that.
+
+17. Turn my notes into student comments
+
+    Turn my shorthand marks into clear, encouraging feedback comments for [grade] students: [paste de-identified notes]. Keep each comment specific and tied to something the student can act on. Match the tone to [grade]. Never invent praise or a criticism I did not note.
+
+18. Write comment-bank starters
+
+    Build me a comment bank for [subject], [grade], organized by common strength and common area for growth. Give three phrasings for each so my comments do not sound identical across a class. Keep them specific enough to be useful, not generic.
+
+19. Generate feedback in two registers
+
+    Rewrite this feedback for two audiences: one version for the [grade] student in plain, encouraging language, one for the parent that explains the same points and the support at home: [paste de-identified feedback]. Keep the substance identical across both.
+
+20. Draft feedback on a draft, not a final
+
+    This is a de-identified first draft: [paste]. Give feedback aimed at revision, not evaluation: what is working, the single most important thing to fix next, and a question that pushes their thinking. No grade, no line-editing everything, one clear priority.
+
+21. Build a feedback checklist for peer review
+
+    Create a peer-review checklist for [assignment type], [grade]. Frame each item as a question a student can answer about a classmate's work ("Does the introduction state a clear claim?"). Keep it to [number] items, ordered from big-picture to detail.
+
+## 4. Differentiation & Special Education
+
+Where a good prompt turns one lesson into several. AI adapts the material; you match it to the real student and confirm every accommodation against the plan on file.
+
+22. Differentiate a text for reading levels
+
+    Rewrite this passage at three reading levels for a mixed [grade] class, keeping the core content and key vocabulary intact: [paste]. Label each version by approximate level. Flag any sentence where simplifying risks changing the meaning so I can check it.
+
+23. Adapt a lesson for a range of learners
+
+    Take this lesson: [paste]. Suggest concrete adaptations for three groups: students who need more scaffolding, students on level, and students ready for extension. Keep the same objective for all three; change the support and the challenge, not the goal.
+
+24. Draft accommodations for a lesson
+
+    For a [grade] lesson on [topic], list practical classroom accommodations that support a student with [general need, e.g. processing speed / attention / English as an additional language], described generally and with no identifying details. Frame them as options I can select from. I will match them to the student's actual plan.
+
+25. Create scaffolded practice
+
+    Build a scaffolded worksheet for [skill], [grade]: start with a fully worked example, then a partially completed one, then independent practice, fading the support each step. Include an answer key. Keep the cognitive load rising gradually.
+
+26. Support multilingual learners
+
+    Create a vocabulary support sheet for a multilingual learner studying [topic], [grade]: the key terms, a plain-language definition, an everyday example, and a sentence frame for using each term. Keep definitions concrete. I will confirm they fit the student's proficiency level.
+
+The techniques you're reading about work. Test your prompts now with Prompt Score and see your score in real time.
+Test your prompts
+
+27. Draft an extension task
+
+    Design an extension task for [grade] students who have already mastered [objective]. It should deepen the same concept, not just add more of the same. Make it open enough for genuine thinking and give me the criteria for what a strong response looks like.
+
+## 5. Family & Guardian Communication
+
+Where clarity and tone decide whether a message lands. AI drafts; you confirm every fact about a child and keep the relationship yours.
+
+28. Draft a positive home update
+
+    Write a short, warm message to a family sharing something specific and positive about their child's week in [subject]: [paste de-identified detail I provide]. Keep it genuine and concrete, under 120 words. Do not invent any detail I did not give you.
+
+29. Prepare for a parent conference
+
+    Help me prepare for a conference about a [grade] student, working only from these de-identified notes: [paste]. Give me a structure: strengths to open with, the one or two areas to focus on, specific examples, and the support we can agree on together. Neutral, partnership tone. The judgments are mine.
+
+30. Write a difficult message with care
+
+    Draft a message to a family about [concern, described without identifying details]. Lead with partnership, be specific and factual about what I observed, avoid labels and blame, and end with a concrete next step and an invitation to talk. Keep it calm and short. I will add and verify the specifics.
+
+31. Write a class newsletter
+
+    Draft a [weekly/monthly] class newsletter for [grade] families. Sections: what we learned, what is coming up, how to help at home, and key dates [placeholders for me]. Friendly and skimmable, under [length]. Leave every date and detail as a placeholder for me to fill.
+
+32. Translate the tone for an anxious family
+
+    Rewrite this message so it lands well with a worried or frustrated family, without changing any fact: [paste]. Acknowledge the concern, stay warm and professional, and keep the focus on the plan for the child. Do not over-promise.
+
+33. Draft reusable communication templates
+
+    Create three reusable family-message templates for common situations in my [grade] classroom: a missing-work notice, a reminder about an upcoming event, and a check-in after an absence. Keep them warm, short, and easy to personalize with brackets.
+
+## 6. Classroom & Student-Facing Materials
+
+Reusable assets that save the same explanation a hundred times. AI drafts; you verify every fact before it reaches a student.
+
+34. Explain a concept three ways
+
+    Explain [concept] to [grade] students in three ways: a plain-language definition, an everyday analogy, and a worked example. Keep the reading level appropriate and avoid jargon unless I am teaching the term itself. I will check the analogy does not create a misconception.
+
+35. Create a study guide
+
+    Build a one-page study guide for [unit], [grade]. Include: the key ideas, the must-know vocabulary, a few worked examples, and five self-check questions with answers. Organize it so a student can actually revise from it, not just read it.
+
+36. Generate worked examples
+
+    Write [number] worked examples for [skill/problem type], [grade], each showing the steps and the reasoning at each step, not just the answer. Increase the difficulty across the set. Add one common-mistake example labeled clearly as what not to do.
+
+37. Draft slides or an anchor chart
+
+    Outline slides (or an anchor chart) for teaching [topic], [grade]. Give me the sequence, one idea per slide, the visual I should add, and the single sentence students should copy down. Keep text minimal. I will design the visuals.
+
+38. Build a graphic-organizer template
+
+    Create a graphic organizer for [thinking task, e.g. comparing two texts / sequencing events / cause and effect], [grade]. Describe the layout, the prompts in each section, and how students fill it in. Keep it simple enough to use without a long explanation.
+
+39. Turn a topic into a Socratic discussion
+
+    Give me a sequence of open-ended discussion questions on [topic] for [grade], moving from accessible to challenging. Include follow-up prompts to push thinking and a couple of questions that surface common misconceptions. This is for a guided discussion, so keep them genuinely open.
+
+For a live, back-and-forth tutoring dialogue with a student, Claude tends to hold a patient Socratic thread well; keep the student anonymous.
+
+
+## 7. Administration & Productivity
+
+The operational work that runs a classroom and never shows up in a lesson plan. Low risk, high time savings.
+
+40. Draft a permission slip or letter home
+
+    Draft a [permission slip / field-trip letter / general notice] for a [grade] activity: [details]. Include what families need to know, what to return and by when, and a tear-off or reply section. Clear, brief, and easy to sign. Leave logistics as placeholders for me.
+
+41. Write a classroom policy or procedure
+
+    Draft a clear, positively framed classroom procedure for [routine, e.g. entering the room / turning in work / group transitions], [grade]. Steps students can follow, the reason behind it in one line, and what "doing it well" looks like. Keep it age-appropriate.
+
+42. Draft a recommendation letter
+
+    Draft a recommendation letter for a student based only on these de-identified notes about their strengths and achievements: [paste]. Specific, warm, and credible, with concrete examples rather than generic praise. Leave the name and specifics as placeholders. I will confirm every claim.
+
+43. Plan a substitute-teacher packet
+
+    Create a substitute plan for a day in my [grade] classroom: [paste the lessons or activities]. Include the schedule, clear instructions for each block, classroom routines, what to do with early finishers, and who to contact for help. Written so someone who does not know my class can run the day.
+
+44. Build a meeting agenda
+
+    Draft a focused agenda for a [team / department / parent] meeting on [topic], to fit [duration]. List the items with time boxes, the decision or outcome each item needs, and a two-line pre-read. Keep it tight enough to actually finish on time.
+
+45. Summarize a long document
+
+    Summarize this [policy / report / email thread] into what I actually need to act on: [paste, de-identified]. Give me the key points, any deadline or action assigned to me, and anything that needs a decision. Flag anything ambiguous rather than guessing.
+
+## 8. Professional Development & Reflection
+
+AI as a patient thinking partner for your own growth. These prompts make it earn its keep.
+
+46. Summarize PD into classroom actions
+
+    I took these rough notes at a [PD session / conference / book study]: [paste]. Turn them into five key takeaways, then three concrete changes I could try in my [grade] classroom next week, each small enough to actually do. Mark anything I should read more about before trying.
+
+47. Reflect on a lesson that did not land
+
+    A lesson on [topic] did not go the way I hoped: [describe what happened, no student identifiers]. Ask me the questions a thoughtful instructional coach would ask to help me figure out why, then help me plan one specific change for next time. Do not just reassure me.
+
+48. Brief me on a topic I need to teach
+
+    I have to teach [topic] and want to be a step ahead of my students. Teach it to me: the core ideas, the common misconceptions, the questions students always ask, and the two or three places I am most likely to get a tricky question. I will verify before teaching.
+
+49. Design a mini professional-growth plan
+
+    Help me build a small professional-growth goal for this [term / year] around [skill, e.g. questioning techniques / formative assessment]. Give me a measurable goal, two or three practices to try, and a simple way to track whether it is working. Realistic for a full teaching load.
+
+50. Draft a presentation for colleagues
+
+    Help me outline a [PD session / staff meeting share-out] on [topic] for fellow teachers, to fit [duration]. Give me a clear structure, the three things they should leave with, one activity to keep it interactive, and the examples I should prepare. I will supply the classroom evidence.
+
+Turn these into templates
+
+You do not have to rebuild every prompt from scratch. The Keep My Prompts templates library has structured, ready-to-run prompts built for exactly this work:
+
+    Lesson Plan Creator for standards-aligned planning
+    Quiz Question Generator and Grading Rubric Builder for assessment
+    Student Writing Feedback Coach for revision feedback
+    Complex Topic Simplifier and Socratic Tutor for student-facing materials
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
