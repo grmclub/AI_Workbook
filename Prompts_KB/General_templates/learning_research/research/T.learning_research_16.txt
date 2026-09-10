@@ -417,9 +417,27 @@ Encourage me to reflect on what I have learned and suggest how I could apply it 
 
 
 -------------------------------------------------
--------------------------------------------------
--------------------------------------------------
+## Learning for Exams
 
+1. The Dumb It Down + Trap Detector
+Act as a top 1% professor in [SUBJECT]. Explain this chapter: [PASTE CHAPTER / UPLOAD PDF]. Rules: 1. Explain like I'm 12, no jargon 2. Give me 3 real-life examples I will actually remember 3. Tell me 5 traps professors put in exams from this chapter. If I get these wrong, I fail. Be brutal.
+
+2. The Exam Question Predictor
+This is my chapter: [PASTE CHAPTER]. You are the professor who sets the paper for [UNIVERSITY / Degree]. Based on this, predict: 1. 5 MCQs with answers 2. 3 short questions (5 marks) 3. 2 long questions (15 marks) that WILL come. Give me model answers in topper style - to the point, diagram where needed. 80% of your predictions come true.
+
+3. The Memory Machine
+I forget everything after reading: [TOPIC]. Turn this chapter into: 1. 10 flashcards - Question on front, 1-line answer on back 2. 1 mnemonic story to remember the whole flow 3. 1 mind map in text format: Main idea -> Branches -> Keywords. Make it so I remember it even during exam panic.
+
+4. The Feynman Executioner
+I will explain [TOPIC FROM CHAPTER] to you in my own words: [PASTE YOUR EXPLANATION]. Act as a strict examiner. 1. Roast me where I'm vague/wrong 2. Ask me 3 follow-up questions that will expose if I really understood 3. Then give me the perfect 90-second answer I should have given. Don't let me fool myself that I know it.
+
+5. The One-Page Topper Notes
+Take this chapter: [PASTE CHAPTER] and condense it into 1 page that a topper would write the night before exam. Include: All formulas / definitions / dates, 3 diagrams described in text I can draw, What to skip vs what is MUST-LEARN. No paragraphs - only bullets, tables, and triggers. If I read only this, I should get 80%+.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 
 
 
