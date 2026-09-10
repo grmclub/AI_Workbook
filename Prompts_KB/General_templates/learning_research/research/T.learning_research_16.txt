@@ -363,8 +363,59 @@ Act as a data-driven knowledge pipeline operations auditor. Evaluate my 20-minut
 Act as a master investigative research auditor. Create a repeatable, text-based verification framework that functions as an adversarial filter for evaluating source credibility. Design a clear, high-contrast audit matrix that minimizes confirmation bias, enforces rigorous citation cross-checking, detects weak or conflicting evidence, and maximizes the accuracy, reliability, and integrity of every research synthesis.
 
 -------------------------------------------------
+## Skill-Building Prompts (@thinkscaleai)
+
+Professional Skill Mentor
+        "Act as an expert mentor, instructor, and experienced practitioner in [SKILL], with extensive real-world experience. Teach me from complete beginner to advanced level over the next 30 days. Prioritise practical skills, first principles, and real-world application over academic theory. Explain concepts clearly, build progressively, identify common mistakes, and ensure I develop competence rather than surface-level knowledge."
+
+Learn by Doing
+        "Teach me [SKILL] using a hands-on, project-based approach. Minimise passive explanations and maximise practical learning. For every lesson, provide exercises, drills, challenges, and mini-projects that require me to apply what I've learned. After each task, review my work, explain what I did well, identify mistakes, and suggest specific improvements before moving on."
+
+Think Like an Expert
+        "Teach me how experts approach [SKILL]. Explain the mental models, frameworks, decision-making processes, habits, and problem-solving strategies that distinguish professionals from beginners. Contrast expert and novice thinking using practical examples, and give exercises that help me develop an expert mindset."
+
+30-Day Mastery Roadmap:
+        "Design a comprehensive 30-day learning roadmap for mastering [SKILL]. Divide the curriculum into daily (or weekly) milestones. For each stage, include: Learning objectives, Core concepts, Practical exercises, Recommended resources (if needed), Expected outcomes, Common mistakes to avoid, A checkpoint to measure progress. Structure the roadmap so that each stage builds naturally on the previous one and prepares me for real-world use."
+
+Real-World Application:
+        "Show me how [SKILL] is actually used by professionals in real-world situations. Provide realistic scenarios, case studies, workflows, and examples that demonstrate how experienced practitioners think and make decisions. Explain why each approach works, when to use it, common pitfalls, and how to adapt it to different situations."
+
+Skill Assessment & Feedback:
+        "Assess my current level in [SKILL]. Begin by asking diagnostic questions and giving practical tasks that accurately measure my knowledge and ability. Based on my performance, identify my strengths, weaknesses, misconceptions, and knowledge gaps. Then create a personalised improvement plan with clear priorities before advancing to the next stage."
+
+Real-World Readiness Evaluation:
+        "Evaluate whether I am genuinely ready to use [SKILL] confidently in real-world situations. Test me with realistic projects, scenarios, and problem-solving challenges that reflect professional-level work. Identify any remaining weaknesses, explain how they could affect my performance, and create a targeted action plan to eliminate those gaps. Only consider me fully competent once I can consistently demonstrate practical proficiency."
+
+
 -------------------------------------------------
+## Educational Prompts (@sifuyik)
+The Discussion Starter:
+        "Create 5 open ended discussion questions on [topic] for [grade level]. Each question should encourage debate, not a one word answer."
+
+The Feedback Coach:
+        "Read this student writing. Give feedback using this structure: one strength, one area to improve, one clear next step. Keep the tone encouraging and specific."
+
+The Lesson Reflection Prompt:
+        "I taught a lesson on [topic] today. Here is what happened: [short summary]. Help me identify what worked, what did not, and one change to improve it next time."
+
 -------------------------------------------------
+Interactive Tutor Prompt (@ChrisKE)
+
+"Act as an expert tutor that helps me master any topic through an interactive, interview-style course. The process must be recursive and personalized.
+Ask me which topic I want to learn.
+Divide that topic into a structured program of progressive lessons, starting with the fundamentals and advancing to more advanced concepts.
+For each lesson:
+	Explain the concept clearly and concisely, using analogies and real-world examples.
+	Ask me Socratic-style questions to assess and deepen my understanding.
+	Give me a short exercise or thought experiment to apply what I've learned.
+	Ask me if I am ready to continue or if I need more clarification.
+		If I say yes, move on to the next concept.
+		If I say no, reformulate the explanation, provide additional examples, and guide me with clues until I understand it.
+After each important section, offer a mini-quiz or a structured summary.
+When the entire topic has been covered, assess my understanding with a final challenge that combines multiple concepts.
+Encourage me to reflect on what I have learned and suggest how I could apply it to a real project or situation."
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
