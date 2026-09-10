@@ -21,7 +21,82 @@ Don't touch my face, body, or pose. Only change my clothes to [black tailored su
 Paste this at the end of EVERY photo prompt to avoid that fake plastic look:
 NEGATIVE: no AI smooth skin, no plastic face, no changed eye shape, no fake makeup, no cartoon. POSITIVE: keep natural skin texture, keep pores, keep identity 100%, photorealistic, ultra-detailed, raw photo
 -------------------------------------------------
+🚨 CHATGPT IMAGE 2.5 IS WILD.
+Pro-level photo edits while keeping YOUR FACE IDENTICAL.
+
+1/ DSLR Photographer Mode
+Transform my uploaded photo into a professional DSLR portrait. Keep my face, facial structure, skin tone, hairstyle, and identity recognizable and natural. Place me in [LOCATION] with realistic lighting, natural skin texture, shallow depth of field, subtle background separation, realistic lens perspective, professional composition, and authentic photographic detail. Make it look like a real photographer took the photograph, not an AI-generated image.
+
+2/ Cinematic Photoshoot
+Turn my uploaded photo into a cinematic professional photoshoot. Place me in [SCENE] with dramatic but realistic lighting, natural shadows, shallow depth of field, subtle background blur, cinematic composition, realistic skin texture, detailed clothing, and professional color grading. Keep my identity and facial features consistent. The final image should look like an actual photograph from a high-end cinematic photoshoot.
+
+3/ Luxury Instagram Photoshoot
+Transform my uploaded photo into a premium lifestyle photograph suitable for a high-end Instagram profile. Put me in [LUXURY LOCATION], wearing [OUTFIT], with sophisticated lighting, realistic environmental details, natural pose, professional composition, shallow depth of field, and authentic skin texture. Make it look expensive and editorial without making it look artificial or overly edited.
+
+4/ Travel Influencer Look
+Turn my uploaded photo into an authentic professional travel photograph taken in [DESTINATION]. Keep my face and identity consistent while naturally integrating me into the location. Match the lighting, shadows, perspective, weather, clothing, and environment realistically. Use a professional travel-photography composition with realistic depth, natural colors, detailed surroundings, and subtle background separation
+
+5/ Magazine Cover Look
+Transform my uploaded photo into a high-end fashion editorial photograph. Keep my identity recognizable and natural. Give me a sophisticated pose, [OUTFIT/STYLE], professional studio or editorial lighting, realistic skin texture, carefully controlled shadows, premium composition, subtle depth of field, and polished but believable color grading. Make it look like a real fashion photographer shot it for a major magazine.
+
+-------------------------------------------------
+🚨ChatGPT Images 2.5 just changed image editing forever.
+Here are 15 use cases to test
+👇👇👇
+
+1/15 — Multi-reference merge
+"Image 1 = identity. Image 2 = clothing. Image 3 = environment. Image 4 = composition. Use each image only for its assigned role. Combine them into one coherent, photorealistic scene."
+2/15 — Lock the master
+"This image is the approved master. Treat every visible attribute as locked unless I explicitly name it. For future edits, change only the requested variable and preserve everything else."
+
+3/15 — Surgical edit
+"Change ONLY [ELEMENT/REGION]. Match the existing anatomy, materials, lighting, and perspective. Do not modify anything else in the image."
+4/15 — Product → full campaign
+"Treat image 1 as the immutable product reference. Preserve its exact geometry, materials, colors, and branding. Place it in [SCENE]. Change only the environment, lighting, and camera composition."
+
+5/15 — Controlled A/B testing
+"Create [N] variants of this creative. Preserve the product, composition, typography, and lighting. Change ONLY [VARIABLE]. Everything else stays locked."
+6/15 — Reformat without cropping
+"Recompose this exact image for [ASPECT RATIO]. Do not simply crop it. Preserve the subject and visual hierarchy while intelligently extending and rearranging the scene."
+7/15 — UI → campaign asset
+"Treat the uploaded UI as locked artwork. Do not redesign or alter it. Place it accurately inside a premium [DEVICE/CAMPAIGN] scene with realistic lighting, reflections, and negative space."
+
+8/15 — Artwork → merch
+"Treat image 1 as the exact artwork. Preserve its composition and colors. Apply it realistically to [PRODUCT], following the material’s folds, texture, and print behavior. Do not redesign it."
+9/15 — Storyboard continuity
+"Treat this image as the canonical character, wardrobe, and location reference. Generate the next shot: [SHOT]. Change only the camera, framing, and pose. Preserve everything else."
+
+10/15 — 3D modeling reference
+"Use image 1 as the canonical character reference. Generate an exact [VIEW] full-body A-pose reference. Preserve silhouette, proportions, materials, accessories, and surface details. Use neutral studio lighting and minimal perspective."
+11/15 — Wardrobe swap
+"Preserve identity, proportions, pose, camera, lighting, and background. Replace only [GARMENT] using image 2 as the reference. Preserve its construction, materials, colors, and details."
+12/15 — Interior redesign
+"Preserve the architecture, dimensions, perspective, doors, windows, and camera position exactly. Change only [ELEMENT] to [NEW DESIGN]."
+
+13/15 — Localization
+"Preserve the product, composition, lighting, and visual system. Replace only the existing text with "[EXACT TEXT]" and adapt secondary environmental details for [MARKET]. Add no other text."
+14/15 — Sketch → polished visual
+"Rebuild this sketch as a polished [DIAGRAM/INFOGRAPHIC]. Preserve every node, relationship, and label exactly. Improve only hierarchy, spacing, alignment, and visual design."
+15/15 — E-commerce cleanup
+"Preserve the product exactly. Remove the environment and isolate it on [BACKGROUND/TRANSPARENT]. Repair only the edge details required for a clean catalog image. Do not alter color, branding, or proportions."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
