@@ -416,6 +416,375 @@ You do not have to rebuild every prompt from scratch. The Keep My Prompts templa
     Complex Topic Simplifier and Socratic Tutor for student-facing materials
 
 -------------------------------------------------
+## 5 Prompts for Lesson Planning & Curriculum Design
+
+Lesson planning is the most common use case for AI among teachers, and for good reason. It excels at creating structured content. Use these prompts to build a lesson skeleton, brainstorm activities, or generate review materials in minutes.
+Prompt 01 The 5-Minute Lesson Plan
+Copy
+
+Act as an expert instructional designer. Generate a 45-minute lesson plan for a 7th-grade science class on the topic of photosynthesis. The learning objective is for students to be able to explain the inputs and outputs of the process. Include a warm-up, a 10-minute direct instruction segment, a 20-minute guided practice activity, and a 5-minute exit ticket. Format as a simple, scannable outline.
+**Sample Output:**
+*   **Objective:** Students will be able to identify and explain the inputs (sunlight, water, carbon dioxide) and outputs (glucose, oxygen) of photosynthesis.
+*   **Warm-Up (5 min):** "Think-Pair-Share" - What do plants need to grow?
+*   **Direct Instruction (10 min):** Short lecture with a diagram of a plant cell, labeling the chloroplasts. Introduce key vocabulary: photosynthesis, chlorophyll, carbon dioxide, oxygen, glucose.
+*   **Guided Practice (20 min):** Students work in pairs with a "Photosynthesis Recipe" worksheet. They must "gather" the ingredients (input cards) and produce the "finished product" (output cards).
+*   **Exit Ticket (5 min):** On an index card, students must answer: "Name two things a plant needs for photosynthesis and one thing it produces.
+
+Tested on Claude, ChatGPT and Gemini
+
+##Prompt 02 The Activity Brainstormer
+Copy
+
+I am teaching a 10th-grade World History unit on the Silk Road. The students are finding the textbook chapter dry. Generate 5 creative and engaging in-class activity ideas beyond a standard lecture or worksheet. For each idea, briefly describe the activity and the materials needed.
+**Sample Output:**
+1.  **"Silk Road Trading Simulation":** Students get a "passport" and a small bag of goods (represented by cards). They must travel to different "cities" (desks) around the room to trade for other goods, experiencing the challenges of travel and bartering. (Materials: cards, classroom space).
+2.  **"Goods and Ideas Gallery Walk":** Post images and descriptions of items, technologies, and ideas (e.g., silk, gunpowder, Buddhism) that were exchanged. Students walk around with a graphic organizer, noting where each item came from and its impact. (Materials: printed images/text, graphic organizers).
+3.  ...
+
+Tested on Claude, ChatGPT and Gemini
+
+##Prompt 03 The Study Guide Creator
+Copy
+
+Act as a helpful study assistant. I am preparing my 11th-grade U.S. History students for a test on the American Revolution. The key topics are: the causes (taxation without representation, Boston Tea Party), major battles (Lexington and Concord, Saratoga, Yorktown), and key figures (Washington, Jefferson, Franklin). Generate a one-page study guide that includes key terms with definitions, a timeline of major events, and 3-4 guiding short-answer questions.
+**Sample Output:**
+**Key Terms:**
+*   **Stamp Act:** A 1765 tax on all paper documents in the colonies.
+*   **Intolerable Acts:** A series of punitive laws passed by the British Parliament in 1774 after the Boston Tea Party.
+...
+**Timeline:**
+*   **1770:** Boston Massacre
+*   **1773:** Boston Tea Party
+*   **1775:** Battles of Lexington and Concord
+...
+**Guiding Questions:**
+1.  How did the concept of "no taxation without representation" fuel the revolutionary movement?
+2.  Why was the Battle of Saratoga considered a turning point in the war?
+...
+
+Tested on Claude, ChatGPT and Gemini
+
+##Prompt 04 The Real-World Connection Prompt
+Copy
+
+.
+**Sample Output:**
+1.  **Cell Phone Plans:** A plan costs $20/month (the y-intercept,
+
+Tested on Claude, ChatGPT and Gemini
+
+
+##Prompt 05 The ‘Explain It Like I’m… ‘ Prompt
+Copy
+
+Explain the concept of plate tectonics. First, explain it simply enough for a 5th grader to understand. Then, explain it at a high school (9th grade) level with more technical vocabulary. Finally, explain it at a college undergraduate level.
+**Sample Output:**
+*   **5th Grade Level:** Imagine the Earth's surface is like a cracked eggshell. The big pieces are called plates, and they are slowly floating and bumping into each other. When they crash, they can push up to make mountains. When they slide, they can cause earthquakes.
+*   **9th Grade Level:** The Earth's lithosphere is broken into several large tectonic plates that move over the semi-fluid asthenosphere. Plate boundaries (convergent, divergent, and transform) are where most seismic activity occurs. Convergent boundaries form mountain ranges and subduction zones, while divergent boundaries create new crust at mid-ocean ridges.
+*   **Undergraduate Level:** Plate tectonic theory describes the lithosphere as divided into rigid plates that interact at three primary boundary types—convergent, divergent, and transform—driven by mantle convection and slab-pull forces. These interactions govern the distribution of earthquakes, volcanism, and mountain-building processes, and are foundational to models of long-term geological change.
+
+Tested on Claude, ChatGPT and Gemini
+
+5 Prompts for Differentiation & IEP Support
+
+Differentiation is one of AI’s superpowers. The ability to instantly rewrite a text at multiple reading levels or generate scaffolding materials is a huge time-saver. These prompts help you support every learner in your classroom. For a dedicated tool that specializes in this, check out our review of Diffit.
+
+##Prompt 06 The Lexile Level Adjuster
+Copy
+
+Take the following text and rewrite it at three different reading levels: 4th grade, 8th grade, and 11th grade. Keep the core information the same, but adjust the vocabulary and sentence structure.
+[Paste your original text here. For example, a news article or a passage from a science textbook.]
+**Sample Output:**
+*   **(4th Grade):** The heart is a strong muscle that pumps blood. Blood carries good stuff like oxygen to all parts of your body.
+*   **(8th Grade):** The human heart is a powerful muscular organ responsible for pumping blood throughout the circulatory system. This blood transports oxygen and nutrients to the body's tissues.
+*   **(11th Grade):** The heart is a four-chambered muscular pump that drives the double circulatory system, coordinating pulmonary circulation, which oxygenates blood via the lungs, and systemic circulation, which delivers oxygenated blood to body tissues, through contractions regulated by the cardiac conduction system.
+
+## Prompt 07 The Scaffolding & Graphic Organizer Idea Generator
+Copy
+
+I am planning a lesson for my 9th-grade English class where students will analyze the theme of ambition in Shakespeare's *Macbeth*. Some of my students struggle with abstract analysis. Suggest 3 scaffolding activities or graphic organizers I could provide to support them.
+**Sample Output:**
+1.  **Ambition Tracker Chart:** A simple three-column chart where students track examples of ambition. Columns: "Character," "Ambitious Action/Quote," and "Consequence."
+2.  **"Tragic Hero" Arc Diagram:** A visual arc where students plot Macbeth's rise and fall, noting key decisions driven by ambition at each point.
+3.  **Sentence Starters:** Provide a list of sentence starters for their analytical paragraphs, such as: "Shakespeare introduces the theme of ambition when..." or "Macbeth's ambition ultimately leads to...
+
+Tested on Claude, ChatGPT and Gemini
+
+##  Prompt 08 The Vocabulary List Builder
+Copy
+
+I have a text about the Amazon rainforest for my 6th-grade geography class. Please identify 10 key vocabulary words from the text below. For each word, provide a simple, student-friendly definition and an example sentence. Format this as a two-column table.
+[Paste text here.]
+**Sample Output:**
+| Word | Definition & Example |
+| :--- | :--- |
+| **Ecosystem** | A community of living things and their environment. *The rainforest is a complex ecosystem with millions of different plants and animals.* |
+| **Biodiversity** | The variety of life in a particular place. *The Amazon has incredible biodiversity, with more species than almost anywhere else on Earth.* |
+| **Canopy** | The top layer of the rainforest, made of the overlapping leaves and branches of tall trees. *Monkeys and birds live high up in the forest canopy.* |
+| ... | ... |
+
+
+Prompt 09 The IEP Goal Idea Generator
+Copy
+
+Act as a special education consultant. I have a 4th-grade student whose IEP goal is to improve their ability to write a multi-paragraph text with a clear topic sentence. Generate 3 sample, measurable annual goals I could adapt for this student's IEP.
+**Sample Output:**
+1.  By the end of the school year, when given a familiar topic and a graphic organizer, the student will write a three-paragraph text, with each paragraph containing a clear topic sentence, scoring a 3 out of 4 on a district-approved writing rubric in 4 out of 5 trials.
+2.  By [date], after a mini-lesson on topic sentences, the student will be able to identify the topic sentence in a given paragraph and write their own topic sentence for a new paragraph with 80% accuracy on 3 consecutive probes.
+3.  By [date], given a completed graphic organizer, the student will independently draft a topic sentence that clearly states the paragraph's main idea, achieving mastery on 4 out of 5 consecutive writing samples as measured by teacher observation.
+
+Tested on Claude, ChatGPT and Gemini
+Prompt 10 The Misconception Predictor
+Copy
+
+I am about to teach a 5th-grade math lesson on adding and subtracting fractions with unlike denominators. What are the 3 most common misconceptions or errors students make with this topic? For each one, suggest a quick way to address it.
+**Sample Output:**
+1.  **Misconception:** Adding the numerators and the denominators (e.g., 1/2 + 1/3 = 2/5).
+*   **How to Address:** Use visual models. Show them a pizza cut into halves and a pizza cut into thirds and ask if they can just add the slices. They'll see the pieces are different sizes.
+2.  **Misconception:** Forgetting to find a *common* denominator and just using one of the existing denominators.
+*   **How to Address:** Reinforce the "common" part with an analogy. "You can't add apples and oranges. You have to turn them both into a common thing, like 'pieces of fruit'."
+3.  **Misconception:** Finding the common denominator but forgetting to change the numerators accordingly.
+*   **How to Address:** Emphasize the rule: "Whatever you do to the bottom, you must do to the top." Use arrows to show the multiplication for both numerator and denominator.
+
+Tested on Claude, ChatGPT and Gemini
+5 Prompts for Grading & Student Feedback
+
+AI cannot and should not replace your professional judgment in grading. However, it can significantly speed up the process by providing first-draft feedback, generating rubrics, and identifying patterns. For complex assignments, a dedicated tool like Gradescope offers more power, but these prompts are perfect for day-to-day tasks.
+Prompt 11 The Rubric Generator
+Copy
+
+Create a 4-point rubric for a high school lab report in a biology class. The criteria should include: Hypothesis, Materials/Methods, Data & Analysis, and Conclusion. The scoring levels should be: Exemplary (4), Proficient (3), Developing (2), and Beginning (1). Provide specific descriptors for each box in the grid. Format as a markdown table.
+**Sample Output:**
+| Criteria | 4 - Exemplary | 3 - Proficient | 2 - Developing | 1 - Beginning |
+| :--- | :--- | :--- | :--- | :--- |
+| **Hypothesis** | The hypothesis is a clear, testable statement that explains the predicted outcome and provides scientific reasoning. | The hypothesis is a testable statement that predicts the outcome. | The hypothesis is unclear or not testable. | A hypothesis is missing. |
+| **Data & Analysis** | Data is presented clearly in labeled tables/graphs. Analysis is thorough, identifies trends, and discusses sources of error. | Data is presented clearly. Analysis identifies trends. | Data is present but disorganized. Analysis is minimal. | Data is missing or incomplete. |
+| ... | ... | ... | ... | ... |
+
+Tested on Claude, ChatGPT and Gemini
+Prompt 12 The ‘Two Stars and a Wish’ Feedback Generator
+Copy
+
+A student wrote the following paragraph for an essay about the causes of World War I. Act as a helpful writing coach and provide feedback in the "Two Stars and a Wish" format (two things they did well, and one specific suggestion for improvement).
+**Student Paragraph:** "World War I was a huge conflict. It was caused by many things. One cause was the assassination of Archduke Franz Ferdinand. Also, there were alliances between countries that pulled everyone into the war. Imperialism was another factor."
+**Sample Output:**
+*   **Star 1:** You did a great job identifying three major causes of the war: the assassination, the alliance system, and imperialism.
+*   **Star 2:** Your writing is clear and easy to understand.
+*   **Wish:** I wish you would expand on one of those causes. For example, can you explain *how* the alliance system pulled other countries into the conflict? Adding a specific example would make your argument even stronger.
+
+Tested on Claude, ChatGPT and Gemini
+Prompt 13 The Error Pattern Identifier
+Copy
+
+I have graded 10 essays. I've noticed a common error pattern. Here are three anonymized sentences from different student papers that show the same mistake:
+1. "The main character, he struggles with his identity."
+2. "My hypothesis, it was proven correct by the data."
+3. "The legislative branch, it is responsible for making laws."
+What is this grammatical error called, and can you generate a 3-sentence mini-lesson I could use to explain it to the class?
+**Sample Output:**
+This error is called a "double subject" or "subject-verb redundancy."
+**Mini-Lesson:**
+"I'm noticing a common pattern in our writing where we state the subject twice, like 'My dog, he is brown.' The noun 'My dog' and the pronoun 'he' are both acting as the subject. To make our writing more concise, we only need one. Simply say, 'My dog is brown' or 'He is brown'.
+
+Tested on Claude, ChatGPT and Gemini
+Prompt 14 The Multiple Choice Question Writer
+Copy
+
+Generate 5 multiple-choice questions to assess understanding of the water cycle for a 4th-grade class. The questions should cover evaporation, condensation, precipitation, and collection. For each question, indicate the correct answer.
+**Sample Output:**
+1.  When the sun heats up water in a lake and it turns into vapor, this is called:
+a) Condensation
+b) Precipitation
+c) **Evaporation**
+d) Collection
+2.  What happens when water vapor in the air gets cold and changes back into liquid, forming clouds?
+a) **Condensation**
+b) Evaporation
+c) Runoff
+d) Precipitation
+...
+
+Tested on Claude, ChatGPT and Gemini
+Prompt 15 The Comment Bank Builder
+Copy
+
+I'm grading student essays and find myself writing the same comments repeatedly. Help me build a comment bank. Generate 3-4 different ways to phrase a constructive comment for each of the following common issues:
+1. The thesis statement is unclear or too broad.
+2. The paragraph lacks a clear topic sentence.
+3. The writer needs to provide more evidence or specific examples.
+**Sample Output:**
+**1. For an unclear thesis:**
+*   "Could you refine your thesis statement to be more specific? What is the main argument you want to prove?"
+*   "This thesis feels a bit broad. Try to narrow your focus to a more specific, debatable claim."
+*   "A strong thesis makes a clear argument. What is the single most important idea you want your reader to take away from this essay?"
+**2. For a missing topic sentence:**
+*   "What is the main point of this paragraph? Starting with a clear topic sentence would help guide your reader."
+*   "Each paragraph should focus on a single idea. A topic sentence at the beginning would help clarify this paragraph's purpose."
+...
+
+Tested on Claude, ChatGPT and Gemini
+5 Prompts for Parent & Administrator Communication
+
+Drafting professional, clear, and diplomatic emails takes time and emotional energy. This is a low-risk, high-reward area to use AI. It can help you find the right tone and structure, especially for difficult conversations, freeing you up to focus on the substance.
+34% of teachers
+
+Percentage of U.S. public school teachers who report receiving zero guidance—formal or informal—on how to use AI. Source: news.gallup.com
+Prompt 16 The ‘Positive Postcard Home’ Generator
+Copy
+
+I want to send a positive email to a student's parents. The student's name is [Student Name]. Today in class, [he/she/they] showed great leadership during a group project by helping their teammates understand the task and keeping everyone focused. Draft a short, warm, and professional email to their parents/guardians.
+**Sample Output:**
+Subject: A note about [Student Name] from [Your Name]'s class
+Dear [Parent/Guardian Name],
+I'm writing with some wonderful news from our [Class Name] class today.
+I was so impressed with [Student Name]'s leadership during our group activity. They took the initiative to help their teammates understand the assignment and did a fantastic job of keeping the group on track and working together. It was wonderful to see.
+You should be very proud. I am so happy to have [Student Name] in my class.
+Best regards,
+[Your Name]
+
+Tested on Claude, ChatGPT and Gemini
+Prompt 17 The Difficult Conversation Email Drafter
+Copy
+
+I need to draft an email to a parent about their child, [Student Name], who has been consistently missing homework assignments. I want to be concerned and collaborative, not accusatory. My goal is to partner with the parent to find a solution. Please draft a professional email that:
+1. Starts with a positive observation about the student.
+2. Clearly and neutrally states the issue (missing homework).
+3. Expresses a desire to work together.
+4. Proposes a next step (e.g., a brief phone call).
+**Sample Output:**
+Subject: Checking in about [Student Name] in [Class Name]
+Dear [Parent/Guardian Name],
+I hope you're doing well. I'm writing to you today about [Student Name]. They are such a bright and engaged participant in our class discussions, and I really enjoy having them in class.
+I'm writing because I've noticed a pattern of missing homework assignments recently, and I wanted to check in. My goal is to make sure [Student Name] has all the support they need to be successful in [Class Name].
+I'd love to partner with you to figure out what might be going on and how we can help. Would you be available for a brief phone call sometime this week? Please let me know what time works best for you.
+Thank you for your support.
+Sincerely,
+[Your Name]
+
+Tested on Claude, ChatGPT and Gemini
+Prompt 18 The Weekly Newsletter Outline
+Copy
+
+I need to write my weekly newsletter for the parents of my 4th-grade class. Generate an outline for the newsletter with the following sections:
+- A brief, friendly opening.
+- "This Week's Learning": Summarize our focus in Math (fractions), ELA (persuasive writing), and Science (weather).
+- "Important Reminders": Mention the upcoming field trip on [Date] and that permission slips are due on [Date].
+- "A Look Ahead": Briefly mention next week's Science Fair.
+- A warm closing.
+**Sample Output:**
+**Subject:** News from Ms. Garcia's 4th Grade!
+**Opening:**
+Hello 4th Grade Families,
+Hope you had a wonderful week! Here's a quick look at what we've been up to and what's coming next.
+**This Week's Learning:**
+*   **Math:** We dove into the world of fractions! Ask your student to show you how they can find equivalent fractions.
+*   **ELA:** We started our persuasive writing unit, learning how to form a strong opinion and support it with reasons.
+*   **Science:** We became meteorologists, learning about different types of clouds and weather fronts.
+**Important Reminders:**
+*   Our field trip to [Location] is on [Date]!
+*   Permission slips were sent home on Monday and are due back by [Date]. Please let me know if you need another copy.
+**A Look Ahead:**
+*   Get ready for innovation! Our annual Science Fair is next week.
+**Closing:**
+As always, thank you for your partnership. Have a great weekend!
+Best,
+[Your Name]
+
+Tested on Claude, ChatGPT and Gemini
+Prompt 19 The Field Trip Itinerary Generator
+Copy
+
+My 5th-grade class is going on a field trip to the local science museum. We will be there from 10:00 AM to 1:00 PM. We need to see the dinosaur exhibit, the human body exhibit, and have lunch. Create a simple, timed itinerary for the students and chaperones, including a 30-minute lunch break and 15 minutes for bathroom breaks/transitions between exhibits.
+**Sample Output:**
+**Field Trip Itinerary: Science Museum**
+*   **9:45 AM:** Arrive at the museum, check in.
+*   **10:00 AM - 10:45 AM:** Explore the Dinosaur Exhibit.
+*   **10:45 AM - 11:00 AM:** Transition and bathroom break.
+*   **11:00 AM - 11:45 AM:** Explore the Human Body Exhibit.
+*   **11:45 AM - 12:15 PM:** Lunch in the designated area.
+*   **12:15 PM - 12:45 PM:** Free exploration time (or revisit a favorite spot).
+*   **12:45 PM:** Meet at the main entrance to prepare for departure.
+*   **1:00 PM:** Board the bus to return to school.
+
+Tested on Claude, ChatGPT and Gemini
+Prompt 20 The ‘Summarize This Policy’ Prompt
+Copy
+
+My school district just released a new 5-page policy on the use of technology in the classroom. I've pasted the text below. Please summarize the key takeaways for teachers in 3-5 clear bullet points. I need to know what I am allowed to do, what I am required to do, and what is prohibited.
+[Paste policy text here]
+**Sample Output:**
+Based on the policy provided, here are the key takeaways for teachers:
+*   **Required:** You must complete the annual digital citizenship training module by September 30th.
+*   **Allowed:** You may use district-approved apps and websites (the list is available on the portal) for instruction.
+*   **Prohibited:** You are prohibited from using personal social media accounts to communicate with students. All communication must go through official channels like the LMS or district email.
+*   **Prohibited:** You may not require students to create accounts for any service that has not been vetted and approved by the district's technology department.
+
+Tested on Claude, ChatGPT and Gemini
+5 Prompts for Classroom Management & Engagement
+Prompt 21 The Brain Break Generator
+Copy
+
+My 3rd-grade students are getting restless after about 20 minutes of seat work. I need a list of 5 quick (1-3 minute) "brain break" activities that require no materials and can be done in the classroom.
+**Sample Output:**
+1.  **"Would You Rather?":** Ask a fun "Would you rather..." question (e.g., "...have the ability to fly or be invisible?") and have students move to one side of the room for their choice.
+2.  **"Freeze Dance":** Play 60 seconds of a popular song. Students dance when the music plays and freeze when it stops.
+3.  **"Simon Says":** Lead a quick game of Simon Says, focusing on movements like stretching, jumping jacks, or touching toes.
+4.  **"Rock, Paper, Scissors Tournament":** Students stand up, find a partner, and play one round. The winner stays standing; the loser sits down. Continue until one champion remains.
+5.  **"5-4-3-2-1 Grounding":** A calming activity. Ask students to silently name: 5 things they can see, 4 things they can feel, 3 things they can hear, 2 things they can smell, and 1 thing they can taste.
+
+Tested on Claude, ChatGPT and Gemini
+Prompt 22 The Discussion Question Writer
+Copy
+
+My 11th-grade English class has just finished reading Chapter 7 of *The Great Gatsby*, where the confrontation between Gatsby and Tom happens at the Plaza Hotel. Generate 4 open-ended discussion questions that will encourage critical thinking and debate, not just "yes/no" answers.
+**Sample Output:**
+1.  Why does Daisy ultimately choose to leave with Tom, even after admitting she loved Gatsby? What does this choice reveal about her character?
+2.  In this chapter, Gatsby's dream begins to unravel. What specific moments or lines of dialogue mark the turning point?
+3.  Nick Carraway calls it Tom and Daisy's "vast carelessness." Do you agree with his assessment? Who is the most "careless" character in this chapter, and why?
+4.  If you were to rewrite the ending of this scene, what would Daisy do? What would be the consequences of a different choice?
+
+Tested on Claude, ChatGPT and Gemini
+Prompt 23 The Role-Playing Scenario Creator
+Copy
+
+I'm teaching a high school civics class about the legislative process. I want to run a role-playing simulation where students try to pass a bill. Create a simple scenario for the simulation, including:
+1. The proposed bill (something simple and relatable).
+2. Three distinct "stakeholder" roles students can play (e.g., supporters, opponents, undecided).
+**Sample Output:**
+**Scenario: The "Later School Start Time" Bill**
+*   **The Bill:** A proposal to change the high school start time from 7:30 AM to 8:30 AM.
+*   **Role 1: The Sleep-Deprived Student Coalition:** You are a group of students who strongly support the bill. You will argue that a later start time will improve student health, well-being, and academic performance. Your goal is to convince the undecided members with scientific data and personal stories.
+*   **Role 2: The After-School Activities Council:** You are a group of athletes, club leaders, and part-time workers who oppose the bill. You will argue that a later start time will create chaos for sports schedules, part-time jobs, and family responsibilities. Your goal is to highlight the logistical problems.
+*   **Role 3: The Undecided Parent-Teacher Association:** You see the benefits and drawbacks of both sides. You are concerned about student health but also about the disruption to family schedules. Your vote is up for grabs, and you will be swayed by the most convincing arguments.
+
+Tested on Claude, ChatGPT and Gemini
+Prompt 24 The ‘Entry and Exit Ticket’ Idea Generator
+Copy
+
+I need some simple entry and exit ticket ideas for my middle school social studies class. The current unit is on Ancient Rome. Generate 3 entry ticket prompts and 3 exit ticket prompts.
+**Sample Output:**
+**Entry Tickets (To activate prior knowledge):**
+1.  List 3 things you already know or think you know about Ancient Rome.
+2.  Look at the map of the Roman Empire on the board. What do you notice or wonder?
+3.  The word "gladiator" makes me think of...
+**Exit Tickets (To assess learning):**
+1.  **3-2-1:** Write down 3 things you learned today, 2 questions you still have, and 1 thing you found most interesting.
+2.  **"Tweet" Summary:** Summarize today's lesson on the Punic Wars in 280 characters or less.
+3.  **I Used to Think... Now I Think...:** "I used to think Roman aqueducts were just for decoration, but now I think they were essential for public health.
+
+Tested on Claude, ChatGPT and Gemini
+Prompt 25 The Classroom Job Application Prompt
+Copy
+
+I want to set up classroom jobs for my 3rd graders, but I want to make it more engaging. Draft a short, fun "job description" for 3 different classroom jobs: "Librarian," "Tech Support," and "Messenger."
+**Sample Output:**
+**Now Hiring for Our Classroom Team!**
+1.  **Chief Librarian:** Are you organized and love books? We need a responsible leader to manage our classroom library. Duties include keeping the shelves tidy, checking books in and out, and recommending great reads to your classmates.
+2.  **Lead Tech Support:** Do you know how to handle an iPad? Are you a whiz with logging in? We're looking for a patient and helpful tech expert to assist classmates with tablet issues and manage our charging station.
+3.  **Head Messenger:** Can you walk quietly in the hallway? Are you trustworthy and reliable? We need a swift and silent messenger to deliver important documents to the main office and other classrooms. Only the most dependable candidates should apply!
+
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
