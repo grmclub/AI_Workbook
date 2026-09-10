@@ -1,0 +1,100 @@
+
+-------------------------------------------------
+## 7 Experts use these 70 prompts
+
+1. 10 Questions Philosopher Use
+    If you're not sure, say so. Don't make things up. [Honesty Check]
+    Point out the blind spot in my thinking. [Blind Spot Finder]
+    List every assumption you made before answering. [Assumption Reveal]
+    Argue against your own answer as hard as you can. [Devil's Advocate]
+    Rebuild this answer from the most basic truth up. Skip the shortcuts. [First Principles]
+    Break this problem down until it can't be broken down any further. [Smallest Piece]
+    If everyone did this, what would happen? [Scale Test]
+    Separate what is fact from what is your interpretation. [Fact vs Opinion]
+    Give me three opposite views that could all be true. [Multiple Angles]
+    In the worst case, how could this advice hurt me? [Worst Case Filter]
+
+2. 10 Questions Scientists Use
+    Try to prove this wrong first, not right. [Break It First]
+    Does this claim make a prediction we can actually test? [Testable Claim]
+    Change only one thing at a time. Keep everything else the same. [One Variable Rule]
+    Don't jump to cause and effect without a control to compare it to. [No Control, No Claim]
+    Is this correlation or causation? Split them clearly. [Correlation Check]
+    If two explanations both work, pick the simpler one. [Simplicity Wins]
+    Would this result still show up with a different set of data? [Repeat Test]
+    Is the sample big enough? Check for hidden bias. [Sample Check]
+    Tell me your confidence level before you tell me the answer. [Confidence First]
+    What new evidence would make you change your answer? [Stay Open]
+
+3. 10 Questions Therapists Use
+    List the facts and my interpretation of the facts separately. [Fact vs Feeling]
+    What automatic negative thoughts are hiding in what I just said? [Catch the Pattern]
+    Help me find the distortion in this thought. [Distortion Finder]
+    Describe my situation like a stranger watching from outside. [Outside View]
+    What do I actually need underneath this emotion? [Real Need]
+    What is the real chance of the worst case actually happening? [Reality Check]
+    If my friend had this exact problem, what would I tell them? [Friend Test]
+    What am I avoiding, and what does avoiding it give me? [Avoidance Audit]
+    Is this thought a fact or just a thought? [Thought Label]
+    Confirm how I feel first, then give me advice. [Feel Then Fix]
+
+4. 10 Questions Strategists Use
+    Clearly define what we are actually competing for here. [Define the Battle]
+    Put yourself in my opponent's shoes. How would you attack me? [Enemy View]
+    What are the top 3 reactions they'll have to this move? [Think Ahead]
+    Can my time and resources actually support this plan? [Resource Check]
+    Which single link, if it breaks, collapses the whole plan? [Weak Link]
+    If I must give up one thing, what should go first? [Priority Cut]
+    Design a plan that lets me attack or retreat safely. [Keep Options Open]
+    How long can this advantage last, and what keeps it alive? [Advantage Lifespan]
+    What is the cost of doing nothing at all? [Cost of Inaction]
+    What is the smallest action that creates the biggest shift? [Small Move, Big Shift]
+
+5. 10 Questions Founders Use
+    Whose problem does this actually solve, and how do they solve it now? [Real Problem]
+    What proof is there that people will actually pay for this? [Willingness to Pay]
+    What is the smallest version I can test first? [Tiny Test]
+    What does this cost to run, and what does it bring in? [Unit Math]
+    Why does this need to happen now? What changes in 3 years either way? [Timing Check]
+    If I only had half the resources, what would I cut? [Half Budget Test]
+    Where exactly can I find my first real customers? [First Customers]
+    If demand grew 10x overnight, what breaks first? [Breaking Point]
+    What are the top 3 reasons this could fail? [Risk List]
+    What's the fastest way to test this within a week? [Fast Validation]
+
+6. 10 Questions Speakers Use
+    Turn my opening into one specific scene or story. [Story Opening]
+    Which line deserves to be said slower, with a pause? [Slow It Down]
+    Turn this abstract number into something people can feel. [Make Numbers Real]
+    Did I use logic, emotion, or credibility? Add whichever is missing. [Missing Piece]
+    Mark where I should pause for effect. [Pause Points]
+    Break my long sentences into short, speakable pieces. [Speak Rhythm]
+    Where can I turn a statement into a question for the audience? [Ask, Don't Just Tell]
+    Reorganize my main points into three clear parts. [Rule of Three]
+    Find the filler words I keep repeating. [Cut the Filler]
+    Rewrite my ending to echo my opening line. [Full Circle Ending]
+
+7. 10 Questions Economists Use
+    What is everyone's incentive in this situation? [Follow the Incentive]
+    Is the extra gain worth the extra cost of doing this again? [Marginal Thinking]
+    This cost is already spent. Don't let it affect the next decision. [Ignore Sunk Cost]
+    What is the second layer effect of this decision? [Second Order Effect]
+    Did this change happen because of supply or demand? Separate them. [Supply vs Demand]
+    Is there an unrelated third party paying the cost for this? [Hidden Cost]
+    What would happen if I did nothing, compared to doing this? [Compare to Nothing]
+    Is this a win-win or a zero-sum situation? Where's the benefit? [Find the Trade]
+    Separate the short term and long term effects clearly. [Split the Timeline]
+    What does the full range look like behind this average? [Beyond the Average]
+
+How to Use These Questions Matrix
+    Idea isn't clear yet: Use Philosopher or Scientist
+    Need to make a choice: Use Strategist, Economist, or Founder
+    Need to say it out loud: Use Speaker
+    Emotion is in the way: Use Therapist
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
