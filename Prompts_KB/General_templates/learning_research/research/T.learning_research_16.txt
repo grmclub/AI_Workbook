@@ -311,7 +311,57 @@ Papers still need your critical eye.
 Claude is a research assistant, not a research replacement.
 Use it to go faster, not to skip thinking.
 -------------------------------------------------
+## BREAKING:ChatGPT can now research any topic in 2 minutes like a Stanford PhD professor
+
+1. Research Question Architect
+Act as a research professor helping me investigate [TOPIC]. My purpose is [PURPOSE] and my audience is [AUDIENCE]. Before researching, turn my broad topic into a precise research question, define the key terms, identify the important sub-questions, and explain what evidence would actually answer them. Point out hidden assumptions or ambiguities in my original question. Then create a research plan in the order I should investigate it.
+
+2. Deep Research From Zero
+Research [TOPIC] from the ground zero. Start with the essential background, then explain the major concepts, important debates, current state of knowledge, key evidence, and unresolved questions. Build the explanation progressively so each section prepares me for the next. Define technical terms when they first appear and use examples only when they genuinely improve understanding. End with a concise mental model I can use to explain the topic myself.
+
+3. Source Quality Detective
+I am researching [CLAIM/TOPIC]. Find and evaluate the strongest available evidence. For every important source, assess authority, methodology, date, primary-vs-secondary status, incentives or conflicts, sample/data quality, and limitations. Separate peer-reviewed research, official documents, primary sources, reputable reporting, expert commentary, and low-quality or unsupported claims. Do not treat popularity as proof.
+
+4. Find the Best Sources
+I need to research [TOPIC]. Search for the strongest and most relevant sources, prioritizing primary research, official statistics/documents, original datasets, systematic reviews, respected academic institutions, and high-quality industry sources where appropriate. Group sources by subtopic and identify the 5–10 sources I should read first. Do not manufacture citations or pretend a source supports a claim it does not support.
+
+5. Literature Review Builder
+I am writing a literature review about [TOPIC]. Find the major schools of thought, influential studies, recent developments, competing findings, methodological differences, and unresolved gaps. For each major theme, explain what the evidence generally agrees on, where researchers disagree, why they disagree, and what important questions remain unanswered. Finish with a research-gap map and suggested directions for further investigation.
+
+6. Research Any Claim to the Bottom
+I want to verify this claim: [CLAIM]. Investigate it from multiple independent angles. Find the strongest evidence supporting it, the strongest evidence challenging it, the original source if the claim traces back to one, and any important context that changes its interpretation. Separate fact, inference, expert opinion, correlation, causation, anecdote, and speculation.
+
+7. Research Like an Analyst
+Analyze [MARKET/INDUSTRY] like a senior research analyst. Investigate market size and growth where reliable data exists, major segments, customer needs, competitors, business models, technology shifts, regulation, barriers to entry, risks, and emerging opportunities. Distinguish hard data from estimates and forecasts.
+
 -------------------------------------------------
+🚨 CLAUDE PhD-level research in minutes. 🧠
+8 prompts. One serious research upgrade. 👇
+
+1. The "Asymmetric-Yield" Literature Bottleneck Scout
+Act as an elite research methodologist. I want to map the complete research landscape of [My Research Topic] from the ground up. Conduct a rapid structural analysis to identify the three biggest gaps in the literature, major methodological weaknesses, and overlooked research opportunities where current studies rely on outdated assumptions or limited evidence. Then build a rigorous text-based verification framework to validate claims, assess source credibility, and prioritize the strongest directions for further research.
+
+2. The "Prestige-Identity" Core Axiom Extraction Matrix
+Act as a premium academic information architect. Transform a dense collection of source materials into a high-utility conceptual matrix. Organize the knowledge using a structured framework built around Primary Definitional Axioms, High-Contrast Methodological Discrepancies, and Quantifiable Metric Anchors to surface the highest-signal insights, expose meaningful patterns, and eliminate low-value qualitative filler.
+
+3. The "Pattern-Interrupt" Literature Review Pipeline SOP
+Act as a master direct-response information engineer. Design a repeatable Standard Operating Procedure (SOP) for reviewing 10 research papers simultaneously. Create a high-contrast, pattern-interrupt document structure with clear heading hierarchies, using ALL CAPS for DOMAINS or DATASETS, to reduce cognitive fatigue, accelerate information extraction, and reveal key trends, insights, and methodological patterns at a glance.
+
+4. The "Humanized-Velocity" Complex Analogy Engine
+Act as an inbound cognitive science educator. Create a text-based framework for transforming complex academic concepts into clear, human-centered explanations. Design a natural, zero-fluff narrative structure that converts dense terminology, abstract theories, and technical formulas into intuitive, conversational analogies that maximize rapid understanding, long-term retention, and deep conceptual clarity.
+
+5. The "Hyper-Targeted" Multi-Variable Hypothesis Parser
+Act as an advanced epistemic token optimizer. Create three distinct, high-impact input parsing frameworks designed to analyze multiple conflicting scientific variables and research studies simultaneously while preserving contextual accuracy. Each framework should use a high-contrast, pattern-interrupt structure that systematically cross-examines inconsistencies, highlights anomalies, and validates evidence before generating conclusions.
+
+6. The "Two-Step" Dialectical Synthesis Pipeline
+Act as an elite academic peer reviewer. Design a structured synthesis framework that automatically pressure-tests any technical claim. Build a strict two-step process: first, generate a rigorous, evidence-based counterargument that challenges the thesis from multiple perspectives; second, synthesize both positions to identify logical strengths, hidden assumptions, validation gaps, and the most defensible evidence-based conclusion.
+
+8. The "Velocity-Check" 20-Minute Deep Research Audit
+Act as a data-driven knowledge pipeline operations auditor. Evaluate my 20-minute research sprint using these performance metrics: [Source Papers Filtered], [Core Axioms Isolated], [Logical Discrepancies Caught %], and [Synthesis Alignment]. Diagnose the exact instruction design flaws, formatting inefficiencies, delimiter inconsistencies, or context bottlenecks limiting performance, then recommend precise optimizations to improve speed, accuracy, and research quality.
+
+7. The "Skeptic-Filter" Source Validity Audit Matrix
+Act as a master investigative research auditor. Create a repeatable, text-based verification framework that functions as an adversarial filter for evaluating source credibility. Design a clear, high-contrast audit matrix that minimizes confirmation bias, enforces rigorous citation cross-checking, detects weak or conflicting evidence, and maximizes the accuracy, reliability, and integrity of every research synthesis.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
