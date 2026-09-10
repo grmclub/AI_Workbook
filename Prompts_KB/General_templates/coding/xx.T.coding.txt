@@ -111,6 +111,262 @@ GitHub - coreyhaines31/marketingskills: Marketing skills for Claude Code and AI 
 GitHub - coreyhaines31/marketingskills: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
 -------------------------------------------------
+## 50 AI Prompts for Developers: Debug, Refactor, and Ship Faster with ChatGPT, Claude & Gemini
+https://www.keepmyprompts.com/en/blog/how-to-build-a-personal-ai-prompt-library
+https://www.keepmyprompts.com/en/templates
+
+## 1. Debugging & Error Resolution
+
+When a stack trace fills your terminal and the error message reads like an ancient riddle, these prompts turn AI into a diagnostic partner.
+
+1. Decode a cryptic error message
+
+    I'm getting this error in my [language/framework] project: [paste error]. Explain what is causing it, why it happens, and suggest 3 possible fixes ranked by likelihood. Include code examples for each fix.
+
+2. Trace a bug through multiple files
+
+    I have a bug where [describe unexpected behavior]. The relevant files are: [paste file names or code snippets]. Walk through the execution flow step by step and identify where the behavior diverges from the expected result.
+
+Claude excels here when you paste entire files; its 200K context window handles large codebases without truncation.
+
+3. Reproduce a race condition
+
+    I suspect a race condition in my [language] application. [Describe the intermittent behavior]. Here is the relevant concurrent code: [paste code]. Identify potential race conditions, explain the timing that triggers them, and suggest synchronization fixes.
+
+4. Debug a memory leak
+
+    My [language/framework] application's memory usage grows steadily over time. Here is the relevant code: [paste code]. Identify potential memory leaks, explain why each one causes retained memory, and provide fixed versions.
+
+5. Fix a failing API integration
+
+    My application is getting [status code] errors when calling [API name]. Here is my request code: [paste code]. Here is the error response: [paste response]. Diagnose the issue and provide a corrected implementation with proper error handling.
+
+6. Diagnose a performance bottleneck
+
+    This function takes [X seconds] to execute when processing [Y records]: [paste code]. Profile the algorithmic complexity, identify the bottleneck, and suggest optimizations with their expected time complexity improvements.
+
+7. Resolve dependency conflicts
+
+    My [package manager] is throwing this dependency conflict: [paste error]. Explain which packages are conflicting, why the versions are incompatible, and provide the safest resolution that does not introduce breaking changes.
+
+## 2. Code Review & Quality
+
+Use these before submitting a PR, or paste in a colleague's code to prepare informed review comments.
+
+8. Comprehensive code review
+
+    Review this [language] code for bugs, security vulnerabilities, performance issues, and adherence to best practices. For each issue found, explain the severity (critical/major/minor), the risk, and provide a corrected version. Code: [paste code]
+
+9. Security audit
+
+    Perform a security audit of this [language/framework] code. Check for: injection vulnerabilities, authentication/authorization flaws, data exposure risks, insecure defaults, and missing input validation. Code: [paste code]
+
+For security reviews, consider running the same prompt through both Claude and ChatGPT and comparing results. Different models catch different vulnerability classes.
+
+10. Check for edge cases
+
+    Analyze this function for edge cases that could cause unexpected behavior: [paste code]. List every edge case you can identify, explain what would happen for each, and suggest defensive code to handle them.
+
+11. Evaluate error handling
+
+    Review the error handling in this code: [paste code]. Identify: silent failures, overly broad catch blocks, missing error types, unhandled promise rejections, and any error that would be difficult to diagnose in production. Suggest improvements.
+
+12. Assess API design
+
+    Review this REST/GraphQL API design: [paste endpoint definitions or schema]. Evaluate it for: consistency, proper HTTP semantics, versioning strategy, pagination approach, error response format, and backward compatibility. Suggest improvements.
+
+13. Review database queries
+
+    Analyze these database queries for performance and correctness: [paste queries]. Check for: missing indexes, N+1 query patterns, unnecessary joins, potential deadlocks, and SQL injection risks. Suggest optimized alternatives.
+
+14. Naming and readability review
+
+    Review this code purely for readability and naming conventions: [paste code]. Suggest better names for variables, functions, and classes. Identify any sections where the intent is unclear and suggest clarifying rewrites or comments.
+
+## 3. Refactoring & Optimization
+
+These prompts help you improve existing code without changing its behavior.
+
+Want to know how effective your prompts are? Prompt Score analyzes them on 6 criteria.
+Try it free
+
+15. Extract a reusable abstraction
+
+    This code has repeated patterns: [paste code with duplication]. Identify the common pattern, extract it into a reusable [function/class/hook/module], and show how each call site would use the new abstraction.
+
+16. Simplify complex conditionals
+
+    Simplify this conditional logic without changing its behavior: [paste code with nested if/else or complex boolean expressions]. Use early returns, guard clauses, or lookup tables where appropriate. Show the before and after.
+
+17. Modernize legacy code
+
+    Refactor this [old language version] code to use modern [language/version] features: [paste code]. Preserve identical behavior. Use [specific features, e.g., async/await, destructuring, pattern matching]. Explain each change and why the modern version is better.
+
+18. Reduce function complexity
+
+    This function has a cyclomatic complexity that is too high: [paste code]. Break it into smaller, single-responsibility functions. Each extracted function should have a clear name that describes its purpose. Show the refactored result with all functions.
+
+19. Optimize a hot path
+
+    This code runs in a performance-critical path ([describe context, e.g., "called 10K times per request"]): [paste code]. Optimize it for speed. Consider: algorithmic improvements, caching, avoiding allocations, and data structure choices. Benchmark the expected improvement.
+
+20. Convert callback-based code to async/await
+
+    Convert this callback-based [language] code to use async/await: [paste code]. Handle all error paths. Ensure the converted version maintains identical behavior, including error propagation and concurrent operations.
+
+21. Apply a design pattern
+
+    This code would benefit from a design pattern: [paste code]. Suggest the most appropriate pattern ([Strategy/Observer/Factory/etc.] or recommend one), explain why it fits, and show the refactored implementation.
+
+## 4. Testing & Test Generation
+
+Writing tests is the task developers most frequently delegate to AI. These prompts generate tests that actually catch bugs.
+
+22. Generate unit tests
+
+    Write comprehensive unit tests for this function: [paste code]. Use [testing framework, e.g., Jest, pytest, JUnit]. Cover: happy path, edge cases, error conditions, and boundary values. Each test should have a descriptive name that explains what it verifies.
+
+23. Generate integration tests
+
+    Write integration tests for this [API endpoint/service interaction]: [paste code or API spec]. Test: successful operations, error responses, authentication, input validation, and concurrent access. Use [testing framework] with [mocking library if applicable].
+
+24. Test edge cases systematically
+
+    For this function: [paste code], generate a test matrix covering: null/undefined inputs, empty collections, single-element collections, maximum-size inputs, special characters, boundary values for numeric parameters, and type coercion scenarios. Use [testing framework].
+
+25. Create test fixtures and factories
+
+    Create test fixtures/factories for these data models: [paste types or schema]. Generate realistic but deterministic test data. Include: a factory function with sensible defaults, overrides for each field, and helper functions for common test scenarios. Use [testing framework/library].
+
+26. Write property-based tests
+
+    Write property-based tests for this function: [paste code]. Identify the invariants that should hold for all valid inputs. Use [property-based testing library, e.g., fast-check, Hypothesis, QuickCheck]. Include at least 5 properties.
+
+Gemini handles large test generation tasks well because it can process extensive codebases and produce voluminous structured output without degrading.
+
+27. Mock external dependencies
+
+    Create mocks for these external dependencies used in my tests: [paste interfaces or function signatures]. The mocks should: track call history, support configurable return values, simulate error conditions, and have TypeScript/type-safe interfaces. Use [mocking library].
+
+28. Generate regression tests from a bug report
+
+    A bug was reported: [describe the bug and reproduction steps]. Write regression tests that: reproduce the original bug (should fail before fix), verify the correct behavior (should pass after fix), and cover related edge cases that might have the same root cause. Use [testing framework].
+
+## 5. Documentation & Comments
+
+AI generates first drafts of documentation faster than any human, but the quality depends entirely on the prompt.
+
+29. Write function documentation
+
+    Write documentation for this function: [paste code]. Include: a one-line summary, parameter descriptions with types and constraints, return value description, exceptions/errors that can be thrown, a usage example, and any important side effects or caveats. Use [documentation format, e.g., JSDoc, docstring, XML comments].
+
+30. Generate a README for a module
+
+    Generate a README.md for this module: [paste main file or describe the module]. Include: purpose, installation, quick start example, API reference for the main exports, configuration options, common pitfalls, and a contributing section. Target audience: [junior developers / senior engineers / external API consumers].
+
+31. Write inline comments for complex logic
+
+    Add inline comments to this code to explain the non-obvious logic: [paste code]. Do not comment on what the code does (the code itself shows that). Comment on WHY: business rules, edge case handling, performance trade-offs, and assumptions. Keep comments concise.
+
+32. Create an architecture decision record (ADR)
+
+    Write an ADR for this decision: we chose [option A] over [option B] for [system component]. Context: [describe the problem]. Include: title, status (proposed/accepted), context, decision, consequences (positive and negative), and alternatives considered with reasons for rejection.
+
+33. Document an API endpoint
+
+    Write API documentation for this endpoint: [paste route handler or describe the endpoint]. Include: HTTP method, URL pattern, request headers, request body schema with examples, response schemas for success and each error case, rate limiting details, and authentication requirements. Use [format: OpenAPI/Markdown/etc.].
+
+The techniques you're reading about work. Test your prompts now with Prompt Score and see your score in real time.
+Test your prompts
+
+34. Generate a changelog entry
+
+    Based on these code changes: [paste diff or describe changes], write a changelog entry following [Keep a Changelog / Conventional Commits] format. Categorize changes under: Added, Changed, Deprecated, Removed, Fixed, Security. Write from the user's perspective, not the developer's.
+
+## 6. Architecture & Design Decisions
+
+These prompts work best when you provide enough context about your constraints. The more specific you are about scale, team size, and requirements, the more actionable the response.
+
+35. Evaluate a technical approach
+
+    I need to implement [feature/system]. I'm considering these approaches: [approach A] and [approach B]. My constraints are: [list constraints, e.g., team of 3, must ship in 2 weeks, expected traffic of 10K RPM, must integrate with existing [system]]. Compare the approaches across: implementation complexity, scalability, maintainability, and risk. Recommend one with reasoning.
+
+36. Design a database schema
+
+    Design a database schema for [describe the domain]. Requirements: [list requirements]. Expected data volumes: [describe scale]. Access patterns: [describe main queries]. Include: table definitions, indexes, relationships, and explain your normalization choices. Use [PostgreSQL/MySQL/MongoDB].
+
+Claude is particularly strong at generating and reasoning about database schemas when given detailed domain context.
+
+37. Plan a migration strategy
+
+    I need to migrate from [current system/architecture] to [target system/architecture]. Current state: [describe]. Constraints: [zero downtime / limited team / timeline]. Design a phased migration plan with: steps in order, rollback strategy for each step, data migration approach, testing checkpoints, and risk mitigation.
+
+38. Design an API contract
+
+    Design the API contract for a [describe service/feature]. Consumers: [list consuming services or clients]. Requirements: [list requirements]. Include: endpoint definitions, request/response schemas, error codes, pagination strategy, versioning approach, and authentication method. Consider backward compatibility.
+
+39. Evaluate build vs. buy
+
+    I'm deciding whether to build or buy a solution for [describe need]. Requirements: [list]. Team context: [size, expertise]. Budget: [range]. Timeline: [deadline]. Compare: building a custom solution vs. [specific product/service]. Include: total cost of ownership over 2 years, maintenance burden, flexibility, vendor lock-in risk, and time to first value.
+
+40. Plan a monolith-to-services decomposition
+
+    Here is our monolith's module structure: [paste or describe]. I want to extract [module] into a separate service. Describe: where to draw the service boundary, how to handle shared data, the communication pattern (sync/async), the strangler fig migration steps, and what to watch out for in terms of distributed system complexity.
+
+## 7. Git & DevOps
+
+Prompts for the tasks that surround coding: version control, CI/CD, deployment, and infrastructure.
+
+41. Write a meaningful commit message
+
+    Based on this diff: [paste diff], write a commit message following [Conventional Commits / your team's format]. The subject line should be under 72 characters. The body should explain WHY the change was made, not just WHAT changed. Include any relevant issue references.
+
+42. Resolve a merge conflict
+
+    I have a merge conflict in this file. Here are both versions: [paste conflict markers with both sides]. The base branch intent was: [describe]. My branch intent was: [describe]. Suggest the correct resolution that preserves both intents, and explain your reasoning.
+
+43. Write a CI/CD pipeline
+
+    Write a [GitHub Actions / GitLab CI / Jenkins] pipeline for a [language/framework] project. Requirements: run linting, run tests, build the project, deploy to [environment]. Include: caching for dependencies, parallel test execution, conditional deployment (only on main branch), and failure notifications.
+
+44. Debug a failing pipeline
+
+    My CI/CD pipeline is failing with this output: [paste log]. The pipeline config is: [paste config]. Identify the failure cause and suggest a fix. If the failure is flaky, suggest how to make it deterministic.
+
+45. Write a Dockerfile
+
+    Write an optimized Dockerfile for a [language/framework] application. Requirements: [list, e.g., multi-stage build, non-root user, minimal image size, health check]. Include comments explaining each layer choice and a .dockerignore file. Target base image: [or recommend one].
+
+## 8. Learning & Exploration
+
+Use AI not just to solve today's problem but to deepen your understanding. These prompts turn AI models into patient technical mentors.
+
+46. Explain a concept with progressive depth
+
+    Explain [concept, e.g., event sourcing, CRDT, WebAssembly] at three levels: (1) a one-paragraph overview for someone who has never heard of it, (2) a technical explanation with a code example for a mid-level developer, (3) an in-depth analysis of trade-offs, edge cases, and when NOT to use it for a senior engineer.
+
+Gemini's large context window makes it well suited for explore-and-learn sessions where the conversation spans many follow-up questions.
+
+47. Compare technologies for a specific use case
+
+    Compare [technology A] vs [technology B] for [specific use case]. Evaluate: performance characteristics, learning curve, ecosystem maturity, community size, hiring pool, long-term maintenance, and total cost. Provide a recommendation based on: [your constraints, e.g., small team, startup, enterprise].
+
+48. Walk through an algorithm
+
+    Walk through [algorithm name] step by step using this example input: [provide input]. Show the state at each step. Then explain: the time and space complexity, when to use it over alternatives, and common implementation pitfalls. Write a clean implementation in [language].
+
+49. Analyze an open source codebase pattern
+
+    Explain how [open source project, e.g., React, PostgreSQL, Redis] implements [specific feature or pattern]. Describe the high-level architecture, the key design decisions, and why they made those choices. What can I learn from this for my own code?
+
+50. Build a mental model for a new domain
+
+    I'm starting to work with [new domain, e.g., real-time systems, distributed databases, ML pipelines]. Create a learning roadmap: the 5 most important concepts to understand first, recommended resources for each, common misconceptions, and a small hands-on project that would exercise the key concepts.
+
+Tips for Getting Better Results from These Prompts
+
+The 50 prompts above are starting points, not finished products. The developers who see the best results treat prompts the same way they treat code: as artifacts that improve through iteration and context [4]. Here are four principles for adapting them.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
