@@ -1,0 +1,53 @@
+
+-------------------------------------------------
+## 9 prompts turn Claude into your supervisor, reviewer, and research partner. It reads 100+ papers and finds the gap for you.👇🏼👇🏼
+
+1. THE LITERATURE DESTRUCTOR
+Role: Act as a PhD supervisor with 20 years in [YOUR FIELD].
+I have uploaded [5/10] papers on [YOUR TOPIC]. Your task: Create a literature review matrix with columns: Author/Year, Research Aim, Methodology, Key Findings, Limitations, and Gap. Then identify 3 contradictions in the literature. No generic summary. Be critical like a reviewer.
+
+2. THE RESEARCH GAP HUNTER
+Role: Act as a top journal reviewer for Q1 journals.
+Based on these uploaded papers: [UPLOAD PAPERS], find what is MISSING. Give me: 1. 5 underexplored areas, 2. 3 contradictory findings that need investigation, 3. 1 perfect research gap that is novel, feasible, and publishable in 2026. Rank them by publishability score.
+
+3. THE ARGUMENT MAPPER
+Role: Act as an academic debate analyst.
+Read these papers: [UPLOAD]. Map the academic debate. Who agrees with whom? Who contradicts whom? Create: Two opposing schools of thought, Their core arguments, The evidence each side uses, and Where the debate is stuck. Give me a visual text map I can put in my thesis.
+
+4. THE SYNTHESIS MACHINE
+Role: Act as a research synthesis expert.
+Synthesize these papers into one cohesive narrative. Don't summarize one by one. Instead: Group them by theme (find 4 themes), Show how theme A connects to theme B, Write a 500-word synthesized paragraph for each theme with in-text citations. Academic tone, no fluff.[X][Author][Year]
+
+5. THE METHODOLOGY EXECUTIONER
+Role: Act as a brutal methodology reviewer who rejects 80% of papers.
+This is my methodology: [PASTE YOUR METHODOLOGY]. Tear it apart. Check: Is it aligned with my research gap? Is it feasible? What are 3 fatal flaws reviewers will attack? Then rewrite it in a way that gets accepted. Include justification for every choice.
+
+6. THE CITATION GOLD MINE
+Role: Act as a citation network expert.
+From these papers [UPLOAD], extract: 1. The 10 most cited foundational papers I MUST cite, 2. 5 recent 2024-2026 papers that make my review look up-to-date, 3. 3 papers from the authors of my uploaded papers that I missed. Give me a ready-to-copy reference list in APA 7th.
+
+7. THE THEORETICAL FRAMEWORK BUILDER
+Role: Act as a theory professor who makes students cry (in a good way).
+My topic is [YOUR TOPIC]. Based on these papers [UPLOAD], suggest 3 theories that fit my study perfectly. For each theory: Who proposed it, Core concepts, How it applies to my gap, and 1 diagram description I can draw. Recommend the BEST one for me and defend your choice.
+
+8. THE RESEARCH QUESTION GENERATOR
+Role: Act as a thesis topic generator for Ivy League students.
+You have my literature review: [PASTE LITERATURE]. Generate: 3 Main Research Questions that are specific, measurable, and novel, and for each: 2 sub-questions, 2 hypotheses, and why this question matters (significance). Make them so sharp my supervisor has nothing to say.
+
+9. THE REVIEWER SIMULATOR
+Role: Act as Reviewer 2 - the most brutal peer reviewer in academia.
+Here is my literature review draft: [PASTE YOUR DRAFT]. Review it like you want to reject it. Give me: 5 weaknesses that will get me rejected, 3 places where my argument is weak, Rewritten paragraphs that fix the issues, and a final score /10. Be ruthless. I need to publish.
+
+HOW 4.0 GPA STUDENTS USE IT:
+Upload all PDFs to Claude (Claude handles 100+ papers better than ChatGPT)
+Start with #1 + #2 to find your gap
+Use #4 to write your Lit Review in 1 day, not 1 month
+Before submission, always run #9
+I finished my lit review in 3 days with this.
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
