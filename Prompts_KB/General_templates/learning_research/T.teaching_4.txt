@@ -1,0 +1,44 @@
+
+
+-------------------------------------------------
+## 8 ChatGPT Prompts for Creating Comprehensive English Lesson Plans in Word Format 👇👇
+
+1️. Create a Reading Lesson Plan
+Prompt:
+"Create a comprehensive English reading lesson plan for [age/grade] learners at [CEFR level] on [topic/text]. Use the PWP framework: Pre Reading, While Reading, and Post Reading. Include clear learning objectives, required materials, stage by stage procedures, timing, interaction patterns, teacher instructions, differentiation, anticipated problems and solutions, and assessment. In the Pre Reading stage, activate prior knowledge, introduce the context, and prepare learners for the text. In the While Reading stage, progress from understanding the main idea to identifying key details and deeper comprehension where appropriate. In the Post Reading stage, extend the text through meaningful speaking, writing, or language work. Ensure all activities are scaffolded, engaging, and appropriate to the learners’ CEFR level. Present the complete lesson plan in a professionally structured, editable Word document, using clear headings and tables where appropriate."
+
+2️. Create a Listening Lesson Plan
+Prompt:
+"Create a comprehensive English listening lesson plan for [age/grade] learners at [CEFR level] on [topic/listening text]. Use the PWP framework: Pre Listening, While Listening, and Post Listening. Include clear learning objectives, materials, stage by stage procedures, timing, interaction patterns, teacher instructions, differentiation, anticipated problems and solutions, and assessment. In the Pre Listening stage, activate prior knowledge, establish context, and prepare learners for the listening. In the While Listening stage, progress from listening for the main idea to specific details and deeper understanding where appropriate. In the Post Listening stage, extend learning through meaningful speaking, writing, or language activities. Ensure all tasks are scaffolded, engaging, and appropriate to the learners’ CEFR level. Present the complete lesson plan in a professionally structured, editable Word document, using clear headings and tables where appropriate."
+
+3️. Create a Grammar Lesson Plan
+Prompt:
+"Create a comprehensive English grammar lesson plan for [age/grade] learners at [CEFR level] to teach [target grammar point] in the context of [topic/situation]. Use the PPP framework: Presentation, Practice, and Production. Include clear learning objectives, materials, stage by stage procedures, timing, interaction patterns, teacher instructions, differentiation, anticipated problems and solutions, and assessment. Present the target grammar in a meaningful context, clarify its meaning, form, and use, then move from controlled practice to freer communicative use. Include appropriate concept checking and opportunities for learners to use the grammar meaningfully. Ensure all activities are scaffolded, engaging, and appropriate to the learners’ CEFR level. Present the complete lesson plan in a professionally structured, editable Word document, using clear headings and tables where appropriate."
+
+4️. Create a Vocabulary Lesson Plan
+Prompt:
+"Create a comprehensive English vocabulary lesson plan for [age/grade] learners at [CEFR level] to teach [target vocabulary] in the context of [topic/theme]. Use the ECRIF framework: Encounter, Clarify, Remember, Internalize, and Fluently Use. Include clear learning objectives, materials, stage by stage procedures, timing, interaction patterns, teacher instructions, differentiation, anticipated problems and solutions, and assessment. Introduce the vocabulary in meaningful context, clarify meaning, form, and pronunciation, and provide activities that move from recognition and retrieval to meaningful and increasingly independent use. Ensure all activities are scaffolded, engaging, and appropriate to the learners’ CEFR level. Present the complete lesson plan in a professionally structured, editable Word document, using clear headings and tables where appropriate."
+
+5️. Create a Speaking Lesson Plan
+Prompt:
+"Create a comprehensive English speaking lesson plan for [age/grade] learners at [CEFR level] on [topic/communicative goal]. Use the TBL framework: Pre Task, Task Cycle, and Language Focus. Include clear learning objectives, materials, stage by stage procedures, timing, interaction patterns, teacher instructions, differentiation, anticipated problems and solutions, and assessment. Prepare learners for the speaking task with useful language and context, then engage them in a meaningful pair or group task that requires genuine communication. Follow the task with feedback and focused work on useful language, pronunciation, accuracy, and fluency where needed. Ensure activities maximize learner speaking time and are appropriate to the learners’ CEFR level. Present the complete lesson plan in a professionally structured, editable Word document, using clear headings and tables where appropriate."
+
+6️. Create a Writing Lesson Plan
+Prompt:
+"Create a comprehensive English writing lesson plan for [age/grade] learners at [CEFR level] to develop [target writing skill/text type] on [topic]. Use a Task Based Learning framework: Pre Task, Task Cycle, and Language Focus. Include clear learning objectives, materials, stage by stage procedures, timing, interaction patterns, teacher instructions, differentiation, anticipated problems and solutions, and assessment. Prepare learners with relevant ideas, vocabulary, and a clear model where appropriate, then guide them through planning, drafting, and completing a meaningful writing task. Include opportunities for feedback and revision, followed by focused work on useful language, organization, accuracy, and conventions. Ensure all activities are scaffolded and appropriate to the learners’ CEFR level. Present the complete lesson plan in a professionally structured, editable Word document, using clear headings and tables where appropriate."
+
+8️. Create a Diagnostic and Responsive Lesson Plan
+Prompt:
+"Create a comprehensive English lesson plan for [age/grade] learners at [CEFR level] to diagnose and address their understanding of [target language/skill]. Use the TTT framework: Test, Teach, Test. Begin with a short diagnostic task to identify what learners can already do and where they need support. Use the results to provide focused teaching and practice, then repeat a similar communicative task so learners can demonstrate improvement. Include clear learning objectives, materials, stage by stage procedures, timing, interaction patterns, teacher instructions, differentiation, anticipated problems and solutions, and assessment. Ensure the teaching stage responds directly to the needs revealed by the initial task and that all activities are appropriate to the learners’ CEFR level. Present the complete lesson plan in a professionally structured, editable Word document, using clear headings and tables where appropriate."
+
+7️. Create an Integrated Skills Lesson Plan
+Prompt:
+"Create a comprehensive English lesson plan for [age/grade] learners at [CEFR level] on [topic/theme], integrating listening, speaking, reading, and writing where appropriate. Use the ESA framework: Engage, Study, and Activate. Include clear learning objectives, materials, stage by stage procedures, timing, interaction patterns, teacher instructions, differentiation, anticipated problems and solutions, and assessment. Begin with an engaging activity that activates learners’ interest and prior knowledge, provide focused work on relevant language and skills, and then move to a meaningful communicative task where learners apply what they have learned. Ensure the skills are logically connected rather than taught as separate activities, and adapt all tasks to the learners’ CEFR level. Present the complete lesson plan in a professionally structured, editable Word document, using clear headings and tables where appropriate."
+
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
