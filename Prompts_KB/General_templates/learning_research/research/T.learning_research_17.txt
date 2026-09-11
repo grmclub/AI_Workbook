@@ -98,47 +98,78 @@ Evaluate whether I am genuinely ready to use [SKILL] confidently in real-world s
 No ghostwriter. No $4K budget.
 
 1/ The Full Book System
-“Act as an elite nonfiction book architect and developmental editor. Turn my idea into a complete ebook blueprint. Define the core promise, ideal reader, transformation, chapter structure, key arguments, hooks, examples, exercises, and final action plan. Make the structure compelling, practical, and impossible to put down.”
+"Act as an elite nonfiction book architect and developmental editor. Turn my idea into a complete ebook blueprint. Define the core promise, ideal reader, transformation, chapter structure, key arguments, hooks, examples, exercises, and final action plan. Make the structure compelling, practical, and impossible to put down."
 
 2/ The Reader Autopsy
-“Act as an expert audience researcher. Identify the exact reader most likely to buy this book. Analyze their current situation, frustrations, failed attempts, fears, objections, desires, and language. Then define the strongest promise, 3 title angles, and the chapter they are most likely to read first.”
+"Act as an expert audience researcher. Identify the exact reader most likely to buy this book. Analyze their current situation, frustrations, failed attempts, fears, objections, desires, and language. Then define the strongest promise, 3 title angles, and the chapter they are most likely to read first."
 
 3/ The Chapter Engine
-“Act as a world-class book editor. Take this chapter title: [TITLE] and build its complete architecture. Define the one idea it must deliver, the reader’s before-and-after state, opening hook, 3-part argument, examples, evidence, counterargument, and practical exercise. Make every section earn its place.”
+"Act as a world-class book editor. Take this chapter title: [TITLE] and build its complete architecture. Define the one idea it must deliver, the reader’s before-and-after state, opening hook, 3-part argument, examples, evidence, counterargument, and practical exercise. Make every section earn its place."
 
 4/ The Story Bank
-“Act as a narrative coach. Extract the most powerful stories from my experience. Analyze my turning points, failures, lessons, challenges, mentors, and defining moments. Turn each into a compelling mini-story with a setup, tension, turning point, and lesson. Rank them by impact and relevance to the book.”
+"Act as a narrative coach. Extract the most powerful stories from my experience. Analyze my turning points, failures, lessons, challenges, mentors, and defining moments. Turn each into a compelling mini-story with a setup, tension, turning point, and lesson. Rank them by impact and relevance to the book."
 
 5/ The Title & Cover Lab
-“Act as a bestselling-book marketer and cover strategist. Create 12 powerful title + subtitle combinations for my ebook. Analyze the audience, promise, market, competing books, and search intent. For each, provide the positioning angle, cover concept, potential weakness, and rank the top 3.”
+"Act as a bestselling-book marketer and cover strategist. Create 12 powerful title + subtitle combinations for my ebook. Analyze the audience, promise, market, competing books, and search intent. For each, provide the positioning angle, cover concept, potential weakness, and rank the top 3."
 
 6/ The Sample Chapter Draft
-“Act as a professional ghostwriter. Using my outline and writing samples, draft the opening chapter in my authentic voice. Match my vocabulary, rhythm, tone, and level of formality. Include a powerful cold open, short engaging paragraphs, one worked example, clear section breaks, and a final hook leading into chapter two.”
+"Act as a professional ghostwriter. Using my outline and writing samples, draft the opening chapter in my authentic voice. Match my vocabulary, rhythm, tone, and level of formality. Include a powerful cold open, short engaging paragraphs, one worked example, clear section breaks, and a final hook leading into chapter two."
 
 7/ The Launch Page Kit
-“Act as an elite direct-response copywriter. Write a high-converting sales page for my ebook. Build the headline, core promise, problem, failed alternatives, benefits, chapter breakdown, proof, objections, guarantee, and 3 strong CTAs. Make the copy persuasive without exaggeration or unsupported claims.”
+"Act as an elite direct-response copywriter. Write a high-converting sales page for my ebook. Build the headline, core promise, problem, failed alternatives, benefits, chapter breakdown, proof, objections, guarantee, and 3 strong CTAs. Make the copy persuasive without exaggeration or unsupported claims."
 
 8/ The Brutal Edit Pass
-“Act as a ruthless professional editor. Audit my ebook chapter by chapter for weak writing, repetition, filler, poor pacing, unsupported claims, and confusing sections. Create a prioritized cut list, rewrite the 3 weakest sections, strengthen every opening line, and identify exactly where readers are most likely to lose interest.”
+"Act as a ruthless professional editor. Audit my ebook chapter by chapter for weak writing, repetition, filler, poor pacing, unsupported claims, and confusing sections. Create a prioritized cut list, rewrite the 3 weakest sections, strengthen every opening line, and identify exactly where readers are most likely to lose interest."
 -------------------------------------------------
 ## GOOGLE GEMINI CAN TURN ANY TOPIC INTO YOUR PERSONAL AI TUTOR.
 Learn faster with personalized explanations, examples, quizzes, and smart study guidance.
 
 1/ Feynman Learning Method
-“Act as my expert learning coach and use the Feynman Technique to teach me [TOPIC]. Start by explaining the concept in simple, beginner-friendly language without unnecessary jargon. Break difficult ideas into clear steps and use practical examples or analogies when helpful. Then ask me to explain the topic back to you in my own words. Analyze my explanation, identify exactly where my understanding is incomplete or incorrect, explain those gaps clearly, and ask targeted follow-up questions until I can explain the concept accurately and confidently.”
+"Act as my expert learning coach and use the Feynman Technique to teach me [TOPIC]. Start by explaining the concept in simple, beginner-friendly language without unnecessary jargon. Break difficult ideas into clear steps and use practical examples or analogies when helpful. Then ask me to explain the topic back to you in my own words. Analyze my explanation, identify exactly where my understanding is incomplete or incorrect, explain those gaps clearly, and ask targeted follow-up questions until I can explain the concept accurately and confidently."
 
 2/ First Principles Breakdown
-“Act as an expert instructor and teach me [TOPIC] using first-principles thinking. Break the subject down into its most fundamental concepts, assumptions, components, and underlying logic. Explain how each building block connects to the next and why it matters. Avoid relying on memorization or surface-level explanations. Use simple examples, real-world applications, and step-by-step reasoning to help me understand how the concept actually works. Finish by showing me how to rebuild the bigger picture from these fundamental principles.”
+"Act as an expert instructor and teach me [TOPIC] using first-principles thinking. Break the subject down into its most fundamental concepts, assumptions, components, and underlying logic. Explain how each building block connects to the next and why it matters. Avoid relying on memorization or surface-level explanations. Use simple examples, real-world applications, and step-by-step reasoning to help me understand how the concept actually works. Finish by showing me how to rebuild the bigger picture from these fundamental principles."
 
 3/ Active Recall Coach
-“Act as my active-recall learning coach for [TOPIC]. First, teach me the essential concepts clearly and concisely. Then test my understanding with progressively challenging questions that require me to recall information without looking at notes or previous explanations. After each answer, evaluate my response, identify what I understood correctly and what I missed, and provide precise corrections. Gradually increase the difficulty and focus additional questions on my weak areas until I can recall and apply the key concepts confidently.”
+"Act as my active-recall learning coach for [TOPIC]. First, teach me the essential concepts clearly and concisely. Then test my understanding with progressively challenging questions that require me to recall information without looking at notes or previous explanations. After each answer, evaluate my response, identify what I understood correctly and what I missed, and provide precise corrections. Gradually increase the difficulty and focus additional questions on my weak areas until I can recall and apply the key concepts confidently."
 
 4/ Spaced Repetition Schedule
-“Create a personalized spaced-repetition learning system for [TOPIC] that is designed for long-term retention. Break the material into manageable concepts and create a review schedule covering the first day, following days, weekly reviews, and monthly reviews. For each review session, tell me exactly what to revisit, what questions to answer from memory, and what practical exercises to complete. Prioritize the most important concepts and adjust the schedule based on what I remember or forget so I can retain the knowledge efficiently.”
+"Create a personalized spaced-repetition learning system for [TOPIC] that is designed for long-term retention. Break the material into manageable concepts and create a review schedule covering the first day, following days, weekly reviews, and monthly reviews. For each review session, tell me exactly what to revisit, what questions to answer from memory, and what practical exercises to complete. Prioritize the most important concepts and adjust the schedule based on what I remember or forget so I can retain the knowledge efficiently."
 
 5/ Smart Knowledge Summary
-“Transform [TOPIC] into a powerful, easy-to-remember knowledge system. Identify the most important concepts and organize them into clear frameworks, mental models, principles, and practical connections. Remove unnecessary information while preserving the ideas I need to understand and apply the subject effectively. Use simple explanations, memorable examples, comparisons, and key takeaways. Finish with a concise mental map and a practical checklist showing how I can use what I learned in real situations.”
+"Transform [TOPIC] into a powerful, easy-to-remember knowledge system. Identify the most important concepts and organize them into clear frameworks, mental models, principles, and practical connections. Remove unnecessary information while preserving the ideas I need to understand and apply the subject effectively. Use simple explanations, memorable examples, comparisons, and key takeaways. Finish with a concise mental map and a practical checklist showing how I can use what I learned in real situations."
 -------------------------------------------------
+💨 10 ChatGPT Prompts to Make You Think & Work Like a Superhuman
+
+1. Set Clear Goals 🎯
+"I want to achieve [SPECIFIC GOAL]. Help me turn this goal into a realistic step-by-step action plan. Break it down into clear milestones, daily or weekly actions, deadlines, potential obstacles, and measurable ways to track my progress. Keep the plan practical and achievable."
+
+2. Simplify Complex Ideas 🧠
+"Explain [TOPIC] in simple terms that a 12-year-old could understand. Break the concept into the most important ideas, use relatable examples and analogies, avoid unnecessary jargon, and finish with a short summary and 3 questions to test my understanding."
+
+3. Write Better Tutorials ✍️
+"Create a beginner-friendly guide to using ChatGPT. Explain the key concepts, show practical examples, share best practices, common mistakes to avoid, and provide actionable tips. Keep it clear, engaging, and easy to follow in under 500 words."
+
+4. Generate Your Own Prompts ⚡
+"You are an expert AI coach for [YOUR PROFESSION]. Identify the tasks where ChatGPT could save me the most time or improve my results. Then create 10 powerful, practical prompts I can use in my daily work. Make each prompt specific, detailed, and ready to copy and paste."
+
+5. Identify Knowledge Gaps 🔍
+"I’m studying [SUBJECT]. Act as my personal tutor and assess my current knowledge. Ask me questions one at a time, starting with basic concepts and gradually increasing the difficulty. After my answers, identify my knowledge gaps, explain what I misunderstood, and recommend what I should study next."
+
+6. Master a New Skill ⚡
+"I want to learn [DESIRED SKILL] from beginner to a practical level in 30 days. Create a structured daily learning plan with lessons, exercises, practice tasks, useful resources, and weekly milestones. Focus on hands-on learning and include a way to measure my progress each week."
+
+7. Become an Expert Researcher 📚
+"I’m creating a report about [TOPIC]. Help me research this subject thoroughly and organize the information into a clear, logical structure that non-experts can understand. Identify the most important questions, key concepts, opposing viewpoints, supporting evidence, and areas that require further research."
+
+8. Make Better Decisions 💡
+"I need to make a decision about [DECISION]. Act as an objective decision-making advisor. Ask me the most important questions first, then analyze my options based on benefits, risks, costs, long-term consequences, and opportunity costs. Give me a clear comparison and recommend the strongest option with your reasoning."
+
+9. Think Like an Expert 🧩
+"I want to understand [TOPIC] at an expert level. Teach me how experts think about this subject, including the fundamental principles, mental models, common misconceptions, and important patterns. Start with the basics, then gradually increase the complexity and give me real-world examples and exercises."
+
+10. Solve Problems Like an Expert 🔥
+"I’m facing this problem: [DESCRIBE PROBLEM]. Analyze it step by step and identify the root cause rather than just the symptoms. Give me several possible solutions, explain the pros and cons of each, rank them by effectiveness and practicality, and create a clear action plan for implementing the best solution."
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
