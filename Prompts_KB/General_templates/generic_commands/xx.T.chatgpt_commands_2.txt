@@ -264,6 +264,115 @@ Part 9
 98. /reverse: — work backward from the desired result
 99. /ultimate: — give the strongest complete answer
 -------------------------------------------------
+## 99 prompts that can completely change how ChatGPT responds
+
+Writing & Tone
+1. /human - natural human-like writing
+2. /professional - make writing professional
+3. /casual - make writing conversational
+4. /friendly - make writing warm and friendly
+5. /persuasive - make the message more convincing
+6. /concise - remove unnecessary words
+7. /polish - refine the final version
+8. /tone - adjust the writing tone
+9. /editor - improve clarity and quality
+10. /proofread - find grammar and spelling errors
+11. /rewrite - rewrite with better wording
+12. /simplify - make complex content simple
+
+Explaining & Teaching
+13. /expert - specialist-level answers
+14. /teacher - explain clearly and simply
+15. /eli5 - explain like I'm 5
+16. /detailed - give a comprehensive explanation
+17. /stepbystep - explain step by step
+18. /examples - provide practical examples
+19. /brief - shortest possible answer
+
+Content Creation
+20. /viral - high-engagement content ideas
+21. /seo - search-optimized content
+22. /copywriter - persuasive marketing copy
+23. /storyteller - turn information into a story
+24. /hook - create attention-grabbing hooks
+25. /headline - generate powerful headlines
+26. /caption - write social-media captions
+27. /script - write a video or presentation script
+
+Platform-Specific
+28. /linkedin - create LinkedIn content
+29. /instagram - create Instagram content
+30. /youtube - create YouTube content
+31. /reels - generate short-form video ideas
+32. /email - write an effective email
+
+Content Planning
+47. /content- build a content strategy
+48. /calendar - create a content calendar
+49. /ideas - generate fresh ideas
+50. /creative - think creatively and differently
+
+Business & Strategy
+33. /ceo - founder mindset analysis
+34. /strategy- long-term planning mode
+35. /market - analyze market opportunities
+36./startup- think like a startup strategist
+37. /business - develop business ideas
+38. /pricing - develop a pricing strategy
+39. /funnel - build a marketing funnel
+40. /growth - find growth opportunities
+41. /competitor - analyze competitors
+42. /audience - analyze the target audience
+43. /customer - think from the customer's perspective
+44. /brand - develop brand messaging
+45. /offer - create an irresistible offer
+46. /sales - create sales-focused messagin
+
+Thinking & Analysis
+51. /critic - find weaknesses and flaws
+52. /analyst - analyze data or information
+53. /factcheck - separate facts from claims
+54. /verify - identify what needs verification
+55. /risks - identify potential risks
+56. /assumptions - identify hidden assumptions
+57. /unpopular - challenge conventional thinking
+58. /devilsadvocate - argue the opposing viewpoint
+59. /contrarian - find alternative perspectives
+60. /compare - compare multiple options
+61. /proscons - show advantages and disadvantages
+62. /decision - help make the best decision
+63. /logic — check reasoning and logic
+64. /rootcause — find the root cause of a problem
+65. /debug — find and fix problems
+66. /solution — generate practical solutions
+67. /alternative — suggest better alternatives
+
+Planning & Productivity
+68. /planner - build an actionable plan
+69. /roadmap - create a roadmap to a goal
+70. /action - turn ideas into action steps
+71. /prioritize - rank tasks by importance
+72. /productivity - improve productivity
+73. /focus - identify the most important task
+74. /time - create a time-management plan
+75. /checklist - create a practical checklist
+76. /framework - build a structured framework
+77. /template - create a reusable template
+
+Utility
+88. /brainstorm - generate creative ideas
+89. /promptengineer - improve any prompt
+90. /summarize - summarize the key points
+91. /research - deep research mode
+92. /optimize - improve an existing approach
+93. /automate - find ways to automate the task
+94. /matrix- organize options into a decision matrix
+95. /table - convert information into a table
+96. /json - structure the answer as JSON
+97. /roleplay - simulate a realistic scenario
+98. /reverse - work backward from the desired result
+99. /ultimate - give the strongest complete answer
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
