@@ -57,7 +57,36 @@ Create a professional corporate presentation on [insert topic]. Use a clear busi
 Create a complete, presentation-ready deck on [insert topic] and write a full speaking script for every slide. Make sure the script matches the content, tone, pacing, and emotional flow of the presentation. Include natural transitions, pauses, emphasis, storytelling cues, and delivery instructions so I know exactly what to say and how to present it.
 
 -------------------------------------------------
+##7 NotebookLM Prompts to Create Professional Presentations.
+NotebookLM can turn your research, PDFs, notes and documents !nto structured presentation content in minutes.👇👇
 
+1. Complete Presentation Builder
+Prompt:
+"Create a complete, slide-by-slide presentation on [TOPIC] using the sources in this notebook. Include a strong opening, key points, supporting examples, visual suggestions, and a clear conclusion. Make the presentation professional, engaging, and logically structured."
+
+2. Research-Backed Presentation
+Prompt:
+"Turn the research in this notebook into a presentation on [TOPIC]. Highlight the most important findings, statistics, studies, expert insights, and supporting evidence. Cite the relevant sources and organize the information into clear, informative slides."
+
+3. Beginner-Friendly Presentation
+Prompt:
+"Turn the information in this notebook into a beginner-friendly presentation on [TOPIC]. Simplify complex concepts using plain language, analogies, examples, and step-by-step explanations. Make every slide easy to understand."
+
+4. Business Pitch Deck
+Prompt:
+"Turn the information in this notebook into an investor-style pitch deck for [BUSINESS/IDEA]. Cover the problem, solution, target market, market opportunity, product, business model, competitive advantage, traction, and supporting evidence."
+
+5. Storytelling Presentation
+Prompt:
+"Transform the information in this notebook into a compelling story about [TOPIC]. Structure the presentation around: Hook → Problem → Journey → Key Insight → Transformation → Conclusion. Make each slide build naturally toward the main message."
+
+6. Executive Presentation
+Prompt:
+"Turn the information in this notebook into an executive presentation on [TOPIC]. Focus on key findings, business implications, trends, risks, opportunities, and actionable recommendations. Keep the content concise, professional, and suitable for a boardroom."
+
+7. Presentation + Speaker Notes
+Prompt:
+"Create a complete presentation on [TOPIC] from the sources in this notebook. For each slide, provide the slide content followed by concise speaker notes explaining what to say. Make the notes natural, informative, and aligned with the key message of each slide."
 -------------------------------------------------
 
 -------------------------------------------------
