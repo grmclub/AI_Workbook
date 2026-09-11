@@ -171,6 +171,124 @@ Learn faster with personalized explanations, examples, quizzes, and smart study 
 10. Solve Problems Like an Expert 🔥
 "I’m facing this problem: [DESCRIBE PROBLEM]. Analyze it step by step and identify the root cause rather than just the symptoms. Give me several possible solutions, explain the pros and cons of each, rank them by effectiveness and practicality, and create a clear action plan for implementing the best solution."
 -------------------------------------------------
+## Claude can turn 20 minutes of research into a surprisingly deep analysis. Here are 8 prompts to research almost anything faster 👇
+
+1. /human: — natural human-like writing
+2. /expert: — specialist-level answers
+3. /ceo: — founder mindset analysis
+4. /viral: — high-engagement content ideas
+5. /seo: — search-optimized content
+6. /critic: — find weaknesses and flaws
+7. /teacher: — explain clearly and simply
+8. /eli5: — explain like I’m 5
+9. /brief: — shortest possible answer
+10. /strategy: — long-term planning mode
+11. /copywriter: — persuasive marketing copy
+12. /research: — deep research mode
+13. /brainstorm: — generate creative ideas
+14. /promptengineer: — improve any prompt
+
+1. FIND THE GAPS
+Act as an expert research methodologist.
+Research [TOPIC] and identify:
+• 3 major gaps in the existing research
+• Weak or outdated assumptions
+• Conflicting findings
+• Methodological limitations
+• Important questions researchers haven't answered
+For each finding, explain the evidence behind it, cite the strongest available sources, and clearly flag anything uncertain or disputed.
+
+2. TURN RESEARCH INTO A MATRIX
+Act as an academic research analyst.
+Analyze the sources I provide and organize the most important information into a clear matrix containing:
+• Core definitions
+• Major theories
+• Research methods
+• Key findings
+• Important statistics
+• Areas of disagreement
+• Strength of evidence
+Remove repetitive information and highlight the insights that matter most.
+
+3. REVIEW 10 PAPERS AT ONCE
+Act as an expert literature reviewer.
+Analyze these 10 research papers and create a structured literature review.
+For each paper, extract:
+• Research question
+• Dataset/sample
+• Methodology
+• Key findings
+• Limitations
+• Important statistics
+Then compare all 10 papers and identify recurring patterns, contradictions, research gaps, and the strongest overall conclusions.
+
+4. EXPLAIN ANY COMPLEX IDEA
+Act as an expert teacher who specializes in making difficult concepts easy to understand.
+Explain [COMPLEX CONCEPT] using:
+A plain-English explanation
+A real-world analogy
+A simple example
+The technical explanation
+The most common misunderstanding
+Keep the explanation accurate while minimizing unnecessary jargon.
+
+
+5. TEST A HYPOTHESIS
+Act as a skeptical scientific researcher.
+Evaluate this hypothesis:
+[HYPOTHESIS]
+Compare the available evidence and identify:
+• Evidence supporting it
+• Evidence against it
+• Conflicting variables
+• Alternative explanations
+• Weaknesses in the evidence
+• What additional evidence would be needed
+Separate established findings from reasonable interpretations and speculation.
+
+6. ARGUE BOTH SIDES
+Act as an academic peer reviewer.
+Analyze this claim:
+[CLAIM]
+STEP 1: Build the strongest evidence-based argument against the claim.
+STEP 2: Compare both sides and identify:
+• Strongest evidence
+• Weakest assumptions
+• Logical gaps
+• Areas of uncertainty
+• Most defensible conclusion
+Do not force a conclusion when the evidence is inconclusive.
+
+
+7. CHECK YOUR SOURCES
+Act as a skeptical research auditor.
+Evaluate each source used in this research based on:
+• Author expertise
+• Publication quality
+• Methodology
+• Sample size
+• Recency
+• Conflicts of interest
+• Independent corroboration
+• Whether the source actually supports the claim
+Rate each source Strong, Moderate, or Weak and explain why.
+Flag claims that require additional verification.
+
+8. THE 20-MINUTE RESEARCH SPRINT
+I have 20 minutes to understand:
+[TOPIC]
+Build the most efficient research plan possible.
+Prioritize:
+• The questions I need answered
+• The highest-value sources to examine
+• The strongest available evidence
+• Major disagreements in the research
+• Important statistics
+• What remains uncertain
+Finish with a concise synthesis of what the evidence currently supports and what I should investigate next.
+
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
