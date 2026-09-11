@@ -46,6 +46,21 @@ Use #4 to write your Lit Review in 1 day, not 1 month
 Before submission, always run #9
 I finished my lit review in 3 days with this.
 -------------------------------------------------
+🚨 BREAKING: CLAUDE HAS A LEARNING MODE.
+Learn ANYTHING faster with 5 powerful prompts. 🧠⚡
+
+1. Learning Mode Activation "Act as a learning acceleration expert trained in spaced repetition, active recall, and deliberate practice. From now on, whenever I share a subject I want to master, build me a complete learning system — not a reading list, a retention machine. What I want to learn is: [insert]. My timeline is: [insert]."
+
+2. Active Reading Protocol "Build my complete active reading system. What I want to read: [list books or topics]. Weekly time: [X hours]. Current method: [describe]. Main challenge: [retention/focus/finishing]. Give me the active reading protocol, marginalia method, chapter summary habit, spaced repetition schedule, and how to apply knowledge within 48 hours."
+
+3. Learning Sprint Designer "Design my learning sprint for [subject/skill] over the next [X weeks]. Where I am now: [current level]. Where I want to be: [target level]. Time per week: [X hours]. Give me weekly milestones, daily learning blocks, the one resource to prioritize above all others, the project that proves I've learned it, and the accountability check-in."
+
+4. Teach-Back System "Build my teach-back system for everything I learn. Subject I'm currently studying: [insert]. Give me the Feynman technique applied to my subject, the format for teaching it back in writing, how to identify gaps in my understanding before I think I have them, and a weekly 'explain it to a beginner' practice."
+
+
+5. Retention Architecture "Build my complete retention architecture. What I need to retain: [subject]. Timeline to use it: [X weeks/months]. Give me my spaced repetition schedule, the note-taking system that makes knowledge stick long-term, the weekly review ritual, how to connect new knowledge to things I already know, and the one habit that separates people who retain everything from people who forget immediately."
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
