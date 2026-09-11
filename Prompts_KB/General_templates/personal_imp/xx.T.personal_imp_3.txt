@@ -113,6 +113,50 @@ Here are 10 prompts worth trying that could save you hours
 
 
 -------------------------------------------------
+## 10 ChatGPT prompts to boost critical thinking and productivity
+
+1. Set Clear Goals 🎯
+"I want to achieve [SPECIFIC GOAL]. Help me turn this goal into a realistic step-by-step action plan. Break it down into clear milestones, daily or weekly actions, deadlines, potential obstacles, and measurable ways to track my progress. Keep the plan practical and achievable."
+
+2. Simplify Complex Ideas 🧠
+"Explain [TOPIC] in simple terms that a 12-year-old could understand. Break the concept into the most important ideas, use relatable examples and analogies, avoid unnecessary jargon, and finish with a short summary and 3 questions to test my understanding."
+
+3. Write Better Tutorials ✍️
+"Create a beginner-friendly guide to using ChatGPT. Explain the key concepts, show practical examples, share best practices, common mistakes to avoid, and provide actionable tips. Keep it clear, engaging, and easy to follow in under 500 words."
+
+4. Generate Your Own Prompts ⚡
+"You are an expert AI coach for [YOUR PROFESSION]. Identify the tasks where ChatGPT could save me the most time or improve my results. Then create 10 powerful, practical prompts I can use in my daily work. Make each prompt specific, detailed, and ready to copy and paste."
+
+5. Identify Knowledge Gaps 🔍
+"I’m studying [SUBJECT]. Act as my personal tutor and assess my current knowledge. Ask me questions one at a time, starting with basic concepts and gradually increasing the difficulty. After my answers, identify my knowledge gaps, explain what I misunderstood, and recommend what I should study next."
+
+6. Master a New Skill ⚡
+"I want to learn [DESIRED SKILL] from beginner to a practical level in 30 days. Create a structured daily learning plan with lessons, exercises, practice tasks, useful resources, and weekly milestones. Focus on hands-on learning and include a way to measure my progress each week."
+
+7. Become an Expert Researcher 📚
+"I’m creating a report about [TOPIC]. Help me research this subject thoroughly and organize the information into a clear, logical structure that non-experts can understand. Identify the most important questions, key concepts, opposing viewpoints, supporting evidence, and areas that require further research."
+
+8. Make Better Decisions 💡
+"I need to make a decision about [DECISION]. Act as an objective decision-making advisor. Ask me the most important questions first, then analyze my options based on benefits, risks, costs, long-term consequences, and opportunity costs. Give me a clear comparison and recommend the strongest option with your reasoning."
+
+9. Think Like an Expert 🧩
+"I want to understand [TOPIC] at an expert level. Teach me how experts think about this subject, including the fundamental principles, mental models, common misconceptions, and important patterns. Start with the basics, then gradually increase the complexity and give me real-world examples and exercises."
+
+10. Solve Problems Like an Expert 🔥
+"I’m facing this problem: [DESCRIBE PROBLEM]. Analyze it step by step and identify the root cause rather than just the symptoms. Give me several possible solutions, explain the pros and cons of each, rank them by effectiveness and practicality, and create a clear action plan for implementing the best solution."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
+
+
+
+
+
+
+
