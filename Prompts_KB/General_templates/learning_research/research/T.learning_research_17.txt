@@ -287,10 +287,112 @@ Prioritize:
 • What remains uncertain
 Finish with a concise synthesis of what the evidence currently supports and what I should investigate next.
 
+-------------------------------------------------
+🚨20 ChatGPT Prompts to Save You 20 Hours a Week👇👇
+
+LEARNING & UNDERSTANDING
+1. Learn Faster With 80/20
+"I want to learn about [TOPIC]. Apply the 80/20 principle to identify the most important concepts that will give me the strongest understanding of this subject. Explain each concept simply, show why it matters, and give practical examples."
+
+2. Simplify Complex Topics
+"Explain [TOPIC] as if I’m a complete beginner. Start with the basics, avoid unnecessary jargon, use simple analogies and real-world examples, and gradually build toward the more complex ideas."
+
+3. Test My Knowledge
+"I’m currently learning about [TOPIC]. Act as my tutor and test my understanding with progressively harder questions. Don’t reveal answers immediately. After each response, identify my mistakes and knowledge gaps, then explain how to improve."
+
+4. Remember What I Learn
+"I’m learning about [TOPIC]. Turn the most important concepts into memorable stories, analogies, and mental models. Keep them simple, relatable, and easy to recall later."
+WRITING & CONTENT
+
+5. Improve My Writing
+"[PASTE WRITING]
+Act as a professional editor. Fix grammar, spelling, clarity, and awkward phrasing while preserving my original voice and meaning. Make the writing more natural, concise, and engaging."
+
+6. Beat Writer’s Block
+"I’m creating content about [TOPIC] for [AUDIENCE], but I’m stuck. Generate 10 strong angles, hooks, titles, or ideas that approach the topic from different perspectives and make people want to keep reading."
+
+7. Create Any Type of Content
+"Create a [FORMAT] about [TOPIC] for [AUDIENCE]. The goal is to [GOAL]. Use a [TONE] tone, include [KEY POINTS], and keep it within [LENGTH]. Make it clear, useful, engaging, and appropriate for the audience."
+
+8. Write in My Style
+"[PASTE WRITING SAMPLE]
+Analyze my writing style, including tone, vocabulary, sentence structure, rhythm, and personality. Then write a new piece about [TOPIC] that naturally matches my style without copying specific phrases."
+RESEARCH & PROBLEM-SOLVING
+
+9. Research Any Topic
+"I’m researching [TOPIC] for [PURPOSE]. Create a structured, in-depth report covering the most important facts, key insights, examples, challenges, opposing perspectives, and practical conclusions. Organize everything so it’s easy to use."
+
+10. Summarize Long Documents
+"[PASTE TEXT]
+Summarize this document without losing important information. Extract the main ideas, key facts, conclusions, and actionable insights. Use concise bullet points and remove repetition or unnecessary details."
+
+11. Solve Problems Step by Step
+"[INSERT PROBLEM]
+Analyze this problem and solve it step by step. Start by identifying the root cause, then give me the clearest practical solution. Explain what to do at each stage and point out potential mistakes or risks."
+
+12. Generate Better Ideas
+"I want to [GOAL]. Generate 15 different ways to achieve it. Include practical, creative, unconventional, low-cost, and high-impact approaches. Briefly explain how each idea works and when it would be most useful."
+PRODUCTIVITY & DECISION-MAKING
+
+13. Make Better Decisions
+"I’m deciding whether to [DECISION]. Analyze this objectively by comparing the benefits, drawbacks, risks, costs, opportunity costs, and long-term consequences. Challenge my assumptions and tell me what factors should influence the final decision."
+
+14. Learn From Top Performers
+"Analyze the habits, strategies, skills, and decision-making patterns of top performers in [FIELD]. Identify the most valuable lessons they use to achieve better results and show me how I can apply those lessons in my own work."
+
+15. Generate Better Prompts
+"Act as a prompt engineer for [PROFESSION/ROLE]. Create 10 powerful prompts that would help someone in this role accomplish [GOAL]. Make each prompt specific, practical, reusable, and designed to produce high-quality results."
+
+16. Learn to Use ChatGPT Better
+"Create a practical beginner’s guide to using ChatGPT effectively. Cover prompting, providing context, personas, examples, follow-up instructions, and improving weak responses. Include before-and-after examples and keep it under 500 words."
+CAREER & PROFESSIONAL GROWTH
+
+17. Prepare for a Job Interview
+"I’m interviewing for [POSITION] at [COMPANY/INDUSTRY]. Generate the most likely interview questions, including behavioral, technical, situational, and role-specific questions. Provide strong sample answers and explain what makes each answer effective."
+
+18. Build a Learning Roadmap
+"I want to learn [SKILL] and become competent within [TIMEFRAME]. Create a practical learning roadmap from beginner to competent. Prioritize the skills that matter most, include exercises and projects, identify common mistakes, and show me how to measure my progress."
+
+19. Identify High-Impact Skills
+"I want to become better at [CAREER/FIELD]. Identify the most important skills required to excel, rank them by impact, and use the 80/20 principle to show me which few skills I should prioritize first. Then create a practical improvement plan."
+
+20. Extract Lessons From Books
+"Summarize [BOOK] by [AUTHOR]. Focus on the most important ideas, mental models, lessons, and actionable insights rather than simply summarizing each chapter. Explain how I can apply the key lessons to [GOAL/SITUATION]."
+-------------------------------------------------
+## 10 GPT-6 Astra Prompts to Think Smarter & Work Faster 👇
+
+1. Turn Goals Into a Plan
+“I want to achieve [GOAL]. Turn it into a realistic action plan with clear milestones, weekly actions, deadlines, likely obstacles, and measurable ways to track progress. Prioritize the steps that will have the biggest impact.”
+
+2. Understand Anything Faster
+“Teach me [TOPIC] as if I’m a complete beginner. Break it into the few ideas I need to understand first, use simple examples and analogies, and avoid unnecessary jargon. Finish with a quick summary and 3 questions to test what I learned.”
+
+3. Create Better Tutorials
+“Create a beginner-friendly tutorial for [TOPIC]. Walk me through it step by step with practical examples, best practices, common mistakes, and actionable tips. Keep it clear, useful, and under 500 words.”
+
+4. Generate Prompts for Your Job
+“Act as an AI productivity coach for [PROFESSION]. Identify 10 tasks where ChatGPT could help me save time, organize my work, or improve my output. Then create one detailed, copy-and-paste prompt for each task.”
+
+5. Find What You Don’t Know
+“I’m learning [SUBJECT]. Test my knowledge by asking one question at a time, starting easy and getting progressively harder. Based on my answers, identify gaps or misunderstandings, explain them clearly, and tell me what I should study next.”
+
+6. Learn a Skill in 30 Days
+“I want to improve at [SKILL] over the next 30 days. Build a realistic daily learning plan with short lessons, hands-on exercises, practice projects, useful resources, and weekly milestones. Include a simple way to measure my progress.”
+
+7. Research Any Topic Deeper
+“I’m researching [TOPIC]. Build a research framework that covers the key questions, major concepts, credible evidence, competing viewpoints, uncertainties, and areas that need more investigation. Organize everything into a logical structure for a non-expert audience.”
+
+8. Make Smarter Decisions
+“I need to decide between [OPTIONS]. First, ask me the questions needed to understand my priorities and constraints. Then compare each option by benefits, risks, costs, tradeoffs, opportunity costs, and long-term consequences. Recommend the strongest option based on the information available and explain why.”
+
+9. Learn How Experts Think
+“Teach me how experienced professionals think about [TOPIC]. Explain the fundamental principles, useful mental models, common misconceptions, important patterns, and real-world applications. Start simple, increase the complexity gradually, and give me exercises to apply what I learn.”
+
+10. Break Down Difficult Problems
+“I’m dealing with this problem: [PROBLEM]. Help me separate the symptoms from possible root causes. Identify the information we’re missing, suggest several possible solutions, compare their pros and cons, and rank them by practicality and likely effectiveness. Finish with a clear action plan for the strongest option.”
 
 
--------------------------------------------------
--------------------------------------------------
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
