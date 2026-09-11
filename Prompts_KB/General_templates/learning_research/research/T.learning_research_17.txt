@@ -121,6 +121,39 @@ No ghostwriter. No $4K budget.
 8/ The Brutal Edit Pass
 “Act as a ruthless professional editor. Audit my ebook chapter by chapter for weak writing, repetition, filler, poor pacing, unsupported claims, and confusing sections. Create a prioritized cut list, rewrite the 3 weakest sections, strengthen every opening line, and identify exactly where readers are most likely to lose interest.”
 -------------------------------------------------
+## GOOGLE GEMINI CAN TURN ANY TOPIC INTO YOUR PERSONAL AI TUTOR.
+Learn faster with personalized explanations, examples, quizzes, and smart study guidance.
+
+1/ Feynman Learning Method
+“Act as my expert learning coach and use the Feynman Technique to teach me [TOPIC]. Start by explaining the concept in simple, beginner-friendly language without unnecessary jargon. Break difficult ideas into clear steps and use practical examples or analogies when helpful. Then ask me to explain the topic back to you in my own words. Analyze my explanation, identify exactly where my understanding is incomplete or incorrect, explain those gaps clearly, and ask targeted follow-up questions until I can explain the concept accurately and confidently.”
+
+2/ First Principles Breakdown
+“Act as an expert instructor and teach me [TOPIC] using first-principles thinking. Break the subject down into its most fundamental concepts, assumptions, components, and underlying logic. Explain how each building block connects to the next and why it matters. Avoid relying on memorization or surface-level explanations. Use simple examples, real-world applications, and step-by-step reasoning to help me understand how the concept actually works. Finish by showing me how to rebuild the bigger picture from these fundamental principles.”
+
+3/ Active Recall Coach
+“Act as my active-recall learning coach for [TOPIC]. First, teach me the essential concepts clearly and concisely. Then test my understanding with progressively challenging questions that require me to recall information without looking at notes or previous explanations. After each answer, evaluate my response, identify what I understood correctly and what I missed, and provide precise corrections. Gradually increase the difficulty and focus additional questions on my weak areas until I can recall and apply the key concepts confidently.”
+
+4/ Spaced Repetition Schedule
+“Create a personalized spaced-repetition learning system for [TOPIC] that is designed for long-term retention. Break the material into manageable concepts and create a review schedule covering the first day, following days, weekly reviews, and monthly reviews. For each review session, tell me exactly what to revisit, what questions to answer from memory, and what practical exercises to complete. Prioritize the most important concepts and adjust the schedule based on what I remember or forget so I can retain the knowledge efficiently.”
+
+5/ Smart Knowledge Summary
+“Transform [TOPIC] into a powerful, easy-to-remember knowledge system. Identify the most important concepts and organize them into clear frameworks, mental models, principles, and practical connections. Remove unnecessary information while preserving the ideas I need to understand and apply the subject effectively. Use simple explanations, memorable examples, comparisons, and key takeaways. Finish with a concise mental map and a practical checklist showing how I can use what I learned in real situations.”
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
+
+
+
+
+
+
