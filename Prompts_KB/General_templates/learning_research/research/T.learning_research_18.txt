@@ -33,7 +33,339 @@
 “Study this YouTube lecture like a personal tutor. Break down the entire lesson into a step-by-step learning path, explain each concept clearly, highlight mistakes beginners make, and create practice exercises so I can master the topic.”
 
 -------------------------------------------------
+Claude Fable 5.1 is Anthropic's latest model for long-running coding and knowledge work.
+It can plan, use tools, verify its work and keep going through complex tasks.
+Here are 8 prompts to actually use it 👇
+
+1/ TURN A MESSY GOAL INTO AN EXECUTION PLAN
+<role>
+Act as a senior project operator who converts ambiguous goals into executable plans and then systematically works through them.
+</role>
+<task>
+Take [GOAL] and turn it into a complete execution plan for [DESIRED OUTCOME].
+</task>
+<steps>
+1. Inspect all context, files, constraints, requirements, and existing work I provide
+2. Define exactly what “done” means
+3. Identify unknowns that materially affect execution
+4. Break the project into phases, milestones, dependencies, and concrete tasks
+5. Identify which tasks can run independently and which must happen sequentially
+6. Rank tasks by impact, dependency, uncertainty, and urgency
+7. Create acceptance criteria for every major deliverable
+8. Identify likely failure points before execution begins
+9. Start executing the highest-priority work where tools and information allow
+10. Continuously update the plan as new evidence appears
+</steps>
+<rules>
+- Do not stop at creating a plan if you can perform the work
+- Do not ask me to make minor decisions you can reasonably resolve yourself
+- State important assumptions explicitly
+- Verify completed work against the acceptance criteria
+- Fix root causes rather than patching symptoms
+- Keep a running record of completed, active, blocked, and remaining work
+- Test: could another expert take this plan and know exactly what happens next
+</rules>
+<output>
+Goal Definition → Definition Of Done → Assumptions → Project Phases → Dependencies → Risk Map → Execution Plan → Work Completed → Blockers → Next Actions
+</output>
+
+2/ HAND OFF AN ENTIRE RESEARCH PROJECT
+<role>
+Act as a senior research lead who can independently plan, investigate, cross-check, synthesize, and produce decision-ready research.
+</role>
+<task>
+Research [TOPIC/QUESTION] for [DECISION/AUDIENCE] and produce a rigorous final brief.
+</task>
+<steps>
+1. Translate the request into the key questions that must be answered
+2. Build a research plan before gathering evidence
+3. Separate foundational questions from secondary questions
+4. Gather relevant evidence from the sources and tools available
+5. Track which claims are strongly supported, weakly supported, disputed, or unknown
+6. Cross-check important claims against independent evidence where possible
+7. Resolve contradictions instead of silently choosing one source
+8. Identify patterns, implications, risks, and non-obvious insights
+9. Determine what information would materially change the conclusion
+10. Produce the final research brief with an executive recommendation
+</steps>
+<rules>
+- Do not produce a pile of summaries
+- Synthesize across evidence
+- Separate fact, inference, and assumption
+- Flag uncertainty
+- Do not invent missing evidence
+- Prioritize decision-relevant information
+- If new findings invalidate the original research plan, update it
+- Test: would a decision-maker know what to believe and what to do next
+</rules>
+<output>
+Research Question → Research Plan → Key Evidence → Conflicting Evidence → Findings → Non-Obvious Insights → Risks → Uncertainties → Recommendation → Final Brief
+</output>
+
+3/ BUILD A FEATURE ACROSS AN ENTIRE CODEBASE
+<role>
+Act as a senior software engineer responsible for implementing a production-ready feature across an existing codebase.
+</role>
+<task>
+Implement [FEATURE] in the repository I provide while preserving existing behavior and architecture.
+</task>
+<steps>
+1. Inspect the repository structure before changing anything
+2. Identify the relevant architecture, modules, APIs, tests, conventions, and dependencies
+3. Trace the existing user and data flow affected by the feature
+4. Create an implementation plan
+5. Identify edge cases, failure modes, security considerations, and backwards-compatibility risks
+6. Implement the feature in the smallest coherent set of changes
+7. Add or update tests
+8. Run available tests, linters, type checks, and build commands
+9. Diagnose failures and fix the underlying cause
+10. Review the final diff for regressions, unnecessary complexity, and incomplete work
+11. Document what changed and how to verify it
+</steps>
+<rules>
+- Inspect before editing
+- Follow the repository’s existing patterns unless there is a strong reason not to
+- Do not rewrite unrelated code
+- Do not claim success without verification
+- Never disable tests simply to make the build pass
+- Prefer root-cause fixes over workarounds
+- Clearly report anything you could not verify
+- Test: does the implementation satisfy the requested behavior and pass available validation
+</rules>
+<output>
+Architecture Findings → Implementation Plan → Files Changed → Feature Implementation → Tests Added → Verification Results → Risks → Final Review → Manual Verification Steps
+</output>
+
+4/ DEBUG THE ROOT CAUSE, NOT THE SYMPTOM
+<role>
+Act as a senior debugging engineer who investigates complex failures systematically instead of guessing fixes.
+</role>
+<task>
+Find and fix the root cause of [BUG/FAILURE] in [SYSTEM/CODEBASE].
+</task>
+<steps>
+1. Inspect the error, logs, reproduction steps, affected code, and recent changes
+2. Reproduce the failure where possible
+3. Map the execution path that leads to the bug
+4. Generate multiple plausible root-cause hypotheses
+5. Rank those hypotheses by evidence
+6. Design the cheapest test that could falsify each hypothesis
+7. Run the tests
+8. Isolate the root cause
+9. Implement the smallest durable fix
+10. Add a regression test
+11. Run relevant validation
+12. Check whether the same root cause could affect other parts of the system
+</steps>
+<rules>
+- Do not change code randomly until the error disappears
+- Distinguish symptoms from causes
+- Keep an evidence trail for the diagnosis
+- Do not weaken validations to hide the problem
+- Prefer minimal fixes
+- Verify the bug cannot be reproduced after the change
+- Test: can you explain exactly why the bug happened and why the fix prevents recurrence
+</rules>
+<output>
+Observed Failure → Reproduction → Hypotheses → Evidence → Root Cause → Fix → Regression Test → Verification → Related Risks
+</output>
+
+5/ TAKE A DOCUMENT FOLDER AND PRODUCE THE FINAL DELIVERABLE
+<role>
+Act as a senior knowledge-work operator who can turn a large collection of files into a coherent, accurate, decision-ready deliverable.
+</role>
+<task>
+Review the files related to [PROJECT] and produce [FINAL DELIVERABLE] for [AUDIENCE].
+</task>
+<steps>
+1. Inventory the available files and determine what each contains
+2. Identify duplicate, outdated, contradictory, or low-relevance material
+3. Build a source map connecting documents to the questions they answer
+4. Extract the facts, decisions, numbers, requirements, and open issues that matter
+5. Resolve conflicts by comparing source authority and recency
+6. Identify missing information
+7. Design the structure of the final deliverable
+8. Produce the first complete version
+9. Review it against the source material
+10. Correct unsupported statements, missing sections, inconsistencies, and weak reasoning
+11. Produce a final polished version
+</steps>
+<rules>
+- Do not summarize files one by one
+- Synthesize them into one coherent result
+- Preserve important numbers and constraints
+- Never invent missing information
+- Label unresolved conflicts
+- Optimize the final deliverable for its actual audience
+- Test: could the recipient use this without reading the source folder
+</rules>
+<output>
+File Inventory → Source Map → Critical Findings → Conflicts → Missing Information → Deliverable Structure → Draft → Verification → Final Deliverable
+</output>
+
+6/ RUN A MULTI-STEP BUSINESS ANALYSIS
+<role>
+Act as a senior strategy operator who can investigate a business problem, model alternatives, challenge assumptions, and deliver an executable recommendation.
+</role>
+<task>
+Solve [BUSINESS PROBLEM] for [COMPANY] given [CONTEXT/CONSTRAINTS].
+</task>
+<steps>
+1. Define the decision that actually needs to be made
+2. Identify the variables driving the outcome
+3. Separate symptoms from root causes
+4. Build an issue tree of the problem
+5. Analyze customers, economics, operations, competition, and constraints where relevant
+6. Generate multiple strategic options
+7. Define what must be true for each option to work
+8. Stress-test the options against downside scenarios
+9. Rank options by impact, feasibility, cost, speed, reversibility, and risk
+10. Recommend one path
+11. Create a 30/60/90-day execution plan
+12. Define metrics and early warning indicators
+</steps>
+<rules>
+- Do not jump to recommendations before diagnosing the problem
+- Challenge my assumptions where evidence contradicts them
+- Distinguish facts from estimates
+- State trade-offs
+- Include a falsifier: what evidence would make the recommendation wrong
+- Prefer reversible experiments where uncertainty is high
+- Test: could leadership make and execute the decision from this analysis
+</rules>
+<output>
+Decision → Issue Tree → Root Causes → Evidence → Strategic Options → What Must Be True → Stress Test → Recommendation → Falsifier → 30/60/90-Day Plan → Metrics
+</output>
+
+7/ REVIEW YOUR OWN WORK BEFORE YOU GIVE IT TO ME
+<role>
+Act as both the primary executor and an adversarial senior reviewer responsible for catching mistakes before delivery.
+</role>
+<task>
+Complete [TASK], then independently audit your own output before presenting the final version.
+</task>
+<steps>
+1. Define the requirements and success criteria
+2. Complete the task normally
+3. Stop and switch into critic mode
+4. Assume the first version contains mistakes
+5. Check every requirement against the output
+6. Search for logical gaps, factual inconsistencies, missing edge cases, unsupported assumptions, calculation errors, and weak sections
+7. Try to falsify the main conclusions
+8. Identify the 5 strongest criticisms of the current output
+9. Fix every valid criticism
+10. Repeat verification on the revised version
+11. Deliver only after the critical issues are resolved
+</steps>
+<rules>
+- Do not defend your first answer
+- Treat criticism as a separate pass
+- Do not mark a requirement complete without evidence
+- If something cannot be verified, say so
+- Preserve correct work while fixing weak sections
+- Test: would an independent expert find an obvious error you could have caught yourself
+</rules>
+<output>
+Success Criteria → Initial Work → Critic Findings → Valid Problems → Corrections → Verification Results → Final Output → Remaining Uncertainty
+</output>
+
+8/ BECOME THE PROJECT OPERATOR UNTIL THE JOB IS DONE
+<role>
+Act as an autonomous project operator responsible for driving [PROJECT] from its current state to a review-ready finished result.
+</role>
+<task>
+Take ownership of achieving [OUTCOME] using the files, tools, context, and permissions available to you.
+</task>
+<steps>
+1. Inspect the current state of the project
+2. Define the finished state and acceptance criteria
+3. Create a dynamic task graph covering all necessary work
+4. Identify dependencies, parallel work, risks, and unknowns
+5. Start executing immediately
+6. Use appropriate tools whenever they materially improve the result
+7. Verify each important output before treating it as complete
+8. When a step fails, diagnose the cause, adapt the plan, and continue
+9. Maintain a running project state: completed, active, blocked, remaining
+10. Escalate only decisions that genuinely require my judgment
+11. Perform a final end-to-end review
+12. Deliver the finished result plus a concise record of what was completed
+</steps>
+<rules>
+- Do not repeatedly ask me what to do next when the goal is already clear
+- Do not stop merely because the original plan failed
+- Adapt based on evidence
+- Avoid irreversible actions without appropriate approval
+- Keep me informed of meaningful changes, blockers, and decisions
+- Do not claim completion until acceptance criteria are met
+- Prefer finished artifacts over lengthy descriptions of what you would do
+- Test: if I disappeared for the duration of the task, could you still drive it substantially closer to completion
+</rules>
+<output>
+Project Goal → Acceptance Criteria → Task Graph → Execution Log → Completed Work → Verification → Blockers/Escalations → Final Review → Finished Deliverable
+</output>
+
 -------------------------------------------------
+🚨DELETE COURSERA.
+🚨DELETE SKILLSHARE.
+🚨DELETE UDEMY.
+Use Claude to build your own personalized online courses, projects, quizzes and study plan.
+
+1. Design My Learning Blueprint
+Act as an expert course designer and tutor. Create a personalized [X-week] course on [TOPIC] for my [BEGINNER/INTERMEDIATE] level. My goal is [GOAL], I can study [X hours/week], and I prefer [PROJECTS/EXAMPLES/STEP-BY-STEP] learning. Divide it into weekly modules with objectives, key concepts, exercises, mini-projects, quizzes, and clear completion criteria. Prioritize practical skills and gradually increase difficulty.
+✅ Why it works: This forces Claude to think like a curriculum designer, not a chatbot. You get structure, not random advice.
+
+2. Find My Starting Point
+I want to learn [TOPIC] for [GOAL]. Create a 15-question diagnostic assessment covering the most important skills, and ask me one question at a time. After I answer, identify what I already know, my weak areas, knowledge gaps, what I can skip, and what I should prioritize. Then build a personalized learning roadmap based on my results.
+✅ Why it works: Most people waste time relearning things they already know. This skips straight to what actually matters for you.
+
+3. Teach Me One Thing Today
+Teach me [SPECIFIC CONCEPT] from [TOPIC] in a [20/30/45]-minute lesson for my [LEVEL]. Include a simple explanation, why it matters, a real-world example, step-by-step demonstration, guided exercise, independent challenge, 5-question knowledge check, and one practical task. Avoid unexplained jargon and keep the lesson focused on usable skills.
+✅ Why it works: Small, focused lessons beat long lectures. Your brain retains bite-sized info way better than hour-long videos.
+
+4. Learn By Building
+Design a project-based learning path for [TOPIC] that helps me achieve [GOAL]. Create 5 projects that gradually increase in difficulty. For each, include what I'll build, skills learned, prerequisites, tools needed, milestones, common mistakes, completion criteria, and an optional advanced challenge. Don't give full solutions immediately; guide me with hints when I'm stuck.
+✅ Why it works: You remember what you build, not what you watch. This turns theory into muscle memory.
+
+5. My Personal AI Coach
+Act as my one-on-one tutor for [TOPIC]. My current level is [LEVEL] and my goal is [GOAL]. Teach one concept at a time, explain it simply, then ask me a question before continuing. If I'm wrong, identify the misunderstanding, give me a hint, and let me retry instead of immediately revealing the answer. Adjust difficulty based on my responses and revisit concepts I struggle with.
+✅ Why it works: This mimics real tutoring. It adapts to your pace instead of dumping information and hoping it sticks.
+
+6. Plan My Weeks
+Create a realistic [4/8/12]-week study plan for mastering [TOPIC] and reaching [GOAL]. I can study [X days/week] for [X minutes/session]. For every session, specify exactly what to learn, practice, or build, how long each activity should take, and what outcome I should complete. Include weekly reviews, catch-up time, and a manageable workload around [WORK/SCHOOL/FAMILY].
+✅ Why it works: Vague plans fail. This gives you a session-by-session schedule so you never wonder "what should I do today."
+
+7. Sharpen My Skills
+Create 10 practice problems on [SKILL/CONCEPT], progressing from easy to difficult, and give them to me one at a time. After every answer, score it, explain what I did well, identify specific mistakes, show a better approach, and give me another problem targeting my weakness. Track repeated mistakes and summarize my biggest improvement areas at the end.
+✅ Why it works: Practice without feedback is just guessing. This gives you a real feedback loop like a coach would.
+
+8. Test What I Know
+Create a [20-question] exam on [TOPIC] at [BEGINNER/INTERMEDIATE/ADVANCED] level based on my goal of [GOAL]. Mix multiple-choice, short-answer, scenarios, practical tasks, and explain-in-your-own-words questions. Don't show answers until I finish. Then grade me 0-100 and report my strengths, weaknesses, incorrect answers, correct explanations, and topics I should review next.
+✅ Why it works: Real exams reveal blind spots that "I think I understand it" never will. This tells you the truth about your progress.
+
+9. Make It Stick Forever
+Create a spaced-repetition system to help me remember [TOPIC] long-term. Generate 30 active-recall flashcards covering fundamentals, important concepts, common mistakes, and practical applications. Format each as "Front: question" and "Back: concise answer plus example." Then create a review schedule for Day 1, 3, 7, 14, and 30, and quiz me before revealing answers during future reviews.
+✅ Why it works: Learning something once means nothing if you forget it in a week. This locks it into long-term memory.
+
+10. Prove I Can Do This
+Design a realistic capstone project to test whether I can actually use [TOPIC] at [TARGET LEVEL]. Make it similar to work done by a [JOB ROLE/CREATOR/BUSINESS OWNER] and include the scenario, objective, requirements, constraints, deliverables, evaluation rubric, and bonus challenges. Don't solve it for me. After I submit my work, grade it using the rubric and create a personalized improvement plan.
+✅ Why it works: Certificates don't prove skill. A real project does. This is your portfolio piece, not a participation trophy.
+
+11. Turn Weak Spots Into Strengths
+Analyze my current skill level in [TOPIC/CAREER FIELD] based on this info about me: [BACKGROUND/EXPERIENCE]. Identify the exact skill gaps standing between me and [GOAL/JOB TITLE]. Rank each gap by priority and difficulty to close. Then build a step-by-step roadmap with resources, practice tasks, and milestones to close each gap in order.
+✅ Why it works: Most people guess what skills they're missing. This gives you a precise, ranked gap list instead of blind guessing.
+
+12. Simplify The Hard Stuff
+Explain [DIFFICULT CONCEPT] in [TOPIC] like you're teaching a curious 12-year-old, using a simple analogy. Then explain the same concept again at a professional/technical level for someone with [BACKGROUND]. Compare both explanations side by side so I understand the core idea and the technical depth. Finish with 3 questions to check if I truly understood it.
+✅ Why it works: If you can't explain it simply, you don't really understand it. This builds real comprehension, not memorized jargon.
+
+💡 Pro Tips
+Always fill in the brackets with specific details. The more specific you are, the better the output.
+Never accept the first answer as final. Ask Claude to "make it harder" or "make it simpler" until it fits you.
+Save your favorite prompts in a notes app so you can reuse them for any topic.
+Combine prompts. Use the diagnostic test first, then build your course based on the results.
+Ask Claude to quiz you randomly during lessons, not just at the end. This keeps your brain active instead of passively reading.
+Treat Claude like a tutor, not a search engine. Have a back and forth conversation instead of copy pasting one prompt and leaving.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
