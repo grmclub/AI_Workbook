@@ -200,6 +200,48 @@ Prompt:
 
 <output>Confusion -> Prop -> Story -> Script -> Teaching Flow</output>
 -------------------------------------------------
+## ChatGPT Can Turn Your Idea Into a Presentation.
+
+1. Turn Any Idea Into a Full Presentation
+Prompt:
+Act as an expert presentation strategist. Create a complete presentation about [topic/idea] for [target audience]. The goal of the presentation is to [educate/persuade/sell/explain]. Build a logical story from beginning to end with around [10–15] slides. For every slide, give me a strong slide title, the key message, concise supporting content, and a suggestion for the best visual, chart, diagram, screenshot, or image to use. Keep the slides simple, engaging, and easy to understand. Avoid long paragraphs and do not invent statistics or facts.
+
+2. Create a Business Pitch Deck
+Prompt:
+Turn my business idea into a professional pitch deck. My business is [describe the business], our target customers are [audience], and the main problem we solve is [problem]. Create a clear presentation covering the problem, current alternatives, our solution, how the product works, target market, business model, competitive advantage, marketing strategy, traction, future roadmap, and final call to action. Make each slide focused on one main idea and suggest visuals that would make the pitch easier to understand. If important information is missing, mark it as information I need to add instead of making it up.
+
+3. Turn a Report Into Presentation Slides
+Prompt:
+Turn the following report, document, or long piece of text into a presentation: [paste content]. Identify the most important ideas and remove unnecessary details. Organize the information into a logical [number] slide presentation for [audience]. Give each slide a clear headline, 3–5 concise supporting points, and a recommended visual or chart where appropriate. Highlight important numbers, findings, trends, problems, and recommendations. Keep the meaning of the original information accurate and do not add unsupported facts.
+
+4. Create a Sales Presentation
+Prompt:
+Create a persuasive sales presentation for [product/service] aimed at [target customer]. Their main problems are [problems], and my product helps by [solution]. Structure the presentation so it first makes the customer understand the problem, then shows the cost of continuing with the current approach, introduces our solution, explains the major benefits, handles likely objections, shows proof or examples I provide, and ends with a strong next step. Write short slide copy instead of long paragraphs and suggest useful visuals for every slide.
+
+5. Create a Training Presentation
+Prompt:
+Create a beginner-friendly training presentation that teaches [topic/skill] to [audience]. Assume they currently know [beginner/intermediate level] about the topic. Start by explaining why the skill matters, then teach the process step by step using simple language, practical examples, common mistakes, best practices, and an action checklist. Create approximately [number] slides. For each slide, provide the headline, key teaching points, an example where useful, and a visual suggestion. Make the presentation practical enough that someone can take action immediately after viewing it.
+
+6. Create a Data or Performance Presentation
+Prompt:
+Create an executive-style presentation from the following performance data: [paste data/results]. The presentation will be shown to [manager/client/team/investors] and its purpose is to explain what happened, why it happened, and what we should do next. Organize the presentation around the most important KPIs, major changes, positive results, problems, trends, possible causes, opportunities, and recommended next actions. Suggest the most suitable chart for each important dataset and write clear takeaway-style slide headlines instead of generic headings such as “Results” or “Data.”
+
+7. Create a Proposal Presentation
+Prompt:
+Turn this proposal into a professional presentation for [client/company]: [describe or paste proposal]. Structure it around their current situation, the main problem, the desired outcome, our recommended solution, how the process will work, deliverables, timeline, expected benefits, pricing or investment if provided, and the next step. Make the presentation focused on the client's needs rather than talking excessively about us. Give me the exact content for every slide and recommend visuals that can make the proposal look clearer and more convincing.
+
+8. Create a Webinar or Workshop Deck
+Prompt:
+Create a presentation for a [30/45/60]-minute webinar or workshop about [topic] for [audience]. Start with a strong hook that explains why people should care, then introduce the problem, teach the most important concepts, show practical examples, provide a step-by-step framework, cover common mistakes, and finish with an action plan and call to action. Tell me approximately how much time to spend on each section. Keep individual slides visually simple, and include suggestions for demonstrations, examples, audience questions, or interactive moments.
+
+9. Create a Product Launch Presentation
+Prompt:
+Create a product launch presentation for [product name]. The product helps [target users] solve [problem] by [how it works]. Build excitement around the problem first, then introduce the product as the solution. Include slides for the major features, benefits, how it works, real-world use cases, comparison with the old way of doing things, proof or testimonials I provide, pricing if available, and a strong final call to action. Write punchy slide headlines and minimal supporting text, and recommend a visual concept for every slide.
+
+10. Improve My Existing Presentation
+Prompt:
+Act as a senior presentation consultant and improve my existing presentation below: [paste slide content]. Review the overall story, slide order, headlines, clarity, repetition, unnecessary information, and persuasiveness. Then rebuild the presentation so every slide communicates one clear idea and naturally leads into the next slide. Rewrite weak titles as strong takeaway headlines, shorten overly long text, identify slides that should be removed or combined, and recommend additional slides only where something important is missing. For every final slide, give me the title, final copy, and recommended visual or layout.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
