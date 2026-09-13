@@ -1,0 +1,39 @@
+
+-------------------------------------------------
+## create notes from YouTube lectures for FREE
+
+1. **YouTube Lecture Summarizer:**
+“Analyze this YouTube lecture and create a complete set of study notes. Extract the main concepts, important explanations, examples, key takeaways, and any practical advice mentioned by the speaker. Organize everything with clear headings and bullet points so I can understand the entire lecture without watching the full video again.”
+
+2. **Exam Preparation Notes:**
+“Turn this YouTube lecture into exam-ready notes. Identify the most important topics, definitions, formulas, theories, and concepts that a student should remember. Create a structured revision sheet with key points, possible exam questions, and quick summaries for faster studying.”
+
+3. **Beginner-Friendly Explanation:**
+“Convert this YouTube lecture into simple notes for a complete beginner. Explain difficult concepts using easy language, real-world examples, and step-by-step explanations. Remove unnecessary details while keeping everything important from the lecture.”
+
+4. **Actionable Learning Guide:**
+“Analyze this YouTube lecture and create an actionable learning guide. Extract the lessons, strategies, frameworks, and practical steps mentioned by the speaker. Organize them into a clear checklist that I can follow and apply in real life.”
+
+5. **Mind Map Creator:**
+“Create a detailed mind map from this YouTube lecture. Identify the central topic, main ideas, supporting concepts, examples, and connections between different sections. Structure it in a way that helps me quickly understand and remember the information.”
+
+6. **Lecture Summary + Key Insights:**
+“Summarize this YouTube lecture into a concise but detailed report. Include the main idea, the most valuable insights, surprising points, important quotes, examples, and the biggest lessons someone should take away after watching this video.”
+
+7. **Research Assistant Notes:**
+“Act as my research assistant and analyze this YouTube lecture. Extract all important information, data points, references, tools, resources, and recommendations mentioned. Create organized research notes that I can use for future projects.”
+
+8. **Create Flashcards:**
+“Turn this YouTube lecture into flashcards for active learning. Create questions and answers based on the most important concepts, definitions, examples, and lessons from the lecture. Make them useful for quick review and memorization.”
+
+9. **Content Repurposing Prompt:**
+“Analyze this YouTube lecture and transform it into multiple content ideas. Create a Twitter/X thread, LinkedIn post, Facebook post, short video ideas, and key talking points based on the most valuable information from the lecture.”
+
+10. **Learn Any Skill From Lecture:**
+“Study this YouTube lecture like a personal tutor. Break down the entire lesson into a step-by-step learning path, explain each concept clearly, highlight mistakes beginners make, and create practice exercises so I can master the topic.”
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
