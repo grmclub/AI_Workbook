@@ -1,0 +1,45 @@
+
+-------------------------------------------------
+## Google has 9 FREE courses you should know
+
+1 - Organize any project with NotebookLM
+Learn how to keep project notes in one place, add sources, use AI to search, summarize faster, and draft new docs.
+Course: https://www.cloudskillsboost.google/.../html_bundles/578719
+
+2 - Gemini Gems as marketing assistants
+Learn how to create, customize, and roll out Gemini Gems for marketing plans, campaigns, and strategy support.
+Course: https://www.cloudskillsboost.google/.../documents/550879
+
+3 - NotebookLM for customer insights
+Save time by using NotebookLM to review hundreds of customer transcripts from a single upload and pull key themes.
+Course: https://www.cloudskillsboost.google/.../documents/550898
+
+4 - Create content with Gemini
+Get past writer’s block using Gemini inside Google Docs to draft, edit, and refine content in one workflow.
+Course: https://www.cloudskillsboost.google/.../documents/557724
+
+5 - Personalized prompting with Google Workspace
+Tailor Gemini responses by bringing your Google Drive files into prompts for more relevant outputs.
+Course: https://www.cloudskillsboost.google/.../documents/556345
+
+6 - Prompting like a Pro with Google Workspace
+Use the Persona, Task, Context, Format framework to write clearer prompts and get more precise Gemini answers.
+Course: https://www.cloudskillsboost.google/.../documents/555684
+
+7 - Write emails faster with Gemini
+Speed up Gmail replies using Gemini’s “Help me write” for polished emails and customer messages.
+Course: https://www.cloudskillsboost.google/.../documents/579146
+
+8 - Market research with NotebookLM
+Move faster on market research by synthesizing feedback, comparing competitors, and generating data-backed content ideas.
+Course: https://www.cloudskillsboost.google/.../html_bundles/579148
+
+9 - Introduction to Generative AI
+Learn what Generative AI is, how it works, and how it differs from traditional machine learning.
+Course: https://www.cloudskillsboost.google/course_templates/536
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
