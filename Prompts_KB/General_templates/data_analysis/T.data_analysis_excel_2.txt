@@ -214,8 +214,58 @@ AI can help with the mechanics.
 Humans bring context, judgment, and strategy.
 Save these 8 prompts for your next spreadsheet.
 
-
 -------------------------------------------------
+## Fix Excel Files
+
+1/ Clean and Fix My Excel File
+
+Prompt:
+Analyze this spreadsheet carefully and clean the data without changing important information. Find duplicate rows, inconsistent formatting, unnecessary spaces, missing values, spelling inconsistencies, incorrect date or number formats, and obvious data-entry mistakes. Fix anything that can be corrected safely. If something is unclear and requires my decision, flag it instead of guessing. Then summarize exactly what you changed.
+
+2/ Analyze My Spreadsheet and Find Important Insights
+
+Prompt:
+Analyze this Excel file as a data analyst. First understand what each column and sheet represents, then identify the most important patterns, trends, unusual changes, top-performing and low-performing areas, and anything else worth my attention. Explain the findings in simple language rather than technical terms. Prioritize insights that could help me make better business or operational decisions, and support important conclusions with numbers from the spreadsheet.
+
+3/ Create a Simple Summary From My Excel Data
+
+Prompt:
+Review this entire Excel file and turn the data into a clear executive summary. Tell me what the spreadsheet contains, the most important numbers, major trends, biggest increases or decreases, unusual results, and anything that deserves attention. Do not overwhelm me with every row. Focus on the information that matters most and explain it so someone who is not an Excel expert can understand it.
+
+4/ Find Errors and Suspicious Data
+
+Prompt:
+Act as a spreadsheet auditor and inspect this Excel file for possible problems. Look for duplicate records, missing information, inconsistent values, impossible or suspicious numbers, incorrect totals, unusual outliers, broken calculations, mismatched categories, and formatting that could cause analysis errors. Do not automatically assume unusual values are wrong. Create a clear list of every potential issue, explain why you flagged it, and tell me what I should check or correct.
+
+5/ Compare Two Sheets or Data Sets
+
+Prompt:
+Compare the relevant sheets or tables in this Excel file and show me exactly what changed between them. Identify new records, removed records, changed values, increases, decreases, and important differences. Match records using the most reliable identifiers available in the spreadsheet. Present the differences clearly, highlight the changes that matter most, and give me a short summary of what happened overall.
+
+6/ Answer Questions From My Excel File
+
+Prompt:
+Study this Excel file carefully and use it as the source for answering my questions. Understand the sheets, column names, categories, dates, and relationships between the data before answering. When I ask a question, calculate or filter the information needed and give me a direct answer with the supporting numbers. Do not invent information that is not present in the file. My question is: [WRITE YOUR QUESTION HERE].
+
+7/ Create a Monthly or Weekly Report
+
+Prompt:
+Turn this spreadsheet into a clear performance report for [WEEK/MONTH/QUARTER]. Calculate the most useful totals, averages, growth rates, changes from the previous period, top performers, weakest performers, and any important trends supported by the data. Organize the report into performance summary, key wins, problems to investigate, important trends, and recommended next actions. Keep the explanation practical and easy to understand.
+
+8/ Organize Messy Data Into a Useful Table
+
+Prompt:
+Review this messy spreadsheet and reorganize it into a clean, analysis-ready table. Determine the proper columns, standardize names and categories, separate information that has been combined incorrectly, remove unnecessary blank rows or columns, normalize dates and numbers, and make the structure consistent. Preserve the original meaning of the data and do not remove information unless it is clearly unnecessary. Explain how you recommend structuring the cleaned version.
+
+9/ Build a Dashboard Plan From My Excel File
+
+Prompt:
+Analyze this Excel file and tell me how to turn it into a useful dashboard. Identify the most important KPIs, metrics, comparisons, filters, and trends that should appear on the dashboard based on the actual data available. Recommend which information should use KPI cards, tables, bar charts, line charts, or other suitable visualizations. Then give me a simple dashboard layout and explain what business question each section would help answer.
+
+10/ Do the Excel Task I Describe Without Making Me Figure Out the Formula
+
+Prompt:
+Act as my Excel assistant. I will describe what I want to accomplish in normal language instead of giving you formulas. Study the uploaded workbook, determine which sheets and columns are relevant, and work out the correct method for getting the result. Explain the result simply and, if a formula, calculation, filter, pivot table, lookup, or other Excel technique is needed, create the exact steps for me. Do not change unrelated data. Here is what I want to do: [DESCRIBE THE TASK IN PLAIN ENGLISH].
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
