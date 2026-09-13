@@ -55,21 +55,21 @@ Download free video templates, stock footage, music, and sound effects for your 
 
 
 -------------------------------------------------------------
-1️/The “Pattern Interrupt” Hook
+1️/The "Pattern Interrupt" Hook
 
-“I am creating a YouTube Short about [Your Topic]. Generate 5 powerful 3 second opening hooks that instantly break the viewer’s attention pattern and force them to stop scrolling.
+"I am creating a YouTube Short about [Your Topic]. Generate 5 powerful 3 second opening hooks that instantly break the viewer’s attention pattern and force them to stop scrolling.
 
 Each hook must: • Be extremely unexpected, bold, or slightly controversial
-• Avoid overused phrases like “Did you know” or “Have you ever”
+• Avoid overused phrases like "Did you know" or "Have you ever"
 • Start in a way that feels like the viewer joined mid conversation or mid action
 • Create instant curiosity or confusion that demands continuation
 • Be short, punchy, and natural for spoken delivery in Shorts
 
-Focus on hooks that feel like interruptions in reality, not introductions to content.”
+Focus on hooks that feel like interruptions in reality, not introductions to content."
 
-2️/The “Retain & Reward” Script
+2️/The "Retain & Reward" Script
 
-“Write a 50 second YouTube Shorts script about [Topic].
+"Write a 50 second YouTube Shorts script about [Topic].
 
 Structure it using the Gap Theory of curiosity:
 
@@ -81,11 +81,11 @@ Rules: • Keep every sentence under 10 words
 • Maintain high energy and fast rhythm
 • No long explanations or storytelling fluff
 • Every line must push retention forward
-• Make the viewer feel they must watch until the end to understand the full idea”
+• Make the viewer feel they must watch until the end to understand the full idea"
 
-3️/The “Contrarian Take”
+3️/The "Contrarian Take"
 
-“Identify the most widely accepted piece of advice in the [Your Niche] industry.
+"Identify the most widely accepted piece of advice in the [Your Niche] industry.
 
 Now create a YouTube Shorts script titled:
 
@@ -104,11 +104,11 @@ Tone: • Confident, direct, slightly provocative
 • Not emotional or clickbait
 • Back every claim with logic or practical reasoning
 
-Goal: Spark discussion, disagreement, and high engagement while still sounding credible and intelligent.”
+Goal: Spark discussion, disagreement, and high engagement while still sounding credible and intelligent."
 
-4️/The “Infinite Loop” Closer
+4️/The "Infinite Loop" Closer
 
-“Script a 45 second YouTube Short about [Topic].
+"Script a 45 second YouTube Short about [Topic].
 
 The script must be designed for maximum rewatchability using an infinite loop structure.
 
@@ -123,11 +123,11 @@ Critical rule: • The final sentence must directly connect back to the opening 
 • It should feel like the video never truly ‘ends’
 • The ending must naturally lead the viewer to restart the video without realizing it
 
-Goal: Create a seamless loop effect that increases watch time, replays, and algorithm performance by making the ending and beginning feel like one continuous cycle.”
+Goal: Create a seamless loop effect that increases watch time, replays, and algorithm performance by making the ending and beginning feel like one continuous cycle."
 
-5️/The “Visual Storyboarder”
+5️/The "Visual Storyboarder"
 
-“Take this YouTube Shorts script: [Paste Script]
+"Take this YouTube Shorts script: [Paste Script]
 
 Break it down into precise 3 second intervals.
 
@@ -146,12 +146,12 @@ Rules: • No generic visuals
 • Avoid repetition in visuals or pacing
 • Design for mobile first viewing and silent autoplay
 
-Goal: Turn a simple script into a high energy visual experience that forces retention and prevents swiping.”
+Goal: Turn a simple script into a high energy visual experience that forces retention and prevents swiping."
 
 
-6️/The “Viral Title & Thumbnail” Duo
+6️/The "Viral Title & Thumbnail" Duo
 
-“I have a YouTube video about [Topic].
+"I have a YouTube video about [Topic].
 
 Generate 10 high performing title ideas and matching thumbnail concepts designed for maximum CTR and curiosity.
 
@@ -173,11 +173,11 @@ For each title, also include:
 • Clear emotional trigger (shock, confusion, curiosity, urgency)
 • Simple composition that is instantly understandable in 1 second
 
-Goal: Maximize click through rate by combining curiosity driven titles with visually powerful, wordless thumbnails that communicate instantly.”
+Goal: Maximize click through rate by combining curiosity driven titles with visually powerful, wordless thumbnails that communicate instantly."
 
-7️/The “Comment Bait” Generator
+7️/The "Comment Bait" Generator
 
-“Review my script: [Paste Script]
+"Review my script: [Paste Script]
 
 Analyze it and identify opportunities to strategically increase comment engagement through intentional discussion triggers.
 
@@ -196,7 +196,7 @@ Rules: • Do NOT introduce factual errors or misinformation
 • Avoid clickbait manipulation that damages trust
 • Maintain authority while still inviting discussion
 
-Goal: Increase comment activity by making viewers feel intelligent for adding their input, correcting, or expanding the idea.”
+Goal: Increase comment activity by making viewers feel intelligent for adding their input, correcting, or expanding the idea."
 
 -------------------------------------------------------------
 PROMPT 1 — Niche & Channel Identity
@@ -262,7 +262,7 @@ Output as a step-by-step production checklist I can reuse every week.
 5 Best AI Video editing tools
 
 1. InVideo AI
-If you’re focused purely on speed and social media, InVideo AI is a standout. This platform takes a text prompt and turns it into a complete video, from writing the script, finding visuals, to adding subtitles, and even creating multilingual voiceovers. It’s the ultimate “set it and forget it” option for busy marketers, educators, or influencers who need polished videos quickly. The free plan does limit how many exports you can make and watermarks your videos, but if you want to see what true AI automation looks like, it’s a great place to start.
+If you’re focused purely on speed and social media, InVideo AI is a standout. This platform takes a text prompt and turns it into a complete video, from writing the script, finding visuals, to adding subtitles, and even creating multilingual voiceovers. It’s the ultimate "set it and forget it" option for busy marketers, educators, or influencers who need polished videos quickly. The free plan does limit how many exports you can make and watermarks your videos, but if you want to see what true AI automation looks like, it’s a great place to start.
 
 2. HeyGen and Syllaby
 HeyGen and Syllaby focus on AI avatars. These tools are perfect if you need a human touch in your content but don’t want to appear on camera yourself. They let you choose from a range of realistic presenters who can read your script with natural lip-syncing and voice modulation. This makes them particularly useful for businesses, training videos, or marketing explainers. Free trials are very limited, often just a minute or two of watermarked video, but they’re a good way to test how AI presenters might fit into your workflow.
@@ -326,7 +326,7 @@ Act as a retention specialist.
 Rewrite my intro in 3 different styles:
 – curiosity-driven
 – bold claim + proof
-– “you’re doing it wrong” angle
+– "you’re doing it wrong" angle
 Then explain which version will perform best and why.
 Intro: [PASTE INTRO]
 
