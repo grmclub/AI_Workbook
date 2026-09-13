@@ -29,7 +29,41 @@ Meaning, intent, grounding, and how dialogue systems are built.
 7.NLP with Deep Learning (CS224N)
 How neural nets power translation, Q&A, summarization, and sentiment.
 → https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D
+-------------------------------------------------------------
+## Stanford’s AI courses are available for FREE
 
+1.Artificial Intelligence (CS221)
+Search, logic, planning, and decision-making, the building blocks of intelligent systems.
+→ https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2
+Stanford CS221: Artificial Intelligence: Principles and Techniques | Autumn 2021
+
+2.Machine Learning (CS229)
+Supervised vs. unsupervised learning, core algorithms, and strong model intuition.
+→ https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+Stanford CS229: Machine Learning led by Andrew Ng | Autumn 2018
+
+3.Deep Learning (CS230)
+Neural networks, CNNs, RNNs, and practical training best practices.
+→ https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
+Stanford CS230: Deep Learning | Autumn 2018
+
+4.Machine Learning Theory (CS229M)
+The math behind learning systems and why models generalize (or don’t).
+→ https://www.youtube.com/playlist?list=PLoROMvodv4rP8nAmISxFINlGKSK4rbLKh
+Stanford CS229M: Machine Learning Theory - Fall 2021
+
+5.Reinforcement Learning (CS234)
+MDPs, Q-learning, and training systems that learn from actions and feedback.
+→ https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX
+
+6.Natural Language Understanding (CS224U)
+Meaning, intent, grounding, and how dialogue systems are built.
+→ https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20
+Stanford CS224U: Natural Language Understanding | Spring 2019
+
+7.NLP with Deep Learning (CS224N)
+How neural nets power translation, Q&A, summarization, and sentiment.
+→ https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D
 
 -------------------------------------------------------------
 ## 6 FR££ Resources Will Help You Understand AI From Scratch
