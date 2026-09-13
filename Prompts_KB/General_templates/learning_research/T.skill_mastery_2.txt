@@ -210,6 +210,48 @@ Wait for my answers, grade me strictly using citations, and list my remaining bl
 10. Break Down Difficult Problems
 "I’m dealing with this problem: [PROBLEM]. Help me separate the symptoms from possible root causes. Identify the information we’re missing, suggest several possible solutions, compare their pros and cons, and rank them by practicality and likely effectiveness. Finish with a clear action plan for the strongest option."
 -------------------------------------------------------------
+## ChatGPT can now help you learn any skill within some days at completely FREE of cost. 
+
+1/ Learn Any Skill From Zero
+Prompt:
+Act as my personal expert mentor and create a complete learning roadmap for [skill name]. Assume I am a complete beginner with no prior knowledge. Break the skill into simple stages, explain what I need to learn first, recommend free resources, give me practical exercises, and create a daily learning schedule so I can become confident in this skill within [time period]. Teach me step by step like a private tutor.
+
+2/ Turn ChatGPT Into a Personal Teacher
+Prompt:
+Act as my personal AI teacher for [subject]. Teach me this topic from beginner to advanced level through interactive lessons. Start with the fundamentals, explain concepts using simple examples, ask me questions to test my understanding, correct my mistakes, and gradually increase the difficulty as I improve. Do not move to the next lesson until I understand the current one.
+
+3/ Find Errors and Suspicious Data
+Prompt:
+Act as a spreadsheet auditor and inspect this Excel file for possible problems. Look for duplicate records, missing information, inconsistent values, impossible or suspicious numbers, incorrect totals, unusual outliers, broken calculations, mismatched categories, and formatting that could cause analysis errors. Do not automatically assume unusual values are wrong. Create a clear list of every potential issue, explain why you flagged it, and tell me what I should check or correct.
+
+4/ Learn Through Projects
+Prompt:
+I want to learn [skill] by building real-world projects instead of only watching tutorials. Create a project-based learning path where each project teaches me important concepts step by step. Start with beginner projects and gradually move to advanced projects. Explain what I will learn from each project, the tools I need, and provide guidance whenever I get stuck.
+
+5/ Create a Skill Mastery Roadmap
+Prompt:
+Analyze the skill of [skill name] and create a complete roadmap from beginner to expert. Divide it into different levels, explain the key concepts I must master at each stage, common mistakes beginners make, important tools to learn, and practical ways to test my progress. Make this roadmap similar to what an experienced professional would follow.
+
+6/ Answer Questions From My Excel File
+Prompt:
+Study this Excel file carefully and use it as the source for answering my questions. Understand the sheets, column names, categories, dates, and relationships between the data before answering. When I ask a question, calculate or filter the information needed and give me a direct answer with the supporting numbers. Do not invent information that is not present in the file. My question is: [WRITE YOUR QUESTION HERE].
+
+7/ Learn Faster Using the 80/20 Method
+Prompt:
+Act as an expert learning strategist. Help me learn [topic] using the Pareto 80/20 principle. Identify the most important concepts, skills, and techniques that will give me the biggest results quickly. Create a focused study plan that removes unnecessary information and helps me become productive with this skill as fast as possible.
+
+8/ Create a Daily Practice Routine
+Prompt:
+Create a daily practice routine to help me master [skill] within [number of days]. Each day should include a short lesson, practical exercise, challenge, and reflection task. Focus on consistent improvement and real-world application instead of just theory. Make the routine achievable even if I only have [time available] per day.
+
+9/ Learn Like an Apprentice
+Prompt:
+Act as a world-class expert in [field] and become my personal mentor. Teach me like you are training an apprentice who wants to become highly skilled. Share the essential knowledge, industry secrets, practical examples, exercises, and thought processes that professionals use. Guide me step by step until I can confidently apply this skill in real situations.
+
+10/ Create a Complete Course
+Prompt:
+Design a complete beginner-friendly course for learning [skill]. Structure it into modules with lessons, explanations, examples, assignments, quizzes, and projects. Make the course practical and focused on helping me achieve a real outcome. Teach each module in a simple way and wait for my response before moving forward.
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
