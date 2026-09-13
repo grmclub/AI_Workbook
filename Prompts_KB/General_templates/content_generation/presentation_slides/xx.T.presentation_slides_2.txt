@@ -89,6 +89,116 @@ Prompt:
 "Create a complete presentation on [TOPIC] from the sources in this notebook. For each slide, provide the slide content followed by concise speaker notes explaining what to say. Make the notes natural, informative, and aligned with the key message of each slide."
 -------------------------------------------------
 
+
+
+1. Start Any Presentation Right
+
+Prompt:
+<role> Act as a presentation coach applying Patrick Winston's MIT framework - every talk must open with an empowerment promise that tells the audience exactly what they will know by the end that they didn't know at the beginning. </role>
+
+<task>Write a powerful opening for my presentation that makes the audience immediately understand why staying is worth every minute of their time. </task>
+
+<steps>
+1. Ask for my presentation topic, audience, and desired outcome before starting
+2. Identify the single most valuable thing my audience will walk away knowing
+3. Write the empowerment promise - specific, outcome-driven, impossible to ignore
+4. Design the first 60 seconds - promise, context, and why this matters now
+5. Flag everything that should be cut from the opening - jokes, thank yous, apologies
+</steps>
+
+<rules>
+• Never open with a joke - audience isn't ready
+• Never open with "thank you for having me" - weak and forgettable
+• Empowerment promise must be specific - not "you'll learn about X" but by the end you'll be able to do Y
+• First 60 seconds must earn the next 60 minutes
+• Cut everything that doesn't serve the promise </rules>
+
+<output>Empowerment Promise -> First 60 Seconds -> What to Cut -> Opening Script</output>
+
+2. Eliminate Your Slide Crimes
+
+Prompt:
+<role>Act as a slide audit expert using a strict MIT-style framework. Identify and remove anything that causes audiences to disengage. </role>
+<task>Review my slides and fix every issue that reduces clarity, focus, or engagement.</task>
+
+<steps>
+1. Pause and ask me to share my slides or describe each one (title, text, visuals). Don't proceed without this.
+2. Evaluate each slide against key issues:
+too many slides, too much text, small fonts, reading slides word-for-word, poor positioning, lack of white space, cluttered backgrounds, weak final slide, and more.
+3. For every issue, specify: slide number, problem, and exact fix.
+4. Redesign the final slide to clearly restate what the audience has learned. 5. Provide a clean summary: what to keep, remove, and improve.
+</steps>
+
+<rules>
+• Every issue must include a clear fix.
+• Minimum font size: 40pt. No exceptions.
+• Final slide must reinforce key takeaways, not "thank you" or "questions."
+• White space improves understanding. Use it intentionally.
+• Slides should support the talk, not replace it.
+</rules>
+
+<output>Slide Audit -> Fixes -> Final Slide Redesign -> Clean Summary</output>
+
+3. Make Your Ideas Unforgettable
+
+Prompt:
+<role>Act as a brand strategist using a proven framework (Symbol, Slogan, Surprise, Salient Idea, Story) to make ideas stick.</role>
+
+<task>Transform my core idea into something memorable that stays with the audience long after the presentation.</task>
+
+<steps>
+1. Pause and ask three questions: (a) core idea in one sentence, (b) target audience, (c) one key takeaway they should remember after a week. Wait for answers.
+2. Symbol: suggest a clear visual or object that instantly represents the idea.
+3. Slogan: create a short, repeatable phrase (under 8 words).
+4. Surprise: highlight a belief the audience holds, then flip it with a counterintuitive truth.
+5. Salient idea: define the ONE core idea that stands above everything else.
+6. Story: write a short narrative (4-6 sentences) explaining how it works and why it matters.
+7. Combine everything into a single, clear summary.
+</steps>
+
+<rules> Keep the symbol visual and specific. Make the slogan simple and repeatable. Ensure the surprise truly challenges assumptions. Focus on one core idea only. Keep the story specific yet relatable. Ask instead of assuming missing details. </rules>
+
+<output>Symbol -> Slogan -> Surprise -> Salient Idea -> Story -> Final Summary</output>
+
+4. Structure Any Talk That Persuades
+
+Prompt:
+<role>Act as a persuasion strategist using a proven framework (vision, proof, contributions) to make any talk convincing and action-driven.</role>
+
+<task>Organize my talk so the audience quickly understands the vision, trusts the work, and clearly remembers the value delivered. </task>
+
+<steps>
+1. Pause and ask three questions: (a) goal of the talk, (b) target audience, (c) one action they should take after. Wait for answers.
+2. Define the vision: clearly state the problem and your unique approach (2-3 sentences).
+3. Show proof: list 3-5 concrete actions that demonstrate real work done.
+4. Write the first 5 minutes word-for-word (600-750 words) to establish credibility and direction.
+5. Create the closing slide: clearly list what the audience now gains.
+6. Map the full structure, ensuring each section reinforces either vision or proof.
+</steps>
+
+<rules> Establish the vision within the first 5 minutes. Use specific actions as proof-not vague claims. Make the opening and closing mirror each other. Keep the contributions slide visible during Q&A. Every part of the talk must support vision or proof. </rules>
+
+<output>Vision -> Proof -> Opening Script -> Contributions -> Full Structure</output>
+
+5. Use Props and Stories to Teach Anything
+
+Prompt:
+<role>Act as a teaching strategist using proven prop and storytelling methods to turn complex ideas into clear, tangible experiences. </role>
+
+<task>Create a prop or demo that makes a difficult concept feel simple and easy to grasp.</task>
+
+<steps>
+1. Pause and ask four questions: (a) the concept to explain, (b) audience, (c) presentation format (in-person/virtual), (d) what confuses people most. Wait for answers.
+2. Define the core confusion in one clear sentence.
+3. Design a physical prop or demo that removes that confusion (adapt for virtual if needed).
+4. Build a 3-part story: tension (the confusion), demonstration (prop in action), resolution (clarity).
+5. Write a 200-300 word script guiding attention, including when to show or use the prop.
+6. Deliver a complete, ready-to-practice teaching flow.
+</steps>
+
+<rules> Use real, physical props. not slides. Start with real confusion before resolving it. Guide attention clearly during the demo. Ensure the demo teaches even if something goes wrong. For virtual, use real objects on camera. </rules>
+
+<output>Confusion -> Prop -> Story -> Script -> Teaching Flow</output>
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
