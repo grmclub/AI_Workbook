@@ -1,0 +1,213 @@
+
+-------------------------------------------------
+Claude can understand your Excel file better than you.
+Here are 7 prompts to do it all 👇
+
+1/ ANALYZE THE ENTIRE WORKBOOK
+<role>
+Act as a senior Excel analyst who can inspect spreadsheets, understand workbook structure, identify important metrics, and explain the data in clear business language.
+</role>
+<task>
+Analyze the Excel file I upload and give me a complete overview of what the workbook contains and what matters most.
+</task>
+<steps>
+1. Inspect every relevant worksheet
+2. Identify what each sheet, table, column, and major calculation appears to represent
+3. Identify the most important KPIs and business metrics
+4. Find trends, spikes, drops, unusual values, and potential anomalies
+5. Identify missing values, duplicate records, inconsistent formatting, or suspicious data
+6. Identify important relationships between sheets
+7. Summarize the 5–10 most important insights
+8. Recommend the next analyses I should run
+</steps>
+<rules>
+- Do not merely describe column names
+- Focus on what the data means
+- Separate confirmed findings from assumptions
+- Flag unclear fields instead of guessing
+- Do not invent missing context
+- Test: would a manager understand the workbook after reading this summary
+</rules>
+<output>
+Workbook Map → Sheet Purposes → Important KPIs → Data Quality Issues → Trends → Anomalies → Key Insights → Recommended Next Analyses
+</output>
+
+2/ FIX MY MESSY DATA
+<role>
+Act as a data-cleaning specialist who audits Excel files for duplicates, missing values, inconsistent categories, formatting problems, broken dates, and unreliable records.
+</role>
+<task>
+Review my workbook and create a safe cleaning plan before any analysis.
+</task>
+<steps>
+1. Inspect the raw data tables
+2. Find duplicate rows and suspicious repeated records
+3. Identify missing or incomplete values
+4. Find inconsistent spelling, categories, capitalization, dates, currencies, and percentages
+5. Identify numbers stored as text or malformed fields
+6. Find impossible or suspicious outliers
+7. Recommend how each issue should be corrected
+8. Create a clean-data checklist in priority order
+</steps>
+<rules>
+- Do not silently change uncertain data
+- Use “needs review” when the correct value cannot be known
+- Preserve raw data before cleaning
+- Explain why each issue matters
+- Separate formatting problems from actual data problems
+- Test: would the cleaned data be reliable enough for reporting
+</rules>
+<output>
+Duplicate Issues → Missing Data → Formatting Problems → Category Inconsistencies → Outliers → Recommended Fixes → Cleaning Checklist
+</output>
+
+3/ WRITE THE EXACT FORMULAS FOR ME
+<role>
+Act as an Excel formula expert who creates accurate formulas based on the actual workbook structure and desired calculation.
+</role>
+<task>
+Write the exact Excel formulas I need and explain where each one should go.
+</task>
+<steps>
+1. Inspect the workbook or ask me to identify the relevant sheets, columns, and calculation goal
+2. Determine what each formula needs to calculate
+3. Choose the most appropriate Excel functions
+4. Write the exact copy-paste-ready formula
+5. Specify the cell, column, or table where it belongs
+6. Add error handling where appropriate
+7. Explain the formula in plain English
+8. Provide an alternative formula if there is a simpler or more compatible approach
+</steps>
+<rules>
+- Do not give generic examples when the workbook provides real references
+- Use structured references when appropriate
+- Prefer readable formulas over unnecessarily complex formulas
+- Do not hide errors with IFERROR unless that behavior makes sense
+- Test: could I paste this formula directly into my workbook
+</rules>
+<output>
+Calculation Needed → Exact Formula → Placement → Explanation → Error Handling → Alternative Formula
+</output>
+
+4/ FIND BROKEN OR SUSPICIOUS FORMULAS
+<role>
+Act as an Excel formula auditor who finds broken references, inconsistent formulas, logic errors, hidden hard-coded values, and calculation risks.
+</role>
+<task>
+Audit the formulas in my workbook and identify anything that may be producing incorrect results.
+</task>
+<steps>
+1. Inspect formula patterns across rows, columns, and sheets
+2. Find #REF!, #VALUE!, #DIV/0!, #N/A, circular references, and other calculation errors
+3. Identify formulas that unexpectedly differ from neighboring cells
+4. Detect hard-coded numbers inside formulas where references should likely be used
+5. Identify incorrect absolute or relative references
+6. Check lookup formulas for missing or duplicate matches
+7. Identify fragile formulas that may break as the workbook grows
+8. Recommend safer replacements
+</steps>
+<rules>
+- Do not assume every unusual formula is wrong
+- Explain why a formula is suspicious
+- Preserve intended business logic
+- Flag uncertainty when workbook context is missing
+- Prioritize errors that materially affect important outputs
+- Test: would this catch mistakes that could change a business decision
+</rules>
+<output>
+Formula Errors → Inconsistent Formulas → Hard-Coded Values → Reference Problems → Lookup Risks → Fragile Logic → Recommended Fixes
+</output>
+
+5/ FIND THE HIDDEN INSIGHTS
+<role>
+Act as a senior data analyst who finds patterns, opportunities, risks, and business insights hidden inside spreadsheets.
+</role>
+<task>
+Analyze my workbook and find insights that are not obvious from looking at the raw numbers.
+</task>
+<steps>
+1. Understand the business question behind the dataset
+2. Segment the data by relevant dimensions such as time, customer, product, region, salesperson, channel, or category
+3. Compare performance across segments
+4. Identify trends, anomalies, concentration risks, and underperforming areas
+5. Identify the strongest drivers of growth or decline
+6. Look for relationships worth investigating further
+7. Rank findings by business impact
+8. Convert the findings into practical actions
+</steps>
+<rules>
+- Do not force patterns where the evidence is weak
+- Separate correlation from causation
+- Do not judge performance from one metric alone
+- Quantify insights where possible
+- Make every recommendation traceable to the data
+- Test: would this reveal something useful that was easy to miss manually
+</rules>
+<output>
+Key Segments → Performance Differences → Hidden Patterns → Risks → Opportunities → Growth Drivers → Ranked Insights → Recommended Actions
+</output>
+
+6/ BUILD MY EXECUTIVE DASHBOARD
+<role>
+Act as an Excel dashboard strategist who turns raw spreadsheet data into a clean, decision-ready management dashboard.
+</role>
+<task>
+Design the ideal dashboard for this workbook.
+</task>
+<steps>
+1. Ask who will use the dashboard and what decisions they need to make
+2. Identify the 5–10 KPIs that deserve visibility
+3. Identify comparisons, trends, and exceptions that matter
+4. Recommend KPI cards, charts, tables, filters, and conditional formatting
+5. Choose the best chart type for each insight
+6. Design the page layout in order of importance
+7. Identify formulas, pivot tables, or source tables needed to power the dashboard
+8. Write takeaway-style titles for each visual
+</steps>
+<rules>
+- Do not turn every field into a chart
+- Do not use visuals for decoration
+- Keep the dashboard understandable in under 60 seconds
+- Prioritize decisions, not data density
+- Avoid misleading chart choices
+- Test: could an executive tell what needs attention without opening the raw sheets
+</rules>
+<output>
+Dashboard Audience → Key Decisions → KPI Cards → Recommended Charts → Filters → Dashboard Layout → Supporting Calculations → Executive Takeaway Titles
+</output>
+
+7/ TURN THE WORKBOOK INTO AN EXECUTIVE REPORT
+<role>
+Act as an executive reporting analyst who converts spreadsheet data into a concise report explaining what happened, why it matters, and what should happen next.
+</role>
+<task>
+Analyze my workbook and create a decision-ready executive report.
+</task>
+<steps>
+1. Identify the reporting period, audience, and business objective
+2. Extract the most important KPIs
+3. Compare current performance with previous periods, targets, budgets, or benchmarks when available
+4. Identify the largest positive and negative changes
+5. Explain the likely drivers supported by the data
+6. Highlight risks and opportunities
+7. Identify the decisions leadership should consider
+8. Write a concise executive summary
+9. Create a list of recommended next actions
+</steps>
+<rules>
+- Do not dump raw spreadsheet data into the report
+- Focus on decision-relevant findings
+- Use numbers only when they strengthen the point
+- Separate evidence from interpretation
+- Flag missing benchmarks or context
+- Test: would leadership know what changed and what to do next
+</rules>
+<output>
+Executive Summary → KPI Snapshot → Major Changes → Drivers → Risks → Opportunities → Decisions Needed → Recommended Actions
+</output>
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
