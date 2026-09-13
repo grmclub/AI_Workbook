@@ -113,15 +113,204 @@ Create a realistic personal branding photo using the uploaded image as the ident
 10/ Travel Magazine Portrait
 Use the uploaded photo as the identity reference to create a realistic travel magazine portrait of me at [DESTINATION OR LANDMARK]. Preserve my facial structure, skin tone, age, hairstyle, and body proportions. Dress me in [OUTFIT] appropriate for the local weather and setting. Show me [POSE OR ACTIVITY] with a relaxed expression, using natural [TIME OF DAY] lighting. Keep enough background detail visible to recognize the destination, with accurate architecture, scale, and perspective. Match the light on my face and clothing to the surroundings, including realistic contact shadows and any wind affecting my hair or clothes. Retain natural skin texture and balanced colors. Avoid exaggerated scenery, heavy beauty retouching, artificial blur, and invented landmarks. Do not add text, borders, or watermarks.
 
+-------------------------------------------------
+🚨 STOP TELLING CHATGPT: “EDIT MY PHOTO.”
+That’s why your photos often end up looking AI-generated.
+Use these 5 prompts instead 👇
 
+1. The Natural Retouch Prompt
+#CONTEXT:
+You are a professional high-end photo retoucher specializing in realistic portrait enhancement. Your job is to improve the image while preserving the person’s real identity, facial structure, natural skin texture, proportions, expression, age, and distinguishing features.
+The finished image must still look like the original photograph taken with a real camera—not a regenerated AI portrait.
+#ROLE:
+Act as a professional beauty retoucher, portrait photographer, and color-grading specialist. Make only controlled edits that improve the existing image. Do not redesign the person.
+#TASK:
+Retouch the attached photo naturally.
+Improve:
+[SKIN / LIGHTING / HAIR / EYES / COLOR / SHARPNESS / OTHER]
+Desired final look:
+[DESCRIBE_DESIRED_LOOK]
+#TASK CRITERIA:
+1. Preserve the exact identity, face shape, eye shape, nose, lips, jawline, hairline, body proportions, pose, expression, and overall composition.
+2. Keep real skin texture, pores, subtle lines, natural shadows, and small imperfections. Remove only temporary distractions such as [BLEMISHES / FLYAWAY_HAIRS / MINOR_MARKS].
+3. Do not create plastic skin, unnaturally perfect symmetry, exaggerated eyes, overly sharp facial features, or artificial facial reconstruction.
+4. Improve exposure, contrast, white balance, and color while keeping believable skin tones.
+5. Enhance detail gently. Do not create fake texture or oversharpen the image.
+6. Keep clothing, accessories, background, and other objects unchanged unless specifically requested.
+7. The result should look like professional manual retouching in Lightroom or Photoshop.
+#INFORMATION ABOUT THE PHOTO:
+Photo type: [PORTRAIT / SELFIE / PROFESSIONAL / LIFESTYLE]
+Lighting conditions: [LIGHTING]
+Main issue I want fixed: [ISSUE]
+Retouching intensity: [VERY SUBTLE / NATURAL / POLISHED]
+Areas that must not change: [AREAS_TO_PRESERVE]
+#FINAL REQUIREMENT:
+Before editing, treat the original image as the source of truth. Improve it rather than recreating it. If an edit would noticeably change the subject’s identity or make the photograph look synthetic, do not make that edit.
 
+2. The Professional Lighting & Color Correction Prompt
+#CONTEXT:
+You are a professional photographer and colorist correcting an existing photograph. Your objective is to make the image look as though it was captured under better lighting conditions without changing the person, objects, environment, or photographic realism.
+#ROLE:
+Act as a Lightroom colorist, commercial photographer, and image-finishing expert. Think in terms of exposure, highlight recovery, shadow detail, white balance, tonal separation, natural contrast, and realistic color.
+#TASK:
+Improve the lighting and color of the attached photo.
+Desired visual mood:
+[BRIGHT AND CLEAN / CINEMATIC / WARM / COOL / LUXURY / NATURAL / EDITORIAL]
+Reference feeling:
+[DESCRIBE_REFERENCE_STYLE]
+#TASK CRITERIA:
+1. Preserve every person, facial feature, object, texture, and element in the original photograph.
+2. Correct exposure without blowing out highlights or crushing shadow detail.
+3. Fix white balance and remove unwanted color casts while maintaining realistic skin tones.
+4. Improve contrast and tonal depth while avoiding exaggerated HDR effects.
+5. Enhance colors selectively rather than oversaturating the whole image.
+6. Maintain realistic light direction. Do not invent dramatic light sources that conflict with the original scene.
+7. Preserve natural skin, hair, fabric, background, and environmental colors.
+8. Do not change facial features, body shape, clothing, hairstyle, pose, or expression.
+#INFORMATION ABOUT MY EDIT:
+Current problem: [TOO DARK / TOO BRIGHT / YELLOW CAST / FLAT COLORS / OTHER]
+Desired mood: [MOOD]
+Desired brightness: [LOW / MEDIUM / HIGH]
+Desired contrast: [SOFT / NATURAL / STRONG]
+Elements that must remain identical: [ELEMENTS]
+#FINAL REQUIREMENT:
+Make the photo look professionally color-corrected, not AI-generated. The final image should feel like the same photograph after expert Lightroom and Photoshop adjustments.
+
+3. The Clean Background Editor Prompt
+#CONTEXT:
+You are a professional Photoshop retoucher specializing in realistic background cleanup and modification. Your job is to improve or replace distracting parts of a photograph while leaving the foreground subject completely unchanged.
+#ROLE:
+Act as a commercial image editor and compositing specialist. Prioritize realistic edges, correct perspective, believable lighting, natural shadows, and consistency with the original camera image.
+#TASK:
+Edit the background of the attached photograph.
+Current background issue:
+[DESCRIBE_ISSUE]
+Requested change:
+[REMOVE_DISTRACTIONS / CLEAN_BACKGROUND / REPLACE_BACKGROUND / BLUR_BACKGROUND / CHANGE_COLOR]
+Desired background:
+[DESCRIBE_BACKGROUND]
+#TASK CRITERIA:
+1. Keep the foreground person or object exactly as it appears in the source image.
+2. Preserve hair strands, clothing edges, hands, fingers, accessories, shadows, reflections, and fine details.
+3. Do not change facial features, body shape, expression, pose, clothing, or skin tone.
+4. Remove only the background elements I specifically identify: [ELEMENTS_TO_REMOVE].
+5. If replacing the background, match the original perspective, camera height, focal length, depth of field, light direction, and color temperature.
+6. Keep natural contact shadows and reflections so the subject does not appear pasted onto the scene.
+7. Avoid artificial halos, overly smooth cutout edges, warped objects, duplicated textures, or obviously generated background elements.
+8. Preserve the original image dimensions and framing unless I explicitly request otherwise.
+#INFORMATION ABOUT MY EDIT:
+Subject to preserve: [SUBJECT]
+Elements to remove: [ELEMENTS]
+Background replacement: [BACKGROUND_DESCRIPTION]
+Desired depth of field: [SHARP / SLIGHTLY BLURRED / STRONG BOKEH]
+Image dimensions to preserve: [DIMENSIONS]
+#FINAL REQUIREMENT:
+The edited photograph must look like the subject was genuinely photographed in the final environment. Do not regenerate or reinterpret the foreground subject.
+
+4. The Precise Object Removal / Replacement Prompt
+#CONTEXT:
+You are a professional photo manipulation artist performing a targeted edit on an existing image. Only the requested object or area should change. Everything else must remain visually identical to the original photograph.
+#ROLE:
+Act as a precision Photoshop editor and realistic compositing specialist. Treat this as a localized modification rather than an image regeneration.
+#TASK:
+In the attached photo, modify only this element:
+[OBJECT_OR_AREA]
+Requested action:
+[REMOVE / REPLACE / ADD / RECOLOR / MODIFY]
+Replace it with or change it to:
+[DESIRED_CHANGE]
+#TASK CRITERIA:
+1. Do not alter anything outside the specified edit area unless required to make the modification physically believable.
+2. Preserve the person’s identity, face, hair, body, expression, pose, clothing, skin texture, and proportions exactly.
+3. Preserve all unrelated objects, text, logos, background details, framing, and image dimensions.
+4. Match the replacement object to the original scene’s perspective, scale, depth, lighting, shadows, reflections, grain, and sharpness.
+5. Reconstruct the area behind removed objects naturally using surrounding visual information.
+6. Do not redesign nearby elements or “improve” parts of the photograph I did not request.
+7. Avoid warped geometry, incorrect shadows, duplicated patterns, strange textures, or visual artifacts.
+#INFORMATION ABOUT THE EDIT:
+Object to modify: [OBJECT]
+Exact requested change: [CHANGE]
+Elements that must remain untouched: [PRESERVE]
+Original image size: [SIZE]
+Desired realism level: PHOTOREALISTIC
+#FINAL REQUIREMENT:
+Make the smallest possible edit required to achieve my request. The finished image should look identical to the original everywhere except the specific area I asked you to change.
+
+5. The Realistic High-Resolution Enhancement Prompt
+#CONTEXT:
+You are a professional image restoration and enhancement specialist. Your job is to improve clarity, resolution, detail, and overall image quality without changing the underlying photograph.
+High resolution does not mean inventing new facial details or creating an artificially sharpened image. Preserve the original information and enhance it conservatively.
+#ROLE:
+Act as a professional photo restoration artist, sharpening specialist, noise-reduction expert, and print-production technician.
+#TASK:
+Enhance the attached photograph for maximum clarity and professional-quality output.
+Target quality:
+[4K / 8K / HIGH-RESOLUTION PRINT]
+Main issues:
+[BLUR / NOISE / COMPRESSION / LOW RESOLUTION / SOFT DETAILS / OTHER]
+#TASK CRITERIA:
+1. Preserve the exact face, identity, body proportions, expression, hairstyle, clothing, background, objects, composition, crop, and aspect ratio.
+2. Improve perceived detail and edge clarity without changing shapes or reconstructing facial features.
+3. Reduce digital noise, JPEG artifacts, pixelation, and compression damage while retaining natural texture.
+4. Preserve skin pores, hair strands, fabric detail, and fine environmental texture.
+5. Avoid excessive sharpening, artificial outlines, waxy skin, fake eyelashes, invented hair strands, or synthetic-looking facial details.
+6. Improve contrast and tonal clarity only where necessary.
+7. Maintain the photograph’s original grain and camera character where appropriate.
+8. Do not crop, resize the composition, remove elements, add elements, or modify text unless specifically requested.
+#INFORMATION ABOUT MY IMAGE:
+Current resolution: [CURRENT_RESOLUTION]
+Target resolution: [TARGET_RESOLUTION]
+Primary use: [SOCIAL MEDIA / PRINT / WEBSITE / ADVERTISING]
+Areas needing the most improvement: [AREAS]
+Elements that must remain completely unchanged: [ELEMENTS]
+#FINAL REQUIREMENT:
+Enhance the original photograph rather than recreating it. The final result should look like a cleaner, higher-quality version of the same camera image—not an AI interpretation of it.
 
 -------------------------------------------------
--------------------------------------------------
--------------------------------------------------
--------------------------------------------------
--------------------------------------------------
+🚨WOW! ChatGPT 6 Astra can now turn your worst photos into professional-looking shots in secs
+Here're 6 prompts make it possible👇
 
+1. Sharpen Blurry Portraits
+Enhance this blurry portrait into a sharp, high-quality, photorealistic image.
+Restore natural facial detail and accurate focus, improve overall clarity, refine lighting and contrast, reduce blur, noise, compression artifacts, and softness, and recover realistic fine details in the eyes, hair, skin, and clothing.
+Preserve the subject’s exact identity and appearance. Do not alter facial structure, facial features, face shape, skin tone, skin texture, expression, age, hairstyle, body proportions, or any identifying characteristics.
+Avoid beauty filters, facial reconstruction, artificial skin smoothing, over-sharpening, invented details, or stylization. The final result should look like the same original photograph captured with a high-quality professional camera in perfect focus.
+
+2. Correct Harsh Lighting
+Correct the harsh, uneven, or unflattering lighting in this photo and transform it into a polished, professional studio-quality portrait.
+Balance highlights, shadows, exposure, contrast, and color temperature while restoring natural skin tones and realistic tonal range. Soften overly bright areas, recover detail in deep shadows, and add natural depth and dimension without making the image look flat or artificially processed.
+Preserve the subject’s exact identity and appearance. Do not alter facial structure, facial features, face shape, skin tone, skin texture, expression, age, hairstyle, body proportions, or any identifying characteristics.
+Avoid beauty filters, excessive skin smoothing, artificial relighting, blown highlights, crushed shadows, dramatic color shifts, or stylization. The final result should look like the same original photograph captured under soft, balanced, professional studio lighting.
+
+3. Polish Casual Photos
+Transform this casual photo into a polished, professional-looking image while keeping it natural, realistic, and true to the original moment.
+Refine the lighting, exposure, contrast, white balance, and overall color harmony. Improve composition where appropriate, enhance clean detail and sharpness, reduce distracting visual imperfections, and give the background a subtle, realistic professional treatment without making it look artificial or heavily edited.
+Preserve the subject’s exact identity and appearance. Do not alter facial structure, facial features, face shape, skin tone, skin texture, expression, age, hairstyle, body proportions, pose, or any identifying characteristics.
+Avoid beauty filters, facial reshaping, excessive skin smoothing, unrealistic background replacement, over-processing, dramatic color grading, or stylization. The final result should look like the same original photograph captured and finished by a professional photographer.
+
+4. Replace Distracting Backgrounds
+Replace the distracting or cluttered background with a clean, realistic, professional setting that naturally complements the subject and fits the original image.
+Maintain the original camera perspective, framing, depth, and spatial relationships. Carefully match the new background’s lighting direction, exposure, color temperature, shadows, reflections, depth of field, and overall color balance so the subject integrates seamlessly and convincingly into the scene.
+Preserve the subject’s exact identity and appearance. Do not alter facial structure, facial features, face shape, skin tone, skin texture, expression, age, hairstyle, body proportions, pose, clothing, or any identifying characteristics.
+Avoid artificial cutout edges, mismatched lighting, unrealistic blur, incorrect shadows, warped perspective, excessive background detail, or stylization. The final result should look like the subject was originally photographed in that professional environment, with no visible signs of background replacement.
+
+5. Restore Poor Images
+Restore this low-quality photo into a crisp, clean, professional-looking image while maintaining a natural and photorealistic result.
+Reduce noise, grain, blur, compression artifacts, pixelation, and unwanted softness. Recover realistic fine detail, improve focus and sharpness, correct exposure and white balance, restore balanced colors, refine contrast, and enhance overall image clarity without creating artificial or invented detail.
+Preserve the subject’s exact identity and appearance. Do not alter facial structure, facial features, face shape, skin tone, skin texture, expression, age, hairstyle, body proportions, pose, clothing, or any identifying characteristics.
+Avoid beauty filters, facial reconstruction, excessive skin smoothing, over-sharpening, unnatural textures, aggressive HDR effects, unrealistic color correction, or stylization. The final result should look like the same original photograph restored and professionally refined at high quality.
+
+6. Achieve Cinematic Results
+Transform this photo into a refined, cinematic-quality image that looks naturally captured with a professional full-frame camera and premium lens.
+Enhance realistic sharpness, micro-detail, dynamic range, lighting balance, tonal depth, and color separation while preserving natural skin tones. Introduce subtle, optically realistic background separation and depth of field where appropriate, with smooth focus falloff and natural subject isolation rather than artificial blur.
+Preserve the subject’s exact identity and appearance. Do not alter facial structure, facial features, face shape, skin tone, skin texture, expression, age, hairstyle, body proportions, pose, clothing, or any identifying characteristics.
+Avoid excessive cinematic grading, artificial bokeh, over-sharpening, beauty filters, skin smoothing, facial reconstruction, dramatic relighting, unrealistic contrast, or stylization. The final result should look like the same original photograph captured professionally with premium optics, balanced natural lighting, and subtle cinematic polish.
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 
 
 
