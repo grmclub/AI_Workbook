@@ -77,7 +77,6 @@ keep adapting the questions until you've verified my understanding.
 finish by creating a personalized revision plan based only on the areas i still need to improve.
 
 -------------------------------------------------
-
 🚨 BREAKING: ChatGPT 6 Astra is insanely good at using your computer on its own, yet many people are still doing everything themselves.
 Here are 10 prompts worth trying that could save you hours
 
@@ -111,72 +110,9 @@ Here are 10 prompts worth trying that could save you hours
 10. The meeting prep assistant.
 "Check my calendar for tomorrow, open the files and emails linked to each meeting, and give me a short briefing before each one. Include who I am meeting, what we talked about before, what I need to prepare, and the three best questions to ask."
 
-
 -------------------------------------------------
-## 10 ChatGPT prompts to boost critical thinking and productivity
-
-1. Set Clear Goals 🎯
-"I want to achieve [SPECIFIC GOAL]. Help me turn this goal into a realistic step-by-step action plan. Break it down into clear milestones, daily or weekly actions, deadlines, potential obstacles, and measurable ways to track my progress. Keep the plan practical and achievable."
-
-2. Simplify Complex Ideas 🧠
-"Explain [TOPIC] in simple terms that a 12-year-old could understand. Break the concept into the most important ideas, use relatable examples and analogies, avoid unnecessary jargon, and finish with a short summary and 3 questions to test my understanding."
-
-3. Write Better Tutorials ✍️
-"Create a beginner-friendly guide to using ChatGPT. Explain the key concepts, show practical examples, share best practices, common mistakes to avoid, and provide actionable tips. Keep it clear, engaging, and easy to follow in under 500 words."
-
-4. Generate Your Own Prompts ⚡
-"You are an expert AI coach for [YOUR PROFESSION]. Identify the tasks where ChatGPT could save me the most time or improve my results. Then create 10 powerful, practical prompts I can use in my daily work. Make each prompt specific, detailed, and ready to copy and paste."
-
-5. Identify Knowledge Gaps 🔍
-"I’m studying [SUBJECT]. Act as my personal tutor and assess my current knowledge. Ask me questions one at a time, starting with basic concepts and gradually increasing the difficulty. After my answers, identify my knowledge gaps, explain what I misunderstood, and recommend what I should study next."
-
-6. Master a New Skill ⚡
-"I want to learn [DESIRED SKILL] from beginner to a practical level in 30 days. Create a structured daily learning plan with lessons, exercises, practice tasks, useful resources, and weekly milestones. Focus on hands-on learning and include a way to measure my progress each week."
-
-7. Become an Expert Researcher 📚
-"I’m creating a report about [TOPIC]. Help me research this subject thoroughly and organize the information into a clear, logical structure that non-experts can understand. Identify the most important questions, key concepts, opposing viewpoints, supporting evidence, and areas that require further research."
-
-8. Make Better Decisions 💡
-"I need to make a decision about [DECISION]. Act as an objective decision-making advisor. Ask me the most important questions first, then analyze my options based on benefits, risks, costs, long-term consequences, and opportunity costs. Give me a clear comparison and recommend the strongest option with your reasoning."
-
-9. Think Like an Expert 🧩
-"I want to understand [TOPIC] at an expert level. Teach me how experts think about this subject, including the fundamental principles, mental models, common misconceptions, and important patterns. Start with the basics, then gradually increase the complexity and give me real-world examples and exercises."
-
-10. Solve Problems Like an Expert 🔥
-"I’m facing this problem: [DESCRIBE PROBLEM]. Analyze it step by step and identify the root cause rather than just the symptoms. Give me several possible solutions, explain the pros and cons of each, rank them by effectiveness and practicality, and create a clear action plan for implementing the best solution."
-
 -------------------------------------------------
-10 GPT-6 Astra Prompts to Think Smarter & Work Faster 👇
-
-1. Turn Goals Into a Plan
-"I want to achieve [GOAL]. Turn it into a realistic action plan with clear milestones, weekly actions, deadlines, likely obstacles, and measurable ways to track progress. Prioritize the steps that will have the biggest impact."
-
-2. Understand Anything Faster
-"Teach me [TOPIC] as if I’m a complete beginner. Break it into the few ideas I need to understand first, use simple examples and analogies, and avoid unnecessary jargon. Finish with a quick summary and 3 questions to test what I learned."
-
-3. Create Better Tutorials
-"Create a beginner-friendly tutorial for [TOPIC]. Walk me through it step by step with practical examples, best practices, common mistakes, and actionable tips. Keep it clear, useful, and under 500 words."
-
-4. Generate Prompts for Your Job
-"Act as an AI productivity coach for [PROFESSION]. Identify 10 tasks where ChatGPT could help me save time, organize my work, or improve my output. Then create one detailed, copy-and-paste prompt for each task."
-
-5. Find What You Don’t Know
-"I’m learning [SUBJECT]. Test my knowledge by asking one question at a time, starting easy and getting progressively harder. Based on my answers, identify gaps or misunderstandings, explain them clearly, and tell me what I should study next."
-
-6. Learn a Skill in 30 Days
-"I want to improve at [SKILL] over the next 30 days. Build a realistic daily learning plan with short lessons, hands-on exercises, practice projects, useful resources, and weekly milestones. Include a simple way to measure my progress."
-
-7. Research Any Topic Deeper
-"I’m researching [TOPIC]. Build a research framework that covers the key questions, major concepts, credible evidence, competing viewpoints, uncertainties, and areas that need more investigation. Organize everything into a logical structure for a non-expert audience."
-
-8. Make Smarter Decisions
-"I need to decide between [OPTIONS]. First, ask me the questions needed to understand my priorities and constraints. Then compare each option by benefits, risks, costs, tradeoffs, opportunity costs, and long-term consequences. Recommend the strongest option based on the information available and explain why."
-
-9. Learn How Experts Think
-"Teach me how experienced professionals think about [TOPIC]. Explain the fundamental principles, useful mental models, common misconceptions, important patterns, and real-world applications. Start simple, increase the complexity gradually, and give me exercises to apply what I learn."
-
-10. Break Down Difficult Problems
-"I’m dealing with this problem: [PROBLEM]. Help me separate the symptoms from possible root causes. Identify the information we’re missing, suggest several possible solutions, compare their pros and cons, and rank them by practicality and likely effectiveness. Finish with a clear action plan for the strongest option."
+-------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
