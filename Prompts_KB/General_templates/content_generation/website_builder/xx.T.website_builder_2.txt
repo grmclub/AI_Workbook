@@ -245,13 +245,66 @@ Use these 8 prompts to create premium websites with better structure, copy and U
 8. Complete Website Copy
 "Create the copy for my [business type] website using this information: Business: [description]. Audience: [target audience]. Offer: [product/service]. Goal: [goal]. Location/market: [market]. Tone: [tone]. Differentiator: [differentiator]. Write the homepage, services or product section, About page, CTAs, FAQ, Contact page, navigation labels, form text, and footer. Keep the language consistent and specific. Every claim must be supported by the information I provide. Do not invent testimonials, statistics, awards, certifications, customer numbers, guarantees, or results. Mark missing information as [NEEDS INPUT]."
 
+-------------------------------------------------
+## ChatGPT can now build a complete website as you hired a pro developer. 
 
+1/ Plan Your Website
+
+Prompt:
+Act as a senior website strategist. I want a website for [business/project] that helps [target audience] take this action: [buy, book, subscribe, or contact me]. My offer is [details], and my required features are [list]. Ask me up to 5 essential questions, then create a practical website brief covering the pages, navigation, user journey, and sections each page needs. Recommend the simplest technical approach that supports my requirements. Keep the scope realistic and use this brief as the reference for every next step.
+
+2/ Create the Visual Design
+
+Prompt:
+Act as a professional web designer and create a clear visual direction based on our website brief. My preferred style is [minimal, premium, bold, playful], and my brand colors are [colors or choose for me]. Define the typography, color palette, spacing, buttons, cards, navigation, and image style. Explain how the homepage should look on desktop and mobile. Prioritize readable text, strong contrast, clear hierarchy, and a distinctive layout that fits my business. Turn these choices into reusable design tokens for implementation.
+
+3/ Write the Website Copy
+
+Prompt:
+Act as a website copywriter and write the complete copy for the pages in our brief. Explain what I offer, who it helps, and why visitors should care using simple, specific language. Include headlines, supporting text, benefits, calls to action, FAQs, and helpful button labels. Match this brand voice: [describe tone]. Avoid vague claims, jargon, and repetitive wording. Do not invent testimonials, customer numbers, credentials, or guarantees. Mark missing business information with clear placeholders and organize the copy by page and section.
+
+4/ Build the Homepage
+
+Prompt:
+Act as a senior frontend developer and build the homepage using our approved brief, visual design, and copy. Use [preferred technology, or the simplest suitable option]. Implement the navigation, hero section, relevant content sections, primary call to action, and footer. Make the layout responsive and use semantic HTML, accessible controls, and reusable components. Use real content from our conversation and clearly labeled placeholders where assets are missing. Create the project files if your environment supports it; otherwise provide complete code with filenames and simple instructions to run it.
+
+5/ Build the Remaining Pages
+
+Prompt:
+Continue working in the existing project and build the remaining pages from our website brief. Reuse the same header, footer, typography, buttons, and layout components so the website feels consistent. Give each page the content and sections needed for its purpose instead of repeating the homepage. Connect navigation links, add clear active states, and create a helpful 404 page. Make sure internal links point to real routes and direct page visits work. Preserve the features already built and explain any setup needed for routing.
+
+6/ Add Working Features
+
+Prompt:
+Implement these website features in the existing project: [contact form, booking, search, newsletter signup, or other features]. Make each interaction work beyond its appearance. For forms, include appropriate validation, accessible labels, loading states, and clear success and error messages. If a feature needs an external service, explain the available approach and what configuration I must provide. Never display a success message unless the action actually succeeds. Keep credentials out of frontend code, validate submissions on the server where needed, and clearly identify anything that remains a demo.
+
+7/ Perfect the Mobile Experience
+
+Prompt:
+Review the existing website as a mobile UX specialist and fix its usability across phone, tablet, and desktop sizes. Check for horizontal scrolling, cramped sections, tiny text, difficult tap targets, broken menus, awkward image crops, and overflowing forms. Make navigation keyboard-accessible, add visible focus states, respect reduced-motion preferences, and ensure content remains usable when zoomed. Implement the fixes while preserving our design direction. If you can preview the site, inspect representative screen sizes; otherwise explain what I should check manually.
+
+8/ Improve SEO and Loading Speed
+
+Prompt:
+Act as a technical SEO and performance specialist and improve the existing website. Add accurate page titles, meta descriptions, a logical heading structure, descriptive image alt text, and social-sharing metadata. Configure canonical URLs, a sitemap, and robots.txt using my production domain [domain], or mark that value as pending. Add structured data only where it accurately reflects the site. Optimize images, reserve their layout space, reduce unnecessary scripts, and avoid lazy-loading the main hero image. Implement the changes and distinguish measured improvements from recommendations you could not test.
+
+9/ Test and Fix the Website
+
+Prompt:
+Act as a QA engineer and audit the complete website before launch. Test the main visitor journeys, navigation, forms, buttons, page routes, keyboard access, and mobile layouts. Check for broken links, missing assets, console errors, unfinished placeholders, and exposed secrets. Use the testing tools available in your environment and fix the problems you find. Add useful automated checks for important functionality where appropriate. Retest the fixes, then report what passed, what failed, and what you could not verify. Do not claim a test passed unless you actually ran it.
+
+10/ Prepare for Launch
+
+Prompt:
+Act as a deployment engineer and prepare this website for launch on [hosting provider, or recommend a suitable option]. Check the production build and required configuration, then create a beginner-friendly guide covering deployment, environment variables, connecting [domain], HTTPS, and testing the live website. Keep real credentials out of the code and examples. Explain how to update content and restore the previous version if an update breaks something. Complete the preparation you can perform, flag any remaining blockers, and clearly distinguish a deployment-ready project from a website that is actually live.
 
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
-
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 
 
 
