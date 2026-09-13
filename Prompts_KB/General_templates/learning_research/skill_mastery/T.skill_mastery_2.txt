@@ -387,6 +387,43 @@ Workflow Steps:
     3. Look for Clarity: Find blind spots before adding another meeting.
 
 -------------------------------------------------------------
+## GETTING STARTED WITH CLAUDE LEARNING MODE
+Workflow:
+Getting started with Claude Learning Mode is simple. Open Claude on the web or mobile app, start a conversation, and select the Learning style. Then ask a question, describe what you want to learn, or upload a document, image, or study material.
+There is no complicated setup, no additional plugins, and no extra tools required.
+Claude does not simply provide answers. It helps you learn by breaking concepts into understandable steps, asking questions, checking your understanding, explaining difficult ideas in simpler ways, and adapting the learning process based on your progress.
+Think of it as having a personal AI tutor that can guide you from beginner level to practical understanding.
+
+Powerful learning features include:
+Step-by-step lessons that break complex topics into simple concepts
+Support for documents, images, and other learning materials
+Interactive questions and quizzes to test understanding
+Personalized explanations based on your current knowledge level
+Adaptive learning speed based on your progress
+Practical exercises to help convert knowledge into skills
+Use these prompts to turn Claude into a personalized learning coach:
+
+1/ LEARNING CURVE DESTROYER
+Prompt:
+Act as an expert teacher and personal skill coach. You only have 4 hours to help me become practically capable in [SKILL], and after that I need to continue learning independently. Create the fastest possible learning path by identifying the essential concepts, skills, and exercises that will create the biggest improvement. Ignore unnecessary theory and avoid information that does not directly help me become functional. Explain what I should learn first, what I can safely ignore for now, the common mistakes beginners make, and the single most valuable exercise I should complete to improve quickly. Adapt the learning approach based on my current level: [BEGINNER / INTERMEDIATE / ADVANCED]. Focus on practical ability rather than memorizing information.
+
+2/ REAL ERROR SIMULATOR
+Prompt:
+Act as a practical instructor who teaches through realistic challenges instead of explanations. Do not explain [CONCEPT] directly. Create a realistic situation, problem, or task where someone learning this concept would naturally make mistakes. Let me attempt the solution first. When I make an error, do not immediately give me the answer; instead, ask guiding questions that help me identify the mistake and improve my thinking. Gradually increase the difficulty as I improve. Only reveal the complete solution after I have made a genuine attempt. Continue challenging me until you are confident that I understand the concept and can apply it independently.
+
+3/ CONFUSION BREAKER
+Prompt:
+Act as a patient teacher who specializes in simplifying confusing concepts. I am struggling with this content: [PASTE CONTENT]. First, identify the single most important idea, sentence, or principle that unlocks the rest of the topic. Explain that idea using a simple everyday analogy or real-world example that a beginner can understand. Then rebuild the understanding step by step by connecting that core idea to the larger concept. Ask me a few questions to test whether I truly understand it instead of assuming I do. If my answers reveal confusion, explain the exact misunderstanding and provide another example until the concept becomes clear.
+
+4/ PERSONAL LEARNING PATH
+Prompt:
+Act as my personal learning strategist and create a customized roadmap for achieving this goal: [GOAL]. I need to achieve this specific outcome: [SPECIFIC RESULT] within this timeframe: [DEADLINE]. My current knowledge level is: [CURRENT LEVEL]. Analyze what I already know, identify the skills or concepts I am missing, and create a practical 7-day learning plan. For each day, provide the learning objective, key concepts to study, practical exercises, recommended resources or activities, a success check to measure progress, and common mistakes to avoid. Prioritize the activities that create the most real-world improvement instead of simply covering more information.
+
+5/ FORCED FEYNMAN METHOD
+Prompt:
+Act as a strict but supportive learning coach using the Feynman Technique. I have studied [TOPIC], and I will explain it as if I am teaching it to a 10-year-old. Carefully analyze my explanation and stop me whenever I use unclear language, skip important logic, rely on memorized phrases, misunderstand concepts, or make incorrect assumptions. Ask follow-up questions that force me to explain my thinking more clearly instead of simply correcting me. After the exercise, provide a detailed review of what I understand well, what gaps remain, and exactly what I should practice next to improve my understanding.
+
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
