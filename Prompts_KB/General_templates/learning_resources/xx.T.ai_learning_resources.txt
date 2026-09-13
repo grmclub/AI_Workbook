@@ -1,0 +1,646 @@
+
+https://www.facebook.com/aniksingalcom
+
+-------------------------------------------------------------
+1.Artificial Intelligence (CS221)
+Search, logic, planning, and decision-making, the building blocks of intelligent systems.
+→ https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2
+--------------------
+2.Machine Learning (CS229)
+Supervised vs. unsupervised learning, core algorithms, and strong model intuition.
+→ https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+--------------------
+3.Deep Learning (CS230)
+Neural networks, CNNs, RNNs, and practical training best practices.
+→ https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
+--------------------
+4.Machine Learning Theory (CS229M)
+The math behind learning systems and why models generalize (or don’t).
+→ https://www.youtube.com/playlist?list=PLoROMvodv4rP8nAmISxFINlGKSK4rbLKh
+
+5.Reinforcement Learning (CS234)
+MDPs, Q-learning, and training systems that learn from actions and feedback.
+→ https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX
+--------------------
+6.Natural Language Understanding (CS224U)
+Meaning, intent, grounding, and how dialogue systems are built.
+→ https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20
+--------------------
+7.NLP with Deep Learning (CS224N)
+How neural nets power translation, Q&A, summarization, and sentiment.
+→ https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D
+-------------------------------------------------------------
+## Stanford’s AI courses are available for FREE
+
+1.Artificial Intelligence (CS221)
+Search, logic, planning, and decision-making, the building blocks of intelligent systems.
+→ https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2
+Stanford CS221: Artificial Intelligence: Principles and Techniques | Autumn 2021
+
+2.Machine Learning (CS229)
+Supervised vs. unsupervised learning, core algorithms, and strong model intuition.
+→ https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+Stanford CS229: Machine Learning led by Andrew Ng | Autumn 2018
+
+3.Deep Learning (CS230)
+Neural networks, CNNs, RNNs, and practical training best practices.
+→ https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
+Stanford CS230: Deep Learning | Autumn 2018
+
+4.Machine Learning Theory (CS229M)
+The math behind learning systems and why models generalize (or don’t).
+→ https://www.youtube.com/playlist?list=PLoROMvodv4rP8nAmISxFINlGKSK4rbLKh
+Stanford CS229M: Machine Learning Theory - Fall 2021
+
+5.Reinforcement Learning (CS234)
+MDPs, Q-learning, and training systems that learn from actions and feedback.
+→ https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX
+
+6.Natural Language Understanding (CS224U)
+Meaning, intent, grounding, and how dialogue systems are built.
+→ https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20
+Stanford CS224U: Natural Language Understanding | Spring 2019
+
+7.NLP with Deep Learning (CS224N)
+How neural nets power translation, Q&A, summarization, and sentiment.
+→ https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D
+
+-------------------------------------------------------------
+## 6 FR££ Resources Will Help You Understand AI From Scratch
+
+1. The Basics of Generative AI
+A straightforward introduction to the essential ideas behind generative AI, without unnecessary technical language.
+Link: https://sites.google.com/g.harvard.edu/hksslate-genai/the-basics-of-generative-ai
+
+2. Teaching with AI in the Classroom
+Practical guidance for educators looking to integrate AI into classroom instruction and training.
+Link: https://www.hbsp.harvard.edu/educator-training/teaching-with-ai
+
+3. Generative AI in Teaching & Learning
+Discover ways AI can reshape teaching, learning, and the way educators approach their work.
+Playlist: https://www.youtube.com/watch?v=CkHi5jpRbz8&list=PL_kRkvxqHjkqjnhAdSdejAkyQf1TnPkNM
+
+4. Beyond Chatbots: System Prompts & RAG
+Explore the technologies and methods that turn AI from a simple chatbot into a more capable application.
+Link: https://generative-ai-course.hks.harvard.edu/2-using-genai/class-5
+The Science and Implications of Generative AI - Class 5
+
+5.Prompt Engineering
+Learn practical techniques for writing prompts that consistently produce better responses from AI models.
+Link: https://generative-ai-course.hks.harvard.edu/2-using-genai/class-4
+The Science and Implications of Generative AI - Class 4
+
+6. Introduction to Generative AI
+Understand the core concepts behind generative AI and how these systems produce results.
+Link: https://generative-ai-course.hks.harvard.edu/1-how-genai-works/class-1
+The Science and Implications of Generative AI - Class 1
+
+
+
+
+-------------------------------------------------------------
+RIP PAID COURSES!
+​Here are 10 FREE websites help you to master AI in 2026💨
+
+1/ OpenAI Academy
+This is perfect for anyone who wants to learn AI from the people actually building it.
+Free beginner-to-advanced learning paths, practical prompts, and real-world use cases all built directly by OpenAI experts. This one has to be my favorite. If you're serious about AI, start here.
+⟶ http://academy.openai.com
+
+2/ Google AI Trainings
+This is perfect for creators and developers who use Gemini or Google's tools daily.
+Beginner-friendly resources, hands-on training with Gemini, and career-focused modules with actual certificates. Essential if Google and Gemini are important in your workflow.
+⟶ http://grow.google/ai
+
+3/ Anthropic SkillJar
+This is perfect for anyone building products or workflows with Claude.
+Learn prompt engineering for Claude, explore practical enterprise AI use cases, and get structured lessons with guided examples. 10/10 practical - keep Claude open while you work through it.
+⟶ https://anthropic.skilljar.com
+
+
+4/ MIT OpenCourseWare
+This is perfect for people who want deep, technical AI and ML knowledge.
+Free access to MIT course materials, lecture videos, assignments, and notes from actual MIT professors. It's rigorous. It's hard. But it's MIT-level education completely free.
+⟶ http://ocw.mit.edu
+
+5/ Meta's AI Resources
+This is perfect for developers interested in open-source AI models and the Llama ecosystem.
+Research-backed AI educational resources, open-source tools, and insights into how Meta is building AI. Learn Llama applications and applications of their research.
+⟶ https://ai.meta.com/resources
+
+6/ DeepLearning.AI
+This is perfect for people who want structured, practical deep learning courses.
+High-quality videos and courses on neural networks, machine learning, and practical AI applications. Better paced than MIT if you're learning on your own.
+⟶ https://deeplearning.ai
+
+7/ Hugging Face Learn
+This is perfect for developers who want to work with open-source models and transformers.
+Free courses on using transformer models, fine-tuning, and deploying AI models. Hugging Face is where the open-source AI community lives.
+⟶ https://huggingface.co/learn
+
+8/ Kaggle Learn
+This is perfect for people who learn best by doing real projects and competitions.
+Free micro-courses on machine learning, data science, and AI. Plus access to real datasets and competitions so you practice immediately.
+⟶ https://kaggle.com/learn
+
+9/ Stanford Online
+This is perfect for people who want university-level AI education without the price tag.
+Stanford courses taught by the same professors who invented many AI techniques. Free to audit, paid if you want certification.
+⟶ https://online.stanford.edu
+
+10/ Claude 101
+This is perfect for creators and entrepreneurs who use Claude every day.
+Practical guides, prompt templates, and real-world examples of how to use Claude effectively. Simple, direct, and immediately useful.
+⟶ https://claude101.com
+
+-------------------------------------------------------------
+40 GITHUB REPOS THAT ARE ACTUALLY USEFUL
+
+1. public-apis — free APIs for everything
+2. build-your-own-x — learn by building
+3. developer-roadmap — learn any tech skill
+4. free-programming-books — thousands free books
+5. system-design-primer — ace any interview
+6. coding-interview-university — self taught CS degree
+7. the-art-of-command-line — master terminal
+8. project-based-learning — learn by doing
+9. you-dont-know-js — master JavaScript deeply
+10. the-book-of-secret-knowledge — hacker resources
+11. tech-interview-handbook — crack any interview
+12. awesome-selfhosted — host your own apps
+13. javascript-algorithms — learn algos visually
+14. 30-seconds-of-code — short useful snippets
+15. gitignore — templates for every language
+16. ollama — run AI models locally
+17. langchain — build AI apps fast
+18. n8n — automate workflows with AI
+19. openclaw — personal AI assistant locally
+20. dify — build AI agents visually
+21. langflow — drag and drop AI pipelines
+22. mem0 — memory layer for AI agents
+23. browser-use — let AI control browser
+24. ruflo — agent orchestration for Claude
+25. crewai — multi agent AI teams
+26. hermes-agent — open source AI agent
+27. markitdown — convert any file to markdown
+28. maigret — OSINT across 3000+ sites
+29. open-webui — self hosted ChatGPT interface
+30. aider — AI pair programming in terminal
+31. agency-agents — full AI agency in one prompt
+32. tradingagents — multi agent trading framework
+33. browserbase-skills — Claude web browsing SDK
+34. autogen — Microsoft multi agent framework
+35. metagpt — AI agents as a software company
+36. lobe-hub — visual multi agent platform
+37. huggingface-transformers — foundation of modern AI
+38. cocoindex — engine for long horizon agents
+39. freeCodeCamp — learn to code for free
+40. stable-diffusion-webui — run image AI locally
+
+-------------------------------------------------------------
+1/ The 10 Levels of AI Mastery
+Most people use AI for simple tasks:
+➔ Asking questions
+➔ Writing content
+➔ Doing research
+That is Level 1: AI User.
+The next step is becoming an AI Prompt Engineer.
+At this stage, you learn how to structure prompts, provide context, and guide AI toward better outputs.
+Level 1 gets answers.
+Level 2 gets better answers.
+These levels are useful, but they rarely create a significant competitive advantage because almost everyone can access the same tools.
+The real opportunity begins when you move beyond basic prompting and start building systems that produce results repeatedly.
+---------------------------
+2/ From User to Builder
+Level 3: AI Power User
+➔ Builds repeatable workflows
+➔ Uses Projects
+➔ Creates Custom GPTs
+➔ Organizes knowledge bases
+Level 4: AI Automator
+➔ Connects tools together
+➔ Automates repetitive work
+➔ Uses n8n
+➔ Uses Make
+➔ Uses Zapier
+➔ Uses APIs
+Level 5: AI Builder
+➔ Creates AI-powered applications
+➔ Works with Python
+➔ Uses APIs
+➔ Implements RAG systems
+➔ Connects databases
+This is where AI starts saving hours instead of minutes.
+Instead of asking AI to complete tasks manually, you begin building systems that continue working long after you've set them up.2/ From User to Builder
+Level 3: AI Power User
+➔ Builds repeatable workflows
+➔ Uses Projects
+➔ Creates Custom GPTs
+➔ Organizes knowledge bases
+Level 4: AI Automator
+➔ Connects tools together
+➔ Automates repetitive work
+➔ Uses n8n
+➔ Uses Make
+➔ Uses Zapier
+➔ Uses APIs
+Level 5: AI Builder
+➔ Creates AI-powered applications
+➔ Works with Python
+➔ Uses APIs
+➔ Implements RAG systems
+➔ Connects databases
+This is where AI starts saving hours instead of minutes.
+Instead of asking AI to complete tasks manually, you begin building systems that continue working long after you've set them up.
+
+3/ The Advanced AI Layer
+Level 6: AI Agent Builder
+➔ Creates agents with memory
+➔ Gives agents tools
+➔ Enables reasoning
+➔ Uses orchestration frameworks
+Level 7: Multi-Agent Architect
+➔ Builds teams of specialized agents
+➔ Creates routing systems
+➔ Designs delegation workflows
+➔ Coordinates agent collaboration
+Level 8: AI Systems Engineer
+➔ Deploys production AI systems
+➔ Monitors performance
+➔ Implements governance
+➔ Improves security and reliability
+At these levels, AI stops being a personal productivity tool and becomes a scalable operating system for work.
+This is where many businesses are creating their biggest advantages today.
+----------------------------------
+4/ AI Leadership Levels
+Level 9: AI Strategist
+➔ Uses AI to redesign operations
+➔ Improves business processes
+➔ Drives organization-wide adoption
+➔ Aligns AI with company goals
+Level 10: AI Master
+➔ Designs AI-native organizations
+➔ Builds AI ecosystems
+➔ Thinks in systems
+➔ Leads large-scale AI transformation
+The highest levels are not about writing better prompts.
+They are about designing environments where AI becomes part of how an organization operates, scales, and creates value.
+-----------------------------
+5/ Where Should You Focus?
+Most people are currently between Levels 1 and 3.
+The biggest opportunity sits between Levels 3 and 7.
+That range includes:
+➔ Workflows
+➔ Automation
+➔ AI applications
+➔ AI agents
+➔ Multi-agent systems
+Don't worry about reaching Level 10 immediately.
+Identify your current level.
+Master the next one.
+Then repeat.
+Your AI advantage comes from progression, not access.
+-------------------------------------------------------------
+AI Skills You need in the next 5 Years.
+
+1. Prompt Engineering: The New Literacy
+AI like ChatGPT or Gemini is only as good as your prompts. Strong prompt skills turn AI from a toy into a true assistant.
+Master it by:
+Starting simple, then building complexity
+Using frameworks like Chain-of-Thought (CoT)
+Practicing for consistent, reliable outputs
+
+2. Data Literacy
+AI is only as good as the data behind it. Without the ability to collect, clean, and analyze data, decisions lack direction.
+Build it by:
+Learning data cleaning (Pandas, Excel, Sheets)
+Understanding basic stats (mean, variance, outliers)
+Practicing visualization (Matplotlib, Tableau)
+
+3. No-Code AI Workflows
+You don’t need to code to automate work or life. Tools like Zapier, Make, and Bubble let you connect AI to real systems quickly.
+Try it with:
+AI-powered email assistants
+Automated social media posts (ChatGPT + Zapier)
+Simple chatbots (Dialogflow, Botpress)
+
+4. API Integration
+AI models run on APIs (OpenAI, Anthropic, Hugging Face). Learning to connect them lets you plug AI directly into apps and workflows.
+Learn:
+REST API basics
+Python requests library
+Testing with Postman
+
+5. Fine-Tuning Models
+General AI is powerful, but fine-tuned models excel in specialized niches — and businesses pay a premium for them.
+Get started with:
+Transfer learning basics
+Small dataset practice (Hugging Face)
+LoRA for lightweight tuning
+
+6. AI Ethics & Safety
+AI isn’t just powerful—it carries risks like bias, misinformation, and privacy issues. Companies need people who can build responsibly.
+Focus on:
+Bias in training data
+Model interpretability
+Privacy laws (GDPR, CCPA)
+
+
+
+-------------------------------------------------------------
+Google Is Definitely Building an Entire AI Ecosystem! 
+
+Gemini Gems → Custom AI agents for repetitive workflows
+Imagen 3 → High-quality AI image generation
+Nano Banana → AI image editing, enhancement, and transformations
+Lumiere → AI video generation from simple prompts
+Opal → Build AI-powered apps without heavy coding
+Whisk → Turn visual ideas into creative concepts and mood boards
+Google AI Studio → Prototype, test, and deploy AI applications
+Gemini → Writing, coding, brainstorming, and everyday productivity
+Firebase Studio → Build, host, and scale AI-powered applications See less
+
+-------------------------------------------------------------
+## 50 Skills to Learn for Free Instead of Doomscrolling 👇
+
+1. Graphic design → Canva Design School
+2. Video editing → CapCut Academy
+3. Photography → Peter McKinnon on YouTube
+4. Drawing → Drawabox
+5. Animation → Alan Becker on YouTube
+6. UI/UX design → Figma Learn
+7. Content creation → YouTube Creator Academy
+8. Copywriting → Copy That! on YouTube
+9. Storytelling → Storyworthy by Matthew Dicks
+10. Public speaking → TED Talks
+
+11. Coding → freeCodeCamp
+12. Web development → The Odin Project
+13. AI prompting → DeepLearning AI
+14. Excel → ExcelIsFun on YouTube
+15. Data analysis → Kaggle Learn
+16. Notion → Notion Academy
+17. Cybersecurity → TryHackMe
+18. SEO → Ahrefs on YouTube
+19. Digital marketing → HubSpot Academy
+20. Speed reading → Iris Reading
+
+21. Note-taking → Ali Abdaal on YouTube
+22. Memory techniques → Art of Memory
+23. Active recall → RemNote Blog
+24. Mind mapping → MindMeister Academy
+25. Research skills → Google Scholar tutorials
+26. Critical thinking → Coursera
+27. Exam strategy → StudyWithJanet
+28. Focus training → Cal Newport
+29. Learning how to learn → Coursera
+30. Investing → The Plain Bagel on YouTube
+
+31. Personal finance → Khan Academy
+32. Budgeting → YNAB Resources
+33. Negotiation → Chris Voss
+34. Sales → Alex Hormozi on YouTube
+35. Freelancing → Upwork Academy
+36. Entrepreneurship → Y Combinator Library
+37. E-commerce → Shopify Learn
+38. Financial literacy → Investopedia
+39. Business writing → Harvard Business Review
+40. Typing → Monkeytype
+
+41. Time management → Tiago Forte on YouTube
+42. Productivity → Building a Second Brain
+43. Communication → Charisma on Command
+44. Networking → LinkedIn Learning
+45. Emotional intelligence → Daniel Goleman
+46. Decision making → Farnam Street Blog
+47. Habit building → Atomic Habits
+48. Leadership → Simon Sinek
+49. Goal setting → James Clear
+50. Journaling → Day One or a plain notebook
+-------------------------------------------------------------
+1/ BuildItApp
+https://builditapp.com/
+
+2/ Content Core
+https://contentcore.xyz/
+
+3/ ProductionCrate
+https://www.productioncrate.com/
+
+4/ Banana Prompts
+https://www.bananaprompts.xyz/
+
+5/ Swishy
+https://www.swishy.ai/
+
+-------------------------------------------------------------
+1/ Cobalt — Download public social media videos
+2/ Photopea — Free Photoshop in your browser
+3/ Temp Mail — Temporary email address
+4/ TinyWow — 100+ free online tools
+5/ Internet Archive — Browse archived websites and media
+6/ AlternativeTo — Find software alternatives
+7/ JustWatch — Find where to stream movies and shows
+8/ Project Gutenberg — 70,000+ free classic books
+9/ Open Culture — Free courses from top universities
+10/ WolframAlpha — Solve math and science problems
+
+11/ Remove(dot)bg — Remove image backgrounds instantly
+12/ Cleanup.pictures — Remove unwanted objects from photos
+13/ Squoosh — Compress images for free
+14/ Excalidraw — Create hand-drawn diagrams
+15/ Carbon — Turn code into beautiful images
+16/ Ray(dot)so — Create polished code screenshots
+17/ Shots(dot)so — Create device and product mockups
+18/ Flightradar24 — Track flights in real time
+19/ CamelCamelCamel — Track Amazon price history
+20/ Have I Been Pwned — Check for known data breaches
+
+21/ VirusTotal — Scan files and URLs for malware
+22/ URLScan — Analyze website behavior
+23/ CyberChef — Browser-based cybersecurity toolkit
+24/ WiGLE — Global WiFi network map
+25/ Privnote — Private notes that expire after reading
+26/ File(dot)io — Share files that expire automatically
+27/ Archive(dot)today — Save snapshots of webpages
+28/ AccountKiller — Find account deletion instructions
+29/ Radio Garden — Listen to radio stations worldwide
+30/ TuneFind — Find songs from TV shows and movies
+
+31/ Music for Programming — Focus music for coding
+32/ myNoise — Custom background soundscapes
+33/ Elicit — AI research assistant
+34/ Consensus — Search scientific research
+35/ Connected Papers — Explore related research papers
+36/ Semantic Scholar — Free academic search engine
+37/ SciSpace — Explain research papers with AI
+38/ Summarize (dot) tech — Summarize YouTube videos
+39/ Phind — AI search for developers
+40/ Regex101 — Test regular expressions instantly
+
+41/ Code Beautify — Format and clean code
+42/ ExplainShell — Learn Linux terminal commands
+43/ tldraw — Infinite online whiteboard
+44/ Down For Everyone Or Just Me — Check if a website is down
+45/ TinEye — Reverse image search
+46/ Fast — Test your internet speed
+47/ Smallpdf — Edit PDF files online
+48/ iLovePDF — Merge, split, and convert PDFs
+49/ 10 Minute Mail — Temporary email address
+
+01. cobalt.tools — Download any social media video
+https://cobalt.tools/
+
+02. photopea.com — Free Photoshop in the browser
+https://www.photopea.com/
+
+03. temp-mail.org — One-click temporary email
+temp-mail.org
+
+04. tinywow.com — 100+ free tools in one place
+https://tinywow.com/
+
+05. archive.org — Access any old webpage
+https://archive.org/
+
+06. alternativeto.net — Find free app alternatives
+alternativeto.net
+
+07. justwatch.com — Find where to stream anything
+justwatch.com
+
+08. gutenberg.org — 70,000 free classic books
+https://www.gutenberg.org/
+
+09. openculture.com — Free courses from top universities
+https://www.openculture.com/
+
+10. wolframalpha.com — Instantly solve any math problem
+https://www.wolframalpha.com/
+
+11. remove.bg — One-click background removal
+https://www.remove.bg/
+
+12. cleanup.pictures — Erase objects from photos
+https://cleanup.pictures/
+
+13. squoosh.app — Free image compression
+https://squoosh.app/
+
+14. excalidraw.com — Free hand-drawn charts
+https://excalidraw.com
+
+15. carbon.now.sh — Turn code into artwork
+https://carbon.now.sh
+
+16. ray.so — Stunning code screenshots
+https://ray.so/
+
+17. shots.so — Free device & product mockups
+https://shots.so/
+
+18. flightradar24.com — Real-time tracking for any flight
+https://www.flightradar24.com/
+
+19. camelcamelcamel.com — Track Amazon price history
+https://camelcamelcamel.com
+
+20. haveibeenpwned.com — Check if you've been hacked
+https://haveibeenpwned.com/
+
+21. virustotal.com — Scan any file for malware
+https://www.virustotal.com/gui/home/upload
+
+22. urlscan.io — Scan & dissect any website
+https://urlscan.io/
+
+23. gchq.github.io/CyberChef — The cyber swiss-army knife
+https://gchq.github.io/CyberChef/
+
+24. wigle.net — Global WiFi wardriving map
+https://wigle.net/
+
+25. privnote.com — Send self-destructing messages
+https://privnote.com/
+
+26. file.io — Share auto-deleting files
+https://www.file.io/
+
+27. archive.today — Permanently save any webpage
+https://archive.ph/
+
+28. AccountKiller — Delete yourself from any website
+https://www.accountkiller.com/en/home
+
+29. radio.garden — Listen to any global radio station
+https://radio.garden/
+
+30. TuneFind — Find songs from any show
+https://www.tunefind.com/
+
+31. Music For Programming — Focus music for coding
+https://musicforprogramming.net/latest/
+
+32. myNOISE — Custom focus soundscapes
+mynoise.net
+
+33. Elicit — AI research paper assistant
+https://elicit.com/
+
+34. Consensus — Search scientific consensus
+https://consensus.app/
+
+35. Connected Papers — Visualize map and research
+https://www.connectedpapers.com/
+
+36. Semantic Scholar — Free academic search
+https://www.semanticscholar.org/
+
+37. SciSpace — Understand any research paper
+https://scispace.com/
+
+38. Regular Expressions — Instantly test any regex
+https://regex101.com/
+
+39. Code Beautify — Cleanly format any code
+https://codebeautify.org/
+
+40. ExplainShell — Understand any terminal command
+https://explainshell.com/
+
+41. tidraw — Infinite whiteboard in your browser
+https://www.tldraw.com/
+
+42. downforeveryoneorjustme.com — Check if any site is down
+https://downforeveryoneorjustme.com/
+
+43. TinEye — Reverse image search
+https://tineye.com/
+
+44. Fast— Check your internet speed
+https://fast.com/
+
+45. SmallPDF — Free PDF editing
+https://smallpdf.com/
+
+46. ilovepdf — Merge and split PDFs
+https://www.ilovepdf.com/
+
+47. 10MinuteMail — Instant temporary email
+https://10minutemail.com/
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+
+
+
+
+
+
