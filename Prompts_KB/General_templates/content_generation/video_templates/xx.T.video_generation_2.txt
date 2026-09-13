@@ -191,7 +191,90 @@ Prompt 7 — Growth Engine and Reuse
 "Take this YouTube script or transcript and turn it into: a thread for X (Twitter), a post for LinkedIn, 3 short video ideas, an email, and a Pinterest description. Also tell me which platforms to prioritize based on my niche."
 What it gives you: One video → 7+ pieces of content with no extra work
 -------------------------------------------------
--------------------------------------------------
--------------------------------------------------
--------------------------------------------------
+## Google Gemini OMNI for video editing plan, cut, improve, and polish your edits.
 
+1/ Google Gemini Omni Video Editing Prompts
+Google Gemini Omni is not just for generating random videos.
+The real power is video editing through conversation. You can give it a clip, image, audio, or text direction, then ask for changes step by step.
+Instead of opening complex editing software, you can describe what you want in plain language. The key is to be specific about the scene, subject, camera, lighting, motion, style, and final mood.
+Here are 12 prompts you can use.
+
+2/ Prompt 1: Turn a normal clip into cinematic footage
+Use this when your video looks too plain and you want it to feel more professional.
+Prompt:
+Edit this video into a cinematic scene. Keep the main subject and action the same. Improve the lighting, add natural depth, make the colors rich but realistic, and use smooth camera movement. Keep the final result clean, modern, and believable.
+This works well for travel clips, product shots, office videos, personal branding clips, and short social media scenes.
+
+3/ Prompt 2: Change the background without changing the subject
+This is useful when the subject looks good but the location feels boring.
+Prompt:
+Keep the person, pose, clothing, and movement exactly the same. Replace the background with a premium modern studio environment. Add soft cinematic lighting, slight background blur, and realistic shadows so the subject blends naturally into the new scene.
+The important part is telling Gemini Omni what must stay the same. Otherwise, the model may change more than you wanted.
+
+4/ Prompt 3: Add product ad style motion
+Use this for product videos, gadget clips, app promos, or brand content.
+Prompt:
+Turn this product clip into a premium advertisement. Keep the product accurate and recognizable. Add smooth slow-motion moments, clean reflections, soft studio lighting, subtle camera push-in, and elegant text-free visual emphasis. Make the product feel high-end and ready for a launch campaign.
+This is great when you want a product to look more polished without rebuilding the whole scene.
+
+5/ Prompt 4: Create social media hook energy
+Sometimes a video does not need more polish. It needs stronger attention in the first few seconds.
+Prompt:
+Edit this video for a short-form social media hook. Make the first 2 seconds visually stronger with faster pacing, tighter framing, dynamic movement, and a clear focus on the main subject. Keep the video clean and avoid adding unnecessary elements.
+This prompt helps when your clip feels slow at the beginning. The goal is to make the opening feel more direct and scroll-stopping.
+
+6/ Prompt 5: Change the lighting mood
+Lighting can completely change how a video feels.
+Prompt:
+Keep the scene and subject the same, but change the lighting mood to a dramatic cinematic look. Add soft shadows, warm highlights, controlled contrast, and a subtle spotlight on the main subject. Do not make the scene look fake or over-edited.
+Use this when a video looks flat. You can also replace “dramatic cinematic” with bright commercial, moody night, soft morning, luxury studio, or clean tech look.
+
+7/ Prompt 6: Add motion effects to a boring scene
+This is useful when the footage is good but visually static.
+Prompt:
+Keep the original subject and environment the same. Add subtle animated motion effects around the main action. Use clean light trails, soft particles, or energy lines that support the movement without covering the subject. Make the effects feel natural and premium.
+This works well for tech videos, fitness clips, creator videos, and product demos. The trick is asking for subtle effects, not visual chaos.
+
+8/ Prompt 7: Create a consistent character scene
+Gemini Omni can work better when you clearly define what should stay consistent.
+Prompt:
+Use the person in this reference as the main character. Keep their face, outfit, body shape, and overall identity consistent across the video. Place them in a clean modern workspace and show them working confidently on a laptop. Use natural movement, realistic lighting, and a smooth camera angle.
+This is useful for story videos, brand avatars, educational clips, and creator content where consistency matters.
+
+9/ Prompt 8: Apply one video’s motion to another subject
+This is powerful when you like the movement in one clip but want a different subject.
+Prompt:
+Apply the motion and camera movement from the reference video to the subject in the image. Keep the subject’s identity and design consistent. Do not copy the original subject from the reference video. Only use its movement, pacing, and camera style.
+This prompt helps you separate motion from identity. It is useful for character videos, fashion clips, product animation, and stylized social content.
+
+10/ Prompt 9: Turn an image into a video scene
+Use this when you only have a still image but want motion.
+Prompt:
+Animate this image into a realistic short video. Keep the main composition, subject, and visual style the same. Add natural camera movement, subtle environmental motion, realistic lighting changes, and believable depth. Do not distort the face, text, logo, or important details.
+This works well for posters, thumbnails, product photos, personal photos, and concept visuals. Always mention what should not be distorted.
+
+11/ Prompt 10: Create a before and after transformation
+Transformation videos work well because they are easy to understand quickly.
+Prompt:
+Create a smooth before and after transformation video. Start with the original scene, then gradually transform it into a polished cinematic version. Keep the main subject consistent. Show the improvement through lighting, color, background cleanup, camera movement, and overall visual quality.
+This can work for room makeovers, product upgrades, design concepts, brand visuals, and AI editing demos.
+
+12/ Prompt 11: Build an explainer video from a complex idea
+Gemini Omni can also help turn complex ideas into simple visual scenes.
+Prompt:
+Create a simple visual explainer video about [topic]. Use clean scenes, easy-to-understand metaphors, smooth transitions, and minimal visual clutter. Show the concept step by step so a beginner can understand it quickly. Keep the tone educational, modern, and visually clear.
+Use this for AI tutorials, business ideas, science topics, software workflows, or marketing education. The goal is clarity first, style second.
+
+13/ Prompt 12: Improve a video for a brand look
+This is for creators, businesses, and marketers who want a consistent visual identity.
+Prompt:
+Edit this video to match a premium brand style. Use clean composition, consistent colors, soft cinematic lighting, smooth pacing, and a polished professional look. Keep the message clear and avoid unnecessary effects. Make it feel suitable for a high-quality social media campaign.
+This prompt is useful when you want all your videos to feel like they belong to the same brand system.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
