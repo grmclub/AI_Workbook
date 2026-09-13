@@ -185,6 +185,86 @@ Most people ask AI to write.Great writers use AI to:
 • Always edit the AI's output in your own voice before sharing it anywhere
 
 -------------------------------------------------
+## Fixup text
+
+1/ The Professional AI Humanizer
+Prompt:
+Act as a professional human-writing editor with years of experience transforming AI-
+generated drafts into natural human content. Analyze the following text carefully and
+rewrite it so it feels authentic, fluent, and naturally written by an experienced person.
+Remove robotic wording, repetitive patterns, generic AI phrases, awkward transitions,
+and overly structured sentences while preserving the original meaning, key ideas, and
+intent. Improve clarity, readability, sentence flow, and overall writing quality without
+making the content sound exaggerated or artificial. The final version should feel polished,
+confident, and genuinely human. Text: [paste text]
+
+2/ Natural Human Tone Converter
+Prompt:
+Rewrite the following text so it sounds like it was written by a real person with
+knowledge, experience, and a clear point of view. Improve the tone, sentence rhythm,
+word choices, and natural flow while removing anything that feels mechanical, overly
+formal, or AI-generated. Make the writing more engaging and relatable while keeping the
+original message, information, and purpose unchanged. The final output should feel like
+a confident human wrote it naturally for another human to read. Text: [paste text]
+
+3/ The AI-Detection Safe Rewrite
+Prompt:
+Transform the following text into a more natural, human-style version that avoids
+common AI writing patterns. Rewrite sentences with varied structures, realistic phrasing,
+smoother transitions, and a more organic writing style. Remove predictable patterns,
+generic expressions, unnecessary repetition, and unnatural wording while keeping the
+original meaning completely intact. Do not add random information or unnecessary fluff.
+The goal is to create writing that feels authentic, personal, and naturally produced by a
+skilled human writer. Text: [paste text]
+
+4/ Conversational Human Rewrite
+Prompt:
+Rewrite the following content in a conversational and approachable style, as if a
+knowledgeable person is explaining the topic directly to another person. Make the
+writing warm, natural, and easy to understand while maintaining professionalism and
+credibility. Replace stiff or formal language with smoother everyday expressions,
+improve the flow between ideas, and create a more engaging reading experience. Keep
+the original message and important details unchanged while making it feel more personal
+and human. Text: [paste text]
+
+5/ The Emotion & Flow Humanizer
+Prompt:
+Edit the following text to make it feel more alive, expressive, and emotionally natural
+while keeping the original meaning and purpose unchanged. Improve the flow, pacing,
+sentence structure, and emphasis so the writing feels thoughtful and engaging rather
+than flat or mechanical. Add subtle human touches through better word choices,
+smoother transitions, and more natural expression without adding unnecessary emotion
+or exaggeration. The final version should feel like it was written by a person who
+genuinely understands the topic. Text: [paste text]
+
+6/ Human Language Converter
+Prompt:
+Rewrite the following text using simple, clear, and natural human language. Remove
+complicated jargon, unnecessary complexity, stiff phrases, and AI-like sentence patterns
+while keeping the core message accurate and easy to understand. Make the content
+sound like it was written by a skilled communicator who knows how to explain ideas
+clearly to real people. Improve readability, clarity, and connection with the audience
+without changing the original meaning. Text: [paste text]
+
+7/ Human Rhythm & Style Fixer
+Prompt:
+Analyze and improve the writing style of the following text by making the rhythm, pacing,
+and sentence structure feel more natural. Rewrite repetitive sections, vary sentence
+lengths, remove predictable wording, and create a smoother reading experience. Make
+the content feel less mechanical and more like a skilled human writer created it
+intentionally. Maintain the original ideas, information, and tone while improving overall
+style, flow, and readability. Text: [paste text]
+
+8/ Final Humanized Master Edit
+Prompt:
+Take the following draft and transform it into a final polished version that feels
+completely natural, authentic, and human-written. Act as an expert editor who improves
+tone, structure, sentence flow, clarity, emotional connection, and overall writing quality.
+Remove AI-like patterns, generic wording, repetition, and awkward phrasing while
+preserving the original message and intent. Make the final version sound confident,
+engaging, and natural, as if it was carefully written and refined by an experienced human
+creator. Do not add unnecessary information or change the original meaning. Text:
+[paste text]
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
