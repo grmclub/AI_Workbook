@@ -320,8 +320,72 @@ Design a complete beginner-friendly course for learning [skill]. Structure it in
 	No paragraphs - only bullets, tables, and triggers.
 	If I read only this, I should get 80%+.
 
-
 -------------------------------------------------------------
+##20 ChatGPT Prompts to Think Better
+Use AI to test your thinking, not just speed up your work.
+FASTER OUTPUT → BETTER JUDGMENT
+
+1. The Real Shift
+Most people use ChatGPT for speed. Smart operators use it for judgment.
+    • Save time rightarrow Think better
+    • Watch out for: Hidden bias, Weak assumptions, Missed consequences, Gut-driven decisions
+
+2. See the Full Problem
+    • 01. First Principles Thinking
+      Strip the problem down to what is actually true.
+    • 02. Multi Perspective Analysis
+      View the decision through different stakeholders and lenses.
+    • 03. Root Cause Analysis
+      Trace symptoms back through causes and dependencies.
+    • 04. Systems Thinking
+      See relationships, feedback loops, and connected consequences.
+
+3. Stress Test Your Thinking
+    • 05. Cognitive Bias Detection
+      Identify the bias shaping your judgment.
+    • 06. Devil's Advocate Stress Test
+      Attack the strongest version of your own idea.
+    • 07. Assumption Audit
+      Surface assumptions and rank the fragile ones.
+    • 08. Red Team Analysis
+      Expose blind spots your team may be missing.
+
+4. Make Better Choices
+    • 09. Decision Matrix Builder
+      Compare options against the criteria that matter.
+    • 10. Opportunity Cost Evaluation
+      Identify what you give up by choosing one path.
+    • 11. Strategic Tradeoff
+      Clarify what you gain, sacrifice, and prioritize.
+    • 12. Second Order Thinking
+      Map what happens after the obvious first result.
+    • 13. Scenario Planning
+      Explore optimistic, realistic, pessimistic, and disruptive futures.
+
+5. Test Logic and Evidence
+    • 14. Argument Strength Evaluator
+      Check whether the reasoning holds up under scrutiny.
+    • 15. Evidence Quality Analyzer
+      Separate strong evidence from weak claims.
+    • 16. Hypothesis Testing
+      Define what evidence would support or reject an idea.
+
+6. Expand How You Think
+    • 17. Mental Model Stacking
+      Examine the same problem through multiple useful models.
+    • 18. Inversion Thinking
+      Ask what would guarantee failure, then work backward.
+    • 19. Strategic Question Generator
+      Surface the questions you did not know you needed to ask.
+
+7. Put It Into Practice
+    • 20. Master Critical Thinking Framework
+      Combine multiple reasoning tools to examine the problem, challenge assumptions, test evidence, compare choices, and decide clearly.
+Workflow Steps:
+    1. Pick 2–3 Prompts: Choose the frameworks that match your decision.
+    2. Run a Real Decision: Use an actual problem you are working through.
+    3. Look for Clarity: Find blind spots before adding another meeting.
+
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
