@@ -1,0 +1,23 @@
+
+-------------------------------------------------
+##Turn files into classes
+
+1. Teach Me from Zero
+"Transform this document into a guided class. Explain everything step by step, starting with the most basic concepts and gradually advancing to intermediate and advanced levels. Start from the basis that this is my first time learning this topic."
+
+2. Structured Classes by Chapter
+"Divide this document into parts and transform each section or chapter into an independent mini class. Explain the main points clearly, add practical examples, and end each part with a quick summary to reinforce learning."
+
+3. Simplify Difficult Content
+"Analyze this document and identify the most complex or confusing parts. Re-explain them using simple language, easy-to-understand analogies, or real-world examples so everything becomes clearer."
+
+4. Key Concepts and Essential Definitions
+"Analyze this document and identify all the fundamental ideas, terms, and notions. Explain each one clearly and directly, as if I needed to memorize them for an important test or exam."
+
+5. Automatic Mind Map
+"Transform the content of this document into a structured mind map, connecting main ideas, secondary concepts, and important relationships to facilitate memorization."
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
