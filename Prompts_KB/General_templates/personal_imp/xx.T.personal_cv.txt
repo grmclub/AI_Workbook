@@ -86,9 +86,383 @@ Act as an expert salary negotiation strategist. Create a complete negotiation sc
 8. 🗺️ The Complete $72K Career Domination Roadmap
 Act as my personal career strategist and recruiter. Build a complete roadmap to landing a realistic $72K+ role in [field] using hidden job opportunities, target-company research, direct outreach, recruiter relationships, strategic follow-ups, interview preparation, and salary negotiation. Organize everything into clear steps I can execute.
 
+-------------------------------------------------
+ChatGPT can research the stock market like a Goldman Sachs analyst if you hand it the right prompts 👇
+
+1. HIDDEN ROLE FINDER PROMPT
+#CONTEXT:
+You are a career intelligence strategist who specializes in uncovering roles people are qualified for but would rarely think to search for themselves. Your job is to look beyond obvious job titles and identify adjacent, emerging, cross-functional, and unconventional roles that match a person’s actual capabilities.
+Do not simply recommend jobs similar to my current title. Analyze what I know how to do, the problems I have solved, the environments I understand, and the outcomes I can produce.
+#ROLE:
+Act as a senior career strategist, recruiter, talent-market analyst, and skills-mapping specialist. Think in terms of capabilities, responsibilities, business problems, transferable expertise, and employer demand rather than job-title similarity.
+#TASK:
+Analyze my professional background and identify career opportunities I may be overlooking.
+Current or previous role: [CURRENT_ROLE]
+Industry: [CURRENT_INDUSTRY]
+Years of experience: [YEARS_OF_EXPERIENCE]
+Responsibilities: [RESPONSIBILITIES]
+Major achievements: [ACHIEVEMENTS]
+Tools and technical skills: [TOOLS_AND_SKILLS]
+Tasks I enjoy: [TASKS_I_ENJOY]
+Tasks I dislike: [TASKS_I_DISLIKE]
+Desired salary range: [SALARY_RANGE]
+Location or work preference: [LOCATION / REMOTE / HYBRID]
+#TASK CRITERIA:
+Identify at least 15 roles divided into obvious fits, adjacent opportunities, unexpected fits, and emerging roles. For every role, explain why my background transfers, which of my existing skills matter most, what additional knowledge may be required, and why an employer could plausibly consider someone with my profile.
+Avoid recommending roles solely because they contain similar keywords to my current title. Prioritize roles where my underlying capabilities create a legitimate advantage.
+#RESPONSE FORMAT:
+Provide a Career Pattern Summary, 15 Hidden Role Opportunities, Transferability Score for each role, Required Skill Gaps, Estimated Transition Difficulty, Best-Fit Ranking, and the five roles I should investigate first.
+
+2. YOUR TRANSFERABLE SKILLS PROMPT
+#CONTEXT:
+You are a transferable-skills analyst who helps professionals translate experience from one industry or role into capabilities that employers in completely different fields understand and value.
+People often underestimate their skills because they describe themselves through job duties instead of outcomes. Your job is to identify the deeper capabilities behind what I have done.
+#ROLE:
+Act as a career strategist, recruiter, competency-mapping specialist, and professional positioning consultant.
+#TASK:
+Analyze my professional experience and create a comprehensive map of my transferable skills.
+My background: [PASTE_RESUME_OR_EXPERIENCE]
+Current industry: [CURRENT_INDUSTRY]
+Roles I am considering: [TARGET_ROLES]
+Major projects: [PROJECTS]
+Achievements: [ACHIEVEMENTS]
+Tools used: [TOOLS]
+Problems I frequently solve: [PROBLEMS_SOLVED]
+#TASK CRITERIA:
+Separate my skills into technical skills, analytical skills, communication skills, leadership skills, operational skills, commercial skills, creative skills, and domain knowledge.
+For every major skill, identify the evidence from my experience that proves I possess it. Then translate that skill into language that would make sense to employers outside my current industry.
+Identify capabilities I probably possess but have not explicitly recognized based on the responsibilities and outcomes described.
+Do not inflate my experience or claim competencies that are not supported by the information I provide.
+#RESPONSE FORMAT:
+Provide a Transferable Skill Inventory, Evidence for Each Skill, Cross-Industry Translation, Hidden Strengths, Skills With Highest Market Value, Skills I Am Under-Selling, and the 10 strongest capabilities I should emphasize during a career transition.
+
+3. QUALIFICATION GAP ANALYZER PROMPT
+#CONTEXT:
+You are a career transition analyst responsible for determining the real distance between a candidate’s current profile and a target position.
+Your job is to distinguish genuine qualification gaps from job-description wish lists so I do not waste months learning skills that employers may not actually require.
+#ROLE:
+Act as a recruiter, hiring manager, career strategist, and skills-gap analyst.
+#TASK:
+Compare my current profile with the requirements of this target role.
+My background: [PASTE_RESUME]
+Target role: [TARGET_ROLE]
+Target job description: [PASTE_JOB_DESCRIPTION]
+Current skills: [CURRENT_SKILLS]
+Relevant achievements: [ACHIEVEMENTS]
+Available learning time: [HOURS_PER_WEEK]
+Desired transition date: [TARGET_DATE]
+#TASK CRITERIA:
+Classify every important requirement as Already Qualified, Partially Qualified, Missing but Easy to Learn, Missing and Important, or Optional/Nice-to-Have.
+Identify which gaps would realistically prevent me from getting interviews and which can be learned after being hired.
+For meaningful gaps, suggest the fastest credible way to close them through projects, certifications, courses, portfolio work, volunteering, freelance experience, or practical demonstrations.
+Do not recommend credentials unless they materially improve my candidacy.
+#RESPONSE FORMAT:
+Provide an Overall Match Score, Requirement-by-Requirement Gap Analysis, Critical Gaps, Non-Critical Gaps, Skills I Already Possess but Need to Reframe, Fastest Gap-Closing Actions, 30-Day Learning Priorities, and a final Apply Now vs Prepare First recommendation.
+
+4. CAREER CHANGE PLANNER PROMPT
+#CONTEXT:
+You are a career transition strategist who turns a desired career change into a realistic execution roadmap. Your job is to help me move from my current position into a better-fit role while minimizing unnecessary risk, wasted learning, and random job applications.
+#ROLE:
+Act as my career strategist, job-search project manager, professional development advisor, and transition planner.
+#TASK:
+Build a complete career-change roadmap from my current situation to my target career.
+Current role: [CURRENT_ROLE]
+Current industry: [CURRENT_INDUSTRY]
+Target role: [TARGET_ROLE]
+Target industry: [TARGET_INDUSTRY]
+Experience: [EXPERIENCE]
+Current skills: [SKILLS]
+Main skill gaps: [SKILL_GAPS]
+Available weekly time: [HOURS_PER_WEEK]
+Financial runway or constraints: [CONSTRAINTS]
+Target transition timeframe: [TIMEFRAME]
+#TASK CRITERIA:
+Break the transition into logical phases covering career validation, skill development, proof-building, positioning, networking, job-market research, applications, interviews, and offer evaluation.
+Identify dependencies so I do not spend months preparing for something that should first be tested through conversations or applications.
+Include low-risk experiments that can validate whether the target career actually fits me before I make a major commitment.
+Prioritize actions that increase employability and evidence of competence rather than passive learning.
+#RESPONSE FORMAT:
+Provide a Career Transition Diagnosis, 90-Day Roadmap, Monthly Milestones, Weekly Actions, Skill-Building Plan, Portfolio or Proof Strategy, Networking Plan, Application Strategy, Risk Mitigation Plan, and the five actions I should take during the first seven days.
+
+5. BEST FIT INDUSTRY SCANNER PROMPT
+#CONTEXT:
+You are a career-market strategist who helps professionals identify industries where their existing capabilities, interests, work preferences, and experience have unusually strong value.
+Your goal is not to recommend fashionable industries. Your goal is to find environments where my profile creates a meaningful fit and where the type of work aligns with what I actually want.
+#ROLE:
+Act as a labor-market analyst, career strategist, industry researcher, and talent advisor.
+#TASK:
+Identify the industries that best fit my professional profile.
+Current experience: [EXPERIENCE]
+Skills: [SKILLS]
+Education: [EDUCATION]
+Industries already experienced: [CURRENT_INDUSTRIES]
+Tasks I enjoy: [TASKS_I_ENJOY]
+Work I want to avoid: [WORK_TO_AVOID]
+Desired compensation: [COMPENSATION]
+Preferred work environment: [WORK_ENVIRONMENT]
+Location constraints: [LOCATION]
+Long-term goals: [LONG_TERM_GOALS]
+#TASK CRITERIA:
+Evaluate industries based on transferable-skill fit, career upside, compensation potential, entry difficulty, learning curve, opportunity variety, work-style compatibility, and relevance of my existing experience.
+Identify both obvious industries and less obvious adjacent sectors where my background could create an advantage.
+Explain what type of companies and roles within each industry would fit me best rather than treating an entire industry as one category.
+#RESPONSE FORMAT:
+Provide a Profile Summary, 10 Best-Fit Industries, Likely Roles Within Each Industry, Why My Background Transfers, Entry Difficulty, Skill Gap, Career Upside, Work-Style Fit, Industry Fit Score, and the three industries I should research first.
+
+6. POSITIONING REWRITER PROMPT
+#CONTEXT:
+You are a professional positioning strategist who helps career changers explain their background in a way that makes the transition feel logical rather than risky.
+Your job is not to hide my previous career. Your job is to connect my previous experience to the problems employers in my target role need solved.
+#ROLE:
+Act as an executive resume writer, recruiter, LinkedIn strategist, career storyteller, and positioning consultant.
+#TASK:
+Reposition my professional background for the following target:
+Current background: [PASTE_RESUME_OR_PROFILE]
+Target role: [TARGET_ROLE]
+Target industry: [TARGET_INDUSTRY]
+Key transferable skills: [TRANSFERABLE_SKILLS]
+Major achievements: [ACHIEVEMENTS]
+Reason for transition: [CAREER_CHANGE_REASON]
+#TASK CRITERIA:
+Identify which parts of my current story strengthen my candidacy, which details distract from the target position, and which achievements need to be translated into language the new industry understands.
+Create a consistent positioning narrative across my LinkedIn headline, About section, resume summary, experience descriptions, networking introduction, and interview answer to “Why are you changing careers?”
+Do not fabricate experience or disguise legitimate skill gaps. Position my existing experience around transferable value and credible potential.
+#RESPONSE FORMAT:
+Provide the New Positioning Strategy, Core Career Narrative, One-Sentence Value Proposition, LinkedIn Headline, LinkedIn About Section, Resume Summary, Rewritten Achievement Examples, 30-Second Networking Introduction, Career-Change Interview Answer, and keywords I should naturally incorporate.
+
+7. SEARCH STRATEGY BUILDER PROMPT
+#CONTEXT:
+You are a senior job-search strategist responsible for building a systematic search process that uncovers opportunities beyond repeatedly searching one job title on LinkedIn.
+Your job is to create a diversified opportunity pipeline using job boards, company targeting, recruiters, networking, direct outreach, adjacent job titles, communities, and hidden-market opportunities.
+#ROLE:
+Act as a career strategist, sourcing recruiter, networking advisor, and job-search operations manager.
+#TASK:
+Build a complete search strategy for helping me land a role aligned with my target career.
+Target role: [TARGET_ROLE]
+Target industries: [TARGET_INDUSTRIES]
+Location: [LOCATION]
+Remote preference: [REMOTE_PREFERENCE]
+Salary target: [SALARY_TARGET]
+Experience level: [EXPERIENCE_LEVEL]
+Transferable skills: [TRANSFERABLE_SKILLS]
+Target company characteristics: [COMPANY_CHARACTERISTICS]
+Weekly job-search time: [HOURS_PER_WEEK]
+#TASK CRITERIA:
+Create a diversified search system rather than relying on mass applications.
+Generate alternative job titles and keyword combinations that could uncover similar roles under different names. Define the characteristics of companies I should target and create a method for building a prioritized company list.
+Design separate workflows for advertised jobs, recruiter outreach, networking, direct company outreach, referrals, professional communities, and hidden opportunities.
+Create weekly activity targets for applications, conversations, recruiter contacts, company research, follow-ups, and networking while prioritizing quality over meaningless application volume.
+Build a tracking system that records opportunities, contacts, next actions, deadlines, results, and lessons from rejected applications.
+#RESPONSE FORMAT:
+Provide the Search Strategy Overview, Alternative Job Titles, Search Keyword Bank, Target Company Criteria, Job Board Strategy, Recruiter Strategy, Networking System, Direct Outreach Strategy, Hidden Job Market Strategy, Weekly Search Routine, Application Tracker Structure, Follow-Up Rules, and a 30-Day Job Search Execution Plan.
 
 -------------------------------------------------
--------------------------------------------------
+## Use claude for job search
+
+1/ MATCH MY CV TO THE JOB DESCRIPTION
+<role>
+Act as a senior recruiter and hiring manager who evaluates candidates against job descriptions using evidence, skills, experience, responsibilities, and measurable outcomes.
+</role>
+<task>
+Compare my CV against [JOB DESCRIPTION] and tell me exactly how strong the match is.
+</task>
+<steps>
+1. Review my CV and the complete job description
+2. Extract the true must-have requirements
+3. Separate must-have requirements from nice-to-have qualifications
+4. Match every requirement against evidence from my CV
+5. Identify my strongest matches
+6. Identify partial matches, missing qualifications, and weakly demonstrated skills
+7. Identify experiences on my CV that deserve more emphasis
+8. Give me an overall fit assessment with clear reasoning
+</steps>
+<rules>
+- Do not invent experience
+- Do not keyword-match blindly
+- Focus on actual evidence
+- Separate hard requirements from preferences
+- Flag uncertainty instead of guessing
+- Test: could a recruiter clearly see evidence for the most important requirements
+</rules>
+<output>
+Role Requirements → Strong Matches → Partial Matches → Missing Qualifications → Underused Experience → Fit Assessment → Application Priorities
+</output>
+
+2/ TAILOR MY CV FOR THIS ROLE
+<role>
+Act as an executive resume strategist who tailors CVs to specific job descriptions while preserving factual accuracy.
+</role>
+<task>
+Rewrite my CV for [TARGET ROLE] using only the real experience and achievements already present in my CV.
+</task>
+<steps>
+1. Identify what the employer values most in the job description
+2. Reorder my experience based on relevance
+3. Rewrite my professional summary for the target role
+4. Reorder my skills section based on importance
+5. Rewrite weak responsibility-based bullets into stronger impact-focused bullets
+6. Integrate relevant job-description terminology naturally
+7. Reduce or remove details that distract from my fit
+8. Highlight transferable skills where direct experience is missing
+</steps>
+<rules>
+- Do not fabricate achievements, metrics, titles, or responsibilities
+- Preserve factual accuracy
+- Do not keyword-stuff
+- Keep claims defensible in an interview
+- Prioritize relevance over adding more content
+- Test: would a recruiter understand why I fit this role within 15 seconds
+</rules>
+<output>
+Target Positioning → Rewritten Summary → Prioritized Skills → Rewritten Experience Bullets → Transferable Skills → Details To Reduce → Final Tailored CV Copy
+</output>
+
+3/ OPTIMIZE MY CV FOR ATS + HUMAN REVIEW
+<role>
+Act as an ATS-aware resume editor who improves keyword alignment and readability without sacrificing natural language or accuracy.
+</role>
+<task>
+Optimize my CV for both applicant tracking systems and human recruiters using [JOB DESCRIPTION].
+</task>
+<steps>
+1. Extract the important skills, tools, qualifications, responsibilities, and phrases from the job description
+2. Identify which keywords are already supported by my CV
+3. Identify relevant terms that are missing from my wording but supported by my experience
+4. Suggest natural places to incorporate those terms
+5. Review headings, formatting, section names, and readability
+6. Identify vague phrases that could be made more specific
+7. Create an ATS-safe version of my CV
+8. Create a final recruiter readability check
+</steps>
+<rules>
+- Never add keywords for skills I do not possess
+- Do not repeat keywords unnaturally
+- Prioritize readable language
+- Avoid unnecessary graphics or formatting that could interfere with parsing
+- Keep the CV truthful
+- Test: would both software and a recruiter understand my relevant experience correctly
+</rules>
+<output>
+Critical Keywords → Existing Matches → Missing But Supported Terms → Placement Suggestions → ATS Issues → Recruiter Issues → Optimized CV
+</output>
+
+4/ WRITE THE TAILORED COVER LETTER
+<role>
+Act as a senior career copywriter who writes concise, specific cover letters based on the candidate’s real experience and the employer’s needs.
+</role>
+<task>
+Write a tailored cover letter for [ROLE] at [COMPANY] using my CV and the job description.
+</task>
+<steps>
+1. Identify the company’s likely priorities from the job description
+2. Identify the 2–3 strongest pieces of evidence from my CV
+3. Create an opening that explains why this specific role makes sense for my background
+4. Connect my experience directly to the employer’s needs
+5. Include one or two concrete examples of relevant work
+6. Address a transferable-skill gap if necessary without sounding defensive
+7. End with a confident, concise closing
+8. Create a shorter LinkedIn application-note version
+</steps>
+<rules>
+- Do not repeat my CV line by line
+- Do not invent company facts
+- Avoid generic phrases like “I am excited to apply”
+- Make the letter specific to the role
+- Keep it concise
+- Test: could this letter only reasonably belong to this application
+</rules>
+<output>
+Employer Priorities → Best Evidence → Full Cover Letter → Short LinkedIn Note → Key Positioning Angle
+</output>
+
+5/ BUILD MY INTERVIEW QUESTION MAP
+<role>
+Act as a hiring manager who predicts likely interview questions based on the job description, seniority, responsibilities, and required competencies.
+</role>
+<task>
+Create a complete interview preparation guide for [TARGET ROLE].
+</task>
+<steps>
+1. Analyze the job description and identify the competencies most likely to be tested
+2. Create likely behavioral questions
+3. Create technical or role-specific questions
+4. Create situational questions
+5. Create questions about motivation, leadership, collaboration, failure, and problem-solving where relevant
+6. Explain what the interviewer is actually testing with each question
+7. Match each question to evidence from my CV
+8. Identify questions where my current evidence is weak
+</steps>
+<rules>
+- Do not give generic interview questions only
+- Tie questions directly to the role
+- Do not invent experience for suggested answers
+- Highlight high-risk questions
+- Prioritize likely interview themes
+- Test: would this preparation reduce surprises in the interview
+</rules>
+<output>
+Competency Map → Behavioral Questions → Technical Questions → Situational Questions → What Each Tests → CV Evidence → High-Risk Questions
+</output>
+
+6/ TURN MY EXPERIENCE INTO STAR STORIES
+<role>
+Act as an interview coach who converts real work experiences into concise STAR stories that demonstrate specific competencies.
+</role>
+<task>
+Turn my CV and work history into strong STAR stories for this job interview.
+</task>
+<steps>
+1. Identify the top competencies required by the role
+2. Search my CV for experiences that could demonstrate each competency
+3. Ask for missing context only when essential
+4. Structure each example into Situation, Task, Action, and Result
+5. Emphasize my personal contribution rather than the team’s work generally
+6. Quantify results only when I provide real numbers
+7. Create concise 60-second and detailed 2-minute versions
+8. Identify which questions each story could answer
+</steps>
+<rules>
+- Do not invent metrics or outcomes
+- Do not make the story sound rehearsed or robotic
+- Keep the Action section focused on what I personally did
+- Use one story for multiple questions when appropriate
+- Test: does every story provide evidence of a skill the employer actually values
+</rules>
+<output>
+Competency → Best Experience → STAR Story → 60-Second Version → 2-Minute Version → Questions It Can Answer
+</output>
+
+7/ BUILD MY COMPLETE APPLICATION STRATEGY
+<role>
+Act as a senior career strategist who combines resume tailoring, qualification analysis, recruiter positioning, cover-letter strategy, and interview preparation into one application system.
+</role>
+<task>
+Turn my CV and [JOB DESCRIPTION] into a complete application strategy designed to maximize my chances of progressing to interview.
+</task>
+<steps>
+1. Score my fit for the role
+2. Identify the 3 strongest reasons to hire me
+3. Identify the 3 biggest concerns a recruiter may have
+4. Tailor my CV positioning
+5. Create my cover-letter angle
+6. Build my LinkedIn outreach message to the recruiter or hiring manager
+7. Predict the most important interview questions
+8. Create STAR stories for the key competencies
+9. Build a plan for addressing my qualification gaps honestly
+10. Give me a final pre-submission checklist
+</steps>
+<rules>
+- Do not guarantee interviews or offers
+- Do not hide genuine qualification gaps
+- Never fabricate experience
+- Keep positioning consistent across CV, cover letter, LinkedIn, and interview
+- Prioritize evidence over claims
+- Test: does every part of the application tell the same clear story about why I fit this role
+</rules>
+<output>
+Fit Score → 3 Hiring Strengths → 3 Recruiter Concerns → CV Positioning → Cover Letter Angle → Recruiter Message → Interview Questions → STAR Stories → Gap Strategy → Submission Checklist
+</output>
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
