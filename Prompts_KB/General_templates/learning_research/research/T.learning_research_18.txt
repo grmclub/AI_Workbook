@@ -3,34 +3,34 @@
 ## create notes from YouTube lectures for FREE
 
 1. **YouTube Lecture Summarizer:**
-“Analyze this YouTube lecture and create a complete set of study notes. Extract the main concepts, important explanations, examples, key takeaways, and any practical advice mentioned by the speaker. Organize everything with clear headings and bullet points so I can understand the entire lecture without watching the full video again.”
+"Analyze this YouTube lecture and create a complete set of study notes. Extract the main concepts, important explanations, examples, key takeaways, and any practical advice mentioned by the speaker. Organize everything with clear headings and bullet points so I can understand the entire lecture without watching the full video again."
 
 2. **Exam Preparation Notes:**
-“Turn this YouTube lecture into exam-ready notes. Identify the most important topics, definitions, formulas, theories, and concepts that a student should remember. Create a structured revision sheet with key points, possible exam questions, and quick summaries for faster studying.”
+"Turn this YouTube lecture into exam-ready notes. Identify the most important topics, definitions, formulas, theories, and concepts that a student should remember. Create a structured revision sheet with key points, possible exam questions, and quick summaries for faster studying."
 
 3. **Beginner-Friendly Explanation:**
-“Convert this YouTube lecture into simple notes for a complete beginner. Explain difficult concepts using easy language, real-world examples, and step-by-step explanations. Remove unnecessary details while keeping everything important from the lecture.”
+"Convert this YouTube lecture into simple notes for a complete beginner. Explain difficult concepts using easy language, real-world examples, and step-by-step explanations. Remove unnecessary details while keeping everything important from the lecture."
 
 4. **Actionable Learning Guide:**
-“Analyze this YouTube lecture and create an actionable learning guide. Extract the lessons, strategies, frameworks, and practical steps mentioned by the speaker. Organize them into a clear checklist that I can follow and apply in real life.”
+"Analyze this YouTube lecture and create an actionable learning guide. Extract the lessons, strategies, frameworks, and practical steps mentioned by the speaker. Organize them into a clear checklist that I can follow and apply in real life."
 
 5. **Mind Map Creator:**
-“Create a detailed mind map from this YouTube lecture. Identify the central topic, main ideas, supporting concepts, examples, and connections between different sections. Structure it in a way that helps me quickly understand and remember the information.”
+"Create a detailed mind map from this YouTube lecture. Identify the central topic, main ideas, supporting concepts, examples, and connections between different sections. Structure it in a way that helps me quickly understand and remember the information."
 
 6. **Lecture Summary + Key Insights:**
-“Summarize this YouTube lecture into a concise but detailed report. Include the main idea, the most valuable insights, surprising points, important quotes, examples, and the biggest lessons someone should take away after watching this video.”
+"Summarize this YouTube lecture into a concise but detailed report. Include the main idea, the most valuable insights, surprising points, important quotes, examples, and the biggest lessons someone should take away after watching this video."
 
 7. **Research Assistant Notes:**
-“Act as my research assistant and analyze this YouTube lecture. Extract all important information, data points, references, tools, resources, and recommendations mentioned. Create organized research notes that I can use for future projects.”
+"Act as my research assistant and analyze this YouTube lecture. Extract all important information, data points, references, tools, resources, and recommendations mentioned. Create organized research notes that I can use for future projects."
 
 8. **Create Flashcards:**
-“Turn this YouTube lecture into flashcards for active learning. Create questions and answers based on the most important concepts, definitions, examples, and lessons from the lecture. Make them useful for quick review and memorization.”
+"Turn this YouTube lecture into flashcards for active learning. Create questions and answers based on the most important concepts, definitions, examples, and lessons from the lecture. Make them useful for quick review and memorization."
 
 9. **Content Repurposing Prompt:**
-“Analyze this YouTube lecture and transform it into multiple content ideas. Create a Twitter/X thread, LinkedIn post, Facebook post, short video ideas, and key talking points based on the most valuable information from the lecture.”
+"Analyze this YouTube lecture and transform it into multiple content ideas. Create a Twitter/X thread, LinkedIn post, Facebook post, short video ideas, and key talking points based on the most valuable information from the lecture."
 
 10. **Learn Any Skill From Lecture:**
-“Study this YouTube lecture like a personal tutor. Break down the entire lesson into a step-by-step learning path, explain each concept clearly, highlight mistakes beginners make, and create practice exercises so I can master the topic.”
+"Study this YouTube lecture like a personal tutor. Break down the entire lesson into a step-by-step learning path, explain each concept clearly, highlight mistakes beginners make, and create practice exercises so I can master the topic."
 
 -------------------------------------------------
 Claude Fable 5.1 is Anthropic's latest model for long-running coding and knowledge work.
@@ -46,7 +46,7 @@ Take [GOAL] and turn it into a complete execution plan for [DESIRED OUTCOME].
 </task>
 <steps>
 1. Inspect all context, files, constraints, requirements, and existing work I provide
-2. Define exactly what “done” means
+2. Define exactly what "done" means
 3. Identify unknowns that materially affect execution
 4. Break the project into phases, milestones, dependencies, and concrete tasks
 5. Identify which tasks can run independently and which must happen sequentially
@@ -367,5 +367,41 @@ Ask Claude to quiz you randomly during lessons, not just at the end. This keeps 
 Treat Claude like a tutor, not a search engine. Have a back and forth conversation instead of copy pasting one prompt and leaving.
 
 -------------------------------------------------
+🚨 NotebookLM can help you build an entire academic research project from scratch.
+Research questions → literature review → methodology → final paper.
+8 prompts to turn your sources into a complete research workflow. 👇
+
+1. Define the Research Focus and Questions
+Prompt:
+"Using the sources in this notebook as the foundation, help me define a clear and academically appropriate research focus on [topic] within [discipline/field]. Identify the central research problem or issue supported by the sources, explain its significance, and narrow the topic into a manageable scope for [type/level of research project]. Develop one clear main research question and a set of focused supporting questions that can guide the investigation. Where appropriate, suggest research objectives aligned with these questions. Ensure that the proposed focus, questions, and objectives are specific, coherent, researchable, and grounded in the uploaded sources. Clearly distinguish between what is directly supported by the sources and any areas that would require additional evidence or further research."
+
+2. Organize and Evaluate Your Research Sources
+Prompt:
+"Using the sources in this notebook, organize the research literature relevant to [research topic/question]. Group the sources into meaningful themes, concepts, theories, approaches, methods, or areas of debate based on their actual content. For each source, identify its main purpose, key arguments or findings, methodology where available, and relevance to my research question. Compare the sources to identify important similarities, differences, agreements, contradictions, and relationships. Evaluate the relevance and usefulness of each source for my research project, and identify areas where the current source collection is limited or where additional evidence may be needed. Do not invent information that is not supported by the uploaded sources."
+
+3. Create the Literature Review
+Prompt:
+"Using only the sources in this notebook, create a structured literature review for my research project on [research topic/question]. Organize the literature thematically, conceptually, chronologically, or methodologically, depending on what best reflects the sources. Synthesize the relevant studies rather than simply summarizing each source separately. Identify major themes, theoretical perspectives, key findings, methodological approaches, areas of agreement and disagreement, and important developments across the literature. Show how the sources relate to one another and to my research question. Highlight limitations or unresolved issues supported by the literature, and conclude by explaining what the existing research establishes and what remains to be investigated. Do not introduce claims, studies, or evidence that are not contained in the uploaded sources."
+
+4. Synthesize the Evidence
+Prompt:
+"Using only the sources in this notebook, synthesize the evidence relevant to [research topic/question]. Bring together findings, arguments, data, and conclusions from multiple sources to identify the strongest patterns across the literature. Organize the synthesis around the main themes, variables, concepts, or issues that are most relevant to my research question. Highlight where the sources support one another, where they present conflicting findings or interpretations, and where the evidence is limited, mixed, or inconclusive. Distinguish clearly between well-supported conclusions and claims that remain uncertain. Do not simply summarize sources one by one, and do not introduce evidence that is not contained in the uploaded sources."
+
+5. Identify Research Gaps
+Prompt:
+"Using only the sources in this notebook, identify meaningful research gaps related to [research topic/question]. Examine what the existing literature has established and determine what remains underexplored, unclear, inconsistent, or unresolved. Look for gaps in knowledge, theory, methodology, populations, contexts, variables, or evidence where they are genuinely supported by the sources. For each potential gap, explain the evidence that indicates the gap, why it matters, and how it relates to my research question. Distinguish between a genuine research gap and a topic that is simply absent from the uploaded sources. Suggest how the strongest supported gaps could inform the direction, objectives, or contribution of my research project without making claims that go beyond the available evidence."
+
+6. Plan the Research Methodology
+Prompt:
+"Using the sources in this notebook as the foundation, help me develop an appropriate methodology for my research project on [research topic/question]. Identify the research approaches, designs, methods, instruments, populations, sampling strategies, data-collection procedures, and data-analysis techniques discussed or supported by the sources. Compare relevant methodological options and explain their strengths, limitations, and suitability for answering my research questions. Based on this evidence, propose a coherent methodology and explain how each methodological choice aligns with the research questions and objectives. Identify relevant ethical considerations and potential limitations where supported by the sources. Clearly distinguish between methodological guidance supported by the uploaded sources and decisions that require additional evidence, institutional requirements, or my own research context."
+
+7. Structure and Write the Research Project
+Prompt:
+"Using only the sources in this notebook, help me structure and develop my academic research project on [research topic/question]. Create a logical academic structure appropriate for [type/level of research project], including the major sections and subsections needed to present the research clearly and coherently. For each section, specify its purpose, the key points or evidence from the uploaded sources that should be addressed, and how it should connect to the research questions and objectives. Help me develop source-grounded content for the introduction, literature review, methodology, analysis or discussion, and conclusion where the available sources support these sections. Maintain a clear academic progression between sections, avoid unnecessary repetition, and distinguish evidence from interpretation. Do not invent findings, data, citations, or conclusions that are not supported by the uploaded sources."
+
+8. Review and Finalize the Research Project
+Prompt:
+"Using the sources in this notebook, conduct a comprehensive review of my research project on [research topic/question]. Check whether the research focus, questions, objectives, literature review, evidence synthesis, identified research gap, methodology, analysis or discussion, and conclusions are logically connected and academically coherent. Identify unsupported claims, weak arguments, inconsistencies, unnecessary repetition, missing evidence, and sections that require further development. Check whether interpretations and conclusions accurately reflect the evidence in the uploaded sources and whether the project adequately addresses the research questions and objectives. Recommend specific revisions to improve the project’s clarity, organization, academic rigor, and overall coherence. Clearly identify any claims or sections that cannot be adequately supported by the current sources and require additional research or evidence."
+
 -------------------------------------------------
 -------------------------------------------------
