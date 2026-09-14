@@ -39,6 +39,33 @@ Learn what Generative AI is, how it works, and how it differs from traditional m
 Course: https://www.cloudskillsboost.google/course_templates/536
 
 -------------------------------------------------
+🚨 Google’s 9 FREE AI Courses Can Take You From Beginner to AI Expert. 💨
+Your AI learning roadmap starts here. 👇🏻
+
+🟢 BEGINNER — AI FOUNDATIONS
+1️⃣ Google AI Essentials
+🔗 https://grow.google/ai-essentials/
+2️⃣ Introduction to Generative AI
+🔗 https://www.cloudskillsboost.google/course_templates/536
+3️⃣ Introduction to Large Language Models
+🔗 https://www.cloudskillsboost.google/course_templates/539
+4️⃣ Introduction to Responsible AI
+🔗 https://www.cloudskillsboost.google/course_templates/554
+
+🔵 INTERMEDIATE — MACHINE LEARNING
+5️⃣ Machine Learning Crash Course
+🔗 https://developers.google.com/machine-learning/crash-course
+6️⃣ Introduction to AI and Machine Learning on Google Cloud
+🔗 https://www.cloudskillsboost.google/course_templates/593
+7️⃣ Launching into Machine Learning
+🔗 https://www.cloudskillsboost.google/course_templates/8
+
+🟣 ADVANCED — BUILD & DEPLOY
+8️⃣ TensorFlow Learning
+🔗 https://www.tensorflow.org/learn
+9️⃣ Vertex AI Learning Resources
+🔗 https://cloud.google.com/vertex-ai/docs
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
