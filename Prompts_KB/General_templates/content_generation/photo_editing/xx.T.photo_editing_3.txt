@@ -63,15 +63,35 @@ Use these pro prompts for realistic, high-quality photo edits. 🔥
 10. Instagram Creator / Editorial Edit
 "Give this photo a polished creator-editorial look suitable for [Instagram / fashion post / personal brand]. Preserve my exact identity and natural skin texture. Apply [warm neutral / soft cinematic] color grading, balanced contrast, controlled highlights, slightly lifted shadows, and subtle subject separation. Remove [specific distractions] and improve composition if necessary. Do not reshape my face or body or make the image look AI-generated."
 
-
-
-
-
-
-
-
-
-
 -------------------------------------------------
+## Edit images without losing original details
+
+1️. Preserve the Original Image
+Prompt:
+"Edit the attached image while preserving everything that does not need to change. Make only this specific edit: [describe exactly what you want changed]. Keep the original subject, facial features, pose, proportions, composition, perspective, background, lighting, colors, textures, and important details unchanged unless I explicitly ask you to modify them. Do not redesign, reinterpret, replace, or add elements unnecessarily. Maintain the original visual style and overall appearance. The final image should look like the original image with only the requested edit applied."
+
+2️. Replace or Remove an Object
+Prompt:
+"Edit the attached image by [removing/replacing] this specific object: [describe the object and its location]. If replacing it, replace it with [describe the new object]. Make the edit blend naturally with the surrounding area, matching the original lighting, shadows, perspective, scale, colors, textures, and visual style. Keep all other subjects, objects, text, background elements, facial features, composition, and important details exactly as they are. Do not add, remove, reposition, or redesign anything else. The final image should look like the original image with only the requested object edited."
+
+3️. Change the Background
+Prompt:
+"Edit the attached image by changing only the background to [describe the new background]. Keep the main subject exactly as it appears in the original image, including its shape, facial features, pose, proportions, clothing, colors, textures, and important details. Make the new background blend naturally with the subject by matching the perspective, lighting, shadows, depth, and overall visual style. Do not alter, reposition, redesign, or replace the main subject or any elements I have not asked you to change. The final image should look natural and consistent, with only the requested background changed."
+
+4️. Edit Text in an Image
+Prompt:
+"Edit only the text in the attached image. Replace [existing text] with [new text]. Keep the original font style, size, weight, color, alignment, spacing, positioning, and overall typography as closely as possible. Preserve the existing layout, graphics, background, images, colors, and all other design elements exactly as they are. Make sure the new text is spelled correctly, clearly readable, and fits naturally within the original space. Do not redesign the image or modify anything other than the specified text."
+
+5️. Change Colors or Clothing
+Prompt:
+"Edit the attached image by changing only [describe the specific color, clothing item, or visual element] to [describe the desired change]. Preserve the subject’s identity, facial features, pose, body proportions, hairstyle, expression, and all other details exactly as they appear in the original image. Make the change look natural by maintaining the original lighting, shadows, textures, folds, perspective, and visual style. Do not alter the background, composition, or any elements I have not specifically asked you to change. The final image should look like the original with only the requested color or clothing change applied."
+
+6️. Improve Image Quality
+Prompt:
+"Enhance the attached image to improve its overall quality while preserving its original appearance. Improve sharpness, clarity, lighting, contrast, and visible details where needed. Reduce blur, noise, compression artifacts, or other quality issues without making the image look artificial or overprocessed. Preserve the original subjects, facial features, shapes, proportions, colors, textures, composition, background, and visual style. Do not add, remove, redesign, or reinterpret any elements. Keep natural skin, fabric, surface, and environmental textures realistic. The final image should look like a cleaner, clearer, higher-quality version of the original, not a newly generated image."
+
+7️. Make Precise Final Edits
+Prompt:
+"Apply the following specific edits to the attached image: [list each requested change clearly]. Make only these changes and preserve everything else exactly as it appears in the original image. Keep all unmentioned subjects, facial features, objects, text, colors, proportions, positions, background elements, lighting, textures, perspective, composition, and visual style unchanged. Ensure each edit blends naturally with the original image and does not unintentionally affect surrounding details. Do not add, remove, redesign, reposition, or reinterpret anything unless explicitly requested. The final image should look like the original with only the specified edits applied."
 -------------------------------------------------
 -------------------------------------------------
