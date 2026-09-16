@@ -117,6 +117,103 @@ Make them specific, not generic.
 10. "If I could only take one action to move this forward, what would it be: [goal]?"
 
 -------------------------------------------------
+## 20 prompts to use ChatGPT as a critical thinking partner
+
+1. The Foundation Rebuild
+
+    Description: Break any complex problem down to its rawest parts, then build a brand new solution from scratch.
+
+    Prompt: 'Act as a first principles analyst on [Your Problem]. Deconstruct it into its most fundamental truths. Rebuild a completely new strategy from these basics.'
+
+2. The Hidden Assumptions Detector
+
+    Description: Every decision is built on assumptions you never questioned.
+
+    Prompt: 'List every assumption I'm making about [Your Topic]. Explain how to test if each is true or false, ranked by risk.'
+
+3. The Five Whys Excavator
+
+    Description: Keep asking 'why' until you hit the real root of a belief.
+
+    Prompt: 'Act as a Socratic mentor. My belief is [Your Belief]. Ask me five consecutive why questions that force me to uncover the root truth.'
+
+4. The Opposition Amplifier
+
+    Description: Build the smartest case against your own opinion to strengthen it.
+
+    Prompt: 'My position is [Your Position]. Build the strongest argument AGAINST it, then help me revise my view to address these objections.'
+
+5. The Idea Demolition Test
+
+    Description: Try to destroy your own idea before you spend months building it.
+
+    Prompt: 'Imagine you're my biggest critic. Stress test my idea for [Your Goal]. Prove it's completely wrong — list every flaw or missing evidence.'
+
+6. The Alternate Timeline Analyzer
+
+    Description: Rewind a past event and find the smallest change that would've flipped the outcome.
+
+    Prompt: 'Analyze [Event/Outcome]. Describe the minimal changes that would've reversed it, and what lessons that reveals.'
+
+7. The Belief Updates Engine
+
+    Description: Learn to update your beliefs the moment new evidence shows up.
+
+    Prompt: "Act as a Bayesian reasoner. My belief about [Topic] is [Belief]. New evidence is [Evidence]. Show how my belief should logically update."
+
+8. The Mental Blind Spot Scanner
+
+    Description: Find the emotional traps and logic errors hiding inside your own reasoning.
+
+    Prompt: "Act as a cognitive bias auditor. Review my argument on [Subject]. Label each bias found and suggest a rational correction."
+
+9. The Triple Framework Fusion
+
+    Description: Look at one problem through three lenses, then combine the best of all three.
+
+    Prompt: 'Compare a cost-benefit analysis, systems thinking, and ethical reasoning for [Your Problem]. Synthesize the insights.'
+
+10. The Guaranteed Failure Blueprint
+
+    Description: Plan exactly how you'd lose, then avoid every step.
+
+    Prompt: 'My objective is [Objective]. How could we guarantee this fails? List 5 destructive behaviors, then invert each into a rule for success.'
+
+11. The Vague Goal Sharpener
+
+    Description: Turn a fuzzy wish into a sharp, measurable target.
+
+    Prompt: 'Take my vague goal: [Goal]. Rewrite it into a clear, measurable, falsifiable problem statement with defined success metrics.'
+
+12. The Future Failure Autopsy
+
+    Description: Pretend your project already failed a year from now, then find out why before it happens.
+
+    Prompt: 'Assume [Project] fails in 12 months. Identify 10 failure modes, warning signals, and mitigation tactics.'
+
+13. The Root Cause Web
+
+    Description: Map every hidden connection between a problem and what's causing it.
+
+    Prompt: 'Create a cause-and-effect map for [Situation]. Identify root causes, feedback loops, and leverage points.'
+
+14. The Proof Strength Ranker
+
+    Description: Rank what's backing your belief from solid science to weak anecdotes.
+
+    Prompt: 'My claim is [Claim]. List all supporting evidence, rank by strength, and explain what would raise my confidence.'
+
+19. The Two Sided Truth Finder
+
+    Description: Argue both sides of a debate fully, then find what stays true no matter who wins.
+
+    Prompt: 'Present the best argument FOR and AGAINST [Belief]. Identify what core truth remains valid from both sides.'
+
+20. The Thinking About Thinking Mirror
+
+    Description: Review your reasoning and catch the question you're too scared to ask.
+
+    Prompt: 'Review my reasoning about [Situation]. What critical question am I not asking? How could it change my conclusion?'
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
