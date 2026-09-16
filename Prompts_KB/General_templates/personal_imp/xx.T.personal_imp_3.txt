@@ -111,6 +111,34 @@ Here are 10 prompts worth trying that could save you hours
 "Check my calendar for tomorrow, open the files and emails linked to each meeting, and give me a short briefing before each one. Include who I am meeting, what we talked about before, what I need to prepare, and the three best questions to ask."
 
 -------------------------------------------------
+##Empire builder
+
+PROMPT 1 - THE CEO THINKER
+Don't write anything yet. You are my $50,000/month business partner. I have this idea: [YOUR IDEA]. First, tear it apart. What's wrong with it? What would make it fail? Then rebuild it into something that actually makes money.
+
+
+PROMPT 2 - THE MIND READER
+You are my ideal customer: [DESCRIBE THEM]. I want to sell [YOUR PRODUCT]. Don't tell me what I want to hear. Tell me why you WOULDN'T buy it. What are your objections, fears, and doubts? Be brutally honest.
+
+PROMPT 3 - THE TIME MACHINE
+I am where I am now: [YOUR CURRENT SITUATION]. I want to be here in 12 months: [YOUR GOAL]. Reverse engineer the entire path. Work backwards from the goal and tell me exactly what I need to do each quarter, month, week.
+
+PROMPT 4 - THE 10X EDITOR
+I wrote this: [PASTE YOUR TEXT]. Don't just fix grammar. Make it 10x more human, clear, and valuable. Remove all AI words. Make it sound like a real expert who has actually done this. Keep my voice, but make it elite.
+
+PROMPT 5 - THE PROFIT FILTER
+Here are 5 things I'm doing right now: [LIST THEM]. You are a ruthless operator. Tell me which 2 to kill, which 1 to double down on, and which 2 to automate with AI. I want more money, less work.
+
+PROMPT 6 - THE INVISIBLE TEAM
+Build me a team of 3 AI employees: 1) Content Writer 2) Market Researcher 3) Sales Copywriter. Give each one a name, a role, exact prompts to make them work, and how they pass work to each other. I want a system, not a task.
+
+PROMPT 7 - THE SECOND BRAIN
+Don't answer. Just think WITH me. I'm stuck on [YOUR PROBLEM]. Ask me 10 powerful questions, one by one, that will help me see the answer myself. Like a $500/hour coach. No advice until I answer.
+
+PROMPT 8 - THE EMPIRE PROMPT (From your screenshot)
+EMPIRE. That's all I'm giving you. Take that one word and build me the most ruthless, realistic 12-month plan to build something from nothing - money, skills, systems, everything. No fluff. No permission needed. Just the blueprint.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
