@@ -29,6 +29,49 @@ Use these 8 prompts instead:
 
 
 -------------------------------------------------
+🚫 STOP TYPING "EDIT MY PHOTO" INTO CHATGPT.
+Use these pro prompts for realistic, high-quality photo edits. 🔥
+📌 Save this post for later! 👇🏻
+
+1️. Natural Portrait Retouch
+"Edit this portrait with professional, natural retouching. Remove temporary blemishes, reduce under-eye darkness by about [30%], soften uneven redness, and tame flyaway hairs. Preserve pores, freckles, fine lines, facial structure, skin texture, and identity. Correct white balance, add subtle contrast, and gently brighten the eyes. Keep the final result polished, realistic, and completely believable."
+
+2️. Fix Bad Lighting
+"Professionally correct the lighting in this photo to resemble [soft golden hour / bright window light / overcast daylight]. Recover highlights, gently brighten facial shadows, and balance the skin tone. Add soft directional light from [left/right/front]. Preserve the original scene and subject. Avoid HDR effects, glowing skin, fake highlights, or artificial-looking edits."
+
+3️. Clean Up a Distracting Background
+"Clean up this photo by removing [people / cars / trash bins / signs / cables / clutter]. Naturally reconstruct the background while preserving the subject, pose, clothing, perspective, shadows, and camera angle. Match the original lighting, texture, and depth of field so the edits are completely invisible."
+
+4️. Turn a Casual Photo Into a Professional Headshot
+"Transform this photo into a realistic professional headshot for [LinkedIn / company website / personal brand]. Preserve my exact face, hairstyle, expression, body proportions, and identity. Use a clean [light gray / warm beige / office-style] background, soft studio lighting, natural skin retouching, and subtle background blur. Frame from the chest upward. Make it look like a genuine professional photograph, not AI-generated."
+
+5️. Make an iPhone Photo Look Professionally Shot
+"Enhance this phone photo to resemble a professionally captured and edited high-end camera image. Improve exposure, dynamic range, white balance, micro-contrast, and subject separation. Add realistic depth of field focused on [subject]. Preserve natural colors, skin texture, and fine details. Avoid excessive sharpness, fake bokeh, HDR halos, or cinematic filters."
+
+6️. Change the Background Without Looking Fake
+"Replace the current background with [specific location/background] while keeping the person completely unchanged. Match the new background’s perspective, camera height, focal length, lighting direction, color temperature, shadows, reflections, and depth of field. Add realistic contact shadows where needed. Make the final image look like the photo was genuinely taken in that location."
+
+7️. Change Clothing Color Realistically
+"Change only the [shirt/jacket/dress/pants] from [current color] to [new color]. Preserve the exact fabric texture, stitching, folds, wrinkles, shadows, highlights, logos, buttons, and fit. Do not alter the person, accessories, pose, or background. Make the new color respond naturally to the existing lighting without looking painted on."
+
+8️. Luxury Travel Photo Edit
+"Give this travel photo a premium editorial look while keeping it realistic. Enhance the [ocean/sky/mountains/city/buildings], improve atmospheric clarity, and balance highlights and shadows. Apply a refined [warm Mediterranean / tropical / moody European / clean luxury] color grade. Keep my appearance and the actual location recognizable. Remove only [specific distractions]. Avoid oversaturated skies, fake sunsets, or unrealistic scenery."
+
+9️. Professional Food Photo Edit
+"Edit this food photo for a high-end restaurant or food magazine. Make [dish name] the clear focal point. Correct white balance, enhance natural food textures and colors, soften distracting background elements, and create subtle depth of field. Preserve the original ingredients without adding anything new. Avoid excessive saturation, artificial shine, or unrealistic textures."
+
+10. Instagram Creator / Editorial Edit
+"Give this photo a polished creator-editorial look suitable for [Instagram / fashion post / personal brand]. Preserve my exact identity and natural skin texture. Apply [warm neutral / soft cinematic] color grading, balanced contrast, controlled highlights, slightly lifted shadows, and subtle subject separation. Remove [specific distractions] and improve composition if necessary. Do not reshape my face or body or make the image look AI-generated."
+
+
+
+
+
+
+
+
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
