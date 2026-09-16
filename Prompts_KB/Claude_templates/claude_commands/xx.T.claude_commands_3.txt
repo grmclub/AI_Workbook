@@ -1,0 +1,90 @@
+-------------------------------------------------
+##Claude 70 commands
+
+Claude Commands 1–10: Prompt Fundamentals
+    Wrap inputs in XML tags <task> <context>
+    Think step-by-step inside <thinking> tags
+    Start with "Act as [specific expert]"
+    Specify exact output format first
+    "No preamble. Answer directly."
+    Go beyond the basics – make it production-ready
+    Put long context first, question last
+    Flip every "don't" into a positive "do"
+    Define exact length & structure upfront
+    "Show your full reasoning process"
+
+Claude Commands 11–20: Writing & Content
+    Write 1200-word article with exact structure + audience
+    "Rewrite this to remove all AI tone – sound 100% human"
+    Make this 40% shorter, every sentence starts with a verb
+    Match this exact brand voice: [describe]
+    Create 5 click-optimized headlines
+    Turn this into a viral LinkedIn post
+    Edit for clarity and flag every weak claim
+    Write a 3-email cold outreach sequence
+    Summarize long document into 3 bullets + 1 key insight
+    Generate full content calendar for [topic]
+
+Claude Commands 21–30: Coding Power
+    Review this code as senior engineer – bugs, security, performance
+    Debug this error step-by-step with all possible causes
+    First show the plan, then implement after my approval
+    Refactor this for readability + add tests
+    Generate complete unit tests with 90%+ coverage
+    Explain this legacy code before changing anything
+    Create production-ready API endpoint with validation
+    Convert this into clean TypeScript with types
+    Find security vulnerabilities and fix them
+    "Write the code, then verify it works with examples"
+
+Claude Commands 31–40: Analysis & Research
+    Extract 3 strongest + 3 weakest arguments from this document
+    Act as research analyst – give executive summary + key findings
+    Compare these options with pros, cons and recommendation
+    Find hidden assumptions and blind spots in this plan
+    Steelman the opposing argument
+    Create a decision matrix for this choice
+    Fact-check every claim and mark uncertainty
+    Synthesize multiple sources into themes + contradictions
+    Premortem: assume this plan already failed – why?
+    "Give me the honest brutal assessment, no softening"
+
+Claude Commands 41–50: Productivity Systems
+    Turn these meeting notes into action items with owners
+    Create a weekly status report from these updates
+    Break this big goal into 7-day action plan
+    Optimize my daily schedule for deep work
+    Convert messy notes into clean SOP
+    Draft reply to this email in my tone
+    Prioritize this task list by impact vs effort
+    Create a simple project tracker template
+    Summarize this long thread into next steps only
+    "Be my accountability coach – hold me to this plan"
+
+Claude Commands 51–60: Expert Roles
+    Act as senior product manager at B2B SaaS.
+    You are a world-class copywriter for tech founders.
+    Act as ruthless code reviewer who never misses bugs.
+    You are a data scientist who only speaks in insights.
+    Act as startup advisor who challenges every assumption.
+    You are a patient teacher who explains like I'm smart but new.
+    Act as legal-minded reviewer for contracts.
+    You are a growth marketer focused only on ROI.
+    Act as systems thinker who maps second-order effects.
+    Lock this expert role for the entire conversation.
+
+Claude Commands 61–70: Advanced Mastery
+    Use R-S-C-I-O-T framework (Role Structure Context Instructions Output Thinking)
+    Force maximum reasoning: "Think harder before answering"
+    Prefill the first few words of the answer
+    Chain of thought with clear <thinking> and <answer> tags
+    "First diagnose the problem, then fix it"
+    Create a reusable system prompt for this workflow
+    Ask clarifying questions before solving
+    "Go beyond basics – deliver client-ready quality"
+    Self-critique your own answer and improve it
+    Turn any vague request into a perfect structured prompt.
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
