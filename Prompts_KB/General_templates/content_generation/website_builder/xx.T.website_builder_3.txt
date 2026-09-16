@@ -5,35 +5,35 @@ No coding. No designer. No developer.
 10 powerful prompts to make your site look $5,000+ 👇
 
 1. The Ultimate Website Blueprint
-“Act as a senior web strategist. Plan a high-converting website for my [business] in [industry/location]. Define the essential pages, navigation, content hierarchy, conversion strategy, and ideal visitor journey. Keep it strategic, simple, and beginner-friendly.”
+"Act as a senior web strategist. Plan a high-converting website for my [business] in [industry/location]. Define the essential pages, navigation, content hierarchy, conversion strategy, and ideal visitor journey. Keep it strategic, simple, and beginner-friendly."
 
 2. The High-Converting Homepage
-“Act as a conversion-focused web designer. Build the ideal homepage structure for my [business]. Include the hero, trust signals, services, benefits, testimonials, FAQs, and CTAs. Explain the purpose of each section and make the layout clean, persuasive, and easy to navigate.”
+"Act as a conversion-focused web designer. Build the ideal homepage structure for my [business]. Include the hero, trust signals, services, benefits, testimonials, FAQs, and CTAs. Explain the purpose of each section and make the layout clean, persuasive, and easy to navigate."
 
 3. The Persuasive Homepage Copy
-“Act as a direct-response copywriter. Write high-converting homepage copy for my [business] targeting [audience]. Create a powerful headline, subheadline, CTA, three customer-focused benefits, and a trust-building closing section. Keep it clear, concise, and persuasive.”
+"Act as a direct-response copywriter. Write high-converting homepage copy for my [business] targeting [audience]. Create a powerful headline, subheadline, CTA, three customer-focused benefits, and a trust-building closing section. Keep it clear, concise, and persuasive."
 
 4. The Professional Website Design System
-“Act as a senior UI/UX designer. Create a premium design system for my [business] website. Define the color palette with HEX codes, font pairings, buttons, spacing, visual hierarchy, and overall style. Make it modern, cohesive, and easy for a beginner to implement.”
+"Act as a senior UI/UX designer. Create a premium design system for my [business] website. Define the color palette with HEX codes, font pairings, buttons, spacing, visual hierarchy, and overall style. Make it modern, cohesive, and easy for a beginner to implement."
 
 5. The Ready-to-Launch Landing Page
-“Act as a senior front-end developer. Build a fully responsive landing page for my [business] using clean HTML and CSS. Include a compelling hero, services/features, testimonials, and CTA. Make the code semantic, accessible, mobile-friendly, easy to edit, and production-ready.”
+"Act as a senior front-end developer. Build a fully responsive landing page for my [business] using clean HTML and CSS. Include a compelling hero, services/features, testimonials, and CTA. Make the code semantic, accessible, mobile-friendly, easy to edit, and production-ready."
 
 6. The High-Converting Services Page
-“Act as a conversion copywriter. Write a high-converting services page for my [business] offering [services]. For each service, create a compelling title, concise description, ideal customer, and clear outcome. Focus on results, clarity, and customer value—not generic features.”
+"Act as a conversion copywriter. Write a high-converting services page for my [business] offering [services]. For each service, create a compelling title, concise description, ideal customer, and clear outcome. Focus on results, clarity, and customer value—not generic features."
 
 
 7. The Trust-Building About Page
-“Act as a brand storyteller. Write an authentic About page for my [brand/business]. Include the origin story, mission, values, differentiators, and reasons customers should trust us. Make it human, confident, relatable, and memorable without sounding corporate.”
+"Act as a brand storyteller. Write an authentic About page for my [brand/business]. Include the origin story, mission, values, differentiators, and reasons customers should trust us. Make it human, confident, relatable, and memorable without sounding corporate."
 
 8. The SEO Content Engine
-“Act as an expert SEO strategist. Create search-optimized content for my [page] targeting [keyword/topic]. Write a compelling title, logical headings, concise paragraphs, and natural keyword placement. Prioritize search intent, readability, usefulness, and strong organic visibility—without keyword stuffing.”
+"Act as an expert SEO strategist. Create search-optimized content for my [page] targeting [keyword/topic]. Write a compelling title, logical headings, concise paragraphs, and natural keyword placement. Prioritize search intent, readability, usefulness, and strong organic visibility—without keyword stuffing."
 
 9. The Website UX Upgrade
-“Act as a senior UX auditor. Analyze my [website/website idea] and identify the biggest opportunities to improve navigation, layout, hierarchy, CTAs, readability, and mobile usability. Give me practical, prioritized fixes I can implement immediately.”
+"Act as a senior UX auditor. Analyze my [website/website idea] and identify the biggest opportunities to improve navigation, layout, hierarchy, CTAs, readability, and mobile usability. Give me practical, prioritized fixes I can implement immediately."
 
 10. The Code Upgrade System
-“Act as a senior front-end engineer. Review my website code and improve its structure, responsiveness, accessibility, performance, and maintainability. Fix errors, remove unnecessary code, and return the improved version with a simple explanation of every major upgrade.”
+"Act as a senior front-end engineer. Review my website code and improve its structure, responsiveness, accessibility, performance, and maintainability. Fix errors, remove unnecessary code, and return the improved version with a simple explanation of every major upgrade."
 
 
 -------------------------------------------------
