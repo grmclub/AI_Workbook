@@ -37,6 +37,29 @@ No coding. No designer. No developer.
 
 
 -------------------------------------------------
+## Claude can map out your entire brand identity, visual direction, and logo concepts without hiring anyone. Steal these 7 prompts 👇👇
+
+1. The Brand Foundation
+Act as my brand strategist. My business is [what you do], my audience is [who they are], and I want to feel [3 words: e.g. bold, warm, premium]. Give me my brand's core vibe, personality, and the feeling someone should get in 3 seconds.
+
+2. The Color Palette
+Based on my brand [paste vibe], give me a color palette: 2 main colors, 2 accents, and a neutral. Give me the hex codes and explain what each color says about my brand so it's intentional, not random.
+
+3. The Font Direction
+Recommend 3 font pairings for my brand [paste vibe]. One heading font, one body font per pairing. Tell me where to find each one free and what mood each pairing gives off.
+
+4. The Logo Concepts
+Give me 5 logo concepts for [business name], niche [niche], vibe [paste]. For each, describe the style, the icon or symbol idea, and why it fits. Written so I can hand it to a designer or drop it into an image tool.
+
+5. The Tagline
+Write me 10 tagline options for [business name]. Short, memorable, says who I help or the transformation I create. Mix punchy and emotional. No corporate jargon.
+
+6. The Visual Direction
+Build me a simple brand style guide: my colors, fonts, tagline, and the overall look and feel of my content. Include 5 rules to keep everything consistent across Instagram, so my page looks like one brand.
+
+7. The Canva Brief
+Turn all of this into a step-by-step brief I can follow in Canva to build my logo and brand templates myself. List exactly what to create and in what order, assuming I'm a total beginner.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
