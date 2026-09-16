@@ -1,0 +1,37 @@
+
+-------------------------------------------------
+## Grok & Gemini are so good at analyzing your CV and finding the best JоЬ for you.
+
+1. Find My Best-Fit Roles
+"Analyze my CV like an experienced career strategist. Based on my skills, experience, achievements, education, and transferable strengths, identify the 10 job roles I’m currently best qualified for. Rank them from strongest to weakest fit. For each role, explain why I’m a match, what skills I already have, what gaps may hold me back, and what salary level/seniority I should realistically target. Here is my CV: [PASTE CV]"
+
+2. Match Me With Jobs I Could Apply for Today
+"Review my CV and identify the types of jobs I could realistically apply for today without gaining additional qualifications. Give me 10 specific job titles and the industries where my background would be most valuable. Prioritize roles where I meet at least 70–80% of typical requirements. CV: [PASTE CV]"
+
+3. Discover Jobs I Haven’t Considered
+"Analyze my CV and find career opportunities I may be overlooking. Look beyond my current job title and focus on transferable skills, achievements, industry knowledge, tools, leadership experience, and communication skills. Suggest 10 less-obvious career paths I could transition into, and explain exactly which parts of my experience make each transition possible. CV: [PASTE CV]"
+
+4. Compare My CV to a Job Description
+"Act as a recruiter hiring for the job below. Compare my CV against the job description and give me a match score from 0–100. Show my strongest matching qualifications, missing skills or keywords, possible recruiter concerns, and specific changes I should make before applying. Do not invent experience I don’t have. CV: [PASTE CV] Job description: [PASTE JOB]"
+
+5. Turn My CV Into an ATS-Friendly Version
+"Rewrite my CV for the following role while keeping every claim truthful. Improve weak bullet points, emphasize measurable achievements, incorporate relevant keywords naturally, remove unnecessary information, and make the CV easy for both ATS systems and recruiters to scan. Also explain the 5 most important changes you made. Target role: [JOB TITLE] CV: [PASTE CV]"
+
+6. Find the Biggest Problems in My CV
+"Review my CV as a skeptical recruiter who spends only 10 seconds on the first scan. Identify anything that could cause me to be rejected: vague descriptions, weak achievements, irrelevant information, confusing formatting, missing keywords, unexplained gaps, poor positioning, or unclear career progression. Rank the problems by severity and tell me exactly how to fix each one. CV: [PASTE CV]"
+
+7. Build My Job-Search Strategy
+"Using my CV, create a focused 30-day job-search strategy. Identify my 5 best target job titles, ideal industries, companies I should prioritize, keywords I should search for, skills I should highlight, and the types of roles I should avoid wasting time on. Then give me a weekly application and networking plan. CV: [PASTE CV] Location/remote preference: [LOCATION]"
+
+8. Show Me My Career Gaps
+"Analyze where my current experience could take me over the next 2–3 years. Suggest 5 realistic higher-paying or higher-responsibility roles I could work toward. For each one, show what I already have, what I’m missing, and the fastest practical way to close those gaps through projects, certifications, experience, or portfolio work. CV: [PASTE CV]"
+
+9. Prepare Me for Interviews
+"Based on my CV and this target role, predict the 15 interview questions a recruiter or hiring manager is most likely to ask me. Include questions about my strongest experience, weak areas, career changes, gaps, achievements, and role-specific skills. Then help me create concise STAR-style answers using only information from my CV. Target role: [JOB TITLE] CV: [PASTE CV]"
+
+10. Create My Complete Job Application Pack
+"Analyze my CV for this target job and create a complete application package: an improved professional summary, tailored CV bullet points, a short cover letter, a LinkedIn headline, a LinkedIn About section, and a concise recruiter outreach message. Keep everything specific, natural, and truthful. Target job: [PASTE JOB DESCRIPTION] CV: [PASTE CV]"
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
