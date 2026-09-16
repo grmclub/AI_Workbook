@@ -195,7 +195,7 @@ Practical significance
 Policy relevance
 Relevance to specific populations, institutions, sectors, or contexts
 Potential contribution to future research
-Distinguish clearly between why the problem matters and what the study may contribute. Avoid vague statements such as “this study is important” unless the importance is demonstrated with evidence from the uploaded sources.
+Distinguish clearly between why the problem matters and what the study may contribute. Avoid vague statements such as "this study is important" unless the importance is demonstrated with evidence from the uploaded sources.
 For each area of significance, provide:
 Type of Significance
 Evidence from the Uploaded Literature
@@ -275,10 +275,346 @@ Then produce a fully revised research article introduction as coherent, publicat
 Conclude with a Final Readiness Assessment: Ready for Journal Manuscript, Minor Revision Required, Major Revision Required, or Insufficient Evidence to Finalize.
 Use only the uploaded materials. Do not invent research gaps, findings, statistics, citations, objectives, questions, hypotheses, or contributions that are not supported by the uploaded sources."
 
+-------------------------------------------------
+🚨 Research doesn’t have to mean drowning in papers.
+NotebookLM can turn complex academic sources into literature reviews, study comparisons, presentations, thesis defenses, and actionable insights.
+Here are 7 prompts to do it faster. 👇👇
+
+1. Research Presentation
+PROMPT:
+"Turn the research paper I provide into a clear, well-structured academic presentation. Organize it slide by slide to cover the research problem, research gap, objectives, methodology, key findings, strongest supporting evidence, limitations, conclusions, and practical implications. Select and prioritize the most important information rather than trying to include everything. Arrange the slides in a logical sequence that builds a coherent narrative from the problem the study addresses to its findings and implications. Keep each slide focused, concise, and suitable for an academic audience, and base all content strictly on the research paper without adding unsupported information."
+
+2. Research Comparison
+PROMPT:
+"Create a systematic comparison of the research studies I provide. Compare their research questions, methodologies, samples, key findings, and conclusions, highlighting where the evidence agrees, differs, conflicts, or remains inconclusive. Explain important differences between the studies that may account for variations in their findings, and evaluate the main strengths and limitations of each study. Organize the comparison clearly so that patterns and contrasts across the studies are easy to identify. Conclude with an overall synthesis based on the strongest available evidence without overstating what the studies can support. Base the entire comparison strictly on the provided studies and clearly identify any questions the available evidence cannot resolve."
+
+3. Conference Presentation
+PROMPT:
+"Turn the dissertation I provide into a focused and compelling presentation suitable for an academic conference. Structure the presentation around the research problem, knowledge gap, objectives, methodology, most significant findings, original contributions, implications, limitations, and directions for future research. Condense lengthy sections and remove details that are not essential to understanding the study or its contribution. Give particular emphasis to what is novel, significant, and worthy of discussion, while preserving the dissertation’s findings and claims accurately. Organize the slides into a coherent narrative that moves from the research problem to the study’s contribution and broader implications. Keep each slide concise and appropriate for a conference audience, and base all content strictly on the dissertation without introducing unsupported claims or information."
+
+4. Thesis Defense
+PROMPT:
+"Turn the thesis I provide into a complete, well-structured presentation suitable for an academic defense. Organize the presentation around the research problem, research gap, research questions, relevant literature, methodology, key findings, discussion, conclusions, and recommendations. Clearly connect each major finding to the research question it addresses, explain its significance in relation to the study, and highlight the thesis’s main contribution to the field. Prioritize the evidence and arguments most important for defending the research while removing unnecessary detail. Conclude with a set of likely examiner questions and concise, evidence-based answers grounded in the thesis. Keep each slide focused and academically rigorous, and base all content strictly on the thesis without introducing unsupported claims or information."
+
+5. Literature Review
+PROMPT:
+"Turn the research papers I provide into a clear, well-structured literature review organized around the major themes that emerge from the studies. Synthesize the literature rather than summarizing each paper separately, comparing evidence across studies to identify key patterns, areas of agreement and disagreement, methodological differences, emerging trends, and important research gaps. Highlight how the studies relate to and build on one another, and distinguish between findings that are well supported, findings that remain uncertain or contested, and questions that have not yet been adequately addressed. Conclude with an overall synthesis of what the literature currently establishes and the most important priorities for future research. Keep the review focused and academically rigorous, and base all claims strictly on the provided papers without introducing unsupported information."
+
+6. Key Research Findings
+PROMPT:
+"Analyze the academic sources I provide and identify the most significant findings and insights they support. Highlight the key findings, recurring patterns, strongest evidence, contradictions, limitations, and important connections across the sources. Distinguish clearly between conclusions that are strongly supported, those based on limited or mixed evidence, and issues that remain uncertain or unresolved. Identify overlooked relationships or implications only when they can be reasonably inferred from the provided sources, and highlight the most important gaps in the existing research. Organize the findings clearly and rank them by their significance, strength of evidence, and potential impact. Base the analysis strictly on the provided sources without introducing unsupported claims or information."
+
+7. Research Summary and Recommendations
+PROMPT:
+"Turn the research I provide into a concise, decision-focused summary. Highlight the strongest evidence, most important findings, key implications, major opportunities, risks, uncertainties, and practical recommendations. Distinguish clearly between conclusions that are well supported and areas where the evidence is limited, mixed, or uncertain. Translate the research into clear implications without oversimplifying or overstating what the evidence can support. Present the recommendations in priority order, ranking each one by potential impact and feasibility, and briefly explain the rationale for that ranking. Keep the summary concise, clear, and easy to scan, and base all conclusions and recommendations strictly on the provided research."
+-------------------------------------------------
+## Develop a research article title
+
+1. Identify the Core Elements of the Article
+"Review all uploaded sources and research materials in Gemini Notebook and use them as the sole basis for this task.
+Act as an experienced academic researcher, journal editor, and scholarly writing specialist. Analyze the research article or available research materials to identify the essential elements that should inform the development of an accurate, specific, and academically appropriate research article title.
+Systematically identify:
+Central research topic
+Research problem
+Research gap being addressed
+Purpose of the study
+Primary research objective
+Key concepts, constructs, or variables
+Relationships among variables or concepts, where applicable
+Population or unit of analysis, where relevant
+Research context or setting, where relevant
+Geographical location, where essential
+Research design or methodology, where important to the title
+Central phenomenon being investigated
+Main scholarly contribution of the article
+Distinguish between elements that are essential to understanding the article and details that do not need to appear in the title.
+For each identified element, provide:
+Element
+Evidence from the Uploaded Materials
+Importance to the Article
+Relevance to the Title
+Recommendation: Include, Consider, or Exclude
+Then identify the 3 to 5 most important elements that the eventual title should communicate.
+Conclude with a concise Title Foundation Statement summarizing what the article is fundamentally about and the essential information that should guide title development.
+Do not generate research article titles yet. The purpose of this step is to establish the essential content that should inform title development in the subsequent steps.
+Use only the uploaded materials. Do not invent research problems, gaps, objectives, variables, populations, contexts, methods, findings, contributions, citations, or other details that are not supported by the uploaded sources."
+
+2. Determine What the Title Should Communicate
+"Review all uploaded sources and research materials in Gemini Notebook and use them as the sole basis for this task.
+Act as an experienced academic researcher, journal editor, and scholarly writing specialist. Using the core article elements identified in the previous step, determine which information should and should not be communicated in the research article title.
+Evaluate each potential title element according to:
+Importance to the central focus of the study
+Relevance to the research problem
+Connection to the research gap
+Alignment with the study purpose
+Importance of the key concepts or variables
+Relevance of the population or unit of analysis
+Importance of the research context or setting
+Necessity of including the geographical location
+Value of mentioning the research design or methodology
+Relevance to the article's main scholarly contribution
+Distinguish between information that is essential, useful but optional, and unnecessary for the title.
+Avoid including details simply because they appear in the study. A strong title should communicate the article's central focus without becoming excessively long, complicated, vague, or overloaded with methodological details.
+For each potential title element, provide:
+Element
+Why It Matters
+Evidence from the Uploaded Materials
+Value to the Title
+Risk of Including or Excluding It
+Recommendation: Essential, Optional, or Exclude
+Then develop a Title Content Framework specifying:
+What the title must communicate
+What the title may communicate
+What the title should avoid
+Essential keywords or concepts
+Appropriate level of specificity
+Potential sources of ambiguity
+Conclude with a concise Title Brief that clearly defines what an effective title for this particular article should communicate.
+Do not generate title options yet. The purpose of this step is to establish the content and boundaries of the title before alternative titles are developed in the next step.
+Use only the uploaded materials. Do not invent variables, populations, contexts, methodologies, findings, contributions, keywords, citations, or other information that is not supported by the uploaded sources."
+
+3. Generate Alternative Research Article Titles
+"Review all uploaded sources and research materials in Gemini Notebook and use them as the sole basis for this task.
+Act as an experienced academic researcher, journal editor, and scholarly writing specialist. Using the core article elements and Title Content Framework developed in the previous steps, generate multiple accurate, concise, specific, and academically appropriate title options for the research article.
+Generate titles that accurately communicate the study's central focus without overstating its scope, methodology, findings, or contribution.
+Develop 10 to 15 alternative researchؤ؟؟ article titles using appropriate variations in structure, such as:
+Direct descriptive titles
+Concise titles
+Informative titles
+Titles emphasizing the key concepts or variables
+Titles emphasizing relationships between variables, where applicable
+Titles emphasizing the central phenomenon
+Titles incorporating the population or context, where necessary
+Titles incorporating the research design or methodology, only where informative
+Two-part titles using a title and subtitle, where appropriate
+For each proposed title, provide:
+Proposed Title
+Title Structure
+Core Elements Represented
+Key Searchable Terms
+Main Strength
+Potential Limitation
+Alignment with the Article
+Ensure that every proposed title:
+Accurately represents the actual study
+Reflects the central research focus
+Uses precise academic terminology
+Includes essential concepts or variables
+Avoids unnecessary words and redundancy
+Avoids vague expressions
+Does not introduce unsupported concepts
+Does not imply causality unless the research design supports causal inference
+Does not claim findings or contributions beyond the available evidence
+Remains readable and appropriately concise
+Avoid sensational, promotional, overly clever, or clickbait-style wording that would be inappropriate for an academic journal.
+Conclude by identifying the five strongest title candidates for systematic evaluationء in the next step. Briefly explain why each candidate deserves further consideration.
+Do not select the final title yet. The purpose of this step is to generate a strong pool of alternative titles that can be critically evaluated in the next step.
+Use only the uploaded materials. Do not invent variables, populations, contexts, methodologies, findings, relationships, contributions, keywords, citations, or other details that are not supported by the uploaded sources."
+
+4. Evaluate the Proposed Research Article Titles
+"Review all uploaded sources, research materials, and the title candidates developed in the previous step in Gemini Notebook and use them as the sole basis for this task.
+Act as an experienced academic researcher, journal editor, peer reviewer, and scholarly writing specialist. Critically evaluate the proposed research article titles to determine which candidates most accurately, clearly, and effectively represent the study.
+Evaluate each title according to:
+Accuracy in representing the study
+Alignment with the research problem and purpose
+Representation of the key concepts or variables
+Specificity of the research focus
+Clarity and readability
+Conciseness
+Academic appropriateness
+Informativeness
+Relevance to the intended scholarly audience
+Appropriate representation of the population or context, where necessary
+Appropriate inclusion of the methodology, where relevant
+Potential for academic discoverability
+Absence of unnecessary or redundant wording
+Absence of ambiguity or misleading terminology
+Check carefully whether any title:
+Is too broad or too narrow
+Contains unnecessary words
+Omits an essential element of the study
+Introduces concepts not actually examined
+Misrepresents the population or context
+Implies causality when the research design does not support it
+Overstates the findings or contribution
+Uses vague, promotional, sensational, or overly technical language
+Contains terminology inconsistent with the article
+For each title candidate, provide:
+Proposed Title
+Key Strengths
+Key Weaknesses
+Accuracy
+Clarity
+Specificity
+Conciseness
+Academic Appropriateness
+Discoverability
+Alignment with the Article
+Recommended Decision: Retain, Revise, or Remove
+Develop a structured Title Evaluation Matrix comparing all candidates against the evaluation criteria.
+Rank the titles from strongest to weakest and identify the three strongest title candidates for optimization in the next step. Explain why each of these titles provides a stronger representation of the article than the alternatives.
+Do not select the final research article title yet. The purpose of this step is to identify the strongest candidates through systematic evaluation before optimizing them for academic discoverability.
+Use only the uploaded materials. Do not invent variables, populations, contexts, methodologies, findings, contributions, keywords, citations, or other details that are not supported by the uploaded sources."
+
+5. Optimize the Title for Academic Discoverability
+"Review all uploaded sources, research materials, and the strongest title candidates developed in the previous steps in Gemini Notebook and use them as the sole basis for this task.
+Act as an experienced academic researcher, journal editor, scholarly communication specialist, and academic discoverability expert. Optimize the strongest research article title candidates so they accurately represent the study while improving their visibility and discoverability in academic databases and search systems.
+Identify the most important terms that accurately represent the article, including:
+Core research concepts or variables
+Central phenomenon
+Important relationships between concepts or variables, where applicable
+Population or unit of analysis, where essential
+Research context, where necessary
+Methodology or study design, where informative
+Terminology consistently used in the uploaded literature
+Distinguish between essential searchable terms and words that add little informational or discovery value.
+Evaluate each title candidate for:
+Presence of the article's most important keywords
+Placement of important terms within the title
+Consistency with terminology used in the relevant literature
+Clarity for readers outside the immediate research context
+Specificity
+Conciseness
+Academic readability
+Potential ambiguity
+Unnecessary repetition
+Excessive keyword use
+Optimize each candidate without sacrificing accuracy or readability. Do not add popular or highly searchable terms unless they genuinely represent the study.
+Avoid:
+Keyword stuffing
+Unnecessary technical jargon
+Vague expressions
+Redundant terminology
+Promotional or sensational wording
+Unsupported claims of novelty
+Terms that imply relationships or causality not established by the study
+For each title candidate, provide:
+Original Title
+Essential Searchable Terms
+Missing or Weak Terms
+Unnecessary Terms
+Recommended Changes
+Optimized Title
+Rationale for the Revision
+Compare the optimized titles and identify the three strongest candidates based on their balance of accuracy, clarity, specificity, conciseness, academic appropriateness, and discoverability.
+Conclude by ranking the three optimized titles from strongest to weakest and explain why each should proceed to final refinement and comparison in the next step.
+Do not select the final title yet. The purpose of this step is to improve academic discoverability without compromising the accuracy or scholarly quality of the title.
+Use only the uploaded materials. Do not invent keywords, variables, populations, contexts, methodologies, relationships, findings, claims of novelty, or terminology that is not supported by the uploaded sources."
+
+6. Refine and Rank the Strongest Research Article Titles
+"Review all uploaded sources, research materials, and the strongest optimized title candidates developed in the previous steps in Gemini Notebook and use them as the sole basis for this task.
+Act as an experienced academic researcher, journal editor, peer reviewer, and scholarly writing specialist. Refine and rank the strongest research article title candidates to determine which options most effectively represent the study.
+Review each title carefully and improve it by examining:
+Accuracy in representing the study
+Clarity of the central research focus
+Specificity
+Conciseness
+Academic readability
+Precision of terminology
+Inclusion of essential concepts or variables
+Appropriate representation of the population or context, where necessary
+Appropriate inclusion of the methodology, where informative
+Academic discoverability
+Alignment with terminology used throughout the article
+Overall suitability for an academic journal
+Refine each title by removing unnecessary words, repetition, vague expressions, awkward phrasing, excessive technical language, and information that does not contribute meaningfully to understanding the article.
+Check that no title:
+Overstates the scope of the study
+Implies causality when the research design does not support it
+Introduces variables or concepts not examined in the article
+Misrepresents the population or research context
+Makes unsupported claims about novelty or significance
+Uses promotional, sensational, or clickbait-style wording
+Sacrifices accuracy merely to make the title shorter
+For each candidate, provide:
+Current Title
+Identified Strengths
+Identified Weaknesses
+Words or Phrases to Remove or Replace
+Recommended Refinements
+Refined Title
+Rationale for the Changes
+Overall Assessment
+Then develop a structured Final Title Comparison Matrix comparing the refined candidates according to accuracy, clarity, specificity, conciseness, discoverability, scholarly tone, and overall alignment with the article.
+Rank the refined titles from strongest to weakest and identify the three strongest final candidates. Explain the key trade-offs among them and why each remains a viable option.
+Conclude by recommending the single strongest title candidate for final validation in the next step, while retaining the other two as alternatives.
+Do not treat the recommended title as final yet. The purpose of this step is to refine and rank the strongest candidates before conducting the final validation.
+Use only the uploaded materials. Do not invent variables, populations, contexts, methodologies, findings, relationships, contributions, keywords, or claims that are not supported by the uploaded sources."
+
+7. Select and Validate the Final Research Article Title
+"Review all uploaded sources, research materials, and the final title candidates developed in the previous steps in Gemini Notebook and use them as the sole basis for this task.
+Act as an experienced academic researcher, journal editor, peer reviewer, and scholarly writing specialist. Conduct a final evaluation of the strongest research article title candidates and select the title that most accurately, clearly, and effectively represents the study.
+Evaluate each finalist according to:
+Accuracy in representing the study
+Alignment with the research problem and purpose
+Representation of the central concepts or variables
+Clarity and specificity
+Conciseness
+Academic readability
+Precision of terminology
+Appropriate representation of the population or context, where necessary
+Appropriate inclusion of the methodology, where informative
+Academic discoverability
+Relevance to the intended scholarly audience
+Consistency with terminology used throughout the article
+Overall suitability for journal publication
+Check whether any title:
+Omits an essential element of the study
+Includes unnecessary or redundant wording
+Contains vague or ambiguous terminology
+Introduces concepts not examined in the research
+Misrepresents the population, context, or methodology
+Implies causality when the research design does not support it
+Overstates the findings, significance, or contribution
+Makes unsupported claims of novelty
+Uses promotional, sensational, or clickbait-style language
+For each finalist, provide:
+Title Candidate
+Key Strengths
+Remaining Weaknesses
+Accuracy Assessment
+Clarity Assessment
+Specificity Assessment
+Conciseness Assessment
+Discoverability Assessment
+Alignment with the Article
+Final Recommendation
+Then rank the finalists from strongest to weakest and select the single strongest research article title.
+If minor improvements are still required, provide the revised final title and explain precisely what was changed and why.
+Present the final output under the following headings:
+Final Title Comparison
+Recommended Research Article Title
+Rationale for Selection
+Essential Elements Represented
+Key Searchable Terms
+Final Accuracy Check
+Final Publication Readiness Assessment
+Conclude with the recommended final title followed by two strong alternative titles that remain accurate representations of the study.
+Use only the uploaded materials. Do not invent variables, populations, contexts, methodologies, findings, relationships, keywords, contributions, claims of novelty, or other details that are not supported by the uploaded sources."
 
 -------------------------------------------------
--------------------------------------------------
--------------------------------------------------
+## More efficient academic research
+
+1️. Create a Literature Review
+“Using only the sources in this NotebookLM notebook, help me develop a literature review on [research topic/question]. Identify and synthesize the major themes, concepts, findings, and theoretical perspectives across the sources. Highlight areas of agreement, disagreement, recurring patterns, limitations, and underexplored areas. Compare studies where differences in methodology, population, context, or findings are important. Organize the review into logical thematic sections and support major claims with citations to the relevant sources. End with a concise synthesis of what the literature establishes and what remains uncertain or insufficiently studied. Do not invent studies, findings, citations, or research gaps; clearly identify anything the available sources do not support.”
+
+2️. Compare Research Studies
+“Using only the sources in this NotebookLM notebook, compare the studies related to [research topic/question]. Analyze their research aims, theoretical frameworks, methodologies, participants or samples, data collection and analysis methods, key findings, and limitations. Highlight important similarities, differences, agreements, and contradictions across the studies, and explain how methodological or contextual differences may relate to their findings. Organize the comparison in a clear table followed by a concise synthesis of the most important patterns. Support all claims with citations to the relevant sources. Do not invent information or fill gaps with assumptions; clearly identify details that are not reported in the available sources.”
+
+3️. Identify Research Gaps
+“Using only the sources in this NotebookLM notebook, identify research gaps related to [research topic/question]. Analyze the literature for unanswered questions, inconsistent or conflicting findings, methodological limitations, underexplored populations or contexts, and areas requiring further investigation. Explain why each identified gap matters and show which sources provide evidence for it. Prioritize the most significant and researchable gaps, and suggest potential directions for future research without presenting speculation as established evidence. Do not invent research gaps or rely on outside information; clearly distinguish between gaps explicitly stated by the authors and gaps inferred from comparing the available sources.”
+
+4️. Synthesize Research Evidence
+“Using only the sources in this NotebookLM notebook, synthesize the evidence related to [research topic/question]. Identify the major findings across the sources and explain what the literature collectively supports, where the evidence is consistent, and where findings are mixed or conflicting. Compare relevant differences in methodology, samples, or contexts that may help explain variations in the evidence. Organize the synthesis around key themes or findings and support major claims with citations to the relevant sources. Do not invent evidence or overstate conclusions; clearly identify areas where the available evidence is limited, inconsistent, or insufficient.”
+
+5️. Create a Research Presentation
+“Using only the sources in this NotebookLM notebook, create a clear academic presentation on [research topic/study] for [audience/purpose]. Organize it into a logical sequence covering the research problem, objectives or questions, relevant literature, methodology, key findings, discussion, implications, limitations, and conclusions where supported by the sources. For each slide, provide a concise title, key points, suggested visual or data representation, and brief speaker notes. Support important claims with citations to the relevant sources. Keep slides concise and academically appropriate. Do not invent findings, statistics, citations, or methodological details; clearly identify information that is not supported by the available sources.”
+
+6️. Prepare for a Thesis or Dissertation Defense
+“Using only the sources in this NotebookLM notebook, help me prepare for my [thesis/dissertation] defense on [research topic]. Identify the key arguments, research questions, theoretical framework, methodological decisions, major findings, contributions, and limitations I need to defend clearly. Generate likely defense questions about my research choices, findings, interpretations, limitations, and implications, and ask them one at a time so I can practise responding. Evaluate each response against the sources and suggest how I can strengthen it. Do not invent findings, arguments, or methodological details; clearly identify anything that is not supported by the available sources.”
+
+7️. Create a Research Summary & Recommendations
+“Using only the sources in this NotebookLM notebook, create a structured research summary on [research topic/question]. Synthesize the key findings, major conclusions, important patterns, implications, and limitations across the sources. Then develop practical or research recommendations that are directly supported by the available evidence, clearly linking each recommendation to relevant findings. Highlight areas where conclusions remain uncertain or further research is needed. Support major claims with citations to the relevant sources. Do not invent findings, conclusions, or recommendations; clearly identify anything the available sources do not support.”
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
