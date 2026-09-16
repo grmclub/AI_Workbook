@@ -203,6 +203,30 @@ Make them specific, not generic.
 
     Prompt: 'My claim is [Claim]. List all supporting evidence, rank by strength, and explain what would raise my confidence.'
 
+15. The Moral Risk Radar
+
+    Description: Scan any big decision for hidden ethical landmines before they blow up.
+
+    Prompt: 'Analyze my decision [Decision]. Identify stakeholders, harms, and value conflicts, and suggest go/no-go thresholds.'
+
+16. The Five Experts Roundtable
+
+    Description: Get five different professional perspectives on the same challenge.
+
+    Prompt: 'Evaluate [Challenge] from an economist, engineer, psychologist, ethicist, and operator. Merge insights into one plan.'
+
+17. The Devil's Advocate Lens
+
+    Description: Deliberately argue against yourself to find where you might be wrong.
+
+    Prompt: 'Act as an intelligent contrarian. My perspective on [Topic] is [Perspective]. Critique it from the opposite angle.'
+
+18. The Vision to Action Ladder
+
+    Description: Turn a big dream into concrete, doable steps across five levels.
+
+    Prompt: 'Take my concept [Idea]. Translate it across Vision, Strategy, Process, Behavior, and a concrete Example.'
+
 19. The Two Sided Truth Finder
 
     Description: Argue both sides of a debate fully, then find what stays true no matter who wins.
