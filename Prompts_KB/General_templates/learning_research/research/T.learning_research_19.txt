@@ -1,0 +1,57 @@
+
+-------------------------------------------------
+🚨 STOP READING EVERYTHING.
+CLAUDE can turn ANY document into the 5 things that matter.
+5 prompts to do it in minutes.
+
+1/ Contract Risk Scanner
+"Read this contract and act as a lawyer. Highlight every clause that could hurt me, anything I am agreeing to that I might regret, hidden auto-renewals, liability traps, and anything that is non-standard. Explain each one in plain English."
+
+2/ Long Report Summarizer
+"Here is a report I need to understand: [paste]. Give me the 5 most important findings, what they mean for someone in my position [describe role], and the 3 decisions I need to make based on this information."
+
+3/ Email Thread Untangler
+"Here is a long email chain: [paste]. Tell me what was agreed, what is still unresolved, who is responsible for what, and what I need to reply to move this forward. Write the reply for me."
+
+4/ Research Paper Decoder
+"Explain this research paper to me like I am smart but not an expert in this field: [paste or describe]. What did they find, why does it matter, what are the weaknesses in their methodology, and how confident should I be in these results."
+
+5/ Meeting Notes Action Extractor
+"Here are my notes from today's meeting: [paste]. Extract every action item, who owns it, the deadline if mentioned, and any decisions that were made. Then write a follow up summary I can send to everyone who attended."
+
+-------------------------------------------------
+## research like a PhD student Deeper research. Better sources. A clear reading path.
+Here are 7 prompts to do it yourself. 👇🏻
+
+
+1/ The Research System
+"Act as a doctoral-level research supervisor and design a rigorous research system for [TOPIC]. Start by identifying the central problem, define the primary research question and its highest-value subquestions, map the major academic perspectives and disagreements, determine the depth required, recommend the most authoritative source types, build a targeted search strategy, and create a reading sequence that moves from foundational knowledge to the latest credible research. Prioritize depth, evidence quality, and intellectual clarity over surface-level summaries."
+
+
+2/ The Source Triage Pass
+"Act as an expert academic research librarian. Audit the sources I collected for [TOPIC] and separate valuable evidence from noise. Evaluate each source by authority, methodology, publication quality, recency, relevance, potential bias, and directness to my research question. Rank the sources by priority, explain why each deserves or does not deserve attention, flag anything that should be replaced, map each source to the specific question it supports, and identify the most important evidence gaps still missing from my research."
+
+3/ The Fast Comprehension Pass
+"Act as an exceptional subject-matter tutor. Take me from zero to confident, conversational understanding of [TOPIC] in one intensive learning session. Build the mental model I need first, then explain the essential concepts, vocabulary, competing schools of thought, historical development, common misconceptions, and unresolved debates. Use plain language without oversimplifying. Finish with a 12-term expert glossary, a concise timeline, real-world examples, and five progressively harder questions that reveal whether I truly understand the subject."
+
+4/ The Argument Map
+"Act as a neutral but deeply critical analyst. Deconstruct the intellectual debate surrounding [TOPIC]. Identify the major positions, strongest evidence supporting each side, hidden assumptions, methodological differences, disputed definitions, and points where opposing arguments talk past one another. Build a clear argument map showing how the positions connect, present the strongest possible case for each side, expose the weakest link in each argument, and identify what new evidence would genuinely change the debate."
+
+5/ The Sourced Brief
+"Act as a senior research strategist writing for an intelligent, time-constrained reader. Transform my research on [TOPIC] into a concise, decision-ready brief. Identify the three most consequential findings, support every major claim with credible sources, distinguish established evidence from interpretation, assign a confidence level to each finding, highlight meaningful uncertainties and unanswered questions, and end with practical recommendations. Remove unnecessary background and make every paragraph earn its place."
+
+6/ The Counterargument Drill
+"Act as a hostile peer reviewer whose job is to find every weakness in my research on [TOPIC] before a specialist does. Stress-test my claims, evidence, methodology, definitions, assumptions, causal reasoning, and logical transitions. For every vulnerability, state the strongest objection an expert could make, explain why it matters, identify the evidence required to defend or revise the claim, and provide a prioritized revision plan based on the risk each weakness creates."
+
+7/ The Citation Cleanup
+"Act as a meticulous academic editor and citation auditor. Examine my draft on [TOPIC] line by line and identify every claim that requires evidence, every citation that is weak or mismatched, every unsupported assertion, and every passage that may paraphrase a source too closely. Recommend stronger sources where necessary, correct the in-text citations, standardize the reference list according to [CITATION STYLE], flag claims that cannot currently be verified, and produce a final checklist for making the research academically defensible."
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
