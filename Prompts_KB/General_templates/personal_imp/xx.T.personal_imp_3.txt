@@ -140,6 +140,68 @@ EMPIRE. That's all I'm giving you. Take that one word and build me the most ruth
 
 
 -------------------------------------------------
+Boost the intelligence of Claude, ChatGPT, and Gemini by 10X just by adding one sentence. 10 'Decisive' Power Sentences to use 👇
+
+1/ "Explore unconventional approaches"
+Use it when:
+You want ideas beyond the obvious.
+What it does:
+Pushes AI to consider less conventional angles instead of defaulting to the most predictable response.
+
+2/ "Read between the lines"
+Use it when:
+Context matters as much as the words.
+What it does:
+Asks AI to look for implied meaning, unstated assumptions, tone, and context.
+
+3/ "Extract the core variables"
+Use it when:
+Something feels complicated.
+What it does:
+Identifies the few factors that have the biggest influence on the outcome.
+
+4/ "Let 3 experts debate this"
+Use it when:
+You want multiple perspectives.
+What it does:
+Simulates different expert viewpoints, compares their reasoning, and summarizes where they agree or disagree.
+
+5/ "Think backwards from the outcome"
+Use it when:
+You know the result you want.
+What it does:
+Starts with the desired outcome and works backward to identify the steps, requirements, and potential obstacles.
+
+6/ "Evaluate your own reasoning"
+Use it when:
+You want AI to critique its first answer.
+What it does:
+Prompts the model to inspect its reasoning, identify weaknesses, and suggest improvements.
+Important: This can improve an answer, but it doesn't guarantee accuracy.
+
+7/ "Question the assumptions"
+Use it when:
+You might be solving the wrong problem.
+What it does:
+Identifies assumptions behind the question and challenges the ones that may not hold up.
+
+8/ "Increase the emotional precision"
+Use it when:
+Your writing feels generic.
+What it does:
+Helps identify more specific emotional cues, motivations, and language that may better fit the context.
+
+9/ "Point out my blind spots"
+Use it when:
+You want AI to challenge you.
+What it does:
+Looks for missing information, overlooked risks, weak assumptions, and alternative explanations.
+
+10/ "Raise the abstraction level by two layers"
+Use it when:
+You want the bigger principle.
+What it does:
+Moves from a specific example → broader pattern → general principle you may be able to apply elsewhere.
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
