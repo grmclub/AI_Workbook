@@ -46,6 +46,236 @@ Here are 7 prompts to do it yourself. 👇🏻
 7/ The Citation Cleanup
 "Act as a meticulous academic editor and citation auditor. Examine my draft on [TOPIC] line by line and identify every claim that requires evidence, every citation that is weak or mismatched, every unsupported assertion, and every passage that may paraphrase a source too closely. Recommend stronger sources where necessary, correct the in-text citations, standardize the reference list according to [CITATION STYLE], flag claims that cannot currently be verified, and produce a final checklist for making the research academically defensible."
 -------------------------------------------------
+##Research article introduction
+
+1. Establish the Research Context
+"Review all uploaded sources and research materials in Gemini Notebook and use them as the sole basis for this task.
+Act as an experienced academic researcher, journal editor, and scholarly writing specialist. Analyze the uploaded literature to establish the research context needed for the opening section of a research article introduction.
+Systematically identify:
+The broader research area
+The specific topic or phenomenon being investigated
+Key concepts, constructs, or variables
+Important definitions or conceptual distinctions
+Major developments in the research area
+Established knowledge directly relevant to the study
+Important theoretical or conceptual perspectives
+Relevant populations, settings, or contexts
+Recent developments or emerging issues supported by the literature
+Why the broader research area deserves scholarly attention
+Synthesize evidence across the uploaded sources rather than summarizing individual studies one by one. Prioritize information that helps readers understand the study and exclude background material that is interesting but not directly relevant.
+Organize the analysis under:
+Broader Research Area
+Specific Research Context
+Key Concepts and Variables
+Relevant Theoretical or Conceptual Foundations
+Major Developments
+Established Knowledge
+Relevant Population and Context
+Importance of the Research Area
+Essential Background for the Introduction
+Then develop a concise Research Context Framework showing how the introduction should move logically from the broader research area toward the specific topic of the article.
+Conclude by drafting 2–3 academically written opening paragraphs that establish the research context using evidence from the uploaded sources and appropriate citations.
+Do not introduce the research gap, research problem, objectives, or study contribution yet. These will be developed systematically in subsequent steps.
+Use only the uploaded materials. Do not invent facts, trends, theories, findings, statistics, concepts, citations, or claims that are not supported by the uploaded sources."
+
+2. Synthesize What Is Already Known
+"Review all uploaded sources and research materials in Gemini Notebook and use them as the sole basis for this task.
+Act as an experienced academic researcher, journal editor, literature synthesis specialist, and scholarly writing expert. Analyze the uploaded literature to establish what is currently known about the specific research topic and synthesize the most relevant evidence for the research article introduction.
+Systematically identify:
+Major findings directly related to the research topic
+Key relationships among concepts, constructs, or variables
+Findings consistently supported across multiple studies
+Important areas of agreement in the literature
+Areas where findings differ or remain inconsistent
+Dominant theoretical or conceptual explanations
+Important empirical patterns
+Relevant findings concerning the study population or context
+Recent developments that have shaped current understanding
+Evidence most directly connected to the present study
+Synthesize the literature thematically and conceptually rather than summarizing studies one by one. Show how findings from different sources relate to, support, extend, or differ from one another.
+Distinguish between:
+Well-established knowledge
+Findings supported by several studies
+Emerging evidence
+Inconsistent or contested findings
+Claims supported by limited evidence
+For each major theme, provide:
+Theme or Area of Knowledge
+What the Literature Establishes
+Supporting Sources
+Degree of Agreement Across Studies
+Relevance to the Present Study
+Then develop a concise Current Knowledge Synthesis that explains what researchers presently understand about the topic and creates a logical transition toward the specific research problem.
+Conclude by drafting 2–3 academically written paragraphs that synthesize the most relevant existing knowledge for inclusion in the research article introduction, using appropriate citations from the uploaded sources.
+Keep the synthesis selective. Include only literature necessary to establish the argument for the present study rather than attempting to reproduce a full literature review.
+Do not identify or claim the definitive research gap yet. Do not write the research objectives or contribution at this stage. The purpose of this step is to establish what is already known before determining what remains problematic or unresolved.
+Use only the uploaded materials. Do not invent findings, relationships, theories, trends, statistics, populations, contexts, citations, or claims that are not supported by the uploaded sources."
+
+3. Identify the Research Problem
+"Review all uploaded sources and research materials in Gemini Notebook and use them as the sole basis for this task.
+Act as an experienced academic researcher, journal editor, research methodologist, and scholarly writing specialist. Analyze the uploaded literature to identify and clearly articulate the specific research problem that should be established in the introduction of the research article.
+Using the research context and current knowledge synthesis developed in the previous steps, determine the specific issue, limitation, contradiction, unresolved concern, or knowledge deficiency that creates the need for the present study.
+Systematically examine the literature for:
+Persistent problems reported across studies
+Important unresolved questions
+Contradictory or inconsistent findings
+Relationships among concepts or variables that remain unclear
+Limitations in current explanations or approaches
+Problems affecting particular populations, settings, or contexts, where supported
+Theoretical or practical issues that remain insufficiently addressed
+Evidence that the problem is significant enough to justify further investigation
+Distinguish clearly between:
+The broad research topic
+The research problem
+The research gap
+The research problem should describe the specific issue that requires investigation, while the research gap should explain what is missing or unresolved in the existing knowledge. Do not treat these as interchangeable.
+For each potential research problem, provide:
+Potential Research Problem
+Evidence from the Uploaded Literature
+What Is Already Known
+What Remains Problematic or Unresolved
+Why the Problem Matters
+Population or Context Involved, where applicable
+Relevance to the Present Study
+Strength of Supporting Evidence
+Compare the potential problems and identify the single strongest research problem based on its significance, clarity, evidence, and relevance to the proposed article.
+Then develop a concise Research Problem Logic Statement using this progression:
+Established knowledge → specific unresolved problem → evidence that the problem exists → why further investigation is needed.
+Conclude by drafting 1–2 academically written paragraphs that establish the research problem for inclusion in the article introduction and create a logical transition toward the research gap.
+Do not formulate the final research gap, study objectives, or contribution yet. These will be developed in the next steps.
+Use only the uploaded materials. Do not invent problems, findings, statistics, populations, contexts, relationships, citations, or claims that are not supported by the uploaded sources."
+
+4. Establish the Research Gap
+"Review all uploaded sources and research materials in Gemini Notebook and use them as the sole basis for this task.
+Act as an experienced academic researcher, journal editor, literature review specialist, and scholarly writing expert. Using the research context, current knowledge synthesis, and research problem developed in the previous steps, identify and establish the specific research gap that justifies the present study.
+Systematically examine the uploaded literature to determine what remains:
+Unknown or insufficiently understood
+Underexplored or inadequately investigated
+Theoretically underdeveloped
+Methodologically limited
+Inconsistent or contradictory across studies
+Unexamined in relevant populations or contexts
+Unclear regarding relationships among key concepts or variables
+Unresolved despite previous research
+Distinguish between a genuine research gap and the simple absence of studies on a particular topic, population, location, or combination of variables. A gap should represent a meaningful deficiency, uncertainty, or unresolved issue in existing knowledge that warrants further investigation.
+Determine the type of gap, where applicable:
+Empirical gap
+Theoretical gap
+Methodological gap
+Contextual or geographical gap
+Population gap
+Conceptual gap
+Contradictory findings gap
+For each potential gap, provide:
+Potential Research Gap
+Type of Gap
+What Is Already Known
+What Remains Unknown or Unresolved
+Evidence Supporting the Gap
+Sources Supporting the Gap
+Connection to the Research Problem
+Why the Gap Matters
+Potential Contribution of Addressing It
+Strength of Supporting Evidence
+Compare the potential gaps and identify the single strongest research gap based on the quality of supporting evidence, significance, relevance to the research problem, and potential scholarly contribution.
+Then develop a concise Research Gap Logic Statement using this progression:
+What is known → what remains unknown or unresolved → evidence demonstrating the gap → why the gap matters → need for the present study.
+Conclude by drafting 1–2 academically written paragraphs that establish the research gap for inclusion in the article introduction and create a logical transition toward the significance and contribution of the study.
+Do not develop the full significance statement, research objectives, or final contribution yet. These will be addressed in the subsequent steps.
+Use only the uploaded materials. Do not invent research gaps, findings, contradictions, populations, contexts, theories, statistics, citations, or claims that are not supported by the uploaded sources."
+
+5. Explain the Significance of the Study
+"Review all uploaded sources and research materials in Gemini Notebook and use them as the sole basis for this task.
+Act as an experienced academic researcher, journal editor, and scholarly writing specialist. Using the research problem and research gap established in the previous steps, explain why the present study is important and what contribution it can make to existing knowledge.
+Analyze the uploaded literature to determine the significance of addressing the identified gap. Where supported, examine:
+Theoretical significance
+Empirical significance
+Methodological significance
+Practical significance
+Policy relevance
+Relevance to specific populations, institutions, sectors, or contexts
+Potential contribution to future research
+Distinguish clearly between why the problem matters and what the study may contribute. Avoid vague statements such as “this study is important” unless the importance is demonstrated with evidence from the uploaded sources.
+For each area of significance, provide:
+Type of Significance
+Evidence from the Uploaded Literature
+Why It Matters
+How Addressing the Gap Could Contribute
+Relevance to the Present Study
+Identify the 2 to 4 strongest areas of significance that should be emphasized in the research article introduction.
+Then develop a concise Significance Logic Statement using this progression:
+Research problem → validated gap → consequences of leaving the gap unresolved → value of investigating it → potential scholarly contribution.
+Conclude by drafting 1–2 academically written paragraphs explaining the significance of the study and creating a logical transition toward the study purpose, objectives, and research questions.
+Do not overstate the study’s contribution or claim impacts that have not yet been demonstrated. Frame expected contributions cautiously and proportionately to the evidence.
+Use only the uploaded materials. Do not invent implications, contributions, populations, contexts, policy relevance, findings, citations, or claims that are not supported by the uploaded sources."
+
+6. Develop the Research Article Introduction
+"Review all uploaded sources and research materials in Gemini Notebook and use them as the sole basis for this task.
+Act as an experienced academic researcher, journal editor, and scholarly writing specialist. Using the research context, existing knowledge, research problem, research gap, and study significance developed in the previous steps, construct a coherent and publication ready introduction for the research article.
+Organize the introduction so that the argument progresses logically from the broader research context to the specific purpose of the study.
+Integrate the following elements:
+Broader research context
+Current state of knowledge
+Most relevant evidence from previous studies
+Specific research problem
+Validated research gap
+Significance of addressing the gap
+Purpose of the present study
+Research objectives, where applicable
+Research questions or hypotheses, where applicable
+Expected scholarly contribution
+Structure the introduction using this logical progression:
+Research context → existing knowledge → research problem → research gap → significance → study purpose → research objectives or questions → expected contribution.
+Synthesize evidence across multiple sources rather than presenting a study by study summary. Ensure that each paragraph advances the argument and creates a clear transition to the next.
+Maintain an appropriate balance between background and specificity. Include enough literature to establish the argument for the study without turning the introduction into a full literature review.
+Ensure that:
+Claims are supported by appropriate citations
+Terminology is consistent throughout
+The research problem follows logically from the literature
+The research gap is explicitly supported by evidence
+The significance follows directly from the identified problem and gap
+The study purpose directly addresses the research gap
+Research objectives, questions, or hypotheses align with the study purpose
+The expected contribution is stated cautiously and accurately
+No new concepts appear without sufficient explanation
+The introduction avoids unnecessary repetition
+Present the output under the following headings:
+Introduction Logic and Structure
+Key Evidence to Include
+Recommended Paragraph Sequence
+Transition Strategy
+Draft Research Article Introduction
+Write the Draft Research Article Introduction as continuous, polished academic prose suitable for a journal manuscript. Do not use headings within the draft unless the intended journal or article format requires them.
+Conclude with a brief Alignment Check showing how the final paragraphs connect the research problem, gap, significance, purpose, and research questions or hypotheses.
+Do not invent research objectives, questions, hypotheses, findings, statistics, contributions, citations, or claims that are not supported by the uploaded materials. If essential information is unavailable, explicitly identify what is missing rather than filling the gap with assumptions."
+
+7. Review and Refine the Research Article Introduction
+"Review all uploaded sources, research materials, and the completed introduction in Gemini Notebook and use them as the sole basis for this task.
+Act as an experienced academic researcher, journal editor, and peer reviewer. Critically review and refine the research article introduction for clarity, coherence, evidence, academic rigor, and publication readiness.
+Evaluate the introduction for:
+Clarity of the research context
+Quality of the literature synthesis
+Strength of the research problem
+Evidence supporting the research gap
+Significance of the study
+Clarity of the study purpose
+Alignment of objectives, questions, or hypotheses
+Logical flow and transitions
+Citation accuracy and evidence
+Academic tone, precision, and conciseness
+Check for unsupported claims, weakly supported gaps, overgeneralizations, repetition, irrelevant background, inconsistent terminology, vague statements, and unnecessary study by study summaries.
+Evaluate whether the introduction follows this progression:
+Research context → existing knowledge → research problem → research gap → significance → study purpose → objectives or questions → expected contribution.
+For each major issue, provide:
+Identified Issue
+Original Wording
+Recommended Revision
+Reason for the Change
+Then produce a fully revised research article introduction as coherent, publication ready academic prose while preserving accurate evidence and citations.
+Conclude with a Final Readiness Assessment: Ready for Journal Manuscript, Minor Revision Required, Major Revision Required, or Insufficient Evidence to Finalize.
+Use only the uploaded materials. Do not invent research gaps, findings, statistics, citations, objectives, questions, hypotheses, or contributions that are not supported by the uploaded sources."
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
