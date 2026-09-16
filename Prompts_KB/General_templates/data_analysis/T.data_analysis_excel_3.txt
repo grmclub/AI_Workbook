@@ -207,6 +207,98 @@ Executive Summary → KPI Snapshot → Major Changes → Drivers → Risks → O
 </output>
 
 -------------------------------------------------
+##Claude to handle excel tasks
+
+PROMPT 1: Build Any Excel Formula
+"Act as a Microsoft Excel expert with 10+ years of experience helping businesses
+automate spreadsheets. I will describe what I want my Excel sheet to do in simple
+words, and your job is to create the exact formula, function, or calculation needed to
+achieve that result. Explain the formula step by step, including what each part means,
+where I should place it, and how I can modify it for different situations. If there is a
+simpler or more efficient way to solve the problem, suggest that as well. My Excel task
+is: [describe what you need]."
+
+PROMPT 2: Clean and Organize Spreadsheet
+"Act as a professional data cleaning specialist. I will upload an Excel spreadsheet that
+contains messy, inconsistent, or poorly formatted data. Analyze the entire spreadsheet
+and identify problems such as duplicate entries, missing values, inconsistent formats,
+spelling mistakes, incorrect data types, unnecessary columns, and structural issues.
+Then provide a clear action plan to clean and organize the spreadsheet into a
+professional, analysis-ready format. Suggest Excel formulas, Power Query steps, or
+automation methods whenever possible. Here is my spreadsheet: [upload file]."
+
+PROMPT 3: Analyze Excel Data
+"Act as a senior data analyst who helps companies make better decisions using Excel
+data. I will provide you with an Excel file containing business or personal data.
+Analyze the information carefully and identify important trends, patterns,
+correlations, unusual changes, opportunities, and potential problems. Explain your
+findings in simple language that a non-technical person can understand. Create a
+summary of the most important insights, recommend what actions should be taken
+based on the data, and suggest additional analysis that could provide more value. Here
+is my Excel file: [upload file]."
+
+PROMPT 4: Create an Excel Dashboard
+"Act as an expert Excel dashboard designer who creates executive-level reports. I will
+provide you with raw Excel data, and your job is to transform it into a professional
+dashboard concept. Analyze what information matters most, identify the key
+performance indicators, recommend the best charts and visualizations, and design a
+dashboard structure that is easy to understand. Explain which Excel features should
+be used, including Pivot Tables, charts, slicers, formulas, or conditional formatting.
+My goal is to create a dashboard for: [business purpose]. Here is my data: [upload
+file]."
+
+PROMPT 5: Find and Fix Excel Errors
+"Act as an advanced Excel troubleshooting expert. I have an Excel spreadsheet with
+formulas that are not working correctly, showing errors, or producing unexpected
+results. Analyze the formulas, identify the exact reason behind the problem, and
+explain what went wrong. Then provide the corrected formula and explain how I can
+prevent similar issues in the future. Also check if there is a better formula, function, or
+spreadsheet structure that would make the file more reliable. Here is the formula or
+spreadsheet section: [paste formula/upload file]."
+
+PROMPT 6: Automate Excel Work
+"Act as an Excel automation consultant. Analyze my current spreadsheet workflow and
+identify repetitive manual tasks that take too much time. Find opportunities to
+automate the process using Excel formulas, Power Query, Pivot Tables, VBA, macros,
+or other built-in Excel features. Explain exactly how I can automate each step and
+create a faster workflow. Focus on reducing manual work, improving accuracy, and
+making the spreadsheet easier to maintain. My current Excel process is: [describe
+workflow]."
+
+PROMPT 7: Turn Data Into a Report
+"Act as a professional business reporting specialist. I will provide you with raw Excel
+data, and your job is to transform it into a polished, professional report that can be
+presented to managers, clients, or stakeholders. Analyze the data structure, organize
+the information logically, create a clear summary section, recommend important
+metrics, and suggest charts or visual elements that improve understanding. Explain
+how the final report should be formatted and what key insights should be highlighted.
+My report purpose is: [describe purpose]."
+
+PROMPT 8: Explain Any Excel Formula
+"Act as an Excel instructor who teaches beginners and professionals. I will give you an
+Excel formula, and your job is to explain it in a simple but detailed way. Break down
+every function, symbol, reference, and calculation inside the formula. Explain why
+each part is used, show a real-world example, and provide a beginner-friendly
+explanation of when I should use this formula. If there is a better alternative formula,
+explain that too. The formula is: [paste formula]."
+
+PROMPT 9: Create Excel Templates
+"Act as an expert Excel template creator. I need a professional spreadsheet template
+designed for a specific purpose. Based on my requirements, create the ideal
+spreadsheet structure including column names, formulas, automation ideas,
+formatting recommendations, data validation rules, and workflow improvements.
+Make the template easy to use for beginners while still powerful enough for
+professional needs. Explain how each section should work and how I can customize it
+later. The template I need is for: [describe your requirement]."
+
+PROMPT 10: Convert Data Into Insights
+"Act as a data visualization and business intelligence expert. I will upload an Excel
+spreadsheet containing raw information, and your job is to turn it into a meaningful
+analysis. Identify the most important numbers, explain what the data is showing,
+highlight trends or problems, and create a clear written summary. Recommend the
+best charts, graphs, and visualizations to communicate the information effectively.
+The final goal is to help someone quickly understand the story behind the data and
+make better decisions. Here is my spreadsheet: [upload file]."
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
