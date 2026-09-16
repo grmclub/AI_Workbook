@@ -1,0 +1,34 @@
+
+-------------------------------------------------
+🚨 STOP TELLING CHATGPT "Fix this old photo"
+Use these 8 prompts instead:
+
+1/ RESTORE THE ORIGINAL
+"Restore this old photo while preserving the people, faces, expressions, clothing, objects, and original composition. Repair scratches, fading, discolouration, dust, stains, blur, and age-related damage. Improve clarity and detail naturally without changing anyone’s identity or inventing unnecessary features."
+
+2/ REPAIR A DAMAGED PHOTO
+"Analyse this damaged photo and carefully reconstruct the missing or deteriorated areas. Repair tears, scratches, stains, faded sections, and damaged edges while preserving the original people, setting, clothing, and historical character. Keep the restoration realistic."
+
+3/ MAKE IT LOOK LIKE IT WAS TAKEN TODAY
+"Restore and enhance this old photo so it looks like it was captured with a modern high-quality camera today. Improve sharpness, exposure, contrast, dynamic range, skin detail and overall clarity while preserving the exact people, expressions, clothing, setting and composition. Keep the result natural and photorealistic."
+
+4/ RESTORE A BLURRY FACE
+"Carefully restore the faces in this old photo. Improve facial clarity, eyes, hair, skin texture and fine details while preserving each person’s recognisable identity, age, expression and natural features. Do not beautify, reshape or invent facial details that are not supported by the original image."
+
+5/ COLOURISE A BLACK & WHITE PHOTO
+"Colourise this black-and-white photo realistically while preserving the original lighting, textures, people and historical character. Use natural skin tones and historically plausible colours for clothing, objects and the environment. Avoid overly saturated or modern-looking colours."
+
+6/ REMOVE SCRATCHES & STAINS
+"Clean and restore this photograph by removing scratches, dust, stains, creases, spots and surface damage. Reconstruct affected areas naturally using the surrounding visual information. Preserve the original faces, textures, lighting, composition and photographic character."
+
+8/ FULL PHOTO REMASTER
+"Perform a complete professional restoration of this old photograph. Repair physical damage, remove dust and scratches, correct fading and discolouration, reduce blur and noise, restore lost detail, balance exposure and improve overall clarity. Preserve every person’s identity, expression, age, clothing and the original composition. The final result should look naturally restored rather than artificially generated."
+
+7/ UPSCALE & SHARPEN
+"Enhance this old photo to high resolution while keeping it realistic. Recover fine details, improve focus, reduce grain and unwanted blur, and increase overall clarity. Preserve natural skin texture and avoid artificial sharpening, plastic-looking faces or invented details."
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
