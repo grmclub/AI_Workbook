@@ -55,9 +55,6 @@ Try this prompt:
 Animate this portrait. Keep the exact face, hairline, and outfit. The person looks at camera, blinks once, then smiles and turns 15 degrees to the right as wind moves a few strands of hair. Soft window light from the left, slow push in, no morphing, no extra limbs, photoreal, 5 seconds, 9:16.
 Why it works: small actions protect identity. Big motion is when faces fall apart.
 Kling AI: Next-Gen AI Video & Image Generator
-KLING.AI
-Kling AI: Next-Gen AI Video & Image Generator
-Kling AI: Next-Gen AI Video & Image Generator
 
 3. PixVerse — for punchy short clips and effects
 https://pixverse.ai/
@@ -125,6 +122,195 @@ Start from this photo. Keep the same person and room. She looks down at a book, 
 Why it works: small continuous actions stay stable. Big jumps cause glitches.
 GitHub - lllyasviel/FramePack: Lets make video diffusion practical!
 -------------------------------------------------
+## 40 Prompts Every Creator Needs (Steal These)
+I built these after watching creators waste hours typing the same question into C… See more
+
+These 40 prompts write your hooks, scripts, captions, and repurposed content for you. Copy one, paste your topic in the brackets, done.
+Simple English. Zero fluff. Works with ChatGPT, Claude, or Gemini.
+
+###CATEGORY 1: HOOKS
+1. Freeze Frame
+Give me 15 first lines for a post about [TOPIC] that would make someone stop mid scroll, each testing a different emotion like shock, curiosity, humor, fear, and pride.
+Why it works: Testing across emotions shows you which trigger actually lands instead of guessing one angle and hoping.
+
+2. Flip The Script
+Write 10 hooks that take the popular belief about [TOPIC] and argue the exact opposite, backing each one with a reason.
+Why it works: People stop scrolling to argue with you. Disagreement is free engagement.
+
+3. Open Loop
+Write 10 hooks for [TOPIC] that start in the middle of the action, so the reader has to keep reading to find out what happened.
+Why it works: Your brain hates an unfinished story. It reads on just to close the loop.
+
+4. Count It Up
+Turn [TOPIC] into 10 hooks using an odd, specific number instead of a round one, each promising one clear result.
+Why it works: A number like 7 feels more researched and honest than a round number like 10.
+
+5. Smart Vs Struggling
+Write 8 hooks that show the easy way to do [TOPIC] side by side with the hard way most people are still doing.
+Why it works: Contrast makes the benefit obvious in a single line, no explaining needed.
+
+6. First Person Cold Open
+Give me 5 story hooks about [EXPERIENCE] that start right in the middle of the moment, not the backstory.
+Why it works: Starting at the peak of the action grabs attention before you explain any context.
+
+7. Ask What They Won't
+Write 10 questions [AUDIENCE] thinks about [TOPIC] but feels a little embarrassed to ask out loud.
+Why it works: Naming an unspoken thought builds instant trust because it feels like you read their mind.
+
+8. Costly Mistake
+Write 8 hooks built around the one mistake with [TOPIC] that quietly wastes the most time.
+Why it works: People engage more with avoiding a loss than they do with chasing a gain.
+
+9. Say It Bold
+Write 8 confident, provable statements about [TOPIC] I can open a post with.
+Why it works: A bold claim forces a reaction, agree or push back, and both drive comments.
+
+10. Hook Autopsy
+Here are 5 hooks I wrote for [TOPIC]. Score each one from 1 to 10, explain the weak point, then rewrite it stronger: [PASTE]
+Why it works: Feedback plus a rewrite teaches you the actual pattern instead of handing you one fix.
+
+### CATEGORY 2: REELS
+1. Half Minute Script
+Write a 30 second reel script about [TOPIC] with a hook, three fast points, and one clear call to action.
+Why it works: Reels under 30 seconds get rewatched more, and rewatches boost reach.
+
+2. Article Into Video
+Turn this blog post into a 30 second talking head script I can film today: [PASTE]
+Why it works: Repurposing lets one idea earn attention in two different formats without extra research.
+
+3. Rapid Fire Tips
+Script a fast 5 tip reel on [TOPIC], one punchy line per tip, ending with a memorable close.
+Why it works: Short, tip by tip pacing keeps watch time high because every line delivers value.
+
+4. Turn Life Into A Reel
+Turn [EXPERIENCE] into a 40 second story reel that ends with the lesson I learned.
+Why it works: Personal stories with a clear takeaway build connection and get saved for later.
+
+5. Shot List Builder
+For this script, list the exact b roll shots to film for every line so I am never guessing on set: [PASTE]
+Why it works: Planning shots ahead of time cuts editing time and makes the final cut feel smoother.
+
+6. Speak Naturally
+Give me a loose talking point outline on [TOPIC] so I can speak in my own words instead of reading a script.
+Why it works: Natural delivery feels more trustworthy on camera than a memorized script ever does.
+
+7. On Screen Timing
+Write the on screen text overlays for this reel, timed line by line so the captions match the voice: [PASTE]
+Why it works: Synced text keeps people watching with the sound off, which is most of your audience.
+
+8. React And Remix
+Write a reaction script responding to [TREND or POST] that adds my own take in the first five seconds.
+Why it works: Riding a trend early borrows its reach while your own angle still makes it stand out.
+
+9. Find The Drop Off
+Look at this script and tell me exactly where viewers will lose interest, then fix each spot: [PASTE]
+Why it works: Retention drops happen at predictable moments, and fixing them keeps people watching longer.
+
+10. Episode Plan
+Turn [TOPIC] into a 5 part reel series with a title for each episode so people come back for the next one.
+Why it works: Series content trains both the algorithm and your audience to expect your next post.
+
+### CATEGORY 3: CAPTIONS
+1. Hook Value Ask
+Write a caption for a post about [TOPIC] in this order, one line hook, one useful tip, one clear ask.
+Why it works: Giving value before asking for anything makes the ask feel earned, not pushy.
+
+2. Keyword Friendly
+Write a caption for [TOPIC] that naturally includes searchable keywords plus 8 relevant hashtags.
+Why it works: Keyword rich captions help your post show up in search, not just in the feed.
+
+3. Four Line Story
+Turn [TOPIC] into a four line caption that reads like a tiny story and lands on one lesson.
+Why it works: Short stories are easy to read in one glance and easy to remember afterward.
+
+4. Worth Saving
+Write a caption for [TOPIC] that gives people a clear reason to save the post for later.
+Why it works: Saves signal high value content to the algorithm more strongly than likes do.
+
+5. Ending Options
+Give me 10 different ways to end a caption about [TOPIC], from a question to a challenge to a soft ask.
+Why it works: Testing different endings shows you exactly which action your audience responds to.
+
+6. Slide By Slide Recap
+Write a caption for a carousel that teaches [TOPIC], summarizing each slide in one short line.
+Why it works: A recap caption helps people who only skim the slides still walk away with the full point.
+
+7. Three Hashtag Tiers
+Give me three tiers of hashtags, wide reach, niche, and small community, for a [NICHE] post.
+Why it works: Mixing hashtag sizes helps you reach new people while still ranking in the smaller tags.
+
+8. Comment Magnet
+Write a caption ending in a specific question that [AUDIENCE] would actually stop to answer.
+Why it works: Specific questions get real answers. Generic ones like "thoughts?" get ignored.
+
+9. Sound Like Me
+Rewrite this caption in my voice, casual, direct, no filler words: [PASTE]
+Why it works: A consistent voice builds recognition before people even see your name on the post.
+
+10. Pin This First
+Write a strong first comment to pin under a post about [TOPIC] that adds context or a resource.
+Why it works: A pinned comment adds extra value without making the caption itself too long.
+
+### CATEGORY 4: REPURPOSE
+1. Ten Formats
+Turn this one post into 10 formats, reel, carousel, tweet, thread, email, and more: [PASTE]
+Why it works: One idea reused across formats multiplies your reach without any extra research time.
+
+2. Thread From Long Form
+Turn this [BLOG or TRANSCRIPT] into a punchy 8 part thread with one idea per post.
+Why it works: Threads break dense content into bite sized pieces people can actually skim and finish.
+
+3. Weekly Wrap
+Turn this week's posts into a short newsletter with one main lesson tying them together: [PASTE]
+Why it works: A newsletter builds an owned audience that isn't at the mercy of an algorithm change.
+
+4. Long Video Into Clips
+Cut this long video transcript into 3 short form clips with exact timestamps: [PASTE]
+Why it works: Clipping long content into shorts extends its life across more platforms with less effort.
+
+5. Quote Card Miner
+Pull 8 quotable lines from this content that would work as standalone quote graphics: [PASTE]
+Why it works: Quote cards get shared easily because they need no extra context to make sense.
+
+6. Slide Titles
+Turn [TOPIC] into a 7 slide carousel outline with one clear title per slide.
+Why it works: Strong slide titles let people understand the value before they even swipe once.
+
+7. Comment Mining
+Read these comments and turn the most repeated questions into new content ideas: [PASTE]
+Why it works: Real audience questions guarantee your next post already has built in demand.
+
+8. Platform Switch
+Adapt this Instagram caption for LinkedIn and for X, adjusting tone and length for each: [PASTE]
+Why it works: Every platform rewards a different tone, so a straight copy and paste usually underperforms.
+
+9. Make It Timeless
+Rewrite this timely post as an evergreen version I can repost months from now: [PASTE]
+Why it works: Evergreen content keeps earning views long after the original trend has faded away.
+
+10. Repost Without Repeat
+Give me 5 ways to repost [OLD POST] so it feels new instead of recycled.
+Why it works: A fresh angle on old content saves you time while still feeling original to your audience.
+
+🛠️ PRO TIPS
+Always paste real content into the [PASTE] prompts. Real input beats a made up example every time.
+Run the same prompt twice. AI gives different options each time, so a second run often beats the first.
+Feed the AI 2 or 3 of your best past posts before asking it to write in your voice.
+Keep captions under 150 words unless you are telling a full story.
+Test every hook as a spoken line and as text on screen. It has to work both ways.
+Save your top five prompts in a note so you are never starting from a blank page again.
+Batch one category at a time. Do all your hooks first, then all your captions, instead of jumping around.
+Read your AI output out loud before posting. If it sounds robotic, ask it to simplify the language.
+
+THE TRUTH
+Nobody grows because they found one magic prompt.
+They grow because they show up with a system every single day.
+A great hook still needs a real point behind it.
+A great caption still needs an audience that trusts you.
+AI can write the words fast, but it cannot make you consistent.
+That part is still on you.
+These prompts remove the blank page.
+They do not remove the work of actually posting.
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
