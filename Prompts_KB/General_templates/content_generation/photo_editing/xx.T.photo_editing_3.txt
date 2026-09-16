@@ -94,4 +94,49 @@ Prompt:
 Prompt:
 "Apply the following specific edits to the attached image: [list each requested change clearly]. Make only these changes and preserve everything else exactly as it appears in the original image. Keep all unmentioned subjects, facial features, objects, text, colors, proportions, positions, background elements, lighting, textures, perspective, composition, and visual style unchanged. Ensure each edit blends naturally with the original image and does not unintentionally affect surrounding details. Do not add, remove, redesign, reposition, or reinterpret anything unless explicitly requested. The final image should look like the original with only the specified edits applied."
 -------------------------------------------------
+## Why pay for graphic design when AI can do it in seconds?
+ChatGPT can handle the heavy lifting. Here are 10 powerful prompts 👇
+
+1. 🔥 Brand Identity Masterboard
+Create a premium Coca-Cola brand identity presentation board featuring logo treatments, typography, colour palette, packaging, bottle and can designs, social media assets, and advertising mockups. Use Coca-Cola red, white, black, and metallic silver. Include a striking hero bottle and can with realistic condensation, glossy reflections, and authentic packaging textures. Present everything in a clean Behance-inspired editorial grid with precise alignment, strong typography, and generous negative space. Ultra-realistic commercial photography, premium art direction, and polished branding details. Aspect ratio: 1:1.
+
+2. 💨 Signature Product Hero
+Create a premium Coca-Cola product presentation featuring one iconic glass bottle and one aluminium can as the main heroes. Use dramatic studio lighting, realistic condensation, glossy reflections, sparkling liquid, and detailed packaging textures. Include elegant product close-ups, label details, and material callouts. Use Coca-Cola red, white, black, and metallic silver with a refined editorial layout. Ultra-realistic commercial product photography, cinematic shadows, and premium finishing. Aspect ratio: 1:1.
+
+3. ⚡ Campaign Poster
+Create a bold Coca-Cola advertising poster featuring a stylish young adult model in red, white, and black streetwear, confidently holding a chilled Coca-Cola bottle. Use a dramatic low-angle rooftop shot, cinematic sunlight, and realistic product details. Add oversized editorial typography reading “DESIGNED TO REFRESH.” Use strong negative space, premium fashion photography, authentic packaging, and Coca-Cola red as the dominant colour. Ultra-realistic, energetic, youthful, and globally recognizable. Aspect ratio: 1:1.
+
+4. 🌐 Website Design
+Create a premium Coca-Cola website displayed inside a realistic MacBook Pro mockup. Show a homepage featuring “DESIGNED TO REFRESH,” product collections, flavour categories, limited editions, and elegant CTA buttons. Use a clean red, white, black, and silver interface with refined typography and realistic product photography. Place the laptop in a cinematic studio with soft red lighting, reflections, and subtle carbonation effects. Ultra-realistic UI, premium commercial presentation, and polished details. Aspect ratio: 1:1.
+
+5. 📦 Packaging Design
+Create a premium Coca-Cola packaging presentation featuring bottles, cans, multipacks, gift boxes, delivery cartons, and limited-edition packaging. Use a cohesive Coca-Cola red, white, black, and metallic silver system with precise logo placement and refined typography. Show realistic cardboard, aluminium, glass, embossed details, foil accents, and condensation. Arrange everything in a sophisticated studio with soft shadows and editorial spacing. Ultra-realistic materials, authentic textures, and premium product photography. Aspect ratio: 1:1.
+
+6. 📱 Mobile App UI
+Create a premium Coca-Cola mobile app presentation with three realistic smartphone mockups showing a homepage, product collection, and product details. Include bottles, cans, flavours, bundles, pricing, product cards, and shopping controls. Use a clean red, white, black, and silver interface with polished typography and intuitive navigation. Add cinematic studio lighting, glass reflections, and subtle carbonation bubbles. Ultra-realistic smartphone materials, crisp UI, and premium commercial presentation. Aspect ratio: 1:1.
+
+7. 🌆 Billboard Campaign
+Create a spectacular Coca-Cola billboard campaign featuring a monumental chilled glass bottle suspended above a futuristic city at sunset. Show crowds looking upward, reflective streets, cinematic clouds, and realistic atmospheric depth. Add the headline “DESIGNED TO REFRESH” in bold editorial typography. Emphasize realistic glass, condensation, red branding, and sparkling liquid highlights. Ultra-realistic cinematic advertising, dramatic scale, and premium compositing. Aspect ratio: 1:1.
+
+8. 📸 Social Media Campaign
+Create a premium Coca-Cola Instagram campaign featuring a stylish young adult model beside a chilled Coca-Cola bottle on a modern rooftop. Use dramatic low-angle photography, bright blue skies, cinematic sunlight, and realistic product details. Add oversized typography reading “DESIGNED TO REFRESH.” Use Coca-Cola red, white, black, and metallic silver with strong hierarchy and intentional negative space. Ultra-realistic fashion photography, authentic packaging, and high-end advertising quality. Aspect ratio: 1:1.
+
+9. 🎬 360° Campaign System
+Create a premium Coca-Cola campaign presentation showing one unified identity across a billboard, bus shelter, Instagram post, smartphone ad, retail display, delivery vehicle, and packaging. Use the campaign headline “DESIGNED TO REFRESH,” Coca-Cola red, consistent typography, and authentic product visuals. Present everything in a clean editorial grid with realistic mockups, precise alignment, and premium commercial lighting. Ultra-realistic branding, cohesive art direction, and polished materials. Aspect ratio: 1:1.
+
+10. 🏆 Future of Coca-Cola
+Create a futuristic Coca-Cola brand campaign combining iconic bottles, aluminium cans, premium packaging, digital interfaces, fashion, and advertising into one striking composition. Use Coca-Cola red, white, black, metallic silver, and transparent glass. Add cinematic lighting, reflective surfaces, floating carbonation particles, and realistic condensation. Integrate the headline “DESIGNED TO REFRESH” with bold editorial typography. Make it feel like a world-class global brand reveal. Ultra-photorealistic, premium, innovative, and unforgettable. Aspect ratio: 1:1.
+
 -------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
+
+
+
+
+
