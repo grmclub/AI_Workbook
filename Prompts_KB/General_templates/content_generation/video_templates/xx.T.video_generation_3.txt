@@ -1,0 +1,130 @@
+
+
+-------------------------------------------------
+## Tested the "Free AI Video" Posts. Here's What Actually Works.
+Most of these posts recycle the same 6 tools and never mention the limits.
+Here's my honest 2026 version. 10 tools, real prompts, no fluff.
+
+BOTTOM LINE
+Use 2 tools to draft, 1 to finish, 1 as backup. That's the whole game.
+Comment STACK and I'll send you the one-page prompt sheet — all 10 starters, plus a face-lock version and a product version.
+Follow for the next list. I only post tools I can still open this week.
+
+QUICK START
+1. Pick one photo with a clear face or product
+2. Test tiny motion on Vheer or Dola
+3. Take the same photo to Kling, use the face-lock prompt
+4. If it feels flat, remake it in Hailuo or Flow with a camera move
+5. Phone only? Use YouTube Create, 9:16
+6. Save the prompt that worked — only change one line next time
+7. Export, crop, add captions in CapCut or YouTube Create
+8. Post it. Then try tool 2 on the same idea.
+
+THE TRUTH
+There's no magic "unlimited perfect video" button in 2026.
+Free tiers are for testing. Credits run out. Queues get slow. Faces still break if you ask for a dance, a zoom, and an outfit change all at once.
+Smart creators aren't relying on one tool. They draft on Qwen, Vheer, or Dola. Lock the face on Kling. Add cinematic touches with Hailuo, Wan, or Flow. Publish from YouTube Create when it's available. Render extras on FramePack if they have the GPU for it.
+That combination beats any single "best AI tool" post.
+
+PRO TIPS
+1. One clip, one job — face OR product OR place, not all three
+2. Write your camera moves like a shot list: push in, orbit, track, hold
+3. Lock identity first, then add action
+4. Stick to 5-8 seconds — longer free clips fall apart
+5. Draft ugly first, remake the winner in higher quality
+6. Download immediately — some links expire
+7. Keep a prompt notebook — your third rewrite is usually the keeper
+8. Use 9:16 for Reels/Shorts, 16:9 only for YouTube B-roll
+9. Say what you want, not everything you don't want — one "no extra fingers" line is enough
+10. Never pay a site claiming to be FramePack — official is GitHub only
+
+=====================
+
+1. Qwen Chat — for fast daily testing
+https://chat.qwen.ai/
+Good for throwing 10 rough ideas at the wall without leaving your chat window. Free login, works with text and images. Quality is average compared to the top tools, but it's quick.
+Try this prompt:
+A handheld 9:16 night market clip. A young street cook flips noodles in a steel wok, orange fire bloom for one second, steam hits the lens, neon signs smear in the background, shallow depth of field, natural skin texture, no extra fingers, no text on screen, 5 seconds, camera slowly pushes in then holds on the plate.
+Why it works: one place, one subject, one lighting moment, one camera move. Vague prompts turn into mush.
+
+
+2. Kling AI — for faces that don't morph
+https://klingai.com/
+This is my go-to when a face needs to stay recognizable. Free daily credits, solid at blinking, breathing, small head turns. Free clips may have a watermark and get stuck in queue during busy hours, so test in standard mode first.
+Try this prompt:
+Animate this portrait. Keep the exact face, hairline, and outfit. The person looks at camera, blinks once, then smiles and turns 15 degrees to the right as wind moves a few strands of hair. Soft window light from the left, slow push in, no morphing, no extra limbs, photoreal, 5 seconds, 9:16.
+Why it works: small actions protect identity. Big motion is when faces fall apart.
+Kling AI: Next-Gen AI Video & Image Generator
+KLING.AI
+Kling AI: Next-Gen AI Video & Image Generator
+Kling AI: Next-Gen AI Video & Image Generator
+
+3. PixVerse — for punchy short clips and effects
+https://pixverse.ai/
+Great for Reels-style motion — whip pans, stylized effects on a still image. You get signup credits plus a small daily top-up. Free exports are lower quality and marked, so use this as a testing ground, not your final file.
+Try this prompt:
+Cinematic product hero shot of a glass perfume bottle on wet black stone. Camera orbits 90 degrees from left to right, a single drop slides down the glass, warm rim light, slow motion mist in the air, luxury commercial look, sharp label, no extra bottles, no warped text, 5 seconds, 9:16.
+Why it works: one object, one camera path, one light source. Keep it simple.
+The Generative Core Behind Digital Worlds and Experiences | PixVerse
+PIXVERSE.AI
+The Generative Core Behind Digital Worlds and Experiences | PixVerse
+
+4. Vheer — for zero-hassle first tests
+https://vheer.com/
+Drop a photo in your browser, get motion out. No account needed for most features, often no watermark. This is the "open tab, test idea, decide fast" tool. Download your clip right away — premium models eat through credits quickly.
+Try this prompt:
+Turn this photo into a living clip. Subtle breathing, slight hair movement, eyes shift toward camera, background stays locked, natural daylight, no face warp, no extra people entering frame, smooth 4 second loop, 9:16.
+Why it works: small, believable motion looks better than a full scene. Ask for too much and you get melted hands.
+Free AI Image & Video Generator - Unlimited, No Signup | Vheer
+
+5. Hailuo AI — for cinematic body movement
+https://hailuoai.video/
+Best for full-body motion, walking, camera tracking — scenes that feel filmed, not just wiggled. Strong image-to-video, director-style camera controls, and some routes now include native sound. Free queues can be slow.
+Try this prompt:
+A woman in a long coat walks toward camera on a rainy Tokyo side street at blue hour. Tracking shot at chest height, neon reflections on wet asphalt, light rain, she glances left then back to camera, coat fabric moves with real weight, photoreal film grain, no text, no extra faces, 6 seconds, 9:16.
+Why it works: weather, a tracking shot, and one glance give the model something real to work with. Empty prompts like "cinematic walking" turn into a slideshow.
+Hailuo AI: MiniMax H3 LIVE NOW. Top-Tier Quality, Versatile References
+
+6. Google Flow — for the cleanest Google video stack
+https://labs.google/fx/tools/flow
+This gives you Veo and Gemini Omni with camera control, first/last frame options, and scene extension. Omni even lets you talk to edit your clip after the first render. Access depends on your Google AI plan and country.
+Try this prompt:
+Wide to medium shot of a red vintage bicycle leaning on a sunlit Lisbon wall. Start frame is the still photo. Camera dollies in, a curtain in the window lifts once, dust floats in the beam, warm late afternoon light, photoreal, no people, no warped wheels, 8 seconds, 16:9. After generate: keep the same bike and wall, only add a cat walking behind the wheel.
+Why it works: one starting frame, one camera move, one follow-up edit. That's exactly what Omni is built for.
+Google Flow - AI Creative Studio for Video, Images & Custom Tools
+
+7. YouTube Create — free Gemini Omni on your phone
+YouTube Create app, or try Shorts Remix inside YouTube
+Good for vertical clips or filling in missing footage. Gemini Omni can build ~10 second vertical clips from text plus up to 3 reference photos. Rollout is still limited in some regions — if you don't see "Generate video," try Flow instead.
+Try this prompt:
+Vertical cooking Short. Close up of hands folding a breakfast wrap on a wooden board, steam rising, soft kitchen window light, slow tilt up to the finished plate, appetizing, no logos, no extra hands, 8 seconds, 9:16. Lighting: soft morning light.
+Why it works: clear shot size, one action, one lighting style. Long storylines get cut off.
+
+
+8. Dola AI — Seedance-style clips in a simple chat
+https://www.dola.com/ | Video desk: https://www.dolai.video/
+Simple chat interface for text or photo to video. Free daily credits, decent motion, mobile app available. Great for style tests — remake your favorite in Kling or Flow if you need a cleaner face.
+Try this prompt:
+A quiet 9:16 cottage kitchen at sunrise. Golden light through linen curtains, a ceramic mug steams on a wooden table, dust in the air, camera slowly pushes from the doorway to the mug, photoreal, warm, no people, no warped cups, 8 seconds, soft ambient birds outside.
+Why it works: give it mood, texture, and one object to land on. It handles slow camera work well.
+
+9. Wan Video — for a different look and longer clips
+https://wan.video/ (open models also on Hugging Face Spaces)
+Output here often looks less generic than other tools. Supports text, image, and multiple reference inputs, plus longer clips than the usual 5-second limit. Site can feel Chinese-first — use browser translate. Stick to the official site, fake clones exist.
+Try this prompt:
+Dreamlike 16:9 shot of a glass train gliding over a dark ocean at sunset. Warm sun on the horizon, waves catch orange light, camera tracks beside one carriage, passengers are only silhouettes, no readable text, no broken geometry, cinematic, 8 to 10 seconds, gentle engine hum.
+Why it works: mood words plus a clean camera path. Overloaded prompts cause distortion.
+Wan AI: Leading AI Video Generation Model
+
+10. FramePack — run it on your own PC, no credits needed
+Official code: https://github.com/lllyasviel/FramePack
+Project page: https://lllyasviel.github.io/frame_pack_gitpage/
+For longer image-to-video work once you've burned through web credits. You render locally, so it needs setup and a decent GPU. Warning: framepack.net and similar sites are NOT official — only use GitHub.
+Try this prompt:
+Start from this photo. Keep the same person and room. She looks down at a book, turns one page, then looks up toward the window as afternoon light shifts across the desk. Slow and natural motion only, no teleport, no extra fingers, 5 to 10 seconds.
+Why it works: small continuous actions stay stable. Big jumps cause glitches.
+GitHub - lllyasviel/FramePack: Lets make video diffusion practical!
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
