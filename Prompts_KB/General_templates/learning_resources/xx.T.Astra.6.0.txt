@@ -1,0 +1,47 @@
+
+
+-------------------------------------------------
+How GPT-6 Astra Works: Capabilities and Features Explained
+
+
+☑ 1. Why Astra Changes Everything 
+→ Astra uses your computer instead of just answering.
+→ It carries the task from start to full finish.
+→ It checks its own work before shipping the result.
+
+☑ 2. What Astra Can Actually Do 
+→ It navigates websites, apps, and internal tools.
+→ It traces bugs, writes fixes, and runs your tests.
+→ It researches the web then builds your docs.
+↳ Docs, sheets, decks, and full websites, from brief.
+
+☑ 3. The Astra Workflow 
+→ You give it a brief with goals and context.
+→ It plans every step, then picks the right tools.
+→ It ships the finished file and keeps working after.
+
+☑ 4. Connect Everything
+→ Astra connects to GitHub, Notion, Slack, and Figma.
+→ MCP links Astra directly to any custom tool.
+→ One connector puts Astra inside your entire stack.
+
+☑ 5. Essential Controls 
+→ You set reasoning effort from low up to max.
+→ Higher effort handles coding and hard multi-step tasks.
+→ Choose gpt-6-astra to handle the full end-to-end workload.
+
+☑ 6. Briefs & Project Memory 
+→ You paste your brief straight into a ChatGPT project.
+→ Project memory keeps goals, limits, and sources saved.
+→ Every new task opens already loaded with your context.
+
+☑ 7. Prompting Techniques
+→ Give Astra a full brief instead of one question.
+→ Always ask it to verify before you ship anything.
+→ Attach your exact template so the output matches.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
