@@ -139,5 +139,62 @@ Here are the 10 prompts 👇
 10. **Ultimate PDF analysis prompt**
 > Analyze this entire PDF thoroughly from beginning to end. First, give me a simple 10-point overview of the document. Then explain each major section in clear, beginner-friendly language. Extract the most important concepts, definitions, facts, statistics, examples, frameworks, arguments, conclusions, and recommendations. Highlight anything surprising, especially useful, confusing, or easy to miss. Finally, give me 10 key takeaways, a short cheat sheet, and the most important things I should understand first if I only have 15 minutes.
 -------------------------------------------------
+##Here are 10 ready-to-use prompts to build better reading lessons with ChatGPT. 👇
+
+1/ Activate Prior Knowledge & Predict
+Use this when you want learners to think about a text before reading and make meaningful predictions.
+Prompt:
+"Create a pre-reading activity for [text/topic] for [level]. Use [title/image/key clues] to activate learners’ prior knowledge and generate predictions about the text. Include [number] short prediction questions. Do not reveal the text’s content."
+
+2/ Read for Gist
+Use this when you want learners to understand the overall meaning of a text without focusing on every word.
+Prompt:
+"Create a gist-reading activity for [text] for [level]. Give learners a clear reason to read quickly for the overall meaning. Include [number] short tasks or questions focused only on the main idea, purpose, or general message. Avoid questions about specific details."
+
+3/ Practice Skimming
+Use this when you want learners to read quickly to identify the main points and overall organization of a text.
+Prompt:
+"Create a skimming activity for [text] for [level]. Give learners a short time limit and [number] tasks focused on identifying the topic, main ideas, and overall organization. Avoid questions that require careful reading for details."
+
+4/ Practice Scanning
+Use this when you want learners to locate specific information quickly without reading the entire text carefully.
+Prompt:
+"Create a scanning activity for [text] for [level]. Ask learners to find specific information such as [names/dates/numbers/places/key facts] as quickly as possible. Include [number] short search tasks and encourage learners to scan rather than read every word."
+
+5/ Handle Unknown Vocabulary
+Use this when you want learners to deal with unfamiliar words without immediately using a dictionary.
+Prompt:
+"Create a vocabulary-in-context activity for [text] for [level]. Select [number] unfamiliar words that learners can work out from context. Ask them to identify contextual clues, guess each word’s meaning, and decide which unknown words are actually necessary for understanding the text."
+
+6/ Make Inferences While Reading
+Use this when you want learners to understand ideas that are implied rather than directly stated.
+Prompt:
+"Create an inference activity for [text] for [level]. Write [number] questions that require learners to combine clues from the text with their own knowledge to infer unstated meanings. Ask them to identify the textual evidence that supports each inference."
+
+7/ Recognize Text Organization
+Use this when you want learners to understand how ideas are connected and organized within a text.
+Prompt:
+"Create a text-organization activity for [text] for [level]. Ask learners to identify how ideas are organized, such as [sequence/comparison/cause and effect/problem and solution]. Include [number] tasks that help them notice paragraph structure, connections between ideas, and organizational clues."
+
+8/ Build Reading Speed & Flexibility
+Use this when you want learners to adjust their reading speed according to their purpose.
+Prompt:
+"Create a timed reading activity for [text] for [level]. Include [number] tasks that require learners to read at different speeds for different purposes, such as getting the main idea, finding specific information, and reading important sections carefully. Encourage efficient reading rather than word-by-word reading."
+
+9/ Scaffold a Difficult Reading Text
+Use this when you want to make a challenging text more accessible without explaining everything for learners.
+Prompt:
+"Create a scaffolded reading activity for [text] for [level]. Identify the parts learners may find difficult and provide strategic support through prompting, guiding questions, modeling, or clarification. Help learners work out the meaning themselves rather than translating or explaining the entire text."
+
+10/ Turn Comprehension Questions into Learning Tasks
+Use this when you want comprehension work to develop reading skills rather than simply test understanding.
+Prompt:
+"Create a reading activity for [text] for [level] that teaches rather than simply tests comprehension. Include [number] tasks that guide learners back to the text to identify clues, explain how they reached an answer, and practice useful reading strategies. Avoid questions based only on recalling information."
 -------------------------------------------------
 -------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
+
+
