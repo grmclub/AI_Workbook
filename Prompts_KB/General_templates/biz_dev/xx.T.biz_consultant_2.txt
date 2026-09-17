@@ -144,8 +144,34 @@ Act as an elite startup pitch strategist with McKinsey-level business insight. M
 Write a compelling 300-word investor pitch covering the problem, urgency, solution, market opportunity, business model, traction, team advantage, funding ask, and use of funds.
 End with a powerful, credible closing that creates urgency and earns the meeting.
 
-
 -------------------------------------------------
+🚨 BREAKING: Claude can now analyze your business like a top MBA consultant.
+Here are 8 powerful prompts for market research, competitor analysis, pricing, and strategy. 👇🏻
+
+1️. Full Business Analysis
+"Act as an MBA-trained business strategist. My business is [describe]. Analyze it end-to-end: revenue model, market position, competitive threats, operational gaps, growth bottlenecks, and the 3 strategic moves most likely to drive meaningful growth over the next 12 months. Prioritize your recommendations by impact and effort."
+
+2️. Market Research Report
+"Act as a senior market research analyst. I’m entering [market] with [describe offer]. Analyze the market size, most valuable customer segments, major trends, unmet needs, competitive landscape, and market timing. Identify the biggest opportunity and the strongest reason I should or shouldn’t enter now."
+
+3️. Competitor Teardown
+"Act as a competitive intelligence strategist. My top 3 competitors are [list]. Break down each competitor’s positioning, pricing, strengths, weaknesses, acquisition strategy, and key differentiators. Then identify the most valuable market gap I could realistically exploit and how I could position my offer to stand out."
+
+4️. Pricing Strategy Audit
+"Act as a pricing strategist. My offer is [describe] and it currently costs [price]. Evaluate my pricing against the value delivered, target customer, competitive landscape, and willingness to pay. Identify whether I’m underpricing or overpricing, where my pricing power comes from, and the positioning changes that could justify a higher price."
+
+5️. Customer Segmentation Analyst
+"Act as a customer segmentation specialist. My business is [describe] and my current customers are [describe]. Identify my 3 highest-value customer segments. For each, explain who they are, what they need most, their buying triggers, willingness to pay, and how I should reach them. Then recommend where I should focus my acquisition efforts first based on clear criteria."
+
+6️. SWOT Analysis Builder
+"Act as a strategic business analyst. My business is [describe]. Build a specific, evidence-based SWOT analysis—not generic business advice. For every weakness, give me a practical fix. For every threat, give me a mitigation strategy. For every opportunity, give me the first action to take."
+
+8️. Strategic Growth Plan
+"Act as a business strategy consultant. My business currently generates [amount] from [describe], and I want to reach [target revenue] within [timeframe]. Build a realistic growth plan covering revenue levers, new markets, offer expansion, acquisition opportunities, and key metrics. Identify the single biggest constraint holding back growth and the first move I should make to overcome it."
+
+7️. Go-To-Market Strategy
+"Act as a senior go-to-market strategist. I’m launching [product] for [audience] in [market]. Build a complete GTM plan covering the ideal beachhead segment, positioning, acquisition channels, launch sequence, messaging, and first-100-customer strategy. Rank the channels by expected speed, cost, and scalability."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
