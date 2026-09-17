@@ -312,5 +312,33 @@ That part is still on you.
 These prompts remove the blank page.
 They do not remove the work of actually posting.
 -------------------------------------------------
+## ChatGPT Video Director mode
+
+
+1. Build a Structured Video Production Plan
+'Create a clear AI video production plan for me.
+Break it into stages: concept design, script writing, prompt crafting, scene generation, and final editing workflow.'
+
+2. Create a Daily Video Creation Routine
+'Give me a daily AI video creation schedule that includes: prompt writing, scene testing, style consistency checks, and short feedback reviews.
+Keep each task doable within a reasonable time block.'
+
+3. Simplify Camera and Scene Prompts
+'Explain how to write video prompts in simple terms. Use real examples to show how shot angles, lighting, and movement work in practice — not just technical jargon.'
+
+4. Fix Weak Video Prompts
+'Review the AI video prompt I give you. Point out what is vague, missing, or causing bad outputs.
+Give me a corrected version and explain how to avoid the same mistakes next time.'
+
+5. Step-by-Step Style Training
+'Act as my AI video style coach. Start with basic prompt structures, then gradually add character consistency, background details, and motion direction as I improve. Help me when I get stuck.'
+
+6. Real-World Video Scene Practice
+'Create AI video prompt templates for real situations: product ads, YouTube intros, short-form social clips, and explainer videos. Use natural language and only include relevant details. List the key prompt elements used at the end.'
+
+7. Prompt Review and Repetition System
+'Based on the AI video prompts I have written so far, create a quick review quiz. Mix old and new prompt styles. Include fill-in-the-blank and prompt-rewriting exercises. Tell me which areas still need work.'
+
+
 -------------------------------------------------
 -------------------------------------------------
