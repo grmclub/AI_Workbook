@@ -169,24 +169,53 @@ Try these 10 editable ChatGPT portrait prompts 👇
 6 powerful ChatGPT prompts to restore, sharpen, repair, and colorize old photos. 📸✨
 
 1️. Restore an Old Photo
-“Restore this old photograph while preserving the person’s identity, facial features, pose, clothing, and original composition. Remove scratches, dust, stains, tears, fading, and visible damage. Recover realistic skin texture, natural facial details, and balanced contrast. Improve sharpness and clarity without making the image look artificial or overly processed. Keep the result historically authentic and photorealistic.”
+"Restore this old photograph while preserving the person’s identity, facial features, pose, clothing, and original composition. Remove scratches, dust, stains, tears, fading, and visible damage. Recover realistic skin texture, natural facial details, and balanced contrast. Improve sharpness and clarity without making the image look artificial or overly processed. Keep the result historically authentic and photorealistic."
 
 2️. Colorize a Black-and-White Photo
-“Colorize this black-and-white photograph with realistic, natural-looking colors. Carefully reconstruct believable skin tones, hair, clothing, background, and environmental colors based on the era and lighting. Preserve the original facial features, expressions, composition, and photographic character. Avoid oversaturation, modern-looking colors, or artificial AI effects. Make it look like a genuine color photograph.”
+"Colorize this black-and-white photograph with realistic, natural-looking colors. Carefully reconstruct believable skin tones, hair, clothing, background, and environmental colors based on the era and lighting. Preserve the original facial features, expressions, composition, and photographic character. Avoid oversaturation, modern-looking colors, or artificial AI effects. Make it look like a genuine color photograph."
 
 3️. Turn a Blurry Photo Sharp Again
-“Enhance this blurry photograph by recovering as much authentic detail as possible. Improve facial clarity, eyes, hair, clothing, textures, and edges while preserving the person’s true identity and proportions. Reduce blur, noise, compression artifacts, and softness. Do not invent unrealistic facial features or alter the original expression. Create a clean, sharp, natural-looking photorealistic result.”
+"Enhance this blurry photograph by recovering as much authentic detail as possible. Improve facial clarity, eyes, hair, clothing, textures, and edges while preserving the person’s true identity and proportions. Reduce blur, noise, compression artifacts, and softness. Do not invent unrealistic facial features or alter the original expression. Create a clean, sharp, natural-looking photorealistic result."
 
 4️. Repair a Damaged Photograph
-“Professionally repair this damaged photograph. Remove scratches, cracks, folds, stains, missing areas, dust, discoloration, and other physical damage. Reconstruct damaged details naturally while keeping the original people, faces, clothing, background, lighting, and composition unchanged. Match surrounding textures and tones so the repairs blend seamlessly. The final image should look authentic, clean, and professionally restored.”
+"Professionally repair this damaged photograph. Remove scratches, cracks, folds, stains, missing areas, dust, discoloration, and other physical damage. Reconstruct damaged details naturally while keeping the original people, faces, clothing, background, lighting, and composition unchanged. Match surrounding textures and tones so the repairs blend seamlessly. The final image should look authentic, clean, and professionally restored."
 
 5️. Make an Old Photo Look Modern
-“Restore and enhance this old photograph so it looks as if it were captured with a modern high-quality camera, while preserving the original person and scene. Improve resolution, focus, dynamic range, lighting balance, contrast, and fine details. Remove age-related damage and fading without changing facial identity, body proportions, clothing, or composition. Keep the result natural and photorealistic — not overly edited.”
+"Restore and enhance this old photograph so it looks as if it were captured with a modern high-quality camera, while preserving the original person and scene. Improve resolution, focus, dynamic range, lighting balance, contrast, and fine details. Remove age-related damage and fading without changing facial identity, body proportions, clothing, or composition. Keep the result natural and photorealistic — not overly edited."
 
 6️. Full Professional Restoration
-“Perform a complete professional restoration of this photograph. Repair all visible damage, remove scratches and stains, restore faded details, correct exposure and contrast, reduce noise, recover sharpness, and improve overall image quality. If appropriate, naturally restore missing color while respecting the photograph’s original era. Preserve every person’s identity, facial structure, expression, clothing, pose, and original composition. The final result should be highly detailed, realistic, historically believable, and free from obvious AI artifacts.”
+"Perform a complete professional restoration of this photograph. Repair all visible damage, remove scratches and stains, restore faded details, correct exposure and contrast, reduce noise, recover sharpness, and improve overall image quality. If appropriate, naturally restore missing color while respecting the photograph’s original era. Preserve every person’s identity, facial structure, expression, clothing, pose, and original composition. The final result should be highly detailed, realistic, historically believable, and free from obvious AI artifacts."
 
 -------------------------------------------------
+## Edit photos 7 prompts you'll see the magic👇
+
+1/ The instant glow-up
+Prompt:
+"Give this photo a full professional glow-up without changing who I am. Keep my real face, skin tone, eyes, nose, hair, and body shape. Fix the lighting, remove small distractions, tidy the background, upgrade my clothes, sharpen the image, and improve the colors. Keep real skin texture and natural detail. The result should look like the best version of the original, not a different person."
+
+2/ Five-star hotel look
+Prompt:
+"Put me inside a stunning five-star hotel lobby with tall windows, warm soft lighting, marble floors, and high-end furniture behind me. Keep my face and body exactly like me. Dress me in a clean, stylish outfit that suits the setting. Keep the lighting, shadows, skin, clothes, and background looking natural, like a real professional photo."
+
+3/ Shot on iPhone 18 Pro Max
+Prompt:
+"Retouch this photo so it looks shot on an iPhone 18 Pro Max in Portrait Mode. Keep my real face, skin tone, hair, and body unchanged. Make it crisp and detailed with natural skin, soft lighting, rich color, and a smoothly blurred background. Lift the light on my face so the photo looks clean, bright, and real. Don't make me look like an AI person."
+
+4/ Private jet vibes
+Prompt:
+"Edit this so I'm standing next to a luxury private jet on an airport tarmac. Keep my real face, skin tone, hair, and body shape. Put me in a sharp travel outfit and wrap soft sunset light around me. Make the plane, ground, shadows, clothes, and background look completely real, like a photo taken on an actual trip."
+
+5/ Pro headshot on demand
+Prompt:
+"Turn this into a professional portrait for [PURPOSE: LinkedIn / website / magazine / business profile]. Keep my real face, skin tone, hair, and body the same. Place me in [SETTING] and dress me in [OUTFIT]. Use [LIGHTING STYLE] and add [BACKGROUND ELEMENTS]. Leave empty space on the [LEFT / RIGHT / TOP] for text if needed. Make it sharp, clean, natural, and realistic."
+
+6/ A day in your life
+Prompt:
+"Edit this so I'm at [LOCATION], doing [ACTIVITY]. Keep my real face, skin tone, hair, and body shape the same. Dress me in [OUTFIT] and use [TIME OF DAY] lighting. Add [BACKGROUND DETAILS] around me, but keep the background slightly blurred. Keep the light, shadows, skin, clothes, and surroundings natural. It should look like a real photo from my everyday life, not an AI image."
+
+7/ Your big moment
+Prompt:
+"Edit this so I look like I'm celebrating [ACHIEVEMENT OR MILESTONE] at [LOCATION]. Keep my real face, skin tone, hair, and body shape. Dress me in [OUTFIT] and add [PROPS OR OBJECTS] that fit the moment. Use [DAYLIGHT / SUNSET / NIGHT] lighting and include [BACKGROUND DETAILS]. Make my pose look natural and happy. It should feel like a real photo from an important moment in my life."
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
