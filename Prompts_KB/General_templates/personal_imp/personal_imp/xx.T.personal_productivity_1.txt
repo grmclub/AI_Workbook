@@ -36,6 +36,54 @@ Act as my reflection coach. Ask me 7 powerful questions to review my week: what 
 Pro Tip: Add this line at the end of every prompt:
 Ask me questions if needed, but don't give generic advice. Be specific to my context.
 -------------------------------------------------
+##Turn weakness into superpowers
+
+1. The Weakness Decoder
+I have this weakness: [e.g., I'm too sensitive, I overthink everything, I'm introverted]. Act as a world-class psychologist. Don't fix it. Decode it. Tell me what hidden superpower is hiding inside this weakness, how top 1% people use it, and 3 ways I can weaponize it starting today.
+
+2. The Flip The Script
+My weakness is: [paste weakness]. Reframe it for me in 3 different ways: 1) How a billionaire CEO would see it 2) How a Stoic philosopher would see it 3) How a future version of me 10 years from now would thank me for it. Make it brutally honest.
+
+3. The Shadow Resume
+Build my "Shadow Resume" based on this failure/weakness: [paste story]. Extract 5 transferable super-skills I gained BECAUSE of this weakness, not despite it. Show me how to put these skills on my CV/LinkedIn/bio so it sounds powerful.
+
+4. The Monetize My Flaw
+People say my weakness is: [e.g., I'm too blunt, I get distracted easily]. Act as a $10k/month business coach. Show me 3 specific ways I can MONETIZE this exact trait. Give me a content angle, a product idea, and a personal brand hook built around it.
+
+5. The 7-Day Superpower Training
+My weakness is: [e.g., fear of speaking, procrastination, people-pleasing]. Create a 7-day bootcamp to turn it into a superpower. Each day = 1 small 20-min challenge, 1 mindset shift, 1 win to track. Make Day 1 so easy I can't fail. I want to start today.
+
+
+Add this line to make Claude go deeper:
+Don't give me generic motivation. Be specific to MY weakness. Be uncomfortable. Tell me the truth I need to hear.
+
 -------------------------------------------------
+I fired half my tools. ChatGPT + these prompts replaced them:
+
+*1. REPLACED Grammarly*
+> Proofread this like a top editor. Fix grammar, make it punchy, keep my voice. Don't make it sound like AI. Explain the 3 biggest mistakes.
+
+*2. REPLACED Canva (for copy)*
+> Write the text for this design: [DESCRIBE DESIGN]. Give me 5 headline options that stop scrolls, 3 sub-headlines, and 1 CTA. Make it short and powerful.
+Reply
+Jj Tisdall
+ ·
+You never attach anything
+
+*3. REPLACED Notion AI*
+> Turn this messy note into a clean system: [PASTE NOTE]. Create table, checklist, and summary. Make it ready to use, no fluff.
+*
+
+4. REPLACED My VA for Emails*
+> Write this email in my tone: [EXPLAIN CONTEXT]. Sound human, confident, no jargon. Goal: [get reply / close / apologize]. Keep it under 100 words.
+
+*5. REPLACED Copywriter*
+> You are a $10k/month copywriter. My product is [PRODUCT] for [AUDIENCE]. Their pain is [PAIN]. Write a high-converting [ad / landing page / sales email] using PAS framework.
+
+*6. REPLACED Business Coach*
+> I feel stuck with [PROBLEM]. Act as my 8-figure business coach. Ask me 5 tough questions, then give me a 3-step plan to fix it this week.
+One tool. Better prompts. Save $200/month.
+
+
 -------------------------------------------------
 -------------------------------------------------
