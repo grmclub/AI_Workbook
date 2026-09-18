@@ -173,6 +173,35 @@ Here are 8 powerful prompts for market research, competitor analysis, pricing, a
 "Act as a senior go-to-market strategist. I’m launching [product] for [audience] in [market]. Build a complete GTM plan covering the ideal beachhead segment, positioning, acquisition channels, launch sequence, messaging, and first-100-customer strategy. Rank the channels by expected speed, cost, and scalability."
 
 -------------------------------------------------
+## Sound like a $10k consultant
+
+1. The McKinsey Framework Prompt
+Here are my messy meeting notes: [paste notes]. Act as a McKinsey consultant. Re-structure this into: 1) Executive Summary 2) Key Problem 3) 3 Options with Pros/Cons 4) Your Recommendation. Use consulting language.
+
+2. The "Sound Smart" Prompt
+I'm in a meeting about. Give me 5 smart, high-level questions I can ask that make me sound like an expert. No basic questions. Make them strategic and insight-driven.[topic]
+
+3. The Pushback Without Looking Rude
+My boss/client just said: [paste what they said]. I disagree. Write me 3 ways to respectfully challenge them using consultant-style framing: "What if we looked at it from...", "Data suggests...". Keep it confident, not arrogant.
+Reply
+Lefentse Mohlala
+ ·
+mario barth thank you Sticker by INTENZE Advanced Tattoo Ink
+
+4. The Recap That Impresses Everyone
+Turn my raw meeting notes into a crisp follow-up email that a $10k consultant would send. Format: What We Agreed, What I Will Do, What You Will Do, Open Questions. Make me look organized and in control.
+
+5 is The Jargon Translator
+My client/boss uses buzzwords like [paste buzzwords]. Translate what they REALLY mean and give me 1 smart sentence I can use to respond to each one. No fluff, just real business meaning.
+
+6. The 10x Value Proposition
+Based on these meeting notes: [paste notes]. Write 3 bullet points on how to present my idea/work so it sounds like a $10k solution, not a $100 task. Focus on ROI, risk reduction, and business impact. No humble language.
+
+
+COPY THIS AND ADD TO EVERY PROMPT:
+Context: I'm a [your role]. My audience is [boss/clients]. Keep my tone confident, concise, and executive-level.
+This is how you stop sounding like an employee and start sounding like an advisor.
+Reply
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
