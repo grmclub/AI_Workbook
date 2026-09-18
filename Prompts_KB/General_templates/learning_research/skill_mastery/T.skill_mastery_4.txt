@@ -29,6 +29,255 @@ Here are 8 powerful prompts to research smarter, learn faster, and think deeper.
 
 
 -------------------------------------------------
+10 Golden CHATGPT Prompts for office work, school, college, and everyday tasks. 👇🏻
+
+1. THE CLEAR EMAIL CREATOR
+Need a professional email that sounds like you, not a robot?
+PROMPT TO COPY:
+You are a senior business communication editor. Write a clear, professional email for me.
+My details:
+Recipient: [NAME OR JOB TITLE]
+My relationship with them: [CLIENT, MANAGER, TEACHER, TEAMMATE, ETC.]
+Email purpose: [WHAT YOU WANT TO ACHIEVE]
+Important facts to include: [PASTE THE FACTS]
+Desired tone: [POLITE, CONFIDENT, APOLOGETIC, FORMAL, WARM, PERSUASIVE]
+Call to action: [WHAT SHOULD THE RECIPIENT DO NEXT]
+First, identify any missing detail that could change the email. Ask up to 3 focused questions only if needed. Otherwise, write the email.
+Give me:
+1. Three subject line options
+2. A polished email of [WORD COUNT] words or fewer
+3. One clear call to action
+4. A shorter follow up version
+Keep it natural, specific, respectful, and free from generic AI phrases. Do not invent facts, promises, dates, or attachments.
+WHY THIS WORKS:
+It tells AI who the reader is, why you are writing, what tone to use, and exactly what output you need.
+
+2. THE SMART STUDY PARTNER
+Stuck on a chapter, assignment, or exam topic?
+PROMPT TO COPY:
+You are an expert tutor and learning designer. Help me understand and prepare for this topic without doing the final work dishonestly for me.
+My course or subject: [SUBJECT]
+My level: [SCHOOL, COLLEGE, BEGINNER, ADVANCED]
+My task or exam topic: [PASTE IT HERE]
+What I already understand: [WRITE WHAT YOU KNOW]
+What confuses me: [WRITE WHAT IS HARD]
+Deadline or exam date: [DATE]
+My notes or source material: [PASTE NOTES, RUBRIC, OR INSTRUCTIONS]
+First, explain the topic in simple English. Then create:
+1. A short learning plan from easiest idea to hardest idea
+2. The five key concepts I must understand
+3. A simple example for each key concept
+4. Ten practice questions with answers hidden under a separate heading
+5. An outline I can use to create my own assignment or presentation
+6. A final checklist based on my instructions or rubric
+If my notes do not contain enough information, clearly state what is missing. Label assumptions instead of guessing.
+WHY THIS WORKS:
+It gives AI your level, deadline, weak areas, and course material, so the help becomes useful instead of too basic or too difficult.
+
+3. THE MEETING CONFIDENCE PLAN
+Walking into an important meeting without knowing what to say?
+PROMPT TO COPY:
+You are a senior consultant and meeting strategist. Help me prepare for an upcoming meeting.
+Meeting topic: [TOPIC]
+My role: [YOUR JOB, RESPONSIBILITY, OR POSITION]
+Meeting objective: [WHAT A GOOD OUTCOME LOOKS LIKE]
+Who will attend: [NAMES OR ROLES]
+Background information: [PASTE RELEVANT FACTS]
+My concerns: [WHAT YOU ARE WORRIED ABOUT]
+Time available: [MEETING LENGTH]
+Use this information to create a practical preparation plan.
+Give me:
+1. Five likely discussion points in a logical order
+2. Five difficult questions I may be asked, with strong sample answers
+3. Three useful ideas I can bring to show active contribution
+4. A short opening statement I can say in the meeting
+5. A simple agenda with suggested time for each section
+6. A preparation checklist for the day before and the final 15 minutes before the meeting
+7. A short follow up email outline for after the meeting
+Be realistic, concise, and specific to my role. If information is missing, ask focused questions before making major assumptions.
+WHY THIS WORKS:
+It turns vague meeting anxiety into an agenda, answers, ideas, and an action plan you can actually use.
+
+4. THE REPORT BLUEPRINT BUILDER
+Need a report that looks organized from the first page?
+PROMPT TO COPY:
+You are a professional analyst and report writer. Create a structured, evidence based report from the information I provide.
+Report type: [MONTHLY REPORT, PROJECT REPORT, RESEARCH REPORT, ETC.]
+Target reader: [MANAGER, CLIENT, TEACHER, TEAM, ETC.]
+Purpose of the report: [WHAT THE READER SHOULD UNDERSTAND OR DECIDE]
+Required length: [WORD COUNT OR PAGE COUNT]
+Required style or format: [RUBRIC, TEMPLATE, CITATION STYLE, ETC.]
+Source information: [PASTE YOUR DATA, NOTES, OR FINDINGS]
+First, list missing information and separate facts from assumptions. Then write the report with these sections:
+1. Title and purpose
+2. Executive summary
+3. Background and scope
+4. Key findings and evidence
+5. Issues, risks, or bottlenecks
+6. Recommendations with priority and expected impact
+7. Action plan with owner, deadline, and next step
+8. Conclusion
+Use clear headings and simple professional language. Do not create statistics, quotes, citations, or sources that I did not provide. If evidence is weak, say so clearly.
+WHY THIS WORKS:
+It forces a strong structure and prevents AI from making up evidence when your source material is incomplete.
+
+5. THE FORMULA TROUBLESHOOTER
+Cannot find the right Excel or Google Sheets formula?
+PROMPT TO COPY:
+You are an advanced Excel and Google Sheets specialist. Help me solve this spreadsheet task accurately.
+My goal: [DESCRIBE THE RESULT YOU WANT]
+Spreadsheet tool: [EXCEL OR GOOGLE SHEETS]
+Sheet names: [LIST SHEET NAMES]
+Data layout: [DESCRIBE EACH COLUMN AND WHAT IT CONTAINS]
+Sample rows: [PASTE 3 TO 10 SAFE SAMPLE ROWS]
+Expected result: [SHOW WHAT THE ANSWER SHOULD LOOK LIKE]
+Current formula or error: [PASTE IT IF YOU HAVE ONE]
+First, restate the problem in one sentence to confirm your understanding. Then provide:
+1. The best formula for my tool and version
+2. A second option if the first formula may not work in older versions
+3. A step by step explanation of every part of the formula
+4. A small example using my sample data
+5. Common errors to check if the result is wrong
+6. A version that uses commas and a version that uses semicolons if regional settings may differ
+Keep formulas ready to paste. Do not guess column names or sheet names. Ask a question if the data structure is unclear.
+WHY THIS WORKS:
+It gives AI the exact data shape, the desired result, and the error context. That is what formulas need.
+
+6. THE PRESENTATION STORYBOARD
+Do your slides feel full of text but empty of impact?
+PROMPT TO COPY:
+You are a presentation strategist and clear communication coach. Help me plan a simple, convincing presentation.
+Presentation topic: [TOPIC]
+Audience: [WHO WILL WATCH]
+Audience knowledge level: [BEGINNER, MIXED, EXPERT]
+Goal: [INFORM, PERSUADE, TEACH, GET APPROVAL, ETC.]
+Length: [NUMBER OF MINUTES]
+Number of slides: [NUMBER]
+Key facts, data, or sources: [PASTE THEM HERE]
+Desired tone: [FORMAL, FRIENDLY, CONFIDENT, ETC.]
+Create a slide by slide plan.
+For every slide, give me:
+1. A short slide title
+2. One main message
+3. Three short bullet points or less
+4. A visual suggestion, such as a chart, diagram, photo, or comparison
+5. Speaker notes in simple words
+Also include:
+1. A strong opening hook
+2. One clear problem statement
+3. One memorable closing line
+4. Three difficult audience questions with answers
+5. A final review checklist
+Do not overload slides with text. Use only the facts I provide. Clearly flag any statement that needs a source check.
+WHY THIS WORKS:
+It makes AI think about the audience, the time limit, the story, and the visual flow instead of only producing paragraphs.
+
+7. THE ROOT CAUSE FINDER
+A problem keeps coming back because nobody found the real cause?
+PROMPT TO COPY:
+You are a practical problem solving consultant. Help me analyse this issue before we jump to solutions.
+Problem: [DESCRIBE WHAT IS HAPPENING]
+When it started: [DATE OR TIME PERIOD]
+Who is affected: [PEOPLE, CUSTOMERS, STUDENTS, TEAM, ETC.]
+Evidence available: [FACTS, DATA, EXAMPLES, FEEDBACK]
+What has already been tried: [LIST ACTIONS]
+Constraints: [TIME, APPROVALS, TOOLS, POLICY, PEOPLE]
+Success would look like: [DESCRIBE THE DESIRED RESULT]
+Use a structured analysis.
+Give me:
+1. A clear problem statement
+2. Three to five possible root causes
+3. Questions or evidence needed to test each root cause
+4. Five realistic solutions
+5. For each solution, show benefits, risks, effort level, and first action
+6. Your recommended option and why it is the best starting point
+7. A 7 day action plan to test the recommendation
+Separate facts, assumptions, and unknowns. Do not treat a guess as the root cause. Ask focused questions when the evidence is too weak.
+WHY THIS WORKS:
+It makes AI inspect the cause, evidence, and constraints first, so the answer is more than a random list of ideas.
+
+8. THE DAY CONTROL PLANNER
+Your task list is long, but you do not know what to do first?
+PROMPT TO COPY:
+You are a practical productivity coach. Turn my messy task list into a realistic plan for today.
+Today’s date: [DATE]
+My working hours: [START TIME TO END TIME]
+Fixed commitments: [MEETINGS, CLASSES, TRAVEL, ETC.]
+My tasks: [TASK, DEADLINE, ESTIMATED TIME, IMPORTANCE]
+My energy pattern: [BEST TIME TO FOCUS, LOW ENERGY TIME]
+Tasks I am avoiding: [LIST THEM]
+Create a plan that I can follow without burnout.
+Give me:
+1. An Eisenhower Matrix with urgent and important labels
+2. My top three priorities and why they come first
+3. A time blocked schedule from start to finish
+4. Focus blocks and short breaks
+5. A backup plan if I fall behind by one hour
+6. A short list of tasks I should delay, delegate, or remove
+7. A five minute end of day review routine
+Be realistic. Do not schedule more work than fits in my available time. Protect focused work time before placing small tasks everywhere.
+WHY THIS WORKS:
+It gives AI your actual time, deadlines, energy, and fixed commitments. That creates a plan you can follow.
+
+9. THE RESEARCH BRIEF MAKER
+Need to understand a topic quickly without drowning in tabs?
+PROMPT TO COPY:
+You are a careful research assistant. Build a clear research brief on this topic.
+Topic or question: [WRITE THE QUESTION]
+Purpose: [DECISION, ASSIGNMENT, MEETING, CONTENT, ETC.]
+Audience: [WHO WILL READ IT]
+Location or market if relevant: [PLACE]
+Time period: [CURRENT, LAST YEAR, HISTORICAL, ETC.]
+What I already know: [PASTE NOTES]
+What I need to decide or explain: [GOAL]
+If web research is available, use credible primary or expert sources and include a source link with the publication date for every important claim. If web research is not available, clearly say that and give me a research plan instead.
+Deliver:
+1. A one paragraph plain English summary
+2. Five key findings
+3. Important numbers or facts with sources
+4. Different viewpoints or disagreements
+5. Risks, limits, and what is still unknown
+6. A short conclusion for my purpose
+7. Five smart follow up questions
+Do not invent sources, quotes, dates, or statistics. Mark unverified claims clearly.
+WHY THIS WORKS:
+It tells AI the question, the reader, the time period, and the evidence standard. That helps you get a useful brief instead of a generic overview.
+
+10. THE BETTER DECISION COMPASS
+Choosing between options and need clear thinking, not more confusion?
+PROMPT TO COPY:
+You are a neutral decision support advisor. Help me compare options clearly without making the final choice for me.
+Decision I need to make: [DESCRIBE IT]
+My options: [OPTION A, OPTION B, OPTION C]
+My priorities: [LIST WHAT MATTERS MOST]
+Must have conditions: [NON NEGOTIABLE REQUIREMENTS]
+Risks I want to avoid: [LIST THEM]
+Deadline for deciding: [DATE]
+Facts or research I already have: [PASTE THEM]
+First, ask up to five focused questions if a missing detail could change the comparison. Then create:
+1. A comparison table using my priorities
+2. Benefits and tradeoffs for every option
+3. Assumptions or missing facts that could change the result
+4. The best option for each different priority
+5. A short risk reduction plan for the leading option
+6. Three next steps I can take before deciding
+Stay neutral. Do not pretend uncertain information is certain. Clearly separate facts from judgment.
+WHY THIS WORKS:
+It turns a vague choice into criteria, tradeoffs, unknowns, and practical next steps.
+
+
+✅ BOTTOM LINE
+Better prompts create better first drafts. Use AI to think faster, organize your work, and improve your communication. Then use your own judgment before you send, submit, or present anything important.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
+
+
