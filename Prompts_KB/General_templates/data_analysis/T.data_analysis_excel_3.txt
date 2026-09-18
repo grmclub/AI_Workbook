@@ -51,7 +51,7 @@ Review my workbook and create a safe cleaning plan before any analysis.
 </steps>
 <rules>
 - Do not silently change uncertain data
-- Use “needs review” when the correct value cannot be known
+- Use "needs review" when the correct value cannot be known
 - Preserve raw data before cleaning
 - Explain why each issue matters
 - Separate formatting problems from actual data problems
@@ -300,6 +300,40 @@ best charts, graphs, and visualizations to communicate the information effective
 The final goal is to help someone quickly understand the story behind the data and
 make better decisions. Here is my spreadsheet: [upload file]."
 -------------------------------------------------
+## 8 Claude Prompts to Analyze Excel Files Like a Data Analyst👇👇👇
+
+1. UNDERSTAND THE DATA
+PROMPT:
+"Analyze this spreadsheet like a senior business analyst. Explain what the data represents, identify the key trends and anomalies, detect missing values or possible errors, and highlight the most important business insights. Focus on patterns that could influence decisions."
+
+2. GENERATE EXCEL FORMULAS
+PROMPT:
+"Generate the exact Excel formulas needed for this dataset. Help me calculate growth rates, profit margins, averages, forecasts, lookups, and conditional logic. Choose the most appropriate Excel functions and briefly explain how each formula works."
+
+3. CLEAN AND FIX THE DATA
+PROMPT:
+"Act as a data-cleaning specialist. Examine this spreadsheet for duplicates, inconsistent formatting, missing values, broken formulas, outliers, and other data-quality issues. Identify each problem, explain why it matters, and recommend the appropriate correction."
+
+4. FIND BUSINESS INSIGHTS
+PROMPT:
+"Act as a senior strategy consultant analyzing this spreadsheet. Identify the biggest opportunities, risks, hidden trends, customer behavior patterns, and revenue drivers. Then provide practical, data-backed recommendations for improving business performance and growth."
+
+5. CREATE CHART AND DASHBOARD IDEAS
+PROMPT:
+"Review this dataset and recommend the most useful charts and dashboard layout. For each recommendation, explain why it matters, what insight it reveals, the ideal chart type, and the key takeaway an executive should understand."
+
+6. BUILD AN AUTOMATION WORKFLOW
+PROMPT:
+"Design an automated reporting workflow using this spreadsheet. Include recurring reports, KPI tracking, alerts, automated summaries, dashboard structure, and practical automation opportunities. Explain how the workflow can reduce repetitive manual work."
+
+7. CREATE AN EXECUTIVE SUMMARY
+PROMPT:
+"Summarize this spreadsheet as if you were presenting the findings to senior executives. Keep the summary concise, strategic, data-driven, and easy to understand. Focus on the most important findings, decisions, risks, opportunities, and recommended actions."
+
+8. PERFORM A FULL DATA REVIEW
+PROMPT:
+"Perform a comprehensive review of this spreadsheet. Validate the data quality, identify important trends, anomalies, relationships, and performance patterns, explain the most significant business insights, and finish with clear, prioritized recommendations based on the data."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
