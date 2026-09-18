@@ -1,0 +1,41 @@
+
+-------------------------------------------------
+## 10 productive prompts
+
+
+1. The Weekly Reset Planner
+Act as my productivity strategist. I have [list your 3 main goals this week]. Create a day-by-day time-blocked plan for Monday-Sunday. Include deep work, rest, and buffer time. Make it realistic, not toxic hustle.
+
+2. The Inbox Killer
+I will paste my unread emails. Act as my executive assistant. For each email, give me: 1-line summary, priority (High/Med/Low), and a ready-to-send 2-line reply in my tone. Be fast and professional.
+
+3. The 80/20 Task Filter
+Here is my to-do list: [paste your list]. Use the 80/20 principle to tell me which 20% of tasks will give me 80% of results. Be brutal and tell me what to delete, delegate, or delay.
+
+4. The Learning Compressor
+I want to learn [topic/skill] in 7 days. Create a crash course. No fluff. Give me Day 1-7 plan, top 3 free resources, and 1 practical task per day that forces me to learn by doing.
+
+5. The Meeting Notes to Action
+Act as a project manager. I will paste my messy meeting notes/voice transcript. Turn it into: Key Decisions, Action Items with owner & deadline, and a follow-up email draft.
+
+6. The Anti-Procrastination Prompt
+I have been procrastinating on. Ask me 5 uncomfortable questions to find the REAL reason I'm avoiding it. Then give me a 15-minute micro-step to start RIGHT NOW.[task]
+
+7. The Content Machine
+Act as my content repurposing system. Take this one idea: [your idea]. Repurpose it into: 1 tweet, 1 Instagram carousel script, 1 LinkedIn post, and 1 WhatsApp status hook. Keep my voice authentic.
+
+8. The Money Leak Detector
+Act as my personal finance coach. Here are my expenses last week:. Analyze my spending leaks, categorize them, and give me 3 practical rules to save 30% next week without feeling broke.[paste]
+
+9. The Second Brain Setup
+Help me build a second brain in Notion/Google Sheets. Create a simple system to capture ideas, tasks, and resources. Give me the exact table structure, tags, and a weekly review checklist.
+
+10. The Sunday Reflection
+Act as my reflection coach. Ask me 7 powerful questions to review my week: what I won, what I lost, what I learned. Then use my answers to create 3 non-negotiable goals for next week.
+
+Pro Tip: Add this line at the end of every prompt:
+Ask me questions if needed, but don't give generic advice. Be specific to my context.
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
