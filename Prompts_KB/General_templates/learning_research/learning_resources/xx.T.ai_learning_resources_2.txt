@@ -110,7 +110,6 @@ Here’s the complete course breakdown 👇🏽👇🏽
 ↳ What IP protection looks like in the age of AI.
 🔗 https://generative-ai-course.hks.harvard.edu/society/class-9
 
-
 10/ Future of Work
 ↳ How AI is reshaping jobs, productivity, and the wider economy.
 🔗 https://generative-ai-course.hks.harvard.edu/society/class-10
@@ -120,5 +119,22 @@ Here’s the complete course breakdown 👇🏽👇🏽
 🔗 https://generative-ai-course.hks.harvard.edu/society/class-11
 
 -------------------------------------------------
+This is the clearest and most effective explanation of Transformers on YouTube. 
+The lecture was delivered by Professor Bryce as part of Davidson’s CSC 381: Deep Learning (Fall 2022).
+If your goal is to truly understand Transformers and self-attention, this is the only video you need and there’s no reason to watch anything else.
+https://www.youtube.com/watch?v=e9-0BxyKG10
+https://www.youtube.com/@csprof/playlists
+
+Deep Learning
+https://www.youtube.com/watch?v=DrhJLHiia7g&list=PLgPbN3w-ia_PeT1_c5jiLW3RJdR7853b9
+
+Analysis of Algorithms
+https://www.youtube.com/watch?v=o7_2bk6qQFE&list=PLgPbN3w-ia_MzatWGASfuPg9hon_Fsz1V
+
+
 -------------------------------------------------
 -------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
