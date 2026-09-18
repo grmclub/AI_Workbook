@@ -1,0 +1,110 @@
+
+
+-------------------------------------------------
+🎓 STUDENTS, SAVE THIS.
+10 powerful ChatGPT prompts to help you study smarter, understand faster, and prepare better for exams. 👇🏻
+Your study routine just got an upgrade. ⚡
+
+1. 🎓 Study Smarter
+I need to study [SUBJECT].
+My current level: [LEVEL]
+Time until my exam: [X DAYS]
+Study time per day: [X HOURS]
+Build a realistic study strategy focused on understanding, active recall, practice, and spaced revision—not passive memorization.
+
+2. 📚 Learn Any Chapter
+Teach me this chapter:
+[PASTE CHAPTER/TOPIC]
+Break it into simple concepts. Explain each one with clear examples, then quiz me before moving to the next concept. Adjust the difficulty based on my answers.
+
+3. 📝 Turn Notes Into a Study Guide
+Here are my notes:
+[PASTE NOTES]
+Transform them into a structured study guide with:
+- Key concepts
+- Important definitions
+- Clear examples
+- Must-remember points
+- Practice questions
+- Common mistakes
+
+4. 🎯 Exam Preparation
+My exam is [SUBJECT].
+Syllabus:
+[PASTE SYLLABUS]
+Create a prioritized study plan. Identify the most important topics, difficult concepts, practice-heavy areas, and topics that can be reviewed quickly.
+
+5. 🧠 Study With Active Recall
+I'm studying [TOPIC].
+Test me using active recall. Ask one question at a time and wait for my answer before revealing the solution.
+Track my mistakes and bring back weak concepts later until I master them.
+
+6. 💡 Learn Through Examples
+I don't understand [TOPIC].
+Explain it using 3 progressively harder examples. After each example, give me a similar problem to solve myself.
+Don't move forward until I understand the concept.
+
+7. 🔍 Find My Weak Areas
+I'm preparing for [EXAM/SUBJECT].
+Test me across the entire syllabus without revealing which topic each question tests.
+Afterward, analyze my mistakes, identify my weakest areas, and create a targeted study plan.
+
+8. ⏳ Avoid Cramming
+I have [X WEEKS] to prepare for [EXAM].
+Create a spaced-repetition schedule showing exactly what I should learn, practice, and review each day.
+Prioritize long-term retention over last-minute cramming.
+
+9. ✏️ Homework Help Without Giving the Answer
+Help me solve this problem:
+[PASTE QUESTION]
+Don't give me the final answer. Guide me step by step using hints and questions so I develop the reasoning needed to solve it myself.
+
+10. 📊 Become My Study Coach
+Act as my personal study coach.
+Subjects: [SUBJECTS]
+Current grades: [GRADES]
+Goals: [GOALS]
+Available time: [TIME]
+Create a weekly study plan, track my progress, identify weak areas, and continuously adapt the plan based on my performance.
+
+-------------------------------------------------
+🚨 BREAKING: Claude can now teach you like a private university tutor.
+Copy these 8 prompts to simplify difficult topics, test your knowledge, and make studying feel 10× easier 👇
+
+1. Build a Personal University Course
+"Act as a university professor specializing in [subject]. Design a [number]-week course for my current level: [beginner/intermediate/advanced]. Include weekly topics, learning objectives, essential concepts, practical assignments, recommended resources, and a final project. I can study [hours] per week. Begin by giving me a diagnostic quiz, then adjust the course based on my answers."
+
+2. Explain a Difficult Topic Clearly
+"Teach me [topic] as a patient private tutor. Start with a simple explanation using an everyday analogy, then explain it at high-school and university levels. Include one practical example, the three most common misunderstandings, and five questions that test genuine understanding. Do not reveal the answers until I respond."
+
+3. Use the Socratic Method
+"Help me understand [topic/problem] using the Socratic method. Do not immediately give me the answer. Ask one focused question at a time, analyze my response, identify gaps in my reasoning, and guide me toward the solution with progressively stronger hints. At the end, summarize what I understood and what I should review."
+
+4. Turn My Notes Into a Lesson
+"Act as an expert lecturer. Convert the notes below into a structured lesson for a [level] student. Organize them into key ideas, definitions, examples, connections, and likely exam questions. Correct inaccurate information, clearly mark anything uncertain, and finish with a concise revision sheet.
+My notes:
+[PASTE NOTES]"
+
+5. Create an Adaptive Study Session
+"Run a [30/45/60]-minute tutoring session on [topic]. Divide it into explanation, guided practice, independent practice, and review. Ask one question at a time and adapt the difficulty to my answers. If I struggle, simplify the concept and provide a hint. If I succeed, increase the difficulty. Finish with my score, weak areas, and next steps."
+
+6. Prepare Me for an Exam
+"Act as an examiner for [subject/exam name]. Create a realistic practice exam covering [topics], with [number] questions in these formats: [multiple choice/short answer/essay/problems]. Match this difficulty: [easy/moderate/hard]. Let me answer first. Then grade each response, explain every mistake, show a model answer, and create a targeted revision plan."
+
+7. Test Whether I Truly Understand
+"Interview me about [topic] like a strict university professor conducting an oral examination. Begin with foundational questions, then move to application, comparison, and critical-thinking questions. Ask one at a time and challenge vague answers. After [number] questions, grade my understanding from 1–10 and explain exactly how I can improve."
+
+8. Learn Through the Feynman Technique
+"Help me master [topic] using the Feynman Technique. First, ask me to explain it in my own words. Analyze my explanation for missing ideas, incorrect assumptions, and unnecessary jargon. Teach only the parts I misunderstood using simple examples. Then ask me to explain it again until I can give a clear, accurate explanation."
+
+9. Create a Science-Based Revision System
+"Turn [subject/material] into a revision system using active recall, spaced repetition, and interleaving. I have [number] days/weeks before [exam/deadline] and can study [minutes] per day. Create a daily schedule, recall questions, flashcards, review intervals, and weekly checkpoints. Prioritize my weakest topics: [list weaknesses]."
+
+10. Give Detailed Feedback on My Work
+"Act as a university tutor evaluating my [essay/solution/report/assignment]. Use these criteria: [paste rubric or criteria]. Identify what is strong, what is unclear, factual or logical errors, and the three changes that would improve my grade most. Give specific revision instructions and examples, but do not rewrite the entire work unless I ask.
+My work:
+[PASTE WORK]"
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
