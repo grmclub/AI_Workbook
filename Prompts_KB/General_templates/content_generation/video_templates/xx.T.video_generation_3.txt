@@ -339,6 +339,29 @@ Give me a corrected version and explain how to avoid the same mistakes next time
 7. Prompt Review and Repetition System
 'Based on the AI video prompts I have written so far, create a quick review quiz. Mix old and new prompt styles. Include fill-in-the-blank and prompt-rewriting exercises. Tell me which areas still need work.'
 
+-------------------------------------------------
+## How to turn a dead YouTube channel into a viral one with 6 prompts
 
+1. Find Audience Demand
+Prompt: "Study this video idea and identify the strongest audience desire behind it. Give me three sharper angles that could make the topic feel more urgent, useful, or intriguing, then choose the strongest one. Base everything on real viewer motivation, not generic viral formulas or empty hype."
+
+2. Rebuild Viewer Retention
+Prompt: "Examine this script and rebuild it for sustained viewer retention. Strengthen the opening, remove every unnecessary detour, tighten weak sections, and create natural curiosity between ideas. Preserve the creator's personality and message while making each moment give viewers a compelling reason to continue watching."
+
+3. Sharpen Opening Curiosity
+Prompt: "Take the video's core promise and develop five opening approaches that create immediate curiosity. Each should introduce a meaningful tension, unexpected insight, or valuable outcome without revealing the payoff too early. Make every version conversational, specific, believable, and strong enough to stop viewers from leaving."
+
+4. Engineer Stronger Titles
+Prompt: "Study the script and generate 15 titles that make the video's value instantly understandable while creating a strong reason to click. Test different curiosity angles, emotional triggers, outcomes, and unexpected contrasts. Reject vague or exaggerated ideas, then identify the three titles with the strongest click potential."
+
+5. Match Title With Promise
+Prompt: "Compare these titles against the actual video and determine which creates the strongest combination of curiosity, clarity, and credibility. Flag titles that overpromise or reveal too much, explain the strongest psychological reason behind your top choices, and select one final title that deserves to be published."
+
+6. Build Viral Alignment
+Prompt: "Review the final script, hook, and chosen title as one complete YouTube package. Find any mismatch between what earns the click and what keeps viewers watching, then fix it. Make the opening deliver on the title's promise quickly while preserving enough curiosity to sustain attention throughout the video."
+Reply
+
+
+-------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
