@@ -67,6 +67,58 @@ Your AI learning roadmap starts here. 👇🏻
 🔗 https://cloud.google.com/vertex-ai/docs
 
 -------------------------------------------------
+Harvard's free AI course covers neural networks and responsible AI
+HARVARD JUST MADE LEARNING AI FREE!!!
+A complete course covering AI, prompting, neural networks, and responsible AI is available online.
+No expensive degree. No complicated learning path.
+Here’s the complete course breakdown 👇🏽👇🏽
+
+1/ Introduction to Generative AI
+↳ A clear walkthrough of how GenAI actually works, step by step.
+🔗 https://generative-ai-course.hks.harvard.edu/1-how-genai-works/class-1
+
+2/ Deep Neural Networks
+↳ A simple breakdown of how deep neural networks function.
+🔗 https://generative-ai-course.hks.harvard.edu/1-how-genai-works/class-2
+
+3/ The Alignment Problem
+↳ How we try to align AI systems with real human values.
+🔗 https://generative-ai-course.hks.harvard.edu/1-how-genai-works/class-3
+
+4/ Prompt Engineering
+↳ Practical techniques to get stronger results from any model.
+🔗 https://generative-ai-course.hks.harvard.edu/2-using-genai/class-4
+
+5/ Beyond Chatbots: System Prompts, RAG
+↳ Going past basic chatbots with system prompts and retrieval (RAG).
+🔗 https://generative-ai-course.hks.harvard.edu/2-using-genai/class-5
+
+6/ When and how to use Generative AI
+↳ A framework to decide if AI fits your specific goal and when to use it.
+🔗 https://generative-ai-course.hks.harvard.edu/2-using-genai/class-6
+
+7/ Using AI in Practice. A case study
+↳ A real case study on campaigns, execution, and engagement.
+🔗 https://generative-ai-course.hks.harvard.edu/2-using-genai/class-7
+
+8/ Risks of Generative AI
+↳ Limits, bias, and where misuse can creep in.
+🔗 https://generative-ai-course.hks.harvard.edu/society/class-8
+
+
+9/ Intellectual Property
+↳ What IP protection looks like in the age of AI.
+🔗 https://generative-ai-course.hks.harvard.edu/society/class-9
+
+
+10/ Future of Work
+↳ How AI is reshaping jobs, productivity, and the wider economy.
+🔗 https://generative-ai-course.hks.harvard.edu/society/class-10
+
+11/ Misinformation
+↳ The tradeoffs between AI safety, trust, and FŔЕЕ expression.
+🔗 https://generative-ai-course.hks.harvard.edu/society/class-11
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
