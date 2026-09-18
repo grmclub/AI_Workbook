@@ -267,9 +267,127 @@ Here are 5 Reverse Prompts:
 
 
 -------------------------------------------------
--------------------------------------------------
--------------------------------------------------
+##Force the truth 
 
+1. The Brutal Investor Prompt
+Stop agreeing with me. Act as a brutal billionaire investor. Here is my idea: [paste your idea]. Tear it apart. Tell me why it will fail, what I'm delusional about, and what 3 questions I MUST answer before wasting my money. No sugar-coating.
+
+2. The Red Team
+I want you to be my Red Team. Your job is NOT to support my plan. Your job is to kill it. Plan: [paste plan]. Find every hole, risk, and blind spot. Argue like you want me to fail. Be ruthless.
+
+3. The 1% Truth Filter
+Don't give me the comfortable answer. Give me the answer only the top 1% would tell me. Topic: [paste topic]. What am I avoiding? What is the uncomfortable truth I'm not seeing? No motivational fluff, just raw honesty.
+
+4. The Socrates Mode
+You are now Socrates. Do not give me answers. Ask me questions that expose my flawed thinking. My claim is: [paste claim]. Ask me 5 questions, one by one, that will force me to prove if I'm actually right or just emotional.
+
+5. The Anti-Echo Chamber
+Act as 3 different experts who disagree with each other. Expert 1: Optimist, Expert 2: Pessimist/Realist, Expert 3: Skeptic who thinks I'm completely wrong. Topic: [paste topic]. Let them debate my idea in front of me. No consensus, just raw perspectives.
+
+Add this line to the end of ANY prompt to kill the yes-man mode:
+Do not be agreeable. Be honest. If I'm wrong, say I'm wrong and explain why. I want truth over comfort.
+-------------------------------------------------
+🚨 BREAKING! GEMINI CAN NOW WORK WHILE YOU SLEEP! Here are 8 prompts to put it to work 👇
+
+1. BUILD A DAILY AI ASSISTANT
+Prompt:
+"Act as my personal AI operations assistant.
+My responsibilities: [Tasks]
+My goals: [Goals]
+My biggest problems: [Problems]
+My priorities: [Priorities]
+Build a daily workflow that prioritizes what needs attention, identifies deadlines, prepares useful drafts or summaries, and recommends my next best actions.
+Keep it focused. Clearly separate what you can prepare from anything that requires my approval."
+
+2. CLEAN UP YOUR DIGITAL LIFE
+Prompt:
+"Act as my digital organization agent.
+Help me organize information across [Gmail/Docs/Sheets/Connected Apps].
+My biggest sources of clutter: [Problems]
+My priorities: [Priorities]
+My preferred system: [System]
+Identify what should be archived, organized, summarized, followed up on, or turned into a task.
+Build a simple system that keeps important information visible and reduces repetitive work."
+
+3. NEVER MISS AN IMPORTANT EMAIL
+Prompt:
+"Act as my email triage agent.
+Review available incoming messages and classify them by urgency, importance, required action, deadline, and sender relevance.
+My priorities: [Priorities]
+Important contacts: [People/Organizations]
+My responsibilities: [Tasks]
+Surface messages that need attention, identify what can wait, and draft concise replies when useful.
+Never send messages or make commitments without my approval."
+
+4. TURN A GOAL INTO AN ACTION PLAN
+Prompt:
+"Act as my execution agent for [Goal].
+Current situation: [Situation]
+Resources: [Resources]
+Obstacles: [Problems]
+Deadline: [Timeline]
+Turn this goal into milestones, recurring actions, deadlines, dependencies, and measurable outcomes.
+Show me what can be automated or prepared, what requires my decision, and what changes are worth monitoring."
+
+5. BUILD A PERSONAL RESEARCH AGENT
+Prompt:
+"Act as my research agent for [Topic].
+Objective: [Goal]
+Audience: [Audience]
+Final output: [Output]
+On the schedule I specify, find relevant information, prioritize trustworthy sources, compare conflicting evidence, and flag meaningful changes.
+Separate verified facts from assumptions and explain why each important finding matters."
+
+6. PLAN MY WEEK FOR ME
+Prompt:
+"Act as my weekly planning agent.
+Projects: [Projects]
+Responsibilities: [Tasks]
+Deadlines: [Deadlines]
+Priorities: [Priorities]
+Available time: [Time]
+Build an optimized weekly plan.
+Identify conflicts, overdue work, unnecessary commitments, and tasks I can batch or automate.
+At the end of the week, compare planned versus completed work and recommend improvements."
+
+7. BUILD A BUSINESS OPERATIONS AGENT
+Prompt:
+"Act as an AI operations agent for [Business].
+Audience: [Audience]
+Goals: [Goals]
+Recurring work: [Tasks]
+Tools: [Tools]
+Budget: [Budget]
+Bottlenecks: [Problems]
+Design a system that regularly monitors relevant information from available sources, prepares reports, organizes follow-ups, tracks key metrics, and recommends actions.
+Define what can be prepared automatically, what requires approval, and what signals should trigger an alert."
+
+8. BUILD YOUR 24/7 AI OPERATING SYSTEM
+Prompt:
+"Design a personal AI operating system around my work and life.
+Goals: [Goals]
+Projects: [Projects]
+Recurring tasks: [Tasks]
+Tools: [Tools]
+Priorities: [Priorities]
+Biggest time drains: [Problems]
+Find workflows AI could monitor, research, organize, prepare, remind me about, or improve.
+For each workflow, define:
+• Trigger
+• Required context
+• Expected output
+• Verification method
+• Alert condition
+• Human approval point
+Optimize the system to save time while keeping important decisions under my control."
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 
 
 
