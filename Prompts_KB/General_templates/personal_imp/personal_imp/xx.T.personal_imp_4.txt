@@ -243,6 +243,29 @@ This is where the conversation becomes much more personalized.
 It may suggest ideas, workflows, or tasks you hadn't considered.
 
 -------------------------------------------------
+Everyone uses ChatGPT like Google. That's why they get basic, generic answers.
+Smart users flip it. They make ChatGPT interview them, so it gets all the context it needs to give a PERFECT answer.
+The Formula: "Interview me before you answer"
+Instead of: "Give me a business idea"
+Do this: "I want to start a business. Interview me with 10 questions to understand my skills, budget, and time, then give me 3 perfect ideas for ME."
+Here are 5 Reverse Prompts:
+
+1. For Business / Money:
+"You are my business strategist. Don't give me advice yet. Ask me 15 deep questions about my skills, audience, and goals until you have enough data to give me a custom roadmap."
+
+2. For Content:
+"I'm a content creator. Before you write anything, interrogate me about my niche, audience pain points, and my voice. Then create 30 days of content that actually sounds like me."
+
+3. For Life Decisions:
+"You are my life coach. I have a big decision to make. Ask me uncomfortable, probing questions one-by-one to help me find the real answer myself. Don't give me generic advice."
+
+4. For Learning Any Skill:
+"I want to learn. Don't teach me yet. First ask me about my current level, my learning style, and how much time I have. Then build me a personalized 30-day plan."[skill]
+
+5. The Ultimate One:
+"Reverse roles. You are now the expert interviewer and I am the subject. Your job is to extract all the information you need from me about [YOUR GOAL] by asking me smart questions. Ask one question at a time."
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
