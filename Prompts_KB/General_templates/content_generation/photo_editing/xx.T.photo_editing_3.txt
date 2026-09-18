@@ -217,6 +217,53 @@ Prompt:
 Prompt:
 "Edit this so I look like I'm celebrating [ACHIEVEMENT OR MILESTONE] at [LOCATION]. Keep my real face, skin tone, hair, and body shape. Dress me in [OUTFIT] and add [PROPS OR OBJECTS] that fit the moment. Use [DAYLIGHT / SUNSET / NIGHT] lighting and include [BACKGROUND DETAILS]. Make my pose look natural and happy. It should feel like a real photo from an important moment in my life."
 -------------------------------------------------
+ChatGPT 6 Astra can turn your worst photos into professional-looking shots in seconds.Here are 6 prompts👇
+
+1. Fix Blurry Photos Like a Professional Camera
+Transform this blurry photo into a sharp, high-quality, photorealistic image.
+Improve focus, clarity, lighting, and overall detail while keeping the image natural. Restore realistic details in the eyes, hair, skin, clothing, and background.
+Preserve the exact identity of the person. Do not change facial features, face shape, skin tone, expression, hairstyle, age, or body proportions.
+Avoid artificial sharpening, beauty filters, fake details, plastic skin, or unrealistic enhancements.
+The final result should look like the same photo taken with a professional camera in perfect focus.
+
+2. Fix Bad Lighting Instantly
+Transform this poorly lit photo into a professional studio-quality portrait.
+Balance exposure, highlights, shadows, contrast, and color temperature. Recover hidden details from dark areas and soften harsh lighting while maintaining natural skin tones.
+Keep the person's exact appearance unchanged. Do not modify facial structure, skin texture, expression, hairstyle, age, or body proportions.
+Avoid fake lighting effects, over-editing, unrealistic colors, or artificial skin smoothing.
+The final image should look naturally captured under premium professional lighting.
+
+3. Turn Casual Photos Into Professional Shots
+Upgrade this casual photo into a polished professional image while keeping it realistic and natural.
+Improve composition, lighting, colors, sharpness, and overall image quality. Make the background cleaner and more visually appealing while preserving the original feeling of the photo.
+Keep the person's exact identity unchanged. Do not modify facial features, face shape, skin tone, expression, clothing, hairstyle, or body proportions.
+Avoid heavy filters, unrealistic edits, excessive retouching, or fake-looking results.
+Make it look like the photo was taken by a professional photographer.
+
+4. Replace Messy Backgrounds
+Replace the distracting background with a clean, realistic professional environment that matches the subject.
+Keep the original camera angle, perspective, lighting direction, shadows, and depth of field consistent so the edit looks completely natural.
+Preserve the person's identity exactly. Do not change their face, skin tone, hairstyle, expression, clothing, or body proportions.
+Avoid fake cutout edges, incorrect shadows, unrealistic blur, or artificial backgrounds.
+The final image should look like the person was originally photographed in that location.
+
+5. Restore Old and Low-Quality Images
+Restore this old, damaged, or low-quality photo into a clean, high-resolution professional image.
+Remove noise, grain, blur, compression artifacts, and pixelation. Recover realistic details, improve colors, fix exposure, and enhance clarity while keeping the original photo authentic.
+Preserve the exact identity of the person. Do not reconstruct or change facial features, age, skin texture, expression, hairstyle, or body proportions.
+Avoid AI-generated details, plastic skin, unrealistic textures, or over-processing.
+The final result should look like the original photo professionally restored.
+
+6. Create a Cinematic Professional Look
+Transform this photo into a cinematic-quality image captured with a premium professional camera.
+Improve lighting, dynamic range, sharpness, depth, colors, and overall visual quality. Add realistic depth of field and natural background separation while keeping the image authentic.
+Preserve the exact identity and appearance of the subject. Do not alter facial features, face shape, skin tone, expression, hairstyle, clothing, or body proportions.
+Avoid dramatic filters, fake cinematic effects, artificial blur, beauty edits, or unrealistic color grading.
+The final image should look like a professional photographer captured it with a high-end camera.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
 
