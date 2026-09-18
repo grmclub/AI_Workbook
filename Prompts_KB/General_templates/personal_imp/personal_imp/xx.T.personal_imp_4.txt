@@ -154,4 +154,102 @@ Do not let me advance simply because I recognize an answer. Make sure I can expl
 10." What is the single most important action I should take right now: [goal]?" → Execute.
 
 -------------------------------------------------
+## rebuild my life from zero
+
+1. The Life Audit
+Analyze my life based on this: [insert your age, job, daily routine, bad habits]. Give me a brutally honest breakdown of what's keeping me stuck and what I need to cut immediately.
+
+2. The New Identity
+Based on my goal to [insert goal], describe the daily habits, mindset, and routines of the person I need to become. Be specific.
+
+3. The 90-Day Reset Plan
+Create a simple, disciplined 90-day plan to rebuild my life from scratch. Include morning routine, learning, fitness, and income. Keep it realistic for someone starting from zero.
+
+4. The Skill Stack
+What 3 high-income skills should I learn in the next 6 months based on my interests in [insert interests]? And how can I monetize each one fast?
+
+5. The Money System
+I make [insert income]. Build me a simple money system to save, invest, and grow even on low income. No fluff.
+
+6. The Mental Rewire
+Give me 5 daily journal prompts and affirmations to fix my mindset, kill self-doubt, and stay consistent.
+
+7. The No-Excuse Accountability
+Act as my strict accountability coach. Every night at 9PM, ask me what I did today and call me out if I'm slacking. Start now by asking for my top 3 goals for tomorrow.
+Copy. Paste. Rebuild.
+
 -------------------------------------------------
+##Turn chatgpt into a personal learning coach
+
+1/ Find your biggest learning gaps
+"Act as my personal tutor for [skill]. My goal is to [specific outcome]. Ask me 5 questions, one at a time, to understand my current knowledge and experience. Then identify what I already know, what I need to learn, and the 3 most important gaps I should focus on first."
+Don't just tell ChatGPT what you want to learn.
+Tell it what you want to be able to do.
+
+2/ Turn any tutorial into a lesson
+"I’m going to give you notes, an article, or a tutorial transcript. Turn it into a structured lesson for my goal: [goal]. Explain the most important concepts in simple language, remove unnecessary information, and give me one practical exercise for each major concept."
+That tutorial you've saved but never finished?
+Put it to work.
+
+3/ Build a learning plan that fits your life
+"Create a [14/30]-day learning plan to help me achieve [goal]. I can spend [X] minutes per day. Give me one clear objective, one short lesson, and one practical task for each day. Start with the fundamentals and gradually increase the difficulty. Include review days so I can reinforce what I learned."
+A good learning plan should be realistic enough to actually finish.
+
+4/ Make ChatGPT teach at your level
+"Teach me [concept] as if I’m a beginner, but don’t oversimplify it. Start with a simple explanation and a real-world example related to [my goal]. Then ask me to explain it back in my own words. Wait for my answer, identify any misunderstandings, and help me correct them before moving on."
+Don't just read the answer.
+Make yourself explain it back.
+
+5/ Turn learning into practice
+"Give me a realistic project that will help me practice [skill]. Make it appropriate for my current level and related to [goal]. Break it into clear steps, but don't give me the solution immediately. Let me attempt each step first, then give me feedback and hints when I get stuck."
+This is where knowledge starts becoming a usable skill.
+
+6/ Get feedback like a coach
+"Act as an expert coach in [skill]. I’ll give you my work: [paste work]. Evaluate it against clear criteria. Tell me what I did well, what needs improvement, and the 3 highest-priority changes I should make. Don’t rewrite everything for me. Explain why each change matters."
+Don't always ask AI to do the work.
+Sometimes ask it to critique your work instead.
+
+7/ Test yourself without looking at the answers
+"Create a short test based on everything I’ve learned about [topic]. Include a mix of multiple-choice, short-answer, and practical questions. Do not show me the answers yet. Ask me one question at a time, score my responses, explain my mistakes, and identify which areas I need to review."
+If you can't recall it without looking, you probably haven't learned it yet.
+
+8/ Turn weaknesses into your next lesson
+"Review everything I struggled with during this learning session. Identify the concepts I still don't understand well. Rank them from most important to least important. Then create a short review lesson and 3 practical exercises focused specifically on my weakest areas."
+Instead of starting over every time you get stuck, let ChatGPT adapt the next lesson to your mistakes.
+
+
+-------------------------------------------------
+## Stop Asking ChatGPT Questions. Let it ask you questions instead. It's called Reverse Prompting. Here's how it works 👇
+
+1. Give AI the full picture.
+Instead of asking one question, explain your situation.
+What do you do for work?
+What are you trying to build?
+What projects are you juggling?
+What keeps ending up on your to-do list?
+Don't worry about making it perfect. Just get your thoughts down.
+
+2. Let AI interview you.
+Try this prompt:
+"Based on everything I've shared about my goals and situation, what else do you need to know to help me more effectively?"
+It will begin asking follow-up questions.
+Answer them with as much detail as you can.
+Each answer gives it more context to work with.
+
+3. Ask what it can help with.
+Once it understands your situation, ask:
+"Based on everything you know about me so far, what tasks could you help me with right now?"
+This is where the conversation becomes much more personalized.
+It may suggest ideas, workflows, or tasks you hadn't considered.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
+
+
+
+
+
