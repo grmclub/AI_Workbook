@@ -191,6 +191,24 @@ Use this when you want comprehension work to develop reading skills rather than 
 Prompt:
 "Create a reading activity for [text] for [level] that teaches rather than simply tests comprehension. Include [number] tasks that guide learners back to the text to identify clues, explain how they reached an answer, and practice useful reading strategies. Avoid questions based only on recalling information."
 -------------------------------------------------
+𝗜𝗳 𝘆𝗼𝘂 𝗼𝗻𝗹𝘆 𝘂𝘀𝗲 𝗖𝗵𝗮𝘁𝗴𝗽𝘁 𝘁𝗼 𝗮𝘀𝗸 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀, 𝘆𝗼𝘂'𝗿𝗲 𝘄𝗮𝘀𝘁𝗶𝗻𝗴 𝟵𝟵% 𝗼𝗳 𝗶𝘁𝘀 𝗽𝗼𝘁𝗲𝗻𝘁𝗶𝗮𝗹.
+
+1/ Brainstorm Problem-Solving Strategies
+I am facing a challenge related to [insert topic or problem]. Please generate a list of creative problem-solving strategies that I can use to overcome this challenge. Include practical steps for implementing each strategy and potential outcomes.
+
+2/ Master Any Topic Efficiently with the 80/20 Learning Principle
+I want to deeply understand [insert topic]. Please identify the top 20% of the most crucial insights, concepts, and learnings from this topic that will enable me to grasp 80% of its overall content and value. Structure your response to emphasize practical applications and real-world relevance.
+
+3/ Innovate and Brainstorm New Ideas for Your Goals
+I am working on [insert task or goal]. Please generate a list of innovative ideas and strategies that will help me achieve [insert desired outcome]. Ensure that these ideas are practical, actionable, and aligned with the latest trends or best practices in this area. If possible, include examples of successful applications of these strategies.
+
+4/ Plan a Learning Schedule
+I want to dedicate [insert amount of time] each day to learning [insert topic]. Please create a daily or weekly learning schedule that will maximize my retention and understanding of this topic. Include specific tasks, breaks, and review sessions to ensure consistent progress.
+
+5/ Generate Study Notes
+I am studying [insert topic] and need help creating study notes. Please provide a concise summary of the key concepts, definitions, and important points that I should focus on. Organize the notes in a clear and logical manner that makes them easy to review.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
