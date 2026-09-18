@@ -1,0 +1,243 @@
+
+
+-------------------------------------------------
+🚨 BREAKING: Claude can now build you the system Warren Buffett talks about: 
+one that makes money while you sleep. Here's the exact prompts to give it 👇
+
+1/ THE FULL PASSIVE INCOME PLAN
+	<role>
+	Act as a leverage strategist who helps me build income systems that reduce dependence on my direct hourly effort over time.
+	</role>
+	<task>
+	Create a complete passive-income roadmap based on my skills, assets, audience, capital, time, and risk tolerance.
+	</task>
+	<steps>
+	1. Ask for my skills, work experience, audience, current income, available time, capital, existing assets, tools, and income goal
+	2. Identify what I already own or know that could become a scalable asset
+	3. Generate realistic income models that fit my situation
+	4. Separate active income, leveraged income, recurring income, and investment income
+	5. Rank opportunities by startup cost, time to first revenue, scalability, maintenance, margin, and risk
+	6. Choose one primary income engine to build first
+	7. Create a 30-day, 90-day, and 12-month roadmap
+	8. Define what must happen before I add another income stream
+	</steps>
+	<rules>
+	- Do not promise passive income without upfront work
+	- Avoid "get rich quick" ideas
+	- Match recommendations to my actual resources
+	- Prioritize one system before diversification
+	- Clearly separate effort required now from maintenance required later
+	- Test: could this income continue with less direct time from me after the system is built
+	</rules>
+	<output>
+	Current Assets → Income Model Options → Opportunity Ranking → Primary Income Engine → 30-Day Plan → 90-Day Plan → 12-Month Roadmap → Expansion Trigger
+	</output>
+
+2/ FIND THE RIGHT INCOME STREAM FOR YOU
+	<role>
+	Act as an opportunity analyst who matches business models and income streams to my unfair advantages, constraints, and resources.
+	</role>
+	<task>
+	Find the income stream that gives me the strongest combination of fit, scalability, simplicity, and realistic earning potential.
+	</task>
+	<steps>
+	1. Ask for my skills, interests, audience, distribution, capital, weekly hours, experience, and existing credibility
+	2. Generate 10 realistic income-stream options
+	3. Score each by skill fit, demand, startup cost, speed to revenue, margin, scalability, competition, and maintenance
+	4. Identify which options depend heavily on my personal time
+	5. Identify which options create reusable or compounding assets
+	6. Eliminate weak fits
+	7. Recommend the top 3
+	8. Choose the strongest first model to test
+	</steps>
+	<rules>
+	- Do not recommend trends simply because they are popular
+	- Prioritize existing leverage
+	- Avoid business models requiring resources I do not have
+	- Distinguish scalable from genuinely low-maintenance
+	- Include downsides
+	- Test: would this model still make sense if hype disappeared tomorrow
+	</rules>
+	<output>
+	Personal Assets → 10 Income Streams → Scorecard → Time-Heavy Models → Compounding Models → Top 3 → Best First Model → Why It Fits
+	</output>
+
+3/ BUILD SOMETHING THAT SELLS WHILE YOU SLEEP
+	<role>
+	Act as a scalable product strategist who turns skills, knowledge, systems, content, or expertise into products that can be sold repeatedly.
+	</role>
+	<task>
+	Help me create an asset that can generate sales without requiring me to personally deliver every transaction.
+	</task>
+	<steps>
+	1. Ask for my expertise, audience, recurring problems I solve, existing content, proof, and monetization goal
+	2. Identify problems I repeatedly solve manually
+	3. Turn those repeated solutions into product ideas
+	4. Compare digital products, templates, memberships, licensing, software, courses, databases, and other scalable formats
+	5. Rank ideas by demand, ease to create, margin, scalability, and maintenance
+	6. Design the strongest product
+	7. Define the transformation, deliverables, price logic, and fulfillment system
+	8. Create a minimum viable version I can validate quickly
+	</steps>
+	<rules>
+	- Do not build before identifying real demand
+	- Product must solve a specific problem
+	- Avoid vague "information products"
+	- Prioritize repeatable fulfillment
+	- Keep the first version simple
+	- Test: can one finished asset be sold many times without recreating it for every buyer
+	</rules>
+	<output>
+	Repeated Problems → Product Opportunities → Format Comparison → Best Product → Promise → Deliverables → Fulfillment → MVP Validation Plan
+	</output>
+
+4/ AUTOMATE THE BORING PARTS
+	<role>
+	Act as an automation architect who reduces manual work across marketing, sales, fulfillment, customer support, reporting, and operations.
+	</role>
+	<task>
+	Identify which parts of my income system can be automated, delegated, templated, or eliminated.
+	</task>
+	<steps>
+	1. Ask for my complete workflow from attracting a customer to delivering the product and supporting them
+	2. Map every recurring task
+	3. Label each task as keep, automate, delegate, template, or delete
+	4. Identify AI workflows that can handle repetitive knowledge work
+	5. Identify software automation opportunities
+	6. Identify tasks that still need human approval
+	7. Create SOPs for the remaining recurring work
+	8. Estimate time saved per week
+	</steps>
+	<rules>
+	- Do not automate broken processes
+	- Delete unnecessary tasks before automating them
+	- Preserve human review for high-risk actions
+	- Keep the automation maintainable
+	- Avoid using five tools where one process will do
+	- Test: does this reduce recurring effort without reducing customer experience
+	</rules>
+	<output>
+	Workflow Map → Recurring Tasks → Keep/Automate/Delegate/Template/Delete → AI Workflows → Human Review Points → SOPs → Estimated Time Saved
+	</output>
+
+5/ GET CUSTOMERS WITHOUT CHASING THEM
+	<role>
+	Act as an inbound growth strategist who builds systems that attract, nurture, and convert customers without relying entirely on manual outreach.
+	</role>
+	<task>
+	Create a customer acquisition system that keeps bringing qualified prospects into my offer.
+	</task>
+	<steps>
+	1. Ask for my product, ideal customer, platform, audience size, current traffic, sales process, and available content capacity
+	2. Identify where my customers already spend attention
+	3. Create 3 acquisition engines: content, search, referrals, partnerships, email, or other relevant channels
+	4. Design a lead magnet or entry point
+	5. Build the path from discovery to trust to conversion
+	6. Create nurture content and email sequences
+	7. Define CTAs for each stage
+	8. Create a 90-day acquisition plan
+	</steps>
+	<rules>
+	- Do not rely on one viral post
+	- Build owned distribution where possible
+	- Match the channel to the buyer
+	- Avoid spam-based acquisition
+	- Prioritize channels that compound over time
+	- Test: could this system continue producing leads even when I am not manually messaging prospects
+	</rules>
+	<output>
+	Ideal Customer → Acquisition Channels → Lead Magnet → Funnel → Nurture System → CTAs → 90-Day Acquisition Plan
+	</output>
+
+6/ ADD MORE INCOME STREAMS IN THE RIGHT ORDER
+	<role>
+	Act as a portfolio income strategist who helps me expand into additional revenue streams without destroying focus.
+	</role>
+	<task>
+	Determine when and how I should add additional income streams to my existing system.
+	</task>
+	<steps>
+	1. Ask for my current income engine, revenue, profit, stability, workload, audience, assets, and available capital
+	2. Determine whether the current engine is stable enough to expand
+	3. Identify adjacent income streams that reuse the same audience, assets, systems, or distribution
+	4. Rank them by synergy, margin, complexity, risk, and management load
+	5. Identify which income streams should come second, third, and later
+	6. Define the milestone required before launching each one
+	7. Build a staged diversification roadmap
+	</steps>
+	<rules>
+	- Do not diversify a broken core business
+	- Prefer adjacent revenue over unrelated side hustles
+	- Reuse existing assets
+	- Protect focus
+	- Include management complexity
+	- Test: does each new income stream make the system stronger instead of more chaotic
+	</rules>
+	<output>
+	Current Engine Health → Expansion Readiness → Adjacent Income Streams → Ranking → Second Stream → Third Stream → Launch Milestones → Diversification Roadmap
+	</output>
+
+7/ KNOW IF IT’S ACTUALLY WORKING
+	<role>
+	Act as a business performance analyst who measures whether an income system is producing real profit, leverage, and repeatability.
+	</role>
+	<task>
+	Create a scorecard that tells me whether my passive-income system is actually improving.
+	</task>
+	<steps>
+	1. Ask for my revenue, profit, traffic, leads, sales, customer acquisition cost, refunds, recurring revenue, hours worked, and operating costs
+	2. Identify the metrics that matter most for this business model
+	3. Calculate revenue per customer, profit margin, conversion rate, and recurring revenue where relevant
+	4. Measure how many hours I personally spend producing the income
+	5. Calculate revenue and profit per owner hour
+	6. Track how much of revenue comes from systems versus manual work
+	7. Define green, yellow, and red performance thresholds
+	8. Create a monthly review dashboard
+	</steps>
+	<rules>
+	- Do not judge success by revenue alone
+	- Include profit and time required
+	- Track maintenance burden
+	- Separate one-time spikes from recurring performance
+	- Use real numbers only
+	- Test: is income increasing faster than the time required to maintain it
+	</rules>
+	<output>
+	Core Metrics → Revenue → Profit → Conversion → Recurring Revenue → Owner Hours → Profit Per Owner Hour → System-Generated Revenue → Performance Thresholds → Monthly Dashboard
+	</output>
+
+8/ TURN INCOME INTO LONG-TERM SECURITY
+	<role>
+	Act as a long-term financial planning assistant who helps me convert business income into financial resilience, reserves, reinvestment, and diversified long-term assets.
+	</role>
+	<task>
+	Create a framework for turning the income generated by my system into long-term financial security.
+	</task>
+	<steps>
+	1. Ask for my monthly income, business profit, personal expenses, debt, emergency reserves, taxes, business reinvestment needs, and long-term goals
+	2. Identify the amount required to maintain personal and business stability
+	3. Create a cash allocation waterfall
+	4. Allocate money across taxes, operating reserves, personal emergency savings, debt reduction, business reinvestment, and long-term wealth-building buckets
+	5. Create rules for unusually strong revenue months
+	6. Create downside rules for weak months
+	7. Build conservative, balanced, and growth-focused allocation scenarios
+	8. Define the point where I should seek qualified tax, legal, or financial advice
+	</steps>
+	<rules>
+	- Do not recommend specific investments
+	- Do not promise future returns
+	- Prioritize resilience before aggressive expansion
+	- Clearly label general education versus professional advice
+	- Account for taxes and business volatility
+	- Test: does this convert temporary income into durable financial stability
+	</rules>
+	<output>
+	Financial Baseline → Stability Target → Cash Waterfall → Reserve Rules → Reinvestment Rules → Strong-Month Rules → Weak-Month Rules → 3 Allocation Scenarios → Professional Review Triggers
+	</output>
+
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
