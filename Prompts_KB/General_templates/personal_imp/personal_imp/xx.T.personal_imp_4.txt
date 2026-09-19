@@ -383,6 +383,117 @@ Optimize the system to save time while keeping important decisions under my cont
 
 
 -------------------------------------------------
+## 10 golden prompts
+
+1. The Clear Email Creator : Need a professional email that sounds like you, not a robot?
+
+Prompt Template:
+You are a senior business communication editor. Write a clear, professional email for me. 
+My details:
+    • Recipient: [NAME OR JOB TITLE] 
+    • My relationship with them: [CLIENT, MANAGER, TEACHER, TEAMMATE, ETC.] 
+    • Email purpose: [WHAT YOU WANT TO ACHIEVE] 
+    • Desired tone: [POLITE, CONFIDENT, FORMAL, WARM] 
+    • Call to action: [WHAT SHOULD THE RECIPIENT DO NEXT] 
+Give me: subject lines, a polished email, one clear CTA, and a shorter follow-up version. 
+Why this works: It tells AI who the reader is, why you're writing, and exactly what output you need. 
+
+2. The Smart Study Partner : Stuck on a chapter, assignment, or exam topic?
+Prompt Template:
+You are an expert tutor and learning designer. Help me understand and prepare for this topic. 
+    • My subject: [SUBJECT] 
+    • My level: [SCHOOL, COLLEGE, BEGINNER, ADVANCED] 
+    • My task: [PASTE IT HERE] 
+    • What confuses me: [WRITE WHAT IS HARD] 
+    • Deadline: [DATE] 
+Give me: a simple explanation, a learning plan, 5 key concepts with examples, 10 practice questions, and a final checklist. 
+Why this works: It gives AI your level, deadline, and weak areas so the help fits you perfectly. 
+
+3. The Meeting Confidence Plan
+Walking into an important meeting without knowing what to say?
+Prompt Template:
+You are a senior consultant and meeting strategist. Help me prepare for an upcoming meeting. 
+    • Meeting topic: [TOPIC] 
+    • My role: [YOUR ROLE] 
+    • Objective: [GOOD OUTCOME] 
+    • Attendees: [NAMES OR ROLES] 
+    • My concerns: [WHAT WORRIES YOU] 
+Give me: discussion points, tough questions with answers, an opening statement, an agenda, and a prep checklist. 
+
+4. The Report Blueprint Builder : Need a report that looks organized from the first page?
+
+Prompt Template:
+You are a professional analyst and report writer. Create a structured, evidence-based report. 
+    • Report type: [MONTHLY, PROJECT, RESEARCH] 
+    • Target reader: [MANAGER, CLIENT, TEACHER] 
+    • Purpose: [WHAT THE READER SHOULD DECIDE] 
+    • Source info: [PASTE YOUR DATA] 
+Give me: executive summary, key findings, risks, recommendations, and an action plan with owner & deadline. 
+Why this works: It forces a strong structure and prevents AI from inventing evidence. 
+
+5. The Formula Troubleshooter : Cannot find the right Excel or Google Sheets formula?
+Prompt Template:
+You are an advanced Excel and Google Sheets specialist. Help me solve this spreadsheet task. 
+    • My goal: [DESIRED RESULT] 
+    • Tool: [EXCEL OR SHEETS] 
+    • Data layout: [DESCRIBE COLUMNS] 
+    • Sample rows: [PASTE 3-10 ROWS] 
+    • Current formula/error: [PASTE IT] 
+Give me: the best formula, a backup version, a step-by-step explanation, and common errors to check. 
+Why this works: It gives AI the exact data shape and desired result — what formulas actually need. 
+
+6. The Presentation Storyboard : Do your slides feel full of text but empty of impact?
+Prompt Template:
+You are a presentation strategist. Help me plan a simple, convincing presentation. 
+    • Topic: [TOPIC] 
+    • Audience: [WHO WILL WATCH] 
+    • Goal: [INFORM, PERSUADE, TEACH] 
+    • Length: [MINUTES] | Slides: [NUMBER] 
+    • Key facts: [PASTE THEM] 
+Give me: slide-by-slide plan with titles, bullets, visual suggestions, speaker notes, hook, and closing line. 
+Why this works: It makes AI think about audience, time limit, and visual flow — not just paragraphs. 
+
+7. The Root Cause Finder : A problem keeps coming back because nobody found the real cause?
+Prompt Template:
+You are a practical problem-solving consultant. Help me analyse this issue before jumping to solutions. 
+    • Problem: [DESCRIBE IT] 
+    • When it started: [DATE] 
+    • Evidence available: [FACTS/DATA] 
+    • What's been tried: [LIST ACTIONS] 
+Give me: a clear problem statement, 3-5 possible root causes, 5 realistic solutions, and a 7-day action plan. 
+Why this works: It makes AI inspect the cause and evidence first — not guess a random fix. 
+
+8. The Day Control Planner : Your task list is long, but you don't know what to do first?
+Prompt Template:
+You are a practical productivity coach. Turn my messy task list into a realistic plan for today. 
+    • Working hours: [START TO END] 
+    • Fixed commitments: [MEETINGS, CLASSES] 
+    • My tasks: [TASK, DEADLINE, TIME, IMPORTANCE] 
+    • Energy pattern: [BEST FOCUS TIME] 
+Give me: an Eisenhower Matrix, top 3 priorities, a time-blocked schedule, and a 5-minute end-of-day review. 
+Why this works: It gives AI your real time, deadlines, and energy — creating a plan you can follow. 
+
+9. The Research Brief Maker : Need to understand a topic quickly without drowning in tabs?
+Prompt Template:
+You are a careful research assistant. Build a clear research brief on this topic. 
+    • Topic: [WRITE THE QUESTION] 
+    • Purpose: [DECISION, ASSIGNMENT, CONTENT] 
+    • Audience: [WHO WILL READ IT] 
+    • What I already know: [PASTE NOTES] 
+Give me: a plain-English summary, 5 key findings, sources, different viewpoints, and 5 follow-up questions. 
+Why this works: It tells AI the question, reader, and evidence standard — no generic overview. 
+
+10. The Better Decision Compass : Choosing between options and need clear thinking, not more confusion?
+Prompt Template:
+You are a neutral decision support advisor. Help me compare options clearly. 
+    • Decision: [DESCRIBE IT] 
+    • My options: [OPTION A, B, C] 
+    • My priorities: [WHAT MATTERS MOST] 
+    • Must-haves: [NON-NEGOTIABLES] 
+Give me: a comparison table, benefits/tradeoffs, missing facts, the best option per priority, and 3 next steps. 
+
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
