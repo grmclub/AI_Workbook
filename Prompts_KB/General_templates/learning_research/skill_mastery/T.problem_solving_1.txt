@@ -1,0 +1,69 @@
+
+
+
+-------------------------------------------------
+# 10 Chain of thought Prompts for complex problems.👇
+
+1. First Principles Thinking Prompt
+Prompt:
+"I want to solve [Insert Complex Challenge]. Break this problem down into its fundamental truths and basic components. Strip away all assumptions and conventional wisdom. Once you have isolated the basic truths, build a step-by-step solution from scratch." 
+Framework Breakdown:
+    1. Break down the problem 
+    2. Find the fundamental truths 
+    3. Remove assumptions 
+    4. Build a step-by-step solution 
+	
+2. The 5 Whys Framework Prompt
+Prompt:
+"We need to solve [Insert Issue]. Ask and answer 'Why did this happen?' five consecutive times, with each answer driving the next question deeper into the core issue. After the 5th 'Why', present a preventive solution based on the ultimate finding." 	
+	
+3. Root Cause Analysis Prompt
+Prompt:
+"I am facing this issue: [Insert Problem]. Do not give me the solution yet. First, list 5 potential root causes. Second, evaluate the probability of each cause based on the symptoms provided. Third, identify the primary root cause. Finally, propose an actionable fix for that primary cause." 
+	
+
+4. Multi-Perspective Evaluation Prompt
+Prompt:
+"I am considering [Insert Decision/Strategy]. Before making a recommendation, analyze this decision from 3 distinct viewpoints: 1) The Financial/Budgetary Lens, 2) The User/Customer Experience Lens, and 3) The Technical/Operational Feasibility Lens. Show your reasoning for each, and then conclude with a balanced verdict." 
+Framework Breakdown:
+    1. Financial/Budgetary Lens: Cost implications, ROI and value, Budget feasibility, Long-term financial impact 
+    2. User/Customer Experience Lens: Needs & pain points, Satisfaction & usability, Adoption potential, Brand perception 
+    3. Technical/Operational Feasibility Lens: Technical requirements, Resource availability, Implementation complexity, Scalability & risk 
+    4. Balanced Verdict: Weighing all three perspectives for the best outcome. 
+
+5. Pre-Mortem Risk Assessment Prompt
+Prompt:
+"Imagine it is 6 months from now and our plan to [Insert Project/Goal] has completely failed. Walk me through the step-by-step timeline of how it failed, identifying the top 3 weak points that led to the collapse. Then, provide mitigation steps to fix those 3 vulnerabilities today." 
+Framework Breakdown:
+    1. The Failure Timeline:
+        ◦ 1. Early Signs: What went wrong at the beginning? 
+        ◦ 2. Escalation: How did it get worse over time? 
+        ◦ 3. Breaking Point: What caused the final collapse? 
+        ◦ 4. End Result: How did the plan fully fail? 
+    2. Top 3 Weak Points: Identify major vulnerability 1, second critical gap, and third key failure point. 
+    3. Mitigation Steps: Actions to take now, processes/resources/controls to add, and safeguards to prevent failure. 
+
+
+6. Step-by-Step Mathematical & Logic Solver
+Problem Example:
+"A factory produces 120 units per day. The production cost per unit is $8, and the selling price per unit is $15. If the factory operates for 25 days, what is the total profit?" 
+Step-by-Step Solution Breakdown:
+    1. Identify Given Values:
+        ◦ Units per day = 120
+        ◦ Cost per unit = $8
+        ◦ Selling price per unit = $15
+        ◦ Number of days = 25
+    2. Calculate Daily Profit Per Unit:
+        ◦ Profit per unit = Selling price - Cost = 15 - 8 = $7
+    3. Calculate Daily Total Profit:
+        ◦ Daily profit = Units per day * Profit per unit = 120 * 7 = $840
+    4. Calculate Total Profit for 25 Days:
+        ◦ Total profit = Daily profit * Number of days = 840 * 25 = $21,000
+    5. Verify Calculation: All calculations are consistent. 
+    6. Final Answer: Total Profit = $21,000
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
