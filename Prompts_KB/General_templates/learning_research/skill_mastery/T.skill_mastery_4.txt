@@ -271,7 +271,76 @@ Better prompts create better first drafts. Use AI to think faster, organize your
 
 
 -------------------------------------------------
+🚨 MASTER ANY SUBJECT WITH CLAUDE.
+7 powerful prompts to learn faster, think deeper, and remember more.👇🏻
+
+1️. Accelerated Learning Blueprint
+"Act as an elite learning strategist. I want to master [SUBJECT] in [TIMEFRAME]. Build a personalized roadmap that tells me exactly what to learn, in what order, what to ignore for now, how to practice daily, and which high-impact mistake could slow my progress. Prioritize the 20% of knowledge that creates 80% of the results."
+
+2️. Concept Simplifier
+"Act as a world-class teacher for [SUBJECT]. I’m struggling with [CONCEPT]. Teach it from absolute zero using a simple explanation, a powerful analogy, a real-world example, and a mental visual. Then test my understanding and expose the 3 most common misconceptions."
+
+3️. Active Recall Generator
+"Act as an expert tutor for [SUBJECT]. I just studied [TOPIC]. Create 20 progressively difficult questions that test true understanding, application, and reasoning—not memorization. Ask one question at a time, evaluate my answer, correct my mistakes, and explain the reasoning before moving forward."
+
+4️. Note-Taking Optimizer
+"Act as a learning efficiency expert. Here are my notes on [TOPIC]: [PASTE NOTES]. Transform them into a high-retention study guide. Remove unnecessary information, organize ideas by importance, connect related concepts, clarify confusing points, and finish with the 5 most important things I should remember."
+
+5️. Memory Anchor Builder
+"Act as an elite memory coach. I need to memorize [FACTS/FORMULAS/TERMS]. Turn each item into a powerful memory anchor using stories, associations, acronyms, patterns, or vivid mental images. Make every connection simple, distinctive, and easy to recall under pressure."
+
+6️. Exam Preparation System
+"Act as an expert exam strategist. My [SUBJECT] exam is in [X DAYS] and covers [TOPICS]. Build a high-impact day-by-day study plan based on priority, difficulty, and likely knowledge gaps. Include active recall, practice questions, revision sessions, and a final 24-hour strategy."
+
+7️. Mental Model Installer
+"Act as a world-class expert in [FIELD]. Don’t just teach me information—teach me how experts think. Identify the 5 most powerful mental models used in this field, explain how each changes decision-making, and give me a realistic example of each in action."
+
 -------------------------------------------------
+ChatGPT Has SECRET CODES Most Users Never TRY!
+Here Are 10 ChatGPT Secret Codes That Changes The Way AI Responds 👇
+
+📌 1/ /steelman
+Argues the strongest possible version of your idea instead of nodding along.
+Prompt: "[your idea] /steelman. Build the strongest case for this, then tell me the one weakness that still survives."
+
+📌 2/ /forecast
+Shows you the future before you commit to it.
+Prompt: "/forecast I'm about to [your decision]. Map out the three most likely outcomes, how likely each one is, and what would tip it toward the bad one."
+
+📌 3/ /rank
+Stops it giving you five options and leaving you to decide.
+Paste to ChatGPT: "[your question] /rank. Rate every option against each other, explain the scoring, and tell me the single best one."
+
+📌 4/ /assumptions
+Shows you what the answer is quietly built on.
+Paste to ChatGPT: "/assumptions [your question]. Answer it, then list every hidden assumption you made and tell me which one breaks the whole thing if it's wrong."
+
+📌 5/ /checklist
+Turns any answer into something you can actually follow.
+Paste to ChatGPT: "[your question] /checklist. Turn the answer into a step-by-step checklist in the order I should do it."
+
+📌 6/ /risk
+Surfaces every way it could go wrong.
+Paste to ChatGPT: "[your plan] /risk. Every way this could go wrong, ranked by how likely and how badly it hurts. Then how to prevent the top three."
+
+📌 7/ /concise
+Strips the answer to the shortest useful version.
+Paste to ChatGPT: "/concise [your question]. Shortest possible answer. No preamble, no caveats, no filler."
+
+📌 8/ /gaps
+Tells you what you forgot to ask.
+Paste to ChatGPT: "[your question] /gaps. Answer it, then tell me every important question I should have asked but didn't. Rank them by how much they'd change my decision."
+
+📌 9/ /devil
+Takes the opposite side and pokes holes in yours.
+Paste to ChatGPT: "[your plan or belief] /devil. Argue the opposing side. Find every hole. Then tell me which counterargument is strongest."
+
+📌 10/ /summarize
+Compresses anything long into the parts that matter.
+Paste to ChatGPT: "/summarize [paste a long answer, article, or document]. Key points only. Nothing repeated. Nothing padded."
+Reply
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
