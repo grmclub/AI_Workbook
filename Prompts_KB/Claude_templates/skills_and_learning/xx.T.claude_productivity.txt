@@ -1,0 +1,91 @@
+
+-------------------------------------------------
+## Claude Productivity Checklist
+Work Smarter • Think Deeper • Get More Done With Claude
+
+SETUP
+Get the most out of Claude from the start
+    • [ ] Create a Claude account (Web or Desktop) 
+    • [ ] Explore the different models available 
+    • [ ] Set up a clean workspace or project folder 
+    • [ ] Turn on Artifacts for documents, code, and designs 
+    • [ ] Customize your preferences and notifications 
+    • [ ] Save useful prompts for quick access 
+PROMPTING
+Get better results with clear prompts
+    • [ ] Be specific about what you need 
+    • [ ] Provide context, background, and goals 
+    • [ ] Specify the desired format (outline, table, etc.) 
+    • [ ] Include examples or reference material 
+    • [ ] Ask for multiple options when helpful 
+    • [ ] Iterate and refine your prompt 
+    • [ ] Use follow up prompts to go deeper 
+WRITE & CREATE
+Turn ideas into high quality content
+    • [ ] Draft blog posts, articles, or newsletters 
+    • [ ] Create social media captions and ideas 
+    • [ ] Write emails, reports, or presentations 
+    • [ ] Edit and improve your existing content 
+    • [ ] Adjust tone (professional, casual, friendly, etc.) 
+    • [ ] Summarize long documents or meeting notes 
+    • [ ] Generate content ideas for your niche 
+RESEARCH
+Find insights and make sense of information
+    • [ ] Ask Claude to explain complex topics 
+    • [ ] Summarize research papers or articles 
+    • [ ] Compare different viewpoints 
+    • [ ] Turn notes into key takeaways 
+    • [ ] Identify trends and opportunities 
+    • [ ] Create study guides or learning plans 
+    • [ ] Fact check and verify important details 
+ANALYZE & PLAN
+Think through problems and make better decisions
+    • [ ] Break down complex problems step by step 
+    • [ ] Analyze data, ideas, or strategies 
+    • [ ] Create pros and cons lists 
+    • [ ] Get different perspectives or frameworks 
+    • [ ] Build plans, roadmaps, or strategies 
+    • [ ] Use Claude for brainstorming sessions 
+    • [ ] Turn your ideas into actionable steps 
+CODE & TECH
+Get support for technical tasks
+    • [ ] Explain code snippets or error messages 
+    • [ ] Write or debug code (Python, HTML, etc.) 
+    • [ ] Create scripts or templates 
+    • [ ] Get help with technical documentation 
+    • [ ] Ask for step by step tutorials 
+    • [ ] Understand complex technical concepts 
+    • [ ] Review and improve your code 
+VISUALS & ARTEFACTS
+Turn ideas into useful outputs
+    • [ ] Use Artifacts to create docs, designs, or code 
+    • [ ] Generate diagrams, charts, or tables 
+    • [ ] Turn ideas into structured documents 
+    • [ ] Create templates for repeatable work 
+    • [ ] Organize information into visual formats 
+    • [ ] Export and save your artifacts 
+    • [ ] Share artifacts with your team or clients 
+PROJECTS
+Keep your work organized and consistent
+    • [ ] Create a dedicated project for each topic 
+    • [ ] Upload files and reference materials 
+    • [ ] Keep important context in your project 
+    • [ ] Use Claude to track tasks or next steps 
+    • [ ] Build reusable prompts and templates 
+    • [ ] Organize your artifacts and outputs 
+    • [ ] Review and update projects regularly 
+BEST PRACTICES
+Get the most value from Claude
+    • [ ] Be clear and specific in your instructions 
+    • [ ] Provide enough context 
+    • [ ] Use follow up prompts to refine results 
+    • [ ] Try different approaches or angles 
+    • [ ] Keep sensitive or personal data out 
+    • [ ] Use Claude as a thinking partner, not just a search tool 
+    • [ ] Continuously explore new ways to use it
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
