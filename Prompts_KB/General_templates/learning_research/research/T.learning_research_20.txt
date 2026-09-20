@@ -26,6 +26,42 @@ You can also create three buckets:
 This is often much more powerful than repeatedly searching the same keywords.
 
 -------------------------------------------------
+## research & analysis
+
+1. Research Gap Finder
+Prompt:
+"Act as an elite research methodologist. Map the complete research landscape for [TOPIC] from the ground up. Identify the three biggest gaps, major methodological weaknesses, outdated assumptions, limited or conflicting evidence, and overlooked research opportunities. Then build a rigorous verification framework to validate claims, assess source credibility, cross-check evidence, and rank the strongest directions for further research." 
+
+2. Core Insight Extraction   
+Prompt:   
+"Act as an expert academic information architect. Transform [SOURCE MATERIAL] into a high-utility conceptual matrix organized around CORE DEFINITIONS, METHODOLOGICAL DIFFERENCES, and MEASURABLE EVIDENCE. Extract the highest-signal insights, expose meaningful patterns and contradictions, connect related findings, and eliminate repetition or low-value filler without losing important context, nuance, or uncertainty."
+
+3. 10-Paper Literature Review
+Prompt:
+"Act as an expert research analyst. Design a repeatable workflow for reviewing 10 research papers simultaneously. Create a consistent structure for comparing research questions, methodologies, samples or datasets, findings, evidence quality, limitations, contradictions, and research gaps. Use clear heading hierarchies and ALL CAPS for major DOMAINS and DATASETS. Optimize for rapid extraction, consistent comparison, and immediate visibility into important trends and methodological patterns." 
+
+4. Complex Concept Explainer
+Prompt:
+"Act as an expert academic educator. Create a framework for transforming [COMPLEX CONCEPT] into a clear, human-centered explanation. Convert dense terminology into plain language, abstract theories into intuitive analogies, technical processes into understandable steps, and complex formulas into explanations of what they actually mean. Use natural, zero-fluff language while preserving technical accuracy, nuance, and conceptual depth." 
+
+5. Multi-Variable Research Analysis
+Prompt:
+"Act as an advanced research analyst. Create three distinct frameworks for analyzing multiple variables and conflicting research findings simultaneously while preserving context. Each framework must systematically cross-examine competing evidence, identify inconsistencies and anomalies, distinguish correlation from causation, evaluate evidence strength, expose missing information, and test conclusions against alternative explanations before generating a conclusion." 
+
+6. Two-Step Claim Testing
+Prompt:
+"Act as an elite academic peer reviewer. Rigorously pressure-test [CLAIM] using a strict two-step process: 
+    • STEP 1 — CHALLENGE: construct the strongest evidence-based counterargument by examining logical, methodological, empirical, and theoretical weaknesses, hidden assumptions, contradictory evidence, and alternative explanations; 
+    • STEP 2 — SYNTHESIZE: compare both positions to identify strengths, weaknesses, validation gaps, and the most defensible evidence-based conclusion. Do not force certainty where evidence is inconclusive." 
+
+7. Source Credibility Audit
+Prompt:
+"Act as a master investigative research auditor. Evaluate [SOURCES] using an adversarial verification framework covering source quality, author expertise, methodology, evidence strength, citation accuracy, potential bias, outdated information, and conflicting findings. Cross-check important claims, distinguish primary evidence from secondary interpretation, detect weak or unsupported conclusions, and clearly flag evidence that is insufficient or unreliable. Minimize confirmation bias while maximizing accuracy, reliability, and research integrity." 
+
+8. 20-Minute Research Audit
+Prompt:
+"Act as a data-driven research workflow auditor. Evaluate my 20-minute research sprint using [RESEARCH METRICS]. Diagnose instruction-design flaws, formatting inefficiencies, delimiter inconsistencies, unnecessary processing, context bottlenecks, and information-extraction failures limiting performance. Identify exactly what is slowing research or reducing quality, then recommend precise, prioritized optimizations to improve speed, accuracy, evidence quality, information density, and synthesis without sacrificing rigor."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
