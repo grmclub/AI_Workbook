@@ -492,14 +492,76 @@ You are a neutral decision support advisor. Help me compare options clearly.
     • Must-haves: [NON-NEGOTIABLES] 
 Give me: a comparison table, benefits/tradeoffs, missing facts, the best option per priority, and 3 next steps. 
 
+-------------------------------------------------
+## 8 CHATGPT PROMPTS THAT WILL CHANGE YOUR LIFE
 
+1) CAREER CLARITY & PURPOSE FINDER
+Prompt:
+"I’m feeling stuck in my career and unsure of my direction. Ask me 10 deep questions about my skills, interests, values, and past experiences that brought me joy. Based on my answers, identify 3-5 potential career paths that align with who I am, and create a 90-day action plan to explore each one with specific steps, resources, and milestones." 
+
+2) PERSONALIZED LEARNING ROADMAP
+Prompt:
+"I want to learn [specific skill/topic] from complete beginner to advanced level. Create a comprehensive 12-week learning roadmap broken down by weeks. Include: specific resources (free courses, books, videos), daily practice exercises, weekly projects to build my portfolio, milestones to track my progress. Tailor it to someone who can dedicate 1-2 hours per day." 
+
+3) CONFLICT RESOLUTION & RELATIONSHIP NAVIGATOR
+Prompt:
+"I’m having a conflict with [person - friend/partner/family member] about [issue]. Here’s the situation: [describe situation]. Help me understand their perspective, identify what I might be missing, craft a non-confrontational way to communicate my feelings using 'I' statements, and give me 3 different approaches to resolve this - one focused on understanding their needs first."
+
+4) FINANCIAL FREEDOM BLUEPRINT
+Prompt:
+"My current financial situation: [income, expenses, debt, savings]. My financial goals: [short-term and long-term goals]. Create a personalized financial plan that includes: a realistic monthly budget breakdown, debt payoff strategy with timeline, savings plan with specific percentages, 3 ways to increase my income in the next 90 days, investment plan based on my risk tolerance and timeline." 
+
+5) HEALTH & FITNESS TRANSFORMATION PLAN
+Prompt:
+"I want to [lose weight/build muscle/improve energy]. Current stats: [age, weight, height, activity level, dietary restrictions]. Create a complete 8-week transformation plan including: daily meal plan with recipes and macros, workout routine I can do [at home/gym] for my fitness level, sleep optimization strategies, stress management techniques, and weekly check-in questions to track progress beyond just the scale." 
+
+6) PRODUCTIVITY & TIME OPTIMIZER
+Prompt:
+"I feel overwhelmed and unproductive. My typical day looks like: [describe schedule]. My important goals are: [list goals]. Analyze my day and create an optimized schedule using time-blocking. Buffer daily work issues, Include: my 3 highest-leverage tasks daily, energy management strategies, techniques to eliminate distractions, and a system to say no to non-essential commitments." 
+
+7) EMOTIONAL INTELLIGENCE & MINDSET COACH
+Prompt:
+"I struggle with [anxiety/self-doubt/negative thinking/imposter syndrome]. When [trigger situation] happens, I typically [reaction]. Help me understand the root cause of this pattern, reframe my limiting beliefs with evidence-based counter-thoughts, create 5 daily affirmations tailored to my situation, teach me a 5-minute mindfulness technique I can use when triggered, and give me journaling prompts to process these constructively." 
+
+8) SOCIAL SKILLS & COMMUNICATION MASTERY
+Prompt:
+"I want to improve my [public speaking/networking/difficult conversations/active listening] skills. My current challenge is: [describe situation]. Give me: 5 specific techniques to improve this skill with examples, practice exercises I can do alone and with others, common body language mistakes to avoid, conversation framework for (small talk, professional networking, deep connections), and a 30-day challenge to build confidence in social situations."
+
+-------------------------------------------------
+##Goal tracker and self evaluation
+
+1. PREDICT MY NEXT MOVE
+Prompt:
+"Based on everything you know about me from our conversations, predict the 5 decisions or moves I’m most likely to make next. For each prediction, give me a confidence percentage and explain exactly what patterns in my past behavior led you there." 
+
+2. EXPOSE MY PATTERNS
+Prompt:
+"Analyze our conversations and identify the patterns I keep repeating without realizing it. Focus on how I make decisions, what I obsess over, what I avoid, what changes my mind, and what I repeatedly come back to. Show me the evidence behind each pattern." 
+
+3. FIND MY CONTRADICTIONS
+Prompt:
+"Find the biggest contradictions between what I say I want and how I actually behave. For each one, show me what I claim to want, what my behavior suggests I want, and which one you think is more accurate based on our conversations." 
+
+4. SHOW ME WHAT I DON'T SEE
+Prompt:
+"Based on our conversations, tell me what I may not realize about myself. Identify my likely blind spots, strengths I underestimate, weaknesses I overlook, and patterns other people might notice before I do. Separate facts from your interpretations and explain what led you to each conclusion." 
+
+5. UNBIASED DECISION PROMPT
+Prompt:
+"I need to choose between [option A] and [option B]. My priorities are [priorities], and my limitations are [limitations]. Do not agree with my preferred choice automatically. Compare both options, show what each could cost me, and choose the one you would recommend to someone you had no emotional attachment to." 
+
+6. PREDICT ME 6 MONTHS FROM NOW
+Prompt:
+"Using my past behavior, goals, interests, decisions, and recurring patterns, predict what my life is most likely to look like 6 months from now if I continue behaving the same way. Tell me what I’ll probably be focused on, what I’m likely to change, what I may abandon, and what could surprise me. Give each prediction a confidence percentage."
 
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
-
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 
 
 
