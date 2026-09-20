@@ -1,0 +1,370 @@
+
+-------------------------------------------------
+
+##Thinking helpers 1
+1. THE "BRAIN DUMP TO STRATEGY" PROMPT
+I’m overwhelmed. Here’s everything in my head about [GOAL/PROJECT]: [BRAIN DUMP].
+Act as my CEO coach. Organize this mess into a 90-day plan. Tell me what to do first, what to delete, and what 20% will get 80% of results.
+
+2. THE "WRITE LIKE ME" PROMPT
+Analyze my writing style from these 3 examples: [PASTE 3 POSTS/EMAILS].
+Now write a [post/email/thread] about [TOPIC] in my exact voice. Match my tone, sentence length, and word choices.
+
+3. THE "DEBATE ME" PROMPT
+I believe [YOUR OPINION].
+Take the opposite side and destroy my argument. Find every flaw and blind spot.
+Then help me strengthen my original argument so it’s bulletproof.
+
+4. THE "UPLOAD + EXECUTIVE SUMMARY" PROMPT
+Read this document: [UPLOAD PDF/BOOK/TRANSCRIPT].
+Give me: 1. 3-sentence summary 2. 10 key takeaways 3. 5 action steps 4. The 1 quote I should remember.
+Make it so I never have to read the full thing.
+
+5. THE "PRODUCT LAUNCH IN 1 HOUR" PROMPT
+I want to sell [PRODUCT/IDEA] to [AUDIENCE].
+Create: Product name, offer, pricing, sales page copy, 5 tweets, and 3 email pitches.
+Everything should be ready to copy-paste today.
+
+6. THE "CODE WITHOUT CODING" PROMPT
+I don’t know how to code. Build me a [website/app/tool] that does [FUNCTION].
+Give me the full code + step-by-step instructions to deploy it for free. Explain it like I’m 12.
+
+7. THE "HARD CONVERSATION SIMULATOR" PROMPT
+I need to tell [PERSON] that [DIFFICULT MESSAGE].
+Roleplay as them. Be difficult, emotional, and ask tough questions.
+Then coach me on the exact words to say so it goes well.
+
+8. THE "RESEARCHER ON STEROIDS" PROMPT
+Research [TOPIC] like a PhD student.
+Find: Key data, expert opinions, controversies, and what nobody is talking about.
+Cite sources and give me a 1-page brief I can use to sound smart.
+
+9. THE "TURN PAIN INTO CONTENT" PROMPT
+I’m struggling with [PROBLEM].
+Turn this struggle into 20 viral content ideas. Mix of stories, lessons, frameworks, and hot takes.
+Write 3 of them in full so I can post today.
+
+10. THE "SECOND BRAIN" PROMPT
+From now on, you are my second brain.
+Remember this about me: [GOALS, SKILLS, VALUES, TARGET AUDIENCE].
+Whenever I ask for help, use this context and challenge me to think bigger.
+
+-------------------------------------------------
+## Brainstorm ideas for 10x creativity
+
+1. THE "BAD IDEAS FIRST" PROMPT
+Give me 20 terrible ideas for [YOUR GOAL/NICHE]. The worse, the better.
+Then take the 3 worst ones and flip them into brilliant ideas that could actually work.
+
+2. THE "ANGLE MULTIPLIER" PROMPT
+My topic is [TOPIC].
+List 15 completely different angles to talk about it that nobody is using.
+Angles like: contrarian, beginner, expert, mistake-based, money-saving, time-saving, controversial.
+
+3. THE "COMBINE 2 WORLDS" PROMPT
+Combine [INDUSTRY 1] + [INDUSTRY 2] and give me 10 business/product/content ideas.
+Example: Fitness + AI, Cooking + Finance, Parenting + Tech
+Make them so unique they don’t exist yet.
+
+4. THE "CUSTOMER PAIN BRAINSTORM" PROMPT
+Act as my target customer: [DESCRIBE CUSTOMER].
+List 30 problems you have that you’d pay to solve today.
+Then turn each problem into a product, service, or content idea.
+
+5. THE "STEAL LIKE AN ARTIST" PROMPT
+Here are 3 successful businesses in [NICHE]: [LIST 3].
+Don’t copy them. Deconstruct what makes them work and give me 10 new ideas inspired by their model but for a different audience.
+
+6. THE "WHAT IF" PROMPT
+What if [IMPOSSIBLE THING] was possible in [NICHE]?
+Give me 10 ideas assuming money, time, and skills are not a problem.
+Then scale the 3 best ones down to something I can launch this week.
+
+7. THE "CONTENT INFINITE ENGINE" PROMPT
+My niche is [NICHE]. Give me 100 content ideas broken into:
+10 mistakes, 10 myths, 10 tips, 10 tools, 10 case studies, 10 questions, 10 stories, 10 predictions, 10 how-tos, 10 resources.
+Make them specific, not generic.
+-------------------------------------------------
+##10 power user prompts
+
+1. "Before answering, ask me the key questions you need to fully understand my goal."
+→ Better input.
+
+2. "Think through this with me step-by-step. Challenge assumptions and refine my thinking: [problem]."
+→ Think better.
+
+3. "Act as a strategist. Based on this situation: [context], what are the smartest next steps?"
+→ Clear direction.
+
+4. "Be brutally honest. What am I getting wrong or underestimating: [idea]?"
+→ Truth > comfort.
+
+5. "For this goal: [goal], what actions will create most of the results?"
+→ Focus wins.
+
+6. "Turn this into a simple, repeatable system I can follow: [process]."
+→ Execution unlocked.
+
+7. "What opportunities am I overlooking in this situation: [context]?"
+→ Hidden leverage.
+
+8. "Break this into options, trade-offs, and give a clear recommendation: [decision]."
+→ Decide smarter.
+
+9. "Improve this by making it clearer, sharper, and more effective: [output]."
+→ Good → great.
+
+10. "If I could only take one action to move this forward, what would it be: [goal]?"
+
+-------------------------------------------------
+## 20 prompts to use ChatGPT as a critical thinking partner
+
+1. The Foundation Rebuild
+
+    Description: Break any complex problem down to its rawest parts, then build a brand new solution from scratch.
+
+    Prompt: 'Act as a first principles analyst on [Your Problem]. Deconstruct it into its most fundamental truths. Rebuild a completely new strategy from these basics.'
+
+2. The Hidden Assumptions Detector
+
+    Description: Every decision is built on assumptions you never questioned.
+
+    Prompt: 'List every assumption I'm making about [Your Topic]. Explain how to test if each is true or false, ranked by risk.'
+
+3. The Five Whys Excavator
+
+    Description: Keep asking 'why' until you hit the real root of a belief.
+
+    Prompt: 'Act as a Socratic mentor. My belief is [Your Belief]. Ask me five consecutive why questions that force me to uncover the root truth.'
+
+4. The Opposition Amplifier
+
+    Description: Build the smartest case against your own opinion to strengthen it.
+
+    Prompt: 'My position is [Your Position]. Build the strongest argument AGAINST it, then help me revise my view to address these objections.'
+
+5. The Idea Demolition Test
+
+    Description: Try to destroy your own idea before you spend months building it.
+
+    Prompt: 'Imagine you're my biggest critic. Stress test my idea for [Your Goal]. Prove it's completely wrong — list every flaw or missing evidence.'
+
+6. The Alternate Timeline Analyzer
+
+    Description: Rewind a past event and find the smallest change that would've flipped the outcome.
+
+    Prompt: 'Analyze [Event/Outcome]. Describe the minimal changes that would've reversed it, and what lessons that reveals.'
+
+7. The Belief Updates Engine
+
+    Description: Learn to update your beliefs the moment new evidence shows up.
+
+    Prompt: "Act as a Bayesian reasoner. My belief about [Topic] is [Belief]. New evidence is [Evidence]. Show how my belief should logically update."
+
+8. The Mental Blind Spot Scanner
+
+    Description: Find the emotional traps and logic errors hiding inside your own reasoning.
+
+    Prompt: "Act as a cognitive bias auditor. Review my argument on [Subject]. Label each bias found and suggest a rational correction."
+
+9. The Triple Framework Fusion
+
+    Description: Look at one problem through three lenses, then combine the best of all three.
+
+    Prompt: 'Compare a cost-benefit analysis, systems thinking, and ethical reasoning for [Your Problem]. Synthesize the insights.'
+
+10. The Guaranteed Failure Blueprint
+
+    Description: Plan exactly how you'd lose, then avoid every step.
+
+    Prompt: 'My objective is [Objective]. How could we guarantee this fails? List 5 destructive behaviors, then invert each into a rule for success.'
+
+11. The Vague Goal Sharpener
+
+    Description: Turn a fuzzy wish into a sharp, measurable target.
+
+    Prompt: 'Take my vague goal: [Goal]. Rewrite it into a clear, measurable, falsifiable problem statement with defined success metrics.'
+
+12. The Future Failure Autopsy
+
+    Description: Pretend your project already failed a year from now, then find out why before it happens.
+
+    Prompt: 'Assume [Project] fails in 12 months. Identify 10 failure modes, warning signals, and mitigation tactics.'
+
+13. The Root Cause Web
+
+    Description: Map every hidden connection between a problem and what's causing it.
+
+    Prompt: 'Create a cause-and-effect map for [Situation]. Identify root causes, feedback loops, and leverage points.'
+
+14. The Proof Strength Ranker
+
+    Description: Rank what's backing your belief from solid science to weak anecdotes.
+
+    Prompt: 'My claim is [Claim]. List all supporting evidence, rank by strength, and explain what would raise my confidence.'
+
+15. The Moral Risk Radar
+
+    Description: Scan any big decision for hidden ethical landmines before they blow up.
+
+    Prompt: 'Analyze my decision [Decision]. Identify stakeholders, harms, and value conflicts, and suggest go/no-go thresholds.'
+
+16. The Five Experts Roundtable
+
+    Description: Get five different professional perspectives on the same challenge.
+
+    Prompt: 'Evaluate [Challenge] from an economist, engineer, psychologist, ethicist, and operator. Merge insights into one plan.'
+
+17. The Devil's Advocate Lens
+
+    Description: Deliberately argue against yourself to find where you might be wrong.
+
+    Prompt: 'Act as an intelligent contrarian. My perspective on [Topic] is [Perspective]. Critique it from the opposite angle.'
+
+18. The Vision to Action Ladder
+
+    Description: Turn a big dream into concrete, doable steps across five levels.
+
+    Prompt: 'Take my concept [Idea]. Translate it across Vision, Strategy, Process, Behavior, and a concrete Example.'
+
+19. The Two Sided Truth Finder
+
+    Description: Argue both sides of a debate fully, then find what stays true no matter who wins.
+
+    Prompt: 'Present the best argument FOR and AGAINST [Belief]. Identify what core truth remains valid from both sides.'
+
+20. The Thinking About Thinking Mirror
+
+    Description: Review your reasoning and catch the question you're too scared to ask.
+
+    Prompt: 'Review my reasoning about [Situation]. What critical question am I not asking? How could it change my conclusion?'
+-------------------------------------------------
+##  20 secret prompts that turn ChatGPT into a critical thinking partner
+
+1. The Foundation Rebuild
+
+    Description: Break any complex problem down to its rawest parts, then build a brand new solution from scratch.
+
+    Prompt: 'Act as a first principles analyst on [Your Problem]. Deconstruct it into its most fundamental truths. Rebuild a completely new strategy from these basics.'
+
+2. The Hidden Assumptions Detector
+
+    Description: Every decision is built on assumptions you never questioned.
+
+    Prompt: 'List every assumption I'm making about [Your Topic]. Explain how to test if each is true or false, ranked by risk.'
+
+3. The Five Whys Excavator
+
+    Description: Keep asking 'why' until you hit the real root of a belief.
+
+    Prompt: 'Act as a Socratic mentor. My belief is [Your Belief]. Ask me five consecutive why questions that force me to uncover the root truth.'
+
+4. The Opposition Amplifier
+
+    Description: Build the smartest case against your own opinion to strengthen it.
+
+    Prompt: 'My position is [Your Position]. Build the strongest argument AGAINST it, then help me revise my view to address these objections.'
+
+5. The Idea Demolition Test
+
+    Description: Try to destroy your own idea before you spend months building it.
+
+    Prompt: 'Imagine you're my biggest critic. Stress test my idea for [Your Goal]. Prove it's completely wrong — list every flaw or missing evidence.'
+
+6. The Alternate Timeline Analyzer
+
+    Description: Rewind a past event and find the smallest change that would've flipped the outcome.
+
+    Prompt: 'Analyze [Event/Outcome]. Describe the minimal changes that would've reversed it, and what lessons that reveals.'
+
+7. The Belief Update Engine
+
+    Description: Learn to update your beliefs the moment new evidence shows up.
+
+    Prompt: "Act as a Bayesian reasoner. My belief about [Topic] is [Belief]. New evidence is [Evidence]. Show how my belief should logically update."
+
+8. The Mental Blind Spot Scanner
+
+    Description: Find the emotional traps and logic errors hiding inside your own reasoning.
+
+    Prompt: "Act as a cognitive bias auditor. Review my argument on [Subject]. Label each bias found and suggest a rational correction."
+
+9. The Triple Framework Fusion
+
+    Description: Look at one problem through three lenses, then combine the best of all three.
+
+    Prompt: 'Compare a cost-benefit analysis, systems thinking, and ethical reasoning for [Your Problem]. Synthesize the insights.'
+
+10. The Guaranteed Failure Blueprint
+
+    Description: Plan exactly how you'd lose, then avoid every step.
+
+    Prompt: 'My objective is [Objective]. How could we guarantee this fails? List 5 destructive behaviors, then invert each into a rule for success.'
+
+11. The Vague Goal Sharpener
+
+    Description: Turn a fuzzy wish into a sharp, measurable target.
+
+    Prompt: 'Take my vague goal: [Goal]. Rewrite it into a clear, measurable, falsifiable problem statement with defined success metrics.'
+
+12. The Future Failure Autopsy
+
+    Description: Pretend your project already failed a year from now, then find out why before it happens.
+
+    Prompt: 'Assume [Project] fails in 12 months. Identify 10 failure modes, warning signals, and mitigation tactics.'
+
+13. The Root Cause Web
+
+    Description: Map every hidden connection between a problem and what's causing it.
+
+    Prompt: 'Create a cause-and-effect map for [Situation]. Identify root causes, feedback loops, and leverage points.'
+
+14. The Proof Strength Ranker
+
+    Description: Rank what's backing your belief from solid science to weak anecdotes.
+
+    Prompt: 'My claim is [Claim]. List all supporting evidence, rank by strength, and explain what would raise my confidence.'
+
+15. The Moral Risk Radar
+
+    Description: Scan any big decision for hidden ethical landmines before they blow up.
+
+    Prompt: 'Analyze my decision [Decision]. Identify stakeholders, harms, and value conflicts, and suggest go/no-go thresholds.'
+
+16. The Five Experts Roundtable
+
+    Description: Get five different professional perspectives on the same challenge.
+
+    Prompt: 'Evaluate [Challenge] from an economist, engineer, psychologist, ethicist, and operator. Merge insights into one plan.'
+
+17. The Devil's Advocate Lens
+
+    Description: Deliberately argue against yourself to find where you might be wrong.
+
+    Prompt: 'Act as an intelligent contrarian. My perspective on [Topic] is [Perspective]. Critique it from the opposite angle.'
+
+18. The Vision to Action Ladder
+
+    Description: Turn a big dream into concrete, doable steps across five levels.
+
+    Prompt: 'Take my concept [Idea]. Translate it across Vision, Strategy, Process, Behavior, and a concrete Example.'
+
+19. The Two Sided Truth Finder
+
+    Description: Argue both sides of a debate fully, then find what stays true no matter who wins.
+
+    Prompt: 'Present the best argument FOR and AGAINST [Belief]. Identify what core truth remains valid from both sides.'
+
+20. The Thinking About Thinking Mirror
+
+    Description: Review your reasoning and catch the question you're too scared to ask.
+
+    Prompt: 'Review my reasoning about [Situation]. What critical question am I not asking? How could it change my conclusion?'
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
+
