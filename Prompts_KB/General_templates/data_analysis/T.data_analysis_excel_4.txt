@@ -1,0 +1,128 @@
+
+-------------------------------------------------
+##Analyse excel files like a senior data analyst
+
+1. UPLOAD THE EXCEL FILE
+Start by uploading your spreadsheet directly into Claude.
+Works best for:
+• Sales data
+• Financial reports
+• Marketing analytics
+• Inventory tracking
+• KPI dashboards
+• Business operations
+Claude will automatically understand the structure of your spreadsheet before you begin the analysis.
+
+2. ASK CLAUDE TO ANALYZE THE DATA
+PROMPT:
+"Analyze this spreadsheet like a senior business analyst. Explain what this data represents, identify key trends and anomalies, find missing values and possible mistakes, and highlight the most important high-level business insights."
+
+3. GENERATE EXCEL FORMULAS AUTOMATICALLY
+PROMPT:
+"Generate the exact Excel formulas needed for this dataset. Help me calculate growth rates, profit margins, forecasting, averages, lookups, and conditional logic. Explain each formula clearly and show where it should be used."
+Claude can generate VLOOKUP/XLOOKUP, INDEX MATCH, SUMIFS, IF statements, Pivot logic, and advanced calculations.
+
+4. CLEAN + FIX THE DATA
+PROMPT:
+"Act as a data-cleaning specialist. Identify duplicates, inconsistent formatting, missing values, broken formulas, outliers, and other data-quality issues in this spreadsheet. Then suggest the appropriate corrections."
+
+5. ASK FOR BUSINESS INSIGHTS
+PROMPT:
+"Act as a senior strategy consultant analyzing this spreadsheet. Identify the top opportunities, biggest risks, hidden trends, customer behavior patterns, revenue drivers, and specific recommendations for growth."
+
+6. GENERATE CHARTS + DASHBOARD IDEAS
+PROMPT:
+"Suggest the best charts and dashboard layout for this dataset. For each recommendation, explain why it matters, what insight it reveals, the ideal chart type, and the key takeaway an executive should understand."
+
+
+7. BUILD AUTOMATION WORKFLOWS
+PROMPT:
+"Design an automated reporting workflow using this spreadsheet. Include recurring reports, KPI tracking, alerts, summaries, dashboard structure, and practical automation recommendations that can turn this spreadsheet into an efficient reporting system."
+
+8. EXECUTIVE SUMMARY MODE
+PROMPT:
+"Summarize this spreadsheet as if you were presenting it to executives. Keep it concise, strategic, and data-driven. Focus on the most important decisions, risks, opportunities, trends, and recommended actions."
+
+-------------------------------------------------
+## 8 Claude Prompts to Analyze Excel Files Like a Data Analyst👇👇👇
+
+1. UNDERSTAND THE DATA
+PROMPT:
+"Analyze this spreadsheet like a senior business analyst. Explain what the data represents, identify the key trends and anomalies, detect missing values or possible errors, and highlight the most important business insights. Focus on patterns that could influence decisions."
+
+2. GENERATE EXCEL FORMULAS
+PROMPT:
+"Generate the exact Excel formulas needed for this dataset. Help me calculate growth rates, profit margins, averages, forecasts, lookups, and conditional logic. Choose the most appropriate Excel functions and briefly explain how each formula works."
+
+3. CLEAN AND FIX THE DATA
+PROMPT:
+"Act as a data-cleaning specialist. Examine this spreadsheet for duplicates, inconsistent formatting, missing values, broken formulas, outliers, and other data-quality issues. Identify each problem, explain why it matters, and recommend the appropriate correction."
+
+4. FIND BUSINESS INSIGHTS
+PROMPT:
+"Act as a senior strategy consultant analyzing this spreadsheet. Identify the biggest opportunities, risks, hidden trends, customer behavior patterns, and revenue drivers. Then provide practical, data-backed recommendations for improving business performance and growth."
+
+5. CREATE CHART AND DASHBOARD IDEAS
+PROMPT:
+"Review this dataset and recommend the most useful charts and dashboard layout. For each recommendation, explain why it matters, what insight it reveals, the ideal chart type, and the key takeaway an executive should understand."
+
+6. BUILD AN AUTOMATION WORKFLOW
+PROMPT:
+"Design an automated reporting workflow using this spreadsheet. Include recurring reports, KPI tracking, alerts, automated summaries, dashboard structure, and practical automation opportunities. Explain how the workflow can reduce repetitive manual work."
+
+7. CREATE AN EXECUTIVE SUMMARY
+PROMPT:
+"Summarize this spreadsheet as if you were presenting the findings to senior executives. Keep the summary concise, strategic, data-driven, and easy to understand. Focus on the most important findings, decisions, risks, opportunities, and recommended actions."
+
+8. PERFORM A FULL DATA REVIEW
+PROMPT:
+"Perform a comprehensive review of this spreadsheet. Validate the data quality, identify important trends, anomalies, relationships, and performance patterns, explain the most significant business insights, and finish with clear, prioritized recommendations based on the data."
+
+-------------------------------------------------
+## Analyze Excel Files Like a Data Analyst With These 8 Claude Prompts👇👇👇
+
+1. Understand My Dataset
+Prompt:
+I’m uploading an Excel file. Act like a professional data analyst and first analyze the structure of this dataset. Identify the columns, data types, number of rows, missing values, duplicates, unusual entries, and any potential data-quality issues. Explain what this dataset appears to contain and suggest 5–10 useful analyses I could perform with it.
+
+2. Clean My Excel Data
+Prompt:
+Analyze this Excel file and create a data-cleaning plan. Identify missing values, duplicate records, inconsistent formatting, spelling variations, incorrect data types, outliers, and other errors. Explain exactly what should be cleaned and why. Do not change any values without first explaining the issue and recommended correction.
+
+3. Find the Key Trends
+Prompt:
+Analyze this Excel dataset and identify the most important trends and patterns. Compare the relevant categories, dates, products, customers, or other variables. Highlight significant increases, decreases, unusual changes, and recurring patterns. Present the findings in simple language and explain what each trend could mean for the business.
+
+4. Find My Best & Worst Performers
+Prompt:
+Using the Excel file, identify the top 10 and bottom 10 performers based on the most relevant performance metric. Rank them and explain why they performed well or poorly. Look for patterns that separate the high performers from the low performers and provide actionable recommendations based on your findings.
+
+5. Find Hidden Insights
+Prompt:
+Act like a senior data analyst and look beyond the obvious numbers in this Excel file. Identify at least 10 interesting or unexpected insights, correlations, anomalies, or relationships in the data. For each insight, explain the evidence behind it, why it matters, and what action I should consider taking.
+
+6. Create an Executive Report
+Prompt:
+Turn this Excel dataset into a concise executive-level data report. Include:
+1. Executive summary
+2. Key KPIs
+3. Major trends
+4. Top and bottom performers
+5. Important anomalies
+6. Key business insights
+7. Recommended actions
+8. Questions that require further investigation.
+Keep the language clear enough for a non-technical manager to understand.
+
+7. Tell Me Which Charts to Create
+Prompt:
+Analyze this Excel dataset and recommend the best charts or visualizations for presenting the most important insights. For each recommendation, tell me which columns to use, what type of chart to create, what question it answers, and what insight I should look for. Prioritize charts that would be useful in a professional business presentation or dashboard.
+
+8. Turn the Data Into Action
+Prompt:
+Based on your analysis of this Excel file, identify the 5 most important actions a business should take. Rank them by potential impact and explain the data supporting each recommendation. Separate the findings into: What the data says → Why it matters → What we should do next. Also identify any assumptions or limitations that could affect your recommendations.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
