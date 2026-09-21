@@ -1,0 +1,70 @@
+
+-------------------------------------------------
+Here's my Ultimate Types of Data Analysis Cheatsheet:
+There are 10 different types and knowing which one to use for which business problem is what separates a junior analyst from a senior one.
+
+Descriptive Analytics
+-- What happened?
+-- Summarizes past data to track performance and trends
+-- Used in dashboards, reports, KPIs
+
+Diagnostic Analytics
+-- Why did it happen?
+-- Identifies root causes behind trends or issues
+-- Drill down, segment data, find correlations
+
+Predictive Analytics
+-- What will happen?
+-- Forecasts outcomes using data and models
+-- Train models, evaluate, predict
+
+Prescriptive Analytics
+-- What should we do?
+-- Recommends actions using predictions and optimization
+-- Guides decision-making
+
+Exploratory Data Analysis (EDA)
+-- What patterns exist?
+-- Finds patterns, anomalies, and insights
+-- Prepares data for analysis
+
+Inferential Analytics
+-- Can we generalize this?
+-- Applies findings to larger populations
+-- Uses hypothesis testing
+
+Real-Time Analytics
+-- What’s happening now?
+-- Analyzes live data for instant decisions
+-- Triggers alerts and dashboards
+
+Qualitative Analytics
+-- What do people think?
+-- Analyzes text, feedback, and opinions
+-- Finds themes and sentiment
+
+Quantitative Analytics
+-- What do numbers say?
+-- Analyzes numerical data and metrics
+-- Uses statistical methods
+
+Causal Analytics
+-- Does X cause Y?
+-- Identifies cause-effect relationships
+-- Uses experiments and validation
+
+Here is what I see most analysts get wrong:
+They jump straight to Predictive or Prescriptive analytics before they have mastered Descriptive and Diagnostic.
+You cannot forecast what will happen if you do not first understand what already happened and why.
+
+Start with Descriptive. Master Diagnostic. Then move up.
+The analysts who get promoted are not the ones who built the most complex models.
+They are the ones who picked the right type of analysis for the right business question — every single time.
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
