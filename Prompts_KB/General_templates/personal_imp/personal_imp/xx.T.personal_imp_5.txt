@@ -76,6 +76,34 @@ Then, recommend the most rational option
 
 
 -------------------------------------------------
+## Save 20 Hours a Week. Use these 8 prompts instead 👇
+
+1/ HOOK TOOL
+Act as an elite content strategist. I’m creating content about [TOPIC] for [AUDIENCE]. Generate 20 hooks that create curiosity without clickbait. Mix contrarian takes, mistakes, surprising facts, open loops and specific outcomes. Keep each under 12 words. Pick the strongest 5 and explain why they work.
+
+2/ CEO PRIORITY TOOL
+Here’s everything on my plate: [PASTE]. Act as my chief of staff. Rank everything by revenue impact, urgency and strategic importance. Tell me what to DO, DELEGATE, AUTOMATE or DELETE. Give me the 3 tasks that deserve my attention today.
+
+3/ INBOX TOOL
+Here’s an email/thread: [PASTE]. Tell me what they actually want, what decision I need to make and anything I might be missing. Then write the shortest useful response in my tone. No corporate filler.
+
+4/ MEETING TOOL
+Here’s my meeting transcript: [PASTE]. Extract decisions, commitments, unresolved questions, action items, owners and deadlines. Draft every follow-up message I need to send. Flag anything with no clear owner.
+
+5/ RESEARCH TOOL
+I need to understand [TOPIC] to make this decision: [DECISION]. Research it like an analyst. Separate facts from assumptions, compare my options, identify risks and opportunities, and show me what information would change the decision. Finish with a one-page decision brief.
+
+6/ AUTOMATION TOOL
+I repeatedly do this task: [DESCRIBE WORKFLOW]. Map every step from trigger to completion. Label each KEEP, AUTOMATE, DELEGATE or REMOVE. Then design the simplest AI automation, including tools, triggers, actions, human approvals and exceptions.
+
+7/ WRITING TOOL
+Here are my messy thoughts: [PASTE]. Turn them into a clear [EMAIL/POST/PROPOSAL]. Preserve my opinions and natural voice. Remove repetition, jargon and filler. Make every sentence earn its place. Give me the finished version first.
+
+8/ WEEK-BACK TOOL
+Audit how I spend a normal week: [PASTE TASKS + HOURS]. Find where I’m losing time through repetition, unnecessary meetings, context switching and manual work. Build a new weekly system designed to save me 20 hours. Show exactly where each saved hour comes from.
+
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
