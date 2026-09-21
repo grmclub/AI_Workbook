@@ -63,7 +63,199 @@ Prompt:
 "Act as a data-driven research workflow auditor. Evaluate my 20-minute research sprint using [RESEARCH METRICS]. Diagnose instruction-design flaws, formatting inefficiencies, delimiter inconsistencies, unnecessary processing, context bottlenecks, and information-extraction failures limiting performance. Identify exactly what is slowing research or reducing quality, then recommend precise, prioritized optimizations to improve speed, accuracy, evidence quality, information density, and synthesis without sacrificing rigor."
 
 -------------------------------------------------
--------------------------------------------------
--------------------------------------------------
+## 5 high-impact prompts to break down research, condense dense PDFs 👇
 
+1. Source Fusion + Key Takeaways
+"Review every source uploaded in this notebook. Summarize the top 5 core insights, main arguments, and recurring themes into a clear, well-structured executive summary."
+
+2. Deep-Dive Research Gap Audit
+"Examine the research documents provided. Spot missing angles, reasoning gaps, or unanswered questions in the current material, and recommend 3 areas worth exploring next."
+
+3. Action Framework + Checklist Builder
+"Convert the ideas explained across these notes and sources into a step-by-step implementation framework and a simple execution checklist for [INSERT TOPIC/GOAL]."
+
+4. Content + Script Generator
+"Pull the most compelling stats, quotes, and ideas from these sources. Use them to write a high-retention 5-minute video script / thread about [INSERT TOPIC]."
+
+5. Smart FAQ + Study Guide Designer
+"Create a comprehensive FAQ based strictly on the uploaded materials, answering the 10 most important questions a reader or student would ask about this subject."
+
+-------------------------------------------------
+## MASTER AI RESEARCH PROMPT:
+(Copy, paste, and complete each step before moving to the next.)
+
+=========================================
+STEP 1: UNDERSTAND THE RESEARCH TOPIC
+=========================================
+Act as a university research consultant. My research topic is:
+"[Insert your research topic]"
+Perform the following:
+1. Explain the topic in simple language.
+2. Define the key concepts.
+3. Identify the dependent and independent variables (if applicable).
+4. Suggest the best theoretical perspective.
+5. Identify possible research objectives.
+6. Suggest five possible research questions.
+=========================================
+STEP 2: WRITE THE INTRODUCTION
+=========================================
+Using my research topic:
+"[Insert topic]"
+Write a well-structured academic introduction that includes:
+• Background of the study
+• Global perspective
+• African perspective
+• South African (or country-specific) perspective
+• Current statistics
+• Importance of the study
+• Transition into the research problem
+Use recent peer-reviewed references (2020–2026).
+=========================================
+STEP 3: FIND THE RESEARCH PROBLEM
+=========================================
+Based on the topic:
+"[Insert topic]"
+Help me identify the research problem by:
+1. Explaining the current situation.
+2. Identifying what is going wrong.
+3. Showing evidence from recent studies.
+4. Explaining why the problem still exists.
+5. Identifying who is affected.
+6. Explaining why the problem deserves research.
+Write a clear academic problem statement.
+=========================================
+STEP 4: IDENTIFY THE RESEARCH GAP
+=========================================
+Search recent peer-reviewed literature (2020–2026) and identify:
+• Knowledge gaps
+• Methodological gaps
+• Contextual gaps
+• Geographical gaps
+• Population gaps
+• Theoretical gaps
+For each gap:
+• Explain it.
+• Cite supporting studies.
+• Explain how my study will address it.
+=========================================
+STEP 5: DEVELOP THE LITERATURE REVIEW
+=========================================
+Write a critical literature review by:
+• Organising literature into themes.
+• Comparing authors.
+• Identifying agreements.
+• Identifying disagreements.
+• Identifying trends.
+• Highlighting strengths and weaknesses.
+• Linking each section to my research topic.
+Avoid simple summaries.
+=========================================
+STEP 6: IDENTIFY THEORETICAL FRAMEWORK
+=========================================
+Suggest three theories suitable for my study.
+For each theory:
+• Founder
+• Main assumptions
+• Strengths
+• Weaknesses
+• Why it fits my study
+Recommend the best theory.
+=========================================
+STEP 7: DEVELOP THE CONCEPTUAL FRAMEWORK
+=========================================
+Using my variables:
+• Explain the relationship between variables.
+• Describe the conceptual framework.
+• Suggest a diagram.
+• Explain each relationship.
+=========================================
+STEP 8: WRITE THE RESEARCH METHODOLOGY
+=========================================
+Develop Chapter 3 by explaining:
+• Research philosophy
+• Research approach
+• Research design
+• Study area
+• Target population
+• Sampling method
+• Sample size determination
+• Data collection instruments
+• Pilot study
+• Reliability
+• Validity
+• Data collection procedures
+• Ethical considerations
+• Data analysis techniques
+Justify every choice using recent references.
+=========================================
+STEP 9: DEVELOP THE QUESTIONNAIRE
+=========================================
+Using my objectives:
+Create a professional questionnaire containing:
+• Demographics
+• Sections linked to objectives
+• 5-point Likert scale questions
+• Open-ended questions (if necessary)
+=========================================
+STEP 10: DATA ANALYSIS PLAN
+=========================================
+Recommend the appropriate statistical analysis.
+Explain why each should be used.
+Possible analyses include:
+• Descriptive statistics
+• Correlation
+• Regression
+• ANOVA
+• Chi-square
+• Factor Analysis
+• Reliability Analysis
+• Logistic Regression
+• Panel Data Models
+• ARDL
+• VAR
+• VECM
+• SEM
+Explain assumptions and interpretation.
+=========================================
+STEP 11: DISCUSSION OF RESULTS
+=========================================
+Using my results:
+• Interpret every table.
+• Compare findings with previous studies.
+• Explain agreements and contradictions.
+• Discuss theoretical implications.
+• Discuss practical implications.
+=========================================
+STEP 12: CONCLUSION & RECOMMENDATIONS
+=========================================
+Write:
+• Summary of findings
+• Conclusions
+• Practical recommendations
+• Policy recommendations
+• Recommendations for future research
+• Study limitations
+=========================================
+FINAL QUALITY CHECK
+=========================================
+Review the entire dissertation and identify:
+• Weak arguments
+• Missing citations
+• Logical inconsistencies
+• Plagiarism risks
+• AI-generated writing patterns
+• Grammar issues
+• Referencing errors
+Provide detailed recommendations to improve the dissertation to publication standard.
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 
