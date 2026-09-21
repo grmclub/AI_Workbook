@@ -97,6 +97,42 @@ Prompt:
 "Create a complete presentation on [TOPIC] from the sources in this notebook. For each slide, provide the slide content followed by concise speaker notes explaining what to say. Make the notes natural, informative, and aligned with the key message of each slide."
 
 -------------------------------------------------
+## Use these 9 powerful prompts to create professional presentations in minutes. 👇🏻
+
+1. COMPLETE PRESENTATION
+Act as a senior presentation strategist. Create a professional [NUMBER]-slide presentation about [TOPIC] for [AUDIENCE]. The goal is to [INFORM / PERSUADE / SELL / TEACH]. Build a compelling story from problem to solution, with one clear message per slide. For each slide, provide the title, concise content, visual recommendation, and speaker notes. Do not invent facts; mark missing information as [DATA NEEDED].
+
+2. ROUGH NOTES → POLISHED SLIDES
+Turn the notes below into a polished [NUMBER]-slide presentation for [AUDIENCE]. Organize the ideas into a logical narrative, remove repetition, simplify complex language, and prioritize the most valuable insights. Keep each slide focused on one headline with 3–5 concise points.
+Notes: [PASTE NOTES]
+
+3. PERSUASIVE PITCH DECK
+Create a compelling [NUMBER]-slide pitch deck for [PRODUCT / BUSINESS / IDEA] aimed at [INVESTORS / CLIENTS / PARTNERS]. The desired action is [ACTION]. Build the narrative around the problem, solution, key benefits, proof, and a strong final CTA. Flag claims that require evidence instead of inventing statistics or numbers.
+
+4. DOCUMENT → PRESENTATION
+Transform the document below into a professional presentation designed to be delivered in [TIME] minutes. Identify the core message and keep only the information most relevant to [AUDIENCE]. Create a slide-by-slide structure with strong titles, key points, and visual recommendations. Preserve important facts and clearly flag anything uncertain.
+Document: [PASTE CONTENT]
+
+5. DATA-DRIVEN PRESENTATION
+Turn the data below into an executive-level presentation. Explain what changed, why it matters, potential causes, key risks, and recommended actions. For every slide, provide a takeaway headline, the exact data to display, and the most appropriate chart type. Never claim causation unless the data supports it.
+Data: [PASTE DATA]
+
+6. MEMORABLE VISUAL STORY
+Transform [TOPIC] into a visually compelling [NUMBER]-slide story for [AUDIENCE]. Follow this narrative: current situation → key challenge → important discovery → proposed solution → future outcome. Keep on-slide text minimal and recommend one meaningful visual for each slide.
+
+7. TRAINING PRESENTATION
+Create a [NUMBER]-slide training presentation that teaches [SKILL / TOPIC] to [BEGINNER / INTERMEDIATE] learners. By the end, they should be able to [LEARNING OUTCOME]. Include clear explanations, a step-by-step process, a realistic example, common mistakes, and a short knowledge check.
+
+
+8. IMPROVE AN EXISTING DECK
+Act as a senior presentation strategist. Review the presentation below for [AUDIENCE] and [PURPOSE]. Identify weak structure, vague headlines, excessive text, and unsupported claims. Then rebuild it slide by slide with sharper titles, clearer content, stronger flow, and a more impactful conclusion.
+Existing presentation: [PASTE SLIDES]
+
+
+9. FINAL PRESENTATION AUDIT
+Act as a senior presentation strategist and audit the deck below before I present it to [AUDIENCE]. Evaluate its clarity, flow, credibility, and persuasiveness. Identify the five highest-impact improvements, then rewrite the weakest slides with stronger messaging and structure.
+Deck: [PASTE SLIDES]
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
