@@ -134,6 +134,36 @@ Act as a senior presentation strategist and audit the deck below before I presen
 Deck: [PASTE SLIDES]
 
 -------------------------------------------------
+🚨 ChatGPT Can Now Create Professional Presentations in Just Minutes. 7 Prompts Worth Saving 👇
+
+1. Educational / Teaching Presentation
+Prompt:
+"Create a professional educational presentation on [topic] for [target learners]. Create approximately [number] slides with clear learning objectives, a logical progression of ideas, concise explanations, relevant examples, and opportunities to check understanding. Keep each slide focused on one main idea and avoid overcrowding it with text. Use high-quality visuals, diagrams, or illustrations when they support understanding. Maintain consistent typography, colors, spacing, and layouts throughout. End with a summary of the key learning points and a short review activity."
+
+2. Informative Presentation
+Prompt:
+"Create a professional informative presentation on [topic] for [target audience]. Create approximately [number] slides that communicate the most important facts, ideas, and supporting details in a clear, logical sequence. Keep each slide focused on one main idea and use concise, easy-to-understand text. Include relevant examples, statistics, charts, diagrams, or high-quality visuals where they improve understanding. Maintain consistent typography, colors, spacing, and layouts throughout. End with a concise summary of the key takeaways."
+
+3. Persuasive Presentation
+Prompt:
+"Create a professional persuasive presentation on [topic] for [target audience]. Create approximately [number] slides that present a clear position, develop strong supporting arguments, and use credible evidence, examples, statistics, or data where appropriate. Organize the presentation in a logical and compelling sequence, address relevant counterarguments, and keep each slide focused on one main idea. Use concise text, high-quality visuals, charts, or diagrams to strengthen the message. Maintain consistent typography, colors, spacing, and layouts throughout. End with a strong conclusion and a clear call to action."
+
+4. Research / Academic Presentation
+Prompt:
+"Create a professional academic presentation on [research topic] for [target audience]. Create approximately [number] slides that clearly present the research background, problem, objectives or research questions, methodology, key findings, discussion, implications, and conclusion. Organize the content in a logical academic sequence and keep each slide focused on one main idea. Use concise text, relevant evidence, and clear charts, graphs, tables, or diagrams where they improve understanding. Maintain consistent typography, colors, spacing, and layouts throughout. End with the key takeaways and appropriate references."
+
+5. Business / Professional Presentation
+Prompt:
+"Create a professional business presentation on [topic] for [target audience]. Create approximately [number] slides that clearly communicate the key objectives, insights, strategies, plans, results, or recommendations. Organize the content in a logical, decision-focused sequence and keep each slide focused on one main idea. Use concise text, relevant data, and clear charts, graphs, diagrams, or high-quality visuals where they strengthen the message. Maintain consistent typography, colors, spacing, and layouts throughout. End with the key takeaways, recommendations, and next steps."
+
+6. Pitch Presentation
+Prompt:
+"Create a professional pitch presentation for [idea, product, project, startup, or proposal] aimed at [target audience]. Create approximately [number] slides that clearly present the problem or opportunity, proposed solution, key benefits, supporting evidence, competitive advantage, and expected impact. Organize the content into a compelling narrative and keep each slide focused on one main idea. Use concise text, persuasive data, and high-quality visuals, charts, or diagrams where they strengthen the pitch. Maintain consistent typography, colors, spacing, and layouts throughout. End with a clear value proposition and a strong call to action."
+
+7. Training / How-To Presentation
+Prompt:
+"Create a professional training presentation on [topic, process, or skill] for [target audience]. Create approximately [number] slides that break the training into clear, easy-to-follow steps. Include learning objectives, concise explanations, practical examples, demonstrations, and opportunities for guided practice. Keep each slide focused on one main idea and use high-quality visuals, diagrams, screenshots, or process illustrations where they improve understanding. Maintain consistent typography, colors, spacing, and layouts throughout. End with a summary of the key steps, a short practice task, and clear next steps."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
