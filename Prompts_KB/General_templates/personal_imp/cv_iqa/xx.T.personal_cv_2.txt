@@ -32,6 +32,183 @@
 10. Create My Complete Job Application Pack
 "Analyze my CV for this target job and create a complete application package: an improved professional summary, tailored CV bullet points, a short cover letter, a LinkedIn headline, a LinkedIn About section, and a concise recruiter outreach message. Keep everything specific, natural, and truthful. Target job: [PASTE JOB DESCRIPTION] CV: [PASTE CV]"
 -------------------------------------------------
+##If I lost my job tomorrow and had 12 months to replace my income, here’s exactly where I’d start:💨
+1. Open Claude.
+2. Run this prompts: 👇🏻
+
+
+1. REPLACE MY SALARY IN 12 MONTHS
+My goal is to replace my previous income within the next 12 months.
+Previous salary: [$amount]
+Monthly expenses: [$amount]
+Savings: [$amount]
+Skills: [list skills]
+Experience: [job/industry]
+Available time per week: [hours]
+Preferred path: [job/freelance/business/side hustle]
+Create a realistic 12-month plan with:
+1. The 3 best income paths for my situation
+2. A detailed first-30-day action plan
+3. The fastest realistic way to earn my first $1,000
+4. Skills and tools I should learn
+5. Mistakes to avoid
+6. A weekly routine to follow
+Base the plan on my actual situation and avoid generic advice.
+
+2. TURN MY SKILLS INTO INCOME
+Act as an income strategist.
+My background: [insert background]
+Skills: [insert skills]
+Tools I know: [insert tools]
+Industries I understand: [insert industries]
+Things I enjoy: [insert interests]
+Give me 10 specific ways to generate income using my existing skills.
+For each idea, include:
+- What I can offer
+- Who would pay for it
+- How much I could charge
+- Where to find customers
+- The first 3 steps to get started
+Prioritize realistic opportunities I can start with low upfront costs.
+
+3. MAKE MONEY IN 90 DAYS
+I need to start generating income within the next 90 days.
+Income goal: [$amount]
+Skills: [insert skills]
+Experience: [insert experience]
+Available time daily: [hours]
+Work I’m willing to do: [freelance/job/local/online work]
+Create a practical 90-day plan divided into:
+Days 1–7
+Days 8–30
+Days 31–60
+Days 61–90
+Include offers to create, people to contact, platforms to use, pricing, and a daily checklist.
+Focus on actions that can realistically lead to my first income.
+
+4. TURN MY EXPERIENCE INTO A FREELANCE SERVICE
+Help me turn my previous work experience into a freelance service people would pay for.
+Previous job: [job title]
+Problems I solved: [insert problems]
+Results I created: [insert results]
+Tools I know: [insert tools]
+Target clients: [small businesses/creators/startups/local businesses]
+Create 5 freelance offers with:
+- Offer name
+- Target customer
+- Problem solved
+- What’s included
+- Price range
+- Delivery timeline
+- Why people would buy it
+Then identify which offer I should test first based on my skills, experience, and ability to deliver.
+
+5. GET MY FIRST 3 CLIENTS
+Write outreach messages to help me get my first 3 clients.
+My service: [insert service]
+Ideal customer: [insert customer]
+Problem I solve: [insert problem]
+My background: [insert background]
+Create:
+1. LinkedIn DM
+2. Email
+3. Follow-up after 3 days
+4. Follow-up after 7 days
+5. Message to friends/old coworkers
+6. Instagram/Facebook DM
+Make them friendly, clear, personalized, and not pushy.
+Focus on starting genuine conversations rather than aggressively selling.
+
+6. BUILD A ONE-PERSON BUSINESS
+Create a simple one-person business around my skills and experience.
+Income goal: [$amount]
+Skills: [insert skills]
+Experience: [insert experience]
+Interests: [insert interests]
+Startup budget: [$amount]
+Time per week: [hours]
+Preferred offer: [service/digital product/coaching/consulting]
+Include:
+1. Business idea
+2. Target customer
+3. Problem solved
+4. First offer
+5. Price range
+6. How to find customers
+7. First 7-day plan
+8. 30-day plan
+9. 90-day plan
+10. 180-day plan
+Keep the business simple, realistic, and manageable for one person.
+
+7. BUILD A SMARTER JOB SEARCH
+Act as a modern career coach.
+Previous role: [role]
+Target roles: [roles]
+Target salary: [$amount]
+Industry: [industry]
+Experience level: [entry/mid/senior]
+Strongest skills: [skills]
+Create a 60-day job search plan with:
+1. Job titles to search
+2. Resume focus
+3. LinkedIn headline
+4. Weekly application target
+5. Weekly networking target
+6. Recruiter message
+7. Hiring manager message
+8. Daily job search routine
+Focus on targeted applications, strong positioning, and meaningful networking.
+
+8. LEARN A SKILL THAT PAYS
+Recommend practical skills I can learn to increase my income.
+My background: [insert background]
+Current skills: [insert skills]
+Income goal: [$amount]
+Study time per week: [hours]
+Interests: [insert interests]
+Learning budget: [$amount]
+Give me 7 skills and include:
+- Why it’s valuable
+- How to make money with it
+- How long to become useful
+- A beginner project to practice
+- A realistic first-income opportunity
+Order them from faster to slower potential paths to first income.
+
+9. BUILD A 30-DAY CONTENT PLAN
+Create a 30-day content plan to attract jobs, clients, or business leads.
+My niche: [insert niche]
+Skills: [insert skills]
+Target audience: [insert audience]
+Goal: [job/freelance clients/business leads]
+Platform: [LinkedIn/X/Instagram/TikTok]
+Posting frequency: [daily/3x weekly/etc.]
+For each day, give me:
+- Post topic
+- Strong hook
+- Main points
+- Call to action
+- Who it attracts
+Make the content useful, credible, and specific to my expertise. Avoid generic motivational content.
+
+10. TRACK MY INCOME REPLACEMENT
+Create a simple dashboard to track my progress toward replacing my previous income.
+Previous monthly income: [$amount]
+Monthly expenses: [$amount]
+Savings: [$amount]
+Income goal: [$amount]
+Income paths: [job/freelance/business/content]
+Deadline: [date]
+Include:
+1. Weekly numbers to track
+2. Monthly numbers to track
+3. Google Sheets table format
+4. Monthly income goals
+5. Lead/application/client goals
+6. Warning signs I’m falling behind
+7. Weekly review checklist
+Keep the dashboard simple enough to update in under 10 minutes each week.
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
