@@ -63,6 +63,26 @@ They are the ones who picked the right type of analysis for the right business q
 
 
 -------------------------------------------------
+## Exploratory Data Analysis: Understand the Data Before You Model It
+
+EDA is where raw data starts turning into useful information. Before building models or drawing conclusions, you need to understand what the data contains, how variables behave, and what relationships or anomalies may exist.
+
+A structured EDA process typically moves through:
+
+• Data Understanding – inspect rows, columns, data types, summaries, and overall structure
+• Univariate Analysis – study individual variables using distributions and descriptive statistics
+• Bivariate Analysis – examine relationships between two variables through comparisons and correlations
+• Multivariate Analysis – explore patterns and interactions involving several variables
+• Insights & Reporting – translate findings into conclusions and meaningful visualizations
+
+Important statistical measures include mean, median, mode, variance, standard deviation, IQR, skewness, and kurtosis.
+
+Visualizations such as histograms, box plots, bar charts, scatter plots, correlation heatmaps, and pair plots help reveal patterns that summary numbers alone may not show.
+
+With Python, libraries such as Pandas, NumPy, Matplotlib, and Seaborn can support the entire workflow, from initial inspection to deeper exploration.
+
+EDA is not just about making charts. It helps you spot anomalies, understand distributions, discover relationships, and decide what should happen next in the analysis.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
