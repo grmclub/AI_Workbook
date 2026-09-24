@@ -320,6 +320,69 @@ Photograph me as if I was genuinely there with a professional DSLR camera.
 Preserve realistic skin texture and natural facial details."
 
 -------------------------------------------------
+ChatGPT keep changing your face when you change your outfit or background? 😡 Try this “Identity Lock” prompting technique 👇
+
+1/ Professional Headshot
+Turn a casual photo into a headshot
+Upload a clear original photo, then prompt:
+“Transform this into a professional headshot.
+Preserve the subject’s facial identity and natural features, including face shape, eyes, nose, lips, jawline, skin texture, hairline, and apparent age.
+Only change the background, lighting, framing, color grading, and clothing.
+Do not intentionally beautify, reshape, or smooth the face.”
+
+2/ Cinematic Portrait
+Change the style, not the face
+“Transform this into a cinematic portrait with an 85mm lens look, shallow depth of field, and dramatic studio lighting.
+Use the original photo as the primary identity reference.
+Preserve the facial features, expression, apparent age, hairstyle, and natural skin details.
+Only change the lighting, background, composition, and color grading.”
+
+3/ Change the Outfit
+Keep everything else consistent
+“Change only the subject’s clothing to [OUTFIT].
+Preserve the face, expression, body proportions, pose, hands, hair, camera angle, and background.
+Make the new clothing match the existing body position, lighting, shadows, and perspective.
+Avoid unnecessary changes to the person.”
+
+4/ Swap the Background
+Put yourself somewhere new
+“Replace only the background with [LOCATION].
+Keep the subject’s face, body, clothing, pose, expression, and hair as consistent with the original as possible.
+Match the new environment’s perspective, depth, lighting, and color temperature to the subject.
+Avoid unnecessary facial changes.”
+
+4/ Swap the Background
+Put yourself somewhere new
+“Replace only the background with [LOCATION].
+Keep the subject’s face, body, clothing, pose, expression, and hair as consistent with the original as possible.
+Match the new environment’s perspective, depth, lighting, and color temperature to the subject.
+Avoid unnecessary facial changes.”
+
+5/ Fix a Changed Face
+Already lost your likeness? Try this
+Upload:
+Image 1: Original photo
+Image 2: Edited photo
+Then prompt:
+“Use Image 1 as the primary reference for the subject’s facial identity.
+Use Image 2 as the reference for the outfit, lighting, style, and environment.
+Recreate the edited image while making the face more consistent with Image 1.
+Preserve the other requested changes from Image 2.”
+
+6/ Run an Identity Check
+One final prompt before you're done
+“Compare the edited image with the original reference.
+Check the face shape, apparent age, eyes, nose, mouth, jawline, skin details, and hairline for unintended changes.
+Correct noticeable differences that were not requested while preserving the intended edit.”
+
+NOTE: One Important Thing
+No prompt can perfectly lock a face every time.
+For more consistent results:
+• Start with a sharp reference photo
+• Make one major edit at a time
+• Avoid changing everything at once
+• Keep your original photo as the reference
+• Compare the final result with the original
 -------------------------------------------------
 -------------------------------------------------
 
