@@ -192,6 +192,86 @@ The biggest productivity gains rarely come from a single prompt.
 They come from building a system Claude can follow repeatedly.
 
 -------------------------------------------------
+CLAUDE USERS ARE MISSING THIS
+One guide can Sаvе hours of repeat work.
+Build faster, reuse your best workflows, and automate the boring parts.
+Here is the Claude power user guide every beginner needs 👇
+
+1/ Claude Power User Guide: Artifacts and Skills
+Claude is not only a place to type questions. Its features can help you create useful outputs and repeat successful workflows.
+➔ Artifacts turn Claude’s responses into interactive, editable, and shareable work.
+You can use Artifacts for:
+• Dashboards and charts
+• Landing pages and small apps
+• Presentations and diagrams
+• Documents, reports, and prototypes
+Instead of accepting a block of text, ask Claude to create something you can preview, improve, and share.
+➔ Skills teach Claude a repeatable way to complete a task.
+A Skill can contain:
+• Instructions and rules
+• Required steps
+• Quality standards
+• Examples and reference files
+• Preferred output structure
+Use Skills for tasks you perform repeatedly, such as content creation, research, reporting, onboarding, or document review. Define the method once, then reuse it without explaining everything again.
+
+2/ Connectors, Claude Code, and MCP
+These three systems help Claude work beyond a normal chat window.
+➔ Connectors give Claude access to information stored in supported external tools.
+Depending on availability and permissions, Claude can connect with services such as Google Drive, Slack, and Notion. This allows it to work with your actual files, conversations, and workspace information instead of relying only on what you paste manually.
+➔ Claude Code is designed for software development inside the terminal.
+It can help developers:
+• Understand an existing codebase
+• Find and fix bugs
+• Write or refactor code
+• Run commands and tests
+• Review changes before deployment
+➔ MCP, or Model Context Protocol, provides a standard way for AI systems to interact with external tools and data sources.
+Most everyday users do not need to build an MCP integration themselves. However, understanding its role helps explain how Claude can connect with more specialized systems.
+
+3/ Projects, Automation, and Practical Use Cases
+Projects help you keep related work, instructions, and files together.
+Create a separate Project for each major area of work, such as:
+• Marketing and content
+• Customer research
+• Business operations
+• Product development
+• Learning and documentation
+Add the relevant files, background information, terminology, and working rules. Claude can then respond with better context without requiring you to rebuild the same setup in every conversation.
+Automation takes this one step further.
+A simple automation usually follows this structure:
+➔ Trigger: something happens.
+➔ Action: Claude processes the information.
+➔ Output: the result is saved, shared, or sent somewhere.
+Useful examples include summarizing new information, preparing reports, organizing research, reviewing documents, and moving information between supported tools.
+Start with one repetitive task that has clear inputs and a predictable output.
+
+4/ Combine the 8 Claude Systems
+The biggest improvement comes from combining features around one complete workflow.
+➔ Artifacts + Skills
+Use a Skill to define your process, then produce the result as an Artifact. This works well for dashboards, reports, presentations, landing pages, and reusable content systems.
+➔ Connectors + Projects
+Bring information from your real workspace into a Project that already contains your instructions, files, and business context.
+➔ Connectors + Automation
+Use current information from supported tools to trigger recurring actions, summaries, updates, or operational tasks.
+➔ Claude Code + Projects
+Keep technical documentation and requirements inside a Project, then use Claude Code to work directly with the codebase.
+➔ MCP + external tools
+MCP can support more advanced connections between Claude, specialized software, internal databases, and business systems.
+The goal is not to use every feature immediately. Choose the combination that removes the most repeated work from your day.
+
+5/ A Simple Claude Power User Starting Plan
+Follow this order instead of trying to master everything at once:
+➔ Step 1: Choose one task you complete every week.
+➔ Step 2: Create a Project and add the relevant files, instructions, and context.
+➔ Step 3: Turn the process into a Skill if it follows the same steps each time.
+➔ Step 4: Produce the final result as an Artifact when it needs to be edited, viewed, or shared.
+➔ Step 5: Add a Connector when the required information already exists in another supported tool.
+➔ Step 6: Explore Automation when the workflow has a clear trigger, action, and output.
+➔ Step 7: Use Claude Code for development tasks that require access to files, commands, tests, or a codebase.
+Do not measure progress by how many prompts you write.
+Measure it by how much repeated work you remove, how consistently the task is completed, and how easily the workflow can be reused.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
