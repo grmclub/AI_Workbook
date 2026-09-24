@@ -1,0 +1,75 @@
+
+
+-------------------------------------------------
+## 10 powerful prompts to build a complete automation system 👇
+
+1/ TOOL INTEGRATION MAPPER
+"Act as an AI automation architect. Design a complete integration map for my [BUSINESS TYPE] by connecting [TOOL 1], [TOOL 2], and [TOOL 3]. Map every trigger, action, data flow, dependency, and orchestration layer. Include field-mapping templates, synchronization rules, authentication requirements, and step-by-step connection logic. Optimize the architecture for reliability, scalability, and minimal manual work. My current tools: [LIST]. Primary objective: [OBJECTIVE]."
+
+2/ PROMPT LIBRARY ORGANIZER
+"Act as an AI knowledge-management architect. Build a scalable prompt library for my [DEPARTMENT/USE CASE] using a clear folder structure, reusable variables, smart tags, and fast-search workflows. Create naming conventions, metadata fields, version-control rules, capture workflows, and contextual note templates. Design the system to remain organized as the library grows. Current prompt count: [NUMBER]. Team size: [NUMBER]."
+
+3/ OUTPUT QUALITY VALIDATOR
+"Act as an AI quality-assurance architect. Build a multi-layer validation system for [AI USE CASE] that evaluates relevance, accuracy, consistency, safety, groundedness, coherence, and fluency. Create scoring rubrics, test cases, error categories, comparison templates, and feedback loops. Define measurable quality thresholds and formulas for tracking defect rates and improvement over time. Required quality standard: [STANDARD]."
+
+4/ WORKFLOW BOTTLENECK ANALYZER
+"Act as a process-optimization specialist. Analyze my [PROCESS NAME] workflow to identify bottlenecks, unnecessary steps, hidden dependencies, delays, and non-value-adding activities. Compare the designed workflow with actual execution, calculate flow efficiency, and identify the highest-impact improvement opportunities. Provide a process map, bottleneck diagnosis, Kanban framework, and step-by-step resolution plan. Current cycle time: [DURATION]."
+
+5/ TASK DELEGATION AUTOMATOR
+"Act as a multi-agent AI architect. Design a subagent delegation system for my [MAIN WORKFLOW] that intelligently breaks complex tasks into parallel, specialized sub-tasks. Define each agent's role, context, tools, inputs, outputs, and handoff rules. Include orchestration logic, YAML-based agent templates, parallel-execution strategies, and cost-control guidelines. Primary objectives: [OBJECTIVES]. Task complexity: [DESCRIPTION]."
+
+6/ CONTEXT SWITCHING MINIMIZER
+"Act as a productivity-systems architect. Design a system that minimizes unnecessary context switching for my [TEAM/ROLE]. Identify major interruption sources and create time-blocking rules, communication boundaries, priority protocols, status indicators, and documentation systems that preserve context between tasks. Build a practical operating framework that protects focused work while maintaining essential communication. Team size: [NUMBER]. Daily interruptions: [NUMBER]."
+
+7/ MULTI-TOOL SYNC BUILDER
+"Act as an automation integration specialist. Design a reliable synchronization system between [TOOL A] and [TOOL B] with clearly defined bidirectional data flows and field-level mappings. Specify sync triggers, update rules, conflict handling, direction controls, error recovery, and testing procedures. Include reusable workflow templates and a deployment checklist. Data types: [DESCRIPTION]. Sync frequency: [INTERVAL]."
+
+8/ DECISION TREE GENERATOR
+"Act as a workflow automation strategist. Convert my [PROCESS NAME] into a complete decision-tree workflow with conditions, branches, checkpoints, actions, and final outcomes. Translate natural-language rules into precise workflow logic and identify where automation should act automatically versus request human input. Include exception handling, version-control practices, and implementation steps. Decision complexity: [DESCRIPTION]. Tool stack: [NAMES]."
+
+9/ REDUNDANCY ELIMINATION SCANNER
+"Act as a workflow optimization engineer. Audit my [WORKFLOW/SYSTEM] for duplicated tasks, overlapping automations, unnecessary steps, redundant components, and inefficient logic. Identify what can be consolidated, reused, cached, or removed without reducing reliability. Create a before-and-after architecture, optimization priorities, measurable efficiency targets, and a step-by-step consolidation plan. Current workflows: [NUMBER]. Monthly maintenance hours: [NUMBER]."
+
+10/ EFFICIENCY METRICS TRACKER
+"Act as an AI operations analyst. Build a performance-tracking system for my [WORKFLOW NAME] that measures cycle time, lead time, throughput, workflow efficiency, error rate, and bottlenecks. Define the formulas, KPIs, data sources, dashboard structure, and review cadence. Create benchmark and improvement-target frameworks that make performance changes easy to identify and measure. Current cycle time: [DURATION]. Team size: [NUMBER]."
+
+-------------------------------------------------
+
+
+
+1. WORKFLOW AUDIT
+"I'm a [job title] working about [X hours] per day. My main responsibilities are [list 3-5 tasks]. Audit my workflow, identify time-wasting or low-value activities, and create a practical 1-hour optimization plan that prioritizes my highest-impact work, suggests what to automate, delegate, or eliminate, and recommends a more efficient daily workflow." 
+
+2. REPETITIVE TASK KILLER
+"Here are the tasks I repeat most often: [list 5-10 tasks]. For each task, create a reusable Claude prompt optimized for speed, consistency, and high-quality results. Include placeholders where needed so I can quickly reuse each prompt without rebuilding it from scratch." 
+
+3. SOP BUILDER
+"I need to document this process: [describe the process]. Turn it into a clear step-by-step SOP with concise instructions, best practices, and checklists where helpful. Whenever a step involves writing, researching, analyzing, brainstorming, or summarizing, include the exact Claude prompt I should use to complete that step." 
+
+4. EMAIL DRAFT MACHINE
+"I regularly write these types of emails: [list 4-6 email types]. Create a reusable template for each one, then generate a Claude prompt that can instantly rewrite the email to be shorter, more persuasive, more professional, friendlier, or tailored to different audiences while preserving the original intent." 
+
+5. MEETING NOTES TO ACTION PLAN
+"Here are my raw meeting notes: [paste notes]. Convert them into a structured action plan with a concise summary, action items grouped by owner, deadlines where mentioned, key decisions, unresolved questions, and a short follow-up summary I can send to the team." 
+
+6. DAILY PRIORITY PLANNER
+"My goals this week are [list goals]. Today I have [X hours] available, and my tasks are [list tasks]. I do my best thinking in the [morning/afternoon/evening]. Create an optimized time-blocked schedule that prioritizes the highest-impact work, batches similar tasks, reserves low-energy periods for admin work, and maximizes my productivity throughout the day."
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
+
+
+
+
+
+
+
