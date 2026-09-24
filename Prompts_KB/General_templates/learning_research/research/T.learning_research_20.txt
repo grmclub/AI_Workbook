@@ -249,6 +249,85 @@ Review the entire dissertation and identify:
 Provide detailed recommendations to improve the dissertation to publication standard.
 
 -------------------------------------------------
+🚨 STEP-BY-STEP PROMPTS ON HOW TO WRITE CHAPTER THREE OF YOUR PROJECT.
+
+Chapter Three is usually where you explain HOW you carried out your research.
+And this is where many students make mistakes.
+They copy a methodology from another project…
+Change a few words…
+And hope it fits their research. ❌
+Don’t do that.
+Instead, use AI to help you build your methodology around your actual research design, materials, samples and procedures.
+Here are the prompts. 👇🏼👇🏼👇🏼
+
+1️. GIVE AI YOUR RESEARCH DETAILS FIRST
+Don’t start by asking:
+❌ “Write Chapter Three.”
+Start with:
+I am working on a research project titled “[PROJECT TITLE].” My research objectives are: [OBJECTIVES]. My research questions are: [QUESTIONS]. My research design is: [DESIGN]. My study population/sample is: [DETAILS]. My materials/equipment are: [LIST]. My experimental/procedural approach is: [DETAILS]. Based only on the information I provide, help me develop an appropriate Chapter Three structure. Do not invent experimental procedures, equipment, sample sizes or research methods.
+
+2️. CREATE THE CHAPTER THREE STRUCTURE
+Create a detailed outline for Chapter Three (Research Methodology) for my project titled “[TITLE].” Organize the chapter logically based on my actual research design and objectives. Include appropriate sections such as research design, materials, equipment, sample preparation, experimental procedure, data collection, characterization/testing methods and data analysis where applicable. Do not include sections that are irrelevant to my study.
+
+3️. WRITE THE RESEARCH DESIGN SECTION
+Write the Research Design section for my Chapter Three using the information below: [PASTE DETAILS]. Explain why this research design is appropriate for the study. Use clear academic language. Do not invent information, references or methodological details.
+
+4️. WRITE THE MATERIALS AND EQUIPMENT SECTION
+Organize the following materials, chemicals, samples and equipment into a clear academic subsection for Chapter Three: [PASTE LIST]. Where appropriate, present them in tables with item name, specification/grade and purpose. Do not create specifications that I did not provide. Mark missing information for me to verify.
+⚠️ Important: Never allow AI to invent equipment specifications or chemical grades.
+
+5️. WRITE SAMPLE PREPARATION
+Using only the procedure I provide below, write a clear academic description of the sample preparation process. Present the steps in the correct chronological order. Preserve all quantities, concentrations, temperatures, times and conditions exactly as provided. Do not create missing experimental details. If anything is unclear, flag it for clarification.
+
+6️. WRITE THE EXPERIMENTAL PROCEDURE
+Convert my laboratory procedure into a formal Chapter Three methodology section. Make the procedure precise, reproducible and academically written. Organize it into logical subsections where necessary. Do not change experimental values or introduce procedures that were not actually performed.
+This is especially important for experimental research.
+AI should document what you actually did—not invent what you should have done.
+
+7️. WRITE THE CHARACTERIZATION/TESTING METHODS
+If your project involves laboratory characterization:
+Write the methodology for the following characterization/testing techniques based on my actual study: [LIST TESTS]. For each technique, explain its purpose in this research and describe the procedure only using the information I provide. Do not invent instrument models, operating conditions or test parameters. Clearly identify information I still need to provide.
+
+8️. WRITE DATA COLLECTION AND ANALYSIS
+Write the Data Collection and Data Analysis section for my research using the information below: [PASTE DETAILS]. Explain what data were collected, how measurements were recorded, how calculations were performed and which statistical or analytical methods were used. Do not invent statistical tests or results.
+
+9️. CHECK WHETHER CHAPTER THREE MATCHES YOUR OBJECTIVES
+This is one of the most important steps.
+Compare my research objectives with my Chapter Three methodology. Create a table showing each objective, the method/procedure used to address it, the data that will be obtained and the corresponding analysis. Identify any objective that is not adequately addressed by the methodology. Do not invent missing methods.
+
+10. AUDIT THE WHOLE CHAPTER
+After writing Chapter Three:
+Act as a strict academic supervisor and methodology reviewer. Review my Chapter Three for methodological gaps, unclear procedures, inconsistent terminology, missing information, inappropriate methods, unsupported claims, inconsistent units, duplicated sections and contradictions with my research objectives. Do not rewrite everything. First identify each problem and explain how it should be corrected.
+
+A powerful workflow for Chapter Three is:
+Research objectives → Methodology structure → Materials → Sample preparation → Experimental procedure → Characterization → Data collection → Data analysis → Objective-method alignment → Final audit.
+If one part doesn’t connect to the next, fix it before submitting.
+
+⚠️ ONE RULE YOU SHOULD NEVER FORGET
+Don’t let AI manufacture your methodology.
+Your Chapter Three should describe:
+WHAT YOU ACTUALLY DID.
+Not what ChatGPT thinks you did.
+Verify:
+✅ Materials
+✅ Equipment
+✅ Quantities
+✅ Concentrations
+✅ Sample sizes
+✅ Temperatures
+✅ Experimental conditions
+✅ Test methods
+✅ Calculations
+✅ Statistical methods
+✅ References
+And if your department has a specific project format, follow your department’s guidelines first.
+AI can help you organize and improve your methodology.
+But your actual research procedure must come from your research.
+📌 Save these prompts. You can use them step by step instead of asking AI to generate the entire chapter blindly.
+
+🔥 BONUS PROMPT: MAKE IT REPRODUCIBLE
+Review my Chapter Three and ask: “Could another researcher reproduce this study from the information provided?” Identify every missing detail that would prevent replication, including quantities, concentrations, sample sizes, temperatures, times, equipment specifications, experimental conditions, measurement procedures and data-analysis methods. Separate information that is genuinely missing from information that is simply unnecessary.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
