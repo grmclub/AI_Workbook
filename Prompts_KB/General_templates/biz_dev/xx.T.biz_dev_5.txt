@@ -117,8 +117,31 @@ Use them to:
 ➔ Contact customers for renewals.
 Instead of waiting for customers to fill out a form, the system can proactively start the conversation and structure the responses for your team.
 
-
-
 -------------------------------------------------
+🚨 ONE idea. ONE product. ONE launch.
+Use these 7 Claude prompts to turn your idea into a digital product — for FREE. 👇🏻
+
+1. IDEA → PRODUCT
+Act as a digital-product strategist. Turn my idea: [IDEA] into a practical digital product people would pay for. Define the target audience, problem solved, core promise, product format, key features, and unique value proposition.
+
+2. PRODUCT BLUEPRINT
+Act as an expert digital-product creator. Build a complete blueprint for my product: [PRODUCT]. Structure the modules, sections, lessons, templates, worksheets, and user journey so the final product is practical, valuable, and easy to use.
+
+3. VALUE & POSITIONING
+Analyze my digital product: [PRODUCT] for [TARGET AUDIENCE]. Identify the strongest value proposition, unique angle, key benefits, customer objections, and positioning. Then create a clear one-sentence offer that makes the product compelling.
+
+4. PRICING STRATEGY
+Act as a digital-product pricing strategist. Create a pricing strategy for [PRODUCT] based on its value, depth, target audience, and transformation. Give me 3 pricing tiers with recommended features, positioning, and justification for each.
+
+5. SALES PAGE BUILDER
+Act as an expert conversion copywriter. Write a high-converting sales page for [PRODUCT]. Include a powerful headline, problem, desired outcome, benefits, what's included, value proposition, objections, FAQ, pricing section, and a strong call to action.
+
+6. LAUNCH CONTENT PLAN
+Create a 14-day content plan to launch [PRODUCT]. Give me daily post ideas that build awareness, demonstrate value, create demand, address objections, and drive people toward the product. Include a hook and CTA for every post.
+
+7. COMPLETE LAUNCH SYSTEM
+Act as my digital-product launch strategist. Build a complete launch system for [PRODUCT], including the launch timeline, sales funnel, content strategy, email/DM sequence, CTA strategy, launch-day checklist, and post-launch optimization plan.
+
+
 -------------------------------------------------
 -------------------------------------------------
