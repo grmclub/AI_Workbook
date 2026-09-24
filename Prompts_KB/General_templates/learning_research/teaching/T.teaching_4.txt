@@ -107,11 +107,13 @@ Here are 10 copy-paste prompts👇
 
 1️. CREATE A LESSON PLAN
 Act as an experienced teacher. Create a detailed lesson plan for [SUBJECT/TOPIC] for [CLASS/AGE]. Include learning objectives, prerequisite knowledge, introduction, teaching activities, examples, learner activities, assessment, differentiation and homework. Use simple language appropriate for the learners.
+
 2️. BREAK DOWN A DIFFICULT TOPIC
 Explain [TOPIC] to [CLASS/AGE] in very simple language. Start with what learners already need to know, then explain the concept step by step using everyday examples. Include 3 common misconceptions and how I can correct them.
 
 4️. CREATE TEST QUESTIONS
 Create 20 assessment questions on [TOPIC] for [CLASS]. Include multiple-choice, short-answer and structured questions. Provide the correct answers and a marking guide. Make the questions test understanding, not just memorization.
+
 5️. CREATE A QUIZ
 Create a 15-question quiz on [TOPIC] for [CLASS]. Use a mixture of easy, moderate and challenging questions. Include answers separately so I can use the questions directly with my learners.
 
@@ -122,12 +124,13 @@ Turn the following topic into clear teaching notes for [CLASS]: [TOPIC]. Include
 
 8️. CREATE HOMEWORK
 Create 10 meaningful homework questions on [TOPIC] for [CLASS]. Include different question types and make at least 3 questions require learners to apply what they learned to real-life situations.
+
 9️. TURN MY NOTES INTO TEACHING MATERIAL
 I will paste my rough teaching notes below. Organize them into a clear teaching resource without changing the meaning. Add suitable headings, examples, bullet points and a short recap. Flag anything that appears incomplete instead of inventing information.
 My notes:
 [PASTE NOTES]
 
-🔟 CREATE A COMPLETE TEACHING PACKAGE
+10. CREATE A COMPLETE TEACHING PACKAGE
 Act as my teaching assistant. I am teaching [TOPIC] to [CLASS] for [DURATION]. Create a complete teaching package containing:
 1. Learning objectives
 2. Lesson plan
