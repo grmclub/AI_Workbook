@@ -56,8 +56,113 @@
 "My goals this week are [list goals]. Today I have [X hours] available, and my tasks are [list tasks]. I do my best thinking in the [morning/afternoon/evening]. Create an optimized time-blocked schedule that prioritizes the highest-impact work, batches similar tasks, reserves low-energy periods for admin work, and maximizes my productivity throughout the day."
 
 -------------------------------------------------
+##Use claude like a free university
+
+1. The 30-Day Roadmap
+I want to learn [SKILL] from zero. Create a 30-day roadmap. Break it into weekly goals, daily 45-min tasks, free resources, and 1 mini-project per week to prove I learned it.
+
+2. The Expert Mentor
+Act as a world-class expert in [SKILL] with 20 years experience. Teach me [SKILL] like I'm a total beginner. Start with fundamentals, use simple examples, and give me 1 exercise after each lesson. Don't move on until I say "next".
+
+3. The Mistake Killer
+What are the top 10 beginner mistakes people make when learning [SKILL]? For each mistake, tell me why it happens and how to avoid it.
+
+4. The Crash Project
+I want to learn [SKILL] by building. Give me 3 project ideas: Beginner / Intermediate / Advanced. Each project should teach me a core concept and be portfolio-worthy.
+
+5. The Feynman Check
+Let's test my understanding of [TOPIC in SKILL]. I'll explain it to you in my own words, you act like a smart 12-year-old, ask tough questions, and point out gaps. I'll start now: [your explanation]
+
+6. The Resource Filter
+Find me the best FREE resources to learn [SKILL] in 2025. No fluff. Give me: 1 YouTube channel, 1 free course, 1 book, 1 tool, and 1 community. Tell me the exact order to use them.
+
+7. The Daily Drill
+Create a 15-minute daily practice routine for [SKILL] that I can do for the next 21 days. It should be simple, habit-forming, and make me 1% better every day. Include what to track.
+
 -------------------------------------------------
+🚨 BREAKING: Claude can now turn long academic lectures into actionable, high-yield study notes.
+Here are 8 Claude prompts to help you master any subject faster: 👇🏻
+
+1/ Lecture-to-Notes Engine
+"Act as an academic strategist. Turn [LECTURE TRANSCRIPT] into high-yield study notes covering the core ideas, key concepts, evidence, formulas, and a concise final summary."
+
+2/ Active Recall Quiz Engine
+"Act as a university professor. Turn [LECTURE NOTES] into 5 progressive active-recall questions, with hints, answer evaluation, and targeted feedback for every mistake."
+
+3/ Feynman Explanation Engine
+"Act as an expert educator. Explain the hardest concept in [TOPIC] using the Feynman Technique, with simple language, intuitive analogies, jargon definitions, and a short recap."
+
+4/ Real-World Case Study Simulator
+"Act as an industry expert. Create a realistic case study based on [LECTURE TOPIC], give me a problem to solve, then evaluate my solution using the key concepts from the lecture."
+
+5/ Smart Flashcard Generator
+"Act as a memory specialist. Extract 10 high-value flashcards from [LECTURE NOTES]. Keep each card focused on one concept and format them for easy study or Anki import."
+
+6/ 80/20 Exam Strategy
+"Act as an academic optimization coach. Analyze [LECTURE/SYLLABUS] and identify the highest-value 20% of concepts, prerequisites, common exam traps, and the most efficient review order."
+
+7/ Concept Mind Map Builder
+"Act as an information architect. Transform [LECTURE TRANSCRIPT] into a structured text mind map with the central topic, major branches, key details, formulas, and connections between concepts."
+
+8/ 60-Minute Exam Cram
+"Act as an academic performance coach. Build a 60-minute emergency review plan for [SUBJECT], prioritizing weak areas, essential formulas and definitions, rapid recall drills, and final memory consolidation."
+
 -------------------------------------------------
+ChatGPT can be a surprisingly good personal tutor. Here are 6 prompts to learn almost anything faster 👇
+
+1/ Learning Curve Breaker
+Stop wasting time learning things you don’t need.
+Copy to ChatGPT:
+"You have 4 hours to help me make as much progress as possible at [skill].
+Prioritize the small number of things that will improve me fastest. Tell me what to learn first, what I can ignore for now, and give me one practical exercise to test what I’ve learned."
+
+2/ Realistic Error Simulator
+Learn by making mistakes before they matter.
+Copy to ChatGPT:
+"Don’t explain [concept] yet. Put me into a realistic scenario where I need to use it.
+If I make a mistake, don’t immediately give me the answer. Ask questions that help me identify where my reasoning went wrong.
+Give me two attempts before explaining the answer. Then give me another scenario."
+
+3/ Confusion Crusher
+When something just isn’t clicking:
+Copy to ChatGPT:
+"I’m confused by the content below.
+First, identify the single idea I need to understand for everything else to make more sense.
+Explain only that idea using simple language and everyday analogies. Then ask me 3 questions to test my understanding before moving on.
+[Paste content]"
+
+4/ Personalized Learning Path
+Stop learning everything. Learn what gets you to your goal.
+Copy to ChatGPT:
+"My real goal is [goal]. I need to achieve [specific result] by [deadline].
+I already know [what you know].
+Build me a 7-day learning plan with one 45-minute task per day. Give each day a clear success criterion and tell me what I should ignore or avoid spending time on."
+
+5/ Knowledge Gap Detector
+Think you’ve mastered something? Test it.
+Copy to ChatGPT:
+"I think I understand [skill].
+Ask me 5 deceptively simple questions designed to uncover gaps in my understanding.
+After each answer, explain what I understood correctly and what I may be missing. Ask follow-up questions when my reasoning is incomplete."
+
+6/ The Feynman Test
+The ultimate test: can you explain it simply?
+Copy to ChatGPT:
+"I just learned [topic].
+Ask me to explain it as if I were teaching a 10-year-old.
+Whenever I use jargon without explaining it, skip a reasoning step, or oversimplify something important, stop me and ask me to clarify.
+At the end, identify the biggest gaps in my understanding."
+
+Use Them in This Order
+Don’t just randomly use all 6.
+Start with:
+4 → Set your goal
+1 → Find what matters
+2 → Practice with scenarios
+5 → Find your weak spots
+Use 3 whenever you get stuck.
+Use 6 when you think you understand something.
+
 
 -------------------------------------------------
 -------------------------------------------------
