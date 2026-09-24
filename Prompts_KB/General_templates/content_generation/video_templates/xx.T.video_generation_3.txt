@@ -359,9 +359,35 @@ Prompt: "Compare these titles against the actual video and determine which creat
 
 6. Build Viral Alignment
 Prompt: "Review the final script, hook, and chosen title as one complete YouTube package. Find any mismatch between what earns the click and what keeps viewers watching, then fix it. Make the opening deliver on the title's promise quickly while preserving enough curiosity to sustain attention throughout the video."
-Reply
 
 
 -------------------------------------------------
+Google built more than Search, Gmail, and YouTube.
+Some of its best websites are hiding in plain sight.
+They can help you learn, research, create, and work smarter.
+Here are the first hidden gems 👇
+
+1/ CyberCut AI
+CyberCut AI helps creators turn long videos into shorter, social-ready content. Upload your footage and use its AI-powered editing tools to generate clips, create marketing videos, add subtitles, edit through text, and access reusable media assets.
+It is useful for creators, marketers, podcasters, and businesses that have plenty of long-form footage but not enough time to manually repurpose every recording.
+
+2/ TwelveLabs
+TwelveLabs is a video intelligence platform that can search, analyze, and understand what happens inside videos across visuals, speech, sounds, text, actions, and timing.
+Instead of manually scanning hours of footage, developers and media teams can use it to locate relevant moments, organize video libraries, generate insights, and build applications that respond to natural-language questions about video content.
+
+3/ Microedits
+Microedits lets you update a website by describing the change in plain English.
+You can request changes to copy, colors, links, images, layouts, and other page elements without manually editing code. It works with platforms such as WordPress, Shopify, Squarespace, Wix, Webflow, and custom websites.
+It is especially useful when a small website update should take minutes, not another developer ticket.
+
+4/ Superfill.ai
+Superfill.ai is an AI-powered browser extension built to reduce repetitive form filling.
+Store your information once, and it can use that saved context to help complete job applications, rental forms, surveys, profiles, and other online forms. It is useful for people who repeatedly enter the same work history, contact details, preferences, or background information across different websites.
+
+
+5/ Claude-Mem
+Claude-Mem gives Claude Code persistent context across work sessions.
+It captures useful observations from previous coding sessions and provides memory-search tools that help Claude recover relevant project decisions, implementation details, bug fixes, and earlier context.
+This can reduce the need to repeatedly explain the same codebase and help longer development projects continue with better continuity.
 -------------------------------------------------
 -------------------------------------------------
