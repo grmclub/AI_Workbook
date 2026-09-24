@@ -66,6 +66,106 @@ Prompt:
 Prompt:
 "Create assessment and progress-tracking materials for [subject] for [grade/age/level], based on [curriculum requirements, learning objectives, and assessment criteria]. Choose the most appropriate format, such as a rubric, checklist, student progress tracker, or class assessment record. Ensure all criteria are clear, observable, age appropriate, and aligned with the intended learning. Where performance levels are needed, provide meaningful descriptors that clearly distinguish achievement levels. Organize objectives, skills, or criteria so progress can be recorded and reviewed over time. Do not invent student results, curriculum requirements, or assessment evidence. Present the materials in a clear, practical format suitable for regular classroom use."
 -------------------------------------------------
+🚨 STOP BUILDING COURSES FROM SCRATCH.
+NotebookLM can help you turn your sources into a complete course.
+These 8 prompts cover everything from learning outcomes to lessons, activities, assessments, and resources. 👇
+
+1️. Plan the Course
+Prompt:
+"Using only the sources added to NotebookLM, help me plan a course on [subject/course topic] for [educational level/age group]. Define the course purpose, intended learners, prerequisite knowledge, overall goals, duration, delivery format, and key considerations or constraints supported by the sources. Identify the major areas the course should cover and organize them into a clear course overview that can guide the next stages of course development. Base all recommendations on the uploaded sources, and clearly indicate when the sources do not provide enough information to make a specific decision."
+
+2️. Write Learning Outcomes
+Prompt:
+"Using only the sources added to NotebookLM, write clear, measurable learning outcomes for a course on [subject/course topic] for [educational level/age group]. Define what learners should know, understand, and be able to do by the end of the course. Use specific, observable action verbs and include an appropriate range of knowledge, skills, and higher order thinking. Ensure the outcomes are realistic, relevant to the course purpose, appropriate to the learners’ level, and supported by the uploaded sources. Do not introduce outcomes that cannot be justified by the sources."
+
+3️. Organize the Course
+Prompt:
+"Using only the sources added to NotebookLM, organize a course on [subject/course topic] for [educational level/age group] into a clear and logical sequence of units or modules. Use the course learning outcomes and source content to determine what should be taught, in what order, and at what depth. For each unit, provide a title, key topics, related learning outcomes, and suggested duration where the sources provide enough information. Ensure the sequence builds progressively from foundational knowledge and skills to more advanced learning. Do not introduce content that is not supported by the uploaded sources."
+
+4️. Plan the Lessons
+Prompt:
+"Using only the sources added to NotebookLM, plan the lessons for each unit of a course on [subject/course topic] for [educational level/age group]. Align each lesson with the relevant course learning outcomes and unit goals. For each lesson, include clear objectives, key content, suggested teaching and learning methods, learning activities, required resources, estimated timing, and appropriate checks for understanding. Ensure the lessons follow a logical progression, build on prior learning, and fit the available course time. Do not introduce content that is not supported by the uploaded sources."
+
+5️. Create Learning Activities
+Prompt:
+"Using only the sources added to NotebookLM, create engaging learning activities for a course on [subject/course topic] for [educational level/age group]. Align each activity with the relevant learning outcomes, unit content, and lesson objectives. Include an appropriate variety of individual, pair, group, practical, problem-solving, discussion, inquiry, or project-based activities depending on the subject and learners. For each activity, provide its purpose, clear instructions, expected learner output, and suggested duration. Ensure the activities promote active learning, meaningful participation, and progressively deeper understanding. Do not introduce content that is not supported by the uploaded sources."
+
+6️. Create Assessments
+Prompt:
+"Using only the sources added to NotebookLM, create an assessment plan for a course on [subject/course topic] for [educational level/age group]. Align each assessment with the relevant course learning outcomes and taught content. Include an appropriate combination of diagnostic, formative, and summative assessments to measure learners’ knowledge, skills, and progress throughout the course. For each assessment, specify its purpose, learning outcomes assessed, task or format, and clear success criteria. Include rubrics or scoring criteria where appropriate and opportunities for meaningful feedback. Ensure all assessments are fair, practical, and supported by the uploaded sources. Do not introduce content that is not supported by the sources."
+
+7️. Prepare Learning Resources
+Prompt:
+"Using only the sources added to NotebookLM, prepare appropriate learning resources for a course on [subject/course topic] for [educational level/age group]. Based on the course learning outcomes, units, lessons, and activities, identify and organize relevant materials from the uploaded sources, such as readings, examples, reference materials, practice tasks, worksheets, and other useful content. Explain how each resource supports the relevant learning outcome or lesson. Where appropriate, use the source material to create new learning resources while remaining faithful to its content. Ensure all resources are accurate, accessible, level appropriate, and grounded in the uploaded sources. Do not introduce unsupported information or external sources."
+
+8️. Review and Improve the Course
+Prompt:
+"Using only the sources added to NotebookLM, review the complete course on [subject/course topic] for [educational level/age group]. Evaluate the alignment among the course purpose, learning outcomes, content, sequence, lessons, activities, assessments, and learning resources. Identify gaps, unnecessary repetition, weak progression, inconsistencies, or areas that need improvement. Check whether the course is coherent, appropriately challenging, realistic in scope, and suitable for the intended learners. Recommend specific revisions to strengthen the course while remaining grounded in the uploaded sources. Clearly indicate when the sources do not provide enough evidence to support a recommendation, and do not introduce unsupported information or external sources."
+-------------------------------------------------
+🚨 IF YOU’RE A TEACHER, LEARNING HOW TO USE CHATGPT PROPERLY CAN SAVE YOU HOURS EVERY WEEK.
+Here are 10 copy-paste prompts👇
+
+1️. CREATE A LESSON PLAN
+Act as an experienced teacher. Create a detailed lesson plan for [SUBJECT/TOPIC] for [CLASS/AGE]. Include learning objectives, prerequisite knowledge, introduction, teaching activities, examples, learner activities, assessment, differentiation and homework. Use simple language appropriate for the learners.
+2️. BREAK DOWN A DIFFICULT TOPIC
+Explain [TOPIC] to [CLASS/AGE] in very simple language. Start with what learners already need to know, then explain the concept step by step using everyday examples. Include 3 common misconceptions and how I can correct them.
+
+4️. CREATE TEST QUESTIONS
+Create 20 assessment questions on [TOPIC] for [CLASS]. Include multiple-choice, short-answer and structured questions. Provide the correct answers and a marking guide. Make the questions test understanding, not just memorization.
+5️. CREATE A QUIZ
+Create a 15-question quiz on [TOPIC] for [CLASS]. Use a mixture of easy, moderate and challenging questions. Include answers separately so I can use the questions directly with my learners.
+
+6️. DIFFERENTIATE MY LESSON
+I am teaching [TOPIC] to a class with different ability levels. Create three versions of the learning activity: beginner, intermediate and advanced. Keep the same learning objective but adjust the level of support and difficulty.
+7️. CREATE TEACHING NOTES
+Turn the following topic into clear teaching notes for [CLASS]: [TOPIC]. Include definitions, key points, explanations, examples, common mistakes, practical applications and a short revision section. Avoid unnecessary jargon.
+
+8️. CREATE HOMEWORK
+Create 10 meaningful homework questions on [TOPIC] for [CLASS]. Include different question types and make at least 3 questions require learners to apply what they learned to real-life situations.
+9️. TURN MY NOTES INTO TEACHING MATERIAL
+I will paste my rough teaching notes below. Organize them into a clear teaching resource without changing the meaning. Add suitable headings, examples, bullet points and a short recap. Flag anything that appears incomplete instead of inventing information.
+My notes:
+[PASTE NOTES]
+
+🔟 CREATE A COMPLETE TEACHING PACKAGE
+Act as my teaching assistant. I am teaching [TOPIC] to [CLASS] for [DURATION]. Create a complete teaching package containing:
+1. Learning objectives
+2. Lesson plan
+3. Teacher explanation
+4. Examples
+5. Class activity
+6. Assessment questions
+7. Answer key
+8. Homework
+9. Revision questions
+10. Common misconceptions
+Keep everything appropriate for the learners’ age and curriculum level. Do not invent curriculum requirements or factual information.
+
+A useful workflow is:
+Curriculum → Lesson objective → Lesson plan → Teaching material → Class activity → Assessment → Review.
+You can use AI at almost every stage while keeping the final decision and quality control in your hands.
+
+🔥 BONUS PROMPT: MAKE CHATGPT ASK QUESTIONS FIRST
+This one can make your results much better:
+Before creating anything, ask me the most important questions you need about the learners, subject, topic, curriculum, lesson duration, learning objectives and available resources. Do not ask unnecessary questions. After I answer, create the material.
+One important rule:
+Don’t blindly copy AI-generated teaching materials into your classroom.
+Check:
+✅ Facts
+✅ Answers
+✅ Calculations
+✅ Curriculum alignment
+✅ Age appropriateness
+✅ Examples
+✅ Assessment difficulty
+Think of ChatGPT as your assistant, not your replacement.
+You bring the teaching experience.
+AI helps you reduce the repetitive work.
+📌 Save this post if you’re a teacher, lecturer, tutor or education content creator.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
