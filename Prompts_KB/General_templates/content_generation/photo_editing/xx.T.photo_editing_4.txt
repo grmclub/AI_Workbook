@@ -1,0 +1,33 @@
+
+-------------------------------------------------
+🚨 BREAKING NEWS: ChatGPT can now edit your photos like a professional editor.
+Upload a photo and use these 8 prompts 👇
+
+1/ PROFESSIONAL HEADSHOT
+"Turn this photo into a premium professional headshot. Preserve my exact facial identity and natural skin texture. Use soft studio lighting, an 85mm portrait look, subtle depth of field and a clean neutral background. Make it polished but realistic."
+
+2/ CINEMATIC COLOUR GRADE
+"Give this photo a cinematic film colour grade. Preserve the original subject and composition. Add rich contrast, natural skin tones, controlled highlights, deeper shadows and subtle film grain. Make it feel like a frame from a high-budget movie."
+
+3/ FIX THE LIGHTING
+"Professionally relight this photo while keeping everything else natural. Correct harsh shadows, blown highlights and uneven exposure. Add soft directional light to the subject and realistic separation from the background."
+
+4/ REMOVE DISTRACTIONS
+"Clean up this photo by removing distracting people, objects, clutter, signs and background elements. Reconstruct the missing areas naturally so there are no obvious signs anything was removed. Do not alter the main subject."
+
+5/ GOLDEN HOUR
+"Transform the lighting into realistic golden hour. Add warm late-afternoon sunlight, soft directional shadows, subtle rim lighting and natural atmospheric warmth while preserving my identity, clothing and surroundings."
+
+6/ LUXURY EDITORIAL
+"Edit this photo like a premium fashion editorial. Use sophisticated lighting, refined contrast, subtle skin retouching, realistic texture, tasteful colour grading and a polished magazine-quality finish. Do not make my skin look artificial."
+
+7/ CHANGE THE BACKGROUND
+"Replace the background with [DESCRIBE NEW LOCATION]. Keep me completely unchanged and photorealistic. Match the perspective, lighting direction, shadows, depth of field and colour temperature so the final image looks like it was genuinely photographed there."
+
+8/ FULL PROFESSIONAL RETOUCH
+"Professionally retouch this photo from start to finish. Improve exposure, white balance, lighting, colour, contrast, sharpness and composition. Remove minor distractions and temporary blemishes while preserving pores, facial features and natural texture. Make it look professionally edited, not AI-generated."
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
