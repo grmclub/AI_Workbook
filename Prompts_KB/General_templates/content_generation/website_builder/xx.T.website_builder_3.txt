@@ -165,6 +165,38 @@ an update breaks something. Complete the preparation you can perform, flag any
 remaining blockers, and clearly distinguish a deployment-ready project from a website
 that is actually live.
 -------------------------------------------------
+🚨Claude can build a PREMIUM website in just 30 minutes.
+8 powerful prompts to build your DREAM website 👇
+
+1. The Ultra-Premium Website Builder
+Act as an expert premium website designer. I want to create a stunning, interactive website for [business type] in just 30 minutes. Give me: the exact sections to include, the design elements that make the site feel like a $10K website, and persuasive copy that encourages visitors to take action right away.
+
+2. The First-Impression Specialist
+Act as a website first-impression expert. My website needs to grab visitors’ attention within 3 seconds. Design my hero section with: a powerful headline that stops them, a compelling subheadline that keeps them scrolling, and a clear CTA that makes the next step feel effortless.
+
+3. The High-Converting Page Copywriter
+Act as a conversion optimization expert. Write the complete homepage for my [offer], targeting [audience]. Include: a compelling hook, the problem section, the solution reveal, a strong proof element, and a persuasive CTA that makes purchasing feel like the smartest decision they can make today.
+
+4. The Premium Portfolio Creator
+Act as a professional portfolio website expert. I want to create a portfolio for [profession] that encourages potential clients to contact me immediately. Design it with: a premium project showcase that highlights my best work, an About section that builds instant credibility and trust, and a clear contact CTA that makes hiring me simple and effortless.
+
+5. The High-Converting Service Page Copywriter
+Act as a service page copywriting expert. Write the complete service page for my [service], priced at [$X]. Include: a headline that speaks directly to my ideal clients, a compelling service description that clearly communicates the value, and a strong booking CTA that makes saying yes feel like the natural next step.
+
+6. The About Page Storytelling Expert
+Act as an About page storytelling expert. Write the complete About page for my [business]. Include: an opening that builds trust instantly, a compelling story that connects my journey to my audience, and a personal, human element that makes visitors want to work with me specifically.
+
+7. The Mobile Experience Optimizer
+Act as a mobile website optimization expert. My website doesn’t look good on phones, and I’m losing potential customers because of it. Fix it completely: redesign the layout to feel premium on mobile, optimize button sizes for easy tapping, and improve loading speed so visitors stay instead of leaving.
+
+8. The Complete Website Copy System
+Act as a professional website copywriting expert. Write all the copy for my [business type] website, including: the homepage headline, About section, Services section, testimonial ideas, FAQ section, and footer CTA. Make every word purposeful, persuasive, and valuable.
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
 
