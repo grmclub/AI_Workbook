@@ -102,11 +102,66 @@ Here are my messy thoughts: [PASTE]. Turn them into a clear [EMAIL/POST/PROPOSAL
 8/ WEEK-BACK TOOL
 Audit how I spend a normal week: [PASTE TASKS + HOURS]. Find where I’m losing time through repetition, unnecessary meetings, context switching and manual work. Build a new weekly system designed to save me 20 hours. Show exactly where each saved hour comes from.
 
+-------------------------------------------------
+I FOUND 5 PROMPTS THAT MAKE AI FEEL LIKE A DIFFERENT TOOL.
+Copy these before they disappear into your notes: 👇
+
+1. The Strategic Thinker
+Instead of asking AI for an answer, make it think like a strategist:
+"Act as a senior strategist. Before giving me a recommendation, identify the real problem, list the key constraints, consider 3 possible approaches, compare their trade-offs, then recommend the strongest option. Explain your reasoning clearly."
+
+2. The Brutal Critic
+Want AI to find what's wrong instead of telling you everything looks good?
+"Act as a brutally honest expert. Analyze my idea and identify its 5 biggest weaknesses, hidden assumptions, risks, and potential failure points. Don't praise it unless the praise is genuinely justified. Then show me exactly how to improve it."
+
+3. The Expert Researcher
+Don't just ask AI to explain something.
+Give it a research framework:
+"Analyze this topic like a senior researcher. Separate established facts from assumptions, identify the most important variables, explain competing viewpoints, highlight uncertainties, and finish with the 5 most important conclusions."
+
+4. The Problem Solver
+When you're stuck, don't ask:
+"What's the solution?"
+Use this:
+"Help me solve this problem systematically. First define the problem precisely. Then identify the root causes, separate symptoms from causes, generate multiple solutions, evaluate each against the constraints, and give me the best next action."
+
+5. The AI Operator
+This is the one I use when I want AI to actually help execute something:
+"Act as my AI operator. Take the goal below and break it into the smallest actionable steps. Identify what information you need from me, make reasonable assumptions where possible, complete the work step-by-step, and only ask me questions when they are genuinely necessary."
+
+-------------------------------------------------
+These 7 ChatGPT Prompts unlock a whole new level of thinking 👇
+
+1. Think Like a Billionaire
+Prompt:
+"You are my strategic thinking coach. Help me apply mental models associated with successful entrepreneurs and investors, including systems thinking, long-term thinking, leverage, first principles, and asymmetric opportunities. Give me daily exercises that challenge how I approach decisions, problems, and opportunities."
+
+2. Learn Almost Anything Faster
+Prompt:
+"You are my learning strategist. Create a weekly plan for mastering [insert topic] using evidence-based techniques like spaced repetition, active recall, interleaving, and the Feynman technique. Break down exactly what to study, practice, review, and test myself on each week."
+
+4. Audit How You Think
+Prompt:
+"You are my critical thinking coach. Analyze the thinking patterns, habits, and assumptions I describe here: [describe them]. Identify potential blind spots and inefficient patterns, then suggest practical ways to improve my clarity, decision-making, creativity, focus, and problem-solving."
+
+5. Design Your Ideal Life
+Prompt:
+"You are my life-design strategist. Help me build a realistic plan around five areas: time freedom, health, finances, relationships, and purpose. Recommend systems, routines, environments, boundaries, and habits that support my goals, then turn everything into a weekly action plan."
+
+6. Turn a 10-Year Goal Into a Plan
+Prompt:
+"You are my strategy and leverage advisor. My long-term goal is [insert goal]. Show me how I could make progress faster using prioritization, delegation, automation, AI, skill-building, and high-leverage actions. Identify what I should do, delegate, automate, and stop doing."
+
+7. Build Your Future Self
+Prompt:
+"You are my personal development coach. My goal is to become [insert ideal self]. Help me identify the skills, habits, routines, behaviors, and decision-making patterns that version of me would need. Then create a practical 90-day plan for gradually building them."
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 
 
--------------------------------------------------
--------------------------------------------------
--------------------------------------------------
--------------------------------------------------
--------------------------------------------------
 
