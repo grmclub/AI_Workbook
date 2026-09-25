@@ -239,7 +239,44 @@ Prompt:
 Example:
 "Create an intriguing visual for 6th-grade science showing a mysterious plant growing differently under three conditions: sunlight, partial shade, and darkness. Include visible differences in height, leaf color, and growth. Give students enough clues to predict what caused the differences and design an investigation. Do not provide answers."
 -------------------------------------------------
--------------------------------------------------
--------------------------------------------------
--------------------------------------------------
+🚨 NotebookLM can build a complete course 0n ANY subject from your sources.
+8 prompts to plan lessons, activities, assessments and resources. 👇
 
+1️. Plan the Course
+Prompt:
+"Using only the sources added to NotebookLM, help me plan a course on [subject/course topic] for [educational level/age group]. Define the course purpose, intended learners, prerequisite knowledge, overall goals, duration, delivery format, and key considerations or constraints supported by the sources. Identify the major areas the course should cover and organize them into a clear course overview that can guide the next stages of course development. Base all recommendations on the uploaded sources, and clearly indicate when the sources do not provide enough information to make a specific decision."
+
+2️. Write Learning Outcomes
+Prompt:
+"Using only the sources added to NotebookLM, write clear, measurable learning outcomes for a course on [subject/course topic] for [educational level/age group]. Define what learners should know, understand, and be able to do by the end of the course. Use specific, observable action verbs and include an appropriate range of knowledge, skills, and higher order thinking. Ensure the outcomes are realistic, relevant to the course purpose, appropriate to the learners’ level, and supported by the uploaded sources. Do not introduce outcomes that cannot be justified by the sources."
+
+3️. Organize the Course
+Prompt:
+"Using only the sources added to NotebookLM, organize a course on [subject/course topic] for [educational level/age group] into a clear and logical sequence of units or modules. Use the course learning outcomes and source content to determine what should be taught, in what order, and at what depth. For each unit, provide a title, key topics, related learning outcomes, and suggested duration where the sources provide enough information. Ensure the sequence builds progressively from foundational knowledge and skills to more advanced learning. Do not introduce content that is not supported by the uploaded sources."
+
+4️. Plan the Lessons
+Prompt:
+"Using only the sources added to NotebookLM, plan the lessons for each unit of a course on [subject/course topic] for [educational level/age group]. Align each lesson with the relevant course learning outcomes and unit goals. For each lesson, include clear objectives, key content, suggested teaching and learning methods, learning activities, required resources, estimated timing, and appropriate checks for understanding. Ensure the lessons follow a logical progression, build on prior learning, and fit the available course time. Do not introduce content that is not supported by the uploaded sources."
+
+5️. Create Learning Activities
+Prompt:
+"Using only the sources added to NotebookLM, create engaging learning activities for a course on [subject/course topic] for [educational level/age group]. Align each activity with the relevant learning outcomes, unit content, and lesson objectives. Include an appropriate variety of individual, pair, group, practical, problem-solving, discussion, inquiry, or project-based activities depending on the subject and learners. For each activity, provide its purpose, clear instructions, expected learner output, and suggested duration. Ensure the activities promote active learning, meaningful participation, and progressively deeper understanding. Do not introduce content that is not supported by the uploaded sources."
+
+6️. Create Assessments
+Prompt:
+"Using only the sources added to NotebookLM, create an assessment plan for a course on [subject/course topic] for [educational level/age group]. Align each assessment with the relevant course learning outcomes and taught content. Include an appropriate combination of diagnostic, formative, and summative assessments to measure learners’ knowledge, skills, and progress throughout the course. For each assessment, specify its purpose, learning outcomes assessed, task or format, and clear success criteria. Include rubrics or scoring criteria where appropriate and opportunities for meaningful feedback. Ensure all assessments are fair, practical, and supported by the uploaded sources. Do not introduce content that is not supported by the sources."
+
+7️. Prepare Learning Resources
+Prompt:
+"Using only the sources added to NotebookLM, prepare appropriate learning resources for a course on [subject/course topic] for [educational level/age group]. Based on the course learning outcomes, units, lessons, and activities, identify and organize relevant materials from the uploaded sources, such as readings, examples, reference materials, practice tasks, worksheets, and other useful content. Explain how each resource supports the relevant learning outcome or lesson. Where appropriate, use the source material to create new learning resources while remaining faithful to its content. Ensure all resources are accurate, accessible, level appropriate, and grounded in the uploaded sources. Do not introduce unsupported information or external sources."
+
+8️. Review and Improve the Course
+Prompt:
+"Using only the sources added to NotebookLM, review the complete course on [subject/course topic] for [educational level/age group]. Evaluate the alignment among the course purpose, learning outcomes, content, sequence, lessons, activities, assessments, and learning resources. Identify gaps, unnecessary repetition, weak progression, inconsistencies, or areas that need improvement. Check whether the course is coherent, appropriately challenging, realistic in scope, and suitable for the intended learners. Recommend specific revisions to strengthen the course while remaining grounded in the uploaded sources. Clearly indicate when the sources do not provide enough evidence to support a recommendation, and do not introduce unsupported information or external sources."
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
