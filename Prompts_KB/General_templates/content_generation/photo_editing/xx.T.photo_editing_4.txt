@@ -49,6 +49,34 @@ Transform my photo into a realistic golden-hour portrait. Keep my identity, face
 Transform my photo into a realistic professional urban street portrait. Preserve my exact face, identity, body proportions, expression, and clothing. Enhance the natural lighting, shadows, colors, and background while adding realistic depth of field and subtle camera grain. Keep the scene authentic, cinematic, and natural—no face reshaping, artificial skin, or exaggerated effects.
 
 -------------------------------------------------
+🚨 YOUR PHOTOS JUST GOT A SERIOUS UPGRADE.
+ChatGPT can retouch your photos like a pro without changing your face.
+💨 7 powerful prompts to make every photo look insanely better. 👇
+
+1.  FINAL PRO PHOTORETOUCH
+Retouch this photo as a professional high-end photographer and editor would. Improve exposure, lighting, dynamic range, sharpness, color balance, contrast, depth, and overall image quality. Preserve my exact identity, facial structure, proportions, skin texture, natural imperfections, clothing, pose, and original composition. Do not reshape, beautify, age, or alter my face. Keep everything photorealistic, natural, and indistinguishable from a professionally captured photograph.
+
+2.  DSLR & LENS UPGRADE
+Transform this photo to look as if it were captured with a premium full-frame DSLR and professional lens. Improve depth, dynamic range, micro-contrast, sharpness, exposure, and natural subject separation. Create realistic lens depth and subtle background falloff without changing the scene. Preserve my exact face, identity, skin texture, proportions, clothing, pose, and every important detail. No artificial or AI-generated look.
+
+3.  PROFESSIONAL LIGHTING
+Re-light this photo like a professional portrait photographer. Correct exposure, white balance, highlights, shadows, skin illumination, and uneven lighting. Add realistic dimensionality and natural light falloff while preserving the original environment and mood. Keep my face, skin tone, facial features, clothing, pose, proportions, and composition completely unchanged. Make the lighting look physically realistic.
+
+4.  CINEMATIC PHOTO UPGRADE
+Give this photo a premium cinematic treatment while keeping it completely photorealistic. Refine lighting, contrast, tonal depth, color grading, highlights, shadows, and atmosphere for a polished cinematic look. Preserve natural skin tones, facial texture, identity, clothing, pose, environment, and composition. Use subtle film-style enhancement only — no excessive effects, artificial skin, or unrealistic colors.
+
+5.  NATURAL SKIN RETOUCH
+Professionally retouch my skin while preserving authentic realism. Remove temporary blemishes, spots, and minor distractions while keeping natural pores, fine lines, texture, facial structure, and skin tone intact. Do not reshape my face, smooth it excessively, change my age, whiten my skin, or alter my identity. The final result should look naturally photographed, not digitally retouched.
+
+6.  PREMIUM COLOR GRADE
+Apply a refined professional color grade to this photo. Balance exposure, contrast, highlights, shadows, white balance, saturation, and tonal range while preserving accurate and natural skin tones. Create a polished, premium photographic look without changing the original mood or scene. Avoid oversaturation, crushed shadows, artificial colors, or an obvious editing effect.
+
+7.  DISTRACTION-FREE BACKGROUND
+Remove these unwanted background elements: [DESCRIBE OBJECTS]. Reconstruct the affected areas seamlessly using the correct perspective, lighting, shadows, textures, reflections, and depth of field. Make the edit completely invisible and photorealistic. Keep my face, body, clothing, pose, proportions, hair, lighting, and original composition exactly unchanged.
+
+8.  STUDIO PORTRAIT FINISH
+Turn this photo into a premium studio-quality portrait while preserving the person exactly as they are. Refine facial lighting, skin rendering, exposure, contrast, sharpness, depth, and color balance with subtle professional adjustments. Preserve every defining facial feature, natural skin texture, proportions, hairstyle, clothing, and expression. Do not alter identity or create a beauty-filter effect. The final image should look like an authentic professional photoshoot.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
