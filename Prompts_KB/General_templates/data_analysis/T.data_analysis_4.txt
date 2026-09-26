@@ -84,7 +84,68 @@ With Python, libraries such as Pandas, NumPy, Matplotlib, and Seaborn can suppor
 EDA is not just about making charts. It helps you spot anomalies, understand distributions, discover relationships, and decide what should happen next in the analysis.
 
 -------------------------------------------------
+## Data analysis_1
+
+1. UNDERSTAND THE DATA
+PROMPT:
+"Analyze this spreadsheet like a senior business analyst. Explain what the data represents, identify the key trends and anomalies, detect missing values or possible errors, and highlight the most important business insights. Focus on patterns that could influence decisions." 
+
+2. GENERATE EXCEL FORMULAS
+PROMPT:
+"Generate the exact Excel formulas needed for this dataset. Help me calculate growth rates, profit margins, averages, forecasts, lookups, and conditional logic. Choose the most appropriate Excel functions and briefly explain how each formula works." 
+
+3. CLEAN AND FIX THE DATA
+PROMPT:
+"Act as a data-cleaning specialist. Examine this spreadsheet for duplicates, inconsistent formatting, missing values, broken formulas, outliers, and other data-quality issues. Identify each problem, explain why it matters, and recommend the appropriate correction." 
+
+4. FIND BUSINESS INSIGHTS
+PROMPT:
+"Act as a senior strategy consultant analyzing this spreadsheet. Identify the biggest opportunities, risks, hidden trends, customer behavior patterns, and revenue drivers. Then provide practical, data-backed recommendations for improving business performance and growth." 
+
+5. CREATE CHART AND DASHBOARD IDEAS
+PROMPT:
+"Review this dataset and recommend the most useful charts and dashboard layout. For each recommendation, explain why it matters, what insight it reveals, the ideal chart type, and the key takeaway an executive should understand." 
+
+6. BUILD AN AUTOMATION WORKFLOW
+PROMPT:
+"Design an automated reporting workflow using this spreadsheet. Include recurring reports, KPI tracking, alerts, automated summaries, dashboard structure, and practical automation opportunities. Explain how the workflow can reduce repetitive manual work." 
+
+7. CREATE AN EXECUTIVE SUMMARY
+PROMPT:
+"Summarize this spreadsheet as if you were presenting the findings to senior executives. Keep the summary concise, strategic, data-driven, and easy to understand. Focus on the most important findings, decisions, risks, opportunities, and recommended actions." 
+
+8. PERFORM A FULL DATA REVIEW
+PROMPT:
+"Perform a comprehensive review of this spreadsheet. Validate the data quality, identify important trends, anomalies, relationships, and performance patterns, explain the most significant business insights, and finish with clear, prioritized recommendations based on the data." 
+
+-------------------------------------------------
+## 15 ChatGPT Prompts Every Data Analyst Should Know
+
+================================================================
+#  | Command      | Description
+================================================================
+01 | /summary     | Summarize this dataset and key findings. 
+02 | /clean       | Clean and preprocess this data. 
+03 | /explore     | Explore this dataset and show key statistics. 
+04 | /analyze     | Analyze this data and extract insights. 
+05 | /patterns    | Find patterns and trends in this data. 
+06 | /correlation | Check correlations between variables. 
+07 | /visualize   | Suggest the best charts to visualize this data. 
+08 | /insights    | Generate meaningful insights from this data. 
+09 | /hypothesis  | Help me frame hypotheses for this analysis. 
+10 | /compare     | Compare two datasets and highlight differences. 
+11 | /forecast    | Forecast future trends based on this data. 
+12 | /segment     | Segment this data for better understanding. 
+13 | /outliers    | Detect outliers and anomalies in this data. 
+14 | /report      | Create a summary report for this analysis. 
+15 | /recommend   | Give actionable recommendations from this data. 
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
+
