@@ -23,6 +23,47 @@ Prompt:
 "You are my inner genius mentor. Based on my date of birth [insert DOB], identify the unique talent or skill that sets me apart from 99% of people. Then give me a practical 3-step daily routine I can follow to unlock this genius and turn it into mastery and recognition in my lifetime."
 
 -------------------------------------------------
+I gave ChatGPT my birth date. Then I asked it 4 questions about my life. The last one made me think 😮
+
+1. Build my life map
+Paste into ChatGPT:
+"Using my birth date [DD/MM/YYYY] to understand my age and current life stage, help me build a personal life map.
+Ask me 5 questions about my priorities, strengths, challenges, relationships, and goals.
+Then connect my answers and identify:
+• 5 strengths to build on
+• 5 areas worth improving
+• 3 questions I should ask myself
+Don’t make assumptions from my birth date alone."
+
+2. Find my blind spots
+Paste into ChatGPT:
+"Use my birth date [DD/MM/YYYY] only to understand my age and life stage.
+Then ask me 5 revealing questions that could uncover blind spots in how I make decisions or handle relationships.
+Based only on my answers, identify recurring patterns worth examining.
+For each one, show me:
+Trigger → Reaction → Underlying need → Better response
+Don’t diagnose or label me."
+
+3. Explore my next path
+Paste into ChatGPT:
+"Using my birth date [DD/MM/YYYY] for age and life-stage context, help me explore what I might want next.
+Ask me about the problems I enjoy solving, environments where I thrive, what motivates me, and what drains me.
+Then suggest 3 possible directions to explore.
+For each, explain:
+• What I might gain
+• What I might give up
+• The biggest tradeoff
+• One small way to test it"
+
+4. Build my self-care plan
+Paste into ChatGPT:
+"Use my birth date [DD/MM/YYYY] only for age and life-stage context.
+Ask me about my schedule, stressors, energy, responsibilities, boundaries, and what helps me recharge.
+Then build a realistic self-care plan around my answers.
+Separate it into:
+Recharge → Stabilize → Grow
+Finish with a daily, weekly, and monthly routine, plus a simple plan for stressful days."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
