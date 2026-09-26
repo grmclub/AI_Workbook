@@ -203,6 +203,37 @@ Context: I'm a [your role]. My audience is [boss/clients]. Keep my tone confiden
 This is how you stop sounding like an employee and start sounding like an advisor.
 Reply
 -------------------------------------------------
+🚨 BREAKING: Claude can now analyze your business like an MBA consultant.
+Here are 8 powerful prompts for market research, competitor analysis, pricing, and strategy. 👇
+
+1️. Full Business Analysis
+"Act as an MBA-trained business strategist. Analyze my business [describe] across its business model, market position, competition, operations, and growth bottlenecks. Identify the 3 highest-impact strategic moves for the next 12 months and explain why each matters."
+
+2️. Market Research Report
+"Act as a senior market research analyst. I’m entering [market] with [offer]. Analyze the market, customer segments, key trends, unmet needs, competition, and timing. Identify the strongest opportunity and biggest risk before I enter."
+
+3️. Competitor Teardown
+"Act as a competitive intelligence strategist. Analyze my top 3 competitors: [list]. Compare their positioning, pricing, strengths, weaknesses, acquisition channels, and differentiators. Then identify a realistic market gap I can use to stand out."
+
+4️. Pricing Strategy Audit
+"Act as a pricing strategist. My offer is [describe] and costs [price]. Evaluate the price against customer value, competitors, target market, and willingness to pay. Identify my pricing power and the changes that could justify a higher price."
+
+5️. Customer Segmentation
+"Act as a customer segmentation specialist. Analyze my business [describe] and customers [describe]. Identify the 3 highest-value segments, their needs, buying triggers, willingness to pay, and best acquisition channels. Recommend where to focus first."
+
+6️. SWOT Analysis
+"Act as a strategic business analyst. Build a specific SWOT analysis for [business]. Avoid generic advice. For every weakness, provide a practical fix; for every threat, a mitigation strategy; and for every opportunity, the first action to take."
+
+8️. Strategic Growth Plan
+"Act as a business strategy consultant. My business generates [amount] from [offer], and I want to reach [target] within [timeframe]. Build a growth plan covering revenue levers, new markets, offers, acquisition, and key metrics. Identify my biggest constraint and the first move to overcome it."
+
+7️. Go-To-Market Strategy
+"Act as a senior go-to-market strategist. I’m launching [product] for [audience] in [market]. Build a GTM plan covering positioning, ideal customers, acquisition channels, launch sequence, messaging, and a strategy to acquire my first 100 customers."
 -------------------------------------------------
 -------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
 
