@@ -7,23 +7,13 @@ TURN CLAUDE INTO "ADHD FOCUS MODE"
 Try this prompt:
 "I’m stuck on [Task] and can’t get started. Break it into ridiculously small steps that each take less than 1 minute.
 Give me ONLY the first step and make it so easy I can start right now."
-Reply
-Brad Gaines
- ·
- ·
 
-Author
 2. BORED AFTER 5 MINUTES?
 Try this prompt:
 "I’m struggling to stay engaged with [Task].
 Turn it into a ‘Dopamine Menu’ with quick 5-minute tasks, 20-minute focus sessions, and 10-minute creative breaks.
 Make it feel varied enough that I actually want to keep going."
-Reply
-Brad Gaines
- ·
- ·
 
-Author
 3. NEED SOMEONE TO KEEP YOU ON TRACK?
 Try this prompt:
 "Act as my virtual body double while I work on [Task].
@@ -33,12 +23,7 @@ Help me choose one thing to work on for the next 30 minutes. When I come back wi
 Try this prompt:
 "I just finished [Task A], but I need to start [Task B] and my brain is still stuck on the first task.
 Create a simple 3-minute reset routine that helps me mentally switch gears and start Task B."
-Reply
-Brad Gaines
- ·
- ·
 
-Author
 5. MAKE A BORING TASK A GAME
 Try this prompt:
 "I need to finish this boring task: [Task].
