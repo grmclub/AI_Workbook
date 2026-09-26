@@ -390,4 +390,45 @@ Claude-Mem gives Claude Code persistent context across work sessions.
 It captures useful observations from previous coding sessions and provides memory-search tools that help Claude recover relevant project decisions, implementation details, bug fixes, and earlier context.
 This can reduce the need to repeatedly explain the same codebase and help longer development projects continue with better continuity.
 -------------------------------------------------
+🚨 GEMINI JUST CHANGED VIDEO EDITING.
+Turn raw footage into polished content in seconds with these powerful prompts.
+
+1️. Cinematic Upgrade
+"Transform this video into a cinematic, high-end production. Keep [main subject] exactly unchanged. Enhance the lighting, depth, color grading, camera movement, and visual atmosphere to match [cinematic style]. Preserve all important details and keep the result natural and realistic."
+
+2️. Background Replacement
+"Replace the current background with [new location]. Keep [main subject] completely unchanged. Match perspective, lighting, shadows, reflections, depth, and camera movement so the new environment looks naturally filmed in the original scene."
+
+3️. Object Removal
+"Remove [object] from the entire video seamlessly. Reconstruct the hidden area using the surrounding environment and maintain consistent textures, lighting, shadows, and motion across every frame. Keep the main subject and camera movement unchanged."
+
+4️. Object Replacement
+"Replace [old object] with [new object] throughout the video. Preserve the original perspective, scale, lighting, shadows, reflections, and motion. Make the new object blend naturally into every frame without altering the main subject or background."
+
+5️. Outfit Change
+"Change [person’s outfit] to [new outfit style]. Keep the person’s face, identity, body shape, pose, and movement exactly the same. Make the new clothing fit naturally, move realistically, and match the original lighting and shadows."
+
+6️. Style Transfer
+"Transform this video into a [style] aesthetic. Apply [visual details], [color palette], [lighting], and [texture] while preserving the subject, composition, movement, and key details. Make the style consistent and cinematic across every frame."
+
+7️. Product Ad Edit
+"Turn this product video into a premium, high-converting commercial for [product]. Keep the product’s shape, colors, logo, and key features unchanged. Add [background], [lighting], and [camera movement] to create a polished, realistic, luxury-ad aesthetic."
+
+8️. Action Effects
+"Add [visual effect] precisely when [specific action] occurs. Trigger it at [timing] and make it react naturally to the movement. Keep the subject, environment, camera movement, and original composition unchanged. Make the effect realistic and seamlessly integrated."
+
+9️. Face & Identity Protection
+"Preserve [person’s] identity exactly as shown in the original video. Do not modify the eyes, nose, mouth, facial structure, skin tone, hair, or expression. Only change [specific element] while keeping the face consistent and recognizable throughout every frame."
+
+10. Camera Angle Change
+"Recreate this scene from a [new camera angle] while preserving the original action and subject. Adjust perspective, depth, lighting, shadows, and background geometry to make the new viewpoint physically believable and seamlessly filmed."
 -------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
+
+
