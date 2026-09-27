@@ -249,10 +249,66 @@ Here are 8 powerful prompts for market research, competitor analysis, pricing, a
 7️. Go-To-Market Strategy
 "Act as a senior go-to-market strategist. I’m launching [product] for [audience] in [market]. Build a GTM plan covering positioning, ideal customers, acquisition channels, launch sequence, messaging, and a strategy to acquire my first 100 customers."
 -------------------------------------------------
--------------------------------------------------
--------------------------------------------------
--------------------------------------------------
--------------------------------------------------
--------------------------------------------------
+## RIP McKinsey. You don’t need a $300k consultant anymore.
+You can now run full competitive market analysis using Claude Opus 5.5.
+Here are the exact 3 mega-prompts I use to replicate McKinsey-style insights 👇
 
+Let me tell you what McKinsey consultants actually do:
+1. Analyze industry trends and competitive dynamics
+2. Benchmark companies and products
+3. Identify strategic risks and opportunities
+4. Package it all in fancy slides and charge 6 figures
+But guess what?
+Claude can now do 90% of that instantly. We use these 3 mega prompts for different tasks:
+
+
+1/ The Consultant Framework
+Prompt: "You are a world-class strategy consultant trained by McKinsey, BCG, and Bain. You were hired to provide a $300,000 strategic analysis for a client in the chosen industry sector.
+Here is your mission:
+1. Analyze the current state of the chosen industry market by user below.
+2. Identify key trends, emerging threats, and disruptive innovations.
+3. Map out the top 3-5 competitors and benchmark their business models, strengths, weaknesses, pricing, distribution, and brand positioning.
+4. Use frameworks like SWOT, Porter’s Five Forces, and strategic value chain analysis to assess risks and opportunities.
+5. Provide a one-page strategic brief with actionable insights and recommendations for a hypothetical company entering or growing in this space.
+Output everything in a clean, well-polished slide deck. Run a loop until it's McKinsey-level. Verify all the facts. Think like a McKinsey partner preparing for a C-suite meeting.
+Industry: [INSERT INDUSTRY OR MARKET HERE]"
+
+2/ The Competitive Deep Dive
+Prompt: "You are a senior consultant preparing a competitive market analysis deck for a $10B strategy client.
+Your task:
+- Analyze the overall landscape of the chosen industry by user below.
+- Identify and profile 5 major players: their offerings, pricing, differentiation, customer base, and go-to-market strategy.
+- Use comparison matrices to highlight competitive positioning.
+- Reveal where gaps or white space exist in the market.
+- Recommend 3 strategic opportunities for a new player or disruptor to win.
+Your output should be a McKinsey-level consulting slide: executive summary, key insights, and structured frameworks (charts, 2x2s, tables). Loop until it's McKinsey-level and all facts are verified.
+Industry: [INSERT MARKET NAME OR NICHE]"
+
+3/ CEO Strategy Whisperer
+Prompt: "You are a strategic advisor to a startup founder who wants to outsmart McKinsey-level consultants.
+Here’s your assignment:
+- Conduct a deep-dive market analysis on industry/sector chosen by user below.
+- Summarize top industry trends and inflection points in the last 12 months
+- Analyze 3-5 leading competitors using SWOT + pricing + positioning + customer targeting
+- Identify hidden risks (economic, regulatory, technological) in this market
+- Surface opportunities and recommend 3 clear go-to-market plays
+- Present this like a slide deck: bolded titles, bullet summaries, clear insights
+Write in the voice of a calm, hyper-logical expert who charges $5,000/hr.
+Start with a summary box. Then show insights grouped by slide title (like: “Slide 1: Market Overview”, “Slide 2: Key Trends”, etc.). Loop until the slides are McKinsey-level and each stated fact is verified.
+Market focus: [INDUSTRY/SECTOR]"
+
+You’re not replacing McKinsey with fluff.
+You’re replacing them with structured reasoning, logic, and fast iteration at zero cost.
+Welcome to the end of overpriced slides.
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 
