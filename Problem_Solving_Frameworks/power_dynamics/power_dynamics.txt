@@ -40,15 +40,15 @@ Action and Adaptability
 Machiavelli’s 13 Laws of Power: A Story of How Invisible People Learn to Move the Pieces
 https://medium.com/@hemant.panda9/machiavellis-13-laws-of-power-a-story-of-how-invisible-people-learn-to-move-the-pieces-58ac1bfaf37a
 
-Law 1: Never outshine the master
-Law 2: Conceal your intentions
-Law 3: Appeal to self interest, never to mercy
-Law 4: Master strategic absence
-Law 5: Become a mirror
-Law 6: Control information
-Law 7: Use the useful enemy
-Law 8: Play to their fantasy
-Law 9: Practice emotional alchemy
+Law 01: Never outshine the master
+Law 02: Conceal your intentions
+Law 03: Appeal to self interest, never to mercy
+Law 04: Master strategic absence
+Law 05: Become a mirror
+Law 06: Control information
+Law 07: Use the useful enemy
+Law 08: Play to their fantasy
+Law 09: Practice emotional alchemy
 Law 10: Assume formlessness
 Law 11: Create dependence
 Law 12: Control the options
