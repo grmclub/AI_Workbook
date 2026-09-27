@@ -374,9 +374,47 @@ Even better: try recalling the answer before looking.
 Spacing and retrieval practice are among the better-supported strategies in learning research.
 
 -------------------------------------------------
--------------------------------------------------
--------------------------------------------------
--------------------------------------------------
+## 8 ChatGPT Prompts to Save You 20 Hours a Week 👇
 
+1/ Turn a messy brain dump into a plan
+PROMPT: Here’s everything I need to get done: [PASTE YOUR LIST]
+Organise this into a prioritised action plan. Rank each task by impact and urgency, estimate how long each will take, and tell me what I should do first, delegate, automate or ignore.
+
+2/ Clear your inbox faster
+PROMPT: Here’s an email I received: [PASTE EMAIL]
+Summarise what they actually want in one sentence. Identify every action item, question and deadline. Then draft a concise reply in my natural tone that addresses everything required. Remove unnecessary corporate language and keep it clear and human.
+
+3/ Turn meetings into action items
+PROMPT: Here’s my meeting transcript or notes: [PASTE NOTES]
+Turn this into a clear meeting summary. Extract the key decisions, action items, owners, deadlines, unanswered questions and anything requiring follow-up. Finish with a short follow-up email I can send to everyone involved.
+
+4/ Do 60 minutes of research in 5
+PROMPT: I need to understand: [TOPIC]
+Give me the 20% of information that will give me 80% of the understanding. Explain it simply without assuming prior knowledge. Separate confirmed facts, assumptions and unknowns. Highlight anything commonly misunderstood, then finish with the 5 most important things I should know or do next.
+
+5/ Create a week of content at once
+PROMPT: My expertise is [TOPIC]. My audience is [AUDIENCE]. My goal is [GOAL].
+Turn one strong core idea into 7 days of content. Give me 3 scroll-stopping hooks, a LinkedIn post, short-form video script, email, carousel outline and 5 repurposing ideas. Make every piece feel native to its platform, useful and specific. Avoid generic advice and corporate language.
+
+6/ Stop staring at spreadsheets
+PROMPT: Analyse this data: [PASTE OR UPLOAD DATA]
+Find the biggest trends, anomalies, opportunities and problems I might have missed. Quantify anything important and explain the findings in plain English. Tell me why each insight matters, then recommend 5 specific actions I should take based on the data.
+
+7/ Automate repetitive work
+PROMPT: I repeatedly do this task: [DESCRIBE TASK]
+Map the entire process step by step. Identify which steps can be eliminated, simplified, templated, delegated or automated with AI. Then design the simplest improved workflow and show me the exact triggers, actions, tools and human approval points required to implement it.
+
+8/ Make ChatGPT your daily chief of staff
+PROMPT: Act as my chief of staff.
+My goals are: [GOALS]
+Today I need to complete: [TASKS]
+I have [X HOURS] available. Build the highest-impact schedule for my day. Prioritise tasks based on their contribution to my goals, challenge anything that doesn’t deserve my time, identify what I can delegate or automate, and give me the 3 non-negotiable outcomes I should complete today.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 
 
