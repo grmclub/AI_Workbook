@@ -27,6 +27,37 @@
 "Act as my AI productivity operator. Given my goals, tasks, deadlines, and available time, prioritize my work, identify what can be automated or delegated, create a practical schedule, and tell me the highest-impact action to take first."
 
 -------------------------------------------------
+Stop telling ChatGPT "summarize this"
+Stop telling ChatGPT "explain this"
+Stop telling ChatGPT "is this any good?"
+
+That's how you get answers that sound smart and change nothing.
+
+Use these 8 prompts instead 👇
+
+1) The summary for a decision
+"Summarize [DOCUMENT] for someone who has to decide [DECISION] by [DATE]. Lead with the three facts that change the decision, then anything that contradicts them, then what's missing. Under [WORD COUNT]. Skip every section that doesn't bear on this decision and tell me which ones you skipped."
+
+2) The explanation at your level
+"Explain [TOPIC] to someone who understands [WHAT I KNOW] but not [WHAT I DON'T]. Start with the one idea everything depends on. Use one example from [MY JOB]. After each part, give me the question I should now be able to answer, and wait for my answer before going on."
+
+3) The honest feedback
+"Here is [MY DRAFT]. It's for [AUDIENCE] and it has to [GOAL]. Don't tell me what's good. Tell me the three things most likely to make [AUDIENCE] stop reading, in order, with the exact line where each happens. Rewrite only the worst one. If it's fine, say so in one sentence."
+
+4) The two-option comparison
+"I'm choosing between [A] and [B] for [PURPOSE]. My constraints are [BUDGET, TIME, LOCATION] and I care most about [PRIORITY]. Compare them only where they differ. Tell me which you'd pick for me, the one condition that would make you switch, and the question I should answer before deciding."
+
+5) The week plan
+"Here's everything on my plate [LIST] and my fixed commitments [MEETINGS]. Pick the three that matter most for [MY GOAL THIS MONTH]. Give each a first step under 10 minutes and a day to do it. Park the rest on a later list. Then tell me which of the three I'm most likely to avoid, and why."
+
+6) The hard email
+"Reply to this email [PASTE]. They are my [BOSS / CLIENT / LANDLORD]. I need [OUTCOME]. I won't [LINE I WON'T CROSS]. Tone [FIRM / WARM]. Under [WORD COUNT], no apologizing for things that aren't my fault, end with one clear next step. Then tell me the line they'll push back on."
+
+7) The learning plan
+"I want to learn [SKILL] well enough to [WHAT I'LL DO WITH IT] within [TIMEFRAME], with [HOURS] a week. Give me the 20% that gets me 80% of the way, in order, one thing to practice per week, and a way to test myself each week that doesn't involve asking you."
+
+8 ) The claim check
+"Here's a claim I'm about to act on [CLAIM]. Split it into what's established, what's contested, and what's unknown. Mark anything you can't source as unverified. Give me the one check I can do myself in five minutes, then tell me plainly whether to act, wait, or verify first."
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
