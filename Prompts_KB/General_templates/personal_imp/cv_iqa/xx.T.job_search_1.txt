@@ -1,0 +1,132 @@
+
+
+-------------------------------------------------
+## My cousin had been struggling to find a job for months.
+So I helped him use Claude to apply to 300 jobs.
+
+The next morning, his phone was blowing up. 9 interview calls in 24 hours.
+These were the 10 exact prompts we used 👇
+
+1. The "Apply to Jobs for Me" Master Prompt
+Act as my AI job-search assistant. My target role is [JOB TITLE], preferred locations are [LOCATIONS/REMOTE], minimum salary is [$X], and I have [X YEARS] of experience in [SKILLS/INDUSTRY].
+Use my resume/profile below to find jobs posted within the last [7/14/30] days that match at least [70]% of my background. Prioritize jobs where I meet the core requirements, not aspirational roles.
+For every suitable job:
+1. Check that it is still open.
+2. Avoid duplicates, staffing spam, commission-only roles, and jobs requiring skills I clearly don’t have.
+3. Tailor my resume summary and top 5 bullets to the job description without inventing experience.
+4. Write a short personalized cover note under 150 words.
+5. Prepare answers for common application questions using only information I provide.
+6. Add the company, role, salary, link, match score, date, and application status to a tracker.
+If you have permission and tools to submit applications, show me the completed application for approval before submitting. Otherwise, prepare everything so I can apply quickly.
+My resume/profile: [PASTE RESUME]
+
+2. Find 100 High-Match Jobs Instead of Randomly Applying
+Find [100] currently open [JOB TITLE] positions matching my profile. Search for these related titles too: [TITLE 1, TITLE 2, TITLE 3].
+Filters: [REMOTE/HYBRID/ONSITE], [LOCATION], salary above [$X], experience level [LEVEL], posted within [X DAYS].
+Exclude: [INDUSTRIES/COMPANIES/CONTRACT ROLES/etc.].
+Score every job from 0–100 using: skills match 40%, experience match 25%, industry match 15%, salary/location fit 10%, and qualifications match 10%.
+Only keep jobs scoring 75+. For each result, give me: company | role | location | salary | match score | strongest matching skills | biggest gap | application link.
+My background: [PASTE RESUME]
+
+3. Tailor My Resume Automatically for Every Job
+I will give you my resume and a job description. Create an ATS-friendly version of my resume specifically for that position.
+Keep all facts truthful. Do not invent employers, achievements, certifications, skills, or numbers.
+Identify the 10–15 most important keywords in the job description and naturally incorporate relevant ones into my summary, skills, and experience bullets. Rewrite weak bullets using: action + task + measurable result whenever my existing information supports it.
+Keep the resume to [1/2] pages and place the most relevant experience first.
+At the end, show:
+Keywords added: [...]
+Important gaps: [...]
+Estimated match before: X/100
+Estimated match after: X/100
+Resume: [PASTE]
+Job description: [PASTE]
+
+4. Create a Different Cover Letter for Every Application
+Write a personalized cover letter for this specific job. Do not use generic phrases like "I am excited to apply" unless necessary.
+Structure it in 3 short paragraphs:
+• Why my background fits their biggest need
+• 2 relevant achievements from my resume
+• Why this specific company/role interests me
+Keep it between 120–180 words, professional but conversational. Mention the company and role naturally. Never invent knowledge about the company; if information is missing, leave [EDIT THIS] placeholders.
+Resume: [PASTE]
+Job description: [PASTE]
+
+5. Answer Those Annoying Application Questions
+Act as my job-application answer writer. Using only my resume and information below, create concise answers to application questions such as:
+"Why do you want to work here?"
+"Why are you a good fit?"
+"Tell us about yourself."
+"Describe a relevant accomplishment."
+"What makes you different from other candidates?"
+Keep each answer between 60–120 words unless the form specifies otherwise. Make every answer specific to the job description and avoid unsupported claims.
+For questions requiring information you don't have—salary history, visa status, demographics, disability, legal attestations, or personal preferences—write NEEDS MY INPUT instead of guessing.
+My resume: [PASTE]
+Job description: [PASTE]
+
+6. Turn One Resume Into 5 Job-Specific Versions
+Analyze my resume and create 5 positioning versions targeting these roles:
+[ROLE 1]
+[ROLE 2]
+[ROLE 3]
+[ROLE 4]
+[ROLE 5]
+For each version, rewrite only these sections:
+Headline, professional summary, skills, and the 6 most relevant experience bullets.
+Preserve the same factual work history. Change emphasis and keywords based on what employers hiring for each role are likely to prioritize.
+Also tell me which experiences should appear near the top for each version.
+Resume: [PASTE]
+
+7. Reject Bad Jobs Before I Waste Time Applying
+Review this job description like a strict job-search filter. Compare it against my resume and tell me whether it passes these requirements:
+Must-have: [SALARY], [LOCATION], [REMOTE/HYBRID], [SENIORITY], [INDUSTRY], [VISA/WORK AUTHORIZATION REQUIREMENTS], [OTHER].
+Check for: missing salary information, unrealistic requirement lists, major experience gaps, misleading titles, commission-only compensation, suspicious company details, excessive unpaid assignments, and responsibilities significantly above/below the advertised level.
+Return:
+Match: X/100
+Requirements I meet: [...]
+Requirements I don't meet: [...]
+Potential red flags: [...]
+Questions I should verify before applying: [...]
+Resume: [PASTE]
+Job description: [PASTE]
+
+8. Create My 300-Job Application System
+Design a system for applying to 300 highly relevant jobs over [X] weeks without sending identical applications everywhere.
+Divide applications into three groups:
+Tier A: dream companies/highest match — heavily personalized
+Tier B: strong match — moderately personalized
+Tier C: acceptable match — lightweight personalization
+Recommend how many applications I should complete daily in each tier. Create a tracker containing: company, role, link, date found, match score, resume version, cover note, application date, recruiter, follow-up date, response, interview stage, and notes.
+Also create rules for avoiding duplicates and tell me which applications deserve the most customization.
+My target: [ROLE]
+Location: [LOCATION]
+Salary: [RANGE]
+Background: [PASTE SUMMARY]
+
+9. Follow Up After Every Application
+Write a short follow-up message for a job I applied to [X] days ago.
+Role: [JOB TITLE]
+Company: [COMPANY]
+Contact: [RECRUITER/HIRING MANAGER NAME]
+Relevant achievement: [ACHIEVEMENT]
+Keep it under 90 words. Mention one specific reason my background fits the role, politely reaffirm interest, and ask whether I can provide anything helpful for the hiring process.
+Make it sound human and confident—not desperate, pushy, or AI-generated.
+Give me versions for LinkedIn DM and email.
+
+10. Turn Every Interview Invite Into Interview Prep
+I received an interview for this role. Analyze the job description and my resume and create a targeted interview preparation pack.
+Include:
+• The 10 questions I am most likely to be asked
+• Strong answer outlines using my actual experience
+• 5 STAR stories I should prepare
+• Skills or experience the interviewer may challenge
+• A strong 60-second "Tell me about yourself" response
+• 7 intelligent questions to ask the interviewer
+• A concise explanation for any noticeable resume gaps or weaker qualifications without exaggerating
+Resume: [PASTE]
+Job description: [PASTE]
+Interview type: [RECRUITER/HIRING MANAGER/TECHNICAL/PANEL]
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
