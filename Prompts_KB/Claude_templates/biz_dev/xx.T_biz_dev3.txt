@@ -17,7 +17,7 @@ Act as a SaaS pricing strategist. Design a high-converting pricing page for this
 Include:
 – 3 pricing tiers with clear feature differentiation
 – psychological pricing anchors (decoy effect, value stacking)
-– a “most recommended” tier with justification
+– a "most recommended" tier with justification
 – monthly vs annual pricing with savings breakdown
 – trust signals (testimonials, guarantees)
 – FAQ section that removes buying objections
@@ -234,31 +234,31 @@ Deal: [DESCRIBE OPPORTUNITY, DEAL TERMS, EXPECTED RETURNS]
 
 📌 1/ Custom-Fit Hustle Generator
 Prompt:
-“I have the following skills and interests: [insert your list]. Based on current market trends and my availability (X hours per week), suggest 3 side hustle ideas that align with my strengths and can generate consistent income within 60–90 days.”
+"I have the following skills and interests: [insert your list]. Based on current market trends and my availability (X hours per week), suggest 3 side hustle ideas that align with my strengths and can generate consistent income within 60–90 days."
 
 📌 2/ Real-World Idea Tester
 Prompt:
-“Evaluate this business idea: [insert idea]. Does it address a pain point that people urgently pay to solve? If yes, provide feedback on the ideal target audience and early validation methods I can use (e.g., polls, DMs, test offers).”
+"Evaluate this business idea: [insert idea]. Does it address a pain point that people urgently pay to solve? If yes, provide feedback on the ideal target audience and early validation methods I can use (e.g., polls, DMs, test offers)."
 
 📌 3/ Offer Architecture Toolkit
 Prompt:
-“Help me productize this skill: [insert skill]. Turn it into a packaged offer with a clear name, pricing structure (tiered or flat-rate), and a 1-sentence pitch I can use in bios, DMs, and landing pages.”
+"Help me productize this skill: [insert skill]. Turn it into a packaged offer with a clear name, pricing structure (tiered or flat-rate), and a 1-sentence pitch I can use in bios, DMs, and landing pages."
 
 📌 4/ Client-Attracting Content Plan
 Prompt:
-“Design a 4-week content calendar that helps me consistently attract my dream clients for this service: [insert offer]. Include post types for visibility, credibility, and conversion, across [insert preferred platforms].”
+"Design a 4-week content calendar that helps me consistently attract my dream clients for this service: [insert offer]. Include post types for visibility, credibility, and conversion, across [insert preferred platforms]."
 
 📌 5/ Audience Warm-Up & First Sale Plan
 Prompt:
-“Build a simple but effective engagement strategy that helps me land my first 5 clients. I prefer [insert outreach style: e.g., cold DMs, content nurturing, email, partnerships]. Make it feel authentic, not salesy.”
+"Build a simple but effective engagement strategy that helps me land my first 5 clients. I prefer [insert outreach style: e.g., cold DMs, content nurturing, email, partnerships]. Make it feel authentic, not salesy."
 
 📌 6/ Lead Magnet Strategy Builder
 Prompt:
-“Help me create a powerful lead magnet that solves a mini-version of the problem I solve with my main offer: [insert offer]. Include a catchy title, format (PDF, checklist, video), and clear CTA to lead people into my funnel.”
+"Help me create a powerful lead magnet that solves a mini-version of the problem I solve with my main offer: [insert offer]. Include a catchy title, format (PDF, checklist, video), and clear CTA to lead people into my funnel."
 
 📌 7/ 90-Day Hustle Roadmap
 Prompt:
-“Create a 3-month action plan to launch and grow my side hustle from scratch. I have [insert hours/week] to commit. Include weekly focus areas for setup, audience building, sales, and optimization.”
+"Create a 3-month action plan to launch and grow my side hustle from scratch. I have [insert hours/week] to commit. Include weekly focus areas for setup, audience building, sales, and optimization."
 
 -------------------------------------------------
 ##Marketing & Customer support
@@ -266,54 +266,168 @@ Prompt:
 📌 1. Campaign Strategy Blueprint
 Turn plans into progress, with clarity.
 Prompt:
-“Act as a digital marketing strategist. Create a 30-day promotional roadmap for [insert product/service], including content formats (posts, emails, CTAs) for awareness, engagement, and conversion.”
+"Act as a digital marketing strategist. Create a 30-day promotional roadmap for [insert product/service], including content formats (posts, emails, CTAs) for awareness, engagement, and conversion."
 🔥Why this helps:
 This gives structure to your launch efforts, saving time and ensuring every piece of content moves your audience closer to a ‘yes.’
 
 📌 2. Client Support Power Prompts
 Answer questions before they're asked.
 Prompt:
-“Act as a customer success specialist. Write 5 concise FAQ responses for [insert product/service] that reduce confusion, build confidence, and cut refund requests.”
+"Act as a customer success specialist. Write 5 concise FAQ responses for [insert product/service] that reduce confusion, build confidence, and cut refund requests."
 🔥Why this helps:
 Clear answers not only support your users but also establish trust, leading to better retention and satisfaction.
 
 📌 3. Brand Voice & Identity Builder
 Say it how only you can say it.
 Prompt:
-“From this short brand summary [insert description], help me define my brand voice, core values, and unique edge in the market.”
+"From this short brand summary [insert description], help me define my brand voice, core values, and unique edge in the market."
 🔥Why this helps:
 A solid brand identity makes all your content cohesive and recognizable, which builds loyalty over time.
 
 📌 4. Warm Lead Persuasion Script
 Nudge without being pushy.
 Prompt:
-“Write a friendly and persuasive message for a warm lead who has shown interest in [insert product/service] but hasn’t taken the next step yet.”
+"Write a friendly and persuasive message for a warm lead who has shown interest in [insert product/service] but hasn’t taken the next step yet."
 🔥Why this helps:
 Timely follow-ups turn hesitations into conversations, and conversations into conversions.
 
 📌 5. Task Delegation Clarity Map
 Let others help, the right way.
 Prompt:
-“Act as a project manager. Create a clear task checklist for a virtual assistant to support the launch of [insert campaign/project]. Include tools, timelines, and outcomes.”
+"Act as a project manager. Create a clear task checklist for a virtual assistant to support the launch of [insert campaign/project]. Include tools, timelines, and outcomes."
 🔥Why this helps:
 Delegating without confusion increases productivity and helps your business run smoother, even while you rest.
 
 📌 6. Weekly Content Flow Plan
 Keep your message flowing.
 Prompt:
-“Design a weekly content schedule aligned with the stages of [insert launch or business phase], including themes for visibility, nurturing, and conversions.”
+"Design a weekly content schedule aligned with the stages of [insert launch or business phase], including themes for visibility, nurturing, and conversions."
 🔥Why this helps:
 Planning your content flow avoids burnout and keeps your messaging consistent and strategic.
 
 📌 7. Landing Page Copy That Converts
 Welcome visitors with intention.
 Prompt:
-“Write persuasive landing page copy for a freebie or lead magnet that addresses [insert audience pain point] and encourages them to take action.”
+"Write persuasive landing page copy for a freebie or lead magnet that addresses [insert audience pain point] and encourages them to take action."
 🔥Why this helps:
 Every scroll should bring them closer to clicking, and this prompt ensures that happens with clarity and confidence.
 
 
 -------------------------------------------------
+🚨 BREAKING: You can now build a one-person company around Claude Cowork.
+
+Not by writing bigger prompts.
+
+By building a system where Claude already knows:
+
+Your voice.
+Your business.
+Your priorities.
+Your writing rules.
+And exactly how you want work done.
+
+Set up these 7 pieces once, and Claude gets more useful every time you work.
+
+
+1/ BUILD ONE COWORK FOLDER
+Create one main folder:
+Claude Cowork
+Inside it:
+ABOUT ME
+Your context.
+OUTPUTS
+Finished work.
+TEMPLATES
+Your best reusable formats.
+Instead of scattering context across 50 chats, give Claude one place to work from.
+
+2/ BUILD YOUR "ABOUT ME" FILE
+This is where Claude learns you.
+Don't manually write a corporate bio.
+Let Claude interview you about:
+→ How you think
+→ How you communicate
+→ Your expertise
+→ Your opinions
+→ Your preferences
+→ Your audience
+→ Your natural writing style
+Then turn the answers into:
+about-me.md
+Now Claude doesn't meet a stranger every session.
+
+3/ BUILD YOUR WRITING RULES
+Create:
+anti-ai-slop-style.md
+Put everything Claude should NEVER do inside it.
+Words you hate.
+Phrases you never use.
+Formatting you dislike.
+Sentence patterns that scream "AI."
+Generic openings.
+Overused transitions.
+Now instead of repeatedly saying:
+"Make it sound more human."
+Claude has an actual definition of what human sounds like for you.
+
+4/ GIVE CLAUDE YOUR BUSINESS CONTEXT
+Create:
+my-work.md
+This should contain the context that changes how Claude makes decisions:
+→ What you sell
+→ Who you serve
+→ Your current goals
+→ Your priorities
+→ Your positioning
+→ What you're working on now
+→ What you're intentionally ignoring
+Update it as your business changes.
+Claude can't act like a useful operator if it doesn't know what you're trying to build.
+
+5/ THEN YOUR PROMPTS GET MUCH SHORTER
+Stop rebuilding your entire identity inside every prompt.
+Instead of:
+"My company does X, my audience is Y, write in this tone, don't use these words, structure it like..."
+Your request becomes closer to:
+"I want to [TASK] so that [SUCCESS CRITERIA]. Read my ABOUT ME files first and ask me questions before starting if needed."
+Your files carry the context.
+Your prompt carries the task.
+
+6/ TURN GOOD WORK INTO SYSTEMS
+Whenever Claude produces something great...
+Don't leave it buried inside a conversation.
+Save the structure.
+A great newsletter becomes a template.
+A strong sales email becomes a template.
+A useful content workflow becomes a Skill.
+A process you repeat every week becomes a reusable system.
+This is how a one-person business starts gaining leverage.
+
+7/ THE REAL PAYOFF
+Eventually, Claude stops feeling like a chatbot you constantly manage.
+It already knows:
+How you sound.
+What you're building.
+How you work.
+What you reject.
+What "good" looks like.
+So every new task starts with context instead of starting from zero.
+And that's when Cowork becomes far more useful for a one-person company.
+
+8/ I built the complete system for setting this up.
+It's called Tone Twin.
+It shows you step-by-step how to build a Claude setup that knows your voice, business, preferences, writing rules, and no-go zones before it starts working.
+Inside:
+→ Complete Cowork folder setup
+→ Your 3 core context files
+→ Voice Match system
+→ Anti-AI-slop setup
+→ 1-line prompting workflow
+→ Self-audit system
+→ Templates + Skills
+→ Maintenance process
+So instead of building your business around endless prompting...
+you build Claude around the way you already work.
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
