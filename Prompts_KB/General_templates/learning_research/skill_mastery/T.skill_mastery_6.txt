@@ -59,6 +59,41 @@ Use these 8 prompts instead 👇
 8 ) The claim check
 "Here's a claim I'm about to act on [CLAIM]. Split it into what's established, what's contested, and what's unknown. Mark anything you can't source as unverified. Give me the one check I can do myself in five minutes, then tell me plainly whether to act, wait, or verify first."
 -------------------------------------------------
+🚨 BREAKING: Claude AI has a feature called Study Mode.
+You can use it to learn any subject 10x faster like a straight-A student.
+Here are 9 prompts to unlock it 👇 See less
+
+1. Build a personalized learning roadmap
+"Act as my personal tutor and help me master [SUBJECT]. My current level is [BEGINNER/INTERMEDIATE], and my goal is [GOAL] within [TIMEFRAME]. Create a step-by-step roadmap divided into weekly topics, daily tasks, practice exercises, and progress checks. Start by asking me 3 questions to assess my current knowledge."
+
+2. Explain a difficult topic simply
+"Teach me [TOPIC] as if I am a complete beginner. Begin with a simple real-life analogy, then explain the core idea step by step. After each section, ask me one short question to confirm I understand before continuing. Avoid jargon unless you explain it clearly."
+
+3. Learn through the Socratic method
+"Help me understand [TOPIC] using the Socratic method. Do not immediately give me the answers. Ask one carefully chosen question at a time, analyze my response, identify gaps in my reasoning, and guide me toward the correct conclusion. Adjust the difficulty based on my answers."
+
+4. Turn notes into an interactive lesson
+"Use the notes below to create an interactive lesson for me.
+Notes: [PASTE NOTES]
+Divide them into logical sections. For each section: explain the key idea, provide one practical example, highlight what I must remember, and ask me 2 questions. Wait for my answers before teaching the next section."
+
+5. Use the Feynman technique
+"Help me learn [TOPIC] with the Feynman technique. First, teach me the essential concepts briefly. Then ask me to explain the topic in my own words as if teaching a 12-year-old. Analyze my explanation, point out anything incorrect or unclear, reteach those gaps, and ask me to try again."
+
+6. Create an active-recall quiz
+"Test my knowledge of [TOPIC] using active recall. Give me [NUMBER] questions one at a time, mixing definitions, explanations, applications, and real-world scenarios. Do not reveal the answer until I respond. After each answer, give specific feedback and keep a score of my strengths and weak areas."
+
+7. Diagnose and fix my mistakes
+"I am struggling with [PROBLEM/TOPIC]. Here is my work or answer:
+[PASTE YOUR WORK]
+Identify the exact step where my reasoning went wrong. Explain why it is incorrect without solving everything immediately. Give me a hint, let me try again, and only provide the complete solution if I remain stuck."
+
+8. Prepare me for an exam
+"Act as an exam coach for [SUBJECT/EXAM]. My exam is on [DATE], and I can study [TIME] per day. The topics are [TOPICS]. Create a focused study schedule that prioritizes high-impact and weak areas. Include revision sessions, active-recall questions, timed practice, and mock-test checkpoints."
+
+9. Run a realistic mock exam
+"Create a realistic mock exam on [SUBJECT] for a [LEVEL] learner. Include [NUMBER] questions with a mix of [MULTIPLE CHOICE/SHORT ANSWER/PROBLEMS]. Present one question at a time and do not give hints unless I request them. At the end, grade my answers and create a targeted revision plan."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
