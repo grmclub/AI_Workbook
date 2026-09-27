@@ -210,5 +210,38 @@ Include:
 7. Weekly review checklist
 Keep the dashboard simple enough to update in under 10 minutes each week.
 -------------------------------------------------
+🚨 CLAUDE IS YOUR AI CAREER COACH.
+Beat ATS. Upgrade your resume. Ace interviews. Negotiate better pay.
+8 powerful prompts to get hired faster: 👇🏻
+
+1. 🎯 BUILD YOUR CAREER POSITIONING
+Act as an elite career strategist. Analyze my [experience, skills, education, and goals] and identify the roles where my background creates the strongest value. Define my professional positioning, unique differentiators, transferable skills, ideal career direction, and target employers. Turn my experience into a clear, compelling value proposition without exaggerating, inventing, or overstating anything.
+
+2. 💎 MAKE YOUR PROFILE STAND OUT
+Act as a senior recruiter in [industry]. Analyze my [resume/LinkedIn profile] against strong candidates competing for [target role]. Identify my strongest credibility signals, overlooked achievements, positioning weaknesses, and areas that need improvement. Then rebuild my professional narrative so my real strengths are immediately clear, credible, and memorable.
+
+3. 🤖 OPTIMIZE FOR ATS + HUMANS
+Act as an expert resume strategist specializing in ATS optimization and modern hiring practices. Rewrite my resume for [target role] using the most relevant keywords and requirements from the job description. Strengthen achievements, improve structure and readability, and align the resume with both ATS systems and human recruiters. Keep every claim truthful—never invent experience, skills, or qualifications.
+
+4. 🔎 FIND THE RIGHT OPPORTUNITIES
+Act as my elite job-search strategist. Based on my [experience, skills, location, career goals, and target salary], identify the types of companies, industries, roles, and opportunities I should focus on. Build a targeted job-search strategy that prioritizes strong-fit positions over mass applications, including search channels, opportunity filters, and an application-tracking system.
+
+5. ✍️ ENGINEER EVERY APPLICATION
+Act as an elite job-application strategist. Analyze my resume alongside this [job description] and identify exactly what the employer is looking for. Then tailor my application around those priorities using my real experience. Create targeted resume improvements, a compelling cover-letter angle, application responses, and recruiter outreach that make my application feel specific—not generic.
+
+8. 📊 RUN YOUR COMPLETE CAREER AUDIT
+Act as a senior career consultant. Conduct a full audit of my job-search system, including positioning, resume, ATS alignment, target companies, applications, networking, interviews, negotiation, and follow-up. Identify the biggest bottlenecks, eliminate low-value activities, and build a prioritized 30-day execution plan with clear weekly actions, measurable targets, and checkpoints.
+
+7. 💰 MAXIMIZE YOUR COMPENSATION
+Act as an experienced compensation strategist. Based on my [role, experience, location, and industry], help me prepare for salary negotiations. Use the compensation information I provide to establish a realistic range, identify the strongest evidence supporting my value, and build negotiation scenarios for common employer responses. Optimize the discussion around total compensation—not just base salary.
+
+6. 🎤 TURN INTERVIEWS INTO OFFERS
+Act as a senior interview coach specializing in [target role]. Analyze the job description and my background to build a complete interview preparation system. Generate the most likely technical, behavioral, situational, and role-specific questions. Create strong answer frameworks based on my actual experience, smart questions to ask, and strategies to communicate my value with confidence and clarity.
 -------------------------------------------------
 -------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
