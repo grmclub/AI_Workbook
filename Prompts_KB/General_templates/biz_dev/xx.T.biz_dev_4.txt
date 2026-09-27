@@ -119,6 +119,7 @@ ChatGPT + Midjourney + WordPress
 Therapy apps, mindfulness programs, sleep trackers, burnout retreats, journaling and breathwork courses
 🛠 TOOLS
 ChatGPT + Notion AI + Circle
+
 ✅ 4 STEP STARTER PLAN
 1. Pick a focus area: stress relief, better sleep, or daily journaling
 2. Use ChatGPT to write 30 days of short affirmations or journal prompts
@@ -315,7 +316,7 @@ Step: Run this weekly to catch trends before they peak.
 Prompt 7: Campaign Recap Analyzer
 "Here's a summary of my last campaign's performance: [paste numbers/results]. What worked, what didn't, and what should I change next time?"
 Step: Paste real numbers, vague input gets vague advice back.
- ·
+
 I am digital marketer organise a 30 day content calendar for me
 
 
