@@ -456,6 +456,38 @@ Analyze these papers chronologically from [START YEAR] to [END YEAR]and explain 
 Examine these papers for assumptions that researchers repeatedly accept without directly testing. Look for theoretical assumptions, measurement assumptions, causal assumptions, population assumptions, data assumptions, and definitions treated as established facts. For each assumption provide: the assumption → papers relying on it → whether evidence actually supports it → how a future study could test it directly.
 
 -------------------------------------------------
+## Here are 7 prompts to research anything in-depth and find a research gap like a Stanford PhD professor 👇 See less
+Generic Prompt = Generic Research Gap
+
+1. Map the Literature Before Finding the Gap
+"Act as a senior academic researcher studying [TOPIC] in [FIELD]. Analyze the major research themes, influential theories, commonly used methodologies, populations studied, variables examined, and key conclusions from the literature published during [YEAR RANGE]. Organize the field into 5–8 research clusters. For each cluster, explain what researchers already understand well, what remains uncertain, and which important question has received surprisingly little attention. Finish with 3 specific research gaps supported by this mapping."
+
+2. Find Contradictions Between Studies
+"Investigate research on [TOPIC] and identify areas where published studies reach conflicting or inconsistent conclusions. For each contradiction, explain: (1) what Study Group A generally finds, (2) what Study Group B finds instead, (3) possible reasons for the disagreement such as sample, geography, measurement, methodology, timeframe, or theoretical assumptions, and (4) what new study could resolve the disagreement. Rank the resulting research opportunities from strongest to weakest."
+
+3. Find What Researchers Keep Recommending but Nobody Solves
+"Review recent academic research on [TOPIC], focusing especially on the limitations, discussion, and future-research sections of studies from [LAST 5/10 YEARS]. Identify research recommendations that appear repeatedly across multiple studies but remain insufficiently addressed. Create a synthesis showing the repeated recommendation, why it matters, what previous researchers attempted, what is still missing, and a precise research question that could address it."
+
+4. Find the Methodology Gap
+"Analyze how researchers currently study [TOPIC]. Compare the dominant methods used—for example surveys, interviews, experiments, longitudinal studies, case studies, secondary datasets, machine learning, or mixed methods. Identify important questions that existing methods cannot answer well. Then propose 3 methodology-based research gaps where using [METHOD YOU WANT TO USE] could produce evidence that existing research has not captured. Explain exactly why the new method adds value."
+
+5. Find the Population or Context Gap
+"Examine research about [TOPIC] and determine which populations, industries, countries, age groups, organizations, cultures, socioeconomic groups, or environments have been studied most often. Then identify important under-researched contexts. Do not call something a gap simply because fewer studies exist. Explain why studying [TARGET POPULATION/COUNTRY/INDUSTRY] could realistically challenge, extend, or refine existing findings. Generate 5 defensible context-based gaps and rank them by research significance."
+
+6. Find the Theory Gap
+"Analyze the main theories researchers use to explain [TOPIC]. For each major theory, summarize what it explains well, what assumptions it makes, and which aspects of the phenomenon it fails to explain. Then identify relationships, behaviors, or outcomes that existing theories cannot adequately account for. Suggest 3 research gaps where [THEORY A], [THEORY B], or an integration of multiple theories could provide a stronger explanation. Include a possible conceptual model for each."
+
+7. Find the ‘Everyone Studies X, Nobody Studies Y’ Gap
+"Analyze the variables commonly studied in research on [TOPIC]. Identify which predictors, mediators, moderators, outcomes, and control variables appear repeatedly. Then look for theoretically important variables or relationships that researchers rarely examine. For each neglected relationship, explain why it should matter based on existing evidence, what researchers currently assume, and how testing it could change our understanding of [TOPIC]. Produce 5 testable research-gap ideas."
+
+8. Find the Time/Data Gap
+"Review how knowledge about [TOPIC] has evolved from [START YEAR] to [CURRENT YEAR]. Identify conclusions that are still based on old datasets, pre-[MAJOR EVENT/TECHNOLOGY/POLICY CHANGE] conditions, cross-sectional evidence, or short observation periods. Determine which findings may no longer hold under current conditions. Suggest 3 research gaps that could be addressed using newer data, longitudinal data, real-time data, or comparisons across different time periods."
+
+9. Stress-Test a Possible Research Gap
+"I am considering this research gap: [PASTE YOUR PROPOSED GAP]. Act as a skeptical PhD supervisor and try to disprove that it is genuinely a research gap. Check whether the topic has already been studied, whether the claimed novelty is only geographic or superficial, whether the proposed variables have already been connected, and whether the gap matters theoretically or practically. Then classify it as Strong Gap / Moderate Gap / Weak Gap / Not a Gap. Explain what would make it more defensible and rewrite it into a stronger research-gap statement."
+
+10. Turn the Literature Into One Defensible PhD-Level Gap
+"I am researching [TOPIC] within [FIELD/CONTEXT]. Synthesize the existing literature by separating: what is established, what is disputed, what has been understudied, what methodological limitations persist, and what theories fail to explain. Then identify the intersection where these weaknesses create the strongest research opportunity. Give me: a precise research gap, evidence needed to justify it, why the gap matters, the novelty claim, 3 research questions, possible hypotheses, suitable methodology, key variables, and the types of papers I should search for to validate the gap."
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
