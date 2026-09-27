@@ -23,6 +23,7 @@ Use the uploaded image as the visual reference. Animate it using a [VIDEO STYLE]
 Once you've generated one version, simply replace [VIDEO STYLE] with another style from the list. This lets you compare completely different visual treatments while maintaining the exact same scene, making it perfect for testing creative directions or building consistent variations.
 -------------------------------------------------
 
+
 Analyze the uploaded image and preserve the original subject, composition, and
 lighting. Do not alter the identity or structure of the main subject. Add playful,
 hand-drawn doodles that interact directly with the subject in the image. The
