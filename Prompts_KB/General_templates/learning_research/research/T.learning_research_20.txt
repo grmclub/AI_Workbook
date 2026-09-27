@@ -421,6 +421,40 @@ Example:
 "Act as a research communication assistant. I want to communicate the findings of my research article about the effects of generative AI on university EFL students’ writing development to English teachers through a conference presentation. Help me transform the research into a clear, concise, and engaging presentation. Identify the most important findings, explain their significance and practical implications, and organize the content into a logical slide sequence. Adapt the terminology and level of detail to an audience of English teachers while preserving the meaning and accuracy of the original research. Clearly distinguish the study’s findings from interpretations or implications. Do not exaggerate conclusions, omit important limitations, or invent evidence, citations, data, or findings."
 
 -------------------------------------------------
+🚨 BREAKING: Claude can now research like a Stanford PhD student.
+It can expose unlimited hidden research problems from top professors' papers in 60 seconds.
+Here are 10 insane Claude prompts to master research with Claude: 
+
+1. Turn 40+ Papers Into a Literature Review
+I’m uploading [NUMBER OF PAPERS] research papers about [TOPIC] in [FIELD]. Read them as one research corpus and build a structured literature review. Group the papers into 4–7 major themes, explain what each theme argues, identify the strongest evidence, show where researchers agree/disagree, and explain how thinking has evolved over time. Finish with 5 unresolved questions. Cite the specific paper/author for every important claim. Do not invent findings that are not present in the papers.
+
+2. Find Research Gaps Worth Studying
+Analyze these papers on [TOPIC] specifically to find research gaps. Ignore generic gaps like "more research is needed." Find gaps caused by contradictory findings, missing populations, weak measurements, unexplored variables, outdated datasets, methodological limitations, untested assumptions, or theories that have never been compared directly. For each gap, give: evidence from the papers → why the gap matters → a testable research question → suggested study design. Rank nothing; instead label each gap by type.
+
+3. Extract "Hidden" Research Questions From Papers
+Read these [NUMBER OF PAPERS] papers as if you were looking for problems the authors indirectly reveal but never fully investigate. Look inside limitations, discussion sections, conflicting results, unexplained observations, assumptions, boundary conditions, and future-work sections. Generate 15 specific research questions that logically emerge from those unresolved issues. For each question, show exactly which papers created the opening and explain the reasoning in 2–3 sentences.
+
+4. Build a Research Knowledge Map
+Create a knowledge map for these papers about [TOPIC]. Organize the literature into: core concepts → major theories → important variables → proposed relationships → common methods → major findings → contradictions → unresolved areas. Show how the concepts connect rather than summarizing papers individually. Then give me a text-based map using arrows such as Concept A → influences → Concept B → measured by → Method C.
+
+5. Create a Paper-by-Paper Evidence Matrix
+Turn these papers into an evidence matrix. For every paper extract: research question, theory/framework, sample, dataset, methodology, independent variables, dependent variables, key findings, effect/direction if reported, limitations, and future research suggestions. Keep entries concise but specific. After the matrix, identify recurring methodological patterns and areas where results differ despite similar research designs.
+
+6. Find Contradictions Across the Literature
+Search these papers for findings that conflict with one another about [TOPIC]. Build a contradiction matrix containing: Claim A | Supporting papers | Opposing claim | Supporting papers | possible explanation for disagreement. Investigate whether differences may come from sample characteristics, geography, time period, measurements, datasets, statistical methods, definitions, or theoretical assumptions. Separate genuine contradictions from findings that only appear contradictory.
+
+7. Discover Under-Tested Variable Combinations
+Extract all important variables studied across these [NUMBER OF PAPERS] papers on [TOPIC]. Build a map showing which variable relationships have already been tested frequently and which plausible combinations appear rarely tested or completely untested. Then propose 10 specific relationships worth investigating in the format: X → Y, moderated/mediated by Z, with supporting reasoning based only on patterns found in the uploaded literature.
+
+8. Reverse-Engineer Professors’ Future Research Ideas
+Focus on the Discussion, Limitations, Conclusion, and Future Researchsections of these papers. Extract every concrete future-research suggestion and combine overlapping suggestions into larger research directions. For each direction give: what researchers already know, what they explicitly say is missing, which papers mention it, and 2–3 stronger research questions that could extend their suggestion. Avoid vague ideas.
+
+9. Track How a Research Field Evolved
+Analyze these papers chronologically from [START YEAR] to [END YEAR]and explain how research on [TOPIC] evolved. Divide the timeline into meaningful phases based on changes in theories, datasets, methodologies, assumptions, or conclusions—not arbitrary decades. For each phase explain what researchers believed, what evidence challenged those beliefs, and what new questions appeared afterward.
+
+10. Find Weak Assumptions Researchers Keep Repeating
+Examine these papers for assumptions that researchers repeatedly accept without directly testing. Look for theoretical assumptions, measurement assumptions, causal assumptions, population assumptions, data assumptions, and definitions treated as established facts. For each assumption provide: the assumption → papers relying on it → whether evidence actually supports it → how a future study could test it directly.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
