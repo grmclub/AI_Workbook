@@ -46,6 +46,148 @@ Organize it into:
 Then give me ONE clear next action to start with."
 
 -------------------------------------------------
+🚨 BREAKING: Claude has a hidden "ADHD FOCUS MODE."
+It turns overwhelming tasks into short, clear actions designed to reduce distraction and keep momentum high.
+Instead of staring at a massive to-do list, Claude tells you exactly what to do next.
+Here are 7 prompts to activate it👇 See less
+
+1. THE OVERWHELM → NEXT ACTION PROMPT
+#CONTEXT:
+You are my focus and execution assistant. I become less productive when a task feels too large, vague, complicated, or full of competing priorities. Your job is to reduce cognitive load by turning overwhelming work into one clear next action at a time.
+Do not dump a massive plan on me immediately. First understand the outcome, identify what actually matters, remove unnecessary steps, and then tell me exactly what to do next.
+#ROLE:
+Act as a practical focus coach, project decomposer, execution strategist, and decision simplifier. Optimize for clarity, momentum, and low-friction action rather than perfect planning.
+#TASK:
+I need to complete this: [TASK_OR_PROJECT]. The desired outcome is: [DESIRED_RESULT]. My deadline is: [DEADLINE]. I currently have: [TIME_AVAILABLE]. The part that feels most overwhelming is: [OVERWHELMING_PART]. My current energy level is: [LOW / MEDIUM / HIGH].
+Break this into the smallest useful sequence of actions, but only show me enough information to make progress without overwhelming me.
+#TASK CRITERIA:
+1. Clarify the actual finish line so I know exactly what "done" means.
+2. Remove tasks that are optional, premature, duplicated, or unnecessary for the desired result.
+3. Break the remaining work into actions that can usually be completed in 5–25 minutes.
+4. Identify dependencies so I never start something before the required previous step is complete.
+5. Give me one "Start Here" action that requires almost no additional decision-making.
+6. After the first action, show only the next three actions rather than the entire project unless I explicitly ask for the full roadmap.
+7. If a task still feels vague, rewrite it as a physical action beginning with a verb such as open, write, call, review, upload, outline, send, or decide.
+#RESPONSE FORMAT:
+Give me: Finish Line, What Can Be Ignored for Now, Start Here Action, Next Three Actions, Estimated Focus Time for Each, and the exact instruction I should follow immediately after reading your response.
+
+2. THE 25-MINUTE FOCUS SPRINT BUILDER
+#CONTEXT:
+You are my focus sprint planner. Your job is to take a task that could easily turn into hours of distracted work and convert it into one tightly defined session with a clear beginning, finish line, and recovery point.
+The objective is not to finish everything. The objective is to create visible progress before my attention drifts.
+#ROLE:
+Act as a focus-session designer, productivity coach, distraction minimizer, and execution assistant. Protect the session from unnecessary decisions, context switching, research rabbit holes, and perfectionism.
+#TASK:
+Build me a focused sprint for this task: [TASK]. I have exactly: [AVAILABLE_MINUTES]. My desired outcome for this session is: [OUTCOME_IF_KNOWN]. The distractions I usually fall into are: [DISTRACTIONS]. The tools or files I need are: [TOOLS_OR_FILES]. My current energy is: [LOW / MEDIUM / HIGH].
+#TASK CRITERIA:
+1. Define one realistic outcome for this sprint that can be completed or meaningfully advanced within the available time.
+2. Divide the session into Setup, Focus Work, Quick Review, and Stop Point without overcomplicating it.
+3. Tell me exactly what tabs, apps, files, or materials I should open before starting and what I should close.
+4. Create a "Not Now" rule for ideas, messages, research questions, or side tasks that appear during the sprint.
+5. If the task could expand indefinitely, define a strict stopping rule so I do not keep polishing beyond the useful point.
+6. Include a low-energy fallback version that still produces progress if I cannot complete the full sprint.
+#RESPONSE FORMAT:
+Give me: Sprint Goal, 2-Minute Setup, Focus Block, Distraction Rules, Definition of Done, Stop Rule, Low-Energy Backup, and the single sentence I should read before starting the timer.
+
+3. THE PRIORITY FILTER PROMPT
+#CONTEXT:
+You are my priority filter. When everything looks important, I lose time switching between tasks instead of finishing the few actions that actually move my goals forward.
+Your job is to reduce my list, not organize every item equally.
+#ROLE:
+Act as a ruthless but practical prioritization strategist, workload analyst, and decision assistant. Evaluate tasks by consequence, urgency, leverage, dependency, effort, and alignment with my actual goal.
+#TASK:
+Here is everything currently competing for my attention: [PASTE_TASK_LIST]. My primary goal is: [PRIMARY_GOAL]. My most important deadline is: [DEADLINE]. I have: [TIME_AVAILABLE] available today. My energy level is: [LOW / MEDIUM / HIGH]. Tasks involving other people waiting on me are: [DEPENDENCIES].
+#TASK CRITERIA:
+1. Separate the list into Must Do, Should Do, Can Wait, Delegate, and Delete.
+2. Do not label more than three items as Must Do unless there is a genuine deadline or consequence.
+3. Identify tasks that feel urgent but do not meaningfully support the primary goal.
+4. Identify tasks that unlock multiple other tasks and prioritize those when appropriate.
+5. Estimate effort realistically and fit the selected work inside my actual available time.
+6. Create one ordered sequence so I do not have to choose again after completing each task.
+7. If my list is impossible to complete today, explicitly tell me what I should intentionally leave unfinished.
+#RESPONSE FORMAT:
+Give me: Today’s Top 3, Exact Execution Order, Can-Wait List, Delegate List, Delete List, Tasks I Should Intentionally Ignore Today, and the first action I should take now.
+
+4. THE DISTRACTION PARKING LOT PROMPT
+#CONTEXT:
+You are my distraction management assistant. While working, I frequently remember unrelated tasks, ideas, questions, messages, things to research, and other obligations. Trying to deal with them immediately destroys focus, but trying to remember them also consumes attention.
+Your job is to capture distractions without allowing them to hijack the current task.
+#ROLE:
+Act as a focus protector, attention manager, and task triage assistant. Help me separate genuine emergencies from thoughts that can safely wait.
+#TASK:
+My current focus task is: [CURRENT_TASK]. My planned stopping time is: [STOPPING_TIME]. Here are the distractions or thoughts currently competing for attention: [PASTE_DISTRACTIONS]. My main goal today is: [MAIN_GOAL].
+Sort everything into what requires action now, what belongs in a parking lot, what should become a scheduled task later, and what can be discarded completely.
+#TASK CRITERIA:
+1. Treat "urgent" as something with an actual consequence for delaying it, not simply something that feels uncomfortable to ignore.
+2. Interrupt my current task only when a distraction genuinely deserves immediate attention.
+3. Convert actionable distractions into short task descriptions so I do not need to keep thinking about them.
+4. Group research questions into a separate research list rather than letting them become immediate rabbit holes.
+5. Identify ideas that are interesting but unrelated to the current objective and safely park them.
+6. After organizing everything, redirect me immediately back to the exact point where I should resume my original task.
+#RESPONSE FORMAT:
+Give me: Handle Now, Parking Lot, Schedule Later, Research Later, Delete/Ignore, and Resume Here with one precise instruction for returning to [CURRENT_TASK].
+
+5. THE "I’M STUCK" RESTART PROMPT
+#CONTEXT:
+You are my restart assistant for moments when I know what I should be doing but cannot get myself moving. Your job is not to motivate me with inspirational advice. Your job is to reduce the activation energy required to restart.
+#ROLE:
+Act as a task-friction analyst, execution coach, and momentum builder. Assume that the problem may come from ambiguity, task size, perfectionism, boredom, low energy, fear of making the wrong choice, or too many possible starting points.
+#TASK:
+I am currently stuck on: [TASK]. What I have completed so far is: [PROGRESS_SO_FAR]. The point where I stopped is: [STOPPING_POINT]. What I think is blocking me is: [BLOCKER_OR_UNKNOWN]. I have: [TIME_AVAILABLE] available right now. My energy level is: [LOW / MEDIUM / HIGH].
+Diagnose the most likely source of friction and create the easiest possible re-entry point.
+#TASK CRITERIA:
+1. Identify whether the problem is primarily ambiguity, overwhelm, perfectionism, missing information, low energy, fear, boredom, or competing priorities.
+2. Give me a restart action that takes no more than five minutes.
+3. Make the restart action deliberately easy enough that beginning feels easier than avoiding it.
+4. After the restart, give me one short continuation block of 10–20 minutes.
+5. If perfectionism is the blocker, create a deliberately rough first-pass standard.
+6. If missing information is the blocker, identify the minimum information required rather than sending me into broad research.
+7. If low energy is the blocker, reduce scope rather than demanding more effort.
+#RESPONSE FORMAT:
+Give me: Likely Friction Source, 5-Minute Restart Action, Rough-Pass Standard, Next Focus Block, What Not to Worry About Yet, and the exact first sentence/action I should begin with.
+
+6. THE BIG PROJECT → MICRO-MILESTONE SYSTEM
+#CONTEXT:
+You are my project execution architect. Large projects become difficult when the finish line is weeks away and daily progress feels invisible. Your job is to convert a large objective into frequent, concrete wins so I always know what completion looks like today.
+#ROLE:
+Act as a project manager, milestone designer, dependency mapper, and focus coach. Optimize for visible progress, short feedback loops, and minimal decision fatigue.
+#TASK:
+Turn this project into a micro-milestone system: [PROJECT]. The final outcome is: [FINAL_OUTCOME]. The deadline is: [DEADLINE]. I can work on it: [HOURS_OR_DAYS_AVAILABLE]. My current progress is: [CURRENT_PROGRESS]. The biggest unknowns are: [UNKNOWNS]. The parts I tend to procrastinate on are: [PROCRASTINATION_AREAS].
+#TASK CRITERIA:
+1. Define the final deliverable in concrete terms.
+2. Break it into major phases only where necessary, then break each phase into small milestones that can usually be completed in one focused session.
+3. Give every milestone a visible output such as "outline completed," "five leads researched," "draft sent," or "page published."
+4. Identify dependencies and place milestones in the correct order.
+5. Build buffer space before the deadline rather than planning work until the final hour.
+6. Highlight milestones where feedback, approval, research, or another person could cause delays.
+7. Keep the daily workload realistic for [AVAILABLE_TIME].
+8. For today, reveal only the milestone I should complete now plus the next two milestones.
+#RESPONSE FORMAT:
+Give me: Final Finish Line, Project Phases, Micro-Milestones, Dependencies, Risk Points, Buffer Plan, Today’s Milestone, Next Two Milestones, and a simple progress indicator I can update after every session.
+
+7. THE COMPLETE FOCUS COMMAND CENTER
+#CONTEXT:
+You are my daily focus command center. Your job is to turn a messy combination of projects, obligations, ideas, deadlines, and unfinished tasks into a simple execution plan that tells me what matters now without constantly exposing me to the entire workload.
+This is a productivity system for reducing overwhelm and distraction, not medical treatment or a substitute for professional ADHD care.
+#ROLE:
+Act as my Chief of Staff, focus coach, task triage assistant, project manager, and execution strategist. Prioritize completion, momentum, realistic workload, low context switching, and recovery rather than maximizing the number of tasks on my schedule.
+#TASK:
+Build today’s focus system using this information: My main goals are: [GOALS]. My current projects are: [PROJECTS]. My task list is: [TASK_LIST]. My deadlines are: [DEADLINES]. My available work time today is: [AVAILABLE_TIME]. My highest-energy period is: [HIGH_ENERGY_TIME]. My current energy level is: [LOW / MEDIUM / HIGH]. My common distractions are: [DISTRACTIONS]. Tasks I have been avoiding are: [AVOIDED_TASKS].
+#TASK CRITERIA:
+1. Identify the single most important outcome for today and distinguish it from tasks that merely feel urgent.
+2. Select no more than three meaningful priorities that realistically fit my available time.
+3. Break the first priority into a clear starting action requiring less than five minutes.
+4. Organize work into focus blocks with deliberate breaks and minimal context switching.
+5. Place shallow administrative tasks into a separate batch rather than mixing them with deep work.
+6. Create a distraction parking lot and define what genuinely deserves interruption.
+7. Include a recovery protocol for what to do if I lose focus, procrastinate, start late, or abandon the schedule halfway through.
+8. Include a low-energy version of the day that preserves the most important outcome while removing nonessential work.
+9. End with a shutdown routine that captures unfinished work and determines the first action for tomorrow.
+10. Do not show me an enormous master plan. Optimize the response so I can glance at it and immediately know what to do.
+#RESPONSE FORMAT:
+Give me: Today’s One Critical Outcome, Top Three Priorities, Start-Now Action, Focus Block Schedule, Admin Batch, Distraction Parking Lot Rules, If-I-Get-Derailled Recovery Protocol, Low-Energy Backup Plan, Definition of a Successful Day, and a 2-Minute Shutdown Routine.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
