@@ -198,7 +198,7 @@ Summary of Differences
     • Circuit Breakers look directly at the spot market indexes (KOSPI/KOSDAQ) and legally shut down the exchange floor to stop systemic panic
 
 -------------------------------------------------
-## 🚨 BREAKING: Claude has a hidden “STOCK ANALYSIS MODE.”
+## 🚨 BREAKING: Claude has a hidden "STOCK ANALYSIS MODE."
 
 Most people research stocks by jumping between charts, earnings reports, news, and financial statements.
 
@@ -309,6 +309,246 @@ Do not tell me to buy or sell or claim a guaranteed return. Highlight any inform
 
 
 ------------------------------------------------- 
+🚨BREAKING: Claude can now run Stock Market research like a top consulting firm.
+Here are 10 Claude prompts that replace $100K/year stock analysts 👇
+
+1. Full Stock Research Report
+Act as a professional equity research analyst and prepare a clear, beginner-friendly stock research report on [COMPANY/TICKER].
+Include:
+• Company overview and business model
+• Key revenue streams and how the company makes money
+• Industry outlook and major market trends
+• Competitive landscape and key rivals
+• Recent financial performance: revenue, earnings, margins, cash flow, debt
+• Valuation metrics and comparison with peers
+• Potential growth opportunities and catalysts
+• Key risks and challenges
+• Bull, Base, and Bear case scenarios
+• Final investment thesis summary
+Use the latest publicly available information, include source dates, clearly distinguish facts from assumptions, explain financial terms in simple language, and avoid providing any buy, sell, or hold recommendation.
+
+2. Earnings Call Breakdown
+Analyze the latest earnings call for [COMPANY / TICKER].
+Summarize the 5 biggest takeaways, revenue changes, margins, guidance, management tone, analyst concerns, positive surprises, negative surprises, and what investors should watch next.
+Create a simple table of key metrics with latest result, prior result, change, and why it matters.
+
+3. Red Flag Detector
+Act as an independent forensic research analyst. Examine [COMPANY / TICKER] for potential warning signs across revenue quality, profitability, cash generation, debt levels, shareholder dilution, insider transactions, customer dependence, accounting practices, legal or regulatory matters, and management communication.
+For each identified concern:
+• Assign a severity rating from 1 to 10
+• Explain the underlying issue
+• Describe why it could be important to investors
+• Support the analysis with relevant evidence and source dates
+Include:
+• Revenue quality assessment
+• Margin sustainability review
+• Cash flow health analysis
+• Debt and liquidity evaluation
+• Share dilution history
+• Insider buying and selling trends
+• Customer concentration risks
+• Accounting and reporting concerns
+• Legal, regulatory, or governance issues
+• Management language and transparency review
+Finish with an overall Red Flag Score from 1 to 10 and a summary of the most critical risks. Clearly separate facts from interpretations and avoid providing a buy, sell, or hold recommendation.
+
+4. Competitive Moat Analysis
+Evaluate the competitive strength of [COMPANY / TICKER] and compare it against [COMPETITORS].
+Rate the following moat factors on a scale of 1 to 5:
+• Brand strength
+• Network effects
+• Switching costs
+• Cost advantages
+• Scale and market position
+• Intellectual property
+• Distribution reach
+• Regulatory advantages
+• Data assets
+• Customer loyalty
+For each category:
+• Assign a score from 1 to 5
+• Explain the reasoning behind the score
+• Compare the company’s position with key competitors
+Include:
+• The company’s strongest competitive advantages
+• The biggest competitive threats
+• Areas where competitors have an edge
+• Evidence supporting each assessment
+• A summary of how the moat has evolved over time
+Conclude by determining whether the company’s competitive moat is:
+• Expanding
+• Stable
+• Shrinking
+Clearly separate facts from opinions, use recent public information with source dates, and avoid providing a buy, sell, or hold recommendation.
+
+5. Valuation Comparison
+Compare [COMPANY / TICKER] with [COMPETITOR 1], [COMPETITOR 2], [COMPETITOR 3], and [COMPETITOR 4].
+Analyze and compare the following metrics:
+• Market Capitalization
+• Revenue Growth
+• Gross Margin
+• Operating Margin
+• Net Margin
+• P/E Ratio
+• Forward P/E Ratio
+• EV/Revenue
+• EV/EBITDA
+• Price-to-Free-Cash-Flow (P/FCF)
+Create a comparison table showing all companies side by side.
+For each valuation metric:
+• Explain how [COMPANY / TICKER] compares with its peers
+• Identify whether it appears Cheap, Fairly Valued, or Expensive relative to the group
+• Explain the business and financial assumptions that justify its current valuation
+Include:
+• Key strengths supporting a premium valuation
+• Weaknesses that may justify a discount
+• Historical valuation ranges versus current levels
+• Growth, profitability, and cash flow comparisons
+• Competitive advantages and risks affecting valuation
+Conclude with:
+• Factors that could cause the valuation multiple to expand
+• Factors that could cause the valuation multiple to contract
+• The most important metrics investors should monitor going forward
+Use recent public information with source dates, clearly separate facts from opinions, and do not provide a buy, sell, or hold recommendation.
+
+6. DCF Assumption Builder
+Act as a valuation analyst and help build a realistic Discounted Cash Flow model for [COMPANY / TICKER].
+Develop three scenarios:
+• Bear Case
+• Base Case
+• Bull Case
+For each scenario, estimate:
+• Revenue growth
+• Operating margins
+• Tax rate
+• Capital expenditures
+• Working capital requirements
+• Free cash flow generation
+• Discount rate / WACC
+• Terminal growth rate
+For every assumption:
+• Explain the rationale behind it
+• Compare it with historical performance, industry averages, and competitor benchmarks
+• Clearly distinguish facts from assumptions
+Include:
+• A detailed assumptions table for all three scenarios
+• Step-by-step DCF valuation methodology
+• Sensitivity analysis showing how valuation changes under different discount rates and terminal growth rates
+• Key variables that have the largest impact on valuation
+• Major risks that could cause assumptions to be too optimistic or pessimistic
+Present the results in a clear, beginner-friendly format using recent public information and source dates. Do not provide a buy, sell, or hold recommendation.
+
+7. Stock Catalyst Calendar
+Create a forward-looking catalyst calendar for [COMPANY / TICKER] covering the next 3, 6, and 12 months.
+Include potential catalysts such as:
+• Earnings reports
+• Product launches and updates
+• Investor days and shareholder events
+• Regulatory approvals or decisions
+• Legal proceedings and lawsuits
+• Macroeconomic events
+• Industry conferences and trade events
+• Executive and board leadership changes
+• Share buybacks and dividend announcements
+• Major partnerships, acquisitions, and contract wins
+For each catalyst, provide:
+• Expected timing
+• Why it matters
+• Potential positive impact
+• Potential negative impact
+• Confidence level: High / Medium / Low
+• Supporting source and date
+Organize the analysis into:
+• Next 3 Months
+• Next 6 Months
+• Next 12 Months
+Highlight the catalysts most likely to influence revenue growth, profitability, valuation, or investor sentiment. Clearly separate confirmed events from expected or speculative events, use recent public information with source dates, and do not provide a buy, sell, or hold recommendation.
+
+8. Management Quality Review
+Evaluate the leadership and governance quality of [COMPANY / TICKER].
+Assess the following areas and assign a score from 1 to 5 for each:
+• CEO track record and execution
+• CFO credibility and financial stewardship
+• Guidance accuracy and consistency
+• Transparency with shareholders
+• Capital allocation decisions
+• Acquisition strategy and results
+• Share buyback effectiveness
+• Share dilution and equity issuance
+• Insider ownership and alignment
+• Executive compensation structure
+• Board quality and independence
+• Communication style and shareholder engagement
+For each category:
+• Assign a score from 1 to 5
+• Explain the reasoning behind the score
+• Provide supporting evidence and source dates
+• Highlight strengths and potential concerns
+Include:
+• Major achievements under current leadership
+• Significant mistakes or controversies
+• Historical guidance versus actual results
+• How management has handled economic downturns and challenges
+• Whether incentives are aligned with long-term shareholder value
+• Comparison with industry peers where relevant
+Conclude with:
+• An overall Management Quality Score from 1 to 5
+• Whether management behaves like long-term owners or short-term operators
+• The key reasons supporting that conclusion
+Use recent public information, clearly separate facts from opinions, and do not provide a buy, sell, or hold recommendation.
+
+9. Bull vs. Bear Debate
+Simulate an investment committee discussion on [COMPANY / TICKER].
+Create two participants:
+• Bull Analyst
+• Bear Analyst
+Have them debate the company across the following topics:
+• Revenue growth and future prospects
+• Valuation and market expectations
+• Business model and competitive advantages
+• Financial performance and profitability
+• Management quality and capital allocation
+• Key risks and potential challenges
+• Industry trends and competitive pressures
+• Upcoming catalysts and events
+For each topic:
+• Present the Bull Analyst’s argument
+• Present the Bear Analyst’s counterargument
+• Support claims with relevant evidence and source dates
+• Clearly separate facts from opinions and assumptions
+Conclude with a Neutral Judge Summary that includes:
+• Which side presented the stronger evidence
+• The most important uncertainties still unresolved
+• The key assumptions driving each viewpoint
+• Critical data points and filings that should be verified next
+• Questions investors should investigate before making a decision
+Use recent public information, maintain a balanced perspective, and do not provide a buy, sell, or hold recommendation.
+
+10. Beginner Stock Checklist
+Act as a beginner-friendly investing educator and explain [COMPANY / TICKER] in simple, easy-to-understand language.
+Cover:
+• What the company does
+• How it generates revenue
+• Why investors pay attention to it
+• Key products, services, and business segments
+• Profitability and earnings performance
+• Growth opportunities and future potential
+• Debt levels and financial health
+• Current valuation and how it compares to peers
+• Major risks and challenges facing the business
+Also explain:
+• What could go right for the company over the next few years
+• What could go wrong and impact future performance
+Use simple examples where helpful, avoid unnecessary financial jargon, and clearly separate facts from opinions.
+End with a beginner’s investment checklist:
+• Easy to understand
+• Financially strong
+• Growing business
+• Reasonably valued
+• Risks understood
+• Needs more research
+Use recent public information with source dates and do not provide a buy, sell, or hold recommendation.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
