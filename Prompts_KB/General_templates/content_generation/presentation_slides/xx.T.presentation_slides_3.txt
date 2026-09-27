@@ -165,5 +165,55 @@ Prompt:
 "Create a professional training presentation on [topic, process, or skill] for [target audience]. Create approximately [number] slides that break the training into clear, easy-to-follow steps. Include learning objectives, concise explanations, practical examples, demonstrations, and opportunities for guided practice. Keep each slide focused on one main idea and use high-quality visuals, diagrams, screenshots, or process illustrations where they improve understanding. Maintain consistent typography, colors, spacing, and layouts throughout. End with a summary of the key steps, a short practice task, and clear next steps."
 
 -------------------------------------------------
+🚨 BREAKING: NotebookLM can now turn messy sources into presentation-ready slides.
+
+Research papers. Reports. Notes. Business documents.
+
+These 10 prompts help you extract the key ideas, structure the story, and build clearer presentations faster👇
+
+1. Teaching Presentation
+PROMPT:
+"Analyze these teaching materials and create a slide-by-slide presentation on [topic] for [target learners]. Identify the essential concepts learners need to understand and organize them into a clear, manageable learning sequence. Begin with clear learning objectives and activate relevant prior knowledge before introducing new content. Keep each slide focused on one main idea, use concise explanations and meaningful examples, and suggest relevant visuals, diagrams, or illustrations when they genuinely support understanding. Break complex ideas into smaller parts, highlight key information, and remove unnecessary details that could distract learners. Include brief checks for understanding throughout and end with a summary of the key learning points and a short review activity."
+
+2. Research Paper Presentation
+PROMPT:
+"Analyze this research paper and create a slide-by-slide academic presentation for [target audience]. Build a clear scientific story that moves from the broader motivation and research gap to the research question or objectives, methodology, key findings, interpretation, limitations, conclusions, and implications. Prioritize the findings and evidence most relevant to the audience rather than reproducing every detail from the paper. Give each slide one main message and use a takeaway-focused title that communicates that message. Recommend figures, charts, tables, or diagrams that provide the strongest visual evidence, and keep supporting text concise. Ensure that every result connects back to the research question and that the final slides clearly communicate what the study contributes and why it matters."
+
+3. Business Strategy Presentation
+PROMPT:
+"Analyze these business materials and create a slide-by-slide strategy presentation for [target audience]. Define the central business challenge or opportunity, identify the most decision-relevant evidence and insights, evaluate the available strategic options, and recommend a clear course of action. Organize the presentation around the decisions the audience needs to make rather than simply summarizing the source materials. Give each slide one clear takeaway, use data selectively to support that takeaway, and recommend readable charts or visuals for important comparisons, trends, or relationships. Clearly distinguish evidence from interpretation and assumptions. End with the recommended strategy, expected benefits, major risks or trade-offs, priority actions, and next steps."
+
+4. Concept Explanation Presentation
+PROMPT:
+"Analyze these teaching materials and create a slide-by-slide presentation that explains [concept/topic] to [target learners]. Identify the prerequisite knowledge learners need, then break the concept into small, logically connected parts that build toward full understanding. Explain each part in clear, level-appropriate language and use relevant examples, analogies, diagrams, or illustrations to make abstract or difficult ideas easier to understand. Keep each slide focused on one main idea, highlight essential information, and remove unnecessary details. Anticipate common misconceptions or points of confusion and address them explicitly. Include brief checks for understanding at key stages and end with a concise summary that connects the parts back to the overall concept."
+
+5. Literature Review Presentation
+PROMPT:
+"Analyze these research papers and create a slide-by-slide literature review presentation on [topic] for [target audience]. Synthesize the literature around major themes, theories, methods, findings, and debates rather than summarizing each study separately. Identify important patterns, areas of agreement and disagreement, methodological similarities and differences, changes or trends over time, and the strengths and limitations of the available evidence. Support each synthesis point with the relevant sources and clearly distinguish findings from interpretation. Use comparison tables, evidence maps, timelines, or other visuals where they clarify relationships across studies. End by explaining what the literature collectively establishes, what remains uncertain, and which questions require further research."
+
+6. Market Research Presentation
+PROMPT:
+"Analyze these market research materials and create a slide-by-slide presentation on [market/industry] for [target audience]. Identify the most decision-relevant findings about market conditions, customer needs and behaviors, major trends, competitors, opportunities, and risks. Separate established evidence from assumptions or interpretations, and highlight the data that most strongly supports each insight. Organize the presentation around the business questions the audience needs answered rather than simply summarizing the materials. Use clear charts, comparison tables, or other visuals for important trends and comparisons, with each slide communicating one main takeaway. End with the most important market implications, recommended actions, and priorities for further investigation."
+
+7. Practice Activity Presentation
+PROMPT:
+"Analyze these teaching materials and create a slide-by-slide practice presentation on [topic/skill] for [target learners]. Identify what learners need to practice and design a sequence that moves from teacher modeling and guided practice toward increasingly independent application. Begin with a clear example or demonstration, then provide scaffolded activities with concise instructions, worked examples where appropriate, and opportunities for feedback and correction. Include frequent checks for understanding before increasing the level of difficulty or independence. Adapt the tasks to the learners’ level and vary the practice where useful to reinforce understanding and transfer. End with an independent task and a short reflection or review that helps learners evaluate what they can now do."
+
+8. Research Gap Presentation
+PROMPT:
+"Analyze these research papers and create a slide-by-slide presentation that identifies and evaluates research gaps in [topic/field]. First establish what the existing evidence already supports, then identify where conclusions remain limited because evidence is insufficient, inconsistent, methodologically weak, biased, or missing for important populations, contexts, interventions, outcomes, or questions. Support every proposed gap with evidence from the sources and distinguish genuine evidence gaps from topics that are merely interesting or understudied. Explain why each gap matters, assess its potential significance, and avoid making claims that the available literature cannot support. End with a prioritized set of research needs and specific, researchable questions for future studies."
+
+9. Executive Brief Presentation
+PROMPT:
+"Analyze these business reports and materials and create a concise slide-by-slide executive brief presentation for [target audience]. Identify the decision or issue that matters most, then distill the source materials into the essential findings, supporting evidence, business implications, opportunities, risks, and recommendations. Prioritize information according to its relevance to executive decision-making and omit details that do not affect the decision. Give each slide one clear takeaway and use simple, readable charts or visuals only when they make the evidence easier to interpret. Clearly distinguish facts, assumptions, and recommendations. End with the recommended course of action, priority actions, responsible areas where identifiable, and immediate next steps."
+
+10. Source Comparison Presentation
+PROMPT:
+"Analyze these sources and create a slide-by-slide comparison presentation on [topic] for [target audience]. Establish clear comparison criteria appropriate to the topic, then systematically compare the sources across their main claims, evidence, methods or approaches, perspectives, findings, strengths, limitations, and conclusions where applicable. Organize the presentation by comparison criteria or themes rather than summarizing each source separately. Identify areas of agreement, disagreement, and uncertainty, and explain whether differences appear to result from methods, evidence, context, assumptions, or perspective. Use comparison tables, matrices, charts, or diagrams where they clarify relationships. End with an evidence-based synthesis explaining what can reasonably be concluded from the sources collectively and what remains unresolved."
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
