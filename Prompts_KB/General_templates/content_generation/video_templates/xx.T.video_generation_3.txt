@@ -423,6 +423,31 @@ Turn raw footage into polished content in seconds with these powerful prompts.
 10. Camera Angle Change
 "Recreate this scene from a [new camera angle] while preserving the original action and subject. Adjust perspective, depth, lighting, shadows, and background geometry to make the new viewpoint physically believable and seamlessly filmed."
 -------------------------------------------------
+##You can create viral AI video series, grow an audience, and monetize them yourself.
+Here’s the exact workflow I use 👇
+
+Method 1:
+1. Create your own series
+Go to ChatGPT and describe the type of series you want to create.
+Then paste:
+Prompt: Create a storyline (for this idea) with recurring characters and natural conversations. Break it into 5–10 second scenes. For every scene, give me the dialogue, an image prompt and an image-to-video prompt. Keep the characters, clothes and locations consistent throughout the story. If you need any context, ask me questions before proceeding.
+
+2. Use ChatGPT to generate the images for each scene.
+- Download the images.
+- Go to Seedance 2.5, upload each image, and paste the matching video prompt to turn it into video.
+
+3/ Repeat for each scene and combine the clips using Capcut or any video editing tool of your choice.
+This works well because your characters stay consistent and the video looks more realistic.
+
+Method 2: Use a viral video format
+Step 1: Find a viral video you like and download it.
+Step 2: Upload it to Claude or Gemini or ChatGPT.
+Prompt: Analyse this video scene by scene. Break down the storyline, characters, camera angles, movement, pacing, and what makes it engaging. Then create a new original version with the same style and structure. Break it into 5 to 10 second scenes and give me an image prompt and a video prompt for each scene.
+
+Step 3: Take the new prompts to ChatGPT and generate the images.
+Step 4: Download the images and take them to Seedance 2.5.
+Step 5: Paste the video prompts, generate each clip, and combine them.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
