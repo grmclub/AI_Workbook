@@ -269,6 +269,42 @@ Lighting       |soft fill light, golden hour, dramatic rim lighting, diffuse day
 Clutter Control|clean background, uncluttered composition, negative space            |no noise, don't add objects (negative prompting can confuse DALL-E)
 
 -------------------------------------------------
+🚨 ChatGPT can now turn a normal selfie into a photo that looks professionally shot.
+No expensive studio
+No photographer
+No fancy camera
+Just one clear selfie
+
+Try these 9 prompts to see the real magic 👇
+
+1. Professional LinkedIn Headshot
+"Use my uploaded selfie as the identity reference. Turn it into a polished professional LinkedIn headshot while keeping my facial features, skin tone, hairstyle, and overall identity recognizable. Dress me in a [navy blazer / black suit / smart-casual outfit] with a [white / light blue / neutral] top. Use a clean [light gray / beige / soft office] background, soft studio key lighting, subtle fill light, natural skin texture, realistic eyes, and gentle depth of field. Frame from the chest up, camera at eye level, confident relaxed expression, 85mm portrait-lens look. Keep the result photorealistic and avoid changing my face shape or making the skin overly smooth."
+
+2. Luxury Studio Portrait
+"Transform my selfie into a high-end studio portrait photographed for a premium personal-brand campaign. Preserve my exact identity and natural facial proportions. Put me in [black tailored clothing / cream outfit / minimalist fashion] against a [charcoal / warm beige / deep gray] seamless studio backdrop. Use one large softbox 45° from the face, subtle rim lighting around the shoulders, realistic shadows, detailed skin texture, crisp eyes, and an 85mm lens look at approximately f/2.8. Composition: waist-up, elegant posture, calm confident expression. Make it look like a real professional studio shoot, not AI-generated."
+
+3. Golden-Hour Outdoor Portrait
+"Use my selfie to create a professionally photographed golden-hour portrait. Keep my face, hairstyle, complexion, age, and recognizable features consistent with the original image. Place me at [a city rooftop / quiet park / waterfront / European-style street] during sunset. Dress me in [outfit description]. Use warm sunlight coming from behind and slightly to the side, soft reflected light on my face, realistic hair highlights, creamy background bokeh, natural color grading, and a 50mm or 85mm portrait-lens look. Frame from mid-torso up with a relaxed candid expression. Avoid exaggerated orange tones or artificial-looking skin."
+
+4. Personal Brand Creator Photo
+"Turn this selfie into a premium personal-brand photo for a social media creator. Keep my identity completely recognizable. Place me in a modern [creative studio / minimalist office / content-creator workspace] with subtle background details such as [laptop, desk, plant, camera equipment], but keep the background softly blurred. Outfit: [smart casual outfit]. Use bright window-style lighting from one side, soft fill on the face, natural skin texture, clean commercial color grading, and sharp focus on my eyes. Shoot from slightly above eye level using a 50mm lens look. The final photo should feel approachable, successful, modern, and authentic."
+
+5. CEO / Executive Portrait
+"Convert my uploaded selfie into an executive portrait suitable for a company website, speaker profile, or press feature. Preserve my real face and recognizable appearance. Dress me in [dark suit / blazer / executive smart-casual outfit] and place me inside a sophisticated [glass office / boardroom / modern corporate lobby]. Use controlled soft lighting on my face, subtle natural light from windows, realistic reflections, balanced neutral colors, and shallow depth of field. Frame from chest to head with upright posture, direct eye contact, and a composed confident expression. Use an 85mm professional portrait-camera look without excessive retouching."
+
+6. Fashion Editorial Portrait
+"Use my selfie as the facial reference and create a sophisticated fashion-editorial portrait while keeping my identity intact. Style me in [oversized blazer / monochrome outfit / luxury streetwear / elegant dress] using a [black, white and gray / earthy / muted luxury] color palette. Background: [minimal concrete studio / architectural wall / luxury interior]. Use dramatic directional lighting with defined but realistic shadows, editorial composition, subtle film-like contrast, detailed fabric texture, natural skin, and a 50mm lens look. Pose: [standing confidently / looking slightly away / seated casually]. Make it resemble a real magazine fashion shoot rather than a fantasy image."
+
+7. Clean Beauty Close-Up
+"Transform my selfie into a professionally photographed beauty close-up. Preserve my facial structure, natural skin tone, eye shape, nose, lips, and recognizable identity. Use a simple [cream / white / pale gray] studio background with very soft diffused beauty lighting from the front and slight side fill. Keep visible natural skin texture, realistic pores, subtle highlights, clean catchlights in the eyes, accurate hair strands, and minimal retouching. Use a close head-and-shoulders crop with an 85mm–105mm beauty-lens look. Makeup should be [natural / polished / soft glam]. Do not reshape my face, enlarge my eyes, or create plastic-looking skin."
+
+8. Professional Café Lifestyle Shot
+"Use my selfie to create a natural professional lifestyle portrait taken inside an upscale café. Keep my face and identity consistent with the uploaded photo. Seat me beside a large window wearing [casual neutral outfit / business-casual outfit], with [coffee cup / laptop / notebook] naturally included in the scene. Use soft daylight from the window, warm practical lights in the background, realistic shadows, gentle background bokeh, and a 50mm lens look. Capture me [looking at the camera / working on the laptop / looking out the window] with a relaxed natural expression. The image should feel candid but professionally photographed."
+
+9. Black-and-White Portrait
+"Turn my selfie into a timeless professional black-and-white portrait. Preserve my actual facial features, hairstyle, expression characteristics, and age. Dress me in a simple [black shirt / blazer / turtleneck] against a dark neutral studio backdrop. Use dramatic Rembrandt-style side lighting, rich tonal separation, detailed skin texture, subtle catchlights, controlled shadows, and a classic 85mm portrait-lens look. Crop from shoulders upward and use a calm, serious [or slightly smiling] expression. Create elegant photographic contrast without crushing shadow details or making the image look overly processed."
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
