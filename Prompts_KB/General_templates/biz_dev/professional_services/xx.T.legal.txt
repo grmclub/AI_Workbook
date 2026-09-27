@@ -1,0 +1,36 @@
+
+-------------------------------------------------
+🚨 BREAKING: ChatGPT can now read your contracts like a lawyer.
+
+91% of people sign terms without reading them.
+
+Upload yours and use these 8 prompts 👇
+
+1. Red flags
+"Adopt the role of an expert contract lawyer. List every clause in this contract that could cost me money or trap me, ranked by risk. Quote each one and explain it in one plain sentence."
+
+2. Plain English
+"Adopt the role of an expert legal translator. Rewrite this contract in plain English, one short paragraph per section. Keep every number, date and obligation exactly as written."
+
+3. When I get paid
+"Adopt the role of an expert commercial lawyer. Find every payment term in this contract: amounts, due dates, late fees and anything that lets them pay late. Put it in a table with the clause quoted."
+
+4. Scope creep
+"Adopt the role of an expert freelance contracts advisor. I'm a [freelancer]. Find anything that lets this client ask for more work without paying more, or keep my files forever. Suggest fairer wording."
+
+5. The exit
+"Adopt the role of an expert contract lawyer. Find the notice period, cancellation fees and auto-renewal date in this contract, then tell me the exact date I need to cancel by."
+
+6. Push back
+"Adopt the role of an expert negotiator. Pick the 3 clauses in this contract I should push back on and write a friendly email asking for changes, with new wording for each."
+
+7. What changed
+"Adopt the role of an expert contract reviewer. Compare these two versions of the contract, list every change and say who each one favours. Quote both versions side by side."
+
+8. Before I sign
+"Adopt the role of an expert contract lawyer. Give me a one-page checklist: what I'm agreeing to, what I'm owed, what could go wrong, and 3 questions to ask before signing."
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
