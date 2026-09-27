@@ -238,6 +238,24 @@ Act as an experienced compensation strategist. Based on my [role, experience, lo
 6. 🎤 TURN INTERVIEWS INTO OFFERS
 Act as a senior interview coach specializing in [target role]. Analyze the job description and my background to build a complete interview preparation system. Generate the most likely technical, behavioral, situational, and role-specific questions. Create strong answer frameworks based on my actual experience, smart questions to ask, and strategies to communicate my value with confidence and clarity.
 -------------------------------------------------
+🚨BREAKING: Claude can now fix your CV so well people will think you hired a pro.
+It makes your CV ATS-friendly and helps you stand out for more interview opportunities. Here are the 5 prompts:👇
+
+1. The CV X-Ray Analyzer
+Paste into Claude: "You are a senior HR professional with 15 years of recruiting experience in [industry]. Analyze my CV like you're screening a real candidate. Tell me: (1) which sections make you skip immediately, (2) achievements that are too weak and need strengthening, (3) the one thing that would get me rejected in the first 10 seconds. Be brutal. Don't be nice."
+
+2. The Job Description Decoder
+Paste into Claude: "Here is the job description: [paste JD]. Break it down section by section and give me: (1) hidden skills not written but definitely expected, (2) red flags if a candidate is missing them, (3) the 3 must-have keywords that must appear in my CV, (4) what the hiring manager actually cares about that the JD never says directly."
+
+3. The ATS Bypass Optimizer
+Paste into Claude: "My CV keeps failing initial screening. Act as an ATS specialist. Here is my CV: [paste]. Here is the job description: [paste]. Identify every gap between the two. Then rewrite my Experience and Skills sections using the exact keywords from the JD naturally, not stuffed. Target score: 90+ on ATS. Show me before and after for every change."
+
+4. The Achievement Transformer
+Paste into Claude: "Here are my current job descriptions on my CV: [paste bullet points]. Every single one describes a duty not a result. Rewrite each one using this formula: Strong action verb + what I did + measurable result + business impact. If I haven't given you numbers, suggest realistic placeholders I can verify. Make a recruiter stop scrolling."
+
+5. The Recruiter Mind Reader
+Paste into Claude: "You are a recruiter who just received 200 CVs for this role: [paste JD]. You have 6 seconds per CV. Here is mine: [paste CV]. Tell me: (1) do you shortlist me or skip me in those 6 seconds and why, (2) what is the first thing that catches your eye, (3) what is the first thing that kills my chances, (4) what would make you call me immediately."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
