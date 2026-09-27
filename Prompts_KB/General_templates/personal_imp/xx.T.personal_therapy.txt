@@ -26,6 +26,153 @@ Channel my wisest, healed future self. Based on everything you know about me, wh
 --
 How to use: Go slow. One prompt per day. Journal the answers.
 -------------------------------------------------
+Does one 3pm appointment ruin your whole day? Seneca wrote the full version 2,000 years ago.
+"It is not that we have a short space of time, but that we waste much of it."
+I turned his essay into 7 prompts that give you the day back 👇
+
+PROMPT 1: The Reckoning
+Framework: Seneca's challenge to a man near the end of his life. "Recall your life and make a reckoning. Consider how much of your time was taken up with a moneylender, how much with a patron, how much with a client, how much in rushing about the city on social duties."
+Prompt:
+---
+Adopt the role of a forensic accountant who audits time the way others audit money. You've never met a person who knew where their week went, only people who were sure they did. You also know an AI asked about a busy week will sympathise and offer productivity tips, which is how the week repeats.
+Your mission: make the reckoning Seneca asks for, on my last seven days, by person and by demand. He writes: "how many have robbed you of life when you were not aware of what you were losing." Before any output, think step by step: who each hour went to, whether I chose it, what I'd have done with it otherwise.
+---
+PHASE 1: The Week
+Give me last week hour by hour as best you can: meetings, calls, errands, messages, favours, and the gaps between them.
+→ Type "continue"
+PHASE 2: The Ledger
+Every hour assigned to a name: a client, a boss, a family member, a platform, or me. Totals per name, largest first. No advice yet.
+→ Type "continue"
+PHASE 3: The Unchosen
+Which of those hours I agreed to on purpose, which I drifted into, and which were taken without my noticing. The third pile is the one Seneca means.
+→ Type "continue"
+PHASE 4: The One Name
+The single person or demand that took the most unchosen time, and the sentence I say to them this week.
+→ Type "complete" for your reckoning.
+
+PROMPT 2: The Expectancy Tax
+Framework: the 3pm problem, in Seneca's words. "The greatest hindrance to living is expectancy, which depends upon the morrow and wastes to-day." Paul Graham, 2009: "A single meeting can blow a whole afternoon, by breaking it into two pieces."
+Prompt:
+---
+Adopt the role of a cost analyst who prices appointments at what they really cost, never at what the calendar shows. A 30-minute call at 3pm is a line on a screen. You count the hours before it that went to waiting and the hour after it that went to coming down. You also know an AI shown a calendar sees free space wherever there's no event, which is the exact mistake.
+Your mission: price every appointment in my week at its true cost. Seneca: "postponement is the greatest waste of life; it deprives them of each day as it comes." Before any output, think step by step: what I could realistically start before each appointment, what I actually do in that time, how long I take to get going again afterwards.
+---
+PHASE 1: The Calendar
+My next seven days, every fixed commitment with its time and length.
+→ Type "continue"
+PHASE 2: The True Cost
+For each one: the time on the calendar, plus the time before it I won't use properly, plus the recovery after. One number per appointment. Be honest about my habits, not generous.
+→ Type "continue"
+PHASE 3: The Bill
+The week's total in calendar hours against the week's total in true hours.
+The difference is what expectancy costs me.
+→ Type "continue"
+PHASE 4: The Three Moves
+The three appointments whose true cost is furthest from their calendar cost, and where each should move: first thing, last thing, or stacked with another.
+→ Type "complete" for your expectancy bill.
+
+PROMPT 3: The Miser's Ledger
+Framework: "In guarding their fortune men are often close-fisted, yet, when it comes to the matter of wasting time, in the case of the one thing in which it is right to be miserly, they show themselves most prodigal."
+Prompt:
+---
+Adopt the role of a private banker whose only client is my time. You'd never let me hand cash to everyone who asked, and you've watched me do exactly that with hours. You also know an AI will treat a request for my time as a scheduling problem and find a slot, when the question is whether it gets a slot at all.
+Your mission: put a price on my hours and run this week's requests through it. Seneca: "No one is to be found who is willing to distribute his money, yet among how many does each one of us distribute his life!" Before any output, think step by step: what an hour of my best work is worth, what each request would cost at that rate, whether I'd pay it in cash.
+---
+PHASE 1: The Rate and the Requests
+What I earn or could earn in a focused hour, then every request for my time sitting in my inbox, messages, and head.
+→ Type "continue"
+PHASE 2: The Invoices
+Each request priced at true cost from Prompt 2 times my rate. Written as an invoice: who, what for, how much.
+→ Type "continue"
+PHASE 3: The Cash Test
+For each invoice, one question: would I hand this person that amount in cash for this. Yes, no, or half. No explanations longer than a line.
+→ Type "continue"
+PHASE 4: The Budget
+A weekly budget of hours I'm willing to give away, and the requests that fit inside it. Everything else gets a no or a later.
+→ Type "complete" for your ledger.
+
+PROMPT 4: The Request Filter
+Framework: Seneca on how time gets asked for and given. "Both of them fix their eyes on the object of the request for time, neither of them on the time itself; just as if what is asked were nothing, what is given, nothing."
+Prompt:
+---
+Adopt the role of a chief of staff who has guarded one person's calendar for twenty years and has never once been rude doing it. You know the ask is always small: a quick call, a coffee, five minutes. You also know an AI asked to reply to a request will write a warm yes with three available times.
+Your mission: write the replies that protect my whole days without costing me the relationship. Seneca: "Men trifle with the most precious thing in the world; but they are blind to it because it is an incorporeal thing." Before any output, think step by step: what the person actually needs, whether it needs a meeting at all, where in my day it does the least damage.
+---
+PHASE 1: The Asks
+Paste the requests I need to answer, and tell me which days I want to keep whole.
+→ Type "continue"
+PHASE 2: The Sort
+Each ask marked: answer in writing, 15 minutes at the edge of a day, stack with another, or decline. With the reason in one line.
+→ Type "continue"
+PHASE 3: The Replies
+The actual message for each one, in my voice, short. Offers go to the first or last slot of an already broken day. No apologies and no "unfortunately."
+→ Type "continue"
+PHASE 4: The Standing Rule
+One sentence I can reuse for every future ask, and the two days a week that are open for other people.
+→ Type "complete" for your filter.
+
+PROMPT 5: The Divided Mind
+Framework: "No one pursuit can be successfully followed by a man who is busied with many things, since the mind, when its interests are divided, takes in nothing very deeply." Paul Graham: "You can't write or program well in units of an hour."
+Prompt:
+---
+Adopt the role of a production planner who schedules deep work the way a factory schedules a furnace: it takes time to heat, and you don't open the door every forty minutes. You also know an AI asked to plan a week will fill every gap with a task, which is how a day ends up as eight one-hour pieces.
+Your mission: rebuild my week around whole blocks. Graham says makers "generally prefer to use time in units of half a day at least." Before any output, think step by step: which of my work needs a half day, which fits in fragments, which days are already broken and should take all the appointments.
+---
+PHASE 1: The Work
+Everything I need to produce this week, and for each, how long it takes once I'm properly into it.
+→ Type "continue"
+PHASE 2: The Sizes
+Each piece of work marked half-day, one hour, or fragment. Be strict: if it needs thinking, it isn't a fragment.
+→ Type "continue"
+PHASE 3: The Broken Days
+Which days already have appointments. Those become the days that take every other appointment, call, and errand. Fragments go there too.
+→ Type "continue"
+PHASE 4: The Whole Days
+The days with nothing fixed, with the half-day work placed in them, and the one rule that keeps them whole.
+→ Type "complete" for your rebuilt week.
+
+PROMPT 6: The Remnant
+Framework: "Are you not ashamed to reserve for yourself only the remnant of life, and to set apart for wisdom only that time which cannot be devoted to any business?"
+Prompt:
+---
+Adopt the role of an advisor who asks one question of every schedule: what gets the leftovers. You've seen the book, the business, the health, and the kids get whatever is left at 9pm, for years. You also know an AI will help someone "find time" for what matters by squeezing it into the scraps, which is the problem restated.
+Your mission: find what I've been giving the remnant to, and move it to the front. Seneca: "How late it is to begin to live just when we must cease to live!" Before any output, think step by step: what I say matters most, when in the day it actually happens, what holds the best hours instead.
+---
+PHASE 1: The Claim and the Clock
+The three things I say matter most, and when in a normal week each one actually happens.
+→ Type "continue"
+PHASE 2: The Best Hours
+My two sharpest hours of the day, and what currently occupies them. Usually it's email.
+→ Type "continue"
+PHASE 3: The Swap
+What moves out of the best hours and where it goes, and which of my three things moves in. One swap, not a new life.
+→ Type "continue"
+PHASE 4: The First Block
+Tomorrow's first block, named and timed, with what I do in the first ten minutes so it actually starts.
+→ Type "complete" for your swap.
+
+PROMPT 7: The Evening Plan
+Framework: "He who bestows all of his time on his own needs, who plans out every day as if it were his last, neither longs for nor fears the morrow."
+Prompt:
+---
+Adopt the role of a planner who works only one day ahead. Tonight you plan tomorrow, and you plan it as the kind of day it is: a whole day or a broken one. You also know an AI asked for a daily plan produces an optimistic list that ignores the 3pm on the calendar.
+Your mission: plan my tomorrow so the appointment doesn't get the whole day. Seneca: "Life is long enough, and it has been given in sufficiently generous measure to allow the accomplishment of the very greatest things if the whole of it is well invested." Before any output, think step by step: whether tomorrow is whole or broken, what fits before the fixed point, what I stop expecting of the rest.
+---
+PHASE 1: Tomorrow
+Everything fixed tomorrow, everything I hope to do, and how I tend to behave on days like it.
+→ Type "continue"
+PHASE 2: The Verdict
+Whole day or broken day. If broken, I say so plainly and stop pretending it's a whole one.
+→ Type "continue"
+PHASE 3: The Plan
+For a whole day: one half-day block, protected. For a broken day: one 90-minute piece of real work placed first thing, then the appointments, errands, and fragments stacked around the fixed point.
+→ Type "continue"
+PHASE 4: The Start Line
+The exact thing I do at the exact time I start, and the one thing I've decided not to do tomorrow.
+→ Type "complete" for your plan.
+
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
