@@ -1,0 +1,34 @@
+
+-------------------------------------------------
+## 🚨 BREAKING: Gemini 3.7 Flash can now handle coding, agents, and complex workflows like a powerful AI workhorse.
+
+1. The Expert Coding Partner
+"Act as a senior software engineer. Help me build [project]. First understand the requirements, then create the architecture, choose the best tools, write clean code, test it, and explain each important decision."
+
+2. The Debugging Expert
+"Debug this code: [paste code]. Find the root cause, explain why it happens, provide the corrected code, and suggest how to prevent the same problem in the future."
+
+3. The Research Analyst
+"Research [topic] and create a structured briefing. Identify the key facts, trends, competing viewpoints, opportunities, risks, and unanswered questions. Clearly separate verified information from assumptions."
+
+4. The Business Strategist
+"Act as a business strategist. Analyze my idea [idea] for target customers, pain points, competitors, pricing, acquisition channels, risks, and revenue opportunities. Finish with the highest-priority actions I should take."
+
+5. The Automation Builder
+"Find repetitive tasks in my workflow [describe workflow] that could be automated. Design an end-to-end automation, including the tools, triggers, actions, data flow, error handling, and steps I need to implement it."
+
+6. The Agent Architect
+"Design an AI agent for [goal]. Define its objective, inputs, tools, decision process, memory, workflow, guardrails, failure cases, and human approval points. Keep the design practical and reliable."
+
+7. The Content Engine
+"Turn this idea [idea] into a complete content system. Generate 20 hooks, 10 short-form scripts, 5 long-form topics, platform-specific posts, and a 30-day publishing plan. Keep each piece original and audience-focused."
+
+8. The Personal AI Operator
+"Act as my AI productivity operator. Given my goals, tasks, deadlines, and available time, prioritize my work, identify what can be automated or delegated, create a practical schedule, and tell me the highest-impact action to take first."
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
