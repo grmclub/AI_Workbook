@@ -228,6 +228,29 @@ Even better: try recalling the answer before looking.
 Spacing and retrieval practice are among the better-supported strategies in learning research.
 
 -------------------------------------------------
+🚨 BREAKING: ChatGPT can now run your inbox, calendar and Slack like a personal assistant, just by talking.
+
+1. Morning briefing
+"Look at my calendar and unread email for today. Tell me the three things that matter most, who's waiting on me, and what I can safely ignore."
+
+2. Inbox sort
+"Go through my unread email from the last 24 hours and sort it into three piles: needs a reply from me today, someone else's problem, and ignore. Read me the first pile only."
+
+3. Reply in my voice
+"Find the last email from [name]. Draft a reply that says yes to the meeting but pushes it a week, in the tone I normally use with them. Read it back to me before you save it as a draft."
+
+4. Find a slot
+"Find a free 30 minutes with [name] this week, nothing before 10 or after 5, and write them an email proposing two options. Don't send it until I say so."
+
+5. Meeting prep
+"I've got a call with [name] in 20 minutes. Pull up every email and Slack thread with them from the last month and tell me what we agreed, what's still open, and what they're likely to ask."
+
+6. Slack catch-up
+"Summarize what I missed in Slack since yesterday. Group it by channel, flag anything where someone asked me a question directly, and skip the small talk."
+
+7. Promises check
+"Search my sent email from the last two weeks for anything I promised to do or send. List each one with who's waiting and whether it's done."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
