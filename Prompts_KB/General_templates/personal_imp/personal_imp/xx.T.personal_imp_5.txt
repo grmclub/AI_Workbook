@@ -157,7 +157,7 @@ Prompt:
 "You are my personal development coach. My goal is to become [insert ideal self]. Help me identify the skills, habits, routines, behaviors, and decision-making patterns that version of me would need. Then create a practical 90-day plan for gradually building them."
 
 -------------------------------------------------
-## ChatGPT has a feature called “Sites.” And most people are still sleeping on it. How it works and 7 useful things you can build 👇
+## ChatGPT has a feature called "Sites." And most people are still sleeping on it. How it works and 7 useful things you can build 👇
 
 1/ Build a personal dashboard
 Put everything you want to see in one clean page:
@@ -265,7 +265,7 @@ Now your to-do list has priorities.
 4. The 2-Minute Rule
 Tiny tasks can create a surprising amount of clutter.
 When something comes up, ask:
-“Can I finish this in about 2 minutes?”
+"Can I finish this in about 2 minutes?"
 If yes, consider doing it immediately.
 Reply to the email.
 File the document.
@@ -316,7 +316,7 @@ Depth beats constant switching.
 9. The Premortem
 Try to find the problems BEFORE they happen.
 Before starting an important project, imagine:
-“It's 6 months later and this failed. Why?”
+"It's 6 months later and this failed. Why?"
 List the possible reasons.
 Bad timing?
 Poor execution?
@@ -329,7 +329,7 @@ Make a new habit easier to remember.
 Start with something you already do consistently.
 Then attach your new habit directly after it.
 Example:
-“After I pour my morning coffee, I'll read for 10 minutes.”
+"After I pour my morning coffee, I'll read for 10 minutes."
 Existing habit → New habit
 Your old routine becomes the reminder.
 
@@ -344,7 +344,7 @@ What can I eliminate?
 Focus on your highest-impact work.
 
 12. The Two-List Strategy
-Your “not doing” list matters too.
+Your "not doing" list matters too.
 Write down your most important goals.
 Then create another list:
 Everything competing for your attention.
