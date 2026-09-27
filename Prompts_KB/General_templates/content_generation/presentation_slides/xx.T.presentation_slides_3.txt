@@ -211,6 +211,45 @@ PROMPT:
 PROMPT:
 "Analyze these sources and create a slide-by-slide comparison presentation on [topic] for [target audience]. Establish clear comparison criteria appropriate to the topic, then systematically compare the sources across their main claims, evidence, methods or approaches, perspectives, findings, strengths, limitations, and conclusions where applicable. Organize the presentation by comparison criteria or themes rather than summarizing each source separately. Identify areas of agreement, disagreement, and uncertainty, and explain whether differences appear to result from methods, evidence, context, assumptions, or perspective. Use comparison tables, matrices, charts, or diagrams where they clarify relationships. End with an evidence-based synthesis explaining what can reasonably be concluded from the sources collectively and what remains unresolved."
 -------------------------------------------------
+STOP ASKING CLAUDE "MAKE ME A PRESENTATION."
+Instead you can use these 9 powerful prompts to create professional presentations in minutes 👇 See less
+
+1. Build the Presentation Structure
+Prompt:
+Act as a presentation strategist. Create a professional [10–12 slide] presentation about [TOPIC] for [AUDIENCE]. The goal is to [INFORM / PERSUADE / SELL / TEACH]. Build a logical story from problem → insight → solution → action. For each slide, give me: slide title, key message, 3–5 concise talking points, and suggested visual. Avoid generic section titles like "Introduction" or "Overview."
+
+2. Turn a Rough Idea Into a Slide Deck
+Prompt:
+Turn this rough idea into a polished presentation: [PASTE IDEA / NOTES]. Create [NUMBER] slides for [AUDIENCE]. Give each slide one clear purpose and one main takeaway. Keep slide text short and presentation-friendly. For every slide include: headline, supporting points, visual suggestion, and speaker note. Remove repetition and organize everything into a compelling narrative.
+
+3. Convert a Document Into Slides
+Prompt:
+Convert the content below into a professional [NUMBER]-slide presentation for [AUDIENCE]: [PASTE ARTICLE / REPORT / DOCUMENT]. Do not simply summarize paragraph by paragraph. Identify the most important insights, statistics, arguments, and conclusions, then organize them into a presentation story. For each slide provide: title, key takeaway, concise content, and recommended chart/image/diagram.
+
+4. Create a Persuasive Pitch Deck
+Prompt:
+Create a persuasive pitch deck for [PRODUCT / SERVICE / BUSINESS IDEA] aimed at [CLIENTS / INVESTORS / MANAGEMENT]. Include slides covering: attention-grabbing opening, problem, why the problem matters, current alternatives, our solution, how it works, key benefits, proof/results, differentiation, offer/business model, and next step. Write strong slide headlines that communicate the conclusion, not just the topic.
+
+5. Create a Client Proposal Presentation
+Prompt:
+Create a client proposal presentation for [CLIENT/INDUSTRY]. Their main challenge is [PROBLEM], and we are proposing [SOLUTION]. Structure the deck around their situation rather than around our company. Include: current challenge, business impact, proposed approach, deliverables, timeline, expected outcomes, proof/credibility, pricing placeholder, and next steps. Make the tone [CONFIDENT / PREMIUM / FRIENDLY / CONSULTATIVE].
+
+6. Create an Educational Presentation
+Prompt:
+Create a beginner-friendly presentation teaching [TOPIC] to [AUDIENCE] who currently know [KNOWLEDGE LEVEL]. Use [NUMBER] slides. Start with why the topic matters, explain concepts in simple language, use practical examples, break complicated ideas into steps, highlight common mistakes, and finish with an actionable checklist. For each slide provide headline, teaching points, example, and visual idea.
+
+7. Make Boring Slides More Powerful
+Prompt:
+Act as an expert presentation editor. Improve the slides below without changing the core meaning: [PASTE CURRENT SLIDE CONTENT]. Rewrite weak titles into strong takeaway headlines, shorten long paragraphs, remove filler, make bullet points sharper, improve the flow between slides, and suggest visuals wherever text can be replaced by a chart, diagram, timeline, comparison, or image. Show me the improved version slide by slide.
+
+8. Design the Visual Direction
+Prompt:
+Create a complete visual direction for a presentation about [TOPIC] for [BRAND / AUDIENCE]. The desired feeling is [MODERN / PREMIUM / MINIMAL / BOLD / CORPORATE]. Recommend a color palette, font pairing, title style, body-text style, spacing rules, image style, icon style, chart style, and slide layout system. Then suggest the best visual treatment for each slide in this outline: [PASTE OUTLINE].
+
+9. Turn Data Into Presentation Slides
+Prompt:
+Analyze this data and turn it into executive-friendly presentation slides: [PASTE DATA / TABLE / METRICS]. Identify the 5–7 most important insights, including trends, changes, comparisons, anomalies, and business implications. For each insight create a slide with: conclusion-style headline, key numbers, short explanation, recommended chart type, and one "so what?" takeaway. Do not create charts just because data exists—choose the visual that communicates each insight fastest.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
