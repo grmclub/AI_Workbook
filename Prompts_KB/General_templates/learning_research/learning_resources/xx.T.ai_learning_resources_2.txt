@@ -27,7 +27,7 @@ Use the Persona, Task, Context, Format framework to write clearer prompts and ge
 Course: https://www.cloudskillsboost.google/.../documents/555684
 
 7 - Write emails faster with Gemini
-Speed up Gmail replies using Gemini’s “Help me write” for polished emails and customer messages.
+Speed up Gmail replies using Gemini’s "Help me write" for polished emails and customer messages.
 Course: https://www.cloudskillsboost.google/.../documents/579146
 
 8 - Market research with NotebookLM
@@ -273,6 +273,78 @@ MARKETING & CREATOR SKILLS 🚀
 79. Moz Academy — Learn SEO
 80. Ahrefs Academy — Free SEO + marketing courses
 
+-------------------------------------------------
+9 FREE certifications you can complete in just 9 days.
+One certification a day from names like Google, IBM, Microsoft, and Deloitte.
+They can strengthen your resume and help you stand out to recruiters.
+
+1/ Deloitte Job Simulation
+Real Deloitte tasks, run through Forage.
+What you learn: this isn't a course. You do the actual work a Deloitte analyst does, on real briefs.
+Time: 3 to 4 hours.
+Certificate: free, with Deloitte's name on it.
+Where: search "Forage Deloitte data analytics."
+
+2/ Google AI Essentials
+Google, through Coursera.
+What you learn: how to actually use AI at work, from the company most employers are hiring AI skills for.
+Time: around 10 hours.
+Certificate: free to audit, with a badge for LinkedIn.
+Where: search "Google AI Essentials Coursera."
+
+3/ SQL and Relational Databases
+IBM's, and the badge is verifiable by employers.… See more
+
+4/ Prompt Engineering
+Run by AWS, who host most of the internet.
+What you learn: how to write prompts that actually work, from the company running the infrastructure behind it.
+Time: a few hours.
+Certificate: free, from AWS.
+Where: search "AWS Skill Builder prompt engineering."
+
+5/ Siemens Operations & Industrial Engineering
+Same setup as Deloitte, Siemens tasks through Forage.
+What you learn: real Siemens engineering work, start to finish.
+Time: 3 to 4 hours.
+Certificate: free, through Forage.
+Where: search "Forage Siemens engineering."
+
+6/ Microsoft Excel
+Microsoft Learn.
+What you learn: still the most requested software skill in office jobs, and half the people who list it can't do what employers need.
+Time: a few hours per learning path.
+Certificate: free digital badges for LinkedIn.
+Where: search "Microsoft Learn Excel."
+
+7/ Data Analysis with Python
+IBM again, same verifiable badge.
+What you learn: taking messy data and turning it into something that answers a question. That's the job, not the theory.
+Time: roughly 8 hours.
+Certificate: free IBM badge through Credly.
+Where: search "IBM SkillsBuild data analysis Python."
+
+8/ Google Analytics
+Google Skillshop.
+What you learn: the baseline requirement for any marketing or e-commerce role, and it's an official Google credential.
+Time: 4 to 6 hours.
+Certificate: free, renews every 12 months.
+Where: search "Google Skillshop" and pick Google Analytics.
+
+9/ Introduction to Python
+Microsoft's own course, hosted on edX.
+What you learn: the language everything else on this list runs on. Start here if you've never written a line of code.
+Time: around 5 hours.
+Certificate: free to audit. The verified one costs extra.
+Where: search "Microsoft Introduction to Python edX."
+
+10/ Bonus: Google skills for anything AI and tech offered by Google
+What to search: Google skills courses
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
