@@ -22,6 +22,24 @@ Use the uploaded image as the visual reference. Animate it using a [VIDEO STYLE]
 4. Swap Styles, Keep Everything Else
 Once you've generated one version, simply replace [VIDEO STYLE] with another style from the list. This lets you compare completely different visual treatments while maintaining the exact same scene, making it perfect for testing creative directions or building consistent variations.
 -------------------------------------------------
+
+Analyze the uploaded image and preserve the original subject, composition, and
+lighting. Do not alter the identity or structure of the main subject. Add playful,
+hand-drawn doodles that interact directly with the subject in the image. The
+doodles should mimic, follow, or exaggerate the shapes, gestures, or motion
+present— such as outlining poses, extending limbs, adding motion lines, or
+creating imaginative elements that "respond" to the subject. Ensure the doodles
+feel naturally integrated into the scene, as if they were drawn on top of the photo
+with intention. Use a sketchy, imperfect, hand-drawn style with organic lines,
+slightly uneven strokes, and a casual illustrated feel. Include whimsical
+handwritten text elements placed around the image. The text should match the
+mood or implied context of the scene, with a playful and spontaneous tone. Avoid
+fixed phrasesgenerate context-aware, creative, and humorous text that fits each
+unique image. Maintain a balanced composition so the doodles enhance the image
+without overwhelming the original subject. Keep the overall aesthetic fun,
+expressive, and social-media-ready. High resolution, clean overlay, vibrant yet
+natural color harmony.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
