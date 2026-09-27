@@ -1,4 +1,27 @@
 
+
+-------------------------------------------------
+McKinsey-style decks in hours, not weeks with 6 Claude prompts.
+Use them in sequence to turn raw ideas into a polished, client-ready presentation.
+
+1️. The Ghost Deck Architect
+"I’m presenting [TOPIC] to [AUDIENCE]. Build a 10-slide ghost deck with an insight-driven headline for every slide, the ideal chart or visual, and the key information required. Each headline must communicate a clear conclusion—not simply describe the topic. Make every slide understandable in 15 seconds or less."
+
+2️. The MECE Argument Blueprint
+"My proposed recommendation is [X]. Build a MECE argument around 3 mutually exclusive, collectively exhaustive supporting pillars. For each pillar, identify 2 data points needed to validate it. Flag any pillar that lacks sufficient evidence."
+
+3️. The Insight Generator
+"Here’s my data: [PASTE DATA]. For every finding, write a one-sentence ‘why it matters’ takeaway. Remove findings that would not change or strengthen the recommendation."
+
+4️. The Stakeholder Resistance Map
+"My audience includes [ROLES]. Identify each stakeholder’s primary concern or likely objection. Draft a concise, evidence-based response to address each one in advance. Use only insights supported by the analysis."
+
+5️. The Executive Overview Accelerator
+"Draft the executive overview. State the recommendation in the first sentence, give the 3 strongest reasons supporting it, and quantify the expected impact where possible. Make the required action clear within 30 seconds."
+
+6️. The Single-Slide Clarity Test
+"Condense the entire presentation into one slide: one action-focused headline, one essential chart, and three supporting bullets. If the argument cannot fit, identify the weakest reasoning or information that should be removed."
+
 -------------------------------------------------
 🚨 BREAKING: Claude is bringing McKinsey-level strategic thinking to your business.
 Here are 8 powerful Claude prompts every founder should run before launching. 👇
