@@ -198,6 +198,116 @@ Summary of Differences
     • Circuit Breakers look directly at the spot market indexes (KOSPI/KOSDAQ) and legally shut down the exchange floor to stop systemic panic
 
 -------------------------------------------------
+## 🚨 BREAKING: Claude has a hidden “STOCK ANALYSIS MODE.”
+
+Most people research stocks by jumping between charts, earnings reports, news, and financial statements.
+
+With the right prompts, Claude can help you analyze a company like an equity research analyst, from fundamentals and valuation to risks, catalysts, and competitive advantage.
+
+Here are 9 Claude prompts to activate it👇
+
+1. Get a complete stock snapshot
+Act as an equity research analyst. Analyze [COMPANY NAME / TICKER] as of [DATE] for an investor with a [SHORT/MEDIUM/LONG]-term horizon.
+Cover:
+• Business model and main revenue sources
+• Customer segments and geographic exposure
+• Competitive advantages
+• Latest revenue, profit, margins, free cash flow and debt
+• Recent stock-price performance
+• Three potential growth drivers
+• Three major risks
+Use current, reputable sources when available. Attach a date and source to every important figure. Clearly label estimates, missing information and uncertain conclusions. Finish with a 5-bullet beginner-friendly summary.
+
+2. Analyze the company’s fundamentals
+Evaluate the fundamentals of [TICKER] using its latest [ANNUAL/QUARTERLY] results.
+Create a table showing:
+• Revenue growth
+• Gross, operating and net margins
+• EPS growth
+• Free cash flow
+• Cash and total debt
+• Return on equity
+• Share-count changes
+Compare each metric with the previous [3/5] years and explain whether the trend is improving, stable or weakening. Flag one-time items and accounting concerns. Do not invent unavailable numbers. End with the company’s two strongest and two weakest financial characteristics.
+
+3. Review the latest earnings report
+Analyze the latest earnings release and conference call for [TICKER].… See more
+
+4. Estimate a reasonable valuation
+Build a valuation analysis for [TICKER] using current financial data as of [DATE].
+Use the valuation methods appropriate for this company, such as:
+• P/E
+• EV/EBITDA
+• Price-to-sales
+• Free-cash-flow yield
+• Discounted cash flow
+Compare its valuation with [3–5 PEERS] and its own historical range. Create conservative, base and optimistic scenarios using clearly stated assumptions. Estimate a possible value range—not a guaranteed price target—and show which assumptions have the greatest impact. Flag unreliable or missing data.
+
+5. Compare competing stocks
+Compare [TICKER 1], [TICKER 2] and [TICKER 3] as potential investments over [TIME HORIZON].
+Score each company from 1–10 on:
+• Revenue growth
+• Profitability
+• Balance-sheet strength
+• Cash-flow quality
+• Valuation
+• Competitive advantage
+• Management execution
+• Risk
+Show the supporting evidence in a table. Explain where each company wins or loses and identify which type of investor each may suit. Do not select a winner until completing the comparison. State what new information could change the ranking.
+
+6. Find catalysts and hidden risks
+Create a catalyst-and-risk map for [TICKER] covering the next [6/12/24] months.
+For every catalyst and risk, include:
+• Expected time frame
+• Likely probability: low, medium or high
+• Possible business impact
+• Metrics or events to monitor
+• Evidence supporting the assessment
+Include company-specific, industry, regulatory, competitive and macroeconomic factors. Separate confirmed events from speculation. Rank the five factors most likely to change the investment thesis.
+
+7. Build a bull, base and bear case
+Develop bull, base and bear cases for [TICKER] over [TIME HORIZON].
+For each case, specify:
+• Revenue-growth assumption
+• Margin assumption
+• Valuation assumption
+• Major catalysts
+• Major risks
+• Conditions required for the scenario
+• Plausible valuation range
+Assign a probability to each case and explain the reasoning without pretending the probabilities are precise. Then list three measurable signals that would indicate which scenario is unfolding.
+
+8. Perform technical analysis
+Analyze the price and volume data for [TICKER] over [TIME PERIOD]. Use live market data only if you can verify it; otherwise ask me to upload or paste the data.
+Evaluate:
+• Primary trend
+• Support and resistance zones
+• 20-, 50- and 200-day moving averages
+• Relative Strength Index
+• Volume behavior
+• Volatility
+• Potential breakout or breakdown levels
+Explain every indicator in simple language. Provide conditional scenarios—not predictions—and identify the price level that would invalidate each scenario. State the data date and market session used.
+
+9. Create a disciplined investment checklist
+Turn the research on [TICKER] into a decision checklist for an investor with:
+• Portfolio size: [AMOUNT]
+• Risk tolerance: [LOW/MEDIUM/HIGH]
+• Time horizon: [PERIOD]
+• Maximum acceptable loss: [PERCENTAGE]
+• Existing sector exposure: [DETAILS]
+Include:
+1. Reasons to consider the stock
+2. Reasons to avoid it
+3. Questions still unanswered
+4. Metrics to monitor each quarter
+5. Conditions that would strengthen the thesis
+6. Conditions that would invalidate it
+7. Key diversification and concentration concerns
+Do not tell me to buy or sell or claim a guaranteed return. Highlight any information that requires verification by a licensed financial professional.
+
+
 ------------------------------------------------- 
 -------------------------------------------------
 -------------------------------------------------
