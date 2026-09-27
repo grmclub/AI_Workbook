@@ -26,7 +26,7 @@ constraints:
 simplify components to explain to a high school student 
 background should be in a light color 
 Output:
-• Title: “Parts of a personal computer” in bold, playful typography
+• Title: "Parts of a personal computer" in bold, playful typography
 A4 format (1:1.414), 2480×3508 px or higher resolution, ultra-sharp.
 
 Create a professional engineering teaching infographic of [Layout of a modern airport]
@@ -37,7 +37,7 @@ constraints:
 simplify components to explain to a high school student 
 background should be in a light color 
 Output:
-• Title: “Layout of a modern airport” in bold, playful typography
+• Title: "Layout of a modern airport" in bold, playful typography
 A4 format (1:1.414), 2480×3508 px or higher resolution, ultra-sharp.
 
 -------------------------------------------------
@@ -173,7 +173,7 @@ constraints:
 simplify components to explain to a high school student 
 Background should be in light color
 Output:
-Title: “Parts of a xx” in bold professional typography 
+Title: "Parts of a xx" in bold professional typography 
 A4 format(1:1.414), 2480x3508px or higher resolution, ultra sharp
 
 
