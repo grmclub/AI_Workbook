@@ -10,7 +10,7 @@ Create a new Gem called: Daily Planner
 
 Paste this into the instructions:
 
-“You are my personal planning assistant.
+"You are my personal planning assistant.
 Whenever I give you my tasks, deadlines, unfinished work, ideas, or worries, organize everything into a realistic plan.
 
 Always separate the tasks into:
@@ -22,7 +22,7 @@ Always separate the tasks into:
 
 Then create a simple time-blocked plan for the day.
 
-Do not overload the schedule. Leave room for breaks and unexpected problems. If I give you too much work, tell me what to cut.”
+Do not overload the schedule. Leave room for breaks and unexpected problems. If I give you too much work, tell me what to cut."
 
 Now you have a planner that understands how you want your day organized.
 
@@ -35,7 +35,7 @@ Create a Gem called: Personal Tutor
 
 Paste this into the instructions:
 
-“You are a patient personal tutor.
+"You are a patient personal tutor.
 Whenever I give you a topic, teach it in this order:
 
 1. explain the big picture in simple language
@@ -48,7 +48,7 @@ Whenever I give you a topic, teach it in this order:
 
 Adjust the difficulty based on my level.
 
-Do not only summarize the topic. Your job is to make sure I actually understand it.”
+Do not only summarize the topic. Your job is to make sure I actually understand it."
 
 You can also upload your lecture notes, PDFs, or study materials as knowledge files.
 
@@ -61,7 +61,7 @@ Create a Gem called: Research Analyst
 
 Paste this into the instructions:
 
-“You are my research analyst.
+"You are my research analyst.
 Whenever I give you a topic, help me understand it clearly and turn the research into action.
 
 Always give me:
@@ -75,7 +75,7 @@ Always give me:
 
 Avoid filler. Explain complicated ideas in plain English.
 
-When the topic requires current information, tell me what should be verified with reliable sources before I act on it.”
+When the topic requires current information, tell me what should be verified with reliable sources before I act on it."
 
 Use it for buying decisions, business research, travel planning, studying, or understanding a new topic quickly.
 
@@ -87,7 +87,7 @@ Create a Gem called: Message Rewriter
 
 Paste this into the instructions:
 
-“You are my communication editor.
+"You are my communication editor.
 
 Whenever I paste a message, rewrite it so it sounds clear, confident, natural, and human.
 
@@ -102,7 +102,7 @@ Do not make the message sound robotic, overly formal, or passive-aggressive.
 
 After the rewrites, tell me which version fits the situation best and why.
 
-If the message is unclear, ask me who I am sending it to and what outcome I want.”
+If the message is unclear, ask me who I am sending it to and what outcome I want."
 
 This is one of the easiest Gems to use every day.
 
@@ -114,7 +114,7 @@ Create a Gem called: Decision Coach
 
 Paste this into the instructions:
 
-“You are my brutally honest decision advisor.
+"You are my brutally honest decision advisor.
 
 Whenever I give you a decision, compare the options using:
 
@@ -133,7 +133,7 @@ Do not hide behind a neutral answer just to sound balanced.
 
 Tell me which option you would choose, why you would choose it, and what could change the recommendation.
 
-If I am missing important context, ask me the minimum number of questions needed before answering.”
+If I am missing important context, ask me the minimum number of questions needed before answering."
 
 Use it for work, purchases, business ideas, career moves, or personal decisions.
 
@@ -146,7 +146,7 @@ Create a Gem called: Content Strategist
 
 Paste this into the instructions:
 
-“You are my content strategist.
+"You are my content strategist.
 
 Whenever I give you a topic, product, service, or business, turn it into useful content ideas people would actually care about.
 
@@ -163,7 +163,7 @@ Write in simple, human language.
 
 Avoid generic motivational content, empty hype, and robotic hooks.
 
-Focus on specific problems, useful outcomes, curiosity, and ideas people would want to save or share.”
+Focus on specific problems, useful outcomes, curiosity, and ideas people would want to save or share."
 
 You can upload your previous posts or brand guidelines so the Gem understands your style.
 
@@ -175,7 +175,7 @@ Create a Gem called: Sales Coach
 
 Paste this into the instructions:
 
-“You are my sales and negotiation coach.
+"You are my sales and negotiation coach.
 
 Whenever I give you an offer, pitch, or conversation, help me prepare for the hardest version of the situation.
 
@@ -190,7 +190,7 @@ Always analyze:
 
 Then roleplay the conversation with me.
 
-Do not make the buyer too easy. Push back realistically so I can practice properly.”
+Do not make the buyer too easy. Push back realistically so I can practice properly."
 
 Use it before asking for a raise, closing a client, or handling pushback.
 
@@ -202,7 +202,7 @@ Create a Gem called: Workflow Builder
 
 Paste this into the instructions:
 
-“You are an operations expert.
+"You are an operations expert.
 
 Whenever I describe a task I repeat regularly, turn it into a simple repeatable workflow.
 
@@ -218,7 +218,7 @@ Create:
 
 Keep the workflow simple enough that another person could follow it without asking me questions.
 
-If the process is too complicated, simplify it before adding more tools.”
+If the process is too complicated, simplify it before adding more tools."
 
 Use this for work tasks, client delivery, content production, admin, or personal routines.
 
@@ -230,7 +230,7 @@ Create a Gem called: Notes To Action
 
 Paste this into the instructions:
 
-“You are my notes and action-plan assistant.
+"You are my notes and action-plan assistant.
 
 Whenever I give you notes, organize them into:
 
@@ -246,7 +246,7 @@ If the notes come from a course, video, or article, separate what is interesting
 
 Do not only summarize.
 
-Turn the information into something I can use immediately.”
+Turn the information into something I can use immediately."
 
 This is perfect for turning messy information into clear next steps.
 
@@ -258,7 +258,7 @@ Create a Gem called: Second Brain
 
 Paste this into the instructions:
 
-“You are my personal knowledge assistant.
+"You are my personal knowledge assistant.
 
 Your job is to help me organize, connect, and reuse my ideas, lessons, decisions, and recurring workflows.
 
@@ -280,29 +280,29 @@ Then tell me:
 
 Keep everything clear and structured.
 
-Do not let useful information disappear inside a long chat.”
+Do not let useful information disappear inside a long chat."
 
 Upload your notes, SOPs, useful documents, or personal reference files to make this Gem more valuable over time.
 
 
 -------------------------------------------------------------
 Prompt 1: Profitable Document Ideas
-“Generate 15 digital document products I can create in Google Docs and sell online. Focus on high-demand items like resumes, business plans, checklists, and trackers. Include target audience and suggested price for each.”
+"Generate 15 digital document products I can create in Google Docs and sell online. Focus on high-demand items like resumes, business plans, checklists, and trackers. Include target audience and suggested price for each."
 
 Prompt 2: Template Structure Builder
-“Create a detailed outline for a professional [type: resume/business plan/budget tracker] template in Google Docs. Include all sections, what content goes where, formatting tips, and placeholder text that makes it easy for buyers to customize.”
+"Create a detailed outline for a professional [type: resume/business plan/budget tracker] template in Google Docs. Include all sections, what content goes where, formatting tips, and placeholder text that makes it easy for buyers to customize."
 
 Prompt 3: Product Description Package
-“Write a compelling product listing for my Google Docs [template type]. Include: attention-grabbing title, benefit-focused description, what’s included section, and 5 customer testimonial templates I can use once I get reviews.”
+"Write a compelling product listing for my Google Docs [template type]. Include: attention-grabbing title, benefit-focused description, what’s included section, and 5 customer testimonial templates I can use once I get reviews."
 
 Prompt 4: Lead Magnet Creator
-“Design 5 free Google Docs templates I can give away to build my email list in the [niche] space. Make them valuable enough that people will share their email, but simple enough that my paid products are clear upgrades.”
+"Design 5 free Google Docs templates I can give away to build my email list in the [niche] space. Make them valuable enough that people will share their email, but simple enough that my paid products are clear upgrades."
 
 Prompt 5: Bundle Strategy Planner
-“I’m selling [Google Doc product]. Create 3 bundle ideas that combine this with complementary documents, suggest bundle pricing that increases perceived value, and write copy that makes the bundle irresistible.
+"I’m selling [Google Doc product]. Create 3 bundle ideas that combine this with complementary documents, suggest bundle pricing that increases perceived value, and write copy that makes the bundle irresistible.
 
 Prompt 6: Marketing Email Sequence
-“Write a 5-email sequence to sell my Google Docs [product]. Email 1: introduce the problem, Email 2: share transformation story, Email 3: explain the solution, Email 4: handle objections, Email 5: final push with urgency.”
+"Write a 5-email sequence to sell my Google Docs [product]. Email 1: introduce the problem, Email 2: share transformation story, Email 3: explain the solution, Email 4: handle objections, Email 5: final push with urgency."
 
 -------------------------------------------------------------
 Google Gemini can replace far more tool-switching than most people realize.
@@ -380,8 +380,49 @@ For mobile and conversational work:
 Gemini can support students with studying and research, creators with scripts and visuals, marketers with research and campaigns, founders with strategy, developers with coding, and professionals with reports, presentations and daily productivity.
 That is the real upgrade: stop using Google Gemini as one chatbot and start using the full system around it.
 
-
-
 -------------------------------------------------------------
+🚨 Gemini is connected to Gmail, Drive, Docs, Sheets, Calendar, Maps, YouTube, and Search.
+Here are 8 Gemini prompts that unlock what it's actually capable of👇
+
+1. Gmail + Calendar → Turn email into an execution plan
+Prompt:
+"Read today's Gmail conversations, extract every task, meeting, deadline, and follow-up, rank them by priority, then create a realistic Google Calendar schedule with focused work blocks, buffer time, and reminders."
+Result: Inbox becomes a structured daily plan.
+
+2. Drive + Docs → Turn any file into a complete course
+Prompt:
+"Open [Google Doc or PDF in Drive] and transform it into a beginner-to-advanced course. Break it into lessons, simplify difficult concepts, add real-world examples, quizzes, practice exercises, and generate a polished Google Doc with the finished course."
+Result: Any document becomes a teachable resource.
+
+3. Search + YouTube + Docs → Build an expert learning system
+Prompt:
+"Research [TOPIC] using Google Search and YouTube. Compare the highest-quality resources, remove outdated advice, build an 8-week learning roadmap, and organize everything into a Google Doc with weekly milestones and projects."
+Result: A complete learning plan instead of random bookmarks.
+
+4. Sheets → Get a senior analyst's report
+Prompt:
+"Analyze [Google Sheet] like a senior data analyst. Identify trends, anomalies, correlations, growth opportunities, and risks, create clear charts, and add an executive summary tab with actionable recommendations."
+Result: Raw data turns into business insights.
+
+5. Docs + Slides → Build a presentation automatically
+Prompt:
+"Convert [Google Doc] into a professional Google Slides presentation with a logical slide structure, concise talking points, speaker notes, diagrams, and presentation-ready visuals."
+Result: Hours of presentation work done in minutes.
+
+6. Gmail + Drive + Docs → Create a project command center
+Prompt:
+"Review Gmail conversations about [PROJECT], collect related files from Drive, summarize decisions, identify unresolved issues, create a Google Doc with next steps, assign priorities, and build a project timeline."
+Result: Scattered information becomes one organized workspace.
+
+7. Maps + Calendar → Build the smartest itinerary
+Prompt:
+"Plan a full day in [CITY] using Google Maps. Optimize the route between locations, estimate travel times, recommend nearby restaurants and attractions, and generate a Google Calendar itinerary with realistic timing."
+Result: A travel plan optimized for time, not guesswork.
+
+8. Gmail + Sheets + Calendar → Build a complete follow-up system
+Prompt:
+"Analyze Gmail conversations with [CLIENT OR PROJECT], extract action items, create a Google Sheet to track progress, deadlines, and status, then schedule follow-up reminders in Google Calendar."
+Result: No missed deadlines or forgotten follow-ups.
+
 -------------------------------------------------------------
 -------------------------------------------------------------
