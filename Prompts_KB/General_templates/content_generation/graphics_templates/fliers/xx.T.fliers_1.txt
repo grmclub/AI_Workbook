@@ -82,8 +82,163 @@ The poster should feel iconic, refreshing, youthful, aspirational, globally reco
 Use ultra-realistic execution with cinematic lighting, realistic fashion textures, natural shadows, crisp typography, polished product photography, sophisticated colour grading, and high-end Instagram advertising quality.
 Aspect ratio: 1:1 — optimized for Instagram.
 
-
 -------------------------------------------------
+Stop telling ChatGPT “Make me a graphic”
+Stop telling ChatGPT “Design a flyer”
+Stop telling ChatGPT “Create a poster”
+
+That’s how you end up with generic AI design.
+
+Use these 8 prompts instead 👇
+
+
+1. SOCIAL MEDIA CAMPAIGN IMAGE
+Create one polished social media campaign image for [BRAND NAME], a [TYPE OF BUSINESS] that serves [TARGET AUDIENCE].
+The purpose of this image is to promote [CAMPAIGN / OFFER / MESSAGE].
+The single most important message to communicate is [CORE MESSAGE].
+The design should feel [3 BRAND ADJECTIVES].
+Format the image for [INSTAGRAM POST / LINKEDIN POST / FACEBOOK POST / STORY / X POST].
+Canvas ratio: [1:1 / 4:5 / 9:16 / 16:9].
+Use [PRIMARY COLOUR], [SECONDARY COLOUR], and [ACCENT COLOUR] in a controlled, brand-appropriate way.
+Include:
+Headline: [HEADLINE]
+Supporting copy: [SHORT SUPPORTING TEXT]
+CTA: [CTA]
+If relevant:
+Offer: [DISCOUNT / PROMOTION / ANNOUNCEMENT]
+Website or handle: [WEBSITE / @HANDLE]
+Use [PRODUCT PHOTO / PERSON / FOUNDER PORTRAIT / LIFESTYLE IMAGE / ILLUSTRATION] as the main focal point.
+Place the logo in [TOP LEFT / TOP RIGHT / BOTTOM LEFT / BOTTOM RIGHT].
+Use a clear hierarchy so the headline is noticed first, followed by the main visual, supporting copy and CTA.
+Keep the layout clean, balanced and professionally art-directed with intentional spacing and negative space.
+Make it feel like a premium branded campaign, not a generic template.
+Avoid clutter, random icons, excessive gradients, poor alignment and unnecessary decorative elements.
+
+2. PRODUCT ADVERTISEMENT
+Create a premium advertising image for [PRODUCT NAME], a [PRODUCT TYPE] made for [TARGET CUSTOMER].
+The main objective is to communicate [PRIMARY BENEFIT / OFFER] immediately.
+Use the actual product as the main focal point and place it [CENTRE / LEFT / RIGHT].
+Background: [BACKGROUND DESCRIPTION]
+Environment: [STUDIO / LIFESTYLE / OUTDOOR / LUXURY INTERIOR / ABSTRACT]
+Lighting: [SOFT STUDIO / CINEMATIC / NATURAL DAYLIGHT / HIGH-CONTRAST / WARM]
+Camera angle: [EYE LEVEL / LOW ANGLE / TOP-DOWN / CLOSE-UP / THREE-QUARTER VIEW]
+Headline: [HEADLINE]
+Supporting text: [SHORT SUPPORTING COPY]
+Offer: [PRICE / DISCOUNT / PROMOTION]
+CTA: [SHOP NOW / LEARN MORE / ORDER TODAY]
+Use [BRAND COLOURS] as subtle accents while keeping the product dominant.
+Leave intentional negative space around the headline and CTA.
+Keep text away from important product details.
+Make the product realistic with accurate proportions, believable reflections, natural shadows and realistic textures.
+Format for [INSTAGRAM / LINKEDIN / FACEBOOK / DIGITAL AD / PRINT].
+Canvas ratio: [1:1 / 4:5 / 9:16 / 16:9].
+Do not add extra products, invented logos, unnecessary props, random text, excessive glow or floating objects.
+
+3. EVENT POSTER
+Design a professional poster for [EVENT NAME] taking place on [DATE] at [LOCATION].
+The event is about [TOPIC] and is intended for [AUDIENCE].
+Use [MOOD / DESIGN STYLE] as the visual direction.
+Include:
+Event title: [TITLE]
+Date: [DATE]
+Time: [TIME]
+Location: [LOCATION]
+Speaker or host: [NAME]
+CTA: [REGISTER / BUY TICKETS / LEARN MORE]
+Build the layout using a clear grid.
+Make [MOST IMPORTANT INFORMATION] the dominant visual element.
+Use one strong focal image or graphic instead of several competing elements.
+Create clear separation between the event title, practical information, speaker details and CTA.
+Design for [INSTAGRAM / PRINT A3 / LINKEDIN / STORY].
+Avoid generic event icons, excessive effects, tiny text, centred everything and unnecessary decoration.
+
+4. YOUTUBE THUMBNAIL
+Create a high-performing YouTube thumbnail for a video titled [VIDEO TITLE].
+The video is about [TOPIC] and targets [AUDIENCE].
+The thumbnail should communicate [MAIN IDEA / EMOTION / RESULT] within one second.
+Use [PERSON / PRODUCT / OBJECT] as the main focal point.
+Thumbnail text: [2 TO 5 WORDS]
+Place the subject on [LEFT / RIGHT] and the text on the opposite side.
+Use strong foreground-background separation.
+Make the facial expression or subject pose communicate [EMOTION].
+Use a maximum of three main visual elements.
+Keep the text readable on mobile.
+Do not repeat the full video title inside the thumbnail.
+Avoid excessive arrows, circles, tiny text, cluttered backgrounds and unnecessary objects.
+Create three genuinely different concepts based on different visual ideas, not just colour changes.
+
+5. BOOK COVER
+Design a book cover for [BOOK TITLE] by [AUTHOR NAME].
+Genre: [GENRE]
+Target reader: [AUDIENCE]
+Central theme: [THEME]
+Desired mood: [MOOD]
+Create a cover concept built around one memorable visual idea.
+Include:
+Title: [TITLE]
+Subtitle: [SUBTITLE]
+Author: [AUTHOR]
+Use typography that reflects [GENRE / PERIOD / TONE].
+Create a clear hierarchy between the title, subtitle, imagery and author name.
+Design both the front cover and a simplified thumbnail version so the title remains readable at small size.
+Use [PHOTOGRAPHY / ILLUSTRATION / ABSTRACT / TYPOGRAPHIC] treatment.
+Avoid obvious genre clichés, overcrowded imagery, unnecessary symbols and typography that competes with the main concept.
+
+6. RESTAURANT MENU
+Design a menu for [RESTAURANT NAME], a [CUISINE TYPE] restaurant with a [CASUAL / PREMIUM / FAMILY / FINE DINING] atmosphere.
+Menu sections:
+[STARTERS]
+[MAINS]
+[SIDES]
+[DESSERTS]
+[DRINKS]
+Use [DESIGN STYLE] and [COLOUR PALETTE].
+Create a clear typographic hierarchy for:
+Section titles
+Dish names
+Descriptions
+Prices
+Dietary information
+Keep prices visually secondary to dish names.
+Use spacing rather than excessive boxes and dividers to separate sections.
+Highlight [SIGNATURE DISHES / CHEF RECOMMENDATIONS] using one restrained visual treatment.
+Design for [A4 / FOLDED MENU / DIGITAL SCREEN / TABLET].
+Avoid decorative food clipart, excessive borders, unrelated fonts, crowded sections and layouts that make prices difficult to compare.
+
+7. INFOGRAPHIC
+Create a vertical infographic explaining [TOPIC] to [TARGET AUDIENCE].
+The reader should understand [MAIN LEARNING OUTCOME] within two minutes.
+Organise the information into:
+1. [SECTION 1]
+2. [SECTION 2]
+3. [SECTION 3]
+4. [SECTION 4]
+5. [SECTION 5]
+Use [DATA / STATISTICS / PROCESS STEPS / COMPARISON] as the main information structure.
+Create one clear visual hierarchy from top to bottom.
+Use charts, diagrams, icons or illustrations only when they make the information easier to understand.
+Highlight:
+[STATISTIC 1]
+[STATISTIC 2]
+[STATISTIC 3]
+Use [COLOUR PALETTE] and [TYPOGRAPHY STYLE].
+Avoid decorative charts, repeated icons, excessive text, unnecessary 3D effects and illustrations that do not add meaning.
+
+8. MOBILE APP SCREEN
+Design a mobile app interface for [APP NAME], an app that helps users [MAIN FUNCTION].
+Design the [HOME / DASHBOARD / PROFILE / CHECKOUT / ONBOARDING] screen.
+The primary user action is [MAIN ACTION].
+Secondary actions:
+[ACTION 2]
+[ACTION 3]
+[ACTION 4]
+Use a [MINIMAL / PROFESSIONAL / PLAYFUL / PREMIUM] interface style.
+Screen size: [DEVICE / DIMENSIONS].
+Place the primary action where it can be reached easily.
+Create a clear hierarchy between navigation, page title, primary content, secondary content and action buttons.
+Use a [CARD / LIST / GRID / DASHBOARD] structure.
+Include realistic placeholder content instead of meaningless lorem ipsum.
+Avoid excessive cards, unnecessary gradients, oversized rounded corners, decorative icons and UI elements that do not serve a clear purpose.
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
