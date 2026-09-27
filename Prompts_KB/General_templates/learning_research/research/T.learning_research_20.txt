@@ -9,7 +9,7 @@ Use it to find 10–20 more papers you probably wouldn’t have discovered throu
 2. Check its references.
 These are the studies that came before it.
 
-3. Check “cited by.”
+3. Check "cited by."
 Find newer research that built on the paper.
 
 4. Look for related papers.
@@ -262,12 +262,12 @@ Here are the prompts. 👇🏼👇🏼👇🏼
 
 1️. GIVE AI YOUR RESEARCH DETAILS FIRST
 Don’t start by asking:
-❌ “Write Chapter Three.”
+❌ "Write Chapter Three."
 Start with:
-I am working on a research project titled “[PROJECT TITLE].” My research objectives are: [OBJECTIVES]. My research questions are: [QUESTIONS]. My research design is: [DESIGN]. My study population/sample is: [DETAILS]. My materials/equipment are: [LIST]. My experimental/procedural approach is: [DETAILS]. Based only on the information I provide, help me develop an appropriate Chapter Three structure. Do not invent experimental procedures, equipment, sample sizes or research methods.
+I am working on a research project titled "[PROJECT TITLE]." My research objectives are: [OBJECTIVES]. My research questions are: [QUESTIONS]. My research design is: [DESIGN]. My study population/sample is: [DETAILS]. My materials/equipment are: [LIST]. My experimental/procedural approach is: [DETAILS]. Based only on the information I provide, help me develop an appropriate Chapter Three structure. Do not invent experimental procedures, equipment, sample sizes or research methods.
 
 2️. CREATE THE CHAPTER THREE STRUCTURE
-Create a detailed outline for Chapter Three (Research Methodology) for my project titled “[TITLE].” Organize the chapter logically based on my actual research design and objectives. Include appropriate sections such as research design, materials, equipment, sample preparation, experimental procedure, data collection, characterization/testing methods and data analysis where applicable. Do not include sections that are irrelevant to my study.
+Create a detailed outline for Chapter Three (Research Methodology) for my project titled "[TITLE]." Organize the chapter logically based on my actual research design and objectives. Include appropriate sections such as research design, materials, equipment, sample preparation, experimental procedure, data collection, characterization/testing methods and data analysis where applicable. Do not include sections that are irrelevant to my study.
 
 3️. WRITE THE RESEARCH DESIGN SECTION
 Write the Research Design section for my Chapter Three using the information below: [PASTE DETAILS]. Explain why this research design is appropriate for the study. Use clear academic language. Do not invent information, references or methodological details.
@@ -326,7 +326,7 @@ But your actual research procedure must come from your research.
 📌 Save these prompts. You can use them step by step instead of asking AI to generate the entire chapter blindly.
 
 🔥 BONUS PROMPT: MAKE IT REPRODUCIBLE
-Review my Chapter Three and ask: “Could another researcher reproduce this study from the information provided?” Identify every missing detail that would prevent replication, including quantities, concentrations, sample sizes, temperatures, times, equipment specifications, experimental conditions, measurement procedures and data-analysis methods. Separate information that is genuinely missing from information that is simply unnecessary.
+Review my Chapter Three and ask: "Could another researcher reproduce this study from the information provided?" Identify every missing detail that would prevent replication, including quantities, concentrations, sample sizes, temperatures, times, equipment specifications, experimental conditions, measurement procedures and data-analysis methods. Separate information that is genuinely missing from information that is simply unnecessary.
 
 -------------------------------------------------
 🚨 BREAKING: Claude can now research any topic at a PhD level in 20 minutes. For free.
@@ -357,6 +357,69 @@ Act as a master investigative research auditor. Create a repeatable, text-based 
 Act as a data-driven knowledge pipeline operations auditor. Evaluate my 20-minute research sprint using these performance metrics: [Source Papers Filtered], [Core Axioms Isolated], [Logical Discrepancies Caught %], and [Synthesis Alignment]. Diagnose the exact instruction design flaws, formatting inefficiencies, delimiter inconsistencies, or context bottlenecks limiting performance, then recommend precise optimizations to improve speed, accuracy, and research quality.
 
 -------------------------------------------------
+🚨 BREAKING: ChatGPT can now help you run your research from question to findings.
+Most people use it only to summarize papers.
+
+But with the right prompts, it can help you refine research questions, structure your methodology, analyze evidence, interpret results, and turn findings into clear conclusions.
+
+Here are 8 powerful ChatGPT prompts to guide your research from start to finish👇 See less
+
+1️. Research Question & Hypothesis Developer
+Use this when you want to turn a broad research topic into focused, researchable questions and hypotheses.
+Prompt:
+"Act as a research design assistant. My research topic is [topic] in the field of [discipline]. Help me narrow the topic and develop [number] clear, specific, and researchable research questions for [target population/context]. For each question, identify the key concepts or variables, explain why the question is worth investigating, and suggest an appropriate research approach. Where appropriate, formulate a testable hypothesis and identify the independent and dependent variables. Do not invent evidence, sources, or findings."
+Example:
+"Act as a research design assistant. My research topic is the use of AI tools in English language learning. Help me narrow the topic and develop 5 clear, specific, and researchable questions focusing on university EFL students. For each question, identify the key concepts or variables, explain why the question is worth investigating, and suggest an appropriate research approach. Where appropriate, formulate a testable hypothesis and identify the independent and dependent variables. Do not invent evidence, sources, or findings."
+
+2️. Literature Search Strategist
+Use this when you want to develop a focused and systematic search strategy for finding relevant academic literature.
+Prompt:
+"Act as a literature search strategist. My research topic is [topic], and my research question is [research question]. Develop a comprehensive search strategy for finding relevant academic literature. Identify the main concepts in my research question and generate related keywords, synonyms, alternative spellings, and relevant subject terms for each concept. Combine them into effective Boolean search strings using AND, OR, quotation marks, and truncation where appropriate. Adapt the search strategy for [database(s), e.g., Scopus, Web of Science, PubMed, ERIC, or Google Scholar]. Suggest appropriate inclusion and exclusion criteria and ways to refine the search if I retrieve too many or too few results. Do not invent studies, citations, or search results."
+Example:
+"Act as a literature search strategist. My research topic is AI-assisted English language learning, and my research question is: How does the use of generative AI affect university EFL students’ writing development? Develop a comprehensive search strategy for finding relevant academic literature. Identify the main concepts and generate related keywords, synonyms, and relevant subject terms. Combine them into effective Boolean search strings using AND, OR, quotation marks, and truncation where appropriate. Adapt the search strategy for Scopus, Web of Science, ERIC, and Google Scholar. Suggest appropriate inclusion and exclusion criteria and ways to refine the search if I retrieve too many or too few results. Do not invent studies, citations, or search results."
+
+3️. Literature Review & Evidence Synthesizer
+Use this when you want to analyze, compare, and synthesize academic literature into clear themes, patterns, and research gaps.
+Prompt:
+"Act as an academic literature review assistant. I am researching [topic/research question]. Analyze the academic sources I provide and synthesize the literature rather than simply summarizing each study separately. Identify the major themes, key findings, theoretical perspectives, methodological approaches, areas of agreement and disagreement, and important gaps in the existing research. Compare and contrast relevant studies and explain how they relate to my research question. Organize the synthesis into logical themes and suggest a clear structure for my literature review. Base your analysis only on the sources provided, distinguish authors’ findings from your synthesis, and do not invent citations, evidence, or findings."
+Example:
+"Act as an academic literature review assistant. I am researching how generative AI affects university EFL students’ writing development. Analyze the academic sources I provide and synthesize the literature rather than simply summarizing each study separately. Identify the major themes, key findings, theoretical perspectives, methodological approaches, areas of agreement and disagreement, and important gaps in the existing research. Compare and contrast relevant studies and explain how they relate to my research question. Organize the synthesis into logical themes and suggest a clear structure for my literature review. Base your analysis only on the sources provided, distinguish authors’ findings from your synthesis, and do not invent citations, evidence, or findings."
+
+4️. Research Methodology Designer
+Use this when you want to develop a rigorous research methodology that aligns with your research questions and objectives.
+Prompt:
+"Act as a research methodology assistant. My research topic is [topic], and my research question is [research question]. Help me develop an appropriate methodology for this study. Recommend and justify a suitable research approach and design, such as quantitative, qualitative, or mixed methods. Address the study population, sampling strategy, sample size considerations, data collection methods, research instruments, variables or key constructs, and data analysis procedures. Explain how validity, reliability, or trustworthiness should be addressed, depending on the research design. Identify potential methodological limitations and relevant ethical considerations. Ensure that every methodological choice aligns with the research question and objectives. Do not invent data, participants, results, or sources."
+Example:
+"Act as a research methodology assistant. My research topic is generative AI and EFL writing, and my research question is: How does the use of generative AI affect university EFL students’ writing development? Help me develop an appropriate methodology for this study. Recommend and justify a suitable research approach and design. Address the study population, sampling strategy, sample size considerations, data collection methods, research instruments, key variables or constructs, and data analysis procedures. Explain how validity, reliability, or trustworthiness should be addressed. Identify potential methodological limitations and relevant ethical considerations. Ensure that every methodological choice aligns with the research question and objectives. Do not invent data, participants, results, or sources."
+
+5️. Data Analysis Assistant
+Use this when you want to select appropriate analysis methods, analyze research data, and interpret the results accurately.
+Prompt:
+"Act as a research data analysis assistant. My research question is [research question], and my dataset contains [describe data, variables, and sample]. Help me develop an appropriate data analysis plan. Recommend suitable [quantitative/qualitative/mixed-methods] analysis techniques and explain why they fit my research question and data. Guide me through the analysis step by step using [software, e.g., SPSS, R, Python, NVivo, or Excel]. Explain how to check relevant assumptions or coding procedures, interpret the results accurately, and present the findings in appropriate tables, figures, or themes. Clearly distinguish statistical significance from practical significance where relevant. Do not invent, alter, or misrepresent data or results."
+Example:
+"Act as a research data analysis assistant. My research question is: How does the use of generative AI affect university EFL students’ writing development? My dataset contains pre-test and post-test writing scores from an experimental group and a control group. Help me develop an appropriate quantitative data analysis plan. Recommend suitable descriptive and inferential statistical techniques and explain why they fit my research question and data. Guide me through the analysis step by step using SPSS. Explain how to check relevant statistical assumptions, interpret the results accurately, and present the findings in appropriate tables and figures. Clearly distinguish statistical significance from practical significance where relevant. Do not invent, alter, or misrepresent data or results."
+
+6️. Academic Writing Assistant
+Use this when you want to improve the structure, clarity, coherence, and academic style of your research writing.
+Prompt:
+"Act as an academic writing assistant. I am writing a [paper/thesis/dissertation/research article] about [topic] for [discipline/academic audience]. Help me develop or improve the [section, e.g., introduction, literature review, methodology, results, or discussion]. Strengthen the organization, logical flow, coherence, clarity, and academic tone while preserving my intended meaning and arguments. Identify unclear reasoning, weak transitions, unnecessary repetition, and claims that require stronger evidence. Suggest improvements rather than inventing information. Preserve all citations accurately, clearly mark any statements that need supporting evidence, and do not fabricate sources, citations, data, or findings."
+Example:
+"Act as an academic writing assistant. I am writing a research article about the effects of generative AI on university EFL students’ writing development. Help me improve the discussion section. Strengthen the organization, logical flow, coherence, clarity, and academic tone while preserving my intended meaning and arguments. Help me connect the findings to the existing literature, explain their implications, and acknowledge relevant limitations. Identify unclear reasoning, weak transitions, unnecessary repetition, and claims that require stronger evidence. Preserve all citations accurately, clearly mark any statements that need supporting evidence, and do not fabricate sources, citations, data, or findings."
+
+7️. Critical Reviewer & Revision Assistant
+Use this when you want to critically evaluate a research draft and identify areas that need stronger reasoning, evidence, or revision.
+Prompt:
+"Act as a critical academic reviewer. Review my [paper/thesis/dissertation/research article] about [topic] as if you were providing constructive scholarly feedback. Evaluate the clarity of the research problem, strength of the arguments, use of evidence, logical coherence, methodological consistency, interpretation of findings, limitations, and overall organization. Identify unsupported claims, reasoning gaps, inconsistencies, unclear passages, and areas that require stronger evidence or explanation. For each issue, explain why it matters and suggest a specific way to improve it. Distinguish major concerns from minor revisions. Do not rewrite the entire text, invent evidence, or fabricate sources, citations, data, or findings."
+Example:
+"Act as a critical academic reviewer. Review my research article about the effects of generative AI on university EFL students’ writing development as if you were providing constructive scholarly feedback. Evaluate the clarity of the research problem, strength of the arguments, use of evidence, logical coherence, methodological consistency, interpretation of findings, limitations, and overall organization. Identify unsupported claims, reasoning gaps, inconsistencies, unclear passages, and areas that require stronger evidence or explanation. For each issue, explain why it matters and suggest a specific way to improve it. Distinguish major concerns from minor revisions. Do not rewrite the entire text, invent evidence, or fabricate sources, citations, data, or findings."
+
+8️. Research Communication & Dissemination Assistant
+Use this when you want to communicate your research clearly and accurately to different academic or non-academic audiences.
+Prompt:
+"Act as a research communication assistant. I want to communicate the findings of my [paper/thesis/dissertation/research project] about [topic] to [target audience] through a [format, e.g., conference presentation, research poster, plain-language summary, policy brief, or social media post]. Help me transform the research into a clear, concise, and engaging format appropriate for that audience. Identify the most important findings, explain their significance and implications, and organize the information logically. Adapt the terminology, level of detail, and tone to the intended audience while preserving the meaning and accuracy of the original research. Clearly distinguish the study’s findings from interpretations or implications. Do not exaggerate conclusions, omit important limitations, or invent evidence, citations, data, or findings."
+Example:
+"Act as a research communication assistant. I want to communicate the findings of my research article about the effects of generative AI on university EFL students’ writing development to English teachers through a conference presentation. Help me transform the research into a clear, concise, and engaging presentation. Identify the most important findings, explain their significance and practical implications, and organize the content into a logical slide sequence. Adapt the terminology and level of detail to an audience of English teachers while preserving the meaning and accuracy of the original research. Clearly distinguish the study’s findings from interpretations or implications. Do not exaggerate conclusions, omit important limitations, or invent evidence, citations, data, or findings."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
