@@ -64,5 +64,38 @@ Content: [PASTE THE TEXT]
 Audience: [AUDIENCE]
 Goal: [GOAL]
 -------------------------------------------------
+🚨 BREAKING: Claude has a feature called Content Machine Mode.
+You can use it to generate a month of content in under 2 hours like a top 1% creator.Here are 8 prompts to access it 👇
+
+1. Build My Content Strategy
+"Act as a senior content strategist for a [NICHE] creator. My audience is [AUDIENCE], my expertise is [EXPERTISE], my offer is [PRODUCT OR SERVICE], my main platform is [PLATFORM], and my goal is [GROWTH, LEADS, SALES, OR AUTHORITY]. Ask me up to five essential questions, then create a focused content strategy covering my positioning, audience transformation, four content pillars, three differentiating opinions, the problems my content should solve, and a practical CTA strategy. Avoid advice that could apply to any creator."
+
+2. Map My Audience’s Mind
+"Create a detailed audience-intelligence map for [AUDIENCE], who want to achieve [RESULT] but currently struggle with [PROBLEM]. Identify their daily frustrations, desired outcomes, common objections, embarrassing questions, false beliefs, buying triggers, and the exact phrases they may use to describe their situation. Separate confirmed information from assumptions, then convert every meaningful insight into a specific content opportunity for [PLATFORM]."
+
+3. Create My Signature Content Series
+"Using my content strategy and audience map, create eight recurring content series for my [NICHE] brand. For each series, provide a memorable name, the problem it addresses, its unique premise, three example topics, the ideal format, a recommended publishing frequency, and a natural CTA. Make every series distinctive and repeatable, and reject generic concepts such as ‘Monday Motivation’ or ‘Quick Tips’ unless they have a fresh, niche-specific angle."
+
+4. Extract Ideas From My Experience
+"Interview me to uncover original content that competitors cannot easily copy. Ask one question at a time about my mistakes, results, unpopular opinions, customer questions, personal processes, important lessons, and relevant stories. Stop after collecting 12 useful answers, then transform them into 30 content ideas. For each idea, include the experience behind it, the audience lesson, the best format, and a possible hook. Never invent experiences, achievements, or personal details."
+
+5. Build My 30-Day Calendar
+"Create a 30-day content calendar for [PLATFORM] using my approved strategy, signature series, and experience bank. I want to publish [FREQUENCY], my primary goal is [GOAL], my available formats are [FORMATS], and I have [TIME] available each week. Make the calendar 40% educational, 25% authority-building, 20% relatable or personal, 10% conversion-focused, and 5% experimental. For each day, include the topic, audience problem, core takeaway, format, hook direction, CTA, content pillar, and estimated creation time without repeating ideas."
+
+6. Draft One Week of Content
+"Write publish-ready drafts for days [DAY NUMBERS] of my content calendar. Each post must open with a specific hook, communicate one central idea, include a useful example or process, use short paragraphs appropriate for [PLATFORM], and end with a relevant CTA. Keep every draft within [WORD OR CHARACTER LIMIT] and use a [VOICE DESCRIPTION] tone. Avoid generic AI phrases, unnecessary jargon, fabricated stories, and unsupported statistics. Clearly label anything I need to fact-check."
+
+7. Write Short-Form Video Scripts
+"Convert the following ideas into short-form videos for [REELS, TIKTOK, OR YOUTUBE SHORTS]: [PASTE IDEAS]. For each idea, write a spoken hook for the first two seconds, a visual opening, a natural 30–60 second script, suggested on-screen text, two pattern interrupts, a closing CTA, and a caption that adds new value. Focus each video on one lesson, remove long introductions, and make the script sound natural when spoken aloud."
+
+8. Repurpose One Idea Into Seven Posts
+"Turn the following source content into a seven-piece content package: [PASTE SOURCE CONTENT]. Create one [PLATFORM] text post, one 45-second video script, one seven-slide carousel, one email introduction, one personal story post, one contrarian post, and five standalone one-line insights. Adapt the structure, hook, example, and CTA to suit each format instead of simply shortening the original. Preserve the central message and do not add facts that are absent from the source."
+
+9. Generate Stronger Hooks
+"Create 15 hooks for this content idea: [PASTE IDEA OR DRAFT]. Use a balanced mix of unexpected observations, specific audience problems, contrarian beliefs, credible personal experiences, and curiosity-driven openings. Avoid clickbait, fake urgency, vague promises, and unsupported numbers. Score every hook from 1–10 for clarity, relevance, curiosity, and credibility, then select the strongest three and rewrite the opening of my post using each winning hook."
+
+10. Run a Final Quality Check
+"Act as a demanding editor for a top creator in [NICHE] and review this content batch: [PASTE DRAFTS]. Score each draft from 1–10 for hook strength, specificity, originality, practical value, voice consistency, readability, CTA relevance, and credibility. Identify repetition, filler, unsupported claims, weak transitions, and obvious AI language. Rewrite only the sections that need improvement, arrange the approved posts in the strongest publishing order, and list anything that requires my personal verification before publishing."
+
 -------------------------------------------------
 -------------------------------------------------
