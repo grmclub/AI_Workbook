@@ -1,0 +1,163 @@
+
+-------------------------------------------------
+Stop telling ChatGPT “Make me a graphic”
+Stop telling ChatGPT “Design a flyer”
+Stop telling ChatGPT “Create a poster”
+Use these 8 secret commands instead and watch the difference: 👇
+
+1. Social Media Brand Campaign Image
+“Create one polished social media campaign image for [BRAND NAME], a [TYPE OF BUSINESS] that serves [TARGET AUDIENCE].
+The purpose of this image is to promote [CAMPAIGN / OFFER / MESSAGE].
+The single most important message to communicate is [CORE MESSAGE].
+The design should feel [3 BRAND ADJECTIVES].
+Format the image for [INSTAGRAM POST / LINKEDIN POST / FACEBOOK POST / STORY / X POST].
+Canvas ratio: [1:1 / 4:5 / 9:16 / 16:9].
+Use [PRIMARY COLOUR], [SECONDARY COLOUR], and [ACCENT COLOUR] in a controlled, brand-appropriate way.
+Include the following text in the design:
+Headline: [HEADLINE]
+Supporting copy: [SHORT SUPPORTING TEXT]
+Call to action: [CTA]
+If relevant, also include:
+Offer: [DISCOUNT / PROMOTION / ANNOUNCEMENT]
+Website or handle: [WEBSITE / @HANDLE]
+Use [PRODUCT PHOTO / PERSON / FOUNDER PORTRAIT / LIFESTYLE IMAGE / ILLUSTRATION] as the main focal point.
+Place the logo in [TOP LEFT / TOP RIGHT / BOTTOM LEFT / BOTTOM RIGHT].
+Use a clear visual hierarchy so the eye notices the headline first, then the main visual, then the supporting copy, and finally the CTA.
+Keep the layout clean and professionally art-directed.
+Use strong spacing, intentional negative space, and balanced alignment.
+Make the design look like a high-end branded campaign visual, not a generic template.
+If text is used, keep it concise and easy to read on mobile.
+Avoid cluttered layouts, random icons, generic stock-photo treatment, excessive gradients, too many decorative elements, poor text alignment, and anything that looks like cheap AI-generated design.
+The final result should be one finished branded campaign image that feels premium, modern, and ready to publish.”
+May be an image of drink and text that says 'Good Vibes Always Fanta MORE FANTA MOMENTS BOLDER FLAVOURS BRIGHTER DAYS REAL REAI REFRESHMENT Same GreatTaste Taste Great GOOD VIBES fanta BETTER TOGETHER ORANGE GRAB A FANTA TODAY BOLD FRUITY DELICIOUS TASTE FUN THE TOMORROW TOMORPHER BRIORROW BRIGHTER TOGETHER TOGETHER'
+
+2. Product Advertisement
+“Create a premium advertising image for [PRODUCT NAME], a [PRODUCT TYPE] made for [TARGET CUSTOMER].
+The main objective of this advertisement is to communicate [PRIMARY BENEFIT / OFFER] immediately.
+Use the actual product as the central focal point and place it [CENTRE / LEFT / RIGHT] within the composition.
+Background: [BACKGROUND DESCRIPTION]
+Environment: [STUDIO / LIFESTYLE / OUTDOOR / LUXURY INTERIOR / ABSTRACT]
+Lighting: [SOFT STUDIO / CINEMATIC / NATURAL DAYLIGHT / HIGH-CONTRAST / WARM]
+Camera angle: [EYE LEVEL / LOW ANGLE / TOP-DOWN / CLOSE-UP / THREE-QUARTER VIEW]
+Headline: [HEADLINE]
+Supporting text: [SHORT SUPPORTING COPY]
+Offer: [PRICE / DISCOUNT / PROMOTION]
+CTA: [SHOP NOW / LEARN MORE / ORDER TODAY]
+Use [BRAND COLOURS] for subtle accents while keeping the product visually dominant.
+Leave intentional negative space around the headline and CTA. Keep all text away from important product details.
+Make the product photography realistic, with accurate proportions, believable reflections, natural shadows, realistic surface texture, and commercially appropriate lighting.
+The finished image should resemble a professionally art-directed advertisement suitable for [INSTAGRAM / LINKEDIN / FACEBOOK / DIGITAL AD / PRINT].
+Canvas ratio: [1:1 / 4:5 / 9:16 / 16:9].
+Do not add extra products, invented logos, unnecessary props, random text, decorative icons, excessive glow, floating objects, or visual elements that were not requested.”
+May be an image of drink and text that says 'Ccca Coca-Cola ORIGINAL ORIGINALTASTE TASTE CocaCola Good Things Taste Better Together Real moments. Refreshingly better. ENJOY TODAY'
+
+3. Event Poster
+“Design a professional poster for [EVENT NAME] taking place on [DATE] at [LOCATION].
+The event is about [TOPIC] and is intended for [AUDIENCE].
+Use [MOOD / DESIGN STYLE] as the visual direction.
+The poster must include:
+Event title: [TITLE]
+Date: [DATE]
+Time: [TIME]
+Location: [LOCATION]
+Speaker or host: [NAME]
+CTA: [REGISTER / BUY TICKETS / LEARN MORE]
+Build the layout using a clear grid.
+Make [MOST IMPORTANT INFORMATION] the dominant visual element.
+Use one strong focal image or graphic rather than several competing elements.
+Create clear separation between the event title, practical information, speaker details, and CTA.
+Design for [INSTAGRAM / PRINT A3 / LINKEDIN / STORY].
+Avoid generic event icons, excessive visual effects, tiny text, centred everything, and unnecessary decorative elements.”
+May be an image of money and text
+
+4. YouTube Thumbnail
+“Create a high-performing YouTube thumbnail for a video titled [VIDEO TITLE].
+The video is about [TOPIC] and targets [AUDIENCE].
+The thumbnail should communicate [MAIN IDEA / EMOTION / RESULT] within one second.
+Use [PERSON / PRODUCT / OBJECT] as the main focal point.
+Thumbnail text: [2 TO 5 WORD TEXT]
+Place the subject on [LEFT / RIGHT] and the text on the opposite side.
+Use strong foreground-background separation.
+Make the facial expression or subject pose communicate [EMOTION].
+Use a maximum of three main visual elements.
+Keep text readable at mobile size.
+Do not repeat the full video title inside the thumbnail.
+Avoid excessive arrows, circles, emojis, tiny text, cluttered backgrounds, and unnecessary objects.
+Create three different thumbnail concepts based on three different visual ideas rather than simply changing colours.”
+
+5. Book Cover
+“Design a book cover for [BOOK TITLE] by [AUTHOR NAME].
+Genre: [GENRE]
+Target reader: [AUDIENCE]
+Central theme: [THEME]
+Desired mood: [MOOD]
+Create a cover concept that communicates the subject through one memorable visual idea.
+Title: [TITLE]
+Subtitle: [SUBTITLE]
+Author: [AUTHOR]
+Use typography that reflects [GENRE / PERIOD / TONE].
+Create a clear hierarchy between title, subtitle, imagery, and author name.
+Design both the front cover and a simplified thumbnail version so the title remains readable at small size.
+Use [PHOTOGRAPHY / ILLUSTRATION / ABSTRACT / TYPOGRAPHIC] treatment.
+Avoid literal visual clichés associated with the genre, overcrowded imagery, unnecessary symbols, and typography that competes with the main concept.”
+
+6. Restaurant Menu
+“Design a menu for [RESTAURANT NAME], a [CUISINE TYPE] restaurant with a [CASUAL / PREMIUM / FAMILY / FINE DINING] atmosphere.
+The menu contains the following sections:
+[STARTERS]
+[MAINS]
+[SIDES]
+[DESSERTS]
+[DRINKS]
+Use [DESIGN STYLE] and [COLOUR PALETTE].
+Create a clear typographic hierarchy for:
+* Section titles
+* Dish names
+* Descriptions
+* Prices
+* Dietary information
+Keep prices visually secondary to dish names.
+Use spacing rather than excessive boxes and dividers to separate sections.
+Highlight [SIGNATURE DISHES / CHEF RECOMMENDATIONS] using one restrained visual treatment.
+Design for [A4 / FOLDED MENU / DIGITAL SCREEN / TABLET].
+Avoid decorative food clipart, excessive borders, multiple unrelated fonts, crowded sections, and layouts that make prices difficult to compare.”
+
+7. Infographic
+“Create a vertical infographic explaining [TOPIC] to [TARGET AUDIENCE].
+The reader should understand [MAIN LEARNING OUTCOME] within two minutes.
+Organise the information into these sections:
+1. [SECTION 1]
+2. [SECTION 2]
+3. [SECTION 3]
+4. [SECTION 4]
+5. [SECTION 5]
+Use [DATA / STATISTICS / PROCESS STEPS / COMPARISON] as the main information structure.
+Create one clear visual hierarchy from top to bottom.
+Use charts, diagrams, icons, or illustrations only when they help explain information.
+Highlight these figures:
+[STATISTIC 1]
+[STATISTIC 2]
+[STATISTIC 3]
+Use [COLOUR PALETTE] and [TYPOGRAPHY STYLE].
+Avoid decorative charts, repeated icons, excessive text, unnecessary 3D effects, and illustrations that do not add meaning.”
+
+8. Mobile App Screen
+“Design a mobile app interface for [APP NAME], an app that helps users [MAIN FUNCTION].
+Design the [HOME / DASHBOARD / PROFILE / CHECKOUT / ONBOARDING] screen.
+The primary user action is [MAIN ACTION].
+Secondary actions include:
+[ACTION 2]
+[ACTION 3]
+[ACTION 4]
+Use a [MINIMAL / PROFESSIONAL / PLAYFUL / PREMIUM] interface style.
+Screen size: [DEVICE / DIMENSIONS].
+Place the primary action where it can be reached easily.
+Create clear hierarchy between navigation, page title, primary content, secondary content, and action buttons.
+Use [CARD / LIST / GRID / DASHBOARD] structure.
+Include realistic placeholder content instead of meaningless lorem ipsum.
+Avoid excessive cards, unnecessary gradients, oversized rounded corners, decorative icons, and UI elements that do not serve a clear function.”
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
