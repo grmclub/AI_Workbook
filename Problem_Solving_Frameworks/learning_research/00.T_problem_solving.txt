@@ -105,3 +105,144 @@ Polya's Problem-Solving Strategy
 George Pólya's problem-solving strategy remains a cornerstone of mathematical education. By providing a clear, step-by-step method for approaching problems, Polya empowers students to develop their analytical skills and confidence in their mathematical abilities. His emphasis on understanding, planning, executing, and reflecting offers a comprehensive framework that is as applicable today as it was when he first introduced it. Polya’s legacy endures in classrooms around the world, where his strategies continue to inspire and guide students in their mathematical journeys.
 
 -------------------------------------------------------------
+PROBLEM SOLVING frameworks
+
+Problem Solving was #4 in that poster for a reason — it's the highest paid skill. Wealth goes to people who stay clear when others panic and choose the right answer fast.
+
+Here are the frameworks the best operators actually use, not just theory:
+
+1. First Principles — Elon / Aristotle
+Break the problem to fundamental truths and rebuild.
+
+How: Ask "What do we know is 100% true here?" Strip away assumptions, analogies, "that's how it's done." Then construct a new solution from zero.
+Use when: Industry dogma is expensive or stuck. Perfect for Value Spotting from that poster.
+
+2. The 5 Whys — Toyota
+Go deep instead of wide.
+
+How: State problem → Why? → Answer → Why is that? → Repeat 5x until you hit the controllable root cause.
+Example: Sales down → Why? Leads down → Why? Ads disapproved → Why? Policy violation → Why? No review process → Fix the review system, not just the ad.
+Use when: Symptoms keep coming back.
+
+3. MECE + Issue Tree — McKinsey
+Make a messy problem solvable.
+
+How: Break the problem into Mutually Exclusive, Collectively Exhaustive branches. No overlap, no gaps. Example for "Profit down": Revenue (Price x Volume) and Cost (Fixed + Variable).
+Use when: You feel overwhelmed. Forces clarity before you brainstorm solutions.
+
+4. OODA Loop — Fighter Pilots
+Speed is the strategy.
+
+How: Observe → Orient → Decide → Act. Then loop fast. The person who loops fastest learns fastest and wins.
+Use when: Market is moving, noisy, crisis. This is exactly "choosing the right answer fast" from your image.
+
+5. Design Thinking — IDEO / Apple
+Human-centered problem solving.
+
+How: Empathize (real pain point) → Define → Ideate (quantity over quality) → Prototype (ugly fast) → Test.
+Use when: You're building products, offers, or value — ties directly to #1 Value Spotting and #8 Systems.
+
+6. PDCA / DMAIC — Lean Six Sigma
+For operational problems.
+
+PDCA: Plan - Do - Check - Act
+DMAIC: Define - Measure - Analyze - Improve - Control (more data-heavy version)
+Use when: Process is broken, waste is high, you need to build a repeatable system, not a one-off fix.
+
+7. Cynefin Framework — Complex problems
+Not all problems are the same.
+
+Simple: Best practice exists. Just follow SOP.
+Complicated: Needs expert analysis.
+Complex: No right answer yet. Run experiments.
+Chaotic: Act first to stabilize, then think.
+Most people treat complex wealth problems as simple. That's why they fail.
+
+8. Inversion + Pre-Mortem
+Solve backwards.
+
+Inversion: Instead of "How to succeed?" ask "How to guarantee failure?" Then avoid that list.
+Pre-Mortem: Imagine it's 6 months later and your solution failed spectacularly. Write down all reasons why. Now fix them before you start.
+
+How to pick fast:
+If you're panicking: OODA + Inversion. Stabilize and avoid dumb moves.
+If it keeps repeating: 5 Whys + Ishikawa Fishbone (Man, Machine, Method, Material)
+If it's new / strategic: First Principles + MECE
+If it's people / product: Design Thinking
+If it's process / money leak: PDCA / DMAIC
+
+
+
+-------------------------------------------------------------
+##Coding Frameworks
+
+For coding, Problem Solving isn't about being the smartest — it's about having a repeatable system so you don't panic when the code breaks, the interview question is weird, or production is down.
+
+Here are the frameworks real engineers use:
+
+1. U.P.E.R — The Base Loop for Any Coding Problem
+This is the one FAANG interviewers expect.
+
+U — Understand: Restate the problem in your own words. What are inputs, outputs, edge cases, constraints?
+P — Plan: Pseudocode first, no code. What's your data structure? What's the brute force?
+E — Execute: Write clean code, modular functions.
+R — Reflect: Test with edge cases, analyze complexity, optimize.
+
+Never jump straight to code. That's where 80% fail.
+
+2. B.O.T — Brute Force → Optimize → Tradeoff
+Perfect for LeetCode / interviews.
+
+Brute: Get any working solution. O(n²) is fine. Prove you can solve it.
+Optimize: Look for patterns. Can you use Hash Map, Two Pointers, Sliding Window, Binary Search, Heap, DP?
+Tradeoff: State it out loud. "I can do O(n) time with O(n) space using a map, vs O(n log n) time with O(1) space if I sort."
+
+Interviewers hire for the tradeoff discussion.
+
+3. R.I.D.D — The Scientific Debugging Framework
+When your code doesn't work, don't guess.
+
+Reproduce: Make it fail consistently. Write a failing test case.
+Isolate: Binary search your code. Comment out half. Print logs. Use git bisect if needed. Find the exact line.
+Deduce: Why is this line wrong? 5 Whys. Check assumptions: null, off-by-one, async timing, state mutation.
+Defend: Fix + add test + explain why it won't happen again.
+
+Pro tip: Rubber Duck it. Explain your code line-by-line to a duck. 50% of bugs you catch yourself.
+
+4. F.I.R.S.T — Decomposition for Big Features
+For building a system or large ticket.
+
+F — Frame: Define the interface. Inputs/Outputs, API contract.
+I — Isolate: Break into smallest independent sub-problems. Each function does one thing.
+R — Represent: Choose the right representation. Array vs Map vs Set vs Tree vs Graph. This choice decides 90% of complexity.
+S — Sequence: In what order do you build/test? Bottom-up.
+T — Test: Unit test each piece before integrating.
+
+This is Resource Control + Systems from your poster applied to code.
+
+5. The 4 Checks Before You Submit a PR
+1. Edge Cases: empty, null, single element, huge input, duplicate
+2. Complexity: What is Time and Space? Can you do better?
+3. Failure: What if API fails, DB down, race condition? How does it fail?
+4. Readability: Would a junior understand this in 6 months? Naming, no magic numbers.
+
+6. System Design Problem Solving — S.C.A.L.E.
+When the question is "Design X"
+
+S — Scope: Requirements, QPS, storage, latency
+C — Components: API, DB, cache, queue, storage
+A — Architecture: Draw flow, data flow, bottlenecks
+L — Leverage: What existing tool solves 80%? Don't reinvent.
+E — Evolve: Failure modes, scaling, monitoring
+
+My go-to stack:
+If it's an Algorithm problem: U.P.E.R + B.O.T
+If it's a Bug / Production issue: R.I.D.D + Rubber Duck
+If it's a Feature / Project: F.I.R.S.T
+If it's System Design: S.C.A.L.E.
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
