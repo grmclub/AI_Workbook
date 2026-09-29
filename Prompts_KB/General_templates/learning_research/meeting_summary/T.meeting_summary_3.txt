@@ -1,0 +1,250 @@
+
+-------------------------------------------------
+5 Meeting Notes Templates, One Per Meeting Type
+https://super-intern.com/en/blog/2026-ai-meeting-summary-prompts
+
+We use "meeting notes" in the broad sense here: any record of a meeting you'll look at again later. That includes interview scorecards and sales call reports, since the goal is the same: a written record someone picks up and re-uses later.
+Daily Standup Meeting Notes Template
+
+What the notes should do: Let any teammate scan progress, blockers, and today's focus in under thirty seconds. Long prose is the enemy here.
+
+You are an experienced engineering manager.
+Produce meeting notes from the following daily standup audio.
+
+[Meeting context]
+- Purpose: Sync on today's progress and unblock the team
+- Attendees: {{names and roles}}
+
+[Output format]
+## Per-person summary
+### {Member name}
+- Yesterday: {what they completed}
+- Today: {what they're working on}
+- Blockers: {if any, otherwise "None"}
+
+## Team-wide blockers and owners
+- {Blocker}: {who's following up, by when}
+
+## Today's team focus
+- {1–2 lines on the overall priority}
+
+[Rules]
+- Keep each member's entry to three lines or fewer.
+- Every blocker must name an owner and a due date.
+- Exclude side conversations and small talk.
+
+Key points:
+
+    Hard constraints like "three lines or fewer" suppress the AI's natural tendency to over-explain.
+    Without an explicit "exclude small talk" instruction, the model will preserve banter as if it were a decision.
+
+1:1 / One-on-One Meeting Notes Template
+
+What the notes should do: Surface what a direct report actually said about their career, concerns, and morale, plus what the manager owes them next. Unlike a meeting that's all facts, how well you pick up tone and the small things changes how useful these notes are.
+
+You are an experienced people manager producing notes from the following 1:1 audio
+between a manager and a direct report.
+Pay attention not only to facts but also to emotion, career direction,
+and the nuance behind any concerns raised.
+
+[Meeting context]
+- Purpose: Support the direct report's career and resolve current concerns
+- Attendees: {{manager name}} and {{direct report name}}
+- Carryover topics from last 1:1: {{if any}}
+
+[Output format]
+## Career goals and progress
+- Current goal: {as the report described it}
+- Self-reported progress: {their own framing}
+- Manager's read on actual progress: {inferred from the conversation}
+
+## Main topics this session
+- {Topic}: {summary} (importance: high/medium/low)
+
+## Concerns raised by the direct report
+- {Concern}: {likely background or cause}
+
+## Manager follow-ups before next 1:1
+- {Who} will {do what} by {when}
+
+## Psychological safety notes
+- {Topics the report seemed to hold back on; statements to revisit later}
+
+[Rules]
+- Separate "facts" from "inferences". Never blur them.
+- Do not use evaluative language ("strong performer," "problematic," etc.).
+- Score importance by impact on the report's career and current work.
+
+Key points:
+
+    Telling the model to keep facts and inferences separate stops it from inventing emotional subtext, but still lets it point out things worth noticing.
+    Banning evaluative language is a quiet safety net. 1:1 notes have a way of getting shared, intentionally or not.
+
+Candidate Interview Meeting Notes Template
+
+What the notes should do: Organize what the candidate said by evaluation axis, with quotes for evidence and a clear handoff for the next round. Interview notes are where subjective takes and what was actually said get mixed up most often, so the template makes the model write them in separate buckets.
+
+You are an experienced recruiter.
+Produce an interview scorecard (meeting notes) from the following interview audio.
+
+[Meeting context]
+- Role: {{position title}}
+- Candidate: {{name}}, {{years of experience}}
+- Interview stage: {{first round / second round / final}}
+- Evaluation axes: {{e.g., Technical depth / Culture fit / Leadership / Learning velocity}}
+
+[Output format]
+## Candidate profile
+- Background summary: {their experience}
+- Strengths: {as inferred from what they said}
+- Motivations: {what they seem to optimize for}
+
+## Findings per evaluation axis
+### {Axis 1}
+- Evidence (what the candidate said, as direct quotes): {2–3 quoted lines}
+- Assessment (subjective): {strengths and concerns}
+- Score (1–5): {number}. Reason: {one line}
+
+(Repeat per axis)
+
+## Overall recommendation
+- Composite score: {1–5}
+- Recommended action: {advance / consider for another role / pass}
+- Reason: {2–3 lines}
+
+## Questions for the next round
+- {Question}: {why it needs to be confirmed}
+
+[Rules]
+- The "Evidence" section must use direct quotes from the candidate.
+- Keep "Evidence" and "Assessment" strictly separated.
+- Limit each score reason to one line.
+
+Key points:
+
+    Writing evidence and assessment separately per axis means you can compare interviewers fairly later instead of arguing over gut calls.
+    Asking for the next round's open questions at the end gives the next interviewer a handoff note they can use as-is.
+
+Customer Discovery Call Meeting Notes Template
+
+What the notes should do: Capture pain points with enough depth that a PM, AE, or CS rep can pick them up weeks later and still use them. Keep both the numbers (budget, timeline) and the customer context (who, why, how often) in the notes.
+
+You are an experienced B2B product manager.
+Produce discovery call meeting notes from the following customer interview audio.
+
+[Meeting context]
+- Customer: {{company}}, {{industry}}, {{employee count or revenue band}}
+- Attendees: {{customer-side and our-side names}}
+- Discovery goal: {{e.g., validate the pain point behind the proposed feature}}
+
+[Output format]
+## Customer profile
+- Industry, size, notable organizational structure
+- Relationship between decision-makers and end users
+
+## Pain points raised
+- {Pain point 1}: {context, frequency, current workaround}
+- {Pain point 2}: {same}
+(List in order of priority based on what the customer emphasized)
+
+## Quantitative signal on the pain
+- People affected and frequency: {numbers mentioned}
+- Current cost (time or money): {if mentioned, otherwise "not confirmed"}
+
+## Solutions they're already considering
+- Alternatives outside our product: {competitors or workarounds}
+- In-house build possibility: {yes / no / unclear}
+
+## Decision process
+- Decision-maker: {role and name}
+- Timeline: {when they want a solution live}
+- Budget: {what was shared; mark "not confirmed" if absent}
+
+## Next actions
+- Us: {who} will {do what} by {when}
+- Them: {homework we asked the customer to do}
+
+[Rules]
+- Only record numbers that appear in the audio. Do not estimate.
+- Mark any field that was not confirmed as "not confirmed."
+- Only list competitors the customer explicitly mentioned.
+
+Key points:
+
+    The "do not estimate" rule is the single biggest guard against hallucination in discovery notes. AI loves to round numbers and fill in gaps; this stops it.
+    Marking unconfirmed fields explicitly means the meeting notes double as the agenda for your next call.
+
+Sales Call Meeting Notes Template
+
+What the notes should do: Move the deal forward by capturing BANT updates, objections, next steps, and an updated deal-confidence number. Write them small enough to paste straight into your CRM.
+
+You are an experienced enterprise account executive.
+Produce sales call notes from the following meeting audio.
+
+[Meeting context]
+- Customer: {{company}}, {{industry}}
+- Stage: {{first pitch / mid-cycle / final review / closing}}
+- Attendees: {{customer-side and our-side}}
+- Prior history: {{1–2 lines on the previous touchpoints}}
+
+[Output format]
+## Call summary
+- Goal of this call: {what we went in to confirm}
+- Outcome: {achieved / partial / missed}
+- Customer temperature: {high / medium / low} (quote one line from the call as evidence)
+
+## BANT update
+- Budget: {what we know, with confidence (confirmed / likely / not confirmed)}
+- Authority: {decision-maker(s) and the approval process}
+- Need: {the core pain driving the conversation}
+- Timeline: {target go-live}
+
+## Objections and how we responded
+- Objection: {what they said}
+- Our response: {summary}
+- Customer reaction: {accepted / will revisit / unresolved}
+
+## Next actions
+- Us: {who} will {do what} by {when}
+- Them: {what they agreed to do before the next call}
+
+## Deal confidence update
+- Current confidence: {%}
+- Change vs. previous call: {up / flat / down}
+- Reason: {2–3 lines}
+
+## Closing risks
+- {Concern and the reason it surfaced}
+
+[Rules]
+- Every BANT field must carry a confidence tag (confirmed / likely / not confirmed).
+- Update deal confidence relative to the previous call's number.
+- Only list competitors the customer explicitly mentioned.
+
+Key points:
+
+    Tagging every BANT field with a confidence level makes CRM entry mechanical. No more debating "is this really qualified."
+    Writing down how the customer reacted to each objection tells the next caller exactly what to re-explain.
+
+The Wall of Template Operation: Copy-Pasting Every Time
+
+If you're nodding along thinking "I'll start using these tomorrow," there's one operational wall worth naming first.
+
+Copy-pasting these prompts before every meeting is exhausting.
+
+Here's the actual loop:
+
+    Prepare the meeting recording (export the audio file from Zoom, your phone, or whatever you used).
+    Open whichever Notion page, Apple Note, or Google Doc holds your prompt templates and copy the right one.
+    Attach the audio file and paste the template into the AI chatbot.
+    Copy the output back out and paste it into Notion, Slack, or your CRM.
+
+Five to ten minutes per meeting. Ten meetings a week, and that's an hour gone, plus the cognitive overhead of remembering which template you stashed where. Different prompt for different meeting type means different file, different folder, different week.
+
+This is where most people quietly give up on their prompt library. In the end, whether you can keep using the prompts matters more than how good they are.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
