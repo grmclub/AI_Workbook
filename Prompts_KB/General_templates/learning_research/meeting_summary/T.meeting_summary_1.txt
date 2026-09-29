@@ -1,0 +1,422 @@
+
+
+-------------------------------------------------
+/list prompts to take notes in a meeting generate a summary and list key action items 
+
+Here are prompt templates for every stage of meeting processing—capturing real-time notes, synthesizing structured summaries, and extracting clear, assignable action items.
+1. Real-Time Note-Taking Prompts
+
+Use these prompts during or immediately after the meeting to transform raw thoughts, key points, or rough transcripts into structured initial notes.
+Prompt: Clean Up Rough Scratchpad Notes
+
+    Role: Executive Assistant
+
+    Input: [Paste your raw, messy, quick-typed scratchpad notes]
+
+    Task: Reorganize and polish these raw meeting notes into a clean, easy-to-read draft.
+
+    Formatting Rules:
+
+        Organize by core discussion topics using bold headings.
+
+        Use bullet points for key arguments, decisions, and raised questions.
+
+        Preserve all names, dates, figures, and technical terms exactly as stated.
+
+        Remove filler words, side tangents, and conversational fluff.
+
+Prompt: Live Transcript Restructuring
+
+    Role: Note-Taker
+
+    Input: [Paste live automated transcript or audio-to-text dump]
+
+    Task: Filter and format this meeting transcript into coherent meeting notes.
+
+    Formatting Rules:
+
+        Identify the primary topics discussed in chronological order.
+
+        Group related dialogue under clear subheadings.
+
+        Highlight key decisions made during the conversation in bold.
+
+2. Comprehensive Meeting Summary Prompts
+
+Use these prompts to turn cleaned notes or transcripts into executive-ready summaries.
+Prompt: Standard Executive Summary
+
+    Context: Executive summary for [Project/Team Name] meeting held on [Date].
+
+    Input: [Paste meeting notes/transcript]
+
+    Task: Generate a concise, structured summary covering:
+
+        Executive Brief: 2–3 sentences summarizing the primary purpose and overall outcome of the meeting.
+
+        Key Decisions Made: Bullet list of explicit agreements or final calls.
+
+        Discussion Highlights: Main points organized by topic/agenda item.
+
+        Open Questions & Blockers: Unresolved issues requiring follow-up.
+
+Prompt: One-Page Executive Brief (For Leadership)
+
+    Task: Summarize the following meeting notes into a 30-second executive brief for senior leadership.
+
+    Structure:
+
+        Bottom Line Up Front (BLUF): 1 sentence on the main outcome/milestone.
+
+        Top 3 Strategic Takeaways: High-impact choices or direction changes.
+
+        Immediate Risks / Needs: Critical blockers requiring approval or resources.
+
+3. Action Item Extraction Prompts
+
+Use these prompts to pull concrete tasks out of the discussion so nothing gets lost.
+Prompt: Structured Action Item Tracker
+
+    Task: Extract all action items, commitments, and follow-up tasks from the meeting notes below.
+
+    Output Format: Provide a Markdown table with the following columns:
+
+    | Action Item | Owner | Target Due Date | Priority (High/Med/Low) | Context / Dependencies |
+
+    Rules:
+
+        Assign "Unassigned" if no specific owner was mentioned.
+
+        If no due date was explicitly stated, mark it as "TBD (Needs Owner Assignment)".
+
+        Use imperative action verbs (e.g., "Draft proposal", "Audit database", "Schedule follow-up").
+
+Prompt: Task-Management Ready Export (Jira/Asana/Trello Format)
+
+    Task: Convert the key follow-ups from this meeting into actionable task cards.
+
+    Format for each task:
+
+        Title: Short, verb-led title (e.g., [Design] Update landing page mockup)
+
+        Assignee: [Name]
+
+        Description: 1–2 sentences explaining what needs to be done and why.
+
+        Acceptance Criteria: Bulleted list of conditions to mark this task complete.
+
+4. All-in-One Master Prompt
+
+Use this master template to handle everything in a single generation step.
+Plaintext
+
+Act as an expert Project Manager and Note-Taker. I am providing you with the rough notes/transcript from our recent meeting.
+
+MEETING METADATA (Fill if known, or infer from text):
+- Topic: [Topic]
+- Date: [Date]
+- Attendees: [Names]
+
+INPUT TEXT:
+[Paste raw notes or transcript here]
+
+YOUR INSTRUCTIONS:
+Please generate a complete Meeting Recap document structured as follows:
+
+1. EXECUTIVE SUMMARY
+   - 2 to 3 sentences summarizing the main theme and strategic outcome of the call.
+
+2. KEY DECISIONS
+   - Bulleted list of every final decision or policy shift agreed upon.
+
+3. TOPIC BREAKDOWN
+   - Group discussion points under 2-4 primary topic headers with brief bullet points.
+
+4. ACTION ITEM TABLE
+   - Format as a Markdown Table: | Task | Owner | Due Date | Status/Notes |
+   - Ensure every task begins with a strong verb.
+
+5. UNRESOLVED ISSUES & NEXT STEPS
+   - Any questions left unanswered, risks identified, or items tabled for future meetings.
+
+-------------------------------------------------
+/ list best meeting summary prompts
+
+Here are high-performing meeting summary prompts optimized for different team roles, communication channels, and meeting formats.
+1. Quick-Format Prompts (Slack, Teams, & Email)
+Short & Punchy (Best for Slack / Microsoft Teams)
+
+    Role: Executive Assistant
+
+    Input: [Paste notes/transcript]
+
+    Task: Summarize this meeting into a quick-read Slack post under 200 words.
+
+    Format:
+
+        TL;DR: 1 sentence on the main outcome.
+
+        Key Decisions: Max 3 bullet points.
+
+        Action Items: @Name — Task — [Due Date] format.
+
+Formal Client/Stakeholder Email Recap
+
+    Role: Project Manager
+
+    Input: [Paste notes/transcript]
+
+    Task: Draft a polite, professional post-meeting recap email to be sent to attendees and stakeholders.
+
+    Structure:
+
+        Subject Line: Clear and professional including [Project Name] and [Date].
+
+        Opening: 1 brief paragraph thanking attendees and stating the meeting's objective.
+
+        Key Takeaways: Bullet points of primary discussions and outcomes.
+
+        Next Steps: Action items table (Task, Owner, Target Date).
+
+        Closing: Sign-off inviting corrections or missing details.
+
+2. Specialized Prompts by Meeting Type
+Product & Engineering Standup / Sprint Planning
+
+    Task: Analyze this sprint/engineering meeting transcript and output a structured operational update.
+
+    Structure:
+
+        Completed / Shipped: What was confirmed done.
+
+        Blockers & Dependencies: Critical technical or resource roadblocks needing escalation.
+
+        Architecture / Design Decisions: Technical choices made during the call.
+
+        Sprint Commitments Table: | Developer | Assigned Task | Target Sprint / Date |
+
+Sales / Client Discovery Call Summary
+
+    Task: Extract key sales intelligence from this client conversation.
+
+    Structure:
+
+        Prospect Pain Points: Core problems or friction points mentioned by the client.
+
+        Budget & Timeline Mentioned: Exact figures, dates, or constraints discussed.
+
+        Objections / Hesitations: Concerns raised regarding pricing, implementation, or features.
+
+        Value Drivers: Features or outcomes that resonated most with the prospect.
+
+        Follow-up Commitments: Promised deliverables (e.g., demo, proposal, contract) with assigned owners.
+
+Brainstorming & Strategy Session Synthesis
+
+    Task: Synthesize this unstructured ideation session into actionable strategic themes.
+
+    Structure:
+
+        Core Objectives: What goal was the team trying to solve?
+
+        Categorized Ideas: Group all proposed ideas into 3–4 logical themes with brief descriptions.
+
+        Selected / Preferred Paths: Ideas that gained consensus vs. ideas set aside/tabled.
+
+        Immediate Validation Tasks: What experiments or research need to happen next to test these ideas?
+
+3. High-Friction Scenario Prompts
+Long / Messy Transcript Filter (Over 45 Minutes)
+
+    Input: [Paste long transcript]
+
+    Task: Filter through this conversational transcript, ignore conversational noise/small talk, and extract only signal.
+
+    Output Requirements:
+
+        Main Topic Agenda: List the 3–5 main topics actually discussed.
+
+        Critical Decisions: Decisions made (skip discussions where no conclusion was reached).
+
+        Action Items Matrix:
+
+        | Task | Owner | Due Date | Priority |
+
+        Deferred Topics: Important items brought up but explicitly moved to a future meeting.
+
+Conflict & Risk Extraction
+
+    Task: Review the meeting notes specifically to identify unresolved debates, risks, and implicit assumptions.
+
+    Structure:
+
+        Consensus Reached: Where the team agreed.
+
+        Unresolved Conflicts / Friction: Points where attendees disagreed or expressed doubt.
+
+        Identified Project Risks: Potential points of failure or delays mentioned.
+
+        Assumptions Made: Key premises that need validation before moving forward.
+
+4. Universal Framework Master Prompt
+
+Use this framework when you need a comprehensive, board-ready meeting summary document.
+Plaintext
+
+Act as an expert Chief of Staff. Process the following meeting input (notes or transcript) into a structured executive recap.
+
+INPUT:
+[Paste raw notes or transcript]
+
+OUTPUT FORMAT:
+
+# Meeting Summary: [Topic / Project Name]
+**Date:** [Date or "Not Specified"]
+**Attendees:** [List key participants]
+
+## 1. Executive Brief (BLUF)
+- 2-3 sentence high-level overview of why the meeting occurred and the final outcome.
+
+## 2. Key Decisions Matrix
+- [Decision 1] — Context/Reasoning: [Brief explanation]
+- [Decision 2] — Context/Reasoning: [Brief explanation]
+
+## 3. Discussion Breakdown
+### [Topic 1 Name]
+- Key discussion points and perspective shared.
+### [Topic 2 Name]
+- Key discussion points and perspective shared.
+
+## 4. Action Items & Next Steps
+| # | Action Item | Owner | Target Date | Status / Notes |
+|---|-------------|-------|-------------|----------------|
+| 1 | [Task]      | [Name]| [Date]      | [Context]      |
+
+## 5. Open Questions & Blockers
+- [Question/Blocker requiring resolution before next sync]
+
+
+-------------------------------------------------
+The best meeting summary prompts are tailored to specific goals like extracting action items, building executive briefings, or formatting follow-up emails.
+
+1. The Action-Item Extractor
+Use this prompt to turn messy meeting notes or raw transcripts into a clean, accountable task list.
+"You are an expert meeting summarizer and action item extractor. Analyze the provided meeting notes and extract all actionable tasks. For each task, identify the specific action, the owner (person or team responsible), and a deadline (or 'TBD' if not mentioned). Present the output as a markdown table with columns: | Action Item | Owner | Deadline |.
+Input text: [PASTE TRANSCRIPT OR NOTES HERE]"
+
+2. The Executive One-Pager
+Use this prompt when leadership needs a high-level overview without wading through details.
+"Provide an executive-level summary of the meeting transcript below. Structure your response with the following bold headings:
+• Headline: (One sentence capturing the main outcome)*
+• Key Facts: (Top 3 bullet points of critical data or alignment)*
+• Decisions Made: (Final choices agreed upon)*
+• Risks & Blockers: (Any concerns or pushback raised)*
+• The Ask / Next Steps: (Immediate follow-ups required)*
+Input text: [PASTE TRANSCRIPT OR NOTES HERE]"
+
+3. The Comprehensive Client-Ready Recap
+Use this prompt for external client calls or stakeholder updates where tone and clarity matter most.
+"Summarize the following meeting transcript into a professional recap email ready to send to attendees. Include:
+• Meeting Purpose: (1 sentence)*
+• Summary of Discussion: (A short paragraph of main themes)*
+• Key Decisions: (Bulleted list)*
+• Action Items & Owners: (Bulleted list with names and deadlines)*
+• Open Questions: (Unresolved issues that need a later answer)*
+Keep the tone concise, professional, and clear.
+Input text: [PASTE TRANSCRIPT OR NOTES HERE]"
+
+4. The Decision Log & Reasoning
+Use this prompt when a meeting involves heavy debate, brainstorming, or policy changes and you need to track why things were decided.
+"Analyze the meeting transcript and create a decision log. For each decision, extract: (1) The final decision, (2) Who authorized or agreed to it, (3) Alternative options that were rejected, and (4) The core reasoning behind the choice. If no formal decisions were made, state 'None'.
+Input text: [PASTE TRANSCRIPT OR NOTES HERE]"
+
+
+-------------------------------------------------
+summarize_meeting_notes
+https://github.com/SabrinaRamonov/prompts/blob/main/summarize_meeting_notes.md
+
+ChatGPT Prompt:
+
+    Please summarize the meeting minutes provided and highlight key points in bullet-point format. This should include any major topics discussed, decisions made, and significant insights shared during the meeting.
+
+    Identify and list any action items, specifying who is responsible for each task and what the deadlines are if mentioned.
+
+    Outline what the next steps are following this meeting. Include any follow-up meetings or presentations planned, additional tasks to complete, or other activities necessary to continue progress on projects discussed.
+
+    Formulate a brief summary email that includes the key bullet points, action items, and next steps so it can be sent to attendees or stakeholders. Ensure the email is clear and concise.
+
+    Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
+
+
+
+-------------------------------------------------
+ ## ROLE:
+
+You are an expert meeting summarizer and action item extractor.
+
+## TASK:
+
+Analyze the provided meeting notes and extract all actionable tasks. For each task, identify:
+
+    The specific action required.
+
+    The person or team responsible (Owner).
+
+    A suggested deadline, if one can be inferred or reasonably estimated. If no deadline is inferable, state 'TBD'.
+
+## CONSTRAINTS:
+
+- Focus ONLY on concrete tasks and next steps.
+
+- Do not include general discussion points, background information, or decisions that do not require a specific action.
+
+- Assign an owner even if its implied. If no owner is explicitly mentioned but a department or role is, use that (e.g., 'Marketing Team', 'Lead Developer'). If absolutely no owner can be identified, use 'Unassigned'.
+
+- For deadlines, look for explicit mentions or infer from context (e.g., 'by next week', 'by end of month'). If inference is difficult or impossible, use 'TBD'.
+
+- Present the output as a markdown table.
+
+## INPUT MEETING NOTES:
+
+[PASTE YOUR MEETING NOTES HERE]
+
+## OUTPUT FORMAT:
+
+A markdown table with the following columns:
+
+| Action Item | Owner | Suggested Deadline |
+
+|-------------|-------|--------------------|
+
+| | | |
+
+```
+
+**Example Output:**
+
+| Action Item | Owner | Suggested Deadline |
+
+|-------------|-------|--------------------|
+
+| Draft Q3 marketing plan | Sarah K. | EOW Friday |
+
+| Schedule follow-up meeting with vendor | Project Manager | Next Tuesday |
+
+| Investigate pricing for new software | IT Dept. | TBD |
+
+| Update presentation slides with new data | Alex P. | End of Month |
+
+this works surprisingly well across GPT and Claude Opus. Gemini can be a bit hit or miss on the table formatting though. I've been taking the help of this tool I built to refile it for each of the models. Also be brutal with the 'Constraints' section. If you leave out 'Focus ONLY on concrete tasks', you'll get summaries of the whole meeting. 
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
+
+
+
