@@ -1,0 +1,251 @@
+
+-------------------------------------------------
+20 AI Prompts For Perfect Meeting Summaries
+
+📋 QUICK SUMMARIES (use these first)
+1. "Summarize this meeting, keep only the key points, cut everything unnecessary."
+Why it works: Forces the AI to prioritize instead of dumping everything, so you get signal not noise.
+2. "Turn this meeting into short bullet point headlines so I can skim it in 30 seconds."
+Why it works: Headlines trigger faster reading comprehension than paragraphs, perfect for busy people.
+3. "List every topic discussed in this meeting with a one line explanation for each."
+Why it works: Breaks a messy conversation into a clean table of contents you can jump to.
+4. "Summarize the final decisions and conclusions from this meeting."
+Why it works: Most people only care about outcomes, not the debate that led there.
+5. "List everything that needs to be done after this meeting, with details for each task."
+Why it works: Converts talk into action, the number one reason meetings fail.
+
+✅ ACTION ITEMS AND TASKS
+6. "Extract all action items from this meeting and assign an owner to each one."
+Why it works: Tasks without owners get ignored. This closes that gap instantly.
+7. "List action items, owners, and deadlines if mentioned in the meeting."
+Why it works: Deadlines create accountability, without one a task quietly disappears.
+8. "Summarize who needs to do what after this meeting ends."
+Why it works: Removes ambiguity, the biggest killer of follow through.
+9. "List all unfinished tasks and open issues that still need follow up."
+Why it works: Nothing falls through the cracks when unfinished work is called out clearly.
+10. "List points that were not resolved or still need more discussion."
+Why it works: Highlights the gaps so your next meeting has a clear starting point.
+
+📊 FORMATS THAT SAVE EVEN MORE TIME
+16. "Turn this into an executive summary with 5 to 7 points that impact decision making."
+Why it works: Matches how leadership actually consumes information, short and outcome focused.
+17. "Organize this into a table with columns: Topic, Summary, Action Item, Owner, Deadline."
+Why it works: Tables are scannable. Your brain processes structured data faster than plain text.
+18. "List items that need follow up in the next meeting, including current status if known."
+Why it works: Creates a running thread between meetings instead of starting from zero every time.
+19. "Summarize what was agreed on, what is still undecided, and what needs to happen next."
+Why it works: Three simple buckets that instantly clarify a confusing meeting.
+20. "Create official Meeting Minutes from this, including key topics, decisions, action items, owners, deadlines, and follow up items."
+Why it works: This is the one prompt that replaces the entire job of a note taker.
+
+⚠️ PROBLEMS AND DECISIONS
+11. "Summarize the problems raised in this meeting, their causes, and proposed solutions."
+Why it works: Problems without root cause analysis just repeat next month.
+12. "Summarize the suggestions and opinions shared by each participant."
+Why it works: Captures diverse viewpoints so no good idea gets lost in a long recording.
+13. "Summarize the major decisions made in this meeting along with the reasoning behind them."
+Why it works: Context matters. Knowing why a decision was made prevents future confusion.
+14. "Summarize only the points that leadership or management needs to know."
+Why it works: Executives do not need details, they need relevance. This filters for that.
+15. "Summarize this meeting for someone who was not there, without making them read the full transcript."
+Why it works: This is the single most requested use case, and it saves your coworkers hours.
+
+-------------------------------------------------
+
+Summarize this meeting.
+
+ 
+
+✅ Better Prompt
+
+You are an Executive Assistant responsible for documenting meetings.
+Review the meeting transcript below and generate professional meeting minutes.
+Include:
+• Meeting objective
+• Key discussion points
+• Decisions made
+• Action items
+• Owner for each action item
+• Due dates (if mentioned)
+• Risks or blockers
+• Open questions
+• Executive summary (5 bullet points)
+Format the output using clear headings and tables where appropriate.
+Meeting Transcript:
+<Paste transcript here>
+
+💡 Why This Prompt Works
+
+This prompt gives the AI:
+Role → Executive Assistant
+Task → Generate structured meeting minutes
+
+Output Format → Headings and tables
+Expected Sections → Decisions, actions, risks, and summaries
+
+The result is a document that's ready to share with your team, with minimal editing.
+
+🤖 Microsoft Copilot Tip
+If you're using Microsoft 365 Copilot in Teams or Word, don't stop at "Summarize this meeting."
+Try prompts like:
+Summarize this meeting for senior leadership. Highlight strategic decisions, unresolved issues, assigned action items, and any risks that require executive attention. Present the output in a concise table followed by a one-paragraph executive summary.
+-------------------------------------------------
+The High-Performance Prompt Template
+
+
+"You are an expert executive chief of staff. Read the meeting transcript below. Purge all fluff and provide a scannable summary using exactly this format:
+1. One-Line Context: What this meeting was about and its main goal.
+2. Core Decisions Made: Bullet points of final choices, including who authorized them or key reasoning.
+3. Action Items Table: A clear breakdown with columns for [Task], [Owner/Responsible Person], and [Deadline].
+4. Open Blockers or Risks: Any unresolved questions, disagreements, or items stalling progress.
+5. Next Steps: Immediate actions required to align everyone before the next sync."
+
+-------------------------------------------------
+You need three things: meeting details (title, date, attendees), raw notes or transcript, and an AI assistant (ChatGPT, Claude, Gemini—any conversational AI works).
+https://hackernoon.com/steal-my-prompt-for-automating-meeting-minutes-with-ai
+
+Basic workflow:
+
+Drop your meeting info into the prompt template. Paste your rough notes—bullet points, transcript, whatever you captured. Send to AI. Get back structured minutes. Review and distribute.
+
+Typical time: 3-5 minutes for a standard meeting. Compare that to 30-45 minutes manually formatting everything.
+
+The prompt structure:
+
+# Role Definition
+
+You are a professional Executive Assistant and Meeting Documentation Specialist with over 10 years of experience in corporate documentation. You excel at:
+
+- Capturing key discussion points accurately and concisely
+- Identifying and extracting action items with clear ownership
+- Structuring information in a logical, easy-to-follow format
+- Distinguishing between decisions, discussions, and action items
+- Maintaining professional tone and clarity in documentation
+
+Your expertise includes corporate governance, project management documentation, and cross-functional team communication.
+
+# Task Description
+
+Please help me create comprehensive meeting minutes based on the meeting information provided. The minutes should be clear, structured, and actionable, enabling all participants (including those who were absent) to quickly understand what was discussed, what was decided, and what needs to be done next.
+
+**Input Information** (please provide):
+
+- **Meeting Title**: [e.g., "Q4 Marketing Strategy Review"]
+- **Date & Time**: [e.g., "November 7, 2025, 2:00 PM - 3:30 PM"]
+- **Location/Platform**: [e.g., "Conference Room A" or "Zoom"]
+- **Attendees**: [list of participants]
+- **Meeting Notes/Recording**: [raw notes, transcript, or key points discussed]
+
+# Output Requirements
+
+## 1. Content Structure
+
+The meeting minutes should include the following sections:
+
+- **Meeting Header**: Title, date, time, location, participants, and meeting type
+- **Executive Summary**: Brief overview of the meeting (2-3 sentences)
+- **Agenda Items**: Each topic discussed with details
+- **Key Decisions**: Important decisions made during the meeting
+- **Action Items**: Tasks assigned with owners and deadlines
+- **Next Steps**: Follow-up activities and next meeting information
+- **Attachments/References**: Relevant documents or links
+
+## 2. Quality Standards
+
+- **Clarity**: Use clear, concise language; avoid jargon or ambiguity
+- **Accuracy**: Faithfully represent what was discussed without personal interpretation
+- **Completeness**: Cover all agenda items and capture all action items
+- **Objectivity**: Maintain neutral tone; focus on facts and decisions
+- **Actionability**: Ensure action items have clear owners and deadlines
+
+## 3. Format Requirements
+
+- Use structured headings and bullet points for easy scanning
+- Highlight action items with clear formatting (e.g., bolded or in a table)
+- Keep total length appropriate to meeting duration (typically 1-3 pages)
+- Use professional business documentation style
+- Include a table for action items with columns: Task, Owner, Deadline, Status
+
+## 4. Style Constraints
+
+- **Language Style**: Professional and formal, yet readable
+- **Expression**: Third-person objective narrative (e.g., "The team decided..." not "We decided...")
+- **Professional Level**: Business professional - suitable for executives and stakeholders
+- **Tone**: Neutral, factual, and respectful
+
+# Quality Check Checklist
+
+Before submitting the output, please verify:
+
+- [ ] All attendees are listed correctly with full names and titles
+- [ ] Each action item has a designated owner and clear deadline
+- [ ] All decisions are clearly documented and distinguishable from discussions
+- [ ] The executive summary accurately captures the meeting essence
+- [ ] The document is free of grammatical errors and typos
+- [ ] Formatting is consistent and professional throughout
+
+# Important Notes
+
+- Focus on outcomes and decisions rather than word-for-word transcription
+- If discussions were inconclusive, note this clearly (e.g., "To be continued in next meeting")
+- Respect confidentiality - only include information appropriate for distribution
+- When in doubt about sensitive topics, err on the side of discretion
+- Use objective language; avoid emotional or subjective descriptions
+
+# Output Format
+
+Present the meeting minutes in a well-structured Markdown document with clear headers, bullet points, and a formatted action items table. The document should be ready for immediate distribution to stakeholders.
+
+===========================
+###For quick recurring meetings, here's the condensed version:
+
+Create professional meeting minutes with the following information:
+
+**Meeting**: [Meeting title]
+**Date**: [Date and time]
+**Attendees**: [List participants]
+**Raw Notes**: [Paste your notes or key discussion points]
+
+**Requirements**:
+1. Include executive summary (2-3 sentences)
+2. List all key decisions made
+3. Create action items table with: Task | Owner | Deadline
+4. Maintain professional business tone
+5. Format in clear, scannable structure
+
+**Style**: Professional, objective, and actionable
+
+
+-------------------------------------------------
+Analyze the provided meeting recordings, transcripts, attendee list, and agenda for the [MEETING_TOPIC] meeting held on [MEETING_DATE]. Generate a concise summary of the meeting, highlighting the key discussion points, decisions made, and any important insights shared by attendees. Identify and list all action items mentioned during the meeting, including the person responsible and the deadline, if available. Organize the summary and action items in a clear and easy-to-read format, ensuring that all critical information is captured and easily accessible for future reference.
+
+
+-------------------------------------------------
+After researching what actually works across Anthropic, OpenAI, Fireflies, and Otter, I found that every high-quality meeting summary uses the same six-part structure.
+
+Here is the prompt that works:
+
+"You are an expert meeting analyst. Read the transcript below. Produce exactly 5 bullets in this order:
+
+1. One-line context - what this meeting was about.
+2. The single most important decision - quote it directly.
+3. The #1 risk or open question still unresolved.
+4. Action items - a table: Task | Owner | Deadline.
+5. Next step or follow-up date.
+
+Keep total output under 250 words. Use only what is in the transcript. If any decision or owner is unclear, write [UNCLEAR] instead of guessing."
+
+Then paste your transcript inside XML tags like this:
+
+<transcript>
+[your transcript here]
+</transcript>
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
