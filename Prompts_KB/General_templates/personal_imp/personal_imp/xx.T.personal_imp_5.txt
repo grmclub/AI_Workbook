@@ -411,6 +411,33 @@ Today I need to complete: [TASKS]
 I have [X HOURS] available. Build the highest-impact schedule for my day. Prioritise tasks based on their contribution to my goals, challenge anything that doesn’t deserve my time, identify what I can delegate or automate, and give me the 3 non-negotiable outcomes I should complete today.
 
 -------------------------------------------------
+🚨 10 "FORBIDDEN" CHATGPT PROMPTS. Just insanely powerful.
+
+1. "What am I missing that could completely change this outcome: [situation]?" → Blind spots.
+
+2. "Start from this goal: [goal] and map the fastest path to get there." → Reverse thinking.
+
+3. "Be brutally honest. Why will this fail and what am I underestimating: [plan]?" → Truth first.
+
+4." For this goal: [goal], what actions will create most of the results?" → 80/20.
+
+5. "If this approach fails, what completely different strategy should I try: [goal]?" → Escape dead ends.
+
+6." What opportunities am I overlooking in this situation: [context]?" → Hidden wins.
+
+7." What’s the simplest way to achieve this without unnecessary complexity: [goal]?" → Simplicity scales.
+
+8." What patterns or trends should I pay attention to in this space: [industry]?" → Stay ahead.
+
+9." How can I create an unfair advantage in this situation: [context]?" → Stack leverage.
+
+10. "What is the single most important action I should take right now: [goal]?" → Execute.
+
+Most people ask AI for answers.
+These prompts unlock:
+• Better thinking
+• Smarter decisions
+• Faster execution
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
