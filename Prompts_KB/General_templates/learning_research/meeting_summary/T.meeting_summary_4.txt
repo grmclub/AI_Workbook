@@ -1,0 +1,307 @@
+
+https://note.com/vast_cosmos500/n/n644a67a3f590?hl=en
+
+-------------------------------------------------
+## 6 Examples of Meeting Minutes Generation Prompts 
+
+Prompt instruction examples for management and decision-making meetings
+
+You are an expert in drafting meeting minutes for senior management and executive-level meetings. Please create minutes suitable for an executive decision-making meeting based on the transcript data provided below. Ensure the minutes include the following sections:
+
+Date, time, and location
+
+Attendees (including job titles)
+
+Agenda (items requiring a decision)
+
+Discussion details and summaries of opinions for each agenda item
+
+Concisely summarize key points and major comments from participants
+
+Decisions made and action items
+
+Specify the person in charge and deadlines, if applicable
+
+Next meeting schedule and follow-up items
+
+Additionally, please observe the following guidelines:
+
+If any parts of the transcript are unclear, mark them as "Unclear" or "No information available." 
+
+Highlight key information (e.g., using bold text) so that executives can grasp the essentials at a glance. 
+
+Briefly add context regarding the meeting's background or purpose if necessary, ensuring the document is easy for the reader to understand.
+
+Please refer to the transcript data below and draft the executive meeting minutes incorporating the items listed above.
+
+=================
+Prompt instruction examples for work progress and information sharing meetings
+
+You are an expert in creating minutes for work progress and information-sharing meetings. Based on the meeting transcript provided below, please draft minutes designed for this type of meeting. Ensure the minutes include the following sections:
+
+Date, Time, and Location
+
+Participants (including internal and external parties)
+
+Agenda Items and Reports by Responsible Parties
+
+Concisely summarize the information shared by the responsible parties for each agenda item.
+
+Current Progress and Status Report
+
+Clearly summarize the progress of projects and tasks.
+
+Issues and Discussion of Improvement Measures
+
+Briefly outline any problems encountered, concerns raised, and proposed improvements.
+
+Next Steps and Schedule
+
+Clearly indicate responsible parties, deadlines, and the schedule for the next meeting.
+
+Additionally, please keep the following points in mind:
+
+If the transcript content is insufficient or ambiguous, mark it as "Unknown" or "No information available." 
+
+Prioritize the importance of the reported information and issues, and present them in a way that is easy for the reader to understand. 
+
+Where necessary, briefly add context regarding the meeting's background and purpose so that the reader can grasp the overall picture just by reading the minutes.
+
+Please refer to the transcript data below and create the meeting minutes incorporating the items listed above.
+=================
+Prompt Instruction Examples for Work Progress and Information Sharing Meetings
+
+You are an expert in creating minutes for work progress and information-sharing meetings. Based on the meeting transcript provided below, please draft minutes designed for this type of meeting. Ensure the minutes include the following sections:
+
+Date, Time, and Location
+
+Participants (including internal and external parties)
+
+Agenda Items and Reports by Responsible Parties
+
+Concisely summarize the information shared by the responsible parties for each agenda item.
+
+Current Progress and Status Report
+
+Clearly summarize the progress of projects and tasks.
+
+Issues and Discussion of Improvement Measures
+
+Briefly outline any problems encountered, concerns raised, and proposed improvements.
+
+Next Steps and Schedule
+
+Clearly indicate responsible parties, deadlines, and the schedule for the next meeting.
+
+Additionally, please keep the following points in mind:
+
+If the transcript content is insufficient or ambiguous, mark it as "Unknown" or "No information available." 
+
+Prioritize the importance of the reported information and issues, and present them in a way that is easy for the reader to understand. 
+
+Where necessary, briefly add context regarding the meeting's background and purpose so that the reader can grasp the overall picture just by reading the minutes.
+
+Please refer to the transcript data below and create the meeting minutes incorporating the items listed above.
+
+
+=================
+Prompt Instruction Examples for Discussion, Opinion Exchange, and Brainstorming Meetings
+
+You are an expert in creating minutes for meetings focused on discussion, the exchange of opinions, and brainstorming. Based on the meeting transcript provided below, please draft minutes designed to capture the exchange of diverse perspectives and the generation of new ideas. Ensure the minutes include the following items:
+
+Date, time, and location
+
+Participants (including affiliations and titles, if applicable)
+
+Meeting theme or agenda
+
+Summary of key discussions, opinions, and ideas
+
+For brainstorming sessions, organize the generated ideas (e.g., using bullet points)
+
+If diverse opinions were expressed, briefly summarize how the discussion unfolded
+
+Points of agreement and main conclusions
+
+If multiple proposals exist, list them along with their respective advantages and concerns
+
+Future actions and follow-up items
+
+Specify the person in charge, deadlines, and agenda items for the next meeting, if applicable
+
+Additionally, please keep the following points in mind:
+
+Where free-flowing discussion occurred, clearly highlight differing perspectives and any newly identified issues. 
+
+If the conversation jumped between topics, reorganize and summarize the content clearly by agenda item or theme. 
+
+Mark unclear sections as "Unclear" and add supplementary notes or annotations as necessary.
+
+Please refer to the transcript below and create the meeting minutes incorporating the items listed above.
+=================
+Prompt Instruction Examples for Education, Training, and Networking Meetings
+
+You are an expert in creating minutes for meetings focused on education, training, and networking. Based on the provided meeting transcript, please draft minutes designed to facilitate talent development, knowledge sharing, and information dissemination. Ensure the minutes include the following sections:
+
+Date, Time, and Location
+
+Participants (including job titles, roles, and relevant departments)
+
+Purpose and Overview of the Meeting (or Training/Seminar)
+
+Briefly state the background, intent, and target audience, if applicable.
+
+Content and Program Flow
+
+For new-hire training or seminars: Summarize the general content of lectures and exercises.
+
+For networking events: Outline the main activities and topics discussed.
+
+Summary of Q&A and Discussion
+
+Summarize key points from participants' questions and opinions.
+
+Key Takeaways and Outcomes
+
+Highlight important discoveries or insights.
+
+Future Follow-up and Action Plan
+
+Clearly outline necessary procedures and schedules for ongoing learning or training.
+
+Additionally, please observe the following guidelines:
+
+If any part of the transcript is unclear, mark it as "Unclear" or "No Information Available" and add supplementary notes if necessary. 
+
+Organize the information by highlighting particularly important content to clearly convey educational value and networking outcomes. 
+
+Add supplementary details—such as meeting background or participant roles—where necessary to ensure the overall context is easily understood when reviewing the minutes later.
+
+Please refer to the transcript below and create the minutes for the education, training, or networking meeting based on the requirements above.
+=================
+Prompt Instruction Examples for 1-on-1, Planning, and Dialogue Meetings
+
+You are an expert in creating minutes for individual discussions, planning sessions, and consultative meetings. Based on the meeting transcript provided below, please draft minutes tailored to meetings focused on exchanging views, conducting detailed inquiries on specific topics, or formulating plans. Ensure the minutes include the following sections:
+
+Date, Time, and Location
+
+Participants (titles, roles, relevant departments, etc.)
+
+Theme and Purpose
+
+Briefly describe the purpose and background (e.g., interviews, one-on-one meetings, event planning).
+
+Key Exchanges and Information Gathered
+
+Summarize the main points of questions and answers or the exchange of opinions.
+
+Deliberations and Outline of Planning Proposals
+
+For committee or planning meetings, organize the key points of plans or proposals under consideration.
+
+Decisions and Action Items
+
+Clearly specify the person responsible and any deadlines.
+
+Future Follow-up and Outstanding Issues
+
+Note any need for additional inquiries or any unresolved issues.
+
+Additionally, please observe the following:
+
+If any parts of the transcript are unclear, mark them as "Unclear" or "No Information Available" and add explanatory notes as necessary. 
+
+Exercise caution regarding the handling of sensitive information—such as masking private details—for meetings requiring confidentiality, such as one-on-one sessions. 
+
+Where appropriate, provide supplementary information regarding the meeting's background, objectives, and participant roles to ensure the content is easily understood by future readers.
+
+Please refer to the transcript below and create the meeting minutes incorporating the items listed above.
+=================
+Prompt Instruction Examples for Online and Remote Meetings
+
+You are an expert in creating minutes for online/remote meetings. Please create meeting minutes based on the provided transcript data, specifically tailored for a remote meeting conducted via the internet or digital communication tools. Ensure the minutes include the following items:
+
+Date/Time and System Used
+
+Specify the date and time, the online tool used (e.g., Zoom, Teams), and connection details.
+
+Participants (including remote attendees)
+
+List titles, departments, or details regarding external participants.
+
+Agenda and Reports
+
+Summarize each agenda item, the person in charge, and key points from reports or proposals.
+
+Discussion Details and Exchange of Opinions
+
+Clearly summarize important points of discussion and opinions expressed.
+
+Decisions and Action Items
+
+Clearly outline the person responsible, deadlines, and target completion dates.
+
+Technical Issues and Troubleshooting (if applicable)
+
+Document any communication delays, system glitches, or similar issues, along with the measures taken to address them.
+
+Next Meeting Schedule and Follow-up Items
+
+Indicate the date and time for the next meeting, communication methods, and any necessary future coordination.
+
+Additionally, please keep the following points in mind:
+
+If any parts of the transcript are unclear, mark them as "Unclear" or "No Information Available" and add supplementary notes if necessary. 
+
+If issues specific to online meetings (such as connection problems or tool usage) are mentioned, briefly summarizing the causes and solutions will make future reference easier. 
+
+Where appropriate, briefly touch upon pre- and post-meeting preparations or communication protocols to include information useful for future review.
+
+Please refer to the transcript data below and create the online/remote meeting minutes incorporating the items listed above.
+-------------------------------------------------
+ @ General Purpose Format
+
+You are an expert minute-taker.
+Based on the input information provided below (meeting background/purpose and meeting notes),
+determine the optimal structure and headings for the meeting content, and create clear, concise minutes.
+
+【Input Information】
+Meeting Background/Purpose: {Enter the background and purpose of the meeting here}
+
+Meeting Notes: {Enter rough meeting notes here}
+
+【Output Instructions】
+Automatically select the most appropriate headings and structure for the minutes based on the meeting's content and purpose.
+
+Examples: Meeting Name, Date/Time, Attendees, Agenda, Discussion Details, Decisions Made, Issues, Action Items, Next Meeting Schedule, etc.
+
+Add or omit headings and sections as appropriate for the specific meeting.
+
+Extract key points from the notes and summarize them clearly.
+
+Clearly mark any unclear points or items requiring verification (e.g., "To be confirmed").
+
+Format the document to ensure the minutes are easy for anyone to understand.
+
+【Input Example】
+Meeting Background/Purpose: Progress check and issue identification for the launch of a new service
+
+Meeting Notes:
+
+PM: Development schedule delayed by one week
+
+Sales: Draft of client presentation materials completed
+
+Marketing: Ad placement schedule currently being coordinated
+
+Issues: Technical concerns regarding API integration
+
+Next Meeting: May 2, 14:00
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
