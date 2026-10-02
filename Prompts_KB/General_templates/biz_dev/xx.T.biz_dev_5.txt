@@ -422,6 +422,21 @@ The strongest modern marketing system is not built around posting more often.
 It is built around becoming easier to find, easier to understand, easier to trust, and easier to measure across the channels that matter.
 
 -------------------------------------------------
+## A business website should make the next step obvious. Here are 6 Claude/ChatGPT prompts to turn a vague homepage into a clearer path to enquiries:👇
+
+Prompt 1 — Clarify the offer. "Act as a website strategist. Ask me 5 questions about [business], [customer], [service] and [desired enquiry]. Then write 3 plain-English versions of our homepage headline. Avoid hype."
+
+Prompt 2 — Map the page. "Using this offer: [paste offer], outline a homepage with only the sections a first-time visitor needs. For each section, state the question it answers and the action it supports."
+
+Prompt 3 — Remove friction. "Review this homepage copy: [paste copy]. Mark every sentence that is vague, repetitive or assumes the visitor already knows our business. Rewrite only those lines in a direct, human voice."
+
+Prompt 4 — Build trust. "Given these real facts about our work: [paste facts], suggest where to place proof on the page. Do not invent testimonials, results or client names."
+
+Prompt 5 — Improve the CTA. "Our main action is [book a call/request a quote/buy]. Write 5 specific CTA labels and one sentence explaining what happens after each click."
+
+Prompt 6 — Check on mobile. "Here is the page outline: [paste]. Identify which content must be visible before a mobile visitor scrolls, and what can wait until later."
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
