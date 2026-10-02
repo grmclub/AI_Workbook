@@ -192,8 +192,31 @@ Act as a mobile website optimization expert. My website doesn’t look good on p
 8. The Complete Website Copy System
 Act as a professional website copywriting expert. Write all the copy for my [business type] website, including: the homepage headline, About section, Services section, testimonial ideas, FAQ section, and footer CTA. Make every word purposeful, persuasive, and valuable.
 
-
 -------------------------------------------------
+🚨 Breaking: Claude can build a CINEMATIC creator website 👇
+
+1 — Creator Positioning
+Analyze my creator profile: [NICHE/CONTENT/AUDIENCE]. Define my positioning, audience, content pillars, products or services, credibility assets, and primary website goal. Then create a site architecture that turns my online presence into a clear professional brand without exaggerating my experience or results.
+
+2 — Content Archive
+Design a premium content archive for my creator website. My content includes [CONTENT TYPES]. Create categories, search or filtering, featured content, article/video pages, tags, related-content recommendations, and navigation. Make the archive feel editorial and useful instead of simply embedding social-media posts everywhere.
+
+3 — Creator Media Kit
+Build an interactive media-kit section for [CREATOR]. Include bio, audience information, content categories, platforms, collaboration options, previous work placeholders, contact information, and partnership formats. Create a premium visual hierarchy while clearly labeling metrics and information that need regular updating.
+
+4 — Digital Products
+Design a creator website section that presents my digital products: [PRODUCTS]. For each product, define positioning, audience, problem solved, contents, preview, CTA, and related content. Create a browsing experience that feels like a premium library rather than a collection of unrelated sales cards.
+
+5 — Sponsorship Page
+Create a professional sponsorship page for my creator brand. Define the information brands need to evaluate a collaboration, including audience profile, content formats, campaign options, workflow, deliverables, previous collaborations if available, and inquiry process. Avoid inventing performance statistics and make placeholders obvious.
+
+6 — Newsletter Funnel
+Design a creator website newsletter funnel around [TOPIC]. Create the signup section, lead magnet concept, welcome sequence, content categories, weekly newsletter structure, and product or service transition. Make the newsletter valuable independently rather than treating every email as a sales message.
+
+7 — Full Website
+Turn my creator-brand concept into a complete Claude Code specification: [CONCEPT]. Include Home, Content, About, Products, Media Kit, Newsletter, Contact, reusable components, animation system, responsive layouts, accessibility, SEO, analytics, performance, and CMS-ready content structures.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
