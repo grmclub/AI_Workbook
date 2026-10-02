@@ -1,0 +1,71 @@
+
+-------------------------------------------------
+1/ Claude Code Starter Workflows
+Many people think Claude Code is only for developers.
+It isn't.
+You can use it to automate everyday work with plain English instructions and your existing files. The goal isn't to learn every feature. The goal is to build something useful in your first hour.
+A simple workflow usually follows this path:
+➡ Give Claude a clear goal.
+➡ Provide the necessary context.
+➡ Point it to the right files.
+➡ Explain the task you want completed.
+➡ Review the output and refine if needed.
+This same structure works across writing, research, operations, project management, and sales.
+
+2/ Real Workflows You Can Build Today
+Here are practical examples that don't require coding:
+➡ Content & Writing
+• Rewrite blog drafts.
+• Match your brand voice.
+• Export polished versions ready for review.
+➡ Research & Notes
+• Read meeting notes.
+• Extract action items.
+• Assign owners.
+• Build a due-date tracker.
+➡ Operations
+• Combine multiple SOPs.
+• Add checklists.
+• Prepare documentation for your team.
+➡ Project Support
+• Generate project status reports.
+• Flag missing owners.
+• Highlight tasks without deadlines.
+Each workflow turns scattered documents into something immediately useful.
+
+3/ More Business Use Cases
+Claude Code also works well for sales and recurring business tasks.
+➡ Pipeline Pulse
+• Review CRM or HubSpot exports.
+• Identify stalled opportunities.
+• Rank deals by value.
+• Produce a concise pipeline summary.
+➡ Pre-Call Brief
+• Combine LinkedIn research.
+• Review company news.
+• Use CRM history.
+• Generate a meeting brief before every customer call.
+Instead of manually collecting information from different places, Claude brings everything together into one organized document.
+
+4/ Why This Approach Works
+The biggest mistake beginners make is trying to learn everything before building anything.
+Instead:
+➡ Pick one repetitive task.
+➡ Block one uninterrupted hour.
+➡ Follow the same five-step workflow:
+• Goal
+• Context
+• Files
+• Clear Task
+• Review
+Once your first workflow works, you can reuse the exact same structure for dozens of other business tasks.
+That's how Claude Code becomes a practical productivity tool instead of another AI app sitting unused.
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
