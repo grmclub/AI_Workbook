@@ -52,7 +52,7 @@ These approaches help you stop accepting the first explanation that sounds convi
 Many bad decisions happen because people treat symptoms, assumptions, and confident opinions as facts.
 Use these thinking methods to investigate more deeply:
 ➔ Decision Matrix Builder: Compare options using clear criteria instead of relying only on instinct.
-➔ Root Cause Analysis: Trace the problem through causes, dependencies, and repeated “why” questions until you reach the underlying issue.
+➔ Root Cause Analysis: Trace the problem through causes, dependencies, and repeated "why" questions until you reach the underlying issue.
 ➔ Argument Strength Evaluator: Check whether a conclusion is supported by sound reasoning or simply presented confidently.
 ➔ Scenario Planning: Consider optimistic, realistic, pessimistic, and disruptive outcomes before committing.
 ➔ Systems Thinking: Look at how people, processes, incentives, resources, and consequences interact.
@@ -154,8 +154,10 @@ The bigger lesson:
 The goal isn't an empty inbox.
 It's making sure your inbox doesn't become the person managing your day.
 
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 
 
--------------------------------------------------
--------------------------------------------------
--------------------------------------------------
