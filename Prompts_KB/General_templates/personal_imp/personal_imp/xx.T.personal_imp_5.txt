@@ -439,6 +439,30 @@ These prompts unlock:
 • Smarter decisions
 • Faster execution
 -------------------------------------------------
+🚨I FOUND CHATGPT’S “SECRET MODE”
+7 prompts that make it think deeper, plan smarter & execute better.
+
+1 | Master Strategist
+"Analyze my goal: [GOAL]. Break it down from first principles, identify the biggest obstacles, hidden opportunities, and highest-leverage actions. Then build the most efficient strategy to achieve it."
+
+2 | Expert Advisor
+"Act as a world-class expert in [FIELD]. Based on my situation: [DETAILS], tell me what an expert would do, what beginners usually get wrong, and which actions could create the biggest improvement."
+
+3 | Deep Researcher
+"Research [TOPIC] from multiple angles. Identify the most important facts, competing perspectives, overlooked insights, and practical conclusions. Clearly separate verified information from assumptions."
+
+4 | Decision Maker
+"I need to choose between [OPTIONS]. Compare each option by upside, downside, risk, opportunity cost, effort, and long-term impact. Challenge my assumptions and explain the trade-offs I should consider."
+
+5 | Problem Solver
+"I'm dealing with this problem: [PROBLEM]. Find the root cause, separate symptoms from causes, identify what I can control, generate multiple solutions, and prioritize them by impact and ease of implementation."
+
+6 | Execution Architect
+"I want to achieve [GOAL] within [TIMEFRAME]. Build a complete execution plan with milestones, weekly priorities, daily actions, dependencies, potential bottlenecks, and checkpoints. Keep it realistic and focused on execution."
+
+7 | Critical Thinking Mode
+"Challenge my plan: [PLAN]. Look for flawed assumptions, blind spots, weak reasoning, unnecessary complexity, and better alternatives. Be brutally honest and tell me exactly what I should change and why."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
