@@ -439,7 +439,7 @@ These prompts unlock:
 • Smarter decisions
 • Faster execution
 -------------------------------------------------
-🚨I FOUND CHATGPT’S “SECRET MODE”
+🚨I FOUND CHATGPT’S "SECRET MODE"
 7 prompts that make it think deeper, plan smarter & execute better.
 
 1 | Master Strategist
@@ -464,6 +464,31 @@ These prompts unlock:
 "Challenge my plan: [PLAN]. Look for flawed assumptions, blind spots, weak reasoning, unnecessary complexity, and better alternatives. Be brutally honest and tell me exactly what I should change and why."
 
 -------------------------------------------------
+🚨 BREAKING: Claude has a mode called infinite personal tutor. 
+It can teach you any skill from zero in 4 hours.
+Here are the 7 prompts to learn anything:👇
+
+1. Find your starting point
+"Be my tutor for [skill]. I’m a beginner, and I want to use it to [specific goal]. I have [time available] and already know [relevant experience, or ‘nothing’]. Ask me 5 short questions, one at a time, to find my starting point. Then tell me the first 3 things I should learn and why."
+
+2. Build a 4-hour plan
+"Create a 4-hour beginner learning plan for [skill] so I can complete [specific task]. Break it into timed sessions with one small exercise per session. Include breaks, materials I’ll need, and a result I can show at the end. Prioritize what matters for my task; mark advanced topics for later."
+
+3. Explain the first concept simply
+"Teach me [specific concept in the skill] as if I’ve never studied it. Start with a familiar everyday example, then explain the correct terms. Show one good example and one common mistake. Finish with a quick question to check whether I understood. Wait for my answer before continuing."
+
+4. Walk me through a real example
+"Show me how to [specific task] using this realistic example: [your example]. Work through the first step and explain your choice in plain language. Then give me the next step to try myself. Don’t complete the whole task for me unless I ask for a demonstration."
+
+5. Give me practice at my level
+"Give me 3 short exercises for [skill] that help me practice [specific subskill]. Start easy and increase the difficulty slightly each time. Present one exercise at a time. After I answer, tell me what I did well, identify my biggest mistake, and let me try again before showing the solution."
+
+6. Help when I get stuck
+"I’m trying to [task], but I’m stuck at [exact step]. Here’s what I tried: [paste your attempt]. Ask up to 3 questions to diagnose the problem. Then give me one hint at a time, starting with the smallest useful hint. Explain the underlying idea once I’ve solved it."
+
+7. Check what I actually understand
+"Quiz me on [topic] at a beginner level. Ask 6 questions, one at a time: 2 basic, 2 practical, and 2 that test common misunderstandings. After each answer, explain any gap briefly. At the end, give me a score and a focused 20-minute practice plan based on my mistakes."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
