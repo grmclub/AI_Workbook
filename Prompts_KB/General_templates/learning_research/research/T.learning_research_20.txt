@@ -538,14 +538,14 @@ The opening should:
 - Explain why the topic matters
 - Create a natural transition into the specific research area
 Use formal academic language without sounding exaggerated or generic.
-Do not use dramatic claims such as “this is one of the biggest problems in the world” unless supported by evidence.
+Do not use dramatic claims such as "this is one of the biggest problems in the world" unless supported by evidence.
 Do not invent citations or statistics.
 After the 5 options, explain the purpose of each opening.
 
 Before asking AI to write your introduction, give it your:
 TOPIC + PROBLEM + OBJECTIVES + RESEARCH QUESTIONS + VERIFIED SOURCES
 And tell it:
-“Analyze my sources first. Do not draft until you have identified the evidence and logical argument needed for the introduction.”
+"Analyze my sources first. Do not draft until you have identified the evidence and logical argument needed for the introduction."
 That simple change can make your AI-assisted academic writing much more defensible.
 #ResearchTips #AcademicWriting #Dissertation #PhD #AITips
 
@@ -670,11 +670,45 @@ A powerful research introduction usually follows:
 CONTEXT → IMPORTANCE → CURRENT KNOWLEDGE → PROBLEM → GAP → PURPOSE
 Don’t make the introduction unnecessarily complicated.
 The reader should finish it knowing:
-“I understand the topic.”
-“I understand the problem.”
-“I understand why this study is necessary.”
-“I understand what this research is going to investigate.”
+"I understand the topic."
+"I understand the problem."
+"I understand why this study is necessary."
+"I understand what this research is going to investigate."
 
+-------------------------------------------------
+These 10 prompts turn AI into a serious research assistant — from finding the right question to testing evidence and resolving conflicting sources.
+Save this. Your next research project just got a lot easier. 🔎
+
+1. Turn Any Topic Into a Researchable Question
+"Act as an expert research strategist. Help me transform [BROAD TOPIC] into a precise, researchable question for [PURPOSE/AUDIENCE]. Identify the target population, key variables, geographic scope, time period, and intended outcome. Then propose 5 sharply focused research questions. For each, explain what evidence would be required, what makes it answerable, and what limitations may arise. Recommend the strongest question based on relevance, feasibility, evidence availability, and research value."
+
+2. Build the Research Plan Before Searching
+"Act as a senior research strategist. Build a rigorous research plan for answering: [RESEARCH QUESTION]. Break the question into 5–7 logically connected sub-questions. Define the key concepts, identify the evidence required for each section, recommend appropriate research methods and source types, and flag likely limitations, assumptions, and knowledge gaps. Then create a step-by-step research sequence that minimizes wasted searching and prevents confirmation bias."
+
+3. Generate Expert-Level Search Queries
+"Create 20 high-precision search queries for researching [TOPIC/QUESTION]. Cover broad discovery, academic literature, exact-phrase searches, statistics, systematic reviews, meta-analyses, government data, competing viewpoints, recent developments, and region-specific evidence for [REGION]. Use Boolean operators, quotation marks, exclusions, site-specific searches, and alternative terminology where useful. Group the queries by research purpose and explain what each group is designed to uncover."
+
+4. Find the Strongest Available Evidence
+"Research [QUESTION] using the strongest available evidence from [DATE RANGE]. Prioritize systematic reviews, meta-analyses, peer-reviewed research, government datasets, official statistics, university research, and highly credible institutions. For every major claim, provide the source title, author or organization, publication date, link or DOI, methodology where relevant, and a one-sentence credibility assessment. Distinguish primary evidence from secondary analysis. Never invent, fabricate, or assume citations; clearly flag evidence gaps and uncertainty."
+
+5. Stress-Test the Evidence
+"Act as a skeptical academic reviewer. Critically examine this argument or research draft: [PASTE ARGUMENT/DRAFT]. Identify unsupported claims, weak or inappropriate sources, methodological flaws, correlation-versus-causation errors, selection bias, confounding variables, outdated evidence, cherry-picking, unclear definitions, missing counterarguments, and overgeneralization. Rank each problem by severity, explain why it matters, and recommend a specific evidence-based correction. Do not rewrite the argument until the weaknesses have been identified."
+
+6. Build a Balanced Research Library
+"Build a balanced, high-quality reading list for [TOPIC]. Include 3 foundational works, 5 influential studies, 5 strong recent sources from [DATE RANGE], and 3 credible sources representing important alternative or opposing perspectives. For every source, provide the citation, publication date, main contribution, methodology, difficulty level, limitations, and why it matters to the research question. Arrange the sources in an efficient reading order from foundational knowledge to current evidence."
+
+7. Create a Source-Quality Scorecard
+"Evaluate these sources about [TOPIC]: [PASTE SOURCES/LINKS]. Assess each source on author expertise, publication quality, methodological rigor, evidence strength, sample or dataset quality, recency, transparency, reproducibility where applicable, conflicts of interest, and potential bias. Score each dimension from 1–5 and explain every unusually low or high score. Then identify which sources are appropriate for major claims, which are useful only for background, and which should not be relied upon."
+
+8. Extract Evidence Into a Research Matrix
+"Analyze these sources: [PASTE SOURCES/TEXT]. Create a structured research matrix with columns for citation, research question, population or dataset, methodology, variables, key findings, important statistics, limitations, relevant quotation of no more than 20 words, and direct connection to [MY RESEARCH QUESTION]. Then identify recurring findings, contradictions, methodological differences, and evidence gaps. Separate what the sources directly demonstrate from what can only be inferred."
+
+9. Resolve Conflicting Research Findings
+"These sources reach different conclusions about [TOPIC]: [PASTE SOURCES]. Investigate the disagreement systematically. Determine whether it results from different definitions, populations, samples, datasets, time periods, geographic settings, methodologies, measurements, incentives, or interpretations. Compare the evidence quality behind each conclusion and identify which differences materially affect the results. Then explain what conclusion remains defensible given the combined evidence, including the major uncertainties that remain."
+
+10. Produce a Mini Literature Review
+"Write a rigorous, evidence-based literature review on [RESEARCH QUESTION] using credible research from [DATE RANGE]. Organize the review around major themes, debates, and methodological differences—not source-by-source summaries. Compare where researchers agree, disagree, and reach different conclusions because of differences in evidence or methods. Clearly distinguish established findings, strong but limited evidence, emerging findings, contested interpretations, and unanswered questions. Cite every substantive claim and conclude by identifying the most important research gaps."
+-------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
