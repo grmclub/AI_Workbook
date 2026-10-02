@@ -251,6 +251,89 @@ Prompt:
 Analyze this data and turn it into executive-friendly presentation slides: [PASTE DATA / TABLE / METRICS]. Identify the 5–7 most important insights, including trends, changes, comparisons, anomalies, and business implications. For each insight create a slide with: conclusion-style headline, key numbers, short explanation, recommended chart type, and one "so what?" takeaway. Do not create charts just because data exists—choose the visual that communicates each insight fastest.
 
 -------------------------------------------------
+🛑 STOP TELLING CHATGPT: "Make me a presentation." Here are 7 prompts to try instead 👇
+
+1. Build the Entire Presentation
+"Act as an expert presentation strategist. Create a slide-by-slide presentation about [TOPIC] for [AUDIENCE].
+For each slide, include:
+• A compelling headline
+• 3–5 concise key points
+• Relevant examples
+• Suggested visuals
+• The purpose of the slide
+Start with a strong hook, build the story logically, and finish with a clear conclusion and call to action."
+
+2. Make It Research-Driven
+"Create a research-backed presentation about [TOPIC] for [AUDIENCE].
+Build a logical slide sequence using:
+• Current statistics
+• Credible sources
+• Relevant case studies
+• Real-world examples
+Keep each slide focused and easy to scan. Cite the source for factual claims when possible and include a reference slide at the end. Clearly flag anything that needs independent verification."
+
+3. Explain It to a Beginner
+"Create a beginner-friendly presentation about [TOPIC] for someone with no prior knowledge.
+Start with the basics and gradually introduce more advanced concepts.
+Use:
+• Simple language
+• Relatable analogies
+• Clear examples
+• Step-by-step explanations
+Avoid unnecessary jargon and make each slide answer one clear question."
+
+4. Build an Investor Pitch Deck
+"Create an investor pitch deck for [BUSINESS/IDEA].
+Structure it around:
+• Problem
+• Target customer
+• Solution
+• Product
+• Market opportunity
+• Business model
+• Traction
+• Competition
+• Competitive advantage
+• Go-to-market strategy
+• Financial outlook
+• Team
+• Funding request
+Keep claims grounded in the information provided and identify what evidence or data should support each slide."
+
+5. Turn It Into a Story
+"Turn [TOPIC] into a story-driven presentation using this structure:
+Hook → Problem → Tension → Discovery → Insight → Transformation → Action
+Give each slide:
+• A strong headline
+• Minimal supporting text
+• A suggested visual
+• A natural transition
+• Speaker notes
+Make the presentation feel like one connected story instead of a collection of slides."
+
+6. Make It Executive-Ready
+"Create an executive-level presentation about [TOPIC] for [DECISION-MAKERS].
+Focus on:
+• Current situation
+• Key findings
+• Opportunities
+• Risks
+• Important trends
+• Business impact
+• Recommendations
+• Next steps
+Keep it concise and decision-focused. Suggest charts, tables, or visuals only where they make the information easier to understand."
+
+7. Write the Speaker Script Too
+"Create a complete presentation about [TOPIC] for [AUDIENCE], then write speaker notes for every slide.
+Keep the slides concise and use the speaker notes for:
+• Context
+• Explanations
+• Examples
+• Stories
+• Transitions
+Add natural cues for pauses and emphasis. Make the script complement the slides instead of simply reading them aloud."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
