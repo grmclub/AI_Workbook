@@ -449,6 +449,31 @@ Step 4: Download the images and take them to Seedance 2.5.
 Step 5: Paste the video prompts, generate each clip, and combine them.
 
 -------------------------------------------------
+Google Omni: 7 Free Video Editing Prompts to Try
+RIP CapCut. RIP Adobe Premiere Pro. Google Omni edits your videos for free.
+Here are 7 prompts you have to try:👇
+
+1/ Cinematic Look
+Paste in: "Transform this video into a professional cinematic scene. Enhance the lighting, colour grading, contrast, depth of field and overall visual quality. Add subtle cinematic camera movement and natural motion blur, while keeping the original subject and actions unchanged."
+
+2/ Swap The Background
+Paste in: "Replace the current background with [new location]. Keep the face, body, clothing, movement and proportions of the main subject unchanged. Match the lighting, perspective, shadows and reflections of the new environment so the edit looks completely real."
+
+3/ Remove Something
+Paste in: "Remove [object or person] from the entire video while keeping everything else unchanged. Rebuild the area naturally using the surrounding environment and background detail. Keep the lighting, shadows, textures and camera movement consistent between every frame."
+
+4/ Replace Something
+Paste in: "Replace [existing object] with [new object] throughout the entire video. Match the position, size, perspective, lighting and movement of the original. Leave the rest of the scene unchanged and make the replacement look natural."
+
+5/ Remove Something
+Paste in: "Remove [object or person] from the entire video while keeping everything else unchanged. Rebuild the area naturally using the surrounding environment and background detail. Keep the lighting, shadows, textures and camera movement consistent between every frame."
+
+6/ Day To Night
+Paste in: "Turn this daytime video into a realistic nighttime scene. Replace the daylight with natural moonlight, streetlights, realistic shadows, reflections and subtle ambient lighting. Keep the subjects, objects, camera movement and composition unchanged."
+
+7/ Make It Look Filmed
+Paste in: "Make this look like it was shot on a high-end cinema camera. Improve the composition, depth of field, lighting, colour grading, sharpness and natural motion blur. Keep the original subject, actions and environment exactly as they are."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
