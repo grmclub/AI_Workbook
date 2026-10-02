@@ -509,8 +509,50 @@ Utility
 - review drafts - check in as it works
 - monitor progress - keep an eye on it the whole way
 
-
 -------------------------------------------------
+Here are 20 I would actually use.
+
+→ /ELI5
+Use it when a complex idea must become simple enough for a new hire or customer.
+→ /TLDL
+Use it when a 20-page note needs a short summary before a meeting.
+→ /EXEC SUMMARY
+Use it when the reader is a CEO, board member, or investor.
+→ /CHECKLIST
+Use it when the answer needs to become action, not commentary.
+→ /FORMAT AS
+Use it when you need a table, JSON, memo, scorecard, or email draft.
+→ /SCHEMA
+Use it when Claude should structure fields, data, or a repeatable workflow.
+→ /TONE
+Use it when the same message needs to move from formal to direct.
+→ /AUDIENCE
+Use it before writing for finance, sales, engineers, or customers.
+→ /ACT AS
+Use it to force a role: CFO, PM, legal reviewer, or strategy lead.
+→ /PM MODE
+Use it when you need owners, risks, dependencies, and next steps.
+→ /MULTI-PERSPECTIVE
+Use it before a decision that could look different to product, ops, and customers.
+→ /STEP-BY-STEP
+Use it when the process matters more than the answer.
+→ /FIRST PRINCIPLES
+Use it when the response feels copied from a playbook.
+→ /DELIBERATE THINKING
+Use it when speed is creating shallow output.
+→ /SWOT
+Use it for tradeoffs, positioning, and strategic pressure tests.
+→ /COMPARE
+Use it when two tools, vendors, hires, or plans need side-by-side judgment.
+→ /PITFALLS
+Use it before a launch, promise, negotiation, or automation rollout.
+→ /NO AUTOPILOT
+Use it when you want Claude to avoid generic filler and obvious advice.
+→ /EVAL-SELF
+Use it to make Claude critique its first answer before you use it.
+→ /ROLE: TASK: FORMAT:
+Use it when the request is messy and the output must be precise.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
