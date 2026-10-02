@@ -1,0 +1,56 @@
+
+-------------------------------------------------
+
+1/ The BA role is changing
+Business Analysts have always connected business teams with technology teams. AI is changing what that connection requires.
+Traditional BA work often focused on gathering requirements, documenting processes, and translating business needs for technical teams.
+Now, AI adds another layer.
+A strong BA must understand what the business actually needs, where AI can create value, and where AI is the wrong solution.
+The goal is no longer simply to translate requirements.
+It is to help the organization make better decisions before development begins.
+
+2/ Ask better questions first
+The biggest advantage of an AI-aware BA is not knowing every AI tool.
+It is knowing which questions to ask before anyone starts building.
+For example:
+➔ What business problem are we actually solving?
+➔ Is AI necessary, or would a simpler solution work better?
+➔ What data would the solution need?
+➔ How would we measure whether it creates value?
+➔ What risks could affect users, operations, or decisions?
+➔ Where should humans remain involved?
+These questions prevent teams from building impressive technology that solves the wrong problem.
+
+3/ Understand both sides deeply
+An effective BA needs enough business understanding to identify the real pain point and enough technology understanding to evaluate possible solutions.
+That means looking at:
+➔ Business goals and measurable outcomes.
+➔ Existing workflows and operational bottlenecks.
+➔ Data availability and quality.
+➔ AI capabilities and limitations.
+➔ Technical feasibility and dependencies.
+➔ User needs and adoption challenges.
+You do not need to become a full-time developer or AI researcher.
+But you do need enough technical understanding to have meaningful conversations with the people building the solution.
+
+4/ Become the bridge before building begins
+The highest-impact BA is not simply the person who passes requirements from one team to another.
+They help both sides understand what should actually be built.
+
+A practical workflow is:
+➔ Start with the business outcome.
+➔ Identify the real process or problem.
+➔ Question whether AI is appropriate.
+➔ Explore possible AI-enabled approaches.
+➔ Define measurable success criteria.
+➔ Identify risks, constraints, and human oversight.
+➔ Then translate the decision into clear requirements.
+That is where the BA becomes more than a bridge between business and technology.
+They become part of the decision-making layer that determines whether the right thing gets built.
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
