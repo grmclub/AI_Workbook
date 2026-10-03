@@ -304,6 +304,168 @@ How to use Claude to find job roles with 7 prompts
 7. Search Strategy Builder
 "Using my CV and those target roles, write me a 30 day job search plan. Job titles to search, keywords to use, types of company to target, how many applications a week, who to contact, and weekly checkpoints."
 -------------------------------------------------
+🚨 BREAKING: Claude has a feature called Resume Mode.
+It pulls your CV out of the pile and into an interview, like a recruiter rewrote it for you.
+Here are 6 prompts to start 👇
+
+1. THE RECRUITER RESUME AUDIT
+Adopt the role of a Senior Recruiter who has screened more than 20,000 resumes across startups, Fortune 500 companies, and high-growth teams. You learned that most resumes fail in the first 15 seconds because they make recruiters work too hard to understand the candidate's value.
+Your mission: Audit my resume from the perspective of the person deciding whether I deserve an interview. Identify unclear positioning, weak bullets, irrelevant information, missing evidence, keyword gaps, and anything that makes my experience look weaker than it actually is. Do not invent achievements, responsibilities, skills, metrics, or credentials.
+Before any output, think step by step:
+1. Can I understand who this candidate is and where they fit within 10 seconds?
+2. Which accomplishments prove value and which bullets merely describe duties?
+3. What information is irrelevant, repetitive, vague, or buried?
+4. What would make a recruiter hesitate?
+5. Which three changes would improve interview potential most?
+PHASE 1: The 15-Second Test
+Resume: [PASTE_RESUME]
+Target role: [TARGET_ROLE]
+Target industry: [TARGET_INDUSTRY]
+Experience level: [EXPERIENCE_LEVEL]
+Location or work preference: [LOCATION / REMOTE / HYBRID]
+I'll review the resume exactly as a recruiter would on the first pass and tell you what impression it creates, what role I think you fit, and what immediately weakens the application.
+→ Type "continue" for the full audit
+PHASE 2: The Recruiter Red Flags
+I'll review Summary, Experience, Skills, Education, Formatting, Career Story, and Evidence of Impact. Every issue will be marked HIGH, MEDIUM, or LOW priority, with the reason a recruiter would care.
+→ Type "continue" for the strongest fixes
+PHASE 3: The Rewrite Priorities
+I'll identify the exact sections and bullets that deserve rewriting first, what each should communicate instead, and which details should be cut, condensed, moved, or expanded.
+→ Type "continue" for the final scorecard
+PHASE 4: The Interview-Readiness Scorecard
+I'll give you a final assessment across Clarity, Relevance, Evidence, Positioning, Readability, Keyword Alignment, and Recruiter Confidence, followed by the five highest-impact edits to make before applying.
+
+2. THE JOB DESCRIPTION MATCHER
+Adopt the role of a Talent Acquisition Lead who has spent years comparing resumes against job descriptions and knows the difference between a genuine qualification gap and a candidate simply failing to communicate relevant experience.
+Your mission: Compare my resume with [JOB_DESCRIPTION] and show me exactly where I match, where I am underselling myself, where I have a real gap, and how to tailor the resume without copying the job description or stuffing keywords unnaturally.
+Before any output, think step by step:
+1. What are the five requirements the employer appears to care about most?
+2. Which requirements are mandatory versus nice-to-have?
+3. What evidence in my resume already supports those requirements?
+4. Which relevant experiences are present but described poorly?
+5. Which gaps are real and must not be hidden?
+PHASE 1: The Match
+Resume: [PASTE_RESUME]
+Job description: [PASTE_JOB_DESCRIPTION]
+Target company: [COMPANY]
+Target role: [ROLE]
+I'll extract the employer's real priorities and compare them against the evidence in your resume.
+→ Type "continue" for the gap map
+PHASE 2: The Qualification Map
+I'll classify each important requirement as STRONG MATCH, PARTIAL MATCH, NOT SHOWN, or REAL GAP. For every match, I'll point to the exact experience that supports it.
+→ Type "continue" for the tailoring
+PHASE 3: The Resume Tailoring Plan
+I'll show which headline, summary, skills, and experience bullets should change for this role, including keywords worth incorporating naturally and language from the job description that should not be copied word-for-word.
+→ Type "continue" for the recruiter version
+PHASE 4: The Targeted Resume Blueprint
+I'll give you the ideal section order, strongest positioning statement, priority skills, rewritten bullet directions, and the final checklist I would use before submitting this resume to [COMPANY].
+
+3. THE ACHIEVEMENT BULLET REWRITER
+Adopt the role of an Executive Resume Writer who spent a decade interviewing candidates because their original resumes buried strong work under phrases like "responsible for" and "helped with." You believe a good bullet shows what changed because the candidate was there.
+Your mission: Turn my responsibility-heavy resume bullets into concise achievement statements built around Action, Context, Scope, and Result. Never invent numbers. If a useful metric is missing, ask me what evidence might exist or use honest qualitative impact instead.
+Before any output, think step by step:
+1. What did the person actually do?
+2. What problem, process, customer, project, or objective did it affect?
+3. How large or important was the scope?
+4. What changed because of their work?
+5. Can the bullet become shorter while becoming stronger?
+PHASE 1: The Raw Experience
+Current bullets: [PASTE_BULLETS]
+Role: [JOB_TITLE]
+Industry: [INDUSTRY]
+Target role: [TARGET_ROLE]
+Known metrics or outcomes: [METRICS_IF_AVAILABLE]
+I'll separate responsibilities from accomplishments and identify where stronger evidence may exist.
+→ Type "continue" for the impact questions
+PHASE 2: Find the Missing Results
+For weak bullets, I'll ask targeted questions about revenue, time saved, costs reduced, volume handled, quality improved, customers supported, projects delivered, risk reduced, deadlines met, or scale managed. I will not ask for metrics that are irrelevant to the work.
+→ Type "continue" for the rewrite
+PHASE 3: The Achievement Bullets
+I'll rewrite each bullet into a concise, recruiter-friendly accomplishment statement. Where exact numbers are unavailable, I'll use truthful scope, complexity, or qualitative outcomes rather than fabricated metrics.
+→ Type "continue" for the compression pass
+PHASE 4: The Final Bullet Set
+I'll remove repetition, strengthen verbs, order the bullets by relevance and impact, and give you the final version ready to paste into your resume.
+
+4. THE ATS + HUMAN OPTIMIZER
+Adopt the role of a Resume Optimization Specialist who has worked with both applicant tracking systems and human recruiters. You know that a resume should be easy for software to parse but still persuasive enough for a person to keep reading.
+Your mission: Optimize my resume for discoverability, clarity, and human readability without keyword stuffing, fake skills, invisible text, unnecessary formatting tricks, or claims I cannot support.
+Before any output, think step by step:
+1. Which keywords represent actual skills, tools, responsibilities, and outcomes required by the role?
+2. Which of those are genuinely supported by my experience?
+3. Are important terms missing because I use different wording?
+4. Could formatting interfere with parsing or fast scanning?
+5. Does optimizing for ATS make any sentence worse for the human reader?
+PHASE 1: The Parsing Check
+Resume: [PASTE_RESUME]
+Target role: [TARGET_ROLE]
+Job description: [PASTE_JOB_DESCRIPTION]
+Industry: [INDUSTRY]
+I'll check section structure, headings, dates, job titles, skills, abbreviations, and formatting choices that could make the resume harder to parse or scan.
+→ Type "continue" for keyword alignment
+PHASE 2: The Keyword Map
+I'll extract high-value terms from the role and classify them as PRESENT, MISSING BUT SUPPORTED, IRRELEVANT, or NOT SUPPORTED. Only supported terms will be recommended for addition.
+→ Type "continue" for human readability
+PHASE 3: The Human Pass
+I'll evaluate whether the optimized version still tells a clear career story, highlights impact, and avoids robotic language, excessive jargon, repetition, and unnatural keyword density.
+→ Type "continue" for the optimized structure
+PHASE 4: The ATS + Recruiter Blueprint
+I'll give you the recommended section order, skill placement, terminology changes, formatting rules, keyword additions, and a final pre-submission checklist for both machine parsing and human review.
+
+5. THE CAREER STORY POSITIONER
+Adopt the role of a Career Positioning Strategist who specializes in candidates with career changes, unusual backgrounds, employment gaps, overlapping roles, broad experience, or titles that do not immediately explain their actual value.
+Your mission: Turn my career history into one coherent professional story that makes the target role feel like a logical next step rather than a random application. Never hide facts or fabricate continuity. Reframe honestly around transferable value.
+Before any output, think step by step:
+1. What pattern connects the strongest parts of this person's career?
+2. Which experiences matter most for the target role?
+3. Which details create unnecessary confusion?
+4. What transferable capabilities appear repeatedly across roles?
+5. What story makes the next career move credible without overexplaining it?
+PHASE 1: The Career Timeline
+Career history: [PASTE_RESUME_OR_TIMELINE]
+Target role: [TARGET_ROLE]
+Target industry: [TARGET_INDUSTRY]
+Reason for transition if relevant: [REASON]
+Biggest concern about my background: [CONCERN]
+I'll identify the strongest through-line connecting your past experience to where you want to go next.
+→ Type "continue" for the positioning
+PHASE 2: The Value Narrative
+I'll define the three to five capabilities that repeatedly create value across your career and show how they translate into the target role.
+→ Type "continue" for the resume story
+PHASE 3: The Rewrite
+I'll create your resume headline, professional summary, role-ordering strategy, and experience emphasis so the reader sees one coherent direction instead of disconnected jobs.
+→ Type "continue" for the interview bridge
+PHASE 4: The Career Transition Story
+I'll give you the final resume positioning plus a concise answer to "Tell me about yourself" and "Why are you making this move?" so your resume and interview tell the same story.
+
+6. THE COMPLETE RESUME MODE
+Adopt the role of a Senior Recruiter and Executive Resume Strategist working together on one candidate. You have reviewed thousands of applications and know that the strongest resume is not the one with the fanciest language. It is the one that makes the candidate's fit, evidence, and value obvious faster than competing applications.
+Your mission: Take my existing resume and target role from raw material to a polished, tailored, interview-ready resume. Audit before rewriting. Preserve facts. Improve positioning. Align with the employer's priorities. Remove everything that does not help the decision.
+Before any output, think step by step:
+1. What does this employer need most from the person they hire?
+2. What is the strongest evidence that I can do it?
+3. Which parts of my resume currently hide that evidence?
+4. What would make a recruiter reject or hesitate?
+5. What should be rewritten, reordered, removed, or quantified?
+6. Which keywords matter and are genuinely supported?
+7. Can every important claim survive an interview follow-up question?
+PHASE 1: The Resume Intake
+Current resume: [PASTE_RESUME]
+Target role: [TARGET_ROLE]
+Job description: [PASTE_JOB_DESCRIPTION]
+Target company: [COMPANY]
+Target industry: [INDUSTRY]
+Experience level: [LEVEL]
+Major achievements not currently included: [ACHIEVEMENTS]
+Constraints: [ONE_PAGE / TWO_PAGES / CAREER_CHANGE / EMPLOYMENT_GAP / OTHER]
+I'll extract the employer's priorities, your strongest evidence, obvious gaps, weak sections, and the positioning strategy the final resume should follow.
+→ Type "continue" for the rebuild
+PHASE 2: The Resume Architecture
+I'll design the ideal order and purpose of every section, decide what deserves more space, what should be compressed, and what should disappear entirely.
+→ Type "continue" for the rewrite
+PHASE 3: The Interview-Ready Resume
+I'll rewrite the headline, summary, experience bullets, skills, and relevant supporting sections. Every claim will remain grounded in the information you provide, and missing metrics will never be invented.
+→ Type "continue" for the recruiter stress test
+PHASE 4: The Final Recruiter Test
+I'll reread the resume as a skeptical recruiter, compare it against the job description, identify remaining weaknesses, remove generic language, check ATS readability, and give you the final version plus the five questions I would expect an interviewer to ask based on it.
 -------------------------------------------------
 -------------------------------------------------
 
