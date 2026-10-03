@@ -257,7 +257,52 @@ Paste into Claude: "Here are my current job descriptions on my CV: [paste bullet
 Paste into Claude: "You are a recruiter who just received 200 CVs for this role: [paste JD]. You have 6 seconds per CV. Here is mine: [paste CV]. Tell me: (1) do you shortlist me or skip me in those 6 seconds and why, (2) what is the first thing that catches your eye, (3) what is the first thing that kills my chances, (4) what would make you call me immediately."
 
 -------------------------------------------------
+AI can be incredibly useful in a job search when it’s used to tailor a resume to the role, identify missing keywords, and communicate experience more clearly. The real advantage isn’t one magic prompt — it’s using AI strategically for each application.
+
+1/ Resume conversion fixer
+Prompt: Here is my resume: [paste]. rewrite it to maximize interview callbacks. use strong action verbs, quantified results, and ats-friendly formatting, without exaggeration.
+
+2/ Job description matcher
+Prompt: Job description: [paste]. resume: [paste]. identify missing keywords and rewrite my resume so it matches this role as closely as possible while staying honest.
+
+3/ Role fit finder
+Prompt: Based on my experience and skills: [paste], list 10 roles I'm qualified for that i might be overlooking. rank them by hiring demand and response likelihousd.
+
+5/ Cover letter personalizer
+Prompt: Write a short, tailored cover letter for this role: [paste job description]. make it sound human, confident, and specific, not generic or ai-written.
+
+4/ Bullet point upgrader
+Prompt: Rewrite these resume bullet points: [paste]. make them clearer, more results-focused, and more impressive to recruiters in under 2 lines each.
+
+6/ Recruiter hook message
+Prompt: Write a concise linkedin or email message to a recruiter for this role: [paste]. the goal is to spark interest and get a reply, not ask for a favor.
+
+7/ Application optimizer
+Prompt: Based on my background and target roles: [paste], create a smarter application strategy. tell me how many roles to apply for weekly, how to customize efficiently, and how to follow up.
+
 -------------------------------------------------
+How to use Claude to find job roles with 7 prompts
+
+1. Hidden Role Finder
+"Go through my CV and list 15 job titles my experience already qualifies me for, including ones outside my current industry. Rank them by how well I fit, pay potential, hiring demand, and how hard each is to break into."
+
+2. Transferable Skills Translator
+"Pull out every transferable skill in my CV. For each one, tell me which industries, departments and job titles value it, and point to the experience that proves I can do it."
+
+3. Qualification Gap Analyzer
+"Compare my CV against this role: [paste job description]. Split the requirements into what I already meet, what I partly meet, and what I am missing, then give me the fastest way to cover the ones that matter."
+
+4. Career Pivot Mapper
+"Build 5 realistic career pivots from my CV. For each, give the entry role, the experience that carries over, the skills I lack, projects that would prove them, a likely pay range, and a 30 day plan to start."
+
+5. Best Fit Industry Scanner
+"Based on my experience, name 10 industries where my skills would be worth something. Rank them by hiring demand, pay, remote options, room to grow, and how easily I could move in without starting from zero."
+
+6. Positioning Rewriter
+"Rewrite my professional summary and experience bullets for this direction: [target role]. Lead with the relevant achievements and the language that industry uses. Do not invent anything I have not done."
+
+7. Search Strategy Builder
+"Using my CV and those target roles, write me a 30 day job search plan. Job titles to search, keywords to use, types of company to target, how many applications a week, who to contact, and weekly checkpoints."
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
