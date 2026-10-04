@@ -1,0 +1,96 @@
+
+
+-------------------------------------------------
+Harvard Professor Explains The Rules of Writing — Steven Pinker 
+https://www.youtube.com/watch?v=nBQPnvmaNcE
+
+In this interview hosted by David Perell, cognitive scientist and Harvard professor Steven Pinker breaks down why most writing is poor, how cognitive science explains clear communication, and how human thought differs from Large Language Models (LLMs).
+Key Takeaways from Steven Pinker
+1. The "Curse of Knowledge" is the Main Cause of Bad Writing
+
+    Why bad writing happens: Bad writing is rarely caused by deliberate obfuscation or arrogance [00:54]. Instead, it stems from the Curse of Knowledge—the cognitive difficulty of imagining what it is like not to know something you already know [03:03].
+
+    The fix: Show your drafts to real human readers outside your immediate niche [05:07]. You cannot reliably detect your own subject-matter blind spots [04:54].
+
+2. Writing Must Be Concrete & Visual
+
+    Sensory groundings: Language is merely a vehicle to trigger visual, sensory, or conceptual models in the reader's mind [08:09].
+
+    Avoid over-abstraction: Words like stimulus, framework, or paradigm cannot be visualized [08:49]. Replace floating abstractions with concrete examples (e.g., using "bunny rabbit" instead of "stimulus") [03:49].
+
+3. Generalizations vs. Examples
+
+    Generalizations without examples are too vague to be meaningful, while examples without generalizations lack purpose [14:27].
+
+    Effective communication balances compression (general principles) with context (concrete examples) [15:37].
+
+4. The Craft: Rhythm, Sound, and Brevity
+
+    Read aloud: Good prose relies on natural rhythm and meter; reading your work out loud helps identify awkward phrasing or heavy sibilance [21:00].
+
+    "Omit needless words": Trimming text forces clearer, more direct language and reduces the cognitive processing load on the reader [29:40].
+
+    Humor & Wit: Wit and humor depend on brevity and freshness [32:17].
+
+5. On AI & Large Language Models (LLMs)
+
+    LLM writing style: LLM output is structurally sound and clear, but often feels generic and prosaic because it functions as an aggregate (a "mashup") of web text [38:40].
+
+    Human learning vs. AI: LLMs require trillions of tokens of text to learn, whereas human children acquire language naturally by being situated in a physical world and interacting with other people using context [42:33].
+
+
+-------------------------------------------------
+In his book The Sense of Style and various lectures on non-fiction writing, Steven Pinker highlights that the Curse of Knowledge—the cognitive inability to imagine what it’s like not to know something you know—is the single biggest barrier to clear technical writing.
+
+To overcome this psychological trap, Pinker recommends several concrete editing strategies:
+1. Perform a "Reverse Engineering" Pass (Draft vs. Revise)
+
+    Separate discovery from presentation: When drafting, experts think chronologically through their internal research or discovery process. During editing, reverse this structure: lead with the core insight, problem, or takeaway, and then introduce necessary supporting details.
+
+    Avoid "Zombie Nouns" (Nominalizations): Technical writers frequently turn active verbs into abstract nouns (e.g., using "implementation of the methodology was conducted" instead of "we implemented the method"). Look for words ending in -ation, -ment, or -ance and convert them back into active verbs with clear subjects doing the action.
+
+2. Concrete Grounding & Visualizing (The Reader's Mental Model)
+
+    The "Bunny Rabbit Rule": Inspect every abstract term, framework, or variable in your manuscript. Check whether a non-expert can visualize what is physically happening. If you use floating abstractions like "stimulus intensity", balance them immediately with a sensory example (e.g., "how long a child looks at a bright toy").
+
+    Unpack Chunks (Downscaling Abstractions): Technical expertise works by "chunking"—packing complex concepts into shorthand labels. When editing, identify jargon or acronyms that compress multiple ideas into one word, and explicitly unpack what is inside those chunks for the reader.
+
+3. The "Flesh-and-Blood" Reader Audit
+
+    Never rely on self-empathy alone: Pinker notes that because you cannot un-know what you know, trying to "imagine being a novice" is inherently flawed.
+
+    Test on an adjacent non-peer: Show your draft to a smart, curious reader who is outside your immediate subdiscipline (for instance, showing a molecular biology paper to an economist or an intelligent non-specialist). If they stumble or ask for clarification, edit that section immediately—do not assume they "just need to catch up."
+
+4. Explicit Signposting and Coherence
+
+    Explicify implicit logical connections: Experts often skip step-by-step transitions because the logical bridge between Topic A and Topic B is obvious in their own minds. Use explicit logical connectives ("because", "however", "for example", "as a result") to guide the reader through the argument.
+
+    Keep topic and focus clear (Given before New): Structure sentences so that they start with "given" information (concepts already introduced) and end with "new" information. This helps technical readers anchor new technical data onto a foundation they already understand.
+
+-------------------------------------------------
+Key Summary of Pinker's Editing Checklist
+
+----------------------------------------------------------------------------------
+Editing Focus|Common Technical Trap                     |Pinker's Strategic Fix
+----------------------------------------------------------------------------------
+Terminology  |Undefined acronyms & heavy jargon         |Unpack shorthand "chunks" into concrete visual examples
+Verbs        |Passive voice & zombie nouns (-ation)     |Use active verbs with clear agents taking action
+Logic Flow   |Missing transitions between complex steps |Add explicit logical connectors (because, therefore, for instance)
+Feedback     |Assuming self-editing is sufficient       |Get feedback from a smart reader outside your specific field
+----------------------------------------------------------------------------------
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
+
+
+
+
+
+
