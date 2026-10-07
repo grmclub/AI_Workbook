@@ -1,0 +1,28 @@
+
+-------------------------------------------------
+🚨 7 NotebookLM prompts for creating clear, educational infographics:👇👇
+
+1️. Summarize a Topic
+"Using only my selected sources, create a clear infographic about [TOPIC] for [AGE/GRADE/LEVEL]. Highlight the main takeaway, key concepts, facts, and examples. Use concise headings, brief text, logical flow, and helpful visuals. Keep it clean, readable, and uncluttered. Do not add unsupported information. Verify all content against my sources."
+
+2️. Explain a Concept
+"Using only my selected sources, create an infographic explaining [CONCEPT] in [SUBJECT] for [AGE/GRADE/LEVEL]. Break it into essential parts and show their connections. Use concise headings, brief explanations, and relevant diagrams or concept maps. Keep it simple and readable. Do not add unsupported information. Verify the content against my sources."
+
+3️. Visualize a Process
+"Using only my selected sources, create an infographic showing [PROCESS/SEQUENCE/CYCLE/TIMELINE] for [AGE/GRADE/LEVEL]. Show every essential stage in the correct order using concise labels, arrows, and relevant visuals. Keep it clear and easy to follow. Do not add unsupported information. Verify every stage against my sources."
+
+4️. Compare Two Topics
+"Using only my selected sources, create an infographic comparing [TOPIC A] and [TOPIC B] in [SUBJECT] for [AGE/GRADE/LEVEL]. Highlight the key similarities, differences, and features using a suitable layout such as side-by-side sections, a chart, or Venn diagram. Keep it concise and readable. Do not add unsupported information. Verify every comparison against my sources."
+
+5️. Show Connections
+"Using only my selected sources, create an infographic showing the relationships among [KEY IDEAS/CONCEPTS] in [SUBJECT] for [AGE/GRADE/LEVEL]. Show connections such as cause and effect, hierarchy, classification, or part and whole. Use concise labels and appropriate diagrams or connecting lines. Keep it clear and uncluttered. Do not add unsupported information."
+
+6️. Visualize Data and Facts
+"Using only my selected sources, create an infographic showing the key data, statistics, facts, and patterns about [TOPIC] for [AGE/GRADE/LEVEL]. Use appropriate charts, graphs, icons, and concise labels. Make the information easy to understand without changing its meaning. Do not add unsupported data. Verify all numbers and visuals against my sources."
+
+7️. Create a Revision Infographic
+"Using only my selected sources, create a revision infographic for [TOPIC/UNIT] in [SUBJECT] for [AGE/GRADE/LEVEL]. Include the essential concepts, key terms, facts, formulas, processes, and relationships students need to remember. Group related information clearly and use helpful visuals. Keep it concise and easy to review. Do not add unsupported information."
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
