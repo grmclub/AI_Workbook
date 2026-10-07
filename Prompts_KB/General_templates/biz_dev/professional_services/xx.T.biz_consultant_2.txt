@@ -294,13 +294,43 @@ Here’s your assignment:
 - Surface opportunities and recommend 3 clear go-to-market plays
 - Present this like a slide deck: bolded titles, bullet summaries, clear insights
 Write in the voice of a calm, hyper-logical expert who charges $5,000/hr.
-Start with a summary box. Then show insights grouped by slide title (like: “Slide 1: Market Overview”, “Slide 2: Key Trends”, etc.). Loop until the slides are McKinsey-level and each stated fact is verified.
+Start with a summary box. Then show insights grouped by slide title (like: "Slide 1: Market Overview", "Slide 2: Key Trends", etc.). Loop until the slides are McKinsey-level and each stated fact is verified.
 Market focus: [INDUSTRY/SECTOR]"
 
 You’re not replacing McKinsey with fluff.
 You’re replacing them with structured reasoning, logic, and fast iteration at zero cost.
 Welcome to the end of overpriced slides.
 -------------------------------------------------
+BREAKING: Claude can now craft business plans with the strategic depth and rigor of a McKinsey engagement. ♠️
+Here are 8 must-use prompts every founder should run before launching: 👇🏻
+
+It compresses years of learning and researching and industry into days. You still have to execute and validate the information it gives you
+
+1 — One-Page Business Plan
+"Act as a sharp business strategist. I’m considering this business idea: [DESCRIBE IDEA]. Turn it into a practical one-page business plan covering the problem worth solving, ideal customer, solution, revenue model, competitive edge, and a focused 90-day action plan. Challenge weak assumptions, keep the strategy realistic, and prioritize what I should actually do first. Make it clear enough to understand in minutes and practical enough to start executing today."
+
+
+2 — Market Validation Report
+"Act as a brutally honest market analyst. My business idea is [DESCRIBE IDEA] and my target audience is [TARGET AUDIENCE]. Evaluate whether there is a real opportunity here. Estimate the market potential, identify the 3 strongest competitors, explain where they fall short, and uncover the most valuable gap I could realistically own. Don’t tell me what I want to hear. Give me a clear verdict: build it, reposition it, or walk away — and explain why."
+
+3 — Revenue Model Designer
+"Act as a practical startup CFO. My business is [DESCRIBE BUSINESS]. Design 3 realistic ways to make money from it: subscription, one-time purchase, and hybrid. For each, explain exactly how customers pay, suggest a realistic price, estimate potential first-month revenue, calculate the path to break-even, and highlight the biggest financial trade-off. Then compare all three and recommend the model with the best balance of profitability, scalability, and customer appeal."
+
+4 — Go-To-Market Blueprint
+"Act as a hands-on growth strategist. My business is [DESCRIBE BUSINESS] and my target customer is [TARGET CUSTOMER]. Build a realistic plan to get my first 10 paying customers without wasting money on tactics that don’t fit my business. Identify the fastest acquisition channels, define a clear positioning statement, write the core message I should use to attract customers, and give me a step-by-step action plan. Also identify the one mistake early-stage founders commonly make that could cost me months."
+
+5 — Competitor Teardown
+"Act as a sharp competitive strategist. My business is [DESCRIBE BUSINESS]. Analyze my 5 most important competitors across their offer, pricing, positioning, strengths, weaknesses, customer appeal, and competitive advantages. Look beyond obvious differences and identify what customers are still not getting from them. Then show me where I can create a stronger offer, position myself differently, and give customers a compelling reason to choose me instead. Be specific, not generic."
+
+6 — Financial Projections Builder
+"Act as a practical startup CFO. My business is [DESCRIBE BUSINESS]. Build a realistic 12-month financial model showing monthly revenue, operating expenses, cash burn, and expected break-even. Clearly state the assumptions behind every major number instead of presenting unrealistic forecasts as facts. Identify the 3 assumptions that matter most, stress-test each one with conservative and optimistic scenarios, and explain exactly how those changes would affect my cash position and overall outlook."
+
+8 — Investor Pitch Summary
+"Act as an experienced startup pitch coach. My business is [DESCRIBE BUSINESS]. Write a compelling 300-word investor summary that clearly explains the problem, solution, market opportunity, business model, traction, team, and funding ask. Make the story feel credible and human, not like corporate marketing. Highlight why this business matters now, what makes it different, and why it has the potential to grow. Cut vague claims and unnecessary buzzwords, and finish with a strong closing that gives an investor a reason to take the next meeting."
+
+7 — Risk Assessment Report
+"Act as a senior business risk advisor. My business idea is [DESCRIBE IDEA]. Identify the 5 risks most likely to seriously hurt the business across demand, execution, finances, legal issues, and competition. For each risk, rate its likelihood and potential impact, explain what could trigger it, and give me a practical way to reduce or test the risk before spending significant money. Rank the risks from most dangerous to least dangerous and tell me what I should address first."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
