@@ -1,0 +1,31 @@
+
+
+-------------------------------------------------
+🚨 BREAKING: Claude can now teach you GUITAR from zero like a $90/hour music teacher. For free.
+These 7 prompts take you from first chord → full song:
+
+1/ The Guitar Learning System
+"Act as a patient guitar teacher for adult beginners. Build a complete twelve week plan for me to play songs I love. Analyze my guitar type, my practice time per day, my favorite songs, and my hand comfort. Design weekly goals, short daily sessions, the chords in learning order, strumming patterns, and a first song for each month."
+
+2/ The First Chords Coach
+"Act as a guitar coach. Teach me my first four chords: [chords]. For each one, describe finger placement string by string, the most common mistake, how to fix buzzing, and a one minute drill. Then design a switching exercise between all four, a simple strumming pattern to practice with, and how I know I am ready to move on."
+
+3/ The Song Simplifier
+"Act as a music arranger for beginners. Take this song: [song and artist]. Analyze its chords, its strumming feel, its tempo, and the hardest part for a beginner. Design an easy version with simple chord swaps, a strumming pattern I can manage, a slowed practice plan by section, and the order to learn the parts so I can play it through."
+
+4/ The Practice Tracker
+"Act as a practice coach who keeps beginners consistent. Build my weekly practice tracker. Analyze my goals, my schedule, the songs I am learning, and what I struggle with. Design a daily log with warm up, technique, and song time, a weekly self check with five questions, small milestones to celebrate, and a plan for days I only have five minutes."
+
+5/ The Rhythm Trainer
+"Act as a rhythm coach for guitarists. Train my timing from scratch. Analyze my current problem, whether I rush, drag, or lose the beat when changing chords. Design five strumming patterns from easy to hard, a metronome plan with starting speeds, counting out loud exercises, and a test song for each pattern so I can hear my progress."
+
+6/ The Ear Training Plan
+"Act as an ear training teacher. Build a plan to help me pick out songs by ear. Analyze my level, the music I listen to, how much theory I know, and my practice time. Design weekly listening exercises, how to find the key of a song, how to hear chord changes, simple melody drills, and three songs to try figuring out alone."
+
+7/ The First Performance Plan
+"Act as a performance coach for nervous beginners. Help me play one full song for friends or on video. Analyze the song, my weak sections, my nerves, and the setting. Design a two week rehearsal plan, a run through routine, tricks to recover from mistakes without stopping, a warm up before playing, and how to record a clean take on my phone."
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
