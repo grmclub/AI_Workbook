@@ -400,5 +400,41 @@ My work:
 
 
 -------------------------------------------------
+🚨 BREAK!NG: NotebookLM can turn your teaching resources into ready-to-use lessons.
+7 prompts every teacher needs to save 👇
+
+
+1. Create a Complete Lesson Plan
+Prompt:
+“Using only the teaching materials I have uploaded, create a complete, classroom-ready lesson plan for [insert subject/topic]. Tailor the lesson to [insert student age group], [insert grade or proficiency level], and a class duration of [insert time]. Include clear learning objectives, a warm-up activity, step-by-step instruction, guided practice, independent or collaborative practice, checks for understanding, and a closing activity. Recommend appropriate teaching strategies and specify the materials needed for each stage. Organize the lesson in a clear sequence with suggested timings, and ensure all activities directly support the learning objectives. Do not introduce content that is not supported by my uploaded materials.”
+
+2. Explain Difficult Concepts Clearly
+Prompt:
+“Using only the teaching materials I have uploaded, create a clear, student-friendly explanation of [insert concept] for [insert student age group] at [insert grade or proficiency level]. Break the concept into simple, manageable steps while preserving its essential meaning. Use appropriate examples, analogies, and visual explanation ideas supported by the materials to make the concept easier to understand. Anticipate likely misconceptions or areas of difficulty, explain how I can address them in class, and include several questions I can use to check students’ understanding. Do not introduce content that is not supported by my uploaded materials.”
+
+3. Create Engaging Classroom Activities
+Prompt:
+“Using only the teaching materials I have uploaded, create engaging classroom activities for [insert subject/topic] suitable for [insert student age group] at [insert grade or proficiency level]. Design activities that actively involve students in understanding, practicing, and applying the key concepts from the materials. Include a balanced mix of individual, pair, and group activities where appropriate, with clear instructions, learning objectives, suggested timings, and materials needed. Incorporate opportunities for discussion, problem-solving, collaboration, and practical application. Include a simple way to check students’ understanding after each activity, and ensure every activity directly supports the intended learning outcomes. Do not introduce content that is not supported by my uploaded materials.”
+
+4. Differentiate a Lesson for Different Learners
+Prompt:
+“Using only the teaching materials I have uploaded, adapt a lesson on [insert subject/topic] for [insert student age group] with different levels of readiness and ability. Create differentiated versions of the lesson activities for students who need additional support, students working at the expected level, and students who are ready for greater challenge. Adjust the level of complexity, scaffolding, instructions, tasks, and expected outcomes while keeping all students focused on the same core learning objectives. Include practical support strategies, extension activities, and appropriate ways to assess understanding for each group. Ensure the differentiated activities remain manageable within the same classroom and do not introduce content that is not supported by my uploaded materials.”
+
+5. Identify Potential Learning Gaps
+Prompt:
+“Using only the teaching materials I have uploaded, analyze the content on [insert subject/topic] for [insert student age group] at [insert grade or proficiency level] and identify concepts, prerequisite knowledge, skills, or connections that students may find difficult, misunderstand, or fail to master. For each potential learning gap, explain why it may cause difficulty, identify the signs I should look for in students’ responses or performance, and suggest targeted teaching strategies, scaffolded activities, and questions I can use to address it. Prioritize the gaps that are most likely to affect students’ understanding of subsequent concepts, and include practical ways to check whether each gap has been successfully addressed. Do not introduce content that is not supported by my uploaded materials.”
+
+6. Create a Complete Classroom Assessment
+Prompt:
+“Using only the teaching materials I have uploaded, create a comprehensive classroom assessment for [insert subject/topic] suitable for [insert student age group] at [insert grade or proficiency level]. Design a balanced range of questions and tasks that assess students’ knowledge, understanding, application, and higher-order thinking where appropriate. Include multiple-choice questions, short-answer questions, application-based tasks, and extended-response questions, with clear instructions and suggested marks for each section. Align every question with the key learning objectives and content in the uploaded materials, and vary the level of difficulty to provide an accurate picture of student learning. Provide a complete answer key, model answers or scoring criteria where appropriate, and brief guidance for interpreting students’ performance and identifying areas that may require further teaching. Do not introduce content that is not supported by my uploaded materials.”
+
+7. Turn Teaching Materials into an Audio Learning Resource
+Prompt:
+“Using only the teaching materials I have uploaded, create an engaging Audio Overview for [insert subject/topic] suitable for [insert student age group] at [insert grade or proficiency level]. Turn the key content into a clear, student-friendly audio discussion that students can use to learn, review, or reinforce the lesson. Focus on the most important concepts, explanations, examples, and connections among ideas, and present them in a logical sequence that is easy to follow through listening alone. Adapt the language and depth of explanation to the students’ age and level, clarify difficult concepts where supported by the materials, and emphasize the key points students should understand and remember. Keep the discussion focused, engaging, and appropriate for independent listening before or after class. Do not introduce content that is not supported by my uploaded materials.”
+
+
+
+-------------------------------------------------
+-------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
