@@ -235,6 +235,31 @@ The next time you face a daunting algorithm, don't just reach for the solution. 
 
 Use this prompt to turn your AI into the patient, visual, deep-diving tutor you wish you had in college. Because the goal isn't just to get the code to run. The goal is to verify that you are the one running the logic, not just the machine.
 -------------------------------------------------
+🚨Stop Telling Claude "Build me a dashboard."
+Weak prompts = Generic dashboards & AI slop.
+Use these 7 prompts instead and build dashboards that actually look premium: 👇👇
+
+1. 30-Minute Dashboard Blueprint
+"Act as a premium UI design specialist. I want a dashboard for [MY APP OR PRODUCT] that looks like a $30,000 SaaS build, created in 30 minutes. Design a complete blueprint covering the layout, data visualization style, component hierarchy, and exact build sequence. Prioritize a polished, cohesive, production-ready result."
+
+2. Animated Chart Builder
+"Act as a data visualization specialist. I want animated charts for [MY METRIC] on my dashboard. Build them completely with production-ready code, smooth entrance animations, responsive sizing, clean transitions, and a polished visual style that feels native to a premium SaaS product."
+
+3. Premium Dark-Mode Dashboard
+"Act as a UI design specialist. I want my [PRODUCT] dashboard redesigned in a premium dark mode with excellent contrast and visual hierarchy. Design the complete system, including the exact color palette, typography, surfaces, borders, cards, buttons, charts, and component styling."
+
+4. Smooth Sidebar Navigation
+"Act as a UX specialist. I want a collapsible sidebar navigation for [MY DASHBOARD] that feels smooth, intuitive, and polished rather than clunky. Build it completely, including the interaction behavior, transitions, responsive states, active states, accessibility considerations, and production-ready code."
+
+5. Intentional Empty-State Designer
+"Act as a UX specialist. I want the empty states for [FEATURE] in my dashboard to feel intentional and useful rather than broken or unfinished. Design the complete experience, including the exact copy, hierarchy, visuals, primary action, secondary action, and overall visual treatment."
+
+6. Skeleton Loading Builder
+"Act as a perceived-performance specialist. I want skeleton loading states for [MY DASHBOARD] instead of blank screens or generic spinners. Build them completely with production-ready code, realistic content placeholders, smooth transitions, responsive behavior, and timing that makes the interface feel fast and polished."
+
+7. Premium Dashboard Master Map
+"Act as a senior dashboard design and development specialist. Map my complete 30-minute dashboard build for [MY APP OR PRODUCT], covering the layout, component hierarchy, charts, dark mode, navigation, loading states, and key interactions. Give me the exact build sequence and a realistic assessment of how premium the final result can look within the time limit."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
