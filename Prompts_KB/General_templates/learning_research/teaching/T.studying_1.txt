@@ -106,5 +106,36 @@ My work:
 [PASTE WORK]"
 
 -------------------------------------------------
+##7 AI PR0MPTS EVERY STUDENT NEEDS
+Research smarter.Remember more.
+
+1. The Concept Teacher 🎯
+"Teach me [TOPIC] from the basics. Explain it simply, then build toward advanced concepts. Give me one example and ask me 3 questions to test my understanding."
+
+2. The Research Assistant 🔬
+"Help me research [TOPIC]. Give me key concepts, useful search terms, important questions, and reliable source types. Never invent sources."
+
+3. The Active-Recall Coach 🧠
+"Create 10 active-recall questions from these notes. Mix definitions, why/how, comparisons, and applications. Hide the answers until I ask."
+
+
+4. The Practice Coach 📝
+"Give me 5 practice problems on [TOPIC], from easy to hard. Let me solve each one before showing the solution. Then explain my mistakes."
+
+5. The Writing Coach ✍️
+"Review my draft for clarity, structure, grammar, and logical gaps. Tell me what to improve and why. Don't rewrite it for me."
+
+6. The Coding Mentor 💻
+"Help me solve [PROBLEM] without giving me the full answer. Give me hints, question my approach, and teach me the concept behind the solution."
+
+7. The Weekly Planner 📅
+"Create a balanced weekly study plan for [SUBJECTS] based on my [DEADLINE] and [HOURS] of daily study time."
+
 -------------------------------------------------
 -------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
