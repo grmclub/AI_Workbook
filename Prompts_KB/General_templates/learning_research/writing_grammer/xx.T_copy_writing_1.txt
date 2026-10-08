@@ -1,0 +1,139 @@
+
+-------------------------------------------------
+## CHATGPT JUST BECAME YOUR COPY EDITOR
+Trim weak lines, fix messy copy, research faster, and find new angles.
+It can also upgrade CTAs, study rivals, and help you A/B test smarter.
+Here are the exact ways to use it 👇
+
+1/ How to Use ChatGPT to Improve Your Copy with 7 practical copywriting uses
+ChatGPT is best as a copy assistant, not a magic writer.
+Use it to:
+→ tighten what you already wrote
+→ find gaps and mistakes
+→ generate structured options fast
+Rule:
+Give ChatGPT a clear goal, a target audience, and a format.
+Checkpoint: If you do not provide the audience and offer, the output will sound generic.
+
+2/ Use 1: Trim your copy without losing meaning
+Goal:
+→ Make copy shorter, clearer, more scannable
+Focus on:
+→ removing repeats, filler, and long sentences
+→ keeping only the strongest claims
+Prompt:
+Trim this copy by 30%. Keep the meaning, keep the tone, keep all key benefits. Use short sentences and 1 to 2 line paragraphs:
+[paste]
+Checkpoint:
+→ Compare before vs after and verify no benefit or proof was deleted.
+
+3/ Use 2: Fix errors and improve clarity
+Goal:
+→ Clean grammar, simplify words, strengthen flow
+Focus on:
+→ active voice
+→ simple words
+→ logical order
+Prompt:
+Edit this copy for clarity and correctness. Use active voice, simple words, and short sentences. Keep the original message and tone:
+[paste]
+Checkpoint:
+→ Read it out loud. If you stumble, shorten the sentence.
+
+4/ Use 3: Conduct research for better hooks and claims
+Goal:
+→ Get buyer language, objections, and angles
+Focus on:
+→ pains, desired outcomes, fears, alternatives
+Prompt:
+I sell [offer] to [audience]. List:
+top 10 pains in their words
+top 10 desired outcomes
+top 10 objections
+Then write 10 hook ideas using those phrases.
+Checkpoint:
+→ Replace any vague phrase with a real example or number.
+
+5/ Use 4: Generate ideas for angles, headlines, and structure
+Goal:
+→ Create more creative options without starting over
+Focus on:
+→ different angles: speed, simplicity, risk removal, proof, contrarian
+Prompt:
+Generate 15 angles for this offer. For each:
+headline
+core promise
+3 bullets
+Offer: [paste]
+Audience: [paste]
+Checkpoint:
+→ Pick 3 angles and test them before writing 15 more.
+
+6/ Use 5: Improve calls-to-action that people actually click
+Goal:
+→ Make the next step obvious and low friction
+Focus on:
+→ one action, one benefit, one risk reducer
+Prompt:
+Write 20 CTAs for this page/post.
+Constraints:
+max 8 words each
+mix soft and direct CTAs
+include 5 with a risk reducer (free, cancel anytime, no spam)
+Context: [audience + offer + goal]
+Checkpoint:
+→ Your CTA should match intent. Do not push “buy now” to cold traffic.
+
+7/ Use 6: Study competitors without copying
+Goal:
+→ Find positioning gaps and messaging opportunities
+Focus on:
+→ what they claim, what they avoid, what proof they use
+Prompt:
+Analyse these competitor homepages. Output:
+their main promise
+their USP
+their proof style
+what is missing
+Then propose 5 positioning angles I can own.
+Text:
+[competitor copy pasted]
+Checkpoint:
+→ Only use insights. Never copy phrases.
+
+8/ Use 7: A/B test variations for hooks, bullets, and offers
+Goal:
+→ Produce many on-brand variations quickly
+Focus on:
+→ changing one variable at a time
+Variables to test:
+→ headline
+→ first 2 lines
+→ bullet order
+→ CTA wording
+Prompt:
+Create 10 variations of this headline.
+Rules:
+keep the same meaning
+change the wording and structure
+write 5 punchy and 5 curiosity-driven
+Headline: [paste]
+Checkpoint:
+→ Test with real data. Pick a metric (CTR, reply rate, conversion) and run the winner.
+
+9/ A simple workflow to use every time
+Do this for any copy:
+→ Draft it yourself in rough form
+→ Use ChatGPT to trim and clean
+→ Ask for 10 hooks and 10 CTAs
+→ Generate 5 variations for A/B testing
+→ Keep a swipe file of winners in Notion
+Final checkpoint:
+If the copy does not clearly say who it is for, what they get, and what to do next, rewrite those lines first.
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
