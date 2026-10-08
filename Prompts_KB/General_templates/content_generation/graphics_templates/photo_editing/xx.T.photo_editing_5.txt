@@ -1,0 +1,44 @@
+
+-------------------------------------------------
+##Chatgpt image prompts
+
+1. The Style Stacker:
+"in the style of [Pixar + Studio Ghibli + ultra realistic], 8K, cinematic lighting, highly detailed"
+Stacking 2-3 styles makes it look 10x more expensive.
+
+2. The Camera Command:
+"Shot on Sony A7R IV, 85mm lens, f/1.8, shallow depth of field, bokeh background"
+This is how you get that professional DSLR look.
+
+3. The No-AI Look Command:
+"-- No cartoon, no plastic skin, no fake smile, no extra fingers, keep it natural and human"
+This removes the AI weirdness instantly.
+
+4. The Lighting Hack:
+"Golden hour lighting, soft shadows, volumetric light, ultra photorealistic"
+Lighting = 80% of a good image. This command alone fixes bad images.
+
+5. The Aspect Ratio Trick:
+"Vertical portrait 9:16, full body, centered subject, blank space at top for text"
+Perfect for Reels covers, Pinterest, and thumbnails.
+
+6. The Consistency Command:
+"Same character, same face, same clothes, same style across all images -- seed 4242"
+Use this if you want the same person in 30 different images.
+
+7. The Viral Poster Command:
+"Minimalist poster style, bold typography, negative space, award-winning design, trending on Behance"
+Makes any quote or idea look like a $500 design.
+Copy one of these and paste it at the END of your normal prompt.
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
