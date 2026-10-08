@@ -52,6 +52,27 @@ Audit my typical day [PASTE YOUR SCHEDULE]. Show me where I leak 3+ hours daily,
 Build me a 30-day protocol to become completely unrecognizable. Physically, mentally, financially. Daily non-negotiables, weekly checks, rules that scare me. Make it so intense my friends won't recognize me in 30 days.
 
 -------------------------------------------------
+Here are 6 prompts to see it, question it, and wipe what you want gone: 🔒
+🔖 Save this. Send it to someone who tells ChatGPT everything. 
+
+1/ The Full Memory Pull
+"Act as a privacy auditor reviewing your own memory. List everything you currently remember about me across our chats: my work, my habits, my relationships, my health, my money, and my plans. Then list every pattern or preference you have inferred about me without me saying it. Show both lists plainly, grouped by topic, with no summary and nothing left out."
+
+2/ The Inference Check
+"Look at everything you have inferred about me rather than been told. For each inference, show what you guessed, the chats it came from, how confident you are, and how it changes the answers you give me. Mark the ones that could be wrong or unfair, and ask me which ones I want you to stop using from now on."
+
+3/ The Selective Wipe
+"I want to remove specific things you remember about me. Walk me through every memory you hold about my health, my finances, my family, and my location, one item at a time. For each item, tell me exactly how to delete it in my settings, and confirm what you will no longer bring up in future chats."
+
+4/ The Yes Man Audit
+"Review our recent conversations and find the moments you agreed with me too easily. Show me where you softened bad news, praised weak ideas, or skipped a risk I should have heard. For each case, give me the honest answer you held back, and set a rule for how you will push back on me from now on."
+
+5/ The Data Boundary Setup
+"Help me set clear boundaries for what you keep about me. Ask me which topics are off limits, which details you may remember, how long they should stay, and which chats should never shape your answers. Then write the exact custom instructions I should paste into my settings, plus a short checklist to review them every month."
+
+6/ The Clean Slate Reset
+"I want a fresh start with you. List what a full reset would erase: saved memories, inferred preferences, custom instructions, and patterns from old chats. Explain what I would lose and what would improve. Then give me a step by step reset plan, the first five facts worth teaching you again, and the ones to leave out for good."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------

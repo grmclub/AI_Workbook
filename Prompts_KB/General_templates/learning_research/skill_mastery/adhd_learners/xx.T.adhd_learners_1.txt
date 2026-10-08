@@ -1,0 +1,44 @@
+
+-------------------------------------------------
+7 ChatGPT prompts to help teachers adapt lessons for different ability levels
+🚨 STOP TEACHING EVERY STUDENT THE SAME WAY.
+These 7 ChatGPT prompts help teachers adapt any lesson to different ability levels, simplify difficult concepts, add scaffolding, and challenge advanced learners. 👇
+
+
+1️. Adapt a Lesson for Different Readiness Levels
+Prompt:
+"Adapt my lesson on [topic] in [subject] for [grade/level] students with different levels of readiness. Keep the same core learning objective [objective], but create three appropriately challenging versions of the lesson or task: one for students who need additional support, one for students working at the expected level, and one for students ready for greater challenge. Adjust the complexity, amount of guidance, examples, questions, and level of independence rather than simply giving students more or less work. Clearly describe what students will do at each level, what support or scaffolding they will receive, and what successful learning should look like. Ensure that all three versions address the same essential knowledge or skill and provide meaningful opportunities for every student to make progress."
+
+2️. Simplify Difficult Content Without Losing Key Ideas
+Prompt:
+"Simplify a difficult lesson, text, explanation, or concept about [topic] in [subject] for [grade/level] students who may struggle to understand the original content. Preserve the essential knowledge, key concepts, important terminology, and learning objective [objective], while making the content easier to understand. Break complex ideas into smaller, manageable parts, use clear and age-appropriate language, explain unfamiliar terms, and provide concrete examples, analogies, or visuals where helpful. Reduce unnecessary complexity without oversimplifying the subject or removing information students need to meet the learning objective. Identify the ideas that must remain unchanged for accuracy, and finish with a short check for understanding to confirm that students have grasped the essential concepts."
+
+3️. Add Scaffolding for Students Who Need Support
+Prompt:
+"Add appropriate scaffolding to my lesson on [topic] in [subject] for [grade/level] students who need additional support in achieving the learning objective [objective]. Identify the parts of the lesson or task that are likely to be challenging and provide targeted support without reducing the essential learning expectations. Use strategies such as breaking tasks into manageable steps, modeling, worked examples, guiding questions, sentence starters, checklists, visual aids, vocabulary support, or partially completed examples where appropriate. Clearly explain when and how each scaffold should be used, and distinguish between support that all students may benefit from and support intended for students who need additional help. Include suggestions for gradually reducing the scaffolding as students become more confident and independent. Ensure that the support helps students access the same core learning rather than replacing the thinking or work they need to do themselves."
+
+4️. Create Tiered Activities
+Prompt:
+"Create three tiered versions of an activity for teaching [topic] in [subject] to [grade/level] students. Keep all students focused on the same core learning objective [objective], but adjust the level of complexity, support, and independence to match different levels of readiness. Design one version for students who need additional support, one for students working at the expected level, and one for students ready for greater challenge. For each tier, provide clear student instructions, appropriate questions or tasks, any scaffolding or resources needed, and the expected outcome. Increase the cognitive demand across the tiers rather than simply changing the amount of work. Ensure that every version is meaningful, appropriately challenging, and aligned with the same essential knowledge or skill. Include brief guidance for the teacher on assigning or using the tiers flexibly without labeling students by ability."
+
+5️. Differentiate Practice Tasks
+Prompt:
+"Create differentiated practice tasks for teaching [topic] in [subject] to [grade/level] students with different levels of understanding. Keep all tasks aligned with the same core learning objective [objective], but vary the level of support, complexity, and independence. Create one set of practice tasks for students who need additional guidance and reinforcement, one for students working at the expected level, and one for students ready to apply their learning in more challenging ways. Include clear instructions, appropriate examples or scaffolding where needed, and a logical progression from guided practice to independent application. Avoid simply giving advanced students more questions or reducing the amount of work for students who need support. Ensure that each set provides meaningful practice of the same essential knowledge or skill, and include a brief way for the teacher to check students’ understanding and determine when they are ready to move to a different level of practice."
+
+6️. Create Extension Tasks for Advanced Learners
+Prompt:
+"Create meaningful extension tasks for students who have already demonstrated a strong understanding of [topic] in [subject] at [grade/level]. Keep the tasks aligned with the core learning objective [objective], but deepen the learning by requiring students to analyze, evaluate, apply, investigate, solve complex problems, make connections, or create something new. Design 3–5 extension options that increase cognitive challenge rather than simply giving students more of the same work or introducing unrelated content. Provide clear instructions, the expected outcome, and any resources or guiding questions needed. Where appropriate, give students some choice in how they explore or demonstrate their learning. Ensure that the tasks build meaningfully on what students have already learned, encourage greater independence and depth of thinking, and remain appropriate for the subject and grade level."
+
+7️. Plan a Complete Mixed-Ability Lesson
+Prompt:
+"Create a complete differentiated lesson on [topic] in [subject] for a mixed-ability [grade/level] class. Keep all students working toward the core learning objective [objective], while providing appropriate levels of support and challenge throughout the lesson. Organize the lesson into a clear sequence, including an engaging opener, teacher instruction, guided practice, independent or collaborative activities, checks for understanding, and a lesson conclusion. For each stage, explain how to adapt the content, tasks, scaffolding, questioning, grouping, and level of independence for students who need additional support, students working at the expected level, and students ready for greater challenge. Include targeted scaffolds, flexible grouping options, differentiated practice, and meaningful extension opportunities where appropriate. Provide suggested timing, materials, and assessment strategies that help the teacher identify students’ needs and adjust support during the lesson. Ensure that differentiation maintains high expectations for all students and gives every learner meaningful access to the same essential knowledge or skill."
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
