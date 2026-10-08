@@ -26,25 +26,25 @@
 🚨 7 NotebookLM prompts for creating clear, educational infographics:👇👇
 
 1️. Summarize a Topic
-“Using only my selected sources, create a clear infographic about [TOPIC] for [AGE/GRADE/LEVEL]. Highlight the main takeaway, key concepts, facts, and examples. Use concise headings, brief text, logical flow, and helpful visuals. Keep it clean, readable, and uncluttered. Do not add unsupported information. Verify all content against my sources.”
+"Using only my selected sources, create a clear infographic about [TOPIC] for [AGE/GRADE/LEVEL]. Highlight the main takeaway, key concepts, facts, and examples. Use concise headings, brief text, logical flow, and helpful visuals. Keep it clean, readable, and uncluttered. Do not add unsupported information. Verify all content against my sources."
 
 2️. Explain a Concept
-“Using only my selected sources, create an infographic explaining [CONCEPT] in [SUBJECT] for [AGE/GRADE/LEVEL]. Break it into essential parts and show their connections. Use concise headings, brief explanations, and relevant diagrams or concept maps. Keep it simple and readable. Do not add unsupported information. Verify the content against my sources.”
+"Using only my selected sources, create an infographic explaining [CONCEPT] in [SUBJECT] for [AGE/GRADE/LEVEL]. Break it into essential parts and show their connections. Use concise headings, brief explanations, and relevant diagrams or concept maps. Keep it simple and readable. Do not add unsupported information. Verify the content against my sources."
 
 3️. Visualize a Process
-“Using only my selected sources, create an infographic showing [PROCESS/SEQUENCE/CYCLE/TIMELINE] for [AGE/GRADE/LEVEL]. Show every essential stage in the correct order using concise labels, arrows, and relevant visuals. Keep it clear and easy to follow. Do not add unsupported information. Verify every stage against my sources.”
+"Using only my selected sources, create an infographic showing [PROCESS/SEQUENCE/CYCLE/TIMELINE] for [AGE/GRADE/LEVEL]. Show every essential stage in the correct order using concise labels, arrows, and relevant visuals. Keep it clear and easy to follow. Do not add unsupported information. Verify every stage against my sources."
 
 4️. Compare Two Topics
-“Using only my selected sources, create an infographic comparing [TOPIC A] and [TOPIC B] in [SUBJECT] for [AGE/GRADE/LEVEL]. Highlight the key similarities, differences, and features using a suitable layout such as side-by-side sections, a chart, or Venn diagram. Keep it concise and readable. Do not add unsupported information. Verify every comparison against my sources.”
+"Using only my selected sources, create an infographic comparing [TOPIC A] and [TOPIC B] in [SUBJECT] for [AGE/GRADE/LEVEL]. Highlight the key similarities, differences, and features using a suitable layout such as side-by-side sections, a chart, or Venn diagram. Keep it concise and readable. Do not add unsupported information. Verify every comparison against my sources."
 
 5️. Show Connections
-“Using only my selected sources, create an infographic showing the relationships among [KEY IDEAS/CONCEPTS] in [SUBJECT] for [AGE/GRADE/LEVEL]. Show connections such as cause and effect, hierarchy, classification, or part and whole. Use concise labels and appropriate diagrams or connecting lines. Keep it clear and uncluttered. Do not add unsupported information.”
+"Using only my selected sources, create an infographic showing the relationships among [KEY IDEAS/CONCEPTS] in [SUBJECT] for [AGE/GRADE/LEVEL]. Show connections such as cause and effect, hierarchy, classification, or part and whole. Use concise labels and appropriate diagrams or connecting lines. Keep it clear and uncluttered. Do not add unsupported information."
 
 6️. Visualize Data and Facts
-“Using only my selected sources, create an infographic showing the key data, statistics, facts, and patterns about [TOPIC] for [AGE/GRADE/LEVEL]. Use appropriate charts, graphs, icons, and concise labels. Make the information easy to understand without changing its meaning. Do not add unsupported data. Verify all numbers and visuals against my sources.”
+"Using only my selected sources, create an infographic showing the key data, statistics, facts, and patterns about [TOPIC] for [AGE/GRADE/LEVEL]. Use appropriate charts, graphs, icons, and concise labels. Make the information easy to understand without changing its meaning. Do not add unsupported data. Verify all numbers and visuals against my sources."
 
 7️. Create a Revision Infographic
-“Using only my selected sources, create a revision infographic for [TOPIC/UNIT] in [SUBJECT] for [AGE/GRADE/LEVEL]. Include the essential concepts, key terms, facts, formulas, processes, and relationships students need to remember. Group related information clearly and use helpful visuals. Keep it concise and easy to review. Do not add unsupported information.”
+"Using only my selected sources, create a revision infographic for [TOPIC/UNIT] in [SUBJECT] for [AGE/GRADE/LEVEL]. Include the essential concepts, key terms, facts, formulas, processes, and relationships students need to remember. Group related information clearly and use helpful visuals. Keep it concise and easy to review. Do not add unsupported information."
 
 -------------------------------------------------
 7 ChatGPT prompts for teachers to design an academic course
@@ -245,7 +245,109 @@ Suggestions for reflecting on, evaluating, and continuously improving the course
 A final implementation checklist to help teachers prepare for successful course delivery.
 Review the complete teacher's guide to ensure that it is practical, comprehensive, developmentally appropriate, fully aligned with the course learning outcomes, assessments, course structure, lesson plans, instructional materials, learning activities, and the principles of Backward Design before presenting the final version."
 
+-------------------------------------------------
+🚨 **YOUR LESSON PLAN CAN BECOME A FULL PRESENTATION IN MINUTES.**
+Feed NotebookLM your own teaching materials and turn them into engaging, structured lessons for **any subject and any grade level**.
+7 prompts every teacher should save. 👇
+
+1️. Create a Complete Lesson Presentation
+Prompt:
+"Using the uploaded sources, create a complete lesson presentation on [topic] in [subject] for [grade/educational level], aimed at learners aged [age], for a [duration] lesson. Align the presentation with these learning objectives: [objectives]. Begin by activating prior knowledge, then introduce and explain the key concepts clearly using relevant examples, visuals, and real-world connections where appropriate. Include student activities, thought-provoking questions, checks for understanding, and opportunities to apply what they have learned. Address common misconceptions when relevant and end with a concise summary and a final learning check. Adapt the language, examples, activities, and level of challenge to the learners. Keep each slide focused, visually clear, and concise, with a logical progression throughout the lesson. Base all factual content on the uploaded sources and do not introduce unsupported information."
+
+2️. Explain a Difficult Topic Clearly
+Prompt:
+"Using the uploaded sources, create a lesson presentation that clearly explains [difficult topic or concept] in [subject] for [grade/educational level], aimed at learners aged [age]. Break the topic into simple, logical steps, moving from foundational ideas to more challenging concepts. Use clear explanations, relevant examples, analogies, comparisons, and visuals where they genuinely improve understanding. Define essential terms, connect new ideas to students’ prior knowledge, and address common misconceptions or areas of confusion. Include brief questions or activities to check understanding as the lesson progresses. Adapt the language, examples, and level of complexity to the learners. Keep each slide focused, visually clear, and concise. Base all factual content on the uploaded sources and do not introduce unsupported information."
+
+3️. Make a Lesson More Interactive
+Prompt:
+"Using the uploaded sources, create an interactive lesson presentation on [topic] in [subject] for [grade/educational level], aimed at learners aged [age]. Structure the presentation so students actively participate rather than simply receive information. Include engaging questions, predictions, short discussions, problem-solving tasks, mini challenges, reflection prompts, and individual, pair, or group activities where appropriate. Place these activities strategically throughout the lesson to activate prior knowledge, deepen understanding, encourage application, and check learning. Adapt the activities, language, and level of challenge to the learners and subject. Keep each slide focused, visually clear, and concise, with clear instructions for every activity. Base all factual content on the uploaded sources and do not introduce unsupported information."
+
+4️. Create a Visual Lesson Presentation
+Prompt:
+"Using the uploaded sources, create a visually engaging lesson presentation on [topic] in [subject] for [grade/educational level], aimed at learners aged [age]. Present the key ideas through the most appropriate visuals, such as diagrams, illustrations, charts, timelines, maps, models, processes, or labeled examples. Use visuals to clarify concepts, show relationships, and make difficult information easier to understand rather than simply decorate the slides. Highlight essential terms and key points while keeping on-slide text concise. Adapt the visual style, content, and level of complexity to the learners and subject. Keep each slide focused, uncluttered, and easy to follow. Base all factual content on the uploaded sources and do not introduce unsupported information."
+
+5️. Help Students Apply What They Learn
+Prompt:
+"Using the uploaded sources, create a lesson presentation that helps students apply what they have learned about [topic] in [subject] for [grade/educational level], aimed at learners aged [age]. Include meaningful tasks such as real-world scenarios, problems, case studies, experiments, source analysis, or practical challenges appropriate to the subject. Progress from guided examples to more independent application, encouraging students to explain their reasoning, make decisions, and connect knowledge to new situations. Include brief questions and feedback points to check understanding along the way. Adapt the tasks, language, and level of challenge to the learners. Keep each slide focused, visually clear, and concise. Base all factual content on the uploaded sources and do not introduce unsupported information."
+
+6️. Create a Review and Revision Presentation
+Prompt:
+"Using the uploaded sources, create a review and revision presentation on [topic/unit] in [subject] for [grade/educational level], aimed at learners aged [age]. Focus on the essential concepts, key terms, facts, rules, formulas, or skills students need to remember. Include retrieval questions, quick challenges, practice tasks, and misconception checks that encourage students to recall information before revealing explanations or answers. Revisit important connections between ideas and include opportunities to apply previous learning in new contexts. Adapt the language, activities, and level of challenge to the learners. Keep each slide focused, visually clear, and concise. Base all factual content on the uploaded sources and do not introduce unsupported information."
+
+7️. Check Students’ Understanding
+Prompt:
+"Using the uploaded sources, create a lesson presentation that checks students’ understanding of [topic] in [subject] for [grade/educational level], aimed at learners aged [age]. Include varied questions and short tasks that progress from recall and understanding to application and higher-order thinking where appropriate. Add quick knowledge checks, misconception checks, reflection prompts, and opportunities for students to explain their reasoning. Provide feedback or answer reveals after students have had time to respond, and end with a short exit task that shows whether the key learning objectives have been achieved. Adapt the language, question types, and level of challenge to the learners. Keep each slide focused, visually clear, and concise. Base all factual content on the uploaded sources and do not introduce unsupported information."
+
+-------------------------------------------------
+🚨 **STOP TEACHING WITH PLAIN TEXT.**
+Turn any lesson into **visuals students can actually see and remember** with ChatGPT.
+10 copy-and-paste prompts for flashcards, diagrams, timelines, infographics, concept maps, and more. 👇
+
+1️. Create Visual Flashcards
+Prompt:
+"Create a set of visually engaging educational flashcards for [subject], [grade/level], on [topic/vocabulary/concepts]. Create one card for each key term, concept, fact, or idea, using a clear title and a simple, memorable visual that directly represents its meaning. Include a concise definition, explanation, example, or key fact where appropriate. Keep the text minimal and prioritize visual clarity so students can quickly understand and remember the content. Use a consistent layout, visual style, typography, and color system across all cards. Make every flashcard accurate, age-appropriate, uncluttered, and suitable for classroom teaching, review, or retrieval practice."
+
+2️. Create an Educational Diagram
+Prompt:
+"Create a clear, visually engaging educational diagram for [subject], [grade/level], explaining [concept/structure/system/relationship]. Identify the essential parts, components, stages, or ideas students need to understand and organize them in a logical visual structure. Use labels, arrows, connectors, symbols, and simple illustrations to show how the elements relate to one another. Include brief explanations only where they improve understanding, and highlight important relationships, functions, patterns, or cause-and-effect connections where relevant. Keep the diagram accurate, age-appropriate, uncluttered, and easy to understand at a glance. Use a consistent visual style and make the final diagram suitable for classroom teaching, presentation, or review."
+
+3️. Create a Process Flowchart
+Prompt:
+"Create a clear, visually engaging educational flowchart for [subject], [grade/level], showing [process/procedure/sequence]. Break the process into clear, manageable steps and arrange them in the correct logical or chronological order. Use boxes, arrows, connectors, labels, and simple visual cues to show how each step leads to the next. Clearly indicate any decisions, alternative paths, repeated stages, inputs, or outcomes where relevant. Keep descriptions concise and highlight the most important actions or information at each stage. Use a consistent visual style and make the flowchart accurate, age-appropriate, uncluttered, and easy for students to follow at a glance."
+
+4️. Create a Learning Timeline
+Prompt:
+"Create a clear, visually engaging educational timeline for [subject], [grade/level], on [topic/event/process]. Organize the most important events, stages, developments, or changes in chronological order, using accurate dates or time periods where relevant. Use markers, arrows, labels, short descriptions, and simple visual elements to make the sequence easy to follow. Highlight important turning points, milestones, changes, and connections between events where appropriate. Keep the text concise and prioritize the information students need to understand the overall sequence and development of the topic. Use a consistent visual style and make the timeline accurate, age-appropriate, uncluttered, and easy to understand at a glance."
 
 
+5️. Create a Concept Map
+Prompt:
+"Create a clear, visually engaging concept map for [subject], [grade/level], on [central concept/topic]. Place the main concept at the center and organize the most important ideas, subtopics, examples, characteristics, and supporting details around it. Use branches, connectors, labels, and simple visual elements to show how the ideas relate to one another. Clearly highlight important connections, categories, relationships, and hierarchies where relevant. Keep labels concise and organize information from broader concepts to more specific details. Use a consistent visual style and make the concept map accurate, age-appropriate, uncluttered, and easy for students to understand and review at a glance."
+
+6️. Create a Comparison Chart
+Prompt:
+"Create a clear, visually engaging comparison chart for [subject], [grade/level], comparing [concept/item A] and [concept/item B]. Organize the comparison around the most important features, characteristics, functions, advantages, differences, and similarities relevant to the topic. Use columns, rows, labels, icons, or other simple visual elements to make the comparison easy to scan and understand. Clearly highlight the most important similarities and differences, using concise explanations and examples where helpful. Group related information logically and avoid unnecessary detail. Use a consistent visual style and make the chart accurate, age-appropriate, uncluttered, and easy for students to understand and review at a glance."
+
+7️. Create an Educational Infographic
+Prompt:
+"Create a clear, visually engaging educational infographic for [subject], [grade/level], on [topic]. Identify the most important concepts, facts, processes, relationships, or data students need to understand and organize them into clear visual sections. Use appropriate icons, illustrations, diagrams, charts, numbers, labels, and short text to communicate the information efficiently. Establish a clear visual hierarchy so students can easily identify the main idea, supporting information, and key takeaways. Highlight important patterns, relationships, comparisons, sequences, or cause-and-effect connections where relevant. Keep text concise and ensure every visual element supports learning rather than serving as decoration. Use a consistent visual style and make the infographic accurate, age-appropriate, uncluttered, and easy to understand at a glance."
+
+8️. Create a Classroom Poster
+Prompt:
+"Create a clear, visually engaging classroom poster for [subject], [grade/level], on [topic/rule/strategy/concept]. Present the most important rules, formulas, definitions, steps, strategies, or key learning points students need to remember. Organize the information with a strong title, clear sections, short text, and visual hierarchy so students can quickly find and understand the key information. Use appropriate icons, illustrations, symbols, examples, or visual cues to reinforce meaning and support memory. Emphasize the most important words or ideas without overcrowding the design. Use a consistent visual style and make the poster accurate, age-appropriate, easy to read from a distance, and useful as an ongoing classroom reference."
+
+9️. Create a Visual Study Guide
+Prompt:
+"Create a clear, visually engaging study guide for [subject], [grade/level], on [lesson/unit/topic]. Identify and organize the most important concepts, vocabulary, facts, examples, relationships, formulas, processes, or key ideas students need to review. Divide the content into clear visual sections using headings, diagrams, charts, icons, labels, examples, and short summaries where appropriate. Highlight important connections, patterns, comparisons, sequences, and key takeaways to help students understand and remember the material. Prioritize essential information and avoid unnecessary detail or long blocks of text. Use a consistent visual style and make the study guide accurate, age-appropriate, uncluttered, and easy for students to use for independent review or exam preparation."
+
+10. Create an Interactive Learning Activity
+Prompt:
+"Create a clear, visually engaging interactive learning activity for [subject], [grade/level], on [topic/skill]. Design a task that requires students to actively work with the content through activities such as matching, sorting, labeling, sequencing, categorizing, identifying, or problem-solving. Provide clear instructions and organize the activity into an intuitive visual layout using appropriate cards, boxes, icons, illustrations, diagrams, or movable elements. Include meaningful challenges that require students to apply what they have learned, rather than simply recall information. Provide clear answers or feedback so students can check their understanding. Keep the activity focused, accurate, age-appropriate, uncluttered, and easy to use in the classroom or for independent practice."
+
+-------------------------------------------------
+## 7 prompts for creating clear educational infographics
+
+1️. Summarize a Topic
+“Using only my selected sources, create a clear infographic about [TOPIC] for [AGE/GRADE/LEVEL]. Highlight the main takeaway, key concepts, facts, and examples. Use concise headings, brief text, logical flow, and helpful visuals. Keep it clean, readable, and uncluttered. Do not add unsupported information. Verify all content against my sources.”
+
+2️. Explain a Concept
+“Using only my selected sources, create an infographic explaining [CONCEPT] in [SUBJECT] for [AGE/GRADE/LEVEL]. Break it into essential parts and show their connections. Use concise headings, brief explanations, and relevant diagrams or concept maps. Keep it simple and readable. Do not add unsupported information. Verify the content against my sources.”
+
+3️. Visualize a Process
+“Using only my selected sources, create an infographic showing [PROCESS/SEQUENCE/CYCLE/TIMELINE] for [AGE/GRADE/LEVEL]. Show every essential stage in the correct order using concise labels, arrows, and relevant visuals. Keep it clear and easy to follow. Do not add unsupported information. Verify every stage against my sources.”
+
+4️. Compare Two Topics
+“Using only my selected sources, create an infographic comparing [TOPIC A] and [TOPIC B] in [SUBJECT] for [AGE/GRADE/LEVEL]. Highlight the key similarities, differences, and features using a suitable layout such as side-by-side sections, a chart, or Venn diagram. Keep it concise and readable. Do not add unsupported information. Verify every comparison against my sources.”
+
+5️. Show Connections
+“Using only my selected sources, create an infographic showing the relationships among [KEY IDEAS/CONCEPTS] in [SUBJECT] for [AGE/GRADE/LEVEL]. Show connections such as cause and effect, hierarchy, classification, or part and whole. Use concise labels and appropriate diagrams or connecting lines. Keep it clear and uncluttered. Do not add unsupported information.”
+
+6️. Visualize Data and Facts
+“Using only my selected sources, create an infographic showing the key data, statistics, facts, and patterns about [TOPIC] for [AGE/GRADE/LEVEL]. Use appropriate charts, graphs, icons, and concise labels. Make the information easy to understand without changing its meaning. Do not add unsupported data. Verify all numbers and visuals against my sources.”
+
+7️. Create a Revision Infographic
+“Using only my selected sources, create a revision infographic for [TOPIC/UNIT] in [SUBJECT] for [AGE/GRADE/LEVEL]. Include the essential concepts, key terms, facts, formulas, processes, and relationships students need to remember. Group related information clearly and use helpful visuals. Keep it concise and easy to review. Do not add unsupported information.”
+-------------------------------------------------
+-------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
