@@ -168,6 +168,69 @@ Complete your library with:
 ➔ Tribes by Seth Godin.
 
 -------------------------------------------------
+
+🚨 BREAKING : Google just released a set of free AI courses.
+Zero fees. No prior knowledge needed.
+Google offering 12 free AI courses for beginners
+
+1. Introduction to Generative AI
+• Intro-level microlearning course on Generative AI
+• Learn what Gen AI is and how it’s used
+• Understand how it’s different from traditional machine learning
+• Explore Google tools to build your own Gen AI apps
+🔗 https://www.coursera.org/learn/introduction-to-generative-ai
+
+2. Introduction to Large Language Models
+• Introductory-level micro-learning course
+• Explores what Large Language Models (LLMs) are
+• Covers common use cases for LLMs
+• Teaches how to use prompt tuning to improve LLM performance
+• Introduces Google tools for building your own Gen AI applications
+🔗 https://www.skills.google/course_templates/539
+
+3. Google Cybersecurity
+• Learn why cybersecurity is important for organizations
+• Know common risks and how to prevent them
+• Use SIEM tools to protect data and systems
+• Get hands-on practice with Python, Linux, and SQL
+🔗https://www.coursera.org/professional-certificates/google-cybersecurity
+
+4. Introduction to Image Generation
+• Learn about diffusion models in machine learning
+• Understand how they work for image generation
+• Explore why they’re gaining popularity in AI
+🔗 https://www.skills.google/course_templates/541
+
+5. Google Prompting Essentials
+• Practice 5 key steps for writing better prompts
+• Use prompts to help with daily work tasks
+• Speed up data analysis and create presentations
+• Design prompts to build AI agents for expert feedback and role-play
+🔗 https://www.coursera.org/specializations/prompting-essentials-google
+
+7. Machine Learning Specialization
+• Build ML models using NumPy and scikit-learn
+• Train models for prediction and classification tasks
+• Use TensorFlow to build neural networks for multi-class classification
+• Work with decision trees and ensemble methods
+🔗 https://www.coursera.org/specializations/machine-learning-introduction
+
+6. Cloud Engineering
+• Fundamental-level quest designed for IT professionals
+• Hands-on labs aligned with Google Cloud Associate Cloud Engineer certification
+• Practice key topics like IAM, networking, and Kubernetes deployment
+• Test your Google Cloud skills with real-world scenarios
+🔗 https://www.skills.google/course_templates/695
+
+8. Introduction to Responsible AI
+🔗 https://www.cloudskillsboost.google/course_templates/554
+9. Google Data Analytics Capstone
+🔗 https://www.coursera.org/learn/google-data-analytics-capstone
+10. Data Analysis with Python
+🔗 https://www.coursera.org/learn/data-analysis-with-python
+
+
+https://www.skills.google/
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
