@@ -76,7 +76,7 @@ Use the least privilege principle
 Don’t store secrets in plain text — use vaults like HashiCorp Vault or AWS Secrets Manager
 Audit permissions and access
 📊 Step 7: Monitor and Maintain Automation
-Automation isn’t “set it and forget it.” To ensure reliability:
+Automation isn’t "set it and forget it." To ensure reliability:
 
 Log actions to files or dashboards
 Set up alerts on failures
@@ -97,6 +97,31 @@ This helps prove ROI and guides future automation projects.
 Automation is a game-changer when done right. Focus on small, consistent improvements. Write modular code. Test. Secure. Monitor. Measure. Then iterate.
 
 -------------------------------------------------
+🚨 CLAUDE CAN TURN BORING WORKFLOWS INTO $500 CLIENT SERVICES.
+You don’t need to build a SaaS or know how to code.
+These 7 prompts show you how to find a workflow, automate it with Claude, and package it as an offer. 👇
+
+1. Find Automation Opportunities
+"Analyze [INDUSTRY] and identify 10 repetitive workflows that could benefit from AI or automation. For each, show the current process, bottleneck, inputs, outputs, risks, and potential solution. Prioritize practical opportunities where automation saves meaningful time while keeping necessary human review."
+
+2. Design the Workflow
+"Turn [WORKFLOW] into a detailed AI automation architecture. Define triggers, inputs, AI steps, validation, human review, outputs, storage, errors, and fallback actions. Protect sensitive data and flag decisions that require human verification."
+
+3. Package the Service
+"Turn [AUTOMATION] into a clear client service offer. Define the problem, deliverables, implementation stages, access requirements, timeline, support, limitations, and pricing. Keep it simple for non-technical buyers and avoid unverified promises."
+
+4. Build a Demo
+"Create a realistic demo of [AUTOMATION] using fictional data. Show the before-and-after workflow, sample inputs, processing steps, outputs, and interface. Clearly label it as an illustrative demo—not a real client case study."
+
+5. Find Target Clients
+"Identify 5 ideal client types for [AUTOMATION]. For each, define pain signals, relevant processes, decision-makers, qualification questions, and personalization opportunities. Prioritize relevant prospects over mass outreach."
+
+6. Create Onboarding
+"Build a client onboarding process for an AI automation project. Include discovery questions, access requirements, workflow documentation, security, success criteria, testing, approvals, responsibilities, and handoff."
+
+7. Measure Automation Value
+"Create a measurement framework for [AUTOMATION]. Define baseline metrics, time saved, error rates, throughput, quality, review time, and business outcomes. Show how to compare before and after implementation without overstating causation."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
