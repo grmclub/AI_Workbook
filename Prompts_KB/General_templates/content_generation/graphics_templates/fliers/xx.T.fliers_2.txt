@@ -1,12 +1,12 @@
 
 -------------------------------------------------
-Stop telling ChatGPT “Make me a graphic”
-Stop telling ChatGPT “Design a flyer”
-Stop telling ChatGPT “Create a poster”
+Stop telling ChatGPT "Make me a graphic"
+Stop telling ChatGPT "Design a flyer"
+Stop telling ChatGPT "Create a poster"
 Use these 8 secret commands instead and watch the difference: 👇
 
 1. Social Media Brand Campaign Image
-“Create one polished social media campaign image for [BRAND NAME], a [TYPE OF BUSINESS] that serves [TARGET AUDIENCE].
+"Create one polished social media campaign image for [BRAND NAME], a [TYPE OF BUSINESS] that serves [TARGET AUDIENCE].
 The purpose of this image is to promote [CAMPAIGN / OFFER / MESSAGE].
 The single most important message to communicate is [CORE MESSAGE].
 The design should feel [3 BRAND ADJECTIVES].
@@ -28,11 +28,11 @@ Use strong spacing, intentional negative space, and balanced alignment.
 Make the design look like a high-end branded campaign visual, not a generic template.
 If text is used, keep it concise and easy to read on mobile.
 Avoid cluttered layouts, random icons, generic stock-photo treatment, excessive gradients, too many decorative elements, poor text alignment, and anything that looks like cheap AI-generated design.
-The final result should be one finished branded campaign image that feels premium, modern, and ready to publish.”
+The final result should be one finished branded campaign image that feels premium, modern, and ready to publish."
 May be an image of drink and text that says 'Good Vibes Always Fanta MORE FANTA MOMENTS BOLDER FLAVOURS BRIGHTER DAYS REAL REAI REFRESHMENT Same GreatTaste Taste Great GOOD VIBES fanta BETTER TOGETHER ORANGE GRAB A FANTA TODAY BOLD FRUITY DELICIOUS TASTE FUN THE TOMORROW TOMORPHER BRIORROW BRIGHTER TOGETHER TOGETHER'
 
 2. Product Advertisement
-“Create a premium advertising image for [PRODUCT NAME], a [PRODUCT TYPE] made for [TARGET CUSTOMER].
+"Create a premium advertising image for [PRODUCT NAME], a [PRODUCT TYPE] made for [TARGET CUSTOMER].
 The main objective of this advertisement is to communicate [PRIMARY BENEFIT / OFFER] immediately.
 Use the actual product as the central focal point and place it [CENTRE / LEFT / RIGHT] within the composition.
 Background: [BACKGROUND DESCRIPTION]
@@ -48,11 +48,11 @@ Leave intentional negative space around the headline and CTA. Keep all text away
 Make the product photography realistic, with accurate proportions, believable reflections, natural shadows, realistic surface texture, and commercially appropriate lighting.
 The finished image should resemble a professionally art-directed advertisement suitable for [INSTAGRAM / LINKEDIN / FACEBOOK / DIGITAL AD / PRINT].
 Canvas ratio: [1:1 / 4:5 / 9:16 / 16:9].
-Do not add extra products, invented logos, unnecessary props, random text, decorative icons, excessive glow, floating objects, or visual elements that were not requested.”
+Do not add extra products, invented logos, unnecessary props, random text, decorative icons, excessive glow, floating objects, or visual elements that were not requested."
 May be an image of drink and text that says 'Ccca Coca-Cola ORIGINAL ORIGINALTASTE TASTE CocaCola Good Things Taste Better Together Real moments. Refreshingly better. ENJOY TODAY'
 
 3. Event Poster
-“Design a professional poster for [EVENT NAME] taking place on [DATE] at [LOCATION].
+"Design a professional poster for [EVENT NAME] taking place on [DATE] at [LOCATION].
 The event is about [TOPIC] and is intended for [AUDIENCE].
 Use [MOOD / DESIGN STYLE] as the visual direction.
 The poster must include:
@@ -67,11 +67,11 @@ Make [MOST IMPORTANT INFORMATION] the dominant visual element.
 Use one strong focal image or graphic rather than several competing elements.
 Create clear separation between the event title, practical information, speaker details, and CTA.
 Design for [INSTAGRAM / PRINT A3 / LINKEDIN / STORY].
-Avoid generic event icons, excessive visual effects, tiny text, centred everything, and unnecessary decorative elements.”
+Avoid generic event icons, excessive visual effects, tiny text, centred everything, and unnecessary decorative elements."
 May be an image of money and text
 
 4. YouTube Thumbnail
-“Create a high-performing YouTube thumbnail for a video titled [VIDEO TITLE].
+"Create a high-performing YouTube thumbnail for a video titled [VIDEO TITLE].
 The video is about [TOPIC] and targets [AUDIENCE].
 The thumbnail should communicate [MAIN IDEA / EMOTION / RESULT] within one second.
 Use [PERSON / PRODUCT / OBJECT] as the main focal point.
@@ -83,10 +83,10 @@ Use a maximum of three main visual elements.
 Keep text readable at mobile size.
 Do not repeat the full video title inside the thumbnail.
 Avoid excessive arrows, circles, emojis, tiny text, cluttered backgrounds, and unnecessary objects.
-Create three different thumbnail concepts based on three different visual ideas rather than simply changing colours.”
+Create three different thumbnail concepts based on three different visual ideas rather than simply changing colours."
 
 5. Book Cover
-“Design a book cover for [BOOK TITLE] by [AUTHOR NAME].
+"Design a book cover for [BOOK TITLE] by [AUTHOR NAME].
 Genre: [GENRE]
 Target reader: [AUDIENCE]
 Central theme: [THEME]
@@ -99,10 +99,10 @@ Use typography that reflects [GENRE / PERIOD / TONE].
 Create a clear hierarchy between title, subtitle, imagery, and author name.
 Design both the front cover and a simplified thumbnail version so the title remains readable at small size.
 Use [PHOTOGRAPHY / ILLUSTRATION / ABSTRACT / TYPOGRAPHIC] treatment.
-Avoid literal visual clichés associated with the genre, overcrowded imagery, unnecessary symbols, and typography that competes with the main concept.”
+Avoid literal visual clichés associated with the genre, overcrowded imagery, unnecessary symbols, and typography that competes with the main concept."
 
 6. Restaurant Menu
-“Design a menu for [RESTAURANT NAME], a [CUISINE TYPE] restaurant with a [CASUAL / PREMIUM / FAMILY / FINE DINING] atmosphere.
+"Design a menu for [RESTAURANT NAME], a [CUISINE TYPE] restaurant with a [CASUAL / PREMIUM / FAMILY / FINE DINING] atmosphere.
 The menu contains the following sections:
 [STARTERS]
 [MAINS]
@@ -120,10 +120,10 @@ Keep prices visually secondary to dish names.
 Use spacing rather than excessive boxes and dividers to separate sections.
 Highlight [SIGNATURE DISHES / CHEF RECOMMENDATIONS] using one restrained visual treatment.
 Design for [A4 / FOLDED MENU / DIGITAL SCREEN / TABLET].
-Avoid decorative food clipart, excessive borders, multiple unrelated fonts, crowded sections, and layouts that make prices difficult to compare.”
+Avoid decorative food clipart, excessive borders, multiple unrelated fonts, crowded sections, and layouts that make prices difficult to compare."
 
 7. Infographic
-“Create a vertical infographic explaining [TOPIC] to [TARGET AUDIENCE].
+"Create a vertical infographic explaining [TOPIC] to [TARGET AUDIENCE].
 The reader should understand [MAIN LEARNING OUTCOME] within two minutes.
 Organise the information into these sections:
 1. [SECTION 1]
@@ -139,10 +139,10 @@ Highlight these figures:
 [STATISTIC 2]
 [STATISTIC 3]
 Use [COLOUR PALETTE] and [TYPOGRAPHY STYLE].
-Avoid decorative charts, repeated icons, excessive text, unnecessary 3D effects, and illustrations that do not add meaning.”
+Avoid decorative charts, repeated icons, excessive text, unnecessary 3D effects, and illustrations that do not add meaning."
 
 8. Mobile App Screen
-“Design a mobile app interface for [APP NAME], an app that helps users [MAIN FUNCTION].
+"Design a mobile app interface for [APP NAME], an app that helps users [MAIN FUNCTION].
 Design the [HOME / DASHBOARD / PROFILE / CHECKOUT / ONBOARDING] screen.
 The primary user action is [MAIN ACTION].
 Secondary actions include:
@@ -155,8 +155,282 @@ Place the primary action where it can be reached easily.
 Create clear hierarchy between navigation, page title, primary content, secondary content, and action buttons.
 Use [CARD / LIST / GRID / DASHBOARD] structure.
 Include realistic placeholder content instead of meaningless lorem ipsum.
-Avoid excessive cards, unnecessary gradients, oversized rounded corners, decorative icons, and UI elements that do not serve a clear function.”
+Avoid excessive cards, unnecessary gradients, oversized rounded corners, decorative icons, and UI elements that do not serve a clear function."
 -------------------------------------------------
+ChatGPT-6 10 prompts for design like a pro editor
+G00DBY€ Canva 💀 ChatGPT-6 can now design like a pro editor.
+10 prompts to create almost anything 👇
+
+1/ Brand Identity Prompt
+Create a premium editorial brand identity presentation for Coca-Cola, reimagining
+the company as a contemporary global beverage icon while preserving its
+unmistakable heritage.
+Build a complete visual identity system featuring logo treatments, secondary marks,
+iconography, typography hierarchy, primary and supporting typefaces, core colour
+palette, graphic elements, brand patterns, packaging applications, glass bottle and
+aluminium can designs, delivery cartons, branded tape, campaign visuals, social
+media templates, outdoor advertising mockups, material studies, and final brand
+lockups.
+Make the hero section a futuristic Coca-Cola composition featuring an iconic glass
+bottle and aluminium can photographed with sophisticated studio lighting, realistic
+condensation, crystal-clear reflections, and a refined red-and-white visual system.
+Use Coca-Cola red as the dominant colour, supported by clean white, deep black,
+brushed silver, transparent glass, and subtle beverage highlights.
+Present everything through a clean, minimal Behance-style case-study layout
+combining Apple keynote-level clarity with the bold visual confidence of premium
+global sportswear branding. Use a disciplined modular grid, strong typography,
+generous negative space, precise alignment, and consistent editorial rhythm.
+The final identity should feel timeless yet contemporary, energetic, premium, iconic,
+commercially powerful, and instantly recognizable worldwide.
+Ultra-detailed, hyper-realistic execution with authentic packaging textures, polished
+reflections, condensation droplets, embossed surfaces, metallic finishes, realistic
+glass, premium paper stocks, and sophisticated advertising art direction. Aspect
+ratio: 1:1 – optimized for Instagram.
+
+2/ Signature Product Prompt
+Create a premium signature product presentation for Coca-Cola focused on one
+iconic glass bottle and one aluminium can as the central hero products.
+Present a large floating Coca-Cola bottle and can against a sophisticated studio
+environment using dramatic yet controlled commercial lighting. Include several
+detailed product perspectives: straight-on hero view, side profile, top view, bottle-
+cap close-up, can-rim detail, label macro shot, glass texture, aluminium surface,
+condensation droplets, liquid reflections, carbonation highlights, and premium
+material studies.
+Add elegant editorial callouts highlighting Coca-Cola&#39;s refreshing character, iconic
+identity, global recognition, signature red, sparkling energy, classic appeal, and
+instantly recognizable packaging. Keep every annotation minimal, purposeful, and
+visually integrated into the layout.
+Use a strong Coca-Cola red palette balanced with white, black, metallic silver,
+transparent glass, and subtle liquid highlights. Structure the presentation through a
+bold editorial grid, refined typography, disciplined spacing, and clear visual
+hierarchy inspired by premium global product-launch campaigns.
+The final board should make Coca-Cola feel like a timeless beverage icon presented
+through a modern, luxurious, and commercially sophisticated visual language.
+Ultra-realistic product rendering with razor-sharp packaging details, natural
+condensation, accurate glass and aluminium materials, polished reflections,
+controlled shadows, and high-end studio finishing. Aspect ratio: 1:1 – optimized for
+Instagram.
+
+3/ Campaign Poster Prompt
+Create a bold, premium fashion-inspired advertising poster for Coca-Cola,
+presenting the brand as an energetic and contemporary global beverage icon.
+Feature a stylish young adult model wearing sophisticated red, white, and black
+streetwear, photographed from a dramatic low-angle perspective while walking
+confidently toward the camera. Make oversized editorial typography reading
+&#39;DESIGNED TO REFRESH&#39; the dominant campaign statement.
+Give strong visual priority to an ice-cold Coca-Cola glass bottle and aluminium can.
+Show realistic condensation, glossy reflections, precise red label details, metallic
+textures, liquid highlights, and visible carbonation to make the products feel fresh
+and tactile.
+Set the scene on a contemporary rooftop overlooking a modern city beneath a vivid
+blue sky. Use cinematic sunlight, hard directional shadows, premium fashion
+photography, and strong architectural lines to create a bold commercial
+atmosphere.
+Combine high-fashion editorial photography with the disciplined structure of a
+world-class global campaign. Use intentional negative space, clear typography
+hierarchy, strong grid alignment, confident product placement, and clean art
+direction.
+The final poster should feel youthful, aspirational, refreshing, iconic, premium,
+energetic, and immediately recognizable as Coca-Cola.
+Ultra-realistic execution with natural skin texture, detailed fabrics, accurate
+beverage packaging, crisp typography, cinematic highlights, realistic shadows, and
+premium advertising colour grading.
+Aspect ratio: 1:1 – optimized for Instagram.
+
+4/ Mobile App UI Prompt
+Create a premium mobile app UI presentation for Coca-Cola, designed as a polished
+digital commerce and brand experience for a modern global beverage company.
+Show three realistic high-end iPhone mockups displaying:
+Homepage
+Product collection page
+Detailed product page
+Build the interface around a refined red, white, black, and metallic silver design
+system. Use Coca-Cola red strategically for buttons, active states, promotional areas,
+and major calls-to-action while maintaining generous white space and excellent
+readability.
+Include polished product photography, intuitive navigation, premium cards, refined
+typography, consistent spacing, subtle iconography, and a clean e-commerce
+structure. Feature Coca-Cola glass bottles, aluminium cans, multipacks, flavour
+collections, limited editions, bundles, and lifestyle campaign imagery.
+Add realistic UI details including product names, prices, flavour selectors, quantity
+controls, add-to-cart buttons, promotional banners, category navigation,
+personalized recommendations, favourites, and checkout elements.
+Place the phones inside a cinematic studio environment with glowing red light, subtle
+glass reflections, floating carbonation bubbles, polished surfaces, and atmospheric
+depth. Present the devices as if they are part of a premium keynote-style product
+reveal.
+The experience should feel intuitive, refreshing, iconic, youthful, premium, and
+globally recognizable while maintaining a clean and powerful Coca-Cola digital
+identity.
+Ultra-realistic presentation with sharp UI rendering, accurate phone materials,
+believable screen perspective, polished reflections, premium product photography,
+and sophisticated commercial lighting.
+Aspect ratio: 1:1 – optimized for Instagram.
+
+5/ Packaging Design Prompt
+Create a premium packaging-system presentation for Coca-Cola, showcasing how
+the iconic beverage brand could appear across a complete modern packaging
+ecosystem.
+Arrange a curated collection of Coca-Cola glass bottles, aluminium cans, bottle
+carriers, can multipacks, shipping cartons, delivery boxes, gift packs, limited-edition
+packaging, and promotional boxes using a coordinated Coca-Cola red, white, black,
+and metallic silver palette.
+Apply precise logo placement, minimal but confident typography, consistent label
+architecture, structured information hierarchy, and recognizable graphic elements
+across every packaging format.
+Highlight realistic production details including glossy printed cardboard,
+transparent glass, brushed aluminium, embossed and debossed marks, foil accents,
+nutrition labels, barcodes, bottle caps, sealing tape, shipping labels, recycling icons,
+condensation droplets, and subtle print textures.
+Present everything inside a sophisticated studio setting using controlled directional
+lighting, soft shadows, subtle red reflections, realistic depth, and premium
+commercial product photography. Keep the composition spacious and editorial
+rather than overcrowded.
+The packaging should communicate Coca-Cola&#39;s heritage, refreshment, energy,
+modern relevance, global recognition, and commercial strength while remaining
+visually consistent and unmistakably branded.
+Ultra-realistic execution with razor-sharp edges, realistic cardboard folds, accurate
+glass and metal reflections, premium print finishes, natural shadows, and
+advertising-quality presentation.
+Aspect ratio: 1:1 – optimized for Instagram.
+
+6/ Website Design Prompt
+Create a premium Coca-Cola website presentation displayed prominently inside a
+realistic MacBook Pro mockup, presenting the company as a contemporary global
+beverage brand.
+Design the website with:
+Hero section featuring &quot;DESIGNED TO REFRESH&quot;
+Floating Coca-Cola glass bottle and aluminium can visuals
+Premium product cards and collection sections
+Minimal navigation with refined CTA buttons
+Featured flavours and beverage categories
+Limited-edition releases and seasonal launches
+Bundle and multipack sections
+Large campaign banner using bold Coca-Cola red art direction
+Build the interface around Coca-Cola red, white, black, metallic silver, and
+transparent glass details. Use expressive typography, disciplined spacing, polished
+product photography, intuitive navigation, subtle micro-interactions, and a
+premium modern commerce structure.
+Place the MacBook inside a cinematic studio environment with soft red illumination,
+transparent reflections, floating carbonation bubbles, subtle liquid movement, and
+glossy highlights. Make the entire scene feel like a high-end technology keynote
+reveal rather than an ordinary website mockup.
+The website should communicate iconic refreshment, energy, youthfulness, premium
+quality, and global recognition while remaining simple, intuitive, and commercially
+powerful.
+Ultra-realistic execution with crisp high-resolution UI, polished MacBook materials,
+realistic screen depth, detailed product photography, controlled reflections, and
+refined editorial composition.
+Aspect ratio: 1:1 – optimized for Instagram.
+
+7/ Billboard Campaign Prompt
+Create a spectacular large-scale outdoor advertising concept for Coca-Cola designed
+to feel like a major global campaign launch.
+Show an enormous ice-cold Coca-Cola glass bottle suspended beneath a helicopter
+above a futuristic metropolitan skyline during sunset. Make the bottle monumental
+in scale with highly realistic transparent glass, a perfectly visible red label,
+condensation droplets, liquid depth, sparkling highlights, and believable physical
+weight.
+Show pedestrians and crowds below looking upward to emphasize the enormous
+scale and public spectacle. Incorporate reflective streets, modern architecture,
+atmospheric haze, cinematic clouds, glowing city windows, warm sunset light, and
+subtle Coca-Cola red reflections throughout the environment.
+Integrate the campaign statement &#39;DESIGNED TO REFRESH&#39; using bold, clean
+typography placed naturally within the outdoor advertising composition without
+distracting from the hero bottle.
+Use Coca-Cola red as the main visual signature supported by white, deep black,
+metallic silver, transparent glass, warm sunset colours, and city lights. Keep the
+scene cinematic but visually controlled and easy to understand at a glance.
+The campaign should feel monumental, refreshing, culturally iconic, youthful,
+premium, globally recognizable, and worthy of a major international outdoor
+launch.
+Ultra-realistic rendering with believable helicopter mechanics, accurate scale,
+detailed atmospheric perspective, environmental reflections, refined typography,
+cinematic compositing, and premium billboard campaign finishing.
+Aspect ratio: 1:1 – optimized for Instagram.
+
+8/ Social Media Campaign Prompt
+Create a premium Instagram advertising campaign visual for Coca-Cola, combining
+modern fashion photography with the unmistakable identity of a global beverage
+icon.
+Feature one stylish young adult model dressed in sophisticated red, white, black, or
+metallic silver fashion, confidently positioned beside an ice-cold Coca-Cola glass
+bottle or aluminium can. Photograph the scene from a dramatic low-angle
+perspective on a contemporary rooftop beneath a bright blue sky.
+Use strong cinematic sunlight, realistic directional shadows, bold architecture, and
+clear product visibility. Integrate oversized editorial typography reading
+&#39;DESIGNED TO REFRESH&#39; as the central campaign message, carefully interacting
+with the model and product rather than appearing as a simple text overlay.
+Show highly detailed product elements including Coca-Cola&#39;s red label, realistic
+condensation droplets, transparent glass reflections, aluminium texture, sparkling
+beverage highlights, carbonation details, and a refined brand lockup.
+Use Coca-Cola red as the dominant campaign colour supported by bright white, deep
+black, metallic silver, blue-sky contrast, natural skin tones, and crisp sunlight. Keep
+the composition balanced with strong hierarchy, negative space, precise alignment,
+and premium fashion art direction.
+The final campaign image should feel iconic, youthful, refreshing, aspirational,
+premium, globally recognizable, and ready for a major international social
+campaign.
+Ultra-realistic execution with cinematic photography, authentic fashion textures,
+natural skin detail, polished beverage photography, crisp typography, realistic
+shadows, and sophisticated commercial colour grading.
+Aspect ratio: 1:1 – optimized for Instagram.
+
+9/ Retail Experience Prompt
+Create a premium Coca-Cola flagship retail and experiential pop-up concept that
+transforms the beverage brand into an immersive physical destination.
+Design a futuristic Coca-Cola store featuring a dramatic red entrance, illuminated
+Coca-Cola signage, curved architectural surfaces, transparent refrigerated product
+displays, interactive flavour stations, limited-edition merchandise, glass bottle
+installations, aluminium can displays, branded seating areas, digital campaign
+screens, checkout counters, and experiential photo zones.
+Make the central hero feature a monumental refrigerated Coca-Cola bottle
+installation surrounded by glowing red architectural lighting and subtle
+carbonation-inspired visual effects. Display multiple Coca-Cola flavours and
+packaging formats in clean, beautifully organized retail shelving.
+Use Coca-Cola red as the dominant environmental colour balanced with white,
+black, brushed aluminium, clear glass, polished concrete, chrome details, and warm
+architectural lighting. Incorporate subtle circular forms inspired by bottle caps,
+bubbles, and flowing beverages throughout the space.
+Present the concept through a premium architectural visualization board including
+exterior storefront view, wide interior perspective, product-display close-ups,
+material details, signage studies, customer interaction zones, and branded
+environmental graphics.
+The retail experience should feel immersive, futuristic, refreshing, social, youthful,
+premium, globally recognizable, and designed to attract both customers and social-
+media attention.
+Ultra-realistic architectural visualization with accurate materials, glossy reflections,
+realistic glass, cinematic lighting, detailed merchandise, natural human scale,
+sophisticated signage, and premium experiential-branding execution. Aspect ratio:
+1:1 – optimized for Instagram.
+
+10/ 3D Product Launch Prompt
+Create a spectacular cinematic 3D product-launch visual for Coca-Cola, designed
+like the hero artwork for a major global campaign reveal.
+Feature one oversized ice-cold Coca-Cola aluminium can exploding upward through
+a dynamic wave of sparkling cola, crystal-clear ice cubes, carbonation bubbles,
+water droplets, and suspended liquid particles. Position a classic Coca-Cola glass
+bottle slightly behind it to reinforce the brand&#39;s heritage while keeping the
+aluminium can as the primary hero object.
+Use dramatic studio lighting with glowing Coca-Cola red illumination, bright white
+rim lights, metallic highlights, deep cinematic shadows, realistic liquid translucency,
+and high-speed photography aesthetics. Freeze every splash, droplet, bubble, and ice
+fragment with extreme clarity.
+Integrate bold campaign typography reading &quot;OPEN. REFRESH. REPEAT.&quot; using
+clean, confident editorial typography that interacts naturally with the 3D
+composition without covering the products.
+Build the background using a deep red-to-black cinematic environment with subtle
+atmospheric haze, glossy floor reflections, illuminated particles, and controlled
+depth. Make the Coca-Cola logo and red packaging instantly visible even at
+thumbnail size.
+The visual should feel explosive, refreshing, energetic, premium, futuristic, iconic,
+and globally recognizable, combining high-end beverage photography with
+sophisticated CGI advertising art direction.
+Ultra-realistic 3D rendering with physically accurate liquid simulation, crystal-clear
+ice, realistic condensation, metallic aluminium textures, transparent glass, sharp
+label printing, ray-traced reflections, cinematic depth of field, and world-class
+commercial finishing.
+Aspect ratio: 1:1 – optimized for Instagram.
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
