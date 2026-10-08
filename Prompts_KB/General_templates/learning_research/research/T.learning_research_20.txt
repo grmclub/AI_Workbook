@@ -709,6 +709,61 @@ Save this. Your next research project just got a lot easier. 🔎
 10. Produce a Mini Literature Review
 "Write a rigorous, evidence-based literature review on [RESEARCH QUESTION] using credible research from [DATE RANGE]. Organize the review around major themes, debates, and methodological differences—not source-by-source summaries. Compare where researchers agree, disagree, and reach different conclusions because of differences in evidence or methods. Clearly distinguish established findings, strong but limited evidence, emerging findings, contested interpretations, and unanswered questions. Cite every substantive claim and conclude by identifying the most important research gaps."
 -------------------------------------------------
+🚨 Your research can be strong and still lose credibility because of messy references.
+These 13 NotebookLM prompts help you find better sources, verify citations, compare evidence, and build a cleaner academic reference system. 👇
+
+1. The Source Quality Checker
+"Review the uploaded articles, books, reports, and web sources for [topic] and evaluate which sources are credible enough for academic use. Assess authority, relevance, currency, evidence quality, publication type, peer-review status, and connection to my research problem. Separate strong academic sources from weak, outdated, biased, or unsuitable ones, and explain why."
+Helps avoid building academic work on weak sources.
+
+2. The Reference Organizer
+"Analyze my uploaded academic sources for [topic] and organize them into a clear, structured reference system. Group sources into meaningful categories such as themes, theories, methods, populations, contexts, debates, or research questions where appropriate. Explain how sources within each group relate to one another, identify recurring patterns or disagreements, and recommend where each group of sources would best fit within my thesis, dissertation, or academic paper."
+Helps turn scattered references into a usable, research-ready source system.
+
+3. The Citation Accuracy Auditor
+"Review my uploaded reference list and in-text citations for [topic] and identify citation errors, inconsistencies, missing information, duplicate entries, formatting problems, incorrect author details, missing publication dates, broken URLs or DOIs, and mismatches between in-text citations and the reference list. Check whether citations consistently follow the required citation style: [APA 7th/MLA 9th/Chicago/Harvard/Vancouver]. Explain each issue clearly and recommend precise corrections."
+Helps catch citation mistakes before they weaken academic credibility.
+
+4. The Source Relevance Filter
+"Examine my uploaded academic sources for [topic] and evaluate how relevant each source is to my research problem, objectives, research questions, or argument. Classify each source as highly relevant, moderately relevant, background-only, weakly relevant, or unnecessary. Explain why each source matters, identify where it could be used in my thesis, dissertation, or paper, and flag sources that may weaken focus, add redundancy, or contribute little to the study."
+Helps stop irrelevant sources from cluttering academic writing.
+
+5. The Evidence-to-Argument Connector
+"Analyze my uploaded academic sources, research problem, objectives, research questions, and draft argument for [topic] and explain how evidence should support each claim. Identify which sources strengthen specific arguments, where claims lack sufficient evidence, where stronger or more relevant sources are needed, and where citations are being overused or poorly integrated. Recommend how to synthesize evidence, compare findings, and connect sources to the logic of the argument rather than simply inserting citations."
+Helps turn references into stronger academic arguments instead of citation lists.
+
+6. The Annotated Bibliography Builder
+"Review my uploaded academic sources for [topic] and create an academically rigorous annotated bibliography. For each source, summarize the main argument or purpose, research method where relevant, key findings, strengths, limitations, relevance to my research problem, and how the source could be used in my thesis, dissertation, or paper. Highlight how each source contributes to the broader evidence base or academic debate."
+Helps turn references into meaningful research notes instead of a passive reading list.
+
+7. The Reference Library Cleaner
+"Review my uploaded academic sources, reference list, and citation records for [topic] and identify duplicate entries, repeated versions of the same source, incomplete references, inconsistent author names, title variations, missing publication details, broken DOIs or URLs, and formatting inconsistencies. Recommend which versions should be kept, corrected, merged, or removed, and explain how to maintain a cleaner, more reliable academic reference library."
+Helps clean messy references before they create citation problems.
+
+8. The Citation Style Formatter
+"Review my uploaded reference list and citation requirements for [topic] and format all references according to the required citation style: [APA 7th/MLA 9th/Chicago/Harvard/Vancouver]. Check punctuation, capitalization, italics, author order, publication dates, journal titles, volume and issue formatting, DOIs, URLs, page ranges, and consistency across entries. Identify missing information, formatting errors, or incomplete references and recommend precise corrections."
+Helps turn inconsistent references into a clean, submission-ready reference list.
+
+9. The Source Comparison Matrix
+"Analyze my uploaded academic sources for [topic] and compare them in a structured, academically meaningful matrix. For each source, identify the author(s), year, source type, research problem or purpose, methodology or approach where relevant, key findings or arguments, theoretical perspective, strengths, limitations, relevance to my study, and contribution to the broader literature. Highlight similarities, disagreements, recurring themes, and evidence gaps across sources."
+Helps compare sources systematically instead of reading them in isolation.
+
+10. The Reference Gap Finder
+"Analyze my uploaded academic sources, reference list, research problem, objectives, and research questions for [topic] and identify important gaps in my reference base. Detect missing theories, weak evidence areas, outdated sources, missing recent studies, underrepresented perspectives, disciplinary blind spots, geographic imbalances, methodological gaps, or overreliance on a small group of authors or viewpoints. Explain how these gaps may weaken the study and recommend stronger, more balanced directions for improving the evidence base."
+Helps uncover weaknesses in the reference system before they weaken the research.
+
+11. The Source Credibility Critic
+"Critically evaluate my uploaded academic sources, reference list, and supporting evidence for [topic]. Identify questionable, weak, biased, non-peer-reviewed, outdated, or poorly matched sources that may weaken academic credibility. Detect unsupported claims, overreliance on a narrow evidence base, citation overuse or underuse, and places where stronger scholarly evidence is needed. Explain why certain sources strengthen or weaken the research and recommend more credible, balanced, and academically appropriate alternatives where necessary."
+Helps strengthen the credibility of your references before they weaken the credibility of your research.
+
+12. The Citation Integration Editor
+"Review my uploaded draft, academic sources, reference list, and citations for [topic] and evaluate how sources are integrated into the writing. Identify places where citations interrupt flow, are poorly introduced, overused, underexplained, disconnected from the argument, or insufficiently synthesized. Recommend stronger ways to paraphrase, compare evidence, introduce sources, attribute ideas, and integrate citations so they strengthen the logic, clarity, and persuasiveness of the academic writing."
+Helps turn citations into meaningful academic support instead of pasted references.
+
+13. The One-Page Reference System Blueprint
+"Turn my uploaded academic sources, reference list, citation requirements, research problem, objectives, and research questions for [topic] into a clear one-page reference management system. Summarize how sources should be organized, evaluated, grouped, cited, verified, and connected to different sections of the study. Highlight key themes, source priorities, citation checks, evidence gaps, and practical strategies for maintaining a clean, credible, and academically defensible reference base."
+Helps turn scattered references into a clear, organized, research-ready system.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
