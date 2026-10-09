@@ -1,0 +1,41 @@
+
+-------------------------------------------------
+🚨Claude Opus 5.5 can now handle tasks you usually do manually.
+Here are 10 prompts that could save you hours: 👇
+
+1. CLEAN UP YOUR INBOX
+"Review my connected inbox for old newsletters, promotions, receipts and rarely opened messages. Group them, identify safe unsubscribe options and flag anything needing a reply. Show me the proposed changes before taking action."
+
+2. CUT YOUR SOFTWARE COSTS
+"Review my connected email, documents and expense files for software subscriptions. Identify unnecessary tools, suggest cheaper alternatives with similar features and calculate potential monthly savings. Do not cancel anything; show me the comparison first."
+
+3. FIND RELEVANT JOBS
+"Search public job boards and company career pages for recent [JOB TITLE] openings in [LOCATION]. Remove duplicates, match the roles against my CV and create a spreadsheet with the company, role, location, posting date, requirements and application link."
+
+4. BUILD MY WEEKLY BUSINESS REPORT
+"Review my sales, website data, customer feedback, tasks and project updates. Create a concise report covering what worked, what underperformed, what customers want, key changes from last week and my three priorities for next week. Flag missing information."
+
+5. FIND WORK AI CAN TAKE OVER
+"Review my connected apps and files for repetitive tasks AI could handle or simplify. For each opportunity, estimate the time saved, tools required, risks and human review needed, then rank them by impact and difficulty."
+
+6. COMPLETE A BROWSER TASK
+"Use the browser to complete this task: [TASK]. Navigate the required websites, gather information and fill in fields when necessary. Stop before submitting forms, making purchases, accepting terms or changing account settings unless I approve."
+
+7. TEST MY WEBSITE LIKE A CUSTOMER
+"Open [WEBSITE] and test it as a first-time visitor. Check navigation, signup, buttons, forms, links, mobile layout and checkout up to payment. Document anything broken or confusing with screenshots and recommend specific fixes."
+
+8. ANALYZE MY COMPETITORS
+"Research [COMPETITOR 1], [COMPETITOR 2] and [COMPETITOR 3] using public information. Compare their websites, pricing, offers, features, positioning and signup experiences, then identify their strengths, weaknesses and five practical opportunities for my business."
+
+9. BUILD A SIMPLE ONLINE TOOL
+"Create a simple online tool for [AUDIENCE] that solves [PROBLEM]. Make it intuitive, provide a useful result, include a natural email signup and connect users to my product or service. Build and test the prototype, then identify what remains before publishing."
+
+10. PREPARE ME FOR TOMORROW’S MEETINGS
+"Review tomorrow’s meetings in my connected calendar and find relevant emails, documents and previous notes. For each meeting, summarize the people involved, objective, previous discussions, preparation needed and three useful questions. Flag anything you cannot verify."
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
