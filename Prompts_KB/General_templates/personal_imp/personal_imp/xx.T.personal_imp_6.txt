@@ -155,6 +155,87 @@ The goal isn't an empty inbox.
 It's making sure your inbox doesn't become the person managing your day.
 
 -------------------------------------------------
+ChatGPT has a feature called “Sites.” And most people are still sleeping on it. How it works and 7 useful things you can build 👇
+
+How ChatGPT Sites works
+Open Work in ChatGPT and describe the website you want. ChatGPT can build it, preview it, host it, and give you a URL to share.
+
+1/ Build a personal dashboard
+Put everything you want to see in one clean page:
+• Daily priorities
+• Upcoming events
+• Project updates
+• Important links
+• Weekly goals
+Instead of digging through different documents, give yourself one place to start.
+
+2/ Create a project command center
+Turn a messy project into a website with:
+• Milestones
+• Owners
+• Deadlines
+• Resources
+• Risks
+• Weekly updates
+Now everyone knows where to look for the latest project info.
+
+3/ Make an interactive calculator
+Give ChatGPT your inputs and rules and build tools like:
+• Pricing calculators
+• Budget planners
+• Cost comparisons
+• ROI calculators
+• Scoring tools
+Users enter the numbers and the Site calculates the result.
+
+4/ Build a study hub
+Put everything for a class or study project in one place:
+• Study guides
+• Important dates
+• Resources
+• Practice questions
+• Notes
+• Checklists
+Update the Site whenever your material changes.
+
+5/ Launch a simple business website
+Describe your business and create a site with:
+• Services
+• Pricing
+• FAQs
+• Portfolio
+• Contact forms
+• Important links
+You can keep refining the design by telling ChatGPT what to change.
+
+6/. Create an interactive planner
+Build a lightweight app for things like:
+• Content planning
+• Trip planning
+• Meal planning
+• Event planning
+• Project planning
+Add forms, filters, checklists, or other interactive elements to make it useful.
+
+7/ Build an event page
+Create one shareable page containing:
+• Event details
+• Schedule
+• Guest information
+• FAQs
+• RSVP forms
+• Updates
+Everything guests need can live in one place.
+
+Pro tip:
+Don’t try to describe the perfect website in one giant prompt.
+Start with:
+• Who it’s for
+• What it should do
+• What information it needs
+Let ChatGPT build version one.
+Then improve it by chatting with it.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
