@@ -42,7 +42,148 @@ expressive, and social-media-ready. High resolution, clean overlay, vibrant yet
 natural color harmony.
 
 -------------------------------------------------
+
+
+Made By Hand (24 Prompts)
+Use these for artisan, crafty, and tactile aesthetics.
+/inkline – The subject drawn with thick black ink outlines, bold graphic style, minimal shading.
+/paperscrap – The subject created from torn paper collage, layered textures, mixed media art.
+/threadstitch – The subject rendered as a cross-stitch pattern, pixelated threads, embroidery hoop.
+/quickmarker – The subject sketched loosely with markers, visible strokes, artistic flair.
+/printdots – The subject printed with old newspaper halftone dots, vintage print aesthetic.
+/glasspane – The subject depicted in stained glass, lead lines, colorful translucent panes, church window.
+/threadart – The subject embroidered as a fabric patch, raised thread texture, intricate stitching.
+/grainshow – The subject showing natural wood or fabric grain, organic textures, earthy tones.
+/woodburn – The subject burned into a wooden surface with pyrography, scorched lines, rustic.
+/leathertool – The subject pressed into leather with tooled grooves, Western aesthetic, handcrafted.
+/clayimprint – The subject imprinted into soft clay, deep impressions, tactile, pottery.
+/feltcraft – The subject made from fuzzy felt, soft texture, colorful, handmade craft.
+/macrame – The subject designed using knotted rope macrame, bohemian style, intricate knots.
+/beadwork – The subject created from tiny colored beads, intricate patterns, Native American beadwork style.
+/quilted – The subject rendered in stitched fabric patches, quilted texture, cozy.
+/origamiform – The subject folded from sharp origami paper, geometric creases, precise.
+/wirebent – The subject sculpted from bent wire, minimalist line art, structural.
+/candlewax – The subject carved from candle wax, drips, warm tones, slightly melting.
+/soapcarve – The subject hand-carved from a bar of soap, smooth curves, bathroom aesthetic.
+/inkstamp – The subject stamped with uneven ink, vintage rubber stamp aesthetic, grungy.
+/rubberstamp – The subject as a rubber stamp ready to press, red ink pad, office supply.
+/waxseal – The subject embossed on a wax seal on an envelope, vintage correspondence.
+/leafprint – The subject rendered using real leaf prints, botanical ink, nature art.
+/sandart – The subject created from colored sand layers in a bottle, stratified, vibrant.
 -------------------------------------------------
+Most bad AI images start with a good idea and a vague prompt.
+The people getting stunning results aren't better writers.
+They find a style they love first, then study how it was made.
+Here are 10 places to find the look, and the words behind it 👇
+
+USE 1: Lexica
+https://lexica.art/
+
+Search any style and see the image with its full prompt attached. You can upload a picture and find similar looks. Best when you already have a screenshot and want the wording behind it.
+
+Tips: Match the picture, then read the words
+Upload one image you already love. Open the closest results. Copy only the lines that match the light, the lens, and the color. Leave the subject behind. Write your own subject in front of those lines.
+
+When to use this: You already have a screenshot, a Pinterest pin, or a saved image, and you want the words behind that look.
+
+USE 2: PromptHero
+https://prompthero.com/
+
+Millions of prompts you can filter by model: Midjourney, FLUX, Stable Diffusion and more. Useful when a prompt works in one tool but falls apart in another.
+
+Tips: Filter by the tool you actually use
+Search one subject. Set the filter to your model before you read anything. Save 3 prompts from that model only. Compare the repeated words. Those are the words that tool listens to.
+
+When to use this: A prompt looked great in one tool and failed in another, and you need wording made for the tool you use.
+
+USE 3: OpenArt
+https://openart.ai/
+
+A prompt library and image generator in one place. Find a look you like, then test your own version without switching tabs.
+
+Tips: Test one subject in three styles
+Keep the same scene. Change only the ending. Version A: soft film photo. Version B: clean editorial photo. Version C: painterly illustration. Generate all three. Keep the ending that moved the picture.
+
+When to use this: You know the subject, but you are not sure which style line the tool will follow.
+
+USE 4: Civitai
+https://civitai.com/
+
+The biggest open community for AI image creators. Every image can show the prompt, the settings, and the model used to make it. Check the model before you blame the prompt.
+
+Tips: Copy the model with the prompt
+Open an image you like. Save three things: the prompt, the model name, and the settings. Run your own subject on that same model first. Only then change the words.
+
+When to use this: Your prompt is fine, but the image still looks wrong. Check the model and the settings before you rewrite.
+
+USE 5: Midlibrary
+https://midlibrary.io/
+
+A visual guide to Midjourney styles, from art movements to photography looks. Pick the style first, then build your prompt around it. Also useful for style reference codes.
+
+Tips: Pick the style before the subject
+Browse until one look stops you. Write that style in one line. Then add a simple subject. Example: quiet 1970s color film, warm grain, soft contrast. Then: a small kitchen at sunrise, one person pouring tea.
+
+When to use this: You use Midjourney and want a named look, an art movement, or a style code before you write the scene.
+
+USE 6: Promptomania
+https://promptomania.com/
+
+
+A visual prompt builder. You click medium, light, lens, and style, and it writes the line for you. Good when you do not know which words a model listens to.
+
+Tips: Build in this order every time
+Subject first. Then camera. Then light. Then style. Example: portrait at a market stall, eye level, 50mm lens, soft overcast light, natural skin, documentary color. Do not start with mood words.
+
+When to use this: You freeze on a blank box and do not know which words to put after the subject.
+
+USE 7: Tensor.Art
+https://tensor.art/
+
+A large gallery of community images with the prompt, model, and settings beside the picture. Strong for realistic photos and character looks.
+
+Tips: Compare settings when the image looks soft
+If your result is plastic or blurry, do not rewrite the whole prompt. Open a sharp image of the same type. Match the model and the settings first. Then bring your subject across.
+
+When to use this: Faces, full body shots, or realistic photos keep coming out soft, plastic, or inconsistent.
+
+USE 8: SeaArt
+https://www.seaart.ai/
+
+Community models and a public image feed. Open a picture you like and read the prompt and the model used. Handy for style browsing when Civitai feels crowded.
+
+Tips: Steal motion and light, not the whole scene
+Save 5 images with the same mood. Mark only the light words and the motion words. Steam, warm bulbs, shallow focus, handheld photo. Write a new place around those words.
+
+When to use this: You want a busy, lived-in scene, like a market, a kitchen, or a night street, and your images feel still and empty.
+
+USE 9: Krea
+https://www.krea.ai/
+
+Fast visual explore. Type a short idea, watch the look change, then save the direction you like and write the full prompt after.
+
+Tips: Lock color and light before the story
+Type a short scene. Adjust until the color and light feel right. Save that direction. Then write the full prompt with those colors named. Example: blue hour, linen, one window, soft practical lamp, no people, no text.
+
+When to use this: You can picture the mood, but you cannot name the color and light yet.
+
+USE 10: Playground
+https://playground.com/
+
+A creation feed where many images still show the prompt. Useful for clean graphic looks, posters, and simple product scenes.
+
+Quick Start
+Pick one site from the list. Lexica or Civitai is enough for day one.
+Search one look you already want. Example: rainy night portrait.
+Open 5 images. Save the ones that match.
+Copy the prompt under each image into a note.
+Mark the repeated words. Those are the style words.
+Write your own subject in one line.
+Paste the style words after it.
+Add camera and light in one short line.
+Generate 4 images. Change only one phrase.
+Save the winner with the site and model name.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
