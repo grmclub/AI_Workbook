@@ -232,6 +232,25 @@ Google offering 12 free AI courses for beginners
 
 https://www.skills.google/
 -------------------------------------------------
+I am shocked when people tell me they still pay to learn the
+basics of AI. These are the best FREE guides you need for 2026!
+
+1. OpenAI Academy – Intro amp; Tools TutorialsOfficial tutorial hub from OpenAI with beginner to advanced resources on ChatGPT, API basics, prompt techniques, and more — all free.
+https://academy.openai.com/
+
+2. OpenAI – A Practical Guide to Building AgentsConcrete, downloadable PDF from OpenAI on how to design, build, and deploy AI agents — practical, not theoretical
+https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf
+
+3. IBM SkillsBuild – AI Skill TrainingIBM’s free education platform with AI fundamentals, practical exercises, and project-based training — skill badges included.
+https://skillsbuild.org/
+
+4. Anthropic Learn HubAnthropic’s own AI learning center with interactive docs, tutorials, prompt examples, and best practices for Claude models and APIs — free access
+https://academy.claude.com/
+
+
+5. Anthropic Prompt Engineering GuideOfficial Claude guide focused on prompt design and optimization — a must for anyone working with Claude or similar LLMs
+https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
