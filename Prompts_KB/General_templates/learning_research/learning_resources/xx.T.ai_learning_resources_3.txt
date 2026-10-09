@@ -252,5 +252,72 @@ https://academy.claude.com/
 https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview
 
 -------------------------------------------------
+50 websites that replace paid apps 🛠️ 👇🏻
+
+1. haveibeenpwned.com — Check if your email was breached
+2. virustotal.com — Scan files & URLs for malware
+3. duckduckgo.com — Private search
+4. 10minutemail.com — Disposable inbox
+5. temp-mail.org — Another throwaway email
+6. mailinator.com — Public temp inboxes
+7. privnote.com — Self-destructing notes
+8. file.pizza — Send files P2P in the browser
+9. https://wetransfer.com/ — Simple large file links
+10. sendanywhere.com — Fast cross-device file send
+
+11. tinywow.com — 200+ file utilities
+12. pdf24.org — Unlimited PDF tools
+13. smallpdf.com — Compress, merge, convert PDFs
+14. ilovepdf.com — Split, merge, lock PDFs
+15. cloudconvert.com — Any file → any format
+16. squoosh.app — Compress images with no upload lock-in
+17. svgomg — Optimize SVG files
+18. photopea.com — Full image editor, no install
+19. remove.bg — Cut backgrounds instantly
+20. cleanup.pictures — Erase objects from photos
+
+21. unscreen.com — Remove video backgrounds
+22. namechk.com — Username + domain availability
+23. accountkiller.com — How to delete any account
+24. bugmenot.com — Shared logins for registration walls
+25. 12ft.io — Read many paywalled articles
+26. archive.ph — Snapshot any webpage
+27. archive.org/web — Wayback Machine
+28. visualping.io — Alert when a page changes
+29. downdetector.com — Is it down for everyone?
+30. downforeveryoneorjustme.com — Instant outage check
+
+31. builtwith.com — What a website is built with
+32. pagespeed.web.dev — Google speed audit
+33. gtmetrix.com — Page-load waterfall
+34. tineye.com — Reverse image search
+35. explodingshell.com wait — explainshell.com — Decode terminal commands
+36. regex101.com — Regex playground
+37. jsonformatter.org — Clean JSON
+38. pastebin.com — Share text by link
+39. clipboard.to — Private text drop
+40. ninite.com — Install Windows apps with no junk
+
+41. ifttt.com — Simple automations
+42. feedly.com — RSS without the algorithm
+43. raindrop.io — Smart bookmarks
+44. alternativeto.net — Find replacements for any app
+45. random.org — True random numbers
+46. deepl.com — Better-than-average translation
+47. hemingwayapp.com — Make writing clearer
+48. scribehow.com — Auto how-to guides from your screen
+49. bardeen.ai — Browser automations
+50. deadmansswitch.net — Emails that send if you go silent
+
 -------------------------------------------------
 -------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
+
+
+
+
