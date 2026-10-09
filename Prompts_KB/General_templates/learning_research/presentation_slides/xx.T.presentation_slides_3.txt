@@ -335,6 +335,31 @@ Keep the slides concise and use the speaker notes for:
 Add natural cues for pauses and emphasis. Make the script complement the slides instead of simply reading them aloud."
 
 -------------------------------------------------
+ChatGPT can turn a simple idea into a professional presentation. 🎯
+From compelling slide decks and research-backed presentations to investor pitches and speaker scripts, these 7 prompts help you create presentations that look polished, communicate clearly, and keep your audience engaged.
+
+1️. BUILD A COMPLETE PRESENTATION
+Act as an expert presentation designer and visual storyteller. Create a complete, professional presentation on [TOPIC], with a compelling opening, a logical narrative, key insights, relevant examples, supporting data, visual direction, and a powerful conclusion. Keep every slide focused, concise, and engaging. Deliver a cohesive, presentation-ready deck with polished content and a clear visual identity—not just an outline.
+
+2️. CREATE A RESEARCH-BACKED DECK
+Create a comprehensive, research-backed presentation on [TOPIC]. Support key claims, statistics, and insights with credible, verifiable sources. Incorporate relevant case studies, expert perspectives, real-world examples, and actionable takeaways. Recommend appropriate charts and visuals to communicate complex information clearly. Include slide-level citations and a well-organized references slide. Prioritize accuracy, depth, and professional storytelling.
+
+3️. EXPLAIN ANY TOPIC SIMPLY
+Turn [TOPIC] into a beginner-friendly presentation for an audience with no prior knowledge. Break down complex concepts into simple, accessible language using relatable analogies, practical examples, and step-by-step explanations. Arrange the slides in a logical learning sequence, with one clear takeaway per slide. Use visual explanations, memorable examples, and minimal text to make the presentation engaging, understandable, and easy to remember.
+
+4️. BUILD AN INVESTOR PITCH DECK
+Act as an experienced startup strategist and investor pitch designer. Create a compelling pitch deck for [BUSINESS IDEA] that covers the problem, solution, target market, market opportunity, product, business model, competitive landscape, unique value proposition, go-to-market strategy, financial projections, team, milestones, and funding request. Build a persuasive narrative that communicates the business's potential while remaining realistic and evidence-based. Highlight key metrics, recommend relevant visuals, and make every slide concise, credible, and investor-focused.
+
+5️. TURN A TOPIC INTO A STORY
+Transform [TOPIC] into a memorable, story-driven presentation using this narrative arc: Hook → Problem → Journey → Discovery → Transformation → Call to Action. Open with an attention-grabbing moment, build curiosity, and guide the audience toward a meaningful conclusion. Incorporate compelling examples, emotional moments where appropriate, and seamless transitions. Add speaker notes with storytelling cues, pacing, emphasis, and delivery guidance. Make the presentation engaging, persuasive, and easy to follow from beginning to end.
+
+6️. CREATE AN EXECUTIVE PRESENTATION
+Act as a senior strategy consultant and executive presentation designer. Create a decision-focused presentation on [TOPIC] for senior leaders, clients, or board members. Prioritize the most important insights, relevant performance metrics, industry trends, strategic analysis, forecasts, SWOT analysis, key risks, opportunities, and data-driven recommendations. Use charts and visual summaries where appropriate. Structure the deck around the decisions the audience needs to make, with concise messaging, a polished visual hierarchy, and clear next steps. Distinguish verified data from assumptions.
+
+7️. CREATE SLIDES + SPEAKER SCRIPT
+Create a complete, presentation-ready deck on [TOPIC], with a natural, engaging speaker script for every slide. Include concise on-slide content and detailed speaker notes featuring key talking points, smooth transitions, strategic pauses, emphasis cues, storytelling moments, and practical delivery tips. Make the script sound confident, conversational, and human—not robotic. Ensure the spoken explanation complements the slides rather than repeating them. Deliver a cohesive presentation that I can confidently present to a real audience.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
