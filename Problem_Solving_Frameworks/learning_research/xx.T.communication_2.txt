@@ -1,0 +1,211 @@
+
+-------------------------------------------------
+Here is a quick reference guide to structured communication frameworks categorized by goal:
+Presentation & Persuasion
+
+    CCC (Context, Core, Connect): Set the background, state the central message clearly, and show why it matters to the listener.
+
+    PAS (Problem, Agitate, Solve): Identify a paint point, highlight the consequences or stakes of ignoring it, and present your solution as the relief.
+
+    AIDA (Attention, Interest, Desire, Action): Hook the audience, build curiosity with relevant details, generate enthusiasm for the outcome, and close with a clear call to action.
+
+    Monroe's Motivated Sequence: Attention, Need, Satisfaction, Visualization, and Action—a 5-step persuasive framework ideal for speeches and pitches.
+
+Answering Questions & On-the-Spot Speaking
+
+    PREP (Point, Reason, Example, Point): Make your main claim, explain why it's true, share a quick supporting example, and restate your claim to wrap up cleanly.
+
+    STAR (Situation, Task, Action, Result): Standard behavioral framework. Set the context, explain your objective, detail your specific actions, and share the quantitative/qualitative outcome.
+
+    CAR (Context, Action, Result): A streamlined variant of STAR that jumps straight into what you did and what happened.
+
+Decision-Making & Conflict Resolution
+
+    What? So What? Now What?: State the facts or issue, explain the impact or significance, and outline the immediate next steps.
+
+    Pros, Cons, Recommendation: Evaluate both sides briefly and deliver a clear, actionable judgment.
+
+    SBI (Situation, Behavior, Impact): A constructive feedback model. Anchor the feedback in a specific time/place, describe the observable behavior, and explain the effect it had.
+
+-------------------------------------------------
+# 9 Habits for Clearer Speaking (I Wish I Knew Sooner)" by communication coach Vinh Giang
+
+In the video, Giang breaks down nine essential communication habits into three main categories: 
+Delivery, Vocal, and Cognitive habits. Below is a structured breakdown of the principles shared:
+
+1. Delivery Habits
+
+    Pause More: White space gives listeners time to process ideas [01:01]. Pausing prevents words from blurring together and increases perceived confidence.
+
+    Slow Down to Highlight: Avoid speaking at a single, rapid speed [02:08]. Slowing down alongside a pause acts as a "verbal highlighter" to emphasize key points.
+
+    Use Declarative Statements: Avoid thinking out loud or rambling [03:55]. Speak in short, concise, to-the-point sentences that end with conviction rather than hesitation.
+
+2. Vocal Habits
+
+    Warm Up Your Voice: Treat your vocal system like a muscle to avoid strain and fatigue [06:17]. He demonstrates Lip Trills (steady pitch, musical melody, and short bursts) as an effective warm-up tool.
+
+    Default to Nose Breathing: Mouth breathing dries out vocal cords and causes shallow breathing [09:04]. Nose breathing keeps the throat hydrated, improves oxygen efficiency, and lowers anxiety.
+
+    Speak with Healthy Volume: Projection transfers energy and signals personal strength and conviction [10:55]. A weak voice can cause people to assume your ideas are weak.
+
+3. Cognitive Habits
+
+    Finish One Thought at a Time: Prevent fragmented speech by starting an idea, completing it, pausing, and then moving to the next [13:34].
+
+    Use Frameworks (CCC Framework): Structure thoughts using Context (set the scene), Core (deliver the main idea), and Connect (explain relevance to the audience).
+
+    Use Analogies: When explaining complex or unfamiliar concepts, connect them to known, simple ideas (e.g., using the snowball analogy to explain compound interest).
+=====================
+Delivery Habits:
+
+1 - Pause More
+2 - Slow Down
+3 - Declarative Statements (Less Rambling)
+
+Vocal Habits:
+
+1 - Vocal Warm Up (e.g. Lip Trill routine to loosen lips) 
+2 - Breathe thru nose more
+3 - Use more VOLUME
+
+Cognitive Habits:
+
+1 - Finish 1 thought at a time
+2 - Use Frameworks to structure ideas: Context (why), Core (what), Connect (summarize and explain why it matters)
+3 - Use Analogies
+
+-------------------------------------------------
+## 3-2-1 Speaking Trick 
+
+1 thing
+2 ways
+3 steps
+
+3 Steps: Give a 3-part process or path forward (e.g., "There are three steps to finding the best experience: explore, try, and evolve.")
+
+2 Types: Compare two categories or choices (e.g., "There are two types of approaches here...")
+
+1 Thing: Deliver a single, highly focused core message (e.g., "The one thing you have to keep in mind
+
+
+## 3-2-1 Speaking Trick 
+
+The 3-2-1 Speaking Trick is a timed rehearsal framework designed to help public speakers, presenters, and students speak more concisely, eliminate filler words, and refine their delivery.
+
+Here is how it works step-by-step:
+How to Practice
+
+    Pick a Topic
+    Choose a short topic, story, or presentation outline to speak about without written script notes.
+
+    Round 1: 3 Minutes
+        Speak out loud about your topic for 3 minutes.
+        Focus on getting all your ideas out without worrying about pacing or perfection.
+        Record yourself on audio or video.
+
+    Round 2: 2 Minutes
+        Speak on the exact same topic, but cap your time at 2 minutes.
+        You must condense your points, remove fluff or repetition, and get straight to the core message.
+
+    Round 3: 1 Minute
+        Speak on the same topic one final time in just 1 minute.
+        Focus only on the absolute essentials: the key message, major takeaway, or call to action.
+
+Why It Works
+
+    Forces Precision: Trimming your delivery time by two-thirds forces your brain to drop weak transitions, unnecessary background info, and rambling thoughts.
+	
+    Reduces Filler Words: As you become more familiar with your content across the three iterations, your reliance on "um," "ah," and "like" decreases naturally.
+
+    Builds Fluidity: Repeating the main ideas three times in rapid succession creates muscle memory, making you sound clear and confident when delivering the final version.
+	
+
+-------------------------------------------------
+The PREP Framework (Point, Reason, Example, Point) is a structured communication model designed for clear, concise, and persuasive speaking. It prevents rambling, keeps your focus tight, and ensures your main takeaway lands with authority—making it ideal for executive updates, unexpected meeting questions, and high-stakes discussions.
+The Four Steps of PREP
+
+    Point: State your main thesis or bottom-line position directly in your opening sentence.
+
+    Reason: Provide the core rationale or driving factor behind your position.
+
+    Example: Illustrate your point with specific evidence, data, a mini case study, or past performance.
+
+    Point: Restate your main thesis using slightly different language to lock in the takeaway.
+
+Concrete Workplace Examples
+1. Answering an Impromptu Question in a Meeting
+
+    Context: A senior leader asks mid-meeting: "Should we shift our team focus to automated testing this quarter?"
+
+        Point: Yes, we should transition our engineering team to an automated testing workflow starting this quarter.
+
+        Reason: Manual regression testing currently consumes 25% of every sprint, creating a major bottleneck before release cycles.
+
+        Example: Last month, manual testing delayed the v2.4 launch by five days because edge-case bugs were caught late in the cycle.
+
+        Point: Automating our core test suite now will eliminate that release bottleneck and accelerate our launch velocity going forward.
+
+2. Delivering an Executive Progress Update
+
+    Context: Providing a project status update during a bi-weekly standup with leadership.
+
+        Point: The new client onboarding portal is on track to launch on November 1st.
+
+        Reason: We successfully completed integration testing with our payment provider ahead of schedule last week.
+
+        Example: During user testing on Tuesday, test participants completed account setups in under three minutes without dropping off.
+
+        Point: Because integration and usability testing are complete, we are fully confident in hitting our November 1st launch target.
+
+3. Pitching a Resource Request
+
+    Context: Requesting budget for an additional headcount or tool subscription.
+
+        Point: I recommend we upgrade to an enterprise Tier 2 license for our CRM software.
+
+        Reason: Our sales reps are losing billable outreach time doing manual data entry across disconnected systems.
+
+        Example: A recent audit showed reps spend up to six hours weekly transferring lead information manually into spreadsheets.
+
+        Point: Investing in the Tier 2 upgrade will automate that data sync and free up our team to focus purely on selling.
+
+Why PREP Is Effective in the Workplace
+
+    Front-loads the Value: Executive audiences prefer "Answer-First" (BLUF - Bottom Line Up Front) communication. PREP delivers the decision or conclusion before diving into details.
+
+    Eliminates Filler: Having a pre-set landing pad (the second "Point") gives you a clear exit route, preventing you from trailing off or repeating yourself.
+
+    Builds Trust through Grounding: Pairing a logical Reason with a concrete Example ensures your stance feels backed by evidence rather than guesswork.
+
+-------------------------------------------------
+"How to Speak Clearly Without Rambling!" by communication expert and keynote speaker Vinh Giang
+
+Key Takeaways from the Video
+
+    Shift from Self-Conscious to Audience-Conscious
+
+        Rambling often happens when you are stuck inside your own head—worrying about how you look, how you sound, or whether you'll make a mistake.
+
+        Shift your focus entirely outward toward your listener. Ask yourself: "Is my message serving the audience right now?" When you focus on delivering value to the listener rather than monitoring yourself, anxiety drops and your thoughts flow naturally.
+
+    Train Your Vocal Muscle and Articulation (Read & Speak Louder)
+
+        Your vocal system needs active exercise to build muscle memory and clarity.
+
+        Practicing speaking or reading out loud at a slightly higher volume helps align your brain and vocal cords, preventing your mouth from lagging behind your thoughts or tripping over words.
+
+    Structure Before You Speak
+
+        Stop thinking while you speak mid-sentence. When you move your mouth without knowing where the sentence ends, rambling is guaranteed.
+
+        Take a breath, anchor your main point using a framework (or a clear declarative statement), and deliver one complete thought before moving to the next.
+
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
