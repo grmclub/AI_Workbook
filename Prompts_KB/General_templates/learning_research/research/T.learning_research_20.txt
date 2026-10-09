@@ -765,6 +765,73 @@ Helps turn citations into meaningful academic support instead of pasted referenc
 Helps turn scattered references into a clear, organized, research-ready system.
 
 -------------------------------------------------
+🚨 Claude Just Changed the Research Game. ♠️ 
+Turn 40+ research papers into structured literature reviews, knowledge maps, and research gaps with 10 powerful Claude prompts. 👇
+
+1️. Find the Research Papers That Actually Matter
+"Find up to [40] research papers addressing [specific research question] in [population/context], published between [year] and [year]. Include [study types] and exclude [criteria]. Search using relevant synonyms and document the search terms. Return a table with title, year, study type, relevance, DOI/link, and access level. Separate peer-reviewed studies from preprints, remove duplicates, explain exclusions, and report the actual number of relevant papers found. Never fabricate sources or pad the results."
+
+2️. Turn 40+ Papers Into an Evidence Database
+"Using my uploaded research papers, build a structured evidence table answering [research question]. Assign each paper a unique ID (P01, P02, etc.). Extract author/year, study design, sample size, population, intervention or key factor, comparison group, outcomes, findings, effect sizes, uncertainty, and limitations. Cite the exact page, section, or table supporting each finding. Mark missing information as ‘not reported.’ Process papers in manageable batches, maintain one master table, and flag duplicate publications or overlapping samples."
+
+3️. Write a Literature Review That Synthesizes, Not Just Summarizes
+"Write a [1,200-word] literature review answering [research question] using only my attached papers. Organize it around [4–6] major themes instead of discussing each paper individually. Compare findings, methods, and populations; identify agreements, contradictions, and limitations. Cite every substantive research claim using author/year and paper ID. Distinguish correlation from causation. Conclude with what the evidence establishes, what remains uncertain, and a reference list containing only sources actually used."
+
+4️. Build a Knowledge Map of the Entire Research Field
+"Map the attached research on [topic] around [central research question]. Identify key concepts, theories, methods, and outcomes. Create a relationship table showing concept A → relationship → concept B → supporting paper IDs. Label every connection as an observed association, tested causal effect, theoretical proposal, or inference. Then generate a clear Mermaid diagram with no more than [15] nodes, followed by a plain-English explanation. Exclude unsupported connections and highlight conflicting findings."
+
+5️. Uncover Why Research Studies Contradict Each Other
+"Analyze disagreements across my uploaded papers concerning [specific claim]. Build a comparison table showing the disputed claim, supporting and opposing studies, reported effect sizes, sample differences, research methods, measurement tools, and follow-up periods. Determine whether the studies actually investigate comparable questions. Separate evidence-backed explanations from plausible hypotheses, citing relevant passages. Finish with three cautious conclusions that reflect the conflicting evidence and one research design that could help resolve the disagreement."
+
+6️. Separate Strong Evidence From Weak Conclusions
+"Evaluate the strength of evidence supporting [specific conclusion] across these papers. Assess each study using criteria appropriate to its design, including sampling, comparison groups, confounding, measurement quality, missing data, and follow-up. Rate each concern as low, moderate, high, or unclear, and justify every rating with source-based evidence. Distinguish missing reporting from confirmed methodological flaws. Flag overlapping datasets to avoid double-counting evidence. Conclude with a plain-English confidence assessment explaining how strongly this collection supports the conclusion."
+
+7️. Discover Research Gaps Worth Investigating
+"Using only the attached papers, identify [5] research gaps relevant to [topic/context]. Separate gaps explicitly acknowledged by authors from gaps inferred across studies. For each gap, provide supporting paper IDs, existing evidence, unanswered questions, significance, and a precise research question. Rank the gaps by potential impact and feasibility given my [budget], [timeline], and [available resources]. Label findings as ‘gaps within this collection’ unless a broader search verifies them. Never assume that an unaddressed topic has never been researched."
+
+9️. Turn a Research Gap Into a Feasible Study
+"Investigate this research gap: [paste gap], supported by [paper IDs]. Develop three possible study designs that fit my [timeline], [budget], and access to [participants/data/equipment]. For each option, specify the research question, hypothesis where appropriate, design, variables, comparison group, data collection, analysis strategy, potential confounders, and ethical considerations. Explain what the design can and cannot establish. Recommend the most feasible option and create a six-step execution plan. Do not invent sample-size calculations; identify the information required to calculate an appropriate sample size."
+
+8️. Trace How the Research Field Evolved Over Time
+"Create an evidence-based timeline of research on [topic] from [start year] to [end year] using the supplied papers. Identify major shifts in theories, methods, datasets, and findings. For each milestone, include the year, paper ID, key contribution, relationship to earlier work, and remaining limitations. Distinguish initial proposals from subsequent validation and wider adoption. Never label a study ‘the first’ without verification. Finish with a 200-word synthesis explaining how the field’s central questions evolved and which conclusions remain contested."
+
+10. Audit Your Literature Review Before Publication
+"Compare my draft literature review [paste/upload draft] against the attached source papers. Break the review into verifiable factual claims and create an audit table containing each claim, its citation, source location, verdict (supported, partly supported, unsupported, or unverifiable), and a corrected version where needed. Check statistics, populations, causal claims, generalizations, and limitations caused by abstract-only access. Identify important contradictory findings omitted from the draft. Verify reference details against available sources and flag anything that cannot be confirmed. Finish with the five corrections most critical to the review’s accuracy and credibility."
+
+-------------------------------------------------
+7 prompts for in-depth research like a Stanford PhD professor
+STOP TELLING CLAUDE: “RESEARCH ON THIS TOPIC".
+Bad Prompt = Bad Result. Here are 7 prompts to research anything in-depth like a Stanford PhD professor:👇
+
+1. Build a research plan
+"Create a research plan for [topic] to help me [goal], focusing on [context/time period]. Define 5 answerable questions, rank their importance, and specify the evidence and source types needed for each. Flag assumptions and finish with an
+ordered
+
+2. Find credible sources
+"Find 8-12 credible sources answering [question]. Prioritize original research, official data, and firsthand documents. Tabulate each source's date, relevant finding, and limitation. Flag sources repeating the same underlying evidence. Recommend the 3 most useful reads and explain why
+
+3. Decode a research paper
+"Analyze [paper] for [question]. Explain its methods, sample, findings, key numbers, and limitations in plain English. Separate measured results from interpretation. Reference relevant sections and finish with what the study supports, cannot establish, and which populations its findings may
+apply to."
+
+4. Connect multiple sources
+"Compare [sources] on [question].
+Tabulate their claims, methods, populations, evidence, and limitations. Identify agreement and contradictions; explain whether differences reflect definitions, timing, or study design. Give an evidence-weighted conclusion, cite supporting sources, and identify what remains unresolved
+
+5. Fact-check a claim
+"Fact-check [exact claim]. Split it into testable assertions and check each against original or authoritative evidence. Label each supported, partly supported, unsupported, contradicted, or unverifiable. Explain missing context and outdated evidence. Finish with an accurate, publishable rewrite that preserves
+uncertainty."
+
+6. Examine a debate
+"Investigate [debate] in [context]. Present each major position's strongest evidence and strongest counterevidence. Separate factual disagreements from value judgments. Weight conclusions by evidence quality, identify common ground, and explain what new finding would most
+change the assessment
+
+7. Investigate causes
+"Explain why [outcome] occurs in [setting]. Compare 3 plausible causes, their mechanisms, supporting and conflicting evidence, and applicable conditions. Distinguish correlation from causation and consider alternative explanations. Rank causes by evidential support and explain the strongest mechanism step by step."
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
 
