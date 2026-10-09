@@ -1,0 +1,61 @@
+
+-------------------------------------------------
+🚨 CLAUDE AS YOUR AI MBA BUSINESS STRATEGIST.
+8 powerful prompts for research, competitors, pricing & strategy. 👇🏻
+
+1️. Full Business Analysis
+"Act as an MBA-trained business strategist. My business is [describe]. Analyze it end-to-end: revenue model, market position, competitive threats, operational gaps, growth bottlenecks, and the 3 strategic moves most likely to drive meaningful growth over the next 12 months. Prioritize your recommendations by impact and effort."
+
+2️. Market Research Report
+"Act as a senior MBA market research analyst. I’m entering [market] with [describe offer]. Analyze the market size, customer segments, key trends, unmet needs, competitive landscape, and market timing. Identify the biggest opportunity and the strongest reason to enter—or avoid—the market now."
+
+3️. Competitor Teardown
+"Act as an MBA-trained competitive intelligence strategist. My top 3 competitors are [list]. Analyze their positioning, pricing, strengths, weaknesses, acquisition strategy, and differentiators. Then identify the most valuable market gap I could exploit and how to position my offer to stand out."
+
+4️. Pricing Strategy Audit
+"Act as an MBA pricing strategist. My offer is [describe] and costs [price]. Evaluate the price against customer value, willingness to pay, and the competitive landscape. Identify whether I’m underpricing or overpricing, where my pricing power comes from, and how to strengthen my positioning."
+
+5️. Customer Segmentation
+"Act as an MBA customer strategy consultant. My business is [describe] and my customers are [describe]. Identify the 3 highest-value customer segments. For each, analyze their needs, buying triggers, willingness to pay, and best acquisition channels. Then recommend which segment to prioritize first."
+
+6️. SWOT Analysis
+"Act as an MBA strategic business analyst. My business is [describe]. Build a specific, evidence-based SWOT analysis. For every weakness, provide a practical fix. For every threat, give a mitigation strategy. For every opportunity, recommend the first action to take."
+
+7️. Go-To-Market Strategy
+"Act as an MBA-trained go-to-market strategist. I’m launching [product] for [audience] in [market]. Build a GTM plan covering positioning, ideal target segment, acquisition channels, launch sequence, messaging, and a strategy for reaching the first 100 customers. Rank channels by speed, cost, and scalability."
+
+8️. Strategic Growth Plan
+"Act as an MBA-trained business strategy consultant. My business generates [amount] from [describe], and I want to reach [target revenue] within [timeframe]. Build a realistic growth plan covering revenue levers, new markets, offer expansion, acquisition opportunities, and key metrics. Identify the biggest growth constraint and the first move to overcome it."
+
+-------------------------------------------------
+🚨 What if you had McKinsey-level strategic thinking at your fingertips?
+🔥 These 8 Claude prompts can help you build a smarter business plan before you launch. 👇
+
+1️. ONE-PAGE BUSINESS PLAN
+Act as a top-tier strategy consultant at McKinsey. Transform my business idea [DESCRIBE IDEA] into a focused, actionable business plan covering the core problem, target customers, solution, revenue model, competitive advantage, and a 90-day execution roadmap. Prioritize the most critical decisions and deliver a plan I can start implementing immediately.
+
+2️. MARKET VALIDATION REPORT
+Act as a senior market intelligence analyst. Evaluate my business idea [DESCRIBE IDEA] for [TARGET AUDIENCE]. Assess market demand, identify 3 key competitors and their weaknesses, uncover underserved customer needs, and determine whether the opportunity is worth pursuing, needs repositioning, or faces excessive competition. Support your conclusions with evidence wherever possible.
+
+3️. REVENUE MODEL DESIGNER
+Act as an experienced startup CFO. Design 3 potential revenue models for my business [DESCRIBE BUSINESS]: subscription, one-time purchase, and hybrid. For each, recommend pricing, explain revenue potential, estimate monthly income using clearly stated assumptions, and calculate the break-even point. Compare profitability, scalability, and customer appeal, then recommend the strongest option.
+
+4️. GO-TO-MARKET BLUEPRINT
+Act as a senior growth strategist. My business is [DESCRIBE BUSINESS], and my ideal customer is [TARGET CUSTOMER]. Build a practical go-to-market strategy to acquire my first 10 paying customers. Identify the best acquisition channels, craft a compelling positioning statement, recommend specific outreach tactics, and outline a step-by-step action plan that minimizes wasted time and money.
+
+5️. COMPETITOR TEARDOWN
+Act as an elite competitive intelligence strategist. Analyze the top 5 competitors of my business [DESCRIBE BUSINESS], comparing their positioning, pricing, strengths, weaknesses, and competitive advantages. Identify underserved market segments and profitable gaps, then develop a differentiation strategy that helps my business stand out, attract customers, and compete more effectively.
+
+6️. 12-MONTH FINANCIAL PROJECTIONS
+Act as a startup CFO. Build a 12-month financial forecast for [DESCRIBE BUSINESS], including monthly revenue, operating expenses, cash flow, cash burn, and the projected break-even month. State your assumptions clearly, create conservative, moderate, and optimistic scenarios, and stress-test the 3 assumptions most likely to determine the business's financial success.
+
+8️. INVESTOR PITCH SUMMARY
+Act as an elite startup pitch coach. Create a compelling 300-word investor summary for [DESCRIBE BUSINESS], covering the problem, solution, market opportunity, business model, traction, team, and funding request. Build a persuasive narrative around why this business matters now, highlight its strongest investment potential, and close with a memorable statement that motivates investors to take the next meeting. Never invent traction or financial figures.
+
+7️. BUSINESS RISK ASSESSMENT
+Act as a senior business risk analyst. Evaluate my business idea [DESCRIBE IDEA] and identify the 5 most significant risks across market demand, finances, execution, legal compliance, and competition. Rate each risk by likelihood and potential impact, recommend practical mitigation strategies, and prioritize the actions I should take before investing significant time or money.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
