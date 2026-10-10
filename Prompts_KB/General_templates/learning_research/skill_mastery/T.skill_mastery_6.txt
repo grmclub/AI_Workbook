@@ -271,7 +271,73 @@ Build a short workshop around one team workflow: research, customer replies or r
 Help a creator collect reader questions, plan editions, edit drafts, send the newsletter and study opens, clicks and replies. AI can assist research and repurposing, while the creator’s judgment stays central. Offer a four-week pilot with one clear topic and publishing rhythm.
 
 -------------------------------------------------
+7 AI PROMPTS EVERY STUDENT NEEDS 🎯
+Learn faster. Research smarter. Remember more. 🧠👇
+
+1. The Concept Teacher 🎯
+"Teach me [TOPIC] from the basics. Explain it simply, then build toward advanced concepts. Give me one example and ask me 3 questions to test my understanding."
+
+2. The Research Assistant 🔬
+"Help me research [TOPIC]. Give me key concepts, useful search terms, important questions, and reliable source types. Never invent sources."
+
+3. The Active-Recall Coach 🧠
+"Create 10 active-recall questions from these notes. Mix definitions, why/how, comparisons, and applications. Hide the answers until I ask."
+
+4. The Practice Coach 📝
+"Give me 5 practice problems on [TOPIC], from easy to hard. Let me solve each one before showing the solution. Then explain my mistakes."
+
+5. The Writing Coach ✍️
+"Review my draft for clarity, structure, grammar, and logical gaps. Tell me what to improve and why. Don't rewrite it for me."
+
+6. The Coding Mentor 💻
+"Help me solve [PROBLEM] without giving me the full answer. Give me hints, question my approach, and teach me the concept behind the solution."
+
+7. The Weekly Planner 📅
+"Create a balanced weekly study plan for [SUBJECTS] based on my [DEADLINE] and [HOURS] of daily study time."
+
 -------------------------------------------------
+##10 power user inputs
+
+**PROMPT 1 - The Expert Switch (Stop asking like a beginner)**
+Bad: "Help me with marketing"
+Power:
+> "Act as a CMO who scaled 2 brands 0-$1M without ads, phone-only. You hate theory. You give tactics that work in 48hrs. My context: [YOUR BUSINESS]. My goal: [GOAL in 30 days]. Now tell me what to do."
+You don't need more info. You need a better expert behind the keyboard.
+
+**PROMPT 2 - The Anti-Fluff Filter**
+> "Before you answer, run your answer through this filter: Remove words: delve, unlock, tapestry, realm, elevate, game-changer, leverage, in today's fast-paced world. Remove em dashes. If answer sounds like LinkedIn motivation, rewrite it like you're texting your friend at 11pm. Max 150 words per section."
+Instantly kills 90% of AI slop.
+
+**PROMPT 3 - The "Think Harder" Button**
+Regular users accept first answer. Power users force second thinking.
+> "That's a 5/10 answer. Now give me the 9/10 version: Think deeper, give specific examples with numbers, tell me what 99% miss, and tell me what you'd do if you were broke and had 48 hours to make $100."
+Use this after EVERY weak answer. Watch it upgrade.
+
+**PROMPT 4 - The Socratic Teacher (Not Answer Giver)**
+> "Don't give me the answer. Act as my Socratic coach for [TOPIC]. Ask me 1 question at a time, wait for my answer, then ask next. If I'm wrong, give me 1 clue not the answer. Stop when I can explain it myself in 1 sentence. Start now."
+Power users don't use AI to think FOR them. They use AI to think BETTER.
+
+*PROMPT 5 - The Prompt Improver**
+> "I will give you a prompt I wrote: [PASTE YOUR PROMPT]. Rate it 1-10. Tell me 3 weaknesses and rewrite it into a 10/10 prompt using CRAFT framework (Context, Role, Action, Format, Test). Give me the final copy-paste version."
+This one prompt replaces all prompt courses.
+
+**PROMPT 6 - The 80/20 Extractor**
+> "I have this long [VIDEO TRANSCRIPT / ARTICLE / PDF]: [PASTE]. Extract: Top 3 ideas that matter, 1 thing I should apply in next 24hrs, 1 thing I should ignore, and 1 tweet-length summary. No summary of everything. Only what moves the needle."
+Saves 5 hours/week of consuming.
+
+**PROMPT 7 - The Personal OS Installer (Install once, use forever)**
+> "From now on, you are my Personal OS. Rules you must follow every time:
+> 1. Always ask: What is my real goal?
+> 2. Give me shortest path, not longest explanation
+> 3. End with 1 next step I can do in 10 mins on my phone
+> 4. If I'm wasting time on low-value task, call it out brutally
+> 5. Never agree just to be nice
+> Confirm with 'Installed' and follow this forever."
+Regular users open ChatGPT like Google.
+Power users install an operating system.
+Copy Prompt 7 right now. Paste it into ChatGPT. Watch it change.
+You don't need a better AI. You need better inputs.
+Save this. Install Prompt 7 tonight.
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
