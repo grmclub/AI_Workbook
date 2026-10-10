@@ -1,0 +1,77 @@
+
+-------------------------------------------------
+These 9 prompt frameworks can turn average answers into expert-level outputs.
+Sаvе this guide and use the right one for every task 👇
+
+1/ 9 Prompt Frameworks to Master AI
+If ChatGPT gives weak answers, the problem is often the prompt, not the model.
+A well-structured prompt helps AI understand:
+➔ What role to play
+➔ What problem to solve
+➔ What information matters
+➔ What output you expect
+Instead of writing random instructions, use proven frameworks that guide the conversation.
+These frameworks work for:
+➔ Content creation
+➔ Marketing
+➔ Research
+➔ Business planning
+➔ Learning
+➔ Problem solving
+The right framework can instantly improve the quality of your results.
+
+2/ Frameworks for Tasks and Problem Solving
+➔ R-A-C-E
+Role, Action, Context, Expectation
+Best when you need AI to complete a specific task with clear instructions.
+➔ R-I-S-E
+Role, Identify, Steps, Expectation
+Useful for breaking down challenges and finding solutions.
+➔ S-T-A-R
+Situation, Task, Action, Result
+Great for analyzing projects, case studies, and performance reviews.
+➔ S-O-A-P
+Subject, Objective, Action, Plan
+Helpful when creating structured plans and practical solutions.
+Each framework gives AI a clear roadmap before it starts generating answers.
+
+3/ Frameworks for Learning and Persuasion
+➔ C-L-E-A-R
+Context, Learn, Evaluate, Action, Review
+Useful for learning new topics and measuring progress.
+➔ P-A-S-T-O-R
+Problem, Amplify, Story, Transformation, Offer, Response
+Works well for marketing, sales, copywriting, and persuasive communication.
+➔ F-A-B
+Features, Advantages, Benefits
+Ideal for explaining products, services, and ideas in a way people understand.
+These frameworks help AI move beyond information and focus on outcomes.
+
+4/ Frameworks for Analysis and Decision Making
+➔ 5-W-1-H
+Who, What, When, Where, Why, How
+Perfect for investigating problems and understanding situations from every angle.
+➔ G-R-O-W
+Goal, Reality, Options, Will
+Excellent for coaching, planning, goal setting, and decision making.
+Both frameworks force clarity before action.
+When the inputs become clearer, the outputs become better.
+
+5/ Which Framework Should You Use?
+Use R-A-C-E when you know exactly what you want.
+Use R-I-S-E when solving problems.
+Use S-T-A-R when reviewing performance or projects.
+Use S-O-A-P when building plans.
+Use C-L-E-A-R when learning.
+Use P-A-S-T-O-R when persuading.
+Use F-A-B when explaining value.
+Use 5-W-1-H when investigating.
+Use G-R-O-W when setting goals.
+
+Pick one framework today and compare the results against your usual prompts.
+You'll quickly see why structure matters.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
