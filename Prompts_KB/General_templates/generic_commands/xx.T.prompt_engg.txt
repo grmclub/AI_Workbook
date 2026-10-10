@@ -59,6 +59,59 @@ These 20 rules work together to create a system:
 The result is more reliable outputs for writing, research, coding, planning, analysis, and decision-making.
 
 -------------------------------------------------
+This 13-level roadmap shows the path to production-ready AI systems.
+Here’s the full step-by-step roadmap 👇
+
+1/ AI Beginner to Elite Roadmap: From ChatGPT, n8n and Python to RAG, AI Agents, Docker and AWS
+AI is not a single tool or skill.
+Using ChatGPT to write an email is very different from building an AI application that can search knowledge, use tools, complete tasks, and run in production.
+The first three levels build your base:
+➔ Level 1, AI Foundations: Understand LLMs, context windows, hallucinations, and AI agents.
+➔ Level 2, Prompt Engineering: Learn few-shot prompting, structured outputs, and context management.
+➔ Level 3, AI Productivity: Use AI for research, writing, learning, analysis, and presentations.
+These levels help you use AI more effectively before you move into automation, coding, or model development.
+
+2/ Levels 4 to 5: Automate Work and Create Content
+Once you can use AI confidently, the next stage is applying it to real workflows and creative production.
+➔ Level 4, AI Automation: Build workflows with n8n, Make, Zapier, and Airtable.
+Connect tools, move information between apps, and reduce the repetitive work you handle manually.
+➔ Level 5, AI Content Creation: Learn how AI supports text, image, video, and audio production.
+Tools from this level include:
+➔ MidJourney and Flux for images
+➔ Veo for video
+➔ ElevenLabs for audio
+The goal is not to use every tool. It is to understand which tool fits each part of your workflow and how the tools can work together.
+
+3/ Levels 6 to 9: Build the Technical Foundation
+This is where you move from operating AI tools to understanding how AI systems are built.
+➔ Level 6, Programming Fundamentals: Learn Python, variables, loops, APIs, and JSON.
+➔ Level 7, Machine Learning: Study linear regression, decision trees, and XGBoost so you can train predictive models.
+➔ Level 8, Deep Learning: Learn neural networks, CNNs, RNNs, and transformers. Use PyTorch and TensorFlow as development frameworks.
+➔ Level 9, Generative AI: Study transformer architecture, attention, and fine-tuning.
+You do not need to master every technical concept at once. Build enough understanding at each level before moving forward.
+Even basic programming knowledge can completely change what you are able to create with AI.
+
+4/ Levels 10 to 12: Build and Ship Real AI Systems
+These levels focus on applications that use real data, take actions, and work outside a simple chat window.
+➔ Level 10, RAG Systems: Learn vector databases, semantic search, and knowledge bases.
+Tools may include Pinecone, Weaviate, and Chroma. These systems help AI retrieve relevant information before generating an answer.
+➔ Level 11, AI Agents: Learn tool calling, planning systems, and multi-agent setups with LangGraph, LangChain, and AutoGen.
+➔ Level 12, AI Engineering: Build APIs with FastAPI, package applications with Docker, and deploy them using cloud platforms such as AWS.
+This is the stage where AI knowledge becomes a working product that other people can use.
+
+5/ Level 13: Choose Your AI Specialisation
+After learning the full path, choose one direction and go deeper.
+Possible specialisations include:
+➔ AI automation
+➔ Agent engineering
+➔ Computer vision
+➔ AI research
+➔ Natural language processing
+Beginners should start at Level 1 instead of jumping directly into agents or advanced models.
+Intermediate learners should find the first level that feels difficult and stay there until the concepts become clear.
+There is a major difference between using AI and being able to build with it.
+The people progressing fastest are not necessarily learning everything. They understand their current level, focus on the next one, and follow the roadmap in order.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
