@@ -273,6 +273,85 @@ Do not measure progress by how many prompts you write.
 Measure it by how much repeated work you remove, how consistently the task is completed, and how easily the workflow can be reused.
 
 -------------------------------------------------
+Most people use Claude the wrong way.
+They treat it Lіκe a chatbot and lose hours every week.
+These hidden features can change how you work, build, and create with AI 👇
+
+1/ Pick The Right Claude Model
+Most users stick to one model for everything.
+That is one of the biggest reasons they get inconsistent results.
+Use the model that matches the task:
+➔ Haiku for fast responses, simple tasks, classifications, and lightweight work.
+➔ Sonnet for daily business tasks, writing, research, and most professional work.
+➔ Opus when accuracy, deep reasoning, strategy, coding, or complex analysis matters most.
+A simple model switch can improve speed, cost efficiency, and output quality without changing your prompt.
+The goal is not to use the most powerful model every time.
+The goal is to use the right model for the job.
+
+2/ Improve Output With Better Prompting
+Claude performs best when instructions are structured clearly.
+Instead of writing vague requests, provide:
+➔ A role
+➔ A goal
+➔ An output format
+➔ Constraints
+For complex workflows:
+➔ Use XML tags to separate instructions from source material.
+➔ Tell Claude exactly what success looks like.
+➔ Add "If you are unsure, say so explicitly. Do not guess." when accuracy is important.
+➔ Define the output format before Claude begins.
+Small prompt improvements often produce dramatically better results than longer prompts.
+The quality of the instruction usually determines the quality of the output.
+
+3/ Build Long-Term Context With Projects, Memory, And Massive Context
+One of Claude's biggest advantages is context.
+Use Projects to store:
+➔ Brand voice
+➔ Writing style
+➔ Team instructions
+➔ Reference files
+➔ Standard workflows
+Use Memory to help Claude remember useful preferences across conversations.
+For larger workloads:
+➔ Analyze large documents.
+➔ Process research collections.
+➔ Review entire codebases.
+➔ Extract information from long reports.
+Instead of re-explaining everything in every chat, build systems that keep important context available.
+That is how power users save time and maintain consistency.
+
+4/ Unlock Advanced Capabilities
+Most users never touch the features that make Claude truly powerful.
+Use Extended Thinking when working on:
+➔ Strategic planning
+➔ Complex coding
+➔ Mathematical reasoning
+➔ Deep analysis
+➔ Verification tasks
+Use Connectors and MCP to connect Claude with external tools and workflows.
+Use Cowork when you need Claude to participate in multi-step file-based tasks.
+Use Artifacts to create:
+➔ Interactive apps
+➔ Dashboards
+➔ Data visualizations
+➔ HTML pages
+➔ React components
+These features move Claude beyond conversation and into execution.
+
+5/ Use Claude Code For Serious Development
+Claude Code is designed for much more than generating snippets.
+It can:
+➔ Understand large codebases.
+➔ Plan architecture.
+➔ Write code.
+➔ Run tests.
+➔ Review results.
+➔ Fix errors.
+➔ Repeat the process until tasks are complete.
+A powerful addition is CLAUDE.md.
+Store coding standards, project rules, and development preferences inside this file so Claude understands how your team works before writing code.
+When combined with Projects, Memory, Extended Thinking, MCP, Cowork, and Artifacts, Claude becomes far more than a chatbot.
+It becomes a complete AI work system.
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
