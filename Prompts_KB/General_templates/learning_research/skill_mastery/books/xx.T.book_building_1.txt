@@ -1,0 +1,39 @@
+
+-------------------------------------------------
+TURN ANY BOOK INTO A SKILL YOU CAN ACTUALLY USE USING THESE PROMPTS 👇🏽👇🏽
+📚 BOOK → SKILL SYSTEM
+
+## EXTRACT THE USEFUL KNOWLEDGE
+"I am reading [BOOK] because I want to improve [SKILL OR OUTCOME].
+Identify the ideas that can change what I do—not merely what I know. For each useful idea, explain the decision or behaviour it should change, give one realistic example and mention when the advice may not apply.
+Separate the results into: essential principles, useful supporting ideas and interesting information I can safely ignore for now.
+Do not summarize every chapter. Prioritize the smallest number of ideas that could create the largest practical improvement."
+
+1. Extract
+"Extract the 10 most important ideas from this book. Ignore repetition, stories, and filler. Focus only on ideas that can change how I think or act."
+2. Simplify
+"Explain each idea in simple language, as if teaching someone with no background knowledge. Give one practical example for each."
+3. Convert to skills
+"Turn the book’s key ideas into specific skills I can practice. For each skill, tell me exactly what I should be able to do when I have mastered it."
+4. Build exercises
+"Create practical exercises based directly on the book. Make them progressively harder and designed for real-world application."
+5. Create a 7-day challenge
+"Turn the book into a 7-day action challenge. Give me one concrete task per day that forces me to apply the book rather than just read it."
+6. Apply it to my life
+"Analyze how the principles in this book could apply to my current work, finances, business, relationships, leadership, and personal development. Identify specific opportunities."
+7. Create decision rules
+"Turn the book's most useful principles into 10 simple decision rules I can use when making real-life decisions."
+8. Create a checklist
+"Create a one-page checklist I can use repeatedly to apply the book’s ideas in real situations."
+9. Test me
+"Act as a strict coach. Test whether I actually understand and can apply the book. Give me scenarios and grade my responses."
+10. Build a mastery system
+"Create a 30-day plan to turn this book into a practical skill. Include daily practice, weekly reviews, measurable targets, and a final test."
+
+🔥 The ultimate prompt
+"Turn this book from information into capability. Extract its highest-value principles, identify the skills behind those principles, teach each skill simply, create real-world exercises, give me scenarios to solve, challenge my assumptions, identify where the author’s ideas may be weak or outdated, and build a 30-day practice system. By the end, I should be able to demonstrate the ideas through my actions rather than merely explain them."
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
