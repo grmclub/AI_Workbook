@@ -231,6 +231,54 @@ Google offering 12 free AI courses for beginners
 
 
 https://www.skills.google/
+
+===============================
+1/ Google AI Learning
+Google has multiple AI learning paths for beginners and professionals.
+You can start with:
+➔ Introduction to Generative AI.
+➔ Introduction to Large Language Models.
+➔ AI Image Generation.
+➔ Google Cloud AI learning paths.
+➔ Google Skills badges.
+Many beginner resources are available at no charge, while some professional certificates require a subscription or are free only through eligible education and workforce programs.
+
+2/ Microsoft AI Learning
+Microsoft Learn provides free self-paced AI training.
+Popular options include:
+➔ AI Fundamentals (AI-900 learning path).
+➔ Generative AI learning modules.
+➔ Azure AI learning paths.
+➔ Copilot learning resources.
+➔ AI Skills Challenge events when available.
+The learning content is free. However, official Microsoft certifications generally require passing a paid certification exam unless Microsoft is running a promotional challenge.
+
+3/ OpenAI Academy
+OpenAI Academy is completely free for anyone with a ChatGPT account.
+Current learning paths include:
+➔ AI Foundations.
+➔ Applied AI Foundations.
+➔ Agents & Workflows.
+These courses include completion certificates for eligible courses, but they are course-completion certificates, not official OpenAI Certifications. OpenAI distinguishes Academy certificates from its formal certification program.
+
+4/ Harvard AI Learning
+Harvard offers excellent AI education, but it's important to understand the difference between free learning and paid credentials.
+Popular options include:
+➔ Harvard CS50 AI (free to learn through the CS50 platform).
+➔ Harvard Extension School AI programs.
+Some Harvard learning materials are free to access, but many certificates require payment depending on where you take the course.
+
+5/ Build Your AI Skills Without Spending Thousands
+If you're starting today, you can learn directly from the organizations building and advancing AI.
+A practical path is:
+➔ Learn AI fundamentals with Google.
+➔ Explore Azure AI through Microsoft Learn.
+➔ Master practical ChatGPT workflows with OpenAI Academy.
+➔ Strengthen your foundations with Harvard's AI courses.
+Before enrolling, always verify whether you're receiving a free badge, a free course-completion certificate, or a paid professional certification so you know exactly what you're earning.
+
+===============================
+
 -------------------------------------------------
 I am shocked when people tell me they still pay to learn the
 basics of AI. These are the best FREE guides you need for 2026!
