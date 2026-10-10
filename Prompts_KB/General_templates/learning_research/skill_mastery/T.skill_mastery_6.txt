@@ -339,6 +339,23 @@ Copy Prompt 7 right now. Paste it into ChatGPT. Watch it change.
 You don't need a better AI. You need better inputs.
 Save this. Install Prompt 7 tonight.
 -------------------------------------------------
+5 PROMPTS THAT REPLACE A COPYWRITER, AN EDITOR, AND A STRATEGIST.
+
+PROMPT 1: The Hook Machine (Copywriter)
+"Act as a direct-response copywriter. Write 10 scroll-stopping hooks for a post about [topic] aimed at [audience]. Use curiosity, specific numbers, and bold claims. No clichés. Rank them by how likely they are to stop the scroll."
+
+PROMPT 2: The Sales Page Writer (Copywriter)
+"Write a sales page for [product] that sells for [price] to [audience]. Structure: pain → agitation → solution → proof → offer → objection handling → CTA. Write like you're talking to one person, not a crowd."
+
+PROMPT 3: The Ruthless Editor (Editor)
+"Edit this draft like a senior editor with no patience for fluff. Cut every word that doesn't earn its place. Flag weak arguments, vague claims, and boring sentences. Show me the edited version, then list what you changed and why.
+[paste draft]"
+
+PROMPT 4: The 30-Day Content Plan (Strategist)
+"Act as a content strategist. I help [audience] with [outcome]. Build a 30-day content plan mixing education, stories, proof, and offers. For each day give the hook, format, and goal of the post."
+
+PROMPT 5: The Gap Finder (Strategist)
+"Here are 3 competitors in my niche: [names/links]. Analyze what they talk about, what they ignore, and what their audience keeps asking for. Then give me 5 positioning angles nobody in this space owns yet."
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
