@@ -1,0 +1,64 @@
+
+-------------------------------------------------
+Prompting is not about using fancy words.
+Most bad AI answers happen because your request is unclear.
+Tell AI what you Wаnт, why you Νёеd it, and how it should look 👇
+
+1/ Prompt Engineering Starts With Clarity
+Most poor AI outputs come from unclear instructions, not weak AI.
+The first rules focus on reducing confusion:
+➔ Be specific about the outcome you want.
+➔ Define the role the AI should play.
+➔ Provide context, goals, and constraints.
+➔ Explain why you're asking.
+➔ Clarify who the final answer is for.
+When the model understands your objective, audience, and expectations, it makes far fewer assumptions and produces more relevant responses.
+
+2/ Control What The AI Produces
+Good prompts define the destination before the AI starts generating.
+Important rules include:
+➔ State the output format.
+➔ Set the desired tone.
+➔ Use examples to show expectations.
+➔ Add constraints to reduce fluff.
+➔ Avoid vague instructions and ambiguity.
+Instead of asking for "a summary," specify whether you want bullets, a table, a checklist, or a step-by-step guide.
+The more clearly you define the structure, the easier it becomes for AI to deliver useful results.
+
+3/ Break Complex Work Into Steps
+Large requests often perform better when divided into smaller tasks.
+Useful techniques include:
+➔ Break down tasks into manageable stages.
+➔ Use step-by-step reasoning.
+➔ Give multi-step commands.
+➔ Chain prompts together.
+➔ Use one output as the next input.
+Rather than asking for everything at once, guide the process:
+Analyze → Plan → Draft → Improve
+This approach reduces mistakes and improves consistency.
+
+4/ Improve And Validate Responses
+Strong prompting is an iterative process.
+Use these rules to improve output quality:
+➔ Ask for multiple options.
+➔ Refine responses instead of starting over.
+➔ Request rewrites when needed.
+➔ Ask the AI to identify missing details.
+➔ Request validation checks for logic, accuracy, and completeness.
+➔ Restrict unwanted behavior such as jargon, repetition, or unnecessary detail.
+Treat the first response as a draft, not the final answer.
+
+5/ Turn Prompting Into A Repeatable Workflow
+The biggest shift happens when prompting stops being trial and error.
+These 20 rules work together to create a system:
+➔ Clear objectives
+➔ Better context
+➔ Better structure
+➔ Better reasoning
+➔ Better validation
+The result is more reliable outputs for writing, research, coding, planning, analysis, and decision-making.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
