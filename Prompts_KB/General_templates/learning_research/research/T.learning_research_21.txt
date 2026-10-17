@@ -1,0 +1,24 @@
+
+-------------------------------------------------
+🚨 BREAKING: Turn ChatGPT into Your Personal Research Assistant.
+Go from a single question to a comprehensive, evidence-backed research brief with these 7 powerful prompts. 💨👇
+
+1️. The Research System 🔬 — Act as a senior research strategist. Build a complete research roadmap for [TOPIC] based on my current knowledge, research goals, key decisions, and available time. Break the topic into essential questions, prioritize the best sources to investigate, create a logical reading sequence, and design a note-taking system and final research brief outline.
+
+2️. The Source Filter 🕵️ — Act as an expert fact-checker. Evaluate these sources about [TOPIC] based on author credibility, publication date, evidence quality, methodology, potential bias, and conflicts of interest. Rank them by reliability, extract their key claims, flag contradictions, distinguish verified facts from unsupported assertions, and identify unanswered questions. Sources: [INSERT SOURCES].
+
+3️. The Concept Ladder 🧠 — Act as an exceptional university professor. Teach me [TOPIC] from beginner to advanced level. Identify the foundational concepts, essential terminology, common misconceptions, and major expert disagreements. Build a step-by-step learning path with clear explanations, practical examples, short quizzes, progressive exercises, and a concise glossary. Adapt each lesson to my answers before moving forward.
+
+4️. The Debate Map ⚖️ — Act as a neutral research moderator. Map the major competing perspectives on [TOPIC]. Present the strongest argument for each position, its supporting evidence, underlying assumptions, and strongest counterarguments. Compare the quality of available evidence, identify areas of consensus and disagreement, and explain what remains uncertain. Use credible sources and avoid false balance when the evidence favors one position.
+
+5️. The Note Synthesizer 📝 — Act as a senior research analyst. Transform my raw notes, saved quotations, statistics, and unanswered questions about [TOPIC] into a structured research document. Group findings by theme, extract the five most important insights, preserve relevant evidence and source references, flag contradictions, separate facts from interpretations, and identify critical information gaps. My notes: [INSERT NOTES].
+
+6️. The Research Brief 📊 — Act as a senior strategy consultant. Create an evidence-driven research brief on [TOPIC] to support [DECISION OR GOAL]. Include an executive summary, the three most consequential findings with supporting evidence, competing interpretations, key uncertainties, potential risks, practical implications, and prioritized recommendations. Cite verifiable sources, distinguish established facts from assumptions, and conclude with the most valuable next step.
+
+7️. The Teach-Back Test 🎓 — Act as a rigorous thesis advisor. Test my understanding of [TOPIC] using 10 challenging questions that progress from foundational knowledge to expert-level reasoning. Evaluate my answers for accuracy, depth, evidence, and logical consistency. Ask targeted follow-up questions to expose knowledge gaps, correct misconceptions, and challenge weak arguments. Finish by asking me to explain the subject to a 12-year-old, then provide a score and a personalized improvement plan.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
