@@ -160,7 +160,7 @@ PROMPT #10
 If you want to turn simple techniques into core principles
 Start from specific examples, let artificial intelligence extract universal rules, applicable anywhere → content becomes more profound and more credible
 -------------------------------------------------
-##I Accidentally Unlocked “God Mode” in ChatGPT 😮 These 7 Prompts Showed Me Things I Didn’t Know Existed 
+##I Accidentally Unlocked "God Mode" in ChatGPT 😮 These 7 Prompts Showed Me Things I Didn’t Know Existed 
 
 1. Forbidden Wisdom Decoder
 Prompt:
@@ -396,6 +396,31 @@ Budget: [Budget]
 Primary goal: [Sales / awareness / email growth / authority]
 Build a realistic launch plan covering pre-launch, launch week, and the first 30 days afterward. Prioritize the highest-impact actions and suggest specific content I can create for each stage.
 -------------------------------------------------
+5 ChatGPT prompts for smarter exam preparation
+📚 Students! Stop scrolling! These 5 ChatGPT prompts belong in your exam-preparation toolkit! 🎯
+
+1️. Plan Your Revision
+"Act as my study planner. My subject is [SUBJECT], my exam is on [DATE], and I can study for [TIME] each day. Create a realistic revision timetable with daily topics, practice questions, short breaks, and review sessions. Prioritize my weakest topics and ask me for any missing details."
+✅ Why it works: It turns a huge syllabus into manageable daily tasks and makes room for practice instead of relying only on rereading.
+
+2️. Understand Hard Topics
+"Teach me [TOPIC] as if I’m a [CLASS/FORM/YEAR] student. Explain it in simple language, give me an everyday analogy, show me one worked example, and point out three common mistakes. Finish with three questions to check my understanding, but don't reveal the answers until I try."
+✅ Why it works: A simple explanation followed by a worked example helps you understand the idea before testing whether you can apply it.
+
+3️. Quiz Yourself Properly
+"Act as my examiner for [SUBJECT/TOPIC]. Ask me 10 questions, one at a time, mixing factual recall, application, and reasoning. Don't show the answer before I respond. Mark each answer, explain any mistakes, keep my score, and finish by listing my three weakest areas to revise."
+✅ Why it works: Answering before seeing the solution reveals what you can actually recall instead of what merely looks familiar in your notes.
+
+4️. Practise Exam Questions
+"Create a [DURATION]-minute practice paper for [SUBJECT/EXAM LEVEL] on [TOPIC], containing [NUMBER] questions with marks allocated to each. Use a realistic mix of question types. Show me the paper without answers first. After I submit my answers, mark them using a clear rubric, explain where I lost marks, and show me how to improve."
+✅ Why it works: Timed practice helps you become familiar with exam conditions and identify exactly where you need to improve.
+
+5️. Remember More Easily
+"Help me remember [FORMULA/FACTS/PROCESS] for [SUBJECT]. Create three memory aids: a mnemonic, a short memorable story or visual association, and flashcards for spaced revision. Explain what each part represents, keep the information accurate, and test me without showing the answers first."
+✅ Why it works: Different memory aids suit different kinds of information, while flashcards help you practise recalling it again over time.
+Which one are you trying first? 👇
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
