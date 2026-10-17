@@ -192,6 +192,62 @@ My niche is [NICHE]. Give me 100 content ideas broken into:
 10 mistakes, 10 myths, 10 tips, 10 tools, 10 case studies, 10 questions, 10 stories, 10 predictions, 10 how-tos, 10 resources.
 Make them specific, not generic.
 -------------------------------------------------
+These 30 prompts save hours of work every single week 👇🏽👇🏽
+
+1. EMAILS — 3 SHORTCUTS
+These /words are shortcuts YOU create, not built-in ChatGPT commands. Save each expansion in your phone's keyboard Text Replacement; type the shortcut, then paste the expanded prompt into ChatGPT.
+/reply → "Read this email: [paste]. My relationship with the sender is [relationship]. I want [outcome], but I cannot promise [limit]. Draft a reply under [number] words that answers every actual question, sounds like [my tone], and ends with one next step. Point out any question my notes did not answer instead of guessing."
+/followup → "Here is my previous message and the date I sent it: [paste]. Write a follow-up to [person] about [request] in under 90 words. Remind them of the relevant context in one line, ask a yes-or-no or date-specific question, and give an easy way to decline. Do not imply they have read my first message."
+/decline → "Help me turn down [request] from [person] while preserving our relationship. The true reason I can share is [reason or none]. Draft a warm version under 70 words and a more direct version under 40. Do not invent an excuse or offer future help unless I have specified [genuine alternative]."
+
+2. MEETINGS — 3 SHORTCUTS
+/brief → "Turn these rough notes into a one-page meeting brief for [audience]: [paste]. Separate facts, decisions already made, open questions and risks. Name the owner and date only when stated. Finish with the single decision the reader needs to make next. Put unsupported assumptions under 'confirm' rather than quietly filling them in."
+/agenda → "We have [minutes] with [participants] to decide [specific decision]. Design a timed agenda that starts with the evidence everyone needs, reserves at least a third of the time for the decision and ends with owners and deadlines. List what must be sent before the meeting. Remove updates that could be handled asynchronously."
+/actions → "Extract actions from these notes: [paste]. Make a table with exact deliverable, owner, deadline, dependency and the sentence in the notes that supports each entry. If a person or date is absent, say 'not assigned' or 'not stated.' Put disagreements and unresolved decisions in a separate list; do not turn them into fake commitments."
+
+3. RESEARCH — 3 SHORTCUTS
+/source → "Investigate this specific claim: [claim]. Prefer the original company announcement, research paper, public filing or official dataset. Give each primary source's link and date, state exactly what it supports, and separate what people inferred from what was announced. If you cannot browse or verify a current source, say that plainly and give me a search plan."
+/compare → "I am choosing [A] versus [B] for [use case] with budget [amount]. Compare only [criteria] using current official documentation, with source links and dates. Show a small table of verified facts, unknowns and a practical test I could run. Tell me which option meets my non-negotiable requirement [requirement], without pretending missing information is a tie."
+/verify → "Fact-check the following draft sentence by sentence: [paste]. Extract each checkable claim, find the best primary source and label it supported, contradicted or unverified. Pay special attention to dates, prices, availability and numbers. Suggest the smallest honest wording change for each problem while keeping the original hook as strong as the evidence allows."
+
+4. WRITING — 3 SHORTCUTS
+/hook → "My audience is [audience], my post's useful payoff is [payoff], and the surprising fact or tension is [detail]. Write 12 openings: four direct, four curiosity-driven and four that challenge a common belief. Use concrete nouns and everyday language. Do not invent a stat or call ordinary advice a 'secret.' Rank the best three for Facebook and explain why they earn attention."
+/tighten → "Edit this draft for [platform] without changing my voice: [paste]. Cut at least 25% of the words, but preserve every necessary number, example and caveat. Remove repetition and generic opening lines. Show the revised version first, then a short list of material you removed and one ambiguity you could not resolve without asking me."
+/story → "Turn my real experience [notes] into a short post for [audience]. Build it around a scene, the problem, the choice I made and the actual outcome. Use only events I provided; if a turning point is missing, ask for it instead of making one up. End with the specific lesson [lesson], not a motivational slogan. Give me one 120-word and one 220-word version."
+
+5. THE WEEK — 3 SHORTCUTS
+/week → "Plan this week using fixed commitments [times], available work blocks [times], top outcome [outcome] and energy limits [constraints]. Estimate hours for each task before placing it. Leave realistic buffers, show what cannot fit, and propose exactly what to postpone. End with the first action for tomorrow morning rather than a giant undated task list."
+/next → "I need to finish [project] by [date], but I am stuck at [blocker]. Ask up to three clarifying questions if necessary, then break the work into three actions each doable in [minutes]. Each action needs a visible deliverable and a test of completion. Put the action that reduces the biggest uncertainty first."
+/block → "Here is my calendar and list of obligations: [paste]. Protect two [length]-minute blocks for [priority] this week. For each, say exactly what I will produce, what input must be ready and which notification or meeting to move. If there is genuinely no space, show the trade-off rather than inventing time."
+
+6. LEARNING — 3 SHORTCUTS
+/quiz → "I am learning [topic] at [level]. Give me five applied questions drawn from [notes or syllabus], one at a time. Wait for my answer before revealing the next. If I am wrong, identify the exact misconception and give a smaller follow-up question. At the end, summarize my weak spots and one practice exercise for each."
+/teach → "Teach [concept] assuming I know [prerequisites] but struggle with [specific confusion]. Start with a concrete example, then explain the rule behind it. Ask me to predict what happens in a second example and wait for my answer. Adapt your explanation if I fail; do not simply repeat the same paragraph in simpler words."
+/feedback → "Review my attempt at [skill] against these criteria: [rubric]. Here is my work: [paste]. Identify the two changes with the biggest effect, quote the exact place that needs fixing, and show one improved example without rewriting everything for me. Give me a 20-minute exercise that isolates the weakest part and a way to tell if I improved."
+
+7. CONTENT — 3 SHORTCUTS
+/reel → "Write a [seconds]-second video script for [audience] about [specific claim]. My proof is [real example or clip]. Give a first-two-seconds visual hook, the spoken lines, what appears on screen in each beat and one action at the end. Keep the language natural and flag any claim that my evidence does not prove."
+/thread → "Turn these source notes [paste] into [number] Facebook comments under the hook [caption]. Each comment must explain a different part of the process and add a practical step or example. Put the strongest useful answer first, preserve source qualifications, and keep the comments readable on mobile. Flag any promised number of items that the draft does not actually deliver."
+/angle → "Find five substantially different angles for [topic] aimed at [audience]. Use these real comments or questions as evidence of what they care about: [paste]. For each angle, give a one-line hook, the exact example or demonstration I would show, and what the audience will learn. Reject angles that only change the wording of the same idea."
+
+
+8. DATA — 3 SHORTCUTS
+/formula → "I use [Google Sheets or Excel]. Column [A] contains [type], column [B] contains [type], and I need [precise result] in [cell]. Write a formula for my locale [comma or semicolon], explain where to paste it, and test it against these three example rows [paste], including one blank or error case. Do not guess missing column meanings."
+/clean → "Here are five sample rows and the column definitions: [paste]. Identify duplicate records, inconsistent dates and missing values. Give me a reversible cleanup plan: the original copy to preserve, exact rule for each change, and a before/after table on the samples. Ask before merging records that look similar but might be different people."
+/chart → "My data is [paste structure] and my audience needs to answer [one question]. Recommend the chart that reveals that answer, specify axes, units, time period and grouping, and show what a misleading chart would do. If a chart would hide the answer, use a table instead. Give me a plain-English headline based only on numbers I supplied."
+
+9. DECISIONS — 3 SHORTCUTS
+/decision → "I have to choose between [A] and [B] by [date]. My non-negotiables are [list], my priorities in order are [list], and my constraints are [list]. Compare the options against those criteria, identify the trade-off I am actually making and the one missing fact that could reverse the decision. Give a recommendation conditional on that fact, not a fake certainty."
+/risk → "Review this plan [paste] before I commit [time or money]. Identify five realistic failure modes specific to my situation. For each, give an early warning sign, a low-cost prevention step and a response if it happens. Rank by impact and likelihood using stated assumptions, and tell me which risk I should test first this week."
+/premortem → "Imagine it is six months after [project] failed. Using only my context [paste], write the five most plausible reasons, separating things I control from external events. For each, design one experiment I can run in the next seven days to detect the problem early. End with a revised launch plan that reduces the top two risks."
+
+
+10. LIFE ADMIN — 3 SHORTCUTS
+/trip → "Plan a [number]-day trip to [destination] for [travelers] on [dates] with [budget and mobility needs]. Start with the route and realistic travel times. Give a day-by-day outline with one priority and one backup per day, separate confirmed opening times and prices from assumptions, and end with a booking checklist. Ask me for missing departure details before suggesting transport."
+/meal → "I have [ingredients], [equipment] and [minutes]. My dietary requirements and dislikes are [list]. Suggest three realistic meals using the ingredients I already have, with quantities for [people], quick steps and a shopping list containing only missing items. Do not suggest an ingredient I said I cannot eat; state if the pantry cannot meet the requirement."
+/pack → "Make a packing list for [destination], [dates], weather [forecast], [activities], airline baggage limit [limit] and access to laundry [yes/no]. Separate documents and medication from clothing and optional gear. Give quantities based on the trip length, flag anything that must be in a carry-on, and list three items I should confirm against airline or destination rules before departure."
+Save these 30 expansions once, then edit them to fit your work. Which /shortcut would you actually use first? 👇🏽
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
