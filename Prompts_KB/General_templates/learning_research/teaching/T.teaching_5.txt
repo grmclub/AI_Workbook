@@ -328,26 +328,57 @@ Prompt:
 ## 7 prompts for creating clear educational infographics
 
 1️. Summarize a Topic
-“Using only my selected sources, create a clear infographic about [TOPIC] for [AGE/GRADE/LEVEL]. Highlight the main takeaway, key concepts, facts, and examples. Use concise headings, brief text, logical flow, and helpful visuals. Keep it clean, readable, and uncluttered. Do not add unsupported information. Verify all content against my sources.”
+"Using only my selected sources, create a clear infographic about [TOPIC] for [AGE/GRADE/LEVEL]. Highlight the main takeaway, key concepts, facts, and examples. Use concise headings, brief text, logical flow, and helpful visuals. Keep it clean, readable, and uncluttered. Do not add unsupported information. Verify all content against my sources."
 
 2️. Explain a Concept
-“Using only my selected sources, create an infographic explaining [CONCEPT] in [SUBJECT] for [AGE/GRADE/LEVEL]. Break it into essential parts and show their connections. Use concise headings, brief explanations, and relevant diagrams or concept maps. Keep it simple and readable. Do not add unsupported information. Verify the content against my sources.”
+"Using only my selected sources, create an infographic explaining [CONCEPT] in [SUBJECT] for [AGE/GRADE/LEVEL]. Break it into essential parts and show their connections. Use concise headings, brief explanations, and relevant diagrams or concept maps. Keep it simple and readable. Do not add unsupported information. Verify the content against my sources."
 
 3️. Visualize a Process
-“Using only my selected sources, create an infographic showing [PROCESS/SEQUENCE/CYCLE/TIMELINE] for [AGE/GRADE/LEVEL]. Show every essential stage in the correct order using concise labels, arrows, and relevant visuals. Keep it clear and easy to follow. Do not add unsupported information. Verify every stage against my sources.”
+"Using only my selected sources, create an infographic showing [PROCESS/SEQUENCE/CYCLE/TIMELINE] for [AGE/GRADE/LEVEL]. Show every essential stage in the correct order using concise labels, arrows, and relevant visuals. Keep it clear and easy to follow. Do not add unsupported information. Verify every stage against my sources."
 
 4️. Compare Two Topics
-“Using only my selected sources, create an infographic comparing [TOPIC A] and [TOPIC B] in [SUBJECT] for [AGE/GRADE/LEVEL]. Highlight the key similarities, differences, and features using a suitable layout such as side-by-side sections, a chart, or Venn diagram. Keep it concise and readable. Do not add unsupported information. Verify every comparison against my sources.”
+"Using only my selected sources, create an infographic comparing [TOPIC A] and [TOPIC B] in [SUBJECT] for [AGE/GRADE/LEVEL]. Highlight the key similarities, differences, and features using a suitable layout such as side-by-side sections, a chart, or Venn diagram. Keep it concise and readable. Do not add unsupported information. Verify every comparison against my sources."
 
 5️. Show Connections
-“Using only my selected sources, create an infographic showing the relationships among [KEY IDEAS/CONCEPTS] in [SUBJECT] for [AGE/GRADE/LEVEL]. Show connections such as cause and effect, hierarchy, classification, or part and whole. Use concise labels and appropriate diagrams or connecting lines. Keep it clear and uncluttered. Do not add unsupported information.”
+"Using only my selected sources, create an infographic showing the relationships among [KEY IDEAS/CONCEPTS] in [SUBJECT] for [AGE/GRADE/LEVEL]. Show connections such as cause and effect, hierarchy, classification, or part and whole. Use concise labels and appropriate diagrams or connecting lines. Keep it clear and uncluttered. Do not add unsupported information."
 
 6️. Visualize Data and Facts
-“Using only my selected sources, create an infographic showing the key data, statistics, facts, and patterns about [TOPIC] for [AGE/GRADE/LEVEL]. Use appropriate charts, graphs, icons, and concise labels. Make the information easy to understand without changing its meaning. Do not add unsupported data. Verify all numbers and visuals against my sources.”
+"Using only my selected sources, create an infographic showing the key data, statistics, facts, and patterns about [TOPIC] for [AGE/GRADE/LEVEL]. Use appropriate charts, graphs, icons, and concise labels. Make the information easy to understand without changing its meaning. Do not add unsupported data. Verify all numbers and visuals against my sources."
 
 7️. Create a Revision Infographic
-“Using only my selected sources, create a revision infographic for [TOPIC/UNIT] in [SUBJECT] for [AGE/GRADE/LEVEL]. Include the essential concepts, key terms, facts, formulas, processes, and relationships students need to remember. Group related information clearly and use helpful visuals. Keep it concise and easy to review. Do not add unsupported information.”
+"Using only my selected sources, create a revision infographic for [TOPIC/UNIT] in [SUBJECT] for [AGE/GRADE/LEVEL]. Include the essential concepts, key terms, facts, formulas, processes, and relationships students need to remember. Group related information clearly and use helpful visuals. Keep it concise and easy to review. Do not add unsupported information."
 -------------------------------------------------
+🚨 7 ChatGPT Prompts to Turn Your Sources into Educational Infographics. 👇
+
+1️. Explain a Concept
+Prompt:
+"Using information from my provided sources, create a classroom-ready educational infographic that explains [concept/topic] to [grade level/age group] students studying [subject]. Identify the main learning message, then present the essential definition, key ideas, important terms, examples, and relationships supported by the sources. Use a clear visual hierarchy, logical reading flow, concise student-friendly language, and purposeful diagrams, illustrations, icons, arrows, or comparisons where they improve understanding. Keep related text and visuals together, emphasize essential information, and use consistent typography, spacing, and layout. Avoid dense text, unnecessary details, and decorative clutter. Make the infographic accurate, visually balanced, easy to scan, and understandable at a glance."
+
+2️. Show a Process
+Prompt:
+"Using information from my provided sources, create a classroom-ready educational infographic that explains [process/procedure/cycle] to [grade level/age group] students studying [subject]. Identify the main learning message, then break the process into clear, logical stages with concise explanations of what happens at each stage and how the stages connect. Use numbered steps, arrows, flow diagrams, labels, icons, or illustrations where they improve understanding. Maintain a clear visual hierarchy and reading flow, keep related text and visuals together, and use consistent typography, spacing, and layout. Avoid dense text, unnecessary details, and decorative clutter. Make the infographic accurate, visually balanced, easy to follow, and understandable at a glance."
+
+3️. Compare and Contrast
+Prompt:
+"Using information from my provided sources, create a classroom-ready educational infographic that compares [concept/topic A] and [concept/topic B] for [grade level/age group] students studying [subject]. Identify the main learning message, then present the most important similarities, differences, features, and examples supported by the sources. Use a parallel layout, comparison chart, Venn diagram, icons, labels, or illustrations where they improve understanding. Maintain a clear visual hierarchy, keep corresponding information aligned, and use concise student-friendly language with consistent typography, spacing, and layout. Avoid dense text, unnecessary details, and decorative clutter. Make the infographic accurate, visually balanced, easy to compare, and understandable at a glance."
+
+4️. Create a Timeline
+Prompt:
+"Using information from my provided sources, create a classroom-ready timeline infographic about [event/topic/development] for [grade level/age group] students studying [subject]. Identify the main learning message, then organize the most important events, dates, stages, or milestones in chronological order with concise explanations of their significance. Use a clear timeline, labels, icons, arrows, or illustrations where they improve understanding. Maintain a logical visual flow, emphasize major turning points, and use concise student-friendly language with consistent typography, spacing, and layout. Avoid dense text, minor details, and decorative clutter. Make the infographic accurate, visually balanced, easy to follow, and understandable at a glance."
+
+5️. Summarize Key Information
+Prompt:
+"Using information from my provided sources, create a classroom-ready educational infographic that summarizes [lesson/topic/chapter] for [grade level/age group] students studying [subject]. Identify the main learning message, then present the essential concepts, key facts, important terms, relevant examples, and main takeaways supported by the sources. Organize the content into clear visual sections with concise student-friendly language and purposeful icons, diagrams, labels, or illustrations where they improve understanding. Maintain a strong visual hierarchy and use consistent typography, spacing, and layout. Avoid dense text, minor details, and decorative clutter. Make the infographic accurate, visually balanced, easy to review, and understandable at a glance."
+
+6. Visualize Facts and Data
+Prompt:
+"Using information from my provided sources, create a classroom-ready educational infographic that visualizes facts and data about [topic] for [grade level/age group] students studying [subject]. Identify the main learning message, then present the most important statistics, quantities, comparisons, patterns, or findings supported by the sources. Use appropriate charts, graphs, icons, percentages, scales, or visual comparisons and label them clearly. Maintain an accurate visual scale, strong visual hierarchy, and concise student-friendly language with consistent typography, spacing, and layout. Avoid misleading representations, dense text, unnecessary details, and decorative clutter. Make the infographic accurate, visually balanced, easy to interpret, and understandable at a glance."
+
+7️. Create a Study Infographic
+Prompt:
+"Using information from my provided sources, create a classroom-ready study infographic for [topic/unit/chapter] for [grade level/age group] students studying [subject]. Identify the main learning message, then summarize the essential concepts, key facts, important terms, rules or formulas, examples, and connections students need to remember. Organize the content into clear visual sections with concise student-friendly language and purposeful diagrams, icons, labels, or illustrations where they support recall and understanding. Maintain a strong visual hierarchy and consistent typography, spacing, and layout. Avoid dense text, minor details, and decorative clutter. Make the infographic accurate, visually balanced, easy to review, and useful for revision or test preparation."
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
