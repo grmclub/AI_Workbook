@@ -34,6 +34,61 @@ Here are 10 prompts that could save you hours: 👇
 "Review tomorrow’s meetings in my connected calendar and find relevant emails, documents and previous notes. For each meeting, summarize the people involved, objective, previous discussions, preparation needed and three useful questions. Flag anything you cannot verify."
 
 -------------------------------------------------
+10 secret codes to improve productivity
+
+
+1. EXPERT:
+EXPERT: [Your topic]
+Changes ChatGPT from friendly intern to $500/hr consultant. No fluff, no beginner stuff. Just what a top 1% person would do.
+Ex: EXPERT: How do I grow on Facebook
+
+2. ELI5:
+ELI5: [Complex topic]
+Explain Like I'm 5. It removes all jargon and uses real-life analogies. Perfect when you feel stupid reading the docs.
+Ex: ELI5: What is SEO
+
+3. TEAR-DOWN:
+TEAR-DOWN: [Paste your post / ad / CV / website]
+It goes savage. Finds every weak line and tells you why it's not working. No "Great job!". Just brutal fixes.
+Ex: TEAR-DOWN: My Instagram bio
+
+4. DEVIL:
+DEVIL: [Your plan / idea]
+Devil's Advocate mode. It attacks your idea from every angle so you don't fail in public. Investors do this. You should too.
+Ex: DEVIL: I want to sell ebooks about fitness
+
+5. BLUEPRINT:
+BLUEPRINT: [Your goal]
+Turns vague goals into step-by-step system with checkboxes. Not motivation, just the system.
+Ex: BLUEPRINT: Make my first $1k online in 30 days
+
+6. SOCRATIC:
+SOCRATIC: [Topic you want to learn]
+It stops lecturing and starts asking YOU questions until you figure it out yourself. This is how you actually remember it. Feynman Technique built-in.
+
+7. STEAL:
+STEAL: [Niche / Competitor]
+Reverse-engineers what's already working. Structure, hooks, psychology. Not copy-paste, but "why it went viral."
+Ex: STEAL: The top 3 fitness Reels this week
+
+8. PROMPTIFY:
+PROMPTIFY: [Your bad prompt]
+You paste your bad prompt and it rewrites it into a perfect, pro-level prompt. Then runs it. Best code for beginners.
+
+9. 80/20:
+80/20: [Skill / Book / Subject]
+Gives you the 20% that drives 80% of results. Cuts 10 hours of learning into 20 minutes.
+
+10. UPGRADE:
+UPGRADE: [Your text / email / script]
+Takes your 6/10 draft and makes it 10/10. Keeps your voice, removes weak words, adds punch.
+Ex: UPGRADE: My DM to a client
+
+My daily stack:
+Need to learn? ELI5 + SOCRATIC
+Need to work? EXPERT + BLUEPRINT
+Need to post? TEAR-DOWN + UPGRADE
+You don't need 1000 prompts. You need 10 codes.
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
