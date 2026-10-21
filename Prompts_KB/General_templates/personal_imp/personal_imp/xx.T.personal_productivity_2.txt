@@ -124,6 +124,63 @@ In 2027 you have premium brand + system that runs without you.
 Difference? These 5 prompts.
 Run Prompt 1 right now - paste your to-do list and watch it tell you what you already know but avoid.
 -------------------------------------------------
+10X productivity increase
+
+1. THE $10,000/HR CONSULTANT
+Copy this:
+Act as a $10,000/hr consultant hired to save me from wasting the next 6 months. I'm stuck on: [Your problem: business / job / content / studying]. Be brutal. Tell me: What am I doing that looks like work but is actually avoidance? What are the 3 moves that would actually move the needle this week? No motivation talk.
+Why it's insane: It stops telling you what you WANT to hear and tells you what you NEED to do.
+
+2. THE TIME MACHINE
+You are me 10 years from now. You've already achieved everything I want: [Describe your dream life in 2 lines]. Look back at me today, struggling with [Current problem]. What are 3 things you wish I stopped doing immediately, and 1 thing you wish I did every day?
+I use this every Sunday. It hurts. It works.
+
+3. THE BS DETECTOR
+I believe: [Paste your belief, idea, or plan]. I need you to destroy it. Act as the smartest skeptic in the world. Find 3 holes, 2 hidden assumptions, and 1 reason it will fail. Then tell me how to fix it so it actually works. Don't be nice.
+Most people use ChatGPT to validate. Winners use it to find cracks BEFORE the market does.
+
+4. THE INFINITE CONTENT MACHINE
+Take this one idea I have: [Your idea]. Turn it into: 1 tweet (under 280 chars), 1 short story post (like talking to a friend), 1 carousel outline (5 slides), 1 email subject + 3 bullets, and 1 Reel hook that stops scroll in 3 seconds. Keep my voice: [Describe your tone].
+One idea. 5 posts. 2 minutes.
+
+5. THE INVISIBLE SKILL STACK
+Based on everything you know about my goals [Your goals], what are 3 boring, invisible skills that if I mastered in the next 90 days would make me unfairly competitive? Not trending skills. The boring ones no one talks about but top 1% all have. Give me a 30-day plan to learn each.
+This prompt showed me I didn't need another course. I needed to learn how to write, how to sell, and how to say no.
+Stop asking ChatGPT: "Give me ideas"
+Start asking: "Show me what I'm avoiding, what I'm missing, and what actually works"
+Same tool. 10x results.
+
+-------------------------------------------------
+Proven prompt frameworks to scale from zero to elite
+3 vital Prompts 💯 your future self will thank you for.
+Serve 5-15 minutes to learn any Skills from 0 -  elite level:
+
+Prompt 1: 📌
+THE BRUTALIST AUDIT;:
+Paste this first, always:
+I want to learn [TOPIC] from 0 to elite pro level. Don't be nice. Be brutal.
+Test me on [TOPIC] with 15 questions - 5 beginner, 5 intermediate, 5 expert/pro. Ask one by one. After each answer, tell me exactly why I'm wrong, what mental model I'm missing, and grade me 0-10. No sugarcoating. At the end, give me my real level and my top 3 fatal gaps.
+This kills fake confidence instantly.
+
+Prompt 2:📌
+THE 0-TO-ELITE ROADMAP - No BS curriculum
+Build me a brutalist roadmap to master [TOPIC] from zero to top 1% elite.
+Rules:
+- No theory that doesn't make money/solve problems
+- Divide into 4 phases: 0-30% Survival, 30-60% Competent, 60-90% Pro, 90-100% Elite
+- For each phase: what to learn, what to BUILD, what metric proves I passed, and what 90% of people get wrong
+- Give me only the 20% that gives 80% of results. Cut the rest.
+- Include the 3 books, 3 people, 3 projects that actually matter.
+
+Prompt 3.:📌
+FIRST PRINCIPLES DESTROYER:
+Teach me [TOPIC] from first principles like I'm an idiot who will build a company on it.
+Deconstruct it to physics-level truths. No analogies, no buzzwords. For every concept, ask me "why is that true?" until I can't answer. Then rebuild it from scratch. If I use a memorized definition, call it out.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
