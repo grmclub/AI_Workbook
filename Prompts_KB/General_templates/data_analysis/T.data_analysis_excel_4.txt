@@ -123,6 +123,49 @@ Prompt:
 Based on your analysis of this Excel file, identify the 5 most important actions a business should take. Rank them by potential impact and explain the data supporting each recommendation. Separate the findings into: What the data says → Why it matters → What we should do next. Also identify any assumptions or limitations that could affect your recommendations.
 
 -------------------------------------------------
+Master Excel, Data Analysis, Data Science, Cybersecurity, and more without expensive courses.
+Claude’s Learning Mode can help you learn smarter, break down complex topics, practice real-world skills, and build a personalized learning path at your own pace.
+Here are 9 powerful Claude prompts to turn AI into your personal tutor and accelerate your learning. 👇
+
+1. Excel — Master Formulas Through a Real-World Sales Challenge
+"Act as an expert Excel instructor. Teach me SUMIFS, XLOOKUP, and IFERROR through a realistic retail sales scenario. My Excel version is [VERSION], and my current skill level is [LEVEL].
+Create two small, copy-ready tables: sales transactions and product prices. Present one business problem at a time, explain the concept behind it, and let me attempt the solution before revealing the answer. Review my formula, identify errors, and explain how to fix them. Finish with a realistic challenge that combines all three functions and tests whether I can apply them independently."
+
+2. Excel — Turn Messy Spreadsheets Into Clean Data
+"Act as a professional data-cleaning coach. Train me to clean a messy [CUSTOMER/ORDER] spreadsheet using [EXCEL VERSION].
+Generate 15 realistic practice rows containing duplicates, extra spaces, inconsistent date formats, missing values, and numbers stored as text. First, ask me to identify the problems without revealing the answers. Then guide me through resolving one issue at a time using the appropriate Excel tools or formulas. Explain the risks of deleting duplicates or filling blanks incorrectly. Finish by teaching me how to validate the cleaned dataset and confirm its accuracy."
+
+3. Excel — Build Your First Professional PivotTable Dashboard
+"Act as an Excel reporting specialist and hands-on instructor. Help me answer this business question: ‘Which [PRODUCT/CATEGORY] generates the most revenue each month?’
+Create 25 copy-ready sales records containing Date, Product, Region, Units, and Unit Price. Using [EXCEL VERSION], guide me step by step through calculating revenue, building a PivotTable, grouping dates by month, and creating a meaningful chart. Pause after every step so I can complete it myself. Then ask me to interpret the results, challenge my conclusions, and verify whether my report accurately answers the original business question."
+
+4. Data Analysis — Learn SQL by Solving Real Business Problems
+"Act as a senior data analyst and SQL mentor. Teach me SQL by investigating orders for a fictional online bookstore. Create Customers and Orders tables with eight sample records each, including customers who have never placed an order. Use [SQLITE/POSTGRESQL/MYSQL].
+Start with SELECT and WHERE, then gradually introduce GROUP BY and LEFT JOIN. Give me one business question at a time and wait for me to write the query. Evaluate both my syntax and the accuracy of my reasoning. When I make a mistake, explain why using the sample data instead of simply giving me the solution. Increase the difficulty as I improve, and finish with a mini business analysis challenge."
+
+5. Data Analysis — Turn Raw Data Into Decisions That Matter
+"Act as a senior business intelligence analyst and critical-thinking coach. Help me answer this question: ‘Which marketing channel attracts the most profitable customers?’
+I will provide [COLUMN NAMES AND ANONYMIZED SAMPLE ROWS], or you can generate a small fictional dataset. First, help me define profitability and determine whether the available data can measure it reliably. Guide me through the analysis using [EXCEL/SQL/PYTHON], one step at a time. Ask me to interpret each result, challenge unsupported assumptions, and distinguish correlation from causation where relevant. Finish by helping me produce three evidence-based findings, explain their limitations, and recommend the next business action."
+
+6. Data Science — Learn Python by Exploring Realistic Data
+"Act as a patient Python and pandas instructor. Teach me data science through a practical monthly household spending project. My coding experience is [NONE/BEGINNER/INTERMEDIATE].
+Generate a small CSV dataset containing dates, spending categories, amounts, and a few missing values. Guide me through loading the data, inspecting column types, handling missing values appropriately, calculating spending by category, and creating a chart. Introduce only the code I need for each step, explaining what it does and why it matters. Before showing the output, ask me to predict what the code will produce. Review the results or errors I share, explain the underlying concepts, and gradually help me complete the project independently."
+
+7. Data Science — Build Your First Machine Learning Prediction Model
+"Act as a machine learning mentor. Guide me through predicting whether a fictional subscription customer will cancel their subscription. My Python skill level is [BEGINNER/INTERMEDIATE].
+Generate reproducible Python code using a clearly labeled synthetic dataset. Explain the features and prediction target before helping me build a simple classification model. Teach me how to split training and test data, prevent data leakage, and establish a simple baseline for comparison. Explain evaluation metrics and demonstrate the meaning of false positives and false negatives through realistic customer examples. Work in small, understandable steps, ask me to interpret the results, and never invent model performance numbers. Use actual outputs from my execution when evaluating the model."
+
+8. Cybersecurity — Become Better at Detecting Phishing Attacks
+"Act as a cybersecurity awareness trainer. Teach me how to identify phishing attempts in workplace emails and text messages.
+Create five fictional examples using reserved example.com addresses. Mix suspicious messages with legitimate-looking ones, and present them one at a time without revealing the correct classification. Ask me to identify warning signs, explain my confidence level, and choose the safest next action. After each response, evaluate my reasoning, explain the evidence, and clarify what cannot be determined from the message alone. Teach me how to verify suspicious requests through an independent communication channel. Finish with a challenging example where urgency, unusual wording, or poor grammar alone is not enough to establish that a message is malicious."
+
+9. Cybersecurity — Investigate Suspicious Login Activity Like an Analyst
+"Act as a defensive cybersecurity analyst and instructor. Teach me basic security log analysis through a fictional incident involving a small business.
+Generate 20 fictional login events containing timestamps, usernames, source IP addresses, login outcomes, and MFA results. Include normal user mistakes alongside a potentially suspicious pattern. Explain the log fields, then ask me to build a timeline and identify unusual activity without revealing the intended pattern. Wait for my assessment before offering hints. Help me separate confirmed evidence from assumptions, identify additional checks that could clarify the incident, and recommend proportionate defensive actions. Finish by guiding me through writing a concise incident report suitable for a security team."
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
