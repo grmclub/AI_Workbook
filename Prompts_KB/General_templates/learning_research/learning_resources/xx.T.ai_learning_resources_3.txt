@@ -512,10 +512,61 @@ BUSINESS, CAREER & PRODUCTIVITY
 80. Microsoft Learn — Learn Microsoft technologies
 
 -------------------------------------------------
--------------------------------------------------
--------------------------------------------------
--------------------------------------------------
+🚨 Stop paying for courses before you check what google is offering for free! 👀
+Here are 13 Google learning opportunities worth checking out. 👇🏽
 
+1️. Google AI Essentials
+Learn practical ways to use AI tools to improve productivity and work more efficiently.
+🔗 Explore: https://grow.google/ai-essentials/
+2️. Google Prompting Essentials
+Learn how to write better prompts and use generative AI more effectively.
+🔗 Explore: https://grow.google/prompting-essentials/
+
+3️. Google Digital Marketing & E-commerce
+Explore digital marketing, online customer engagement, e-commerce, and related skills.
+🔗 Explore: https://grow.google/certificates/
+4️. Google IT Support
+Learn foundational IT support skills, including troubleshooting, networking, operating systems, and security.
+🔗 Explore: https://grow.google/certificates/
+
+5️. Google Data Analytics
+Learn about data analysis, spreadsheets, SQL, data visualization, and analytical thinking.
+🔗 Explore: https://grow.google/certificates/
+6️. Google Cybersecurity
+Explore cybersecurity fundamentals, security practices, and tools used in entry-level cybersecurity work.
+🔗 Explore: https://grow.google/certificates/
+
+7️. Google Project Management
+Learn about project planning, teamwork, risk management, and project execution.
+🔗 Explore: https://grow.google/certificates/
+8️. Google UX Design
+Explore user research, wireframes, prototypes, and user-centred design.
+🔗 Explore: https://grow.google/certificates/
+
+9️. Google Business Intelligence
+Learn about business intelligence concepts, data modelling, and data-driven decision-making.
+🔗 Explore: https://grow.google/certificates/
+10. Google Advanced Data Analytics
+Explore advanced analytical methods, statistical concepts, and predictive modelling.
+🔗 Explore: https://grow.google/certificates/
+
+1️1 Google Cloud Skills Boost
+Explore hands-on learning paths covering cloud computing, data, AI, and other Google Cloud technologies.
+🔗 Explore: https://www.cloudskillsboost.google/
+1️2. Google Skillshop
+Learn about Google’s advertising and marketing products, including Google Ads and Google Analytics.
+🔗 Explore: https://skillshop.withgoogle.com/
+
+1️3. Google Digital Garage / Grow with Google
+Explore digital skills training and other learning opportunities available through Google’s learning programmes.
+🔗 Explore: https://grow.google/
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 
 
 
