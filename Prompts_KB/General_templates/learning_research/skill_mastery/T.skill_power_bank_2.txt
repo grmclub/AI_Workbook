@@ -1,0 +1,40 @@
+
+-------------------------------------------------
+8 ChatGPT Prompts to Learn Anything 10X Faster👇
+
+1. LEARN ANYTHING FROM ZERO
+Prompt:
+"Act as a world-class tutor. Teach me [TOPIC] from complete beginner to advanced level. Break it into simple stages, use real-world examples, and test my understanding after each stage. Assume I know nothing and build my knowledge step by step."
+
+2. MASTER THE 80/20 RULE
+Prompt:
+"I want to learn [TOPIC] quickly. Identify the 20% of concepts that will give me 80% of the practical understanding. Explain each concept simply, show how it applies in real life, and give me exercises to reinforce what I’ve learnt."
+
+3. CREATE A 7-DAY LEARNING PLAN
+Prompt:
+"Create a personalised 7-day learning plan to help me understand [TOPIC]. I have [X] minutes per day. Include daily lessons, practical exercises, recommended resources, and short quizzes. Focus on measurable progress rather than memorisation."
+
+4. EXPLAIN COMPLEX IDEAS SIMPLY
+Prompt:
+"Explain [COMPLEX TOPIC] as if I’m 12 years old. Use simple language, everyday analogies, and relatable examples. Then gradually increase the difficulty until I understand the topic at an expert level. Check my understanding along the way."
+
+5. USE THE FEYNMAN TECHNIQUE
+Prompt:
+"Help me master [TOPIC] using the Feynman Technique. First, explain the concept simply. Then ask me to explain it back in my own words. Identify gaps or mistakes in my explanation and help me improve until I can teach it confidently to someone else."
+
+6. TURN KNOWLEDGE INTO PRACTICAL SKILLS
+Prompt:
+"I don’t just want to understand [TOPIC]. I want to apply it. Design 5 hands-on challenges that progressively build my skills. Give me realistic scenarios, clear instructions, and feedback criteria. Review my work and suggest improvements."
+
+7. REMEMBER WHAT YOU LEARN LONGER
+Prompt:
+"Help me retain everything important about [TOPIC] using active recall, spaced repetition, and memory techniques. Create flashcards, practice questions, memorable analogies, and a revision schedule. Quiz me regularly and focus on areas where I struggle."
+
+8. BUILD YOUR PERSONAL AI LEARNING COACH
+Prompt:
+"Become my personal AI learning coach for [TOPIC]. Start by assessing my current knowledge, goals, and available time. Create an adaptive learning roadmap, teach me through interactive lessons, challenge my assumptions, track my progress, and adjust the difficulty based on my performance. Ask one question at a time."
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
