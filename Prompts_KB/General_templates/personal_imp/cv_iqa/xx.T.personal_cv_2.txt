@@ -538,8 +538,41 @@ Paste into ChatGPT: "You are a recruiter who just received 200 CVs for this role
 6. The Final CV Audit
 Paste into ChatGPT: "Perform a complete audit of my final CV: [paste]. Check every section: ATS compatibility, keyword strength, achievement quality, formatting clarity, summary impact, skills relevance, length appropriateness. Score each section out of 10. Tell me exactly what is still weak and the precise fix for each. I want this CV to score 90+ before I send it anywhere."
 
-
 -------------------------------------------------
+🚨 Upload your CV to ChatGPT and try these 8 prompts👇
+
+1. FIND MATCHING OPPORTUNITIES
+Prompt:
+"Review my CV and search the web for open [JOBS/GRANTS/SCHOLARSHIPS] matching my profile in [COUNTRY/REGION] or available internationally. Verify each listing on the official website. Show the title, organisation, funding or salary, deadline, eligibility, why I qualify, any gaps, and the official application link. Exclude expired or unverifiable opportunities."
+
+2. MAKE MY CV STAND OUT
+Prompt:
+"Act as a senior recruiter with 15 years of experience. Analyse my CV and identify 10 weaknesses preventing me from getting interviews. Rewrite weak sections using powerful action verbs, measurable achievements and industry-specific keywords. Keep everything truthful and make my CV more compelling."
+
+3. BEAT THE ATS SYSTEM
+Prompt:
+"Analyse my CV against this job description: [PASTE JOB DESCRIPTION]. Identify missing keywords, skills and qualifications that could affect Applicant Tracking System (ATS) screening. Rewrite my CV to improve alignment without inventing experience. Give me an estimated match score and explain the gaps."
+
+4. WRITE A WINNING COVER LETTER
+Prompt:
+"Using my CV and this job description [PASTE JOB DESCRIPTION], write a compelling, personalised cover letter that demonstrates why I’m a strong candidate. Highlight my most relevant achievements, connect my experience to the organisation’s needs and avoid generic phrases. Keep it under 300 words."
+
+5. PREPARE ME FOR THE INTERVIEW
+Prompt:
+"Act as the hiring manager for [JOB TITLE] at [COMPANY]. Based on my CV, generate 15 realistic interview questions, including behavioural, technical and situational questions. Provide strong example answers using my actual experience and the STAR method. Identify difficult questions I should prepare for."
+
+6. DISCOVER MY HIDDEN CAREER OPTIONS
+Prompt:
+"Analyse my CV and identify 10 career paths I could realistically pursue, including roles outside my current industry. Rank them by earning potential, demand, transferable skills and ease of transition. Explain why each role suits my background and what additional skills I would need."
+
+7. FIND MY SALARY POTENTIAL
+Prompt:
+"Based on my CV, experience, qualifications and location [COUNTRY/CITY], research current salary ranges for 10 suitable positions. Use recent, credible salary data and cite sources. Compare my earning potential across industries, identify roles where I may be underpaid and suggest strategies to negotiate a higher salary."
+
+8. BUILD MY 90-DAY CAREER PLAN
+Prompt:
+"Act as my personal career strategist. Analyse my CV and create a detailed 90-day action plan to help me secure a better-paying job or advance my career. Include weekly actions for CV improvements, LinkedIn optimisation, networking, applications, interview preparation and skill development. Prioritise activities with the highest potential impact."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
