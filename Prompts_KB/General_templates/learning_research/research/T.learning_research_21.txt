@@ -18,6 +18,89 @@ Go from a single question to a comprehensive, evidence-backed research brief wit
 7️. The Teach-Back Test 🎓 — Act as a rigorous thesis advisor. Test my understanding of [TOPIC] using 10 challenging questions that progress from foundational knowledge to expert-level reasoning. Evaluate my answers for accuracy, depth, evidence, and logical consistency. Ask targeted follow-up questions to expose knowledge gaps, correct misconceptions, and challenge weak arguments. Finish by asking me to explain the subject to a 12-year-old, then provide a score and a personalized improvement plan.
 
 -------------------------------------------------
+🚨 10 AI PROMPTS EVERY POSTGRADUATE RESEARCHER SHOULD SAVE! 🎓🤖
+
+1️. FIND A STRONG RESEARCH TOPIC
+Struggling to choose a topic for your dissertation or thesis?
+📌 PROMPT:
+Act as an experienced postgraduate research supervisor in [YOUR FIELD]. Suggest 10 feasible research topics related to [YOUR AREA OF INTEREST]. For each topic, explain the problem it addresses, potential research questions, possible methods, expected contribution, and practical limitations. Prioritize topics that can be investigated with my available time, equipment, data, and budget. Do not claim that a topic is novel without evidence.
+
+2️. IDENTIFY POSSIBLE RESEARCH GAPS
+Don’t simply ask AI to invent a research gap. Give it actual research papers to analyze.
+📌 PROMPT:
+Act as a critical research analyst. Analyze the research papers I provide and identify possible research gaps, unresolved questions, contradictory findings, methodological weaknesses, and underexplored areas. For every proposed gap, identify the specific evidence supporting it and the limitations of that evidence. Distinguish confirmed observations from hypotheses that require further literature searching.
+Here are my papers: [PASTE NOTES, ABSTRACTS, OR RELEVANT EXTRACTS].
+
+3️. IMPROVE YOUR PROBLEM STATEMENT
+A weak problem statement can affect the entire research project.
+📌 PROMPT:
+Act as a postgraduate research supervisor. Help me develop a clear, focused, and evidence-based problem statement for my study titled "[INSERT TOPIC]." Structure it around the current situation, the specific problem, supporting evidence, what remains unresolved, and why the problem deserves investigation. Identify claims that require citations. Do not invent statistics, findings, or references.
+
+4️. SYNTHESIZE YOUR LITERATURE REVIEW
+Stop writing your literature review as a list of disconnected paper summaries.
+📌 PROMPT:
+Analyze the research papers I provide and help me synthesize them into a critical literature review on [INSERT TOPIC]. Organize the discussion by themes, methods, findings, agreements, contradictions, limitations, and unresolved questions. Compare the studies instead of summarizing them one by one. Cite only sources whose details I have supplied, and do not invent findings or references.
+My papers and notes: [PASTE MATERIAL].
+
+5️. DEVELOP RESEARCH OBJECTIVES
+Your objectives should be specific, achievable, and connected to your research problem.
+📌 PROMPT:
+Based on my research problem, develop one overall research aim and 4–6 specific, measurable objectives for my postgraduate study. Use appropriate action verbs and ensure each objective contributes to addressing the problem. Explain how each objective could be investigated and identify any objective that appears unrealistic for my available resources.
+Research problem: [INSERT PROBLEM].
+
+6️. DESIGN A SOUND METHODOLOGY
+Not sure which research methods are appropriate for your objectives?
+📌 PROMPT:
+Act as a research-methodology specialist in [YOUR FIELD]. Review my research title, aim, and objectives. Recommend an appropriate research design, sampling strategy or experimental approach, data collection methods, variables, equipment or instruments, and data analysis techniques. Explain why each recommendation fits the objectives. Identify necessary controls, assumptions, ethical considerations, and limitations. Clearly distinguish general recommendations from details that require my supervisor’s approval.
+My research details: [INSERT INFORMATION].
+
+7️. CHOOSE APPROPRIATE DATA ANALYSIS METHODS
+Your analysis should answer your research questions—not simply produce tables and graphs.
+📌 PROMPT:
+Review my research objectives, questions, hypotheses, and proposed dataset. Recommend an appropriate analysis method for each objective. Explain the type of data required, relevant assumptions, diagnostic checks, and how the results should be interpreted. If information is missing, ask me for it before making a recommendation. Do not fabricate data or results.
+Objectives: [INSERT OBJECTIVES].
+Dataset description: [DESCRIBE YOUR DATA].
+
+8️. IMPROVE YOUR ACADEMIC WRITING
+Use AI to improve clarity without losing your original meaning.
+📌 PROMPT:
+Act as an academic editor familiar with postgraduate research in [YOUR FIELD]. Edit the passage below for grammar, clarity, coherence, conciseness, and academic tone. Preserve my intended meaning, technical terminology, and original claims. Do not introduce new findings, arguments, citations, or unsupported information. After editing, briefly explain the most important changes and flag any sentence whose meaning is unclear.
+My passage: [PASTE YOUR WRITING].
+
+9️. PREPARE FOR YOUR THESIS DEFENSE
+Don’t wait until the day of your defense to discover weaknesses in your work.
+📌 PROMPT:
+Act as a rigorous postgraduate thesis examiner in [YOUR FIELD]. Review my research title, objectives, methodology, findings, and conclusions. Generate 20 challenging but fair defense questions covering the research problem, originality, literature review, methodology, results, limitations, and contribution to knowledge. For each question, explain what a strong answer should address. Do not invent findings about my research. Ask follow-up questions where my reasoning is weak.
+My research summary: [PASTE SUMMARY].
+
+10. AUDIT YOUR ENTIRE RESEARCH PROJECT
+This prompt can help you identify inconsistencies before submitting your dissertation or thesis.
+📌 PROMPT:
+Act as a strict postgraduate research supervisor. Audit my research project for alignment between the title, problem statement, research gap, aim, objectives, questions or hypotheses, methodology, results, and conclusions. Identify contradictions, unsupported claims, missing information, methodological weaknesses, and sections that need further evidence. Rank the problems by severity and recommend specific corrections. Do not rewrite the entire project unnecessarily.
+My research document or sections: [PASTE OR UPLOAD YOUR WORK].
+
+🔥 BONUS: HOW TO GET BETTER RESULTS FROM THESE PROMPTS
+Don’t just paste a prompt and accept the first answer.
+Follow this process:
+STEP 1: Give the AI your research topic and relevant background.
+STEP 2: Upload or provide genuine research papers where appropriate.
+STEP 3: Ask it to explain its reasoning and identify missing information.
+STEP 4: Verify important claims against original academic sources.
+STEP 5: Review the output against your university’s guidelines and your supervisor’s instructions.
+STEP 6: Revise the work yourself and make sure you understand every part of it.
+⚠️ IMPORTANT FOR POSTGRADUATE RESEARCHERS
+AI can help you brainstorm, organize, critique, and improve your research.
+However, it can also generate false citations, misinterpret papers, and make unsupported claims.
+Always verify references, DOIs, quotations, statistics, and scientific claims. Never present AI-generated data, experiments, or results as genuine research findings.
+Also, follow your institution’s rules on AI use, disclosure, and academic integrity.
+📌 SAVE THIS POST. You may need these prompts throughout your postgraduate journey.
+🔄 Share this with an MSc or PhD student who needs a better research workflow.
+QUESTION: Which stage of postgraduate research gives you the biggest headache?
+A. Finding a research gap
+B. Writing the literature review
+C. Developing the methodology
+D. Analyzing data
+E. Writing and defending the thesis
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
