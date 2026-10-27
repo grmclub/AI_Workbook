@@ -67,6 +67,8 @@ Finish with a daily, weekly, and monthly routine, plus a simple plan for stressf
 -------------------------------------------------
 Can you provide a month-by-month breakdown of the key planetary transits affecting [Sun Sign] career in YYYY ?
 
+Can you provide a month-by-month breakdown of the key planetary transits affecting my career using my birth date [DD/MM/YYYY] in YYYY ?
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
