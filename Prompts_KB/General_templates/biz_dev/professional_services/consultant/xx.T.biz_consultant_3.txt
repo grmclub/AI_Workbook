@@ -56,6 +56,32 @@ Act as an elite startup pitch coach. Create a compelling 300-word investor summa
 Act as a senior business risk analyst. Evaluate my business idea [DESCRIBE IDEA] and identify the 5 most significant risks across market demand, finances, execution, legal compliance, and competition. Rate each risk by likelihood and potential impact, recommend practical mitigation strategies, and prioritize the actions I should take before investing significant time or money.
 
 -------------------------------------------------
+🚨 BREAKING: Claude brings McKinsey-level strategic thinking to your business. ♠️
+Here are 8 powerful prompts to validate your idea, uncover opportunities, and build a winning launch strategy. 👇🏻
+
+1. ONE-PAGE BUSINESS PLAN
+Act as a McKinsey-level business strategist. Evaluate my business idea: [DESCRIBE IDEA]. Create a focused one-page business plan covering the problem, target customers, solution, revenue model, competitive advantage, and a practical 90-day execution roadmap. Challenge weak assumptions, identify strategic gaps, and prioritize the actions that will create the greatest impact. Keep it concise, realistic, and execution-focused.
+
+2. MARKET VALIDATION REPORT
+Act as a McKinsey-level market research consultant. My business idea is [DESCRIBE IDEA], targeting [TARGET AUDIENCE]. Assess its market potential, customer demand, key competitors, and unmet needs. Identify the most attractive market opportunity, test the critical assumptions, and evaluate whether I should launch, reposition, or abandon the idea. Support conclusions with evidence where available, and clearly distinguish facts from estimates.
+
+3. REVENUE MODEL DESIGNER
+Act as a McKinsey-level startup financial strategist. My business is [DESCRIBE BUSINESS]. Design three viable revenue models: subscription, one-time purchase, and hybrid. For each, outline pricing, payment structure, estimated first-month revenue, break-even requirements, and financial trade-offs. Compare their profitability, scalability, and customer appeal, then recommend the strongest option with clear reasoning.
+
+4. GO-TO-MARKET BLUEPRINT
+Act as a McKinsey-level go-to-market strategist. My business is [DESCRIBE BUSINESS], targeting [TARGET CUSTOMER]. Build a practical strategy to acquire my first 10 paying customers. Identify the best acquisition channels, define my market positioning, craft a compelling value proposition, and create a step-by-step execution plan. Prioritize low-cost, high-impact actions and highlight the mistakes most likely to delay growth.
+
+5. COMPETITOR TEARDOWN
+Act as a McKinsey-level competitive intelligence consultant. Analyze the 5 most relevant competitors for [DESCRIBE BUSINESS]. Compare their pricing, positioning, products, strengths, weaknesses, and customer appeal. Identify underserved customer needs, competitive gaps, and opportunities to differentiate my offer. Finish with a clear strategy for gaining a competitive advantage. Use current evidence where available and distinguish verified findings from assumptions.
+
+8. INVESTOR PITCH SUMMARY
+Act as a McKinsey-level investor pitch strategist. My business is [DESCRIBE BUSINESS]. Write a compelling 300-word investor summary covering the problem, solution, market opportunity, business model, traction, team, and funding requirements. Build a credible, persuasive narrative that explains why the opportunity matters now, what differentiates the business, and how it can scale. Eliminate unsupported claims and generic buzzwords. End with a strong reason for investors to take the next meeting.
+
+7. RISK ASSESSMENT REPORT
+Act as a McKinsey-level business risk consultant. Evaluate [DESCRIBE IDEA] and identify the five most critical risks across market demand, operations, finances, legal compliance, and competition. Assess each risk by likelihood and impact, explain its potential triggers, and recommend practical mitigation strategies. Rank the risks by priority and identify what must be validated before committing significant resources.
+
+6. FINANCIAL PROJECTIONS BUILDER
+Act as a McKinsey-level financial planning consultant. Build a realistic 12-month financial model for [DESCRIBE BUSINESS], covering monthly revenue, operating costs, cash flow, cash burn, and break-even. State every key assumption, identify the three biggest financial drivers, and test conservative, expected, and optimistic scenarios. Highlight potential cash shortages and recommend practical actions to improve financial sustainability.
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
