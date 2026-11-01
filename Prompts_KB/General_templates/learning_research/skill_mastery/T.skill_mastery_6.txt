@@ -439,6 +439,117 @@ You can use them to simplify:
 One important warning: If you’re simplifying legal, medical, financial, safety-related, or official instructions, verify the simplified version against the original source. AI can misunderstand important details.
 
 -------------------------------------------------
+## ChatGPT is a free university. But most people are still using it like a toy. Here are 10 powerful prompts to supercharge your learning. 👇
+
+1. Test Yourself Like an Expert
+Act as an expert tutor and Socratic teacher. Help me master [topic] through active recall and challenging, real-world questions.
+- Ask me one challenging question at a time.
+- Wait for my answer before revealing the solution.
+- Evaluate my reasoning, not just whether my answer is correct.
+- Identify knowledge gaps and misconceptions.
+- Explain what I missed and give me a harder follow-up question.
+- Track my progress and revisit weak areas until I can apply the knowledge independently.
+
+2. Build a Personalized Learning Roadmap
+Act as an expert learning strategist. Design a personalized roadmap to help me master [skill or subject] within [timeframe]. I can dedicate [hours] per week, and my current level is [beginner/intermediate/advanced].
+- Break the journey into progressive weekly milestones.
+- Prioritize the essential concepts and skills.
+- Include hands-on exercises and practical projects.
+- Recommend reliable learning resources.
+- Add weekly assessments to measure progress.
+- Adjust the plan based on my results and weak areas.
+Focus on practical mastery, not simply completing lessons.
+
+3. Understand Any Complex Topic From Scratch
+Act as a world-class educator who makes difficult subjects easy to understand without sacrificing accuracy. Teach me [complex topic] as if I were a beginner.
+- Start with the simplest accurate explanation.
+- Explain why the topic matters in the real world.
+- Identify the three foundational principles I must understand.
+- Use relatable examples and analogies.
+- Gradually move from basic to advanced concepts.
+- Finish with a short quiz to check my understanding.
+Do not assume prior knowledge or skip essential steps.
+
+4. Solve Problems Like a Strategic Thinker
+Act as an expert problem-solver and strategic advisor. Help me solve this challenge: [describe the problem].
+- Separate symptoms from underlying causes.
+- Identify the key facts, constraints, and unknowns.
+- Compare at least three possible solutions.
+- Evaluate each option's benefits, risks, costs, and trade-offs.
+- Recommend the most practical approach and explain why.
+- Create a step-by-step implementation plan with measurable milestones.
+- Identify what could go wrong and how to respond.
+Challenge my assumptions and ask clarifying questions if critical information is missing.
+
+
+5. Turn Theory Into Practical Knowledge
+Act as an experienced industry expert. Help me understand and apply [theory, concept, or framework] in real-world situations.
+- Explain the core idea and how it works.
+- Show three realistic examples from business, science, or everyday life.
+- Break down how the concept is applied in each example.
+- Explain its limitations, common mistakes, and situations where it may fail.
+- Give me a practical exercise to apply it myself.
+Distinguish verified examples from hypothetical scenarios, and cite reliable sources when making factual claims.
+
+
+6. Turn Any Topic Into a Powerful Study Guide
+Act as an expert research assistant and instructional designer. Create a structured, high-value study guide on [topic] for someone at [level].
+Include:
+- Essential concepts, definitions, and terminology.
+- The most important principles and how they connect.
+- Common misconceptions and difficult points.
+- Competing perspectives or disagreements where relevant.
+- Examples that make abstract ideas easier to understand.
+- A concise comparison table for key concepts.
+- A final revision checklist and practice questions.
+Prioritize accuracy, clarity, and the information that matters most for genuine understanding.
+
+7. Turn Long Texts Into Actionable Knowledge
+Act as an expert analyst and learning strategist. Transform the text below into a concise but comprehensive learning resource.
+Structure the response into:
+1. Core Summary: The three most important ideas.
+2. Key Insights: The main arguments grouped by theme.
+3. Essential Details: Important evidence, examples, and distinctions.
+4. Practical Applications: Three ways to use the knowledge.
+5. What to Remember: The most valuable takeaways.
+6. Knowledge Check: Five questions to test my understanding.
+Preserve the author's intended meaning, distinguish facts from opinions, and do not introduce claims unsupported by the source.
+Text:
+[Paste text here]
+
+
+8. Make Difficult Concepts Impossible to Forget
+Act as an expert educator specializing in memory, analogies, and long-term retention. Help me remember [concept or topic].
+- Explain the concept in simple, accurate language.
+- Create a vivid analogy that connects it to something familiar.
+- Tell a short story that demonstrates how it works.
+- Develop a memorable mnemonic or mental model.
+- Identify the details people commonly confuse.
+- Finish with a recall exercise that tests whether I can explain it without looking.
+Keep the analogy accurate, and clearly explain where it stops matching the real concept.
+
+9. Translate Complicated Language Into Plain English
+Act as an expert science communicator. Rewrite the technical text below in clear, natural English that an intelligent beginner can understand.
+- Replace unnecessary jargon with familiar words.
+- Explain essential technical terms when first introduced.
+- Break complicated sentences into logical steps.
+- Use examples where they improve understanding.
+- Preserve the original meaning, technical accuracy, and important qualifications.
+- Flag ambiguous statements rather than guessing what they mean.
+Finish with a brief explanation of the main idea in one or two sentences.
+Text:
+[Paste text here]
+
+10. Break Through Creative Blocks and Generate Better Ideas
+Act as an expert creative strategist and critical-thinking partner. Help me develop compelling ideas for [topic, project, or platform].
+- Generate five distinct ideas with different angles.
+- Identify the strongest idea based on originality, relevance, and audience value.
+- Explain why it could work and what might make it fail.
+- Develop the best idea into a clear, actionable outline.
+- Suggest unexpected angles that avoid generic, overused approaches.
+- End with a practical next step to turn the idea into reality.
+Avoid clichés, repetitive suggestions, and unsupported claims. Prioritize originality and usefulness over quantity.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
