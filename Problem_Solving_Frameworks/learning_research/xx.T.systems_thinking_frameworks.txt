@@ -238,5 +238,39 @@ Developed by Werner Ulrich, CSH is a framework focused on "boundary judgments"â€
 
 
 -------------------------------------------------
+The Iceberg Model
+
+    What it is: A foundational framework that encourages looking beyond surface-level events to understand deeper systemic causes 
+
+    Key Layers: 
+        Events (What just happened?)
+        Patterns/Trends (What has been happening over time?)
+        Underlying Structures (What policies, rules, or physical structures cause these patterns?)
+        Mental Models (What beliefs, values, or assumptions sustain the structure?)
+    Best for: Moving from reactive problem-solving to proactive, transformative change by addressing root causes rather than symptoms
+
+
+Viable System Model (VSM)
+
+    What it is: Developed by cybernetician Stafford Beer, this is a model of the organizational structure of any autonomous system capable of surviving in a changing environment 
+
+    Key Components: Five interconnected subsystems:
+        System 1: Operations (doing the work)
+        System 2: Coordination (preventing oscillation between operations)
+        System 3: Control/Internal regulation (managing resources)
+        System 4: Intelligence (looking outward to the future and environment)
+        System 5: Policy (balancing present stability with future adaptation)
+    Best for: Organizational design, restructuring, and diagnosing why an organization is failing to adapt or survive
+	
+DSRP Framework (Distinctions, Systems, Relationships, Perspectives)
+
+    What it is: A cognitive framework developed by Derek Cabrera that breaks down how humans construct meaning and understand complexity.
+    Key Components: 
+        Distinctions: Drawing boundaries (identity vs. other).
+        Systems: Organizing ideas into parts and wholes.
+        Relationships: Identifying connections between ideas.
+        Perspectives: Viewing ideas from different points of view.
+    Best for: Foundational cognitive structuring, breaking down highly abstract concepts, and teaching systems thinking to beginners	
+	
 -------------------------------------------------
 -------------------------------------------------
