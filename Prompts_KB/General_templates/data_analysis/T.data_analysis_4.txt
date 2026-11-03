@@ -141,6 +141,30 @@ PROMPT:
 15 | /recommend   | Give actionable recommendations from this data. 
 
 -------------------------------------------------
+
+1. Turn a PDF into PowerPoint slides
+"Read my attached PDF carefully and create a professional 12-slide PowerPoint presentation for [TARGET AUDIENCE]. Cover the most important points in a logical sequence, including an introduction, main sections and conclusion. Use clear headings, concise explanations and relevant visuals while preserving essential facts and technical details. Generate an actual downloadable PPTX file, not just an outline."
+
+2. Turn a report into charts
+"Analyse the numerical data in my attached document and identify the most important findings, trends and comparisons. Create appropriate bar charts, line graphs or other visualisations, with accurately labelled axes, values and units. Explain what each chart reveals and use only actual data from the document. Never invent figures or fill missing values with guesses. Provide downloadable charts with concise explanations."
+
+3. Create a professional infographic
+"Transform my attached document into a visually engaging, professional infographic highlighting the 5–7 most important facts or insights. Organise the information into a clear visual hierarchy using relevant icons, colours, simple illustrations and readable typography. Highlight important statistics without distorting their meaning, and keep the design clean and suitable for social media. Generate the actual infographic, not a written description."
+
+4. Convert text into a flowchart
+"Examine my attached document and identify the processes or procedures it describes. Convert them into a clear flowchart showing the sequence of activities, decision points, branches and possible outcomes. Use appropriate shapes, arrows and concise labels to make the process easy to understand. Preserve the original meaning and sequence, and generate an actual visual flowchart rather than a text-based explanation."
+
+6. Turn a document into an Excel spreadsheet
+"Extract the structured information from my attached PDF or Word document and organise it into an editable Excel spreadsheet. Use meaningful column headings, clean formatting and separate worksheets where necessary. Preserve numerical accuracy, dates and relationships between records. Make the spreadsheet easy to sort, filter and analyse, and flag missing or unclear information instead of guessing. Generate a downloadable XLSX file."
+
+5. Create a visual timeline
+"Identify all important dates, events, milestones and deadlines in my attached document. Organise them chronologically and create a professional visual timeline with short descriptions for each milestone. Use a clear layout that highlights significant events and shows their relationships. Preserve the original information and never invent missing dates. Generate an actual visual timeline, not just a written list."
+
+7. Create study notes and examination questions
+"Transform my attached document into comprehensive revision materials for a student at [ACADEMIC LEVEL]. Organise the content into clear topics, simplify difficult concepts without losing technical accuracy, and highlight key definitions, formulas and principles. Generate 30 examination questions covering major learning objectives, including multiple-choice, short-answer and application-based questions. Provide a separate answer key with explanations, using only information supported by the document."
+
+8. Create mind maps and comparison tables
+"Analyse my attached document and transform its key information into a visual mind map and comparison tables. Create a mind map showing the central topic, major themes, subtopics and relationships. Build comparison tables highlighting relevant similarities, differences, advantages and limitations of the concepts, methods or findings discussed. Use concise labels, clear structures and only information supported by the document."
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
