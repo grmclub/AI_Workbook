@@ -237,6 +237,22 @@ Let ChatGPT build version one.
 Then improve it by chatting with it.
 
 -------------------------------------------------
+THE BEST AI PROMPT WHEN YOU'RE OVERWHELMED:
+"I have a lot to do and my brain is fried. Act as my ruthless productivity coach.
+Here's my brain dump: [PASTE EVERYTHING YOU HAVE TO DO]
+Do this:
+Organize it into: TODAY (3 must-dos), THIS WEEK, and DELETE/DELEGATE.
+For TODAY, give me time blocks with exact hours.
+Tell me what I'm avoiding and what to do first.
+Make it brutally simple. No fluff. I need to start in the next 10 minutes."
+
+2 more for when you're drowning:
+For prioritizing:
+"Act as an Eisenhower Matrix expert. Take this to-do list: [LIST] and sort it into Urgent/Important, Important/Not Urgent, Urgent/Not Important, Neither. Then tell me what to ignore."
+
+For getting it DONE:
+"I need to finish [TASK] today but I'm procrastinating. Break it into 5 micro-steps that take less than 20 minutes each. Give me the first step so easy I can't say no."
+Stop trying to remember everything. Dump it to AI and let it plan for you.
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
