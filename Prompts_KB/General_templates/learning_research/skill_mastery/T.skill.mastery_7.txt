@@ -134,32 +134,25 @@ Act as an expert content strategist and creative thinking partner. I need compel
 -------------------------------------------------
 ##7 Chatgpt prompts to elevate skills
 
-1.
-**The 80/20 Mastery Prompt**
+1.**The 80/20 Mastery Prompt**
 "Apply the 80/20 principle to [skill]. Identify the 20% of concepts and actions that will produce 80% of the results."
 
-2.
-**The Personal Tutor Prompt**
+2.**The Personal Tutor Prompt**
 "Act as a world-class tutor for [skill]. Create a step-by-step learning path, quiz me along the way, and adapt the lessons based on my progress."
 
-3.
-**The Deliberate Practice Prompt**
+3.**The Deliberate Practice Prompt**
 "Design 15 practical exercises that gradually increase in difficulty and help me build real-world proficiency in [skill]."
 
-4.
-**The Expert Feedback Prompt**
+4.**The Expert Feedback Prompt**
 "Review my work like an expert mentor. Identify mistakes, explain why they matter, and give me specific improvements: [work]."
 
-5.
-**The First-Principles Prompt**
+5.**The First-Principles Prompt**
 "Teach me [topic] from first principles. Strip away jargon and explain the fundamental ideas that everything else builds on."
 
-6.
-**The Knowledge Retention Prompt**
+6.**The Knowledge Retention Prompt**
 "Turn this topic into flashcards, memory techniques, analogies, and a 30-day spaced repetition plan so I retain it long-term."
 
-7.
-**The Skill Accelerator Prompt**
+7.**The Skill Accelerator Prompt**
 "If you had only 30 days to become highly competent at [skill], what would your daily learning plan look like? Prioritize the highest-impact activities."
 
 ---
