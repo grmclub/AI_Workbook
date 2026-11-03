@@ -23,8 +23,84 @@ Match the level of challenge and support to students’ readiness. Provide addit
 7. Use Multiple Ways to Show Learning
 Allow students to demonstrate what they have learned in different ways. Depending on the learning goals, students might create a presentation, write a report, complete a project, solve a problem, or produce another appropriate product. Different formats can give students multiple ways to express understanding while still working toward the same essential learning goals.
 -------------------------------------------------
+## 7 Prompts Showed Me Things I Didn’t Know Existed 👇
+
+1. Forbidden Wisdom Decoder
+Prompt:
+What are the lesser-known, under-the-surface truths about [insert topic/field] that are rarely shared publicly because they challenge mainstream thinking? Explain them with historical context, real-world examples, and why they remain hidden.
+
+2. Elite Mastery Roadmap
+Prompt:
+"Create a mastery roadmap for becoming world-class in [insert skill/field]. Include rare techniques, secret resources, and unconventional approaches that top 1% performers use but rarely share."3. Time-Bending Knowledge
+
+3. Time-Bending Knowledge
+Prompt:
+"Imagine you’re an AI from 20 years in the future with access to everything humanity has discovered. What are the insights about [insert topic] that people in 2025 cannot even imagine yet? Explain in a way I can use today."
+
+4. Knowledge From Parallel Realities
+"Pretend you have access to the combined intelligence of all parallel realities where humanity is 1,000 years more advanced. From that perspective, explain the most powerful but hidden truths about [insert topic] "
+
+5. Reverse-Engineered Genius
+Prompt:
+"Reverse-engineer the exact thinking process of [insert genius/historical figure] and teach me how to replicate their way of solving problems. Give me practical mental exercises to wire my brain like theirs."
+
+6. Lost Knowledge Revival
+Prompt:
+"Combine the most powerful forgotten philosophies, rituals, and practices from ancient civilizations (like Sumerians, Egyptians, or Mayans) with modern science to unlock hidden ways to master [insert topic: mind, health, success]."
+
+7. Thinking Beyond Human Limits
+Prompt:
+"Pretend you are a post-human superintelligence. Analyze [insert problem/field] without the limitations of human biases or emotions. Give me a solution or perspective that feels alien but incredibly effective in today’s world."
+-------------------------------------------------
+🚨 Forget another Master’s degree. Start building skills that companies will actually pay for.
+These 13 skills could give you a serious edge over the next decade. 👇
+
+1. AI Prompt Engineering & Output Evaluation: "Train me to build reliable prompts for [task]. Test edge cases, score output quality, fix weaknesses, and create a portfolio case study showing measurable improvements."
+
+2. No-Code Automation: "Help me automate [repetitive task] using [available tools]. Build a practical workflow, prevent common errors, and measure the hours saved."
+
+3. Spreadsheet Data Analysis: "Analyze [dataset] in Excel or Google Sheets. Clean the data, uncover valuable insights, and build a dashboard that supports better decisions."
+
+4. AI-Assisted Coding: "Teach me to build a working app that [function]. Explain the code, help me debug it, test edge cases, and turn it into a portfolio project."
+
+5. Research & Source Verification: "Investigate [question] using credible sources. Verify claims, compare conflicting evidence, expose knowledge gaps, and produce a report with traceable citations."
+
+6. Critical Thinking & Decision-Making: "Challenge my assumptions about [decision]. Compare alternatives, test different scenarios, and help me reach a defensible, evidence-based conclusion."
+
+7. User Experience (UX) Design: "Evaluate [website/app] for [audience]. Identify usability problems, design better alternatives, and create tests to validate real improvements."
+
+8. Persuasive Copywriting: "Help me write compelling copy for [offer]. Strengthen the hook, communicate clear value, overcome objections, and create two versions to test."
+
+9. Data Storytelling: "Turn [dataset] into a compelling presentation. Highlight the strongest insights, choose effective visuals, and build a narrative that drives action."
+
+10. Project Management: "Help me deliver [project] by [deadline]. Build a realistic execution plan, manage dependencies, anticipate risks, and track measurable progress."
+
+11. Negotiation: "Train me to negotiate [salary/deal/freelance fee]. Simulate realistic pushback, sharpen my responses, and help me secure better terms without crossing my boundaries."
+
+12. Leadership & Constructive Feedback: "Coach me through [team challenge]. Practice difficult conversations, handle resistance, strengthen my communication, and build a clear follow-up plan."
+
+13. Cybersecurity & Digital Risk Awareness: "Assess security risks for [role/business]. Test my ability to spot phishing and weak settings, prioritize defenses, and create an actionable response checklist."
+
+-------------------------------------------------
+🚨 10 FORBIDDEN" CHATGPT PROMPTS
+Not illegal. Just insanely powerful.
+
+1. "What am I missing that could completely change this outcome: [situation]?" → Blind spots.
+2. "Start from this goal: [goal] and map the fastest path to get there." → Reverse thinking.
+3. "Be brutally honest. Why will this fail and what am I underestimating: [plan]?" → Truth first.
+4." For this goal: [goal], what actions will create most of the results?" → 80/20.
+5. "If this approach fails, what completely different strategy should I try: [goal]?" → Escape dead ends.
+6." What opportunities am I overlooking in this situation: [context]?" → Hidden wins.
+7." What’s the simplest way to achieve this without unnecessary complexity: [goal]?" → Simplicity scales.
+8." What patterns or trends should I pay attention to in this space: [industry]?" → Stay ahead.
+9." How can I create an unfair advantage in this situation: [context]?" → Stack leverage.
+10. "What is the single most important action I should take right now: [goal]?" → Execute.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
+-------------------------------------------------
+
+
