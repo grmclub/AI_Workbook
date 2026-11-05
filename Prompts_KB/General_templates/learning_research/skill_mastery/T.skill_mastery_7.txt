@@ -210,7 +210,52 @@ Prompt:
 Prompt:
 "Here’s my attempt at [problem/essay/summary/code]: [paste]. Review it like a strict but fair teacher. List each mistake, explain why it’s wrong, and show the correct version. Then tell me which mistakes point to a real gap in my understanding and which are just careless slips. Finally, give me a similar problem to try again, so I can check I’ve fixed the gap."
 -------------------------------------------------
+🚨 Unlock Chatgpt’s Hidden Power
+
+PROMPT 1: The Expert Mode Act as a world-class with 20 years of experience. Explain to me like I’m 10, then like I’m an expert. Give examples, common mistakes, and 3 
+
+PROMPT 2: The Advocate Take my idea: [paste idea]. List 5 reasons it will fail, 5 ways to fix it, and 3 ways to make it 10x better. Be brutally honest.
+
+PROMPT 3: The Second Brain I’m learning.Create a complete study system: summary, flashcards, 20 practice questions, and a 30-day plan.Test me at the end.[subject]
+
+PROMPT 4: The Content Multiplier Turn this [blog/video/idea]: [paste it] into 10 tweets, 3 LinkedIn posts, 5 hooks, and 1 email. Match my tone: [describe tone].
+
+PROMPT 5: The Problem Solver I have this problem: [describe problem]. Give me 5 unconventional solutions. For each, list pros, cons, cost, and first step
+
+PROMPT 6: The Prompt Engineer My goal is [your goal]. Write me the perfect ChatGPT prompt to achieve it. Then explain why each part of the prompt works.
+
+PROMPT 7: The Decision Maker I’m choosing between [Option A] and [Option B]. Create a comparison table with cost, time, risk, and upside. Then tell me what you’d choose and why.
+
+PROMPT 8: The CEO Coach Act as my business coach. Ask me 5 hard questions about [my business/goal]. Based on my answers, give me a 90-day plan with weekly tasks.
+
 -------------------------------------------------
+## 10X more creativity prompts
+
+1. THE OPPOSITE LENS
+I want ideas for [Your topic: ex: content about fitness]. Give me 10 ideas that do the EXACT OPPOSITE of what everyone else in this niche does. If they do X, we do Y. Make it uncomfortable but impossible to ignore.
+
+2. THE $100M QUESTION
+Act as if you have to turn [Your boring idea] into a $100M business in 12 months. You can't use ads. You can't use what everyone does. Give me 7 crazy, high-leverage ideas that would make it spread like wildfire. No safe ideas.
+Forces you to think in distribution, not just creation.
+
+3. THE CONSTRAINT BOX
+Brainstorm 10 ideas for BUT with these constraints: 1) Must cost $0, 2) Must be done in under 2 hours, 3) Must feel fun, not like work, 4) My audience is [Describe them]. Constraints breed creativity - don't remove them.[Goal]
+
+4. THE REMIX MACHINE
+Take 3 unrelated fields: [Your niche] + Psychology + [Random: ex: Netflix shows / Cooking / Video games]. Mash them. Give me 10 idea hybrids no one has seen. Ex: "What would a chef do to solve [your problem]?"
+Best prompt for hooks that stop scroll. Steal from other industries.
+
+5. THE 10X vs 10%
+I want to improve [Your project / post / product]. Give me 2 lists: A) 5 ideas that make it 10% better (safe tweaks), B) 5 ideas that make it 10X better (requires burning it down and rebuilding). I only want list B explained.
+Kills incremental thinking.
+
+6. THE AUDIENCE MIND-READER
+You are my ideal audience: [Describe them, age, fear, dream]. I create content about [Topic]. Tell me: 7 questions you're too embarrassed to ask, 7 things that make you rage-scroll, 7 things that would make you save and share instantly. Be brutally honest.
+This gave me 30 days of content that actually hits.
+
+7. THE IDEA FILTER
+I have 20 ideas: [Paste your messy list]. Act as a ruthless editor. Score each 1-10 on: 1) Novelty, 2) Shareability, 3) Ease to execute. Kill the 15 weakest. Keep only top 5. Then tell me how to make each of those 5 2x more extreme.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
