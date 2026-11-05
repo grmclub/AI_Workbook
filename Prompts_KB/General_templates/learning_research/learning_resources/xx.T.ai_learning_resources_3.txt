@@ -562,6 +562,59 @@ Explore digital skills training and other learning opportunities available throu
 🔗 Explore: https://grow.google/
 
 -------------------------------------------------
+IF I STARTED AI TODAY, I’d do this first.
+No Раіd course. No fancy setup. Just Free tools,resources, and the exact path I’d follow 👇
+
+1/ Top AI Channels in 2026: Andrej Karpathy
+➔ Andrej Karpathy is best for deep, intuitive breakdowns of neural networks and modern LLM training.
+➔ Follow this channel if you want to understand how AI models are built from the inside, not just how to use AI tools.
+➔ Link: https://www.youtube.com/@AndrejKarpathy
+
+2/ 3Blue1Brown
+➔ 3Blue1Brown is best for visual intuition around math, linear algebra, and neural networks.
+➔ This is useful because AI learning becomes easier when you can actually “see” how the math works.
+➔ Link: https://www.youtube.com/@3blue1brown
+
+3/ StatQuest with Josh Starmer
+➔ StatQuest with Josh Starmer is best for clear and friendly explanations of statistics and ML fundamentals.
+➔ Start here if terms like regression, probability, models, and machine learning formulas feel confusing.
+➔ Link: https://www.youtube.com/@statquest
+
+4/ Stanford Online
+➔ Stanford Online is best for university-grade ML and AI lecture series, including CS229 and more.
+➔ This channel is a strong choice if you want structured academic lessons without jumping between random videos.
+➔ Link: https://www.youtube.com/@stanfordonline
+
+5/ sentdex
+➔ sentdex is best for practical machine learning and Python projects.
+➔ This channel is useful when you want to move from theory into real coding, experiments, and hands-on AI projects.
+➔ Link: https://www.youtube.com/@sentdex
+
+6/ Yannic Kilcher
+➔ Yannic Kilcher is best for deep dives into ML and AI research papers.
+➔ Follow this channel if you want to understand what new AI papers are really saying and why they matter.
+➔ Link: https://www.youtube.com/@YannicKilcher
+
+7/ MIT OpenCourseWare
+➔ MIT OpenCourseWare is best for rigorous academic courses on ML, AI, and applied mathematics.
+➔ This is a strong resource if you want deeper foundations and are ready to study AI more seriously.
+➔ Link: https://www.youtube.com/@mitocw
+
+8/ Siraj Raval
+➔ Siraj Raval is best for high-level overviews and motivation around AI concepts.
+➔ This channel can help beginners stay interested while exploring AI ideas before going deeper into technical learning.
+➔ Link: https://www.youtube.com/@SirajRaval
+
+9/ DeepLearning.AI
+➔ DeepLearning.AI is best for structured learning paths around deep learning and generative AI.
+➔ Use this channel when you want organized lessons that help you connect AI concepts into a clear learning path.
+➔ Link: https://www.youtube.com/@DeepLearningAI
+
+10/ Two Minute Papers
+➔ Two Minute Papers is best for fast and accessible summaries of cutting-edge AI research.
+➔ This channel is useful when you want to stay updated on new AI ideas without reading full research papers first.
+➔ Link: https://www.youtube.com/@TwoMinutePapers
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
