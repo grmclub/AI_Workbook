@@ -155,7 +155,7 @@ The goal isn't an empty inbox.
 It's making sure your inbox doesn't become the person managing your day.
 
 -------------------------------------------------
-ChatGPT has a feature called “Sites.” And most people are still sleeping on it. How it works and 7 useful things you can build 👇
+ChatGPT has a feature called "Sites." And most people are still sleeping on it. How it works and 7 useful things you can build 👇
 
 How ChatGPT Sites works
 Open Work in ChatGPT and describe the website you want. ChatGPT can build it, preview it, host it, and give you a URL to share.
@@ -254,6 +254,30 @@ For getting it DONE:
 "I need to finish [TASK] today but I'm procrastinating. Break it into 5 micro-steps that take less than 20 minutes each. Give me the first step so easy I can't say no."
 Stop trying to remember everything. Dump it to AI and let it plan for you.
 -------------------------------------------------
+##ChatGPT is trained to agree with you. These 6 prompts make it tell you the truth. 👇
+
+1/ Brutal Truth Mode
+"Act as my brutally honest advisor. Analyze [my plan] without sugarcoating anything. Expose my blind spots, challenge my assumptions, and identify the 3 biggest reasons it could fail. Tell me what I need to hear, not what I want to hear."
+
+2/ Devil’s Advocate Loop
+"Challenge your own previous answer. Build the strongest possible case against it, expose flawed logic, and identify 3 counterarguments backed by evidence. Then determine which argument is hardest to refute and why."
+
+3/ Second-Order Effects Mapper
+"Analyze [my decision] beyond its immediate outcome. Map the second- and third-order consequences, hidden risks, unintended trade-offs, and likely competitor reactions. Show me the most probable scenarios over the next 6 months."
+Reply
+Carol Lathrop
+ ·
+Tami Forero I thought of you and your strategic brain when I read this post. Have you used ChatGPT like this?
+
+4/ The Expert Panel
+"Simulate a panel of 5 world-class experts with conflicting perspectives on [my problem]. Have them challenge each other’s assumptions, expose weaknesses, and defend their positions. End with the strongest evidence-based conclusion and the key disagreements that remain."
+
+5/ Hidden Assumption Finder
+"Dissect [my plan] and uncover every critical assumption I’m treating as fact. Rank each by risk, uncertainty, and impact. Identify the one untested assumption most likely to destroy the entire plan—and design the fastest, cheapest way to validate it."
+
+6/ The 80/20 Reconstructor
+"Rebuild [my plan] using the 80/20 principle. Identify the few actions that will drive most of the results, eliminate low-impact work, and rank priorities by expected impact. Give me a lean execution plan focused on maximum results with minimum effort."
+
 -------------------------------------------------
 -------------------------------------------------
 
