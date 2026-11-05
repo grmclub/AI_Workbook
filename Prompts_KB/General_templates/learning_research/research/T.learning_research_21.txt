@@ -102,6 +102,92 @@ C. Developing the methodology
 D. Analyzing data
 E. Writing and defending the thesis
 -------------------------------------------------
+🚨 Stop telling Claude: "RESEARCH THIS TOPIC."
+Weak prompts can lead to shallow research, here are 10 powerful prompts to try.
+
+1️. FIND THE MOST IMPORTANT QUESTIONS
+Before researching a topic, identify what actually needs to be investigated.
+📋 Prompt:
+"Act as an experienced research analyst. I want to investigate [INSERT TOPIC]. Before writing the research report, break the topic into its major dimensions, identify the 10 most important research questions, explain why each question matters, and identify the types of evidence needed to answer them. Highlight ambiguities in my topic and ask any essential clarification questions before proceeding."
+Why it works: It helps you define the research problem before collecting information.
+
+2️. FIND CREDIBLE SOURCES
+Don’t build your research on random websites or unsupported claims.
+📋 Prompt:
+"Help me develop a credible source-finding strategy for researching [INSERT TOPIC]. Identify suitable academic databases, government publications, institutional reports, professional organizations, and other authoritative sources. If web research is available, locate relevant sources and provide their titles, authors or organizations, publication dates, and direct links. Explain why each source is relevant. Never invent citations, authors, publication details, or URLs. Clearly state when you cannot verify a source."
+Why it works: It encourages source quality and makes verification part of the process.
+
+3️. REVIEW THE EXISTING LITERATURE
+Useful for students, academics, and researchers.
+📋 Prompt:
+"Act as a research assistant helping me prepare a literature review on [INSERT TOPIC]. Organize the available literature into major themes, summarize the key arguments and findings of each study, identify areas of agreement and disagreement, and compare the methods used by different researchers. Provide verifiable citations for claims where possible. Distinguish what the studies actually establish from your own interpretation. Do not invent references or claim to have read full papers you cannot access."
+Why it works: It moves beyond a list of summaries toward a structured understanding of the literature.
+
+4️. IDENTIFY RESEARCH GAPS
+Want to discover what existing studies have not adequately addressed?
+📋 Prompt:
+"Analyze the research literature available to you on [INSERT TOPIC]. Identify potential research gaps involving unanswered questions, conflicting findings, underrepresented populations, methodological limitations, missing comparisons, and emerging developments. For each proposed gap, explain the evidence supporting it, identify relevant studies that should be checked, and suggest how the gap could be investigated. Label each gap as confirmed, preliminary, or unverified according to the available evidence. Do not claim that a topic has never been studied without sufficient evidence."
+Why it works: It helps you develop researchable questions instead of relying on generic claims that ‘more research is needed.’
+
+5️. COMPARE CONFLICTING STUDIES
+Not every study reaches the same conclusion.
+📋 Prompt:
+"Compare the following studies on [INSERT TOPIC]: [PASTE STUDY DETAILS, ABSTRACTS, OR VERIFIED REFERENCES]. Create a comparison table showing each study’s objective, methodology, sample, major findings, limitations, and conclusions. Identify where the studies agree or disagree and explore possible explanations for the differences. Distinguish methodological differences from genuine disagreements in the evidence. Do not infer details that are absent from the supplied material."
+Why it works: It helps you understand why research findings may differ.
+
+6️. CHECK THE STRENGTH OF THE EVIDENCE
+A confident conclusion is not necessarily a well-supported conclusion.
+📋 Prompt:
+"Evaluate the strength of the evidence supporting the claim that [INSERT CLAIM]. Identify the relevant studies or sources, assess their credibility and methodological limitations, consider alternative explanations, and distinguish correlation from causation. Explain what the evidence supports, what remains uncertain, and what additional research would strengthen the conclusion. Cite verifiable sources where available, and never fabricate evidence."
+Why it works: It encourages critical evaluation rather than simply agreeing with a claim.
+
+7️. VERIFY IMPORTANT FACTS AND CITATIONS
+This is especially important when preparing academic work or professional reports.
+📋 Prompt:
+"Audit the following research notes or draft: [PASTE TEXT]. Break the text into individual factual claims. For each claim, identify the evidence required to support it, determine whether a supplied source actually supports it where the source is accessible, and flag claims that are unsupported, overstated, outdated, or potentially inaccurate. Check citation details against authoritative records when possible. Mark anything you cannot verify as unverified. Never invent a source or treat a plausible-looking citation as proof."
+Why it works: It makes fact-checking a separate step instead of assuming the first draft is accurate.
+
+8️. TURN RESEARCH INTO A STRUCTURED REPORT
+Once you have reviewed the evidence, organize it professionally.
+📋 Prompt:
+"Using the verified research materials provided, prepare a structured report on [INSERT TOPIC]. Include an executive summary, background, research questions, major findings, comparison of relevant evidence, limitations, implications, recommendations, and conclusion. Support factual claims with appropriate citations. Separate established findings from interpretations and recommendations. Do not introduce new factual claims without evidence. Identify areas where the available material is insufficient."
+Why it works: It helps transform scattered research notes into a coherent document.
+
+
+9️. FIND WHAT YOUR RESEARCH MAY BE MISSING
+Good research considers alternative explanations and opposing evidence.
+📋 Prompt:
+"Act as a critical reviewer of my research on [INSERT TOPIC]. Identify important perspectives, alternative explanations, contradictory evidence, potential biases, methodological weaknesses, and relevant questions that my current analysis may have overlooked. Explain why each issue matters and suggest specific searches, sources, or analyses that could address it. Do not manufacture objections merely to appear critical; prioritize issues supported by the available evidence."
+Why it works: It reduces the risk of building an argument around only the evidence that supports your initial position.
+
+10. CREATE A COMPLETE RESEARCH ACTION PLAN
+Turn your research into a clear sequence of tasks.
+📋 Prompt:
+"Create a step-by-step research action plan for investigating [INSERT TOPIC] within [INSERT TIMEFRAME]. Include the research objectives, key questions, source-finding strategy, inclusion and exclusion criteria, evidence evaluation process, data extraction requirements, analysis method, verification checkpoints, expected deliverables, and possible limitations. Divide the work into manageable stages and explain what must be completed before moving to the next stage. Tailor the plan to [ACADEMIC RESEARCH / BUSINESS RESEARCH / POLICY ANALYSIS / PERSONAL LEARNING]."
+Why it works: It gives you a repeatable research process instead of an unstructured collection of AI responses.
+
+🔥 The Secret: Use These Prompts In Sequence
+Don’t just copy all 10 prompts into Claude at once.
+
+Use them as a workflow:
+1. Define the research questions.
+2. Find credible sources.
+3. Review the literature.
+4. Identify potential research gaps.
+5. Compare conflicting findings.
+6. Evaluate the strength of the evidence.
+7. Verify important claims and citations.
+8. Prepare the report.
+9. Challenge the conclusions.
+10. Create the final action plan.
+
+⚠️ IMPORTANT
+Claude can help you organize and analyze research, but it can still make mistakes, misinterpret papers, or produce inaccurate citations.
+For academic research, read the original papers whenever possible, verify references through reliable databases, and follow your institution’s rules for AI-assisted work.
+A research gap suggested by AI is a hypothesis to investigate, not proof that nobody has studied the subject.
+The goal isn’t to make AI sound intelligent.
+The goal is to produce research that is organized, traceable, critical, and supported by evidence.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
