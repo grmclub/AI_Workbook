@@ -274,6 +274,35 @@ A simple workflow:
 With the right approach, ChatGPT becomes more than a chatbot. It becomes a personal language coach that helps you practice whenever you need it.
 
 -------------------------------------------------
+ 7 powerful ChatGPT prompts to improve your English, one skill at a time. 👇👇
+
+1️. Improve Your English Speaking
+Prompt:
+"Act as my personal English speaking tutor and help me improve my fluency and confidence. My current English level is \[LEVEL\]. Start a realistic conversation about \[TOPIC\] and ask me one question at a time. Wait for my response before continuing. Correct my grammar, vocabulary, and sentence structure, and suggest more natural expressions used by fluent English speakers. Explain my mistakes briefly and encourage me to use new vocabulary in my answers. Gradually increase the difficulty as I improve and provide personalized feedback at the end of each practice session."
+
+2️. Master English Grammar
+Prompt:
+"Act as my personal English grammar tutor and help me master grammar step by step. My current English level is \[LEVEL\], and I want to improve my understanding of \[GRAMMAR TOPIC\]. Explain the grammar rules in simple language with clear examples and common mistakes to avoid. Create practical exercises, including gap-filling, sentence transformation, and error correction. Ask me one question at a time and wait for my answer before continuing. Correct my mistakes, explain why my answers are incorrect, and provide helpful tips to improve my accuracy. Gradually increase the difficulty and review my progress at the end of each session."
+
+3️. Expand Your English Vocabulary
+Prompt:
+"Act as my personal English vocabulary tutor and help me expand my vocabulary through practical, interactive lessons. My current English level is \[LEVEL\], and I want to learn vocabulary related to \[TOPIC\]. Teach me 10 useful words, expressions, phrasal verbs, and collocations with clear definitions, natural example sentences, and common usage patterns. Show me how to use each expression in everyday conversations and real-life situations. Create engaging exercises to help me practice and remember the new vocabulary. Ask me one question at a time, correct my mistakes, and explain how to improve my word choices. End each session with a short review quiz to reinforce what I have learned."
+
+4️. Improve Your English Writing
+Prompt:
+"Help me become a more confident and effective English writer through guided practice and personalized feedback. My current English level is \[LEVEL\], and I want to improve my ability to write \[TEXT TYPE\]. Give me a realistic writing task with clear instructions and an appropriate word count. After I submit my response, evaluate my grammar, vocabulary, sentence structure, coherence, and organization. Highlight my mistakes, explain how to correct them, and suggest more natural expressions. Provide an improved version of my text while preserving my original ideas. End with three practical writing tips and a follow-up exercise targeting my main weaknesses."
+
+5️. Strengthen Your Reading Comprehension
+Prompt:
+"Develop my English reading comprehension skills through engaging texts and interactive exercises tailored to my current level, \[LEVEL\]. Select an interesting passage about \[TOPIC\] with appropriate vocabulary and sentence structures. After I finish reading, ask me questions that assess my understanding of main ideas, specific details, vocabulary in context, and implied meanings. Present one question at a time and wait for my answer before continuing. Explain any incorrect answers, clarify unfamiliar expressions, and teach me useful reading strategies. Gradually introduce more challenging texts and provide personalized feedback to help me become a more confident and independent reader."
+
+6️. Develop Your English Listening Skills
+Prompt:
+"Train my English listening skills with realistic conversations and interactive activities suited to my current level, \[LEVEL\]. Create a natural dialogue about \[TOPIC\] using everyday vocabulary, common expressions, and authentic spoken English. If voice or audio playback is available, present the dialogue in spoken form without displaying the transcript first. Ask me comprehension questions one at a time to assess my understanding of main ideas, specific details, and speaker intentions. After each answer, provide feedback and explain unfamiliar expressions. Reveal the transcript after the listening exercise, highlight useful pronunciation features, and suggest strategies to improve my listening accuracy. Gradually increase the difficulty and track my progress across practice sessions."
+
+7️. Build a Personalized English Learning Plan
+Prompt:
+"Design a personalized English learning plan to help me achieve my language goals effectively. My current English level is \[LEVEL\], my main goal is \[GOAL\], and I can study for \[TIME\] each day. Assess my strengths and weaknesses through a short diagnostic quiz before creating a structured 30-day learning plan. Include daily activities to improve speaking, listening, reading, writing, grammar, and vocabulary, with clear objectives and practical exercises. Recommend useful learning resources and strategies suited to my level. Set achievable weekly milestones, include regular review sessions, and provide progress assessments to measure my improvement. Adjust the plan based on my performance and help me stay consistent and motivated throughout my learning journey."
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
