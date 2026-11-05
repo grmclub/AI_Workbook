@@ -185,6 +185,126 @@ Generate 4 images. Change only one phrase.
 Save the winner with the site and model name.
 
 -------------------------------------------------
+## 99 chatgpt commands for ai image control
+
+📌 For Quality & Realism:
+1. /4k: — High-quality, detailed 4K image
+2. /8k: — Ultra-detailed, high-resolution image
+3. /hdreal: — Enhanced HD photorealistic look
+4. /ultrarealistic — Extremely realistic visual output
+5. /cinematic: — Cinematic lighting, composition, and mood
+
+📌 For Camera Angles & Perspectives
+6. /droneview: — Aerial drone-style perspective
+7. /aerialview: — High-altitude view from above
+8. /topdown: — Direct top-down camera angle
+9. /lowangle: — Dramatic camera angle from below
+10. /highangle: — Camera looking down at the subject
+11. /sideview: — Side-profile perspective
+12. /closeup: — Close framing focused on the subject
+13. /extremecloseup: — Highly detailed extreme close-up
+14. /wideangle: — Wide field of view showing more environment
+15. /fisheye: — Distorted ultra-wide fisheye perspective
+16. /pov: — First-person point-of-view shot
+17. /overtheshoulder: — Perspective from behind a subject's shoulder
+18. /birdseyeview: — Scene viewed from directly overhead
+19. /wormseyeview: — Extreme perspective looking upward
+
+📌 Atmosphere & Weather
+20. /fog: — Atmospheric fog surrounding the scene
+21. /mist: — Soft, light misty atmosphere
+22. /rainynight: — Rainy nighttime environment
+23. /rain: — Rainfall and wet atmospheric effects
+24. /storm: — Dramatic storm weather
+25. /snow: — Snowfall and winter atmosphere
+26. /sunset: — Warm sunset lighting
+27. /sunrise: — Soft early-morning sunrise lighting
+28. /goldenhour: — Warm, cinematic golden-hour light
+29. /bluehour: — Cool blue twilight atmosphere
+30. /moonlight: — Scene illuminated by moonlight
+31. /neonlights: — Vibrant neon lighting effects
+32. /cyberpunk: — Futuristic neon cyberpunk aesthetic
+33. /darkmoody: — Dark, dramatic, moody atmosphere
+
+📌 Lighting & Photography
+34. /softlighting: — Gentle and diffused lighting
+35. /dramaticlighting: — Strong, high-contrast cinematic lighting
+36. /rimlight: — Bright edge lighting around the subject
+37. /backlight: — Subject illuminated from behind
+38. /volumetriclight: — Visible light beams through the atmosphere
+39. /godrays: — Dramatic rays of sunlight or light
+40. /studio: — Professional studio photography setup
+41. /filmgrain: — Cinematic analog film texture
+42. /anamorphic: — Widescreen cinematic lens look
+43. /bokeh: — Soft blurred background light effects
+44. /shallowdepth: — Sharp subject with blurred background
+
+📌 For Motion & Visual Effects
+45. /motionblur: - Dynamic movement blur
+46. /longexposure: - Long-exposure photography effect
+47. /freezeaction: - Sharp capture of fast-moving action
+Reply
+📌 For Visual Styles
+48. /vintage: - Classic old-style visual aesthetic
+49. /retro: - Nostalgic retro-inspired style
+50. /o1dmoney: - Elegant, timeless luxury aesthetic
+51. /luxury: - Premium, high-end visual style
+52. /minimalist: - Clean and simple composition
+53. /editorial: - Professional magazine editorial photography
+54. /fashion: - High-fashion photography style
+55. /streetstyle: - Modern urban street-fashion aesthetic
+56. /magazinecover: - Professional magazine cover composition
+57. /polaroid: - Instant Polaroid photo aesthetic
+58. /disposablecamera: - Raw disposable-camera photography look
+59. /35mm fi1m: - Classic 35mm film photography aesthetic
+60. /instantphoto: - Instant-camera photo appearance
+
+📌 For Environments & Locations
+61. /underwa ter: - Underwater environment and perspective
+62. /space: - Outer-space or cosmic environment
+63. /desert: - Desert landscape environment
+64. /forest: - Natural forest setting
+65. /moun tains: - Dramatic mountain landscape
+66. /beach: - Coastal or beach environment
+67. /cityscape: - Urban city landscape view
+68. /nightcity: - City environment at night
+
+📌 For Cinematic & Thematic Styles
+69. /futuristic: - Advanced futuristic visual design
+70. /postapocalyptic: - Ruined, dystopian-world aesthetic
+71. /fantasy: - Magical and imaginative fantasy world
+72. /scifi: - Science-fiction-inspired visual style
+73. /medieval: - Historical medieval-era aesthetic
+74. /samurai: - Cinematic Japanese samurai-inspired scene
+75. /noir: - Dark, high-contrast film noir style
+76. /detective: - Mystery and detective-inspired atmosphere
+77. /superhero: - Epic superhero-inspired visual
+
+📌 For Art & Illustration Styles
+78. /anime - Japanese anime-inspired style
+79. /comicbook - Illustrated comic-book aesthetic appearance
+80. /oilpainting - Traditional oil-painting style
+81. /watercolor - Soft watercolor artwork effect
+82. /sketch - Hand-drawn sketch appearance
+83. /claystyle - Stylized clay or claymation look
+84. /3drender - High-quality 3D-rendered
+85. /isometric - Isometric three-dimensional perspective
+86. /miniature - Tiny miniature world or diorama effect
+87. /tiltshift - Tilt-shift miniature photography effect
+88. /papercraft - Handmade paper-cut artwork style
+
+📌 For Experimental & Special Effects
+89. /glassart: - Artistic transparent glass aesthetic
+90. /chrome: - Reflective metallic chrome appearance
+91. /holographic: - Futuristic holographic material effect
+92. /doubleexposure: - Two images blended into one composition
+93. /silhouette: - Dark subject outline against light
+94. /reflection: - Reflective surface or mirrored composition
+95. /mirror: - Creative mirror-based visual composition
+96. /fire: - Dramatic fire and flame effects
+97. /smoke: - Atmospheric smoke effects
+98. /glitch: - Digital glitch and distortion aesthetic
+99. /dreamcore: - Surreal, dreamlike, slightly uncanny aesthetic
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
