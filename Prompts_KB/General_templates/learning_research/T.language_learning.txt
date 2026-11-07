@@ -304,6 +304,34 @@ Prompt:
 Prompt:
 "Design a personalized English learning plan to help me achieve my language goals effectively. My current English level is \[LEVEL\], my main goal is \[GOAL\], and I can study for \[TIME\] each day. Assess my strengths and weaknesses through a short diagnostic quiz before creating a structured 30-day learning plan. Include daily activities to improve speaking, listening, reading, writing, grammar, and vocabulary, with clear objectives and practical exercises. Recommend useful learning resources and strategies suited to my level. Set achievable weekly milestones, include regular review sessions, and provide progress assessments to measure my improvement. Adjust the plan based on my performance and help me stay consistent and motivated throughout my learning journey."
 -------------------------------------------------
+🚨 BREAKING: Claude has a hidden "LANGUAGE LEARNING MODE."
+Claude can build a personalized learning plan, teach vocabulary in context, correct your grammar, simulate real conversations, and adapt lessons as you improve.
+Here are 7 prompts to turn Claude into your personal language tutor👇
+
+1. Build My Personalized Learning Plan
+"I want to learn [LANGUAGE] from [CURRENT LEVEL] to [TARGET LEVEL] for [TRAVEL/WORK/EXAMS/CONVERSATION]. I can study [MINUTES] minutes per day for [NUMBER] days. First, ask me five short questions to assess my needs. Then create a weekly plan covering speaking, listening, reading, writing, grammar, and vocabulary. Include measurable milestones and a simple daily routine."
+
+2. Teach Me My First Lesson
+"Act as a patient [LANGUAGE] tutor teaching a complete beginner. Create a [MINUTES]-minute lesson about [TOPIC, e.g., introductions]. Teach only the most useful words, phrases, and one simple grammar rule. Include pronunciation help, natural examples, a short dialogue, and three practice exercises. Ask me to answer each exercise before revealing the correction."
+
+3. Become My Daily Language Tutor
+"Give me today’s [LANGUAGE] lesson for level [LEVEL]. Focus on [TOPIC/SKILL] and keep it under [MINUTES] minutes. Use this structure: quick review, five useful expressions, one grammar pattern, guided practice, short conversation, and a final quiz. Correct my mistakes clearly and adjust the difficulty based on my answers."
+
+4. Practice a Real-Life Conversation
+"Role-play a realistic [LANGUAGE] conversation in which I am [ROLE] and you are [OTHER ROLE] at [LOCATION/SITUATION]. Speak at [BEGINNER/INTERMEDIATE/ADVANCED] level and send only one conversational turn at a time. After each response, briefly correct my important mistakes, suggest a more natural version, and continue the role-play. At the end, summarize the phrases I should review."
+
+5. Improve My Pronunciation
+"Be my [LANGUAGE] pronunciation coach. Teach me how to pronounce these words or phrases: [PASTE LIST]. For each one, provide a simple phonetic guide, syllable breakdown, stressed syllable, mouth or tongue placement, and one common mistake made by speakers of [NATIVE LANGUAGE]. Then create a short repetition drill and test me using similar-sounding words."
+
+6. Explain Grammar Without Confusing Me
+"Explain [GRAMMAR TOPIC] in [LANGUAGE] to a [LEVEL] learner whose native language is [NATIVE LANGUAGE]. Use plain language, a simple pattern or formula, and five practical examples. Compare it with my native language where helpful. Then give me three exercises—easy, medium, and challenging—one at a time, correcting and explaining each answer."
+
+7. Build Useful Vocabulary That Sticks
+"Teach me 12 high-frequency [LANGUAGE] words about [TOPIC]. For each word, include its meaning, pronunciation, natural example sentence, common word combination, and an easy memory association. After teaching them, quiz me through recall, sentence completion, and translation. Re-test any words I miss later in the session instead of immediately repeating them."
+
+8. Help Me Learn Through a Story
+"Write a short, interesting story in [LANGUAGE] for level [LEVEL] about [TOPIC]. Keep approximately 90% of the vocabulary understandable from my level or context. Highlight eight useful expressions, explain them after the story, and ask five comprehension questions one at a time. Finally, help me retell the story in my own words and correct my version."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
