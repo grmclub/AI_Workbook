@@ -516,6 +516,30 @@ Example:
 [PHILOSOPHY] = meaningful mornings do not need to be complicated; simple rituals can create human connection
 [EMOTION] = warmth, familiarity, optimism, and a sense of belonging
 -------------------------------------------------
+🚨BREAKING: Claude can now create Premium Logo! Like a top branding agency.
+Here are 7 Claude prompts that replace $500K logo designers :
+
+1. Brand Foundation Prompt
+"Act as a world-class brand identity designer. Create a logo for [brand name] that communicates [core value] and targets [audience]. Style should feel premium, timeless, and globally recognizable. Avoid trends focus on longevity."
+
+2. Luxury Minimalism Prompt
+"Design a minimalist, high-end logo for [brand name]. Use clean geometry, balanced spacing, and a restrained color palette (black, white, gold accents). Think Apple × Nike level simplicity."
+
+3. Typography-First Prompt
+"Create a typography-driven logo for [brand name]. Focus on custom letterforms, kerning, and negative space. The logo should feel iconic even without a symbol."
+
+4. Symbol + Meaning Prompt
+"Design a logo for [brand name] with a symbolic mark that represents [idea/mission]. Keep it simple enough to be recognized at a glance, but meaningful enough to tell a story."
+
+5. Scalability Prompt
+"Create a logo system for [brand name] that works across all formats favicon, app icon, website header, merchandise. Must look equally strong at small and large sizes."
+
+6. Competitive Edge Prompt
+"Analyze top brands in [industry]. Then design a logo for [brand name] that stands out while still feeling credible in that space. Avoid clichés used by competitors."
+
+7. Presentation Prompt (This is the secret)
+"Present the logo like a $500,000 brand project. Show it on mockups (business cards, packaging, website, billboard). Include a short rationale explaining design choices and brand positioning."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
