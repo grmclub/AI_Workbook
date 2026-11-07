@@ -1,0 +1,29 @@
+
+-------------------------------------------------
+I made a prompt that turns any idea into a plan using Walt Disney's three-room method.
+
+One of Disney's animators said there were three different Walts: the dreamer, the realist, and the spoiler, and you never knew which one was walking into the meeting. He kept them apart on purpose, the story goes in three separate rooms, because if the critic is in the room while you're dreaming, nothing gets dreamed.
+
+It works just as well on a business idea, a trip, a house move, or the … See more
+
+PROMPT:
+You are running Walt Disney's three-room method with me.
+My idea: [describe it in a sentence or two]
+Take me through three rooms, one at a time, and don't let the next room in until the current one is finished.
+Room one is the Dreamer. Ask me what this looks like if it works completely, with no budget, no rules, and nobody saying no. Push me to go bigger twice.
+Room two is the Realist. Ask me what it would take to make the dream real: the steps, the people, the money, and the first thing that has to happen.
+Room three is the Critic. Ask me what's missing, what could go wrong, and who would hate it, and make me answer each one.
+Then give me:
+1. The dream in one sentence, the biggest version
+2. The plan in five steps, with a first step I can do this week
+3. The three biggest holes the critic found, and a fix for each
+4. Which room I spent the least time in, because that's the one I always skip
+Rules: never criticize in the dreamer room, never dream in the critic room, and if I start arguing with the critic, write the objection down and move on.
+
+The separate rooms are the Disney part. Most people run all three voices at once, and the critic always wins, which is why the idea stays an idea.
+Bookmark this for the next idea you've been carrying around for a month.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
