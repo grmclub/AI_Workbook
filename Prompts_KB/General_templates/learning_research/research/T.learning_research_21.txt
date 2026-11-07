@@ -189,5 +189,41 @@ The goal isn’t to make AI sound intelligent.
 The goal is to produce research that is organized, traceable, critical, and supported by evidence.
 
 -------------------------------------------------
+🚨 BREAKING: Claude can now become your academic research assistant.
+Upload your papers and it can help you review literature, uncover key debates, identify research gaps, and synthesize evidence across sources.
+Here are 9 Claude prompts to make your next research project faster, clearer, and easier to defend 👇
+
+1. Find the papers worth reading first
+"I’m researching [topic] for a [course level] project. Review the uploaded papers and rank them by relevance to [research question]. For each, give me its main question, method, key finding, and one reason it matters to my project. Cite the page or section for each finding. If a paper is only loosely related, tell me why."
+
+2. Build a literature review table
+"Create a table from the uploaded papers with these columns: author and year, research question, participants or data, method, main findings, limitations, and relevance to [my topic]. Keep each cell brief. Use ‘not reported’ when information is missing, and include page or section references so I can verify the entries."
+
+3. Uncover the real debate
+"On [specific issue], which uploaded papers disagree? Show each position, the evidence its authors use, and possible reasons their conclusions differ, such as samples, definitions, or methods. Separate genuine disagreement from papers that simply studied different questions. Cite the relevant pages or sections."
+
+4. Compare how researchers studied the topic
+"Compare the methods used in the uploaded papers on [topic]. Group similar approaches, then explain what each approach can and cannot tell us. Flag sample sizes, measures, or study designs that affect how confidently I should interpret the findings. Give concrete examples from the papers with page or section references."
+
+5. Spot the theories behind the findings
+"Identify the theories or conceptual frameworks used in these papers to explain [phenomenon]. For each framework, explain its core idea in plain English, show which papers use it, and describe what it helps explain or leaves out. Distinguish theories the authors explicitly name from interpretations you infer."
+
+6. Synthesize findings without paper-by-paper summaries
+"Answer this question using the uploaded papers: [research question]. Organize the answer around 3–5 themes, not one paragraph per paper. For each theme, explain where findings agree, where they differ, and how strong the available evidence is. Cite the papers and pages supporting every substantial claim."
+
+7. Find a defensible research gap
+"Based only on the uploaded papers about [topic], identify 3 possible research gaps. For each, name the papers that reveal it, explain what remains unanswered, and suggest a narrow study that could address it. Do not claim a gap exists across the entire field; give me search terms to check whether newer work has filled it."
+
+8. Check my literature review claims
+"Review my draft literature review below against the uploaded papers. Make a table with each factual claim, its supporting source and page, and a label: supported, partly supported, unsupported, or contradicted. Explain any mismatch and suggest a more accurate sentence. Do not invent citations. Draft: [paste draft]"
+
+9. Turn the evidence into a research question
+"I want to study [topic] in [population or setting]. Using the uploaded papers, propose 3 focused research questions I could realistically investigate. For each, explain the evidence that motivates it, the data I would need, and one likely limitation. Recommend the strongest question for a [word count/timeframe] project."
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------

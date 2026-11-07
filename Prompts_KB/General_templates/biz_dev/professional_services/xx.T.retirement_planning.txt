@@ -1,0 +1,41 @@
+
+-------------------------------------------------
+🚨 BREAKING: Claude can now help you map out your retirement better than many people charging $2,500.
+
+Give it your age, savings, income, spending, and goals.And it can help you estimate when you could retire and how much you may need.
+Here are 10 prompts to build your retirement roadmap 👇
+
+1. Retirement Timeline
+"Based on my current age, savings, income, expenses, investment returns, and expected retirement spending, calculate the earliest realistic age I could retire. Show the assumptions and what I need to change to retire earlier: [details]"
+
+2. Monte Carlo Simulation
+"Run a Monte Carlo-style retirement analysis using different market return, inflation, and longevity assumptions. Estimate the probability my portfolio lasts until age [X]. Show the strongest and weakest scenarios."
+
+3. Social Security / Pension Strategy
+"Compare different claiming strategies for my Social Security/pension. Show how claiming at different ages affects lifetime income, taxes, and portfolio withdrawals. Assume: [details]."
+
+4. Tax Optimization
+"Create a tax-efficient retirement withdrawal strategy across my taxable, traditional retirement, and Roth accounts. Show which account I should withdraw from first and why, while considering future tax rates."
+
+5. Healthcare Costs
+"Estimate how healthcare and insurance costs could affect my retirement plan from age [X] to [X]. Model several cost-inflation scenarios and show how much additional savings I should target."
+
+6. Inflation Stress Test
+"Stress-test my retirement plan against prolonged high inflation. Model 2%, 4%, 6%, and 8% inflation scenarios and show how my purchasing power and portfolio longevity change."
+
+7. Part-Time Retirement
+"Model a semi-retirement scenario where I stop full-time work at [age] and earn $[amount] annually from part-time work for [years]. Calculate how this changes my required retirement savings."
+
+8. Asset Allocation
+"Analyze my current retirement portfolio allocation: [stocks/bonds/cash/other]. Compare conservative, balanced, and aggressive allocations based on my retirement timeline and risk tolerance. Explain the trade-offs."
+
+9. Retirement Budget
+"Build a realistic retirement budget from my current expenses. Separate essential, discretionary, healthcare, travel, housing, and unexpected expenses. Adjust for inflation and show my required annual retirement income."
+
+10. Reverse Retirement Plan
+"Work backward from my desired retirement lifestyle. I want to retire at [age], spend $[amount] per year in today's dollars, and have my portfolio last until age [X]. Calculate the savings target, required annual contributions, and approximate investment return needed."
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------

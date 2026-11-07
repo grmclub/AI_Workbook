@@ -276,11 +276,60 @@ Use AI as a study assistant, not as a replacement for thinking.
 7️. Test Me Like an Exam
 "Act as an examiner for [SUBJECT/TOPIC] using my uploaded materials. Ask me one question at a time, wait for my answer, grade it based on the materials, explain any mistakes, and continue until you have tested me across the key topics."
 
+-------------------------------------------------
+## NotebookLM can turn any YouTube tutorial into a complete learning system.
 
+Drop in a tutorial link, then use the right prompts to transform the video into structured lessons, hands-on practice, real projects, assessments, and a step-by-step plan to actually apply what you learn. Here are 8 prompts to use every time: 👇
 
+1. Turn This Tutorial Into a Course
+Prompt:
+"Turn this YouTube tutorial about [TOPIC/SKILL] into a complete course, not a summary. Organize it from beginner to advanced. Explain each concept, define key terms, give examples and analogies, identify common mistakes and missing information, and end each lesson with key takeaways and practical exercises. Tailor it to my level: [BEGINNER/INTERMEDIATE/ADVANCED]."
+
+2. Build a Mastery Roadmap
+Prompt:
+"Turn this tutorial about [TOPIC/SKILL] into a learning roadmap from beginner to advanced. Include prerequisites, learning order, milestones, practical skills, timelines, success criteria, and progression indicators. My goal is [DESIRED RESULT], and I can study [TIME PER DAY/WEEK]."
+
+3. Create a Practice Plan
+Prompt:
+"Create a [30/60/90]-day practice plan based on this tutorial. Include daily exercises, increasingly difficult challenges, mini-projects, reviews, spaced repetition, weekly assessments, goals, and checkpoints. Tailor it to [BEGINNER/INTERMEDIATE/ADVANCED] and [TIME PER DAY]. My goal is [SPECIFIC GOAL]."
+
+4. Turn Knowledge Into Action
+Prompt:
+"Extract the actionable knowledge from this tutorial about [TOPIC/SKILL]. Turn it into a playbook with strategies, frameworks, workflows, checklists, tools, templates, best practices, and implementation steps. Prioritize what matters most for [DESIRED OUTCOME]. Make it usable without rewatching the video."
+
+5. Find the Missing Pieces
+Prompt:
+"Analyze this tutorial about [TOPIC/SKILL]. Identify skipped concepts, hidden assumptions, advanced techniques, outdated advice, beginner mistakes, and learning gaps. Then list what I should study next to reach [DESIRED LEVEL/OUTCOME], separated into essential, useful, and advanced topics."
+
+6. Test My Understanding
+Prompt:
+"Create a mastery assessment based on this tutorial about [TOPIC/SKILL]. Include [NUMBER] challenging questions, real-world scenarios, troubleshooting tasks, case studies, and practical challenges at [DIFFICULTY]. Explain every answer, identify my weak areas, and create an improvement plan based on my results."
+
+7. Build Real-World Projects
+Prompt:
+"Create three projects based on this tutorial: beginner, intermediate, and advanced. For each, include the objective, tools, milestones, deliverables, evaluation criteria, pitfalls, and optional extensions. Make them relevant to [INDUSTRY/USE CASE]. The final project should demonstrate [SPECIFIC SKILL/OUTCOME]."
+
+8. Create a Reference Guide
+Prompt:
+"Turn this tutorial about [TOPIC/SKILL] into a reference guide for [PURPOSE]. Include concise summaries, cheat sheets, workflows, decision trees, formulas, checklists, troubleshooting guides, FAQs, key insights, and a one-page quick reference. Prioritize information I will use most often."
 
 -------------------------------------------------
--------------------------------------------------
+🚨 BREAKING: Claude has a hidden “READING & LEARNING MODE.”
+
+Most people read more and remember less.
+Claude can help you break down difficult material, explain it simply, test your understanding, connect ideas, and turn passive reading into active learning.
+Here are 5 prompts to activate it 👇
+
+1. Learning Mode Activation "Act as a learning acceleration expert trained in spaced repetition, active recall, and deliberate practice. From now on, whenever I share a subject I want to master, build me a complete learning system — not a reading list, a retention machine. What I want to learn is: [insert]. My timeline is: [insert]."
+
+2. Active Reading Protocol "Build my complete active reading system. What I want to read: [list books or topics]. Weekly time: [X hours]. Current method: [describe]. Main challenge: [retention/focus/finishing]. Give me the active reading protocol, marginalia method, chapter summary habit, spaced repetition schedule, and how to apply knowledge within 48 hours."
+
+3. Learning Sprint Designer "Design my learning sprint for [subject/skill] over the next [X weeks]. Where I am now: [current level]. Where I want to be: [target level]. Time per week: [X hours]. Give me weekly milestones, daily learning blocks, the one resource to prioritize above all others, the project that proves I've learned it, and the accountability check-in."
+
+4. Teach-Back System "Build my teach-back system for everything I learn. Subject I'm currently studying: [insert]. Give me the Feynman technique applied to my subject, the format for teaching it back in writing, how to identify gaps in my understanding before I think I have them, and a weekly 'explain it to a beginner' practice."
+
+5. Retention Architecture "Build my complete retention architecture. What I need to retain: [subject]. Timeline to use it: [X weeks/months]. Give me my spaced repetition schedule, the note-taking system that makes knowledge stick long-term, the weekly review ritual, how to connect new knowledge to things I already know, and the one habit that separates people who retain everything from people who forget immediately."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
