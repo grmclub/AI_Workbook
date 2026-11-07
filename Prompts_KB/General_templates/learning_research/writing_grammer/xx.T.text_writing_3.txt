@@ -266,6 +266,24 @@ Return only the final version.
 Text: [paste here]"
 
 -------------------------------------------------
+AI Email Writing Prompt for Polished Emails in Under 30 Seconds
+
+Stop rewriting the same email five times. This one prompt gives you a polished, ready-to-send email in under 30 seconds — just fill in the blanks.
+Save this for your next awkward email.
+
+THE PROMPT:👇
+"Act as a professional email writing assistant. Write an email based on: Recipient: [RECIPIENT] | Goal: [GOAL] | Key points: [KEY POINTS] | Tone: [TONE]. Output format: Subject line + 3-paragraph email (max 150 words) + sign-off. Keep it clear, confident, and free of fluff.
+Full prompt in caption."
+Variables (SWAP):
+[RECIPIENT] · [GOAL] · [KEY POINTS] · [TONE].
+
 -------------------------------------------------
 -------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
+
 
