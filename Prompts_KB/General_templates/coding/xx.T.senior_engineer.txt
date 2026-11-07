@@ -230,6 +230,82 @@ Here are 8 prompts to use Gemini 3.7 Flash like a pro and get more from Google's
 "Act as my AI productivity operator. Given my goals, tasks, deadlines, and available time, prioritize my work, identify what can be automated or delegated, create a practical schedule, and tell me the highest-impact action to take first."
 
 -------------------------------------------------
+## What makes Steve Jobs' design philosophy still unbeatable. Steve JоЬs didn’t start with technology.
+He started with the customer experience people actually wanted. Then he built the technology to make it possible.
+Here are 5 product-building lessons every founder should know 👇
+
+1/ Start With the User
+Steve Jobs believed product development should begin with the customer experience.
+Before building anything, understand:
+➔ Who is the user?
+➔ What problem do they face?
+➔ What outcome do they want?
+➔ What frustrates them today?
+➔ What would make the experience better?
+The starting point should be the benefit you want to create for people.
+Jobs explained this approach at Apple's 1997 Worldwide Developers Conference: think about the customer experience first, then determine the technology needed to deliver it.
+
+3/ Great Design Is About How Things Work
+Design is not just about colors, logos, or making a product look attractive.
+Great design also means:
+➔ Making the product easy to understand.
+➔ Removing unnecessary complexity.
+➔ Making important actions easy to complete.
+➔ Reducing frustration.
+➔ Creating a clear user experience.
+A beautiful product that confuses people has a design problem.
+Before launching something, ask:
+Can a new user understand it quickly?
+Can they achieve their goal without unnecessary steps?
+Can anything be removed?
+Simple experiences often require deeper thinking behind the scenes.
+
+2/ Don't Start With Your Technology
+Many businesses make the same mistake.
+They create something technically impressive and then ask:
+"Who can we sell this to?"
+That is the wrong direction.
+A better process is:
+Customer problem
+→ Desired outcome
+→ Better experience
+→ Product solution
+→ Technology needed
+AI, software, automation, and new technology are valuable only when they help create a better outcome for the user.
+Don't build around what your technology can do.
+Build around what your customer needs.
+
+4/ Find the Real Problem Before Adding Features
+When teams see a problem, the first instinct is often to add something.
+Another feature.
+Another button.
+Another tool.
+But better design can sometimes come from removing complexity.
+Go deeper:
+➔ What problem are we actually solving?
+➔ Why does the user need this?
+➔ What creates friction?
+➔ Which steps are unnecessary?
+➔ What is the simplest useful solution?
+Don't confuse more features with more value.
+The customer cares about the result, not how many technical capabilities are hidden behind the product.
+
+5/ Build Backward From the Experience
+A practical way to apply Steve Jobs' product philosophy is:
+1. Define the customer.
+2. Understand their real problem.
+3. Identify the outcome they want.
+4. Design the ideal experience.
+5. Build the simplest solution.
+6. Choose the technology required.
+This mindset is especially important in the AI era.
+Don't start with:
+"We have AI. What should we build?"
+Start with:
+"What important problem can we solve better for our users?"
+The strongest products are not built around technology first.
+They use technology to create something people genuinely need.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
