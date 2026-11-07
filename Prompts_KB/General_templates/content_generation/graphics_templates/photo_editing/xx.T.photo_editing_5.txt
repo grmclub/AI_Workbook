@@ -131,8 +131,29 @@ Prompt:
 Prompt:
 "Turn this image into a high-impact [YOUTUBE / INSTAGRAM / LINKEDIN] thumbnail about [TOPIC]. Improve lighting, contrast, subject separation, and visual hierarchy while reducing distractions. Keep the main subject recognizable and realistic. Leave clear space for ‘[YOUR TEXT]’ on the [LEFT/RIGHT]. Keep the result bold, clean, and natural."
 
-
 -------------------------------------------------
+🚨 CHATGPT CAN NOW EDIT IMAGES IN WAYS THAT FEEL ALMOST UNREAL.
+Change backgrounds, swap outfits, remove or replace objects, fix lighting, transform styles, and turn ordinary photos into premium-looking visuals.
+Here are 6 prompts to try 👇 See less
+
+1. CINEMATIC UPGRADE
+"Edit this image into a cinematic, high-end photograph. Keep [SUBJECT] unchanged. Improve the lighting, colours, depth, and overall composition using a [VISUAL STYLE] look. Make the final result realistic, polished, and professionally photographed without changing any important details."
+
+2. BACKGROUND & OBJECT EDITING
+"Edit this image by [EDIT REQUEST]. Keep [MAIN SUBJECT] exactly the same. Make the new background or edit look completely natural by matching the lighting, shadows, perspective, reflections, and depth of the original image. Do not change any details I did not request."
+
+3. OUTFIT & APPEARANCE
+"Change the person's [OUTFIT OR APPEARANCE] to [NEW STYLE]. Keep their face, identity, body proportions, pose, expression, skin tone, and hairstyle unchanged. Make the new clothing or appearance look realistic and naturally integrated with the original lighting, shadows, and perspective."
+
+4. PREMIUM PRODUCT AD
+"Turn this image into a premium advertisement for [PRODUCT]. Keep the product's shape, colour, logo, packaging, and key features unchanged. Add a [BACKGROUND STYLE] with [LIGHTING STYLE] and realistic shadows, reflections, and depth. Make it look like a professionally produced commercial photograph."
+
+5. STYLE TRANSFORMATION
+"Transform this image into a [VISUAL STYLE]. Keep [MAIN SUBJECT] recognizable and unchanged. Apply the requested style through the lighting, colours, textures, atmosphere, and overall art direction while preserving all important details and keeping the final image visually consistent and high-quality."
+
+6. COMPLETE SCENE TRANSFORMATION
+"Reimagine this image as [FINAL SCENE]. Keep [MAIN SUBJECT] exactly the same, including their identity and important details. Change the composition, environment, lighting, and perspective to create the requested result. Make every new element look realistic and naturally integrated, with matching shadows, reflections, depth, and lighting."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
