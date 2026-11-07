@@ -409,6 +409,60 @@ Here is the 7 ChatGPT prompts every teacher should save: 👇👇
 "Create revision and review materials for [subject] for [grade/age/level] covering [unit/topics], aligned with these learning objectives: [insert objectives] and areas requiring further review: [insert details]. Include a purposeful mix of retrieval questions, cumulative review, flashcards, short explanatory questions, and mixed practice where appropriate. Revisit important learning from different points in the unit or course rather than focusing only on recently taught content, and include opportunities for students to explain, apply, and connect what they have learned. Prioritize areas where students need further practice while maintaining coverage of key learning. Present the materials in a clear, classroom-ready format suitable for independent or guided revision, and include an answer key or suggested responses where appropriate."
 
 -------------------------------------------------
+🚨 TEACHERS, STOP CREATING CLASSROOM VISUALS FROM SCRATCH.
+ChatGPT can turn almost any lesson idea into engaging visuals in seconds. These 10 prompts can create flashcards, posters, visual explanations, activities & more 👇
+
+1/ Concept Flashcard Creator
+Use this when you want to turn key terms, facts, formulas, or concepts into clear visual flashcards.
+Prompt:
+"Create visual flashcards for [topic] in [subject] for [grade/level]. Include [key terms/concepts]. Give each item a clear visual and short, accurate text. Use a consistent [visual style] and a simple, classroom-friendly design."
+
+2/ Concept Visualizer
+Use this when you want to make a difficult or abstract concept easier for students to understand visually.
+Prompt:
+"Create a clear educational visual explaining [concept] in [subject] for [grade/level]. Use [diagram/illustration/comparison] to show how it works. Label the key parts and keep the information accurate, simple, and easy to understand."
+
+3/ Discussion Scene Creator
+Use this when you want students to observe, analyze, and discuss a topic through a detailed visual.
+Prompt:
+"Create a detailed discussion scene about [topic] for [subject] at [grade/level]. Show [people, objects, events, or details] that encourage observation, interpretation, and discussion. Include enough visual clues for students to form ideas and support their answers. Do not add written answers."
+
+4/ Visual Sequence Creator
+Use this when you want to show a process, event, cycle, or procedure step by step.
+Prompt:
+"Create a [number]-panel visual sequence showing [process/event] in [subject] for [grade/level]. Show each stage clearly and in the correct order. Keep the visuals consistent, accurate, and easy to follow. Add short labels only where needed."
+
+5/ Learning Illustration Creator
+Use this when you want to create a visual that supports a lesson, text, event, or concept.
+Prompt:
+"Create an educational illustration about [topic] for [subject] at [grade/level]. Show [key people, objects, setting, or concept] clearly and accurately. Include relevant visual details that help students understand the topic. Keep the design age-appropriate and do not add unnecessary text."
+
+6/ Classroom Poster Creator
+Use this when you want to turn key information, rules, formulas, or concepts into an easy-to-read classroom poster.
+Prompt:
+"Create a classroom poster about [topic] for [subject] at [grade/level]. Include [key information] using short text, clear visuals, and a logical layout. Highlight the most important points and keep the design simple, accurate, and easy to read."
+
+7/ Spot-the-Differences Creator
+Use this when you want students to practice observation, comparison, and subject-specific thinking.
+Prompt:
+"Create two similar images about [topic] for [subject] at [grade/level], with [number] meaningful differences. Keep the main scene consistent and make the differences relevant to [learning objective]. Do not mark or reveal the differences."
+
+8/ Scenario Card Creator
+Use this when you want students to apply their knowledge through problem-solving, decision-making, or discussion.
+Prompt:
+"Create visual scenario cards about [topic] for [subject] at [grade/level]. Show [number] realistic situations that require students to [analyze/solve/decide/explain]. Include only the information needed for each task and do not provide the answers."
+
+9/ Observation & Analysis Image Creator
+Use this when you want students to examine a visual closely and draw conclusions using subject knowledge.
+Prompt:
+"Create a detailed image about [topic] for [subject] at [grade/level]. Include [key features/details] that students can observe, classify, compare, interpret, or make inferences from. Keep the visual accurate and do not add labels or answers."
+
+10/ Visual Task Prompt Creator
+Use this when you want to spark writing, problem-solving, prediction, investigation, or creative thinking with a visual.
+Prompt:
+"Create an intriguing visual about [topic/situation] for [subject] at [grade/level]. Include [key elements or clues] that encourage students to [predict/investigate/solve/explain/create]. Leave some information open to interpretation and do not provide answers."
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
