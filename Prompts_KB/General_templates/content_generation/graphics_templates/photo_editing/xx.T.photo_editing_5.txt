@@ -63,6 +63,31 @@ Makes any quote or idea look like a $500 design.
 Copy one of these and paste it at the END of your normal prompt.
 
 -------------------------------------------------
+🚨 ChatGPT can now turn a single selfie into a full professional studio-style photoshoot.
+
+1. Clean Professional Headshot
+"Use my uploaded selfie as the identity reference. Create a polished professional headshot of me wearing a [navy/black/beige] tailored blazer with a [white/cream] shirt. Place me against a soft [light gray/warm beige] studio background. Use flattering diffused lighting, an 85mm portrait-lens look, shallow depth of field, natural skin texture, sharp eyes, and subtle professional retouching. Frame from the chest upward. Preserve my exact facial features, skin tone, hairstyle, age, and natural proportions."
+
+2. Luxury Magazine Cover
+"Transform my selfie into a high-fashion magazine cover portrait. Dress me in an elegant [black suit/designer gown/structured jacket] with minimal [gold/silver] accessories. Use a seamless [charcoal/burgundy/cream] studio backdrop, dramatic side lighting, refined shadows, confident posture, and premium editorial color grading. Frame vertically with negative space above my head for a magazine title. Keep my face clearly recognizable and preserve my natural features and skin texture. Do not add text."
+
+3. Personal-Brand Photoshoot
+"Create a modern personal-brand studio photo using my selfie as the identity reference. Show me standing confidently beside a simple [white desk/stool/pedestal], wearing [describe your outfit] in my brand colors: [colors]. Include subtle props connected to my work, such as [laptop/camera/notebook/product]. Use a bright minimalist studio, soft daylight-style lighting, clean composition, and approachable body language. Preserve my face, body proportions, skin tone, and hairstyle accurately."
+
+4. Black-and-White Celebrity Portrait
+"Turn my selfie into a timeless black-and-white celebrity studio portrait. Dress me in a simple [black turtleneck/white shirt/tailored suit]. Use one large soft light from the side, deep controlled shadows, a dark seamless background, crisp eye detail, visible natural skin texture, and elegant monochrome contrast. Capture a calm, confident expression in a close shoulder-up composition. Preserve my identity exactly and avoid excessive skin smoothing."
+
+5. Color-Gel Creative Photoshoot
+"Use my selfie to create a bold creative studio portrait illuminated by [blue] light on one side and [magenta/red] light on the other. Dress me in a sleek [black/metallic/white] outfit against a dark background with a subtle haze effect. Use cinematic contrast, glossy highlights, sharp facial focus, and a modern music-album aesthetic. Frame from the waist upward. Maintain my exact facial structure, skin tone, hairstyle, and realistic proportions."
+
+6. Soft Beauty Campaign
+"Create a premium beauty-campaign close-up from my selfie. Use a soft [peach/blush/cream] background, large diffused beauty lighting, delicate highlights, natural-looking makeup in [preferred tones], and realistic detailed skin. Style my hair as [sleek waves/natural curls/neat updo], while keeping its original color. Compose the image like a luxury skincare advertisement with space beside my face for product copy. Preserve my identity and do not reshape my facial features."
+
+7. Startup Founder Portrait
+"Transform my selfie into a confident startup-founder portrait. Show me seated on a modern stool, leaning slightly forward with relaxed hands and direct eye contact. Dress me in [smart-casual outfit], including [specific colors or items]. Use a clean [off-white/concrete gray] studio set, soft directional lighting, subtle shadows, and crisp commercial photography. Capture a three-quarter body composition. Keep my face, age, skin tone, hair, and body proportions authentic."
+
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
