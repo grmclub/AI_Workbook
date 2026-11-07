@@ -253,8 +253,36 @@ Use AI as a study assistant, not as a replacement for thinking.
 📌 SAVE THIS POST before your next study session.
 💬 QUESTION: Which subject would you like AI to help you understand better?
 -------------------------------------------------
--------------------------------------------------
--------------------------------------------------
--------------------------------------------------
+🚨 Upload study materials into NotebookLM and try these 7 prompts: 👇👇
 
+1️. Create a Study Guide
+"Turn my uploaded materials on [TOPIC/UNIT] into a structured study guide. Organize the key concepts, definitions, facts, examples, formulas, and processes into clear sections. Prioritize what I need to know and keep it concise and easy to review. Do not add information that is not supported by my materials."
+
+2️. Explain Difficult Topics
+"Explain [TOPIC/CONCEPT] in simple terms using my uploaded materials. Break it into smaller parts, use relevant examples from the materials, and explain important terms I need to understand. Point out anything that may be confusing or easy to misunderstand."
+
+3️. Make Revision Notes
+"Create concise revision notes for [TOPIC] from my uploaded materials. Include the essential concepts, definitions, facts, formulas, examples, and relationships. Remove unnecessary detail while keeping the information needed for effective revision."
+
+4️. Create Practice Questions
+"Create [NUMBER] practice questions based on my uploaded materials about [TOPIC]. Mix multiple-choice, short-answer, and application questions. After the questions, provide an answer key with brief explanations supported by the materials."
+
+5️. Find My Knowledge Gaps
+"Help me identify what I still need to learn about [TOPIC]. Create a short diagnostic quiz from my uploaded materials, then assess my answers, identify my knowledge gaps, and explain which areas I should review."
+
+6️. Build a Study Plan
+"Build a study plan for [TOPIC/EXAM] using my uploaded materials. Break the content into manageable study sessions and prioritize the most important areas. For each session, include what to study, what to practice, and what to review afterward."
+
+7️. Test Me Like an Exam
+"Act as an examiner for [SUBJECT/TOPIC] using my uploaded materials. Ask me one question at a time, wait for my answer, grade it based on the materials, explain any mistakes, and continue until you have tested me across the key topics."
+
+
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 
