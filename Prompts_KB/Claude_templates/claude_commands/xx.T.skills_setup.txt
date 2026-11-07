@@ -353,6 +353,118 @@ Store coding standards, project rules, and development preferences inside this f
 When combined with Projects, Memory, Extended Thinking, MCP, Cowork, and Artifacts, Claude becomes far more than a chatbot.
 It becomes a complete AI work system.
 -------------------------------------------------
+🚨 BREAKING: You can now build a one-person company around Claude Cowork.
+Not by writing bigger prompts. By building a system where Claude already knows:
+
+Your voice.
+Your business.
+Your priorities.
+Your writing rules.
+And exactly how you want work done.
+
+Set up these 7 pieces once, and Claude gets more useful every time you work. Here’s the system 👇
+
+1/ BUILD ONE COWORK FOLDER
+Create one main folder:
+Claude Cowork
+Inside it:
+ABOUT ME
+Your context.
+OUTPUTS
+Finished work.
+TEMPLATES
+Your best reusable formats.
+Instead of scattering context across 50 chats, give Claude one place to work from.
+
+2/ BUILD YOUR “ABOUT ME” FILE
+This is where Claude learns you.
+Don't manually write a corporate bio.
+Let Claude interview you about:
+→ How you think
+→ How you communicate
+→ Your expertise
+→ Your opinions
+→ Your preferences
+→ Your audience
+→ Your natural writing style
+Then turn the answers into:
+about-me.md
+Now Claude doesn't meet a stranger every session.
+
+3/ BUILD YOUR WRITING RULES
+Create:
+anti-ai-slop-style.md
+Put everything Claude should NEVER do inside it.
+Words you hate.
+Phrases you never use.
+Formatting you dislike.
+Sentence patterns that scream “AI.”
+Generic openings.
+Overused transitions.
+Now instead of repeatedly saying:
+“Make it sound more human.”
+Claude has an actual definition of what human sounds like for you.
+
+4/ GIVE CLAUDE YOUR BUSINESS CONTEXT
+Create:
+my-work.md
+This should contain the context that changes how Claude makes decisions:
+→ What you sell
+→ Who you serve
+→ Your current goals
+→ Your priorities
+→ Your positioning
+→ What you're working on now
+→ What you're intentionally ignoring
+Update it as your business changes.
+Claude can't act like a useful operator if it doesn't know what you're trying to build.
+
+5/ THEN YOUR PROMPTS GET MUCH SHORTER
+Stop rebuilding your entire identity inside every prompt.
+Instead of:
+“My company does X, my audience is Y, write in this tone, don't use these words, structure it like...”
+Your request becomes closer to:
+“I want to [TASK] so that [SUCCESS CRITERIA]. Read my ABOUT ME files first and ask me questions before starting if needed.”
+Your files carry the context.
+Your prompt carries the task.
+
+6/ TURN GOOD WORK INTO SYSTEMS
+Whenever Claude produces something great...
+Don't leave it buried inside a conversation.
+Save the structure.
+A great newsletter becomes a template.
+A strong sales email becomes a template.
+A useful content workflow becomes a Skill.
+A process you repeat every week becomes a reusable system.
+This is how a one-person business starts gaining leverage.
+
+7/ THE REAL PAYOFF
+Eventually, Claude stops feeling like a chatbot you constantly manage.
+It already knows:
+How you sound.
+What you're building.
+How you work.
+What you reject.
+What “good” looks like.
+So every new task starts with context instead of starting from zero.
+And that's when Cowork becomes far more useful for a one-person company.
+
+8/ I built the complete system for setting this up.
+It's called Tone Twin.
+It shows you step-by-step how to build a Claude setup that knows your voice, business, preferences, writing rules, and no-go zones before it starts working.
+Inside:
+→ Complete Cowork folder setup
+→ Your 3 core context files
+→ Voice Match system
+→ Anti-AI-slop setup
+→ 1-line prompting workflow
+→ Self-audit system
+→ Templates + Skills
+→ Maintenance process
+So instead of building your business around endless prompting...
+you build Claude around the way you already work.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
