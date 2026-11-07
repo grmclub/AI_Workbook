@@ -48,7 +48,7 @@ Review this paragraph for sentence rhythm.
 Show me which lines to shorten or split for better flow.  
 Text: [paste text]
 
-💡 Perfect for essays or blog posts that feel “flat.”
+💡 Perfect for essays or blog posts that feel "flat."
 6. The Consistency Catcher
 Spots small details you usually miss.
 Prompt:
@@ -209,8 +209,10 @@ Content quality
 Expected deliverables
 Keep "reach" and "fit" separate.
 That makes it harder for a huge audience to hide a weak strategic match.
+
 BCG's 2026 creator-marketing research found that high-performing marketers are more likely to prioritize audience trust rather than treating follower count and cost as the main selection signals. BCG also found leading programs are more likely to develop long-term creator relationships.
 Deloitte's 2026 research makes a similar case: a smaller creator with strong influence and brand alignment may be more valuable than a larger creator whose audience is poorly aligned, and sustained partnerships can build familiarity and credibility that one-off campaigns cannot.
+
 The practical progression is:
 Find the right creator.
 Test the working relationship.
@@ -220,8 +222,49 @@ Then deepen the partnership when the fit proves itself.
 Reach can buy attention.
 Fit determines what that attention teaches people about your brand.
 
-
 -------------------------------------------------
+🚨 ChatGPT and Claude have a writing style people can spot instantly.
+Polished sentences. Predictable rhythm. Perfect transitions. Zero personality. If your content sounds AI-written, readers feel it before they can explain why.
+
+Here are 7 prompts that make your writing sound more natural, specific, and human👇
+
+1. BREAK THE PERFECT STRUCTURE
+"Rewrite this without forcing every idea into the same predictable structure. Vary sentence lengths, paragraph sizes, and pacing. Remove unnecessary transitions and let some ideas be brief while others get more space.
+Do not change the meaning, facts, or key information.
+Text: [paste here]"
+
+2. REMOVE GENERIC AI PHRASES
+"Find phrases that sound generic, repetitive, or overly polished. Replace them with simpler, more specific language that fits the subject.
+Do not use slang or forced ‘human’ imperfections.
+Show the original phrase and replacement, then provide the revised text.
+Text: [paste here]"
+
+3. MAKE THE WRITING SOUND LIKE A PERSON
+"Rewrite this in a natural conversational voice, like a knowledgeable person explaining the idea to someone else. Use clear, direct language instead of formal or overly polished phrasing.
+Do not add fake experiences, emotions, opinions, slang, or mistakes.
+Text: [paste here]"
+
+4. GIVE IT A DISTINCTIVE VOICE
+"Edit this so it has a clear point of view instead of sounding neutral or generic. Make the writer’s existing opinions, priorities, and emphasis more noticeable.
+Do not invent opinions, experiences, credentials, or claims.
+Text: [paste here]"
+
+5. CUT THE ‘TOO PERFECT’ LANGUAGE
+"Act as a ruthless editor. Remove filler, exaggerated emphasis, repetitive conclusions, obvious transitions, and sentences that only exist to make the writing sound polished.
+Keep every useful idea and important detail. Leave clear, natural sentences unchanged.
+Text: [paste here]"
+
+6. MAKE IT PASS THE READ-ALOUD TEST
+"Rewrite this so it sounds natural when spoken aloud. Fix sentences that are too long, stiff, repetitive, or difficult to say. Break or restructure them where needed.
+Use natural pauses and varied sentence lengths without adding filler or intentional mistakes.
+Text: [paste here]"
+
+7. DO THE FINAL HUMAN EDIT
+"Give this a final edit for naturalness. Find anything that still feels formulaic, generic, repetitive, or overly polished and rewrite only those parts.
+Prioritize specificity, clarity, natural rhythm, and a consistent voice. Preserve the original facts, meaning, and intent.
+Return only the final version.
+Text: [paste here]"
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
