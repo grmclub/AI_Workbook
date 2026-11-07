@@ -221,6 +221,165 @@ Here are 9 Claude prompts to make your next research project faster, clearer, an
 "I want to study [topic] in [population or setting]. Using the uploaded papers, propose 3 focused research questions I could realistically investigate. For each, explain the evidence that motivates it, the data I would need, and one likely limitation. Recommend the strongest question for a [word count/timeframe] project."
 
 -------------------------------------------------
+🚨 BREAKING: Claude can now research like a PhD-level assistant.
+Claude can help you turn 40+ studies into structured literature reviews, knowledge maps, competing arguments, and clear research gaps.
+Here are 9 insane Claude prompts that compress hours of academic research into a much cleaner workflow👇
+
+1. Turn 40+ Papers Into a Structured Literature Review
+Prompt:
+I’m researching [TOPIC / RESEARCH QUESTION]. Analyze all the research papers I provide and create a structured literature review.
+Organize the review into 5–8 major themes, not paper-by-paper summaries.
+For each theme, include:
+• What researchers generally agree on
+• Major findings and supporting papers
+• Areas of disagreement
+• Methods commonly used
+• Important limitations
+• Questions that remain unanswered
+Finish with a synthesis explaining how the themes connect, where the literature currently stands, and which areas need more research.
+Cite the relevant papers beside every major claim. Do not invent findings that are not supported by the supplied papers.
+
+2. Build a Research Synthesis Matrix
+Prompt:
+Analyze the uploaded papers on [TOPIC] and create a research synthesis matrix.
+Use these columns:
+Paper | Research Question | Sample/Data | Method | Key Variables | Main Findings | Limitations | Theory Used | Research Gap
+Keep each cell concise but specific.
+After the table, identify:
+1. The 5 most repeated findings
+2. The 5 most common research methods
+3. The biggest methodological weaknesses
+4. Important contradictions between studies
+5. The strongest research opportunities emerging across multiple papers
+Reference the specific papers supporting each conclusion.
+
+3. Create a Knowledge Map From the Literature
+Prompt:
+Create a knowledge map for the research literature I provided about [TOPIC].
+Start with [TOPIC] as the central concept.
+Identify:
+• Major research themes
+• Important subtopics
+• Key theories
+• Important variables or concepts
+• Major researchers or influential papers
+• Relationships between concepts
+• Conflicting schools of thought
+• Emerging areas of research
+Present the result first as a hierarchical text-based map using arrows and indentation.
+Then explain the 5 most important connections in simple language and identify areas of the map where evidence is currently weak or missing.
+
+4. Find Research Gaps Worth Investigating
+Prompt:
+Review all supplied papers about [TOPIC] specifically to identify research gaps.
+Do not simply repeat the “future research” sections of individual papers. Look for gaps that emerge when the papers are compared together.
+Search for:
+• Populations rarely studied
+• Countries/regions missing from research
+• Variables researchers have ignored
+• Conflicting findings
+• Weak or outdated methods
+• Under-tested theories
+• Missing longitudinal research
+• Missing real-world evidence
+• Relationships researchers assume but rarely test
+Give me the 10 strongest research gaps.
+For each gap include:
+Gap | Evidence from the literature | Why it matters | Possible research question | Suitable research method
+Rank gaps by how strongly the supplied literature supports their existence—not by speculation.
+
+5. Find Contradictions Across 40+ Papers
+Prompt:
+Analyze the supplied literature on [TOPIC] and find places where researchers reach different or contradictory conclusions.
+For every significant disagreement, show:
+Question being debated:
+Studies supporting Position A:
+Studies supporting Position B:
+How their methods/samples differ:
+Possible reason for the conflicting results:
+What evidence would help resolve the disagreement:
+Prioritize contradictions supported by multiple papers.
+Finish by identifying the 3–5 debates that appear most unresolved in the current literature.
+Clearly distinguish what the papers actually demonstrate from your interpretation of why their findings differ.
+
+6. Compare Research Methods Across the Literature
+Prompt:
+Act as a research-methods analyst. Examine all papers I supplied on [TOPIC].
+Group them by methodology, such as:
+• Experiments
+• Surveys
+• Interviews
+• Case studies
+• Longitudinal studies
+• Meta-analyses
+• Observational studies
+• Computational/data-driven methods
+For each group explain:
+How the method is being used | Typical sample/data | Strengths | Recurring weaknesses | Findings this method tends to produce
+Then identify methodological blind spots across the entire literature.
+Finally recommend 3 research designs that could address those weaknesses, explaining exactly what each design would improve.
+
+7. Map How a Research Field Evolved Over Time
+Prompt:
+Using the papers I provided, reconstruct how research on [TOPIC] has evolved from [START YEAR] to [END YEAR].
+Divide the timeline into meaningful periods based on changes in theories, methods, questions, or major findings.
+For each period include:
+• Dominant research questions
+• Important theories
+• Common methods
+• Major findings
+• Influential papers
+• What changed compared with the previous period
+Then identify major turning points where the field noticeably changed direction.
+Finish with:
+Where the field started → What changed → Where it stands today → Where it appears to be heading.
+
+8. Extract the Most Important Theories and Frameworks
+Prompt:
+Analyze the supplied papers on [TOPIC] and identify every major theory, conceptual model, or framework used across the literature.
+For each important theory provide:
+Theory name | Core idea | Variables/concepts | Papers using it | What it explains well | Where it struggles | Evidence supporting/challenging it
+Then compare the theories.
+Identify:
+• The most commonly used frameworks
+• Theories researchers frequently combine
+• Competing theories explaining the same phenomenon
+• Important findings existing theories struggle to explain
+Finally suggest areas where researchers may need a new or integrated conceptual framework, based strictly on gaps found in the literature.
+
+9. Find the Most Influential Ideas — Not Just the Most Cited Papers
+Prompt:
+Analyze the papers I uploaded on [TOPIC] and identify the ideas that have had the greatest influence on this body of research.
+Do not judge importance only by citation counts.
+Look for ideas, findings, theories, methods, or papers that:
+• Are repeatedly referenced
+• Influence later research questions
+• Introduce commonly used methods
+• Create major debates
+• Change how researchers understand the topic
+Create a list of 10–15 influential contributions.
+For each explain:
+Contribution | Originating paper(s) | Why it mattered | How later studies used/challenged it | Current status of the idea
+Finish by showing how these contributions connect into an intellectual “family tree.”
+
+10. Turn the Literature Into a Future Research Agenda
+Prompt:
+Imagine you are designing the next 5 years of research on [TOPIC] using only the evidence from the papers I supplied.
+First summarize what the field already understands reasonably well.
+Then identify its biggest unresolved questions.
+Create 10 specific future research projects.
+For each project provide:
+Research question:
+Gap it addresses:
+Why existing research cannot answer it:
+Recommended method:
+Suggested population/data:
+Variables to investigate:
+Expected contribution:
+Divide the projects into:
+Quick wins | Medium-term studies | Ambitious/high-impact studies
+End with a short explanation of how completing these projects would advance the overall field.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
