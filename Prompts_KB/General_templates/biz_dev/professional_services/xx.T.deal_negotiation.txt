@@ -1,0 +1,50 @@
+
+-------------------------------------------------
+🚨 BREAKING: ChatGPT can negotiate your business bills like a professional negotiator.
+Suppliers, software, rent, late payers, refunds. Here are 7 prompts that get you a better deal 👇
+
+1) Cut your software bills
+• Most software companies would rather give a discount than lose you
+• Asking for a specific number gets a better result than "any discount?"
+Prompt. "Adopt the role of an expert procurement negotiator. Write a short message asking my software provider for a discount before renewal. Mention how long I've been a customer, one cheaper alternative I'm looking at, and ask for a specific price. Under 100 words, polite and firm. Don't beg and don't bluff. My plan and price [DESCRIBE IT]"
+Example. A $600 yearly plan comes back at $420.
+
+2) Get a supplier to drop their price
+• Suppliers price in room to negotiate, and most buyers never use it
+• Volume, timing and loyalty are the three levers
+Prompt. "Adopt the role of an expert buyer. Write an email asking my supplier for a better price. Use the levers I actually have, like order size, paying early or a longer commitment, and ask for one clear number. Keep the relationship warm. Don't invent a competitor quote I don't have. My supplier and order [DESCRIBE IT]"
+Example. Paying 30 days early earns a 5% discount.
+
+3) Raise your prices without losing clients
+• Clients leave over surprise, rarely over the increase itself
+• Notice, a reason and one thing they get make it easy to accept
+Prompt. "Adopt the role of an expert account manager. Write a price increase email to my existing clients. Give 30 days' notice, one honest reason, and one thing they get for it. Offer to lock in the old rate for anyone who renews early. Under 120 words. Don't apologise. My service, old price and new price [DESCRIBE THEM]"
+Example. Two clients renew early and lock in the old rate for a year.
+
+4) Chase a late payment
+• The first reminder should be friendly, and the third should be firm
+• A clear date and next step gets you paid faster than "just checking in"
+Prompt. "Adopt the role of an expert credit controller. Write 3 payment reminders for an overdue invoice. The first friendly, the second clear about the date, the third firm about what happens next. Each under 80 words. Don't threaten anything I can't actually do. The client, amount and due date [DESCRIBE THEM]"
+Example. Reminder two gets paid the same day.
+
+5) Negotiate your lease
+• A tenant who pays on time is worth more to a landlord than a higher rent
+• Renewal is the moment you have the most leverage
+Prompt. "Adopt the role of an expert commercial property negotiator. Write a message to my landlord before my lease renewal asking to keep the rent the same or lower it. Use my payment record, how long I've been there, and what similar spaces nearby cost. Offer a longer term in return. Don't make it sound like a threat to leave. My situation [DESCRIBE IT]"
+Example. A 2-year renewal keeps the rent flat.
+
+6) Get a refused refund back
+• The first "no" usually comes from someone following a script
+• A calm message citing their own policy goes up a level
+Prompt. "Adopt the role of an expert consumer rights advocate. Write a short message asking a company to reverse a refused refund. Quote their own policy back to them, state the facts in order, and ask for one clear outcome by a date. Keep it calm and under 150 words. Don't exaggerate anything. What happened [DESCRIBE IT]"
+Example. A refused refund gets approved on the second message.
+
+7) Prepare for any negotiation call
+• Most people walk in without knowing their walk-away point
+• Knowing your best alternative keeps you calm under pressure
+Prompt. "Adopt the role of an expert negotiation coach. Prepare me for an upcoming negotiation call. Give me my opening ask, my walk-away point, my best alternative if they say no, the 3 objections they'll raise with an answer for each, and the exact sentence to close. Don't let me open with my lowest number. What I want and who I'm asking [DESCRIBE THE DEAL]"
+Example. The call ends with "Let's do the 12-month plan at that price."
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
