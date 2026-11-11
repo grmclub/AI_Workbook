@@ -1,5 +1,9 @@
 
 -------------------------------------------------
+TURN ANY DIFFICULT TOPIC INTO AN EASY LESSON.
+"Act as an experienced classroom teacher. Explain [INSERT TOPIC] to [INSERT CLASS] students using simple language. Break the topic into small sections, provide relatable examples, identify common misconceptions, and create five assessment questions with answers. Ensure the content matches the students' learning level."
+
+-------------------------------------------------
 🚨 7 NotebookLM prompts for creating clear, educational infographics:👇👇
 
 1️. Summarize a Topic
