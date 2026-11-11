@@ -279,6 +279,55 @@ Tami Forero I thought of you and your strategic brain when I read this post. Hav
 "Rebuild [my plan] using the 80/20 principle. Identify the few actions that will drive most of the results, eliminate low-impact work, and rank priorities by expected impact. Give me a lean execution plan focused on maximum results with minimum effort."
 
 -------------------------------------------------
+💡 10 AI PROMPTS TO BOOST YOUR PRODUCTIVITY 👇🏻
+Here are 10 prompts to get more done in less time.
+
+1. Task Sorter
+Prompt: "Here is my to do list: [paste tasks]. Sort every task into four groups: do today, schedule for later, delegate, and drop. Give a one line reason for each. Then tell me the top 3 tasks to finish first, in order, and how long each should take."
+Why it works: AI makes the hard choices for you, so you stop guessing and start doing.
+
+2. Fast Summary
+Prompt: "Read this [paste text or transcript]. Give me 5 key points in simple words, 1 surprising fact, 1 thing I should double check, and 1 action I can take in the next 24 hours. Keep it under 150 words."
+Why it works: Clear limits force short, useful answers instead of long, vague ones.
+
+3. Deep Work Plan
+Prompt: "Build a 2 hour work plan for [goal]. Use 25 minute focus rounds with 5 minute breaks. For each round, name the exact task and what I should finish by the end. Suggest a break activity that rests my brain, not my phone. Start with the hardest task first."
+Why it works: A clear task for each round removes the "where do I start?" problem.
+
+4. Email Rewrite
+Prompt: "Rewrite this email: [paste email]. My goal is [goal]. Make it polite, clear, and under 100 words. Put my main request in the first two lines and end with a clear next step. Give me 2 versions, one formal and one friendly, with a subject line for each."
+Why it works: Telling AI your goal and giving it a word limit gets you emails people actually reply to.
+
+5. Trend Report
+Prompt: "Act as an expert analyst in [industry or topic]. Share 5 current trends in one sentence each. Then pick the 3 that matter most for a [your role], and explain the risk, the chance, and one small step I can take this week. Tell me which claims I should verify."
+Why it works: Giving AI a role and asking for action steps turns news into a plan.
+
+6. Weekend Trip Plan
+Prompt: "Plan a weekend trip to [location] for [number] people with a total budget of [your budget]. Give me a day by day plan with no more than 3 stops per day. Include 5 local foods and where to try them, 5 must visit places, 2 hidden gems, a cost split for stay, food, transport, and entry, plus 3 ways to save."
+Why it works: Details like group size, budget, and stop limits give you a plan you can really use.
+
+7. Skill Coach
+Prompt: "Teach me [skill] in 3 parts. Part 1: beginner basics with simple examples. Part 2: practical uses, with 3 mini projects I can finish in one hour each. Part 3: advanced tips, common mistakes, and what experts do differently. End with a 7 day practice plan and a 5 question quiz."
+Why it works: Learning in steps, then practicing and testing, helps the skill stick.
+
+8. Text Polisher
+Prompt: "Edit this text: [paste text]. My audience is [who]. My goal is [goal]. Make it clearer, more engaging, and more confident. Cut weak words, shorten long sentences, and open with a strong first line. Show the new version, then list the 3 biggest changes and why you made them."
+Why it works: You get better writing and learn what was wrong with the old draft.
+
+9. Content Splitter
+Prompt: "Turn this blog into 3 posts: [paste blog]. 1) An Instagram caption with a strong hook and 3 hashtags. 2) A tweet under 280 characters. 3) A 45 second video script with a hook, 3 points, and a call to action. Keep my voice and do not add new facts."
+Why it works: One idea becomes three posts, so you create once and post everywhere.
+
+10. Side by Side Choice
+Prompt: "Compare [option A], [option B], and [option C] for [task or product]. Make a table with price, key features, ease of use, pros, and cons. My top needs are [your needs]. Rank them for me, name the best value pick, and tell me who should avoid each one."
+Why it works: Adding your own needs gives you a personal answer, not a generic review.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 -------------------------------------------------
 
 
