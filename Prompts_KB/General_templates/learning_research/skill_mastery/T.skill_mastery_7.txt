@@ -257,6 +257,55 @@ This gave me 30 days of content that actually hits.
 I have 20 ideas: [Paste your messy list]. Act as a ruthless editor. Score each 1-10 on: 1) Novelty, 2) Shareability, 3) Ease to execute. Kill the 15 weakest. Keep only top 5. Then tell me how to make each of those 5 2x more extreme.
 
 -------------------------------------------------
+## BREAKING: Claude can now completely rewire your brain so you can learn anything at lightning speed.
+Here are 15 prompts you can use it to learn literally anything, step by step, like a personal tutor.
+
+1. Find the first thing you actually need to learn
+I want to learn [skill] so I can [specific goal]. I’ve already tried [experience or "nothing yet"]. Give me three quick tasks that test different abilities I’ll need for that goal. Ask one at a time and wait for my attempt. Afterward, tell me which ability is holding me back, point to the answer that revealed it, and give me a 10-minute exercise to start there.
+
+2. Build a plan around the time you actually have
+Help me reach [goal] by [date]. I can practice [minutes] per session, [days] per week, using [tools or materials]. Work backward from a task I should be able to complete on my own. Give me one milestone per week, a short test for each milestone, and tasks for my first three sessions. If the timeline is too tight, set a smaller goal I can demonstrate by that date.
+
+3. Learn one concept and use it immediately
+Teach me [concept] so I can use it to [specific task]. Start with a plain-language explanation, then work through one example using [a situation I know]. Give me a similar example with one detail changed and ask me to solve it. Wait for my answer. If I’m stuck, give me a hint that points to the relevant detail and let me try again before you show the solution.
+
+4. Watch an expert make the tricky decisions
+Walk me through how an experienced person would [task] using [sample input, tools, or materials]. At each decision point, tell me what they notice, which options they consider, and why they choose one. Focus on the two decisions a beginner is most likely to get wrong. Then give me a fresh example and pause at the first tricky decision so I can make the call.
+
+5. Practice the same subskill with less help each time
+Give me three [10-minute] exercises for [subskill]. For the first, give me a step-by-step checklist. For the second, give me only the first step and the expected result. For the third, give me a new task and its success criteria. Present one exercise at a time. If I need a hint, ask me what I’m trying first, then give me just enough help to continue.
+
+6. Find the exact step where you went wrong
+I was trying to [task]. I expected [result], but I got [actual result]. Here’s what I did [paste steps, work, or observations]. Find the earliest step that could explain the difference. If there are two plausible causes, give me a quick test that tells them apart. Then suggest one change to try and tell me what to look for on my next attempt.
+
+7. Turn a recurring mistake into a five-minute drill
+I keep [specific mistake] when I try to [task]. Create a five-minute drill that lets me repeat just the part I’m getting wrong. Tell me what to set up, what to do on each repetition, and what I should count or observe. Give me a target, such as three accurate attempts in a row, and tell me how to make the drill harder once I reach it.
+
+8. Find the gap in your understanding by teaching it back
+I’ll explain [concept] to someone who knows [what the audience already knows]. Here’s my explanation [paste it]. Quote the sentence where my reasoning is weakest and ask me one question that helps me fix it. Wait for my revised explanation. Then give me an example that looks different from the one I learned on and ask me to explain whether the same idea applies.
+
+9. Quiz yourself and decide what to review later
+Use [topic, lesson, or pasted notes] to quiz me with six questions. Mix recall, explanation, and application. Ask them one at a time and have me label each answer "sure," "unsure," or "guessed." Give brief feedback after each reply. At the end, pick what I should retry in [two days] and [one week], including any correct answers I guessed.
+
+10. Learn how to choose the right technique
+I’ve learned [technique A], [technique B], and [technique C]. Give me four realistic situations in a mixed order. For each one, ask me which technique I’d use and what clue drove my choice. Include two situations that look similar but call for different techniques. After I answer both, show me the specific detail that changes the decision.
+
+11. Rehearse a situation before it happens
+Help me practice [real situation]. You’re [person or role], and I’m [my role]. Open with something that person would realistically say. After my second reply, introduce [a common objection, misunderstanding, or change of plans]. Stay in character until I say "debrief." Then quote one line that worked, identify one line I could improve, and replay that moment so I can try a different response.
+
+12. Build a small project you can finish and show
+Design a project I can complete in [time limit] that uses [skill] to make [something I want to show or use]. I have [tools or materials]. Give me three criteria for a finished project and break the work into three checkpoints. Start with checkpoint one. When I share my work, tell me which criterion needs the most attention and give me one revision to make before I move on.
+
+13. See whether the skill holds up when conditions change
+I completed [task] using [approach] under [original conditions]. Give me a new version that changes one factor, such as the audience, input, tools, or time limit. Ask me what I’d keep and what I’d adapt before I attempt it. Afterward, compare my plan with what happened and point out which adjustment made the biggest difference.
+
+14. Take a test you can do without hints
+Test whether I can [specific goal] on my own. Give me a realistic task I haven’t practiced and three observable criteria for success. Wait until I submit my work or observations before giving feedback. Mark each criterion "met," "partly met," or "unmet," and cite evidence from my attempt. Give me a fresh mini-task that tests the weakest criterion so I can check whether I’ve improved.
+
+15. Plan your next five sessions from your results
+Here’s what I practiced, what I can now do, and where I still get stuck [paste notes or test results]. I have [minutes] per session. Pick the gap that most affects [goal] and plan five sessions around it. Give me one drill and one result to record each day. Tell me what score or outcome means I should repeat the drill, increase the difficulty, or try the full task again.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
