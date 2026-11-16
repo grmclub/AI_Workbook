@@ -7,13 +7,13 @@ Here are 15 insane Claude prompts that turn research papers into structured lite
 Use web search to find up to [8] papers that directly address [research question] in [population or setting], published between [start year] and [end year]. Put the closest matches first. Give me a table with the title, year, study type, why it fits, DOI or publisher link, and whether you could access the full text or only the abstract. Label preprints. If web search is unavailable, give me three search queries I can paste into Google Scholar.
 
 2. Screen Abstracts to Decide Which Papers to Keep
-Screen these abstracts for a review on [research question]. Include studies that cover [required population, topic, or outcome]. Exclude studies that meet [exclusion criteria]. Give each paper one decision—Include, Exclude, or Need full text—with a one-line reason tied to a specific criterion. For each “Need full text” decision, tell me exactly what to check in the paper.
+Screen these abstracts for a review on [research question]. Include studies that cover [required population, topic, or outcome]. Exclude studies that meet [exclusion criteria]. Give each paper one decision—Include, Exclude, or Need full text—with a one-line reason tied to a specific criterion. For each "Need full text" decision, tell me exactly what to check in the paper.
 
 3. Pull the Key Findings, Numbers, and Limitations From One PDF
-Read [attached paper] with [what I want to learn] in mind. Extract the study design, sample size, setting, main result, and biggest limitation. For the main result, include the exact number, what it was compared with, and the uncertainty range if reported. Point me to the page, section, figure, or table for each key detail. Mark missing details as “Not reported in the supplied text.”
+Read [attached paper] with [what I want to learn] in mind. Extract the study design, sample size, setting, main result, and biggest limitation. For the main result, include the exact number, what it was compared with, and the uncertainty range if reported. Point me to the page, section, figure, or table for each key detail. Mark missing details as "Not reported in the supplied text."
 
 4. Turn Multiple Papers Into a Side-by-Side Evidence Table
-Turn [attached papers or study notes] into a table I can paste into a spreadsheet. Use one row per study. Include author and year, population, sample size, study design, how [outcome] was measured, main finding, biggest limitation, and source location. Flag papers that appear to share a dataset or participant group so I can check for double-counting. Mark unclear details as “Unclear.”
+Turn [attached papers or study notes] into a table I can paste into a spreadsheet. Use one row per study. Include author and year, population, sample size, study design, how [outcome] was measured, main finding, biggest limitation, and source location. Flag papers that appear to share a dataset or participant group so I can check for double-counting. Mark unclear details as "Unclear."
 
 5. Identify Which Studies Give You the Strongest Evidence
 Assess how well [papers] answer [research question]. For each study, check who was recruited, how [outcome] was measured, and the biggest source of bias for that design. Cite the relevant section and state the strongest conclusion the study supports. End by naming the two studies you would lean on most for this specific question and explain why.
@@ -40,14 +40,65 @@ I want to apply [finding] to [target group or setting]. Compare my setting with 
 Look for up to five gaps in [papers or evidence table] about [topic]. For each, name what is missing, such as an underrepresented group, a short follow-up period, or a comparison the papers didn’t make. Cite the papers that reveal the gap and write one question that could address it. Rank the gaps by how much answering them would change our understanding. Limit your conclusions to the papers I provided.
 
 13. Check Whether Someone Has Already Studied Your Research Gap
-My proposed gap is [specific gap]. Use web search to look for studies that could answer it. Try synonyms for [key concept] and related terms for [population or outcome]. Search from [start year] onward. Show your queries and up to five close matches. Label each “Direct answer,” “Partial answer,” or “Related only,” and explain why. Based on the results, tell me whether to keep, narrow, or drop the proposed gap. If web search is unavailable, give me the exact queries to run.
+My proposed gap is [specific gap]. Use web search to look for studies that could answer it. Try synonyms for [key concept] and related terms for [population or outcome]. Search from [start year] onward. Show your queries and up to five close matches. Label each "Direct answer," "Partial answer," or "Related only," and explain why. Based on the results, tell me whether to keep, narrow, or drop the proposed gap. If web search is unavailable, give me the exact queries to run.
 
 14. Turn a Research Gap Into a Study You Can Actually Run
 Turn [candidate gap] into two study designs I could realistically run with [time, participants, budget, or data available]. For each, give me a research question, who or what I’d study, what I’d measure, what I’d compare it with, and the biggest limitation. Pick the design that best fits my constraints and name the first concrete step I could take this week.
 
 15. Catch Unsupported Claims and Weak Citations Before You Publish
-Audit [draft review, article, or post] against [attached papers or source excerpts]. Check every claim that uses a number, says one thing causes another, or draws a broad conclusion. Return a table with the exact claim, its cited source, the page or section, and a verdict of “Supported,” “Overstated,” “Unsupported,” or “Unverifiable with the supplied material.” Rewrite overstated claims to match the evidence and list what I still need to verify before publishing.
+Audit [draft review, article, or post] against [attached papers or source excerpts]. Check every claim that uses a number, says one thing causes another, or draws a broad conclusion. Return a table with the exact claim, its cited source, the page or section, and a verdict of "Supported," "Overstated," "Unsupported," or "Unverifiable with the supplied material." Rewrite overstated claims to match the evidence and list what I still need to verify before publishing.
 -------------------------------------------------
+🚨 BREAKING: Claude can now turn 60+ research papers into a structured research system.
+Here are 16 powerful prompts to build literature reviews, map knowledge, identify research gaps, and synthesize evidence faster.
+
+01. Build a master paper index
+Index the uploaded papers in [batch or filenames] for my review of [topic]. Starting at [P001 or next available ID], give each paper a stable ID. Return a table with ID, filename, verified title, first author, year, DOI if visible, document type, and access status (full text, abstract only, or unreadable). Flag suspected duplicate records and related reports from the same study separately.
+
+02. Screen papers against your research question
+Screen [paper IDs] for my question [research question]. Apply these inclusion criteria [population, topic or exposure, study type, years] and exclusion criteria [criteria]. For each paper, give the decision (include, exclude, or unclear), the specific criterion driving it, and the supporting page or section. If the abstract leaves a criterion unclear, state what I need to check in the full text.
+
+03. Extract the evidence you’ll actually use
+For [included paper IDs], create one row per relevant finding about [outcome or phenomenon]. Record paper ID, study design, sample and setting, how the outcome was measured, finding, and page, section, or table. For quantitative results, capture the estimate, units, and confidence interval if reported. For qualitative results, capture the authors’ theme and its supporting passage. Mark missing details as "unreported" or "source unavailable," as appropriate.
+
+04. Merge batches into one evidence table
+Combine [verified extraction tables] using the paper IDs in [master index]. Standardize column names and keep the original measures and units. Flag possible shared samples using recruitment dates, sites, sample sizes, or trial IDs. Keep separate reports linked so I can distinguish the number of papers from the number of studies. Return the merged table and list any missing IDs, conflicting entries, or unresolved overlaps.
+
+05. Map the literature by theme
+Using [master evidence table], group the findings into 4–6 themes that help answer [research question]. For each theme, give its central claim, supporting paper IDs, findings that complicate it, and the populations or settings covered. Let a paper appear under multiple themes where justified. Show which themes draw on overlapping studies so I can see how much independent evidence supports each one.
+
+06. Compare theories and definitions
+Compare how [paper IDs] define and study [key concept]. Make a table with the authors’ definition, named theory if any, how they measured or observed the concept, and a source locator. Identify where papers use the same term for different concepts or different terms for similar concepts. Explain which findings I can compare directly and which need to be discussed separately.
+
+07. Compare research methods
+Compare the methods in [paper IDs] for studying [research question or outcome]. Extract design, recruitment or sampling, data collection, measurement or coding, and analysis. For each design, give one example of a conclusion it can support and one limit on what I can infer. Identify which methodological differences matter most when comparing findings across these papers.
+
+08. Check how much weight each study deserves
+Appraise [paper IDs] for the specific claim [claim] using [appraisal tool, or design-specific criteria if no tool is specified]. For each paper, list a relevant strength, a concern, the source location, and how the concern affects that claim. Consider issues such as selection, confounding, missing data, or credibility of qualitative interpretations where relevant. Separate reporting gaps from documented weaknesses.
+
+09. Investigate conflicting findings
+Compare [paper IDs or extracted findings] on [outcome or relationship]. Put the results side by side with their populations, measures, time points, and study designs. Check whether the papers address comparable questions. For each plausible explanation for the disagreement, label it as supported by the papers or a hypothesis to verify. End with one sentence I can use to describe the disagreement accurately.
+
+10. Synthesize evidence into defensible claims
+Using [evidence table and appraisal notes], write 3–5 claims that answer [research question]. For each claim, list supporting paper IDs, conflicting or mixed findings, and the populations or settings it applies to. Explain how study design, sample overlap, and consistency affect the wording. End each entry with one sentence for my literature review that reflects the strength of the evidence.
+
+11. Find gaps you can substantiate
+Build a gap map for [topic] using [population, setting, outcome, or method] as rows and [second dimension] as columns. Fill each cell with relevant paper IDs or mark it "no evidence found in this collection." Identify three gaps, explain why each matters, and distinguish limited coverage from unresolved findings. For each gap, suggest a database search I can run to see whether my collection missed relevant studies.
+
+12. Turn a gap into a feasible dissertation question
+Use [verified gap or gap to investigate] to propose three research questions I could answer within [time, data access, and skills]. For each, specify the population or material, setting, outcome or phenomenon, suitable design, and minimum data required. Link it to the papers that motivate it and name the assumption I would need to verify before committing. Rank the questions by feasibility and explain the ranking.
+
+13. Outline a chapter around an argument
+Create a literature review outline for [dissertation question] using [theme map and claim table]. Give me 4–6 section headings. For each, state the claim the section develops, the paper IDs that support or challenge it, and how it leads to the next section. End with the gap my study addresses and flag any section that needs more evidence before I draft it.
+
+14. Draft one section from verified evidence
+Draft [word count] words for the section [section title] using [verified evidence rows and citation details]. Open with the section’s main claim. Compare studies within paragraphs and explain meaningful differences in findings. Use [citation style] where bibliographic details are verified and paper IDs where details need checking. Close by connecting the synthesis to [dissertation question]. Use causal language only where the design and analysis support it.
+
+15. Audit every claim and citation
+Audit [draft section] against [paper IDs and source files]. For each factual claim, return the draft wording, cited paper, verdict (supported, partly supported, unsupported, or source unavailable), and the closest supporting page, section, or table. Pay special attention to numbers, sample descriptions, quotations, and causal wording. Where support is partial or missing, propose a narrower sentence or mark the claim for removal.
+
+16. Update the review when new papers arrive
+Compare [new paper IDs or files] with [current paper index, evidence table, and synthesis]. Identify duplicate records and overlapping samples, then extract only findings relevant to [research question]. For each existing claim or gap, mark whether the new evidence reinforces, qualifies, challenges, or has no bearing on it. Return a change log with the affected claim, new paper IDs, and proposed edits for me to approve.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
