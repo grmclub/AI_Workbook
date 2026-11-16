@@ -100,6 +100,61 @@ Audit [draft section] against [paper IDs and source files]. For each factual cla
 Compare [new paper IDs or files] with [current paper index, evidence table, and synthesis]. Identify duplicate records and overlapping samples, then extract only findings relevant to [research question]. For each existing claim or gap, mark whether the new evidence reinforces, qualifies, challenges, or has no bearing on it. Return a change log with the affected claim, new paper IDs, and proposed edits for me to approve.
 
 -------------------------------------------------
+🚨 BREAKING: Claude can now help you RESEARCH any topic like a Harvard University PhD student in 20 minutes.
+Here are 17 insane Claude prompts that turn 50+ research papers into structured literature reviews and research gaps in minutes.
+
+1. Turn a broad topic into a manageable review question
+"My topic is [topic] within [discipline]. My degree level is [master’s/PhD], available time is [duration], and interests are [specific interests]. Propose three focused literature-review questions. For each, specify the population or context, central concepts, relevant outcomes or phenomena, and exclusions. Explain the trade-off between breadth and depth. Recommend one question and write a scope statement I can discuss with my supervisor. Label your assumptions."
+
+2. Build a search strategy you can actually reproduce
+"For my review question, [question], create a search strategy for [database]. Break the question into concept groups and list synonyms, spelling variants, and related technical terms. Produce one broad and one focused Boolean search string using syntax supported by that database. Explain each filter and what relevant studies it might exclude. Provide a search-log template with database, exact query, search date, filters, and result count. Leave unperformed searches blank."
+
+3. Screen papers using consistent inclusion rules
+"Screen these [uploaded/pasted] titles and abstracts against my question: [question]. Inclusion criteria: [criteria]. Exclusion criteria: [criteria]. Return a table with paper ID, include/exclude/uncertain, the specific criterion determining the decision, and missing information requiring full-text checking. Flag duplicate records and possible multiple reports of the same study. Keep uncertain papers for review; an abstract’s silence does not establish that a criterion is unmet."
+
+4. Turn each batch into a reusable evidence table
+"Extract evidence from this batch, [paper IDs], for my question: [question]. Use one row per paper: ID; citation as supplied; full text/abstract only; context; research question; design; sample or materials; measures or concepts; analysis; key findings; limitations; relevance; source locations. Preserve reported numbers and units. Use ‘not applicable’ and ‘not reported’ accurately. Keep these columns identical across batches and flag studies that appear to share participants or datasets."
+
+5. Understand a difficult paper without losing its meaning
+"Help me understand [paper ID/title] as a [master’s/first-year PhD] student with background in [subject]. Explain the research problem, why the chosen method addresses it, the main finding, and the strongest limitation. Define the five technical terms most necessary to understand the paper. Walk through [equation/table/figure/result] using its actual variables and values. Separate what the authors observed from what they inferred, and identify the assumptions connecting the two."
+
+6. Critique study quality with reasons
+"Appraise [paper IDs] using criteria appropriate to each study’s design. Examine sampling or material selection, measurement, analysis, alternative explanations, and transparency; apply qualitative or theoretical criteria where relevant. Return: paper ID, strength, concern, supporting source location, and how the concern affects interpretation. Distinguish information that is unreported from a demonstrated methodological weakness. Finish by identifying which findings can support stronger conclusions and which require caution, with reasons."
+
+7. Find themes across the literature
+"Using the attached evidence table for [topic], develop up to six themes that directly address [review question]. For each theme, provide a clear definition, contributing paper IDs, shared finding or argument, meaningful variations, and an unresolved issue. Allow papers to contribute to multiple themes. List papers that do not fit. Explain the relationships between themes, and distinguish a frequently studied theme from one supported by particularly convincing evidence."
+
+8. Detect when researchers mean different things by the same term
+"Compare how [concept] is defined and measured or recognized across [paper IDs]. Create a table with conceptual definition, operational definition, instrument or indicator, context, and source location. Identify papers using the same label for different concepts, or different labels for similar concepts. Explain how these differences affect comparisons between findings. Recommend a working definition for my review, making its boundaries and excluded meanings explicit."
+
+9. Map the theories behind the findings
+"Examine [paper IDs] for theories or conceptual frameworks relevant to [question]. For each, identify its main concepts, proposed mechanism, predictions or propositions, and how the paper actually uses it. Distinguish explicitly named theories from your interpretation. Compare where the frameworks agree, compete, or leave something unexplained. Propose a simple conceptual framework for my review, labeling each relationship as empirically supported, author-proposed, or a new hypothesis. If no framework is explicit, say so."
+
+10. Investigate apparently contradictory results
+"Find papers in [corpus/evidence table] that appear to disagree about [specific relationship or claim]. Compare the exact findings, populations, settings, definitions, measures, study designs, and uncertainty estimates where reported. Classify each disagreement as directly conflicting, context-dependent, or insufficiently comparable, explaining why. Cite source locations. Separate explanations supported by the papers from plausible explanations requiring further testing. Suggest what additional evidence would help resolve each disagreement."
+
+11. Build a claim-to-evidence map before writing
+"For [review question], propose up to eight synthesis claims supported by the supplied papers. Create a table with claim, supporting paper IDs, challenging paper IDs, relevant study-quality concerns, and justified confidence. Distinguish direct findings from your cross-paper interpretation. Rewrite overbroad claims to match the populations, settings, and methods actually studied. Account for shared datasets, and explain why the evidence supports each claim without treating the number of papers as a quality score."
+
+12. Identify research gaps you can defend
+"Using [evidence table and synthesis], identify up to five defensible research gaps. For each, provide the relevant paper IDs, what is established, exactly what remains uncertain, the gap type, why resolving it matters, and the evidence needed. Distinguish authors’ stated limitations from gaps you infer across papers. Phrase conclusions as ‘within this reviewed corpus’ where appropriate. A topic’s absence from this collection alone is insufficient evidence that nobody has studied it."
+
+13. Check whether an apparent gap has already been addressed
+"My candidate gap is [gap]. Existing supporting papers are [IDs/titles]. If web search is available, look for studies that directly address, partially address, or challenge this gap through [cutoff date]. Verify each candidate’s title, authors, year, and DOI or publisher link where available; state whether you accessed an abstract or full text. Report queries, sources searched, and access limitations. If searching is unavailable, provide executable search strings. Revise the novelty claim to match the evidence."
+
+14. Convert a gap into a feasible research proposal
+"Turn this checked gap, [gap], into a feasible [master’s/PhD] project within [time], using [available data, participants, equipment, or materials]. Provide one main question, two subquestions, a suitable design, sampling or material-selection strategy, key measures or concepts, and analysis approach. Add a hypothesis only if appropriate. Explain how the design addresses the gap, its main validity threat, relevant ethical considerations, and the conclusion it could support. Keep proposed outcomes clearly hypothetical."
+
+15. Create a literature-review outline with an argument
+"Build a [word count]-word literature-review outline answering [question], using [themes, evidence table, and checked gaps]. Organize sections around arguments and relationships between studies. For each subsection, give its purpose, central synthesis claim, supporting and challenging paper IDs, critical issue to discuss, and transition to the next section. Allocate word counts totaling [word count]. Make the final section connect the evidence to [proposed research question], and flag sections needing more sources."
+
+16. Draft a literature review grounded in the evidence
+"Using the approved outline [paste] and supplied evidence [attach], draft a [word count]-word literature review for [discipline and degree level]. Develop paragraphs that compare studies, explain patterns, evaluate limitations, and connect findings to [question]. Attach paper IDs to substantive literature claims; use author–date citations only where bibliographic details are verified. Preserve uncertainty and disagreements. Mark missing support as [SOURCE NEEDED]. End with a gap statement whose scope matches the reviewed evidence."
+
+17. Audit the draft against the original papers
+"Audit this literature-review draft [paste] against the supplied original papers [IDs]. For each substantive claim, report its cited source, exact supporting location, and verdict: supported, partly supported, unsupported, or unverifiable. Check numerical values, sample descriptions, causal wording, quotation accuracy, and whether cited sources actually support the sentence. Flag claims based only on abstracts or extraction tables. Identify unmatched references and propose precise corrections. Finish with the unresolved checks I must complete manually."
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
