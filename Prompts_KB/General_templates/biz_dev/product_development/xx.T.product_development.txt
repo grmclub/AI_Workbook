@@ -99,6 +99,36 @@ Test → What customers repeatedly ask for.
 Promote → What makes your business different.
 
 -------------------------------------------------
+🚨BREAKING: Claude can now turn what you know into a digital product people pay for
+Here are the 7 prompts 👇🏽👇🏽
+
+1. BEFORE YOU START
+Open one Claude chat (the free plan works) and run the prompts in order, so it remembers your skills and your buyer. Replace every [bracket] with your details. Save the chat and come back to it every week.
+Be honest with yourself: the product sells because it solves one real problem for one type of person. Claude does the heavy lifting; you bring the experience 👇🏽
+
+2. PROMPT 1: FIND WHAT YOU KNOW THAT PEOPLE PAY FOR
+"Ask me 7 questions about my job, hobbies and the problems people ask me to help with. Then list 10 digital product ideas from my answers: who would buy each, the problem it solves, and a fair price between $5 and $50. Mark the 3 easiest to make this week."
+
+3. PROMPT 2: CHECK IF PEOPLE WANT IT
+"For my idea [idea], list 10 questions buyers type into Google, YouTube or Facebook groups about this problem. Tell me where these people hang out online and 3 products they already buy. Is there room for mine? Be honest."
+
+4. PROMPT 3: BUILD THE OUTLINE
+"Create the outline for [product type: guide / template / mini course] that takes a beginner from [starting point] to [result]. Max 7 sections. Each section ends with one action the buyer does. Remove anything that's nice-to-know but not needed."
+
+5. PROMPT 4: WRITE IT IN YOUR VOICE
+"Here are 3 things I wrote before [paste]. Write section 1 of my outline in the same voice: short sentences, real examples, no fluff. Add one checklist at the end." Repeat for each section, then ask: "Turn this into a clean document I can download."
+
+6. PROMPT 5: MAKE THE EXTRAS
+"Create a one-page checklist, a simple tracker table and 5 fill-in-the-blank templates that go with my product, so the buyer gets more than they paid for." Claude can show these as ready documents right in the chat.
+
+7. PROMPT 6: WRITE THE SALES PAGE
+"Write a short sales page for my product: a headline with the result, who it's for, who it's NOT for, what's inside, the price [$], and 3 honest FAQs. No hype, no fake numbers." Put it on a free page like Gumroad, Payhip or Stan.
+
+8. PROMPT 7: GET THE FIRST 10 BUYERS
+"Give me a 14-day plan to get my first 10 buyers with $0 in ads: 7 posts that teach a piece of the product for free, 3 messages to send to people who asked about this problem, and how to ask the first buyers for a review."
+
+9. YOUR TURN
+What would your first product be about?
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
