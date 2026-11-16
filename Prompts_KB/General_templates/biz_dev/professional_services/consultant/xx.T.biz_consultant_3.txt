@@ -83,5 +83,48 @@ Act as a McKinsey-level business risk consultant. Evaluate [DESCRIBE IDEA] and i
 6. FINANCIAL PROJECTIONS BUILDER
 Act as a McKinsey-level financial planning consultant. Build a realistic 12-month financial model for [DESCRIBE BUSINESS], covering monthly revenue, operating costs, cash flow, cash burn, and break-even. State every key assumption, identify the three biggest financial drivers, and test conservative, expected, and optimistic scenarios. Highlight potential cash shortages and recommend practical actions to improve financial sustainability.
 -------------------------------------------------
+## BREAKING: Claude has a new feature called Council.
+It turns Claude into 5 AI advisors that argue it out before handing you one final answer.
+Here is how to SET it up, and prompts to try it:
+
+How to set it up
+1. In Claude, go to Projects → New Project and name it My Council.
+2. Open Set project instructions, paste prompt #1, and click Save instructions. You can also paste #1 into a regular Claude chat to try it right away.
+3. Pick any prompt from #2 to #9, replace the words in [brackets] with your details, and send it in your project or the same chat.
+
+1. Set up your five-advisor Council
+For each request, play five advisors. The Strategist checks what best serves my goal. The Skeptic tests the weakest assumption. The Creative Advisor suggests an overlooked option. The Audience Advocate explains how the people affected might react. The Operator checks what I can actually do with my time and resources. Give each advisor one or two sentences. Then show the biggest disagreement and let one advisor respond to the strongest objection. End with one verdict, the first action I should take, and what could change your recommendation. Label assumptions. If a missing detail could change the verdict, ask me one focused question first.
+
+2. Pick which content idea to film next
+I make [type of content] for [audience] on [platform]. My goal this week is [saves, comments, shares, or clicks]. My ideas are [idea A], [idea B], and [idea C]. I have [time and equipment]. Have the Council debate which idea best serves my goal and which I can execute well. Pick one and give me the opening line, three talking points, and a call to action that fits the goal.
+
+3. Fix a short video that loses viewers
+Here’s my script [paste script]. The video is [length], and viewers tend to leave at [timestamp, or write “unknown”]. It’s for [audience], and the payoff is [what they’ll learn or see]. Have the Council compare three possible problems: a weak opening, too much setup, or a payoff that comes too late. Pick the first change to test, rewrite the first five seconds, and show me one line to cut. Treat any cause the data can’t confirm as a hypothesis.
+
+4. Test demand before building a digital product
+I want to sell [template, guide, or mini-course] to [specific buyer] for [price]. Here’s what people have actually asked me for [comments, DMs, or “no feedback yet”]. I can spend [hours and budget] this week. Have the Council debate whether the evidence shows interest or willingness to pay. Design one test I can run before building, write the exact message I should post, and define what response would justify building a first version.
+
+5. Find out what could derail your workshop
+I’m planning a [length] workshop on [topic] for [audience] on [date]. Attendees should leave able to [specific task]. My agenda is [paste agenda], and I have [prep time]. Ask the Council to imagine attendees leave confused or fail to finish the exercise. Rank the three likeliest reasons, then give me a revised agenda with times and tell me which activity to shorten or cut first.
+
+6. Reply to a client who asks for a rush job
+My client wrote [paste request]. We agreed on [original scope and deadline]. I can realistically deliver [what you can do and by when]. Have the Council weigh the client relationship, the workload, and the risk of overpromising. Recommend one offer I can make, then draft a warm reply under 100 words. Make the deliverable and date explicit. If this adds work, give me one sentence that asks the client to choose what to prioritize.
+
+7. Choose between two tools you’ll actually use
+I need a tool to [specific task you do regularly]. I’m comparing [tool A] and [tool B], with a budget of [amount per month]. My must-haves are [features], and my deal-breaker is [constraint]. Here’s what I know about each [paste prices and features]. Have the Council debate ease of use, cost, and fit for my actual workflow. Pick one provisionally and give me a 15-minute trial task with a clear pass-or-fail test. Flag any price or feature I should verify.
+
+8. Turn a real work story into an interview answer
+I’m interviewing for [role]. The job description emphasizes [skill]. Here’s a real example from my work [situation, what you did, and what happened]. Have the Council debate what a hiring manager would find convincing and what sounds vague. Write a 60-second answer in my voice, keeping every claim grounded in my example. Then ask me one tough follow-up question and wait for my answer.
+
+9. Make an overloaded week fit your calendar
+By [day], I need to finish [tasks with deadlines]. I have [available time blocks] around [fixed commitments]. The biggest consequence of missing a deadline is [consequence]. Have the Council debate what to finish, shrink, or reschedule. Give me a plan that fits the hours I listed, one task to start today, and a two-sentence message I can send if I need to move a deadline.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
