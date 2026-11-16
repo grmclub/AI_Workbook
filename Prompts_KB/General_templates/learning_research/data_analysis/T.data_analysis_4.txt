@@ -220,6 +220,51 @@ Teach me to interpret a randomized checkout test. Version A had [80 purchases fr
 Give me a two-day project using my online store data. If I’m starting fresh, generate a small dataset with two months and three regions. On Day 20, have me use SQL to find which regions contributed most to the change in completed revenue from [February to March], then verify the totals in Excel. On Day 21, have me make one chart and write a three-sentence summary using order count and median order value. Grade my calculations, chart, and conclusion, then give me one specific revision to make.
 
 -------------------------------------------------
+Here are 12 Claude prompts to build job-ready data analyst skills in 2026.
+Stop Starting Your Data Analyst Journey With SQL.
+
+• Start with Excel.
+• Learn SQL after Excel.
+• Learn Power BI after SQL.
+• Learn Portfolio Project after Power BI.
+
+1. Excel: Clean a messy dataset
+"I’m learning Excel using [version] on [Windows/Mac]. My dataset contains [column names], and each row represents [one order line/customer/transaction]. Here are sample rows: [paste]. Walk me through checking blanks, duplicate records, inconsistent categories, numbers stored as text, and ambiguous dates. Explain when repeated IDs are legitimate. Give exact steps, before-and-after examples, and checks for row counts and totals. Preserve the raw data. Finish with a cleaning task for me to complete independently."
+
+2. Excel: Write formulas for real business questions
+"My Excel tables are Sales: [columns] and Products: [columns]. Help me calculate net revenue from [quantity, unit price, discount], retrieve product categories, flag missing product matches, and summarize revenue by region. Confirm whether discounts are percentages or amounts. Use formulas compatible with [Excel version], including SUMIFS, COUNTIFS, IF, and an appropriate lookup. Explain each formula using my column names. Include a small worked example and three practice questions; reveal answers after I attempt them."
+
+3. Excel: Turn PivotTables into business insights
+"My cleaned sales table contains [columns], covering [date range]. Help me answer: How is monthly revenue changing? Which categories contribute most? Which regions need investigation? Specify the Rows, Columns, Values, and Filters for each PivotTable, plus two suitable charts. Explain how to calculate percentage change and distinguish percentage changes from percentage-point changes. Show how to reconcile totals with the source table. Help me write three evidence-based observations without claiming that a pattern proves its cause."
+
+4. SQL: Translate what you already know from Excel
+"I understand Excel filters, SUMIFS, and PivotTables. Teach me their SQL equivalents using [PostgreSQL/SQL Server/MySQL] and this table: [schema and sample rows]. Create six progressively harder business exercises covering SELECT, WHERE, CASE, GROUP BY, HAVING, and ORDER BY. For each, explain the equivalent Excel operation and describe the expected output columns. Present one exercise at a time, wait for my query, then review its correctness and explain any mistakes before continuing."
+
+5. SQL: Join tables without inflating your numbers
+"My database contains Orders [schema], OrderItems [schema], and Customers [schema]. I need monthly revenue by customer segment. First identify what one row represents in each table and which keys should be unique. Guide me through choosing INNER versus LEFT JOIN, finding unmatched records, and checking join relationships. Show how an incorrect join can duplicate revenue using a tiny example. Then help me write the query and validation checks that compare row counts and revenue before and after joining."
+
+6. SQL: Solve a realistic analysis assignment
+"Using [SQL dialect] and these tables [schemas], coach me through finding monthly revenue, average order value, repeat-customer rate, and the top three products by revenue each month. Agree on metric definitions, date boundaries, and treatment of cancellations first. Teach CTEs and window functions only where needed. Give me the tasks before showing solutions. Review my queries [paste], checking distinct order counts, zero denominators, ranking ties, and missing months. Provide runnable checks; label any results you have not executed."
+
+7. Power BI: Build a reliable data model
+"I’m using Power BI Desktop with these tables: [names, columns, and sample rows]. My report should answer [three business questions]. Guide me through Power Query cleaning and a simple star schema. Explain fact and dimension tables in beginner language. Specify each table’s row meaning, keys, relationship cardinality, filter direction, and date-table setup. Flag duplicate keys and unmatched records before creating relationships. Give me a numbered build sequence and checks that confirm the model preserves the original totals."
+
+8. Power BI: Learn DAX through useful measures
+"My Power BI model contains [tables, columns, and relationships]. Help me create measures for revenue, distinct orders, average order value, gross margin percentage, and month-over-month revenue change. Confirm how revenue, discounts, returns, and costs are defined before writing DAX. Explain measures versus calculated columns and how filters affect each calculation. Use DIVIDE where appropriate and explain missing prior-period behavior. For every measure, include a hand-calculated test example and checks under a date filter and a category filter."
+
+9. Power BI: Design a dashboard people can use
+"I’m building a one-page Power BI report for [sales manager] who needs to decide [where to focus next month]. My available fields and measures are [list]. Propose a layout with four KPI cards, a monthly trend, category comparison, regional breakdown, and two useful slicers. Specify the field and measure for every visual. Explain titles, number formatting, sorting, and visual interactions. Give me five acceptance checks covering filtered totals, empty selections, readability, and whether the report answers the manager’s decision."
+
+10. Portfolio: Build a project around a business decision
+"Help me build a [retail/customer/operations] analysis project for my portfolio using [dataset or attached files]. My target role is [junior data analyst], and I have [hours per week] for [weeks]. Define one stakeholder, one decision, three answerable questions, and clear metric definitions. Create milestones using Excel for inspection, SQL for analysis, and Power BI for reporting. Specify a deliverable and completion check for each milestone. Start with the project brief and first task; let me complete the work before reviewing it."
+
+11. Portfolio: Check whether your findings hold up
+"Review my project question [question], analysis [queries/calculations], dashboard [screenshots], and findings [paste]. Check whether each claim has supporting numbers, a clear comparison period, and a meaningful denominator. Look for duplicate-driven totals, incomplete periods, misleading averages, small groups, and unsupported causal claims. Separate confirmed errors from issues needing more data. Return a table with: claim, evidence, concern, validation step, and suggested rewrite. Help me produce three defensible insights and two recommendations without inventing findings or business impact."
+
+12. Portfolio: Present your work and defend your decisions
+"Using my completed project materials [attach or paste], help me create a concise portfolio README covering the business problem, data source, cleaning decisions, SQL analysis, Power BI report, findings, limitations, and reproduction steps. Draft three resume bullets using only verified facts; distinguish recommendations from implemented outcomes. Then conduct a junior analyst interview about this project, one question at a time. Challenge my metric definitions, joins, validation, and recommendations. After each answer, identify gaps and let me try again."
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
