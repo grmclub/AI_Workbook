@@ -484,8 +484,49 @@ Here are 13 prompts to understand difficult topics, practice effectively, and le
 13. Check whether you can use what you learned
 "Assess whether I can independently [target task] using [topic or skill]. Create a three-part assessment: explain a core idea, apply it to an unfamiliar situation, and identify an error in a flawed example. Show the scoring criteria first, then give me one task at a time. Withhold hints unless requested. Score only what my answers demonstrate, explain remaining gaps, and recommend one focused next practice session."
 
-
 -------------------------------------------------
+## Instead of pursuing another Master’s degree, consider building practical skills and a strong portfolio.
+These 15 skills will quietly dominate the next 10 years. Most people won’t notice until it’s too late.
+Here are 15 prompts to master these skills with Claude:
+
+1. AI prompting and output evaluation
+"Coach me to create a reliable prompt for [recurring task] in [industry]. Here’s a typical input: [example]. A successful output must meet [requirements]. Help me build a reusable prompt, then design five tests covering normal requests, missing information, and misleading inputs. Create a scoring checklist for accuracy, completeness, and usefulness. Wait for my test results before improving the prompt. Help me document the original prompt, revisions, and measured improvements as a portfolio case study."
+
+2. No-code automation
+"Help me automate [repetitive task] using [tools I already have], within [budget]. My current process is [steps], repeated [frequency]. Map the trigger, required information, actions, and exceptions. Explain each setup step for a beginner, including how to prevent duplicate actions and handle missing information. Start with a small test using sample data. After I report the results, help me troubleshoot and document the workflow, actual time saved, and remaining manual checks."
+
+3. Spreadsheet data analysis
+"Be my spreadsheet coach. I use [Excel/Google Sheets] and want to answer [business question] using [paste column names and sample rows]. Help me check missing values, duplicates, and inconsistent formats before analyzing anything. Teach me three useful calculations and one summary table, explaining each formula. Give me one task at a time and review my results. Finish by helping me create a dashboard with three findings, supporting numbers, and clear limitations."
+
+4. AI-assisted coding
+"Teach me basic coding by helping me build a browser tool that [specific function, such as calculating project quotes] for [audience]. I’m a beginner. Use a single HTML file with simple styling and JavaScript. Explain inputs, calculations, and outputs before showing the smallest working version. Give me one small change to implement myself. Review my attempt, then test five normal and unusual inputs. Help me package the finished demo with setup instructions and a short explanation of my contribution."
+
+7. Systems thinking and process improvement
+"Coach me through diagnosing [recurring problem] in this process: [describe steps, people, and handoffs]. Help me map where work waits, information gets lost, or mistakes create more work. Separate observed facts from possible causes. Suggest two explanations and the evidence needed to distinguish them. Help me design one small improvement experiment with a baseline, success measure, and review date. After I share results, help me create a before-and-after process case study."
+
+8. Customer research
+"Teach me to investigate why [customer group] struggles with [problem] before building [offer or product]. Create eight neutral interview questions about recent behavior, existing workarounds, and consequences. Explain which questions would accidentally lead the customer. Run one clearly fictional practice interview, then critique my follow-up questions. After I paste real interview notes, help me group recurring needs, preserve exact supporting quotes, and flag assumptions. Finish with a customer-insight brief and three ideas worth testing."
+
+9. User experience design
+"Coach me to improve [page, app screen, or customer journey] for [audience] trying to [task]. Here’s the current experience: [description or screenshot]. Identify three likely friction points and explain their effect. Guide me through sketching two alternatives using [paper/design tool]. Help me check navigation, labels, readability, and accessibility. Create five task-based usability questions. After I share actual test observations, help me revise the design and document the problem, alternatives, evidence, and final solution."
+
+10. Persuasive writing
+"Be my copywriting coach for [offer], aimed at [audience], with [price], [main objection], and this available proof: [evidence]. First, help me identify one clear promise and the strongest supporting detail. Ask me to write a headline and a 100-word sales section before giving your version. Critique my draft for clarity, specificity, credibility, and the next action. Explain each suggested edit. Help me create two versions to test and a portfolio breakdown without inventing testimonials or results."
+
+11. Data storytelling
+"Help me turn [dataset or findings] into a three-slide presentation for [audience] deciding [specific action]. Ask me to choose the most important takeaway and defend it using the numbers. Build a problem–evidence–recommendation structure. Recommend an appropriate chart, including labels, units, and scale, and flag claims the data cannot support. Review my draft slides and a 90-second speaking script. Then role-play three skeptical questions and help me improve the presentation using my answers."
+
+12. Project management
+"Train me to manage a small project: [deliverable], due [date], with [people, available hours, and budget]. Help me define what ‘finished’ means, break the work into 8–12 tasks, and identify dependencies, owners, and the three biggest risks. Ask me to propose the schedule before reviewing it. Then introduce a realistic delay or scope-change scenario and make me choose a response. Help me produce a project brief, task tracker, status update, and lessons-learned report."
+
+13. Negotiation
+"Be my negotiation practice partner for [freelance fee, job offer, or project scope]. My desired outcome is [target], my minimum acceptable outcome is [boundary], and my alternative is [backup option]. Help me prepare questions, evidence, and possible trade-offs. Then role-play the other party for six exchanges, one message at a time, without coaching during the simulation. Afterward, assess my listening, questions, concessions, and clarity. Help me rewrite weak responses and save a preparation sheet with annotated practice excerpts."
+
+14. Leadership and constructive feedback
+"Coach me through addressing [specific team issue] with [colleague or direct report]. The observable facts are [examples], the impact is [effect], and the desired change is [behavior]. Help me separate observations from assumptions and prepare a clear opening statement. Role-play the conversation, including a plausible explanation or defensive response, and wait for my replies. Review my empathy, questions, clarity, and accountability. Help me produce a feedback script, an agreed-action template, and a follow-up plan."
+
+15. Cybersecurity and digital risk awareness
+"Teach me practical cybersecurity for [role or small business] using [tools and devices] and handling [types of information]. Use fictional examples to test my ability to spot phishing, risky sharing settings, and account-access weaknesses. Ask me to explain each choice before revealing the answer. Help me prioritize five improvements by likely impact and effort, then guide me through checking one setting using official documentation. Finish with a sanitized risk register and a simple account-compromise response checklist."
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
