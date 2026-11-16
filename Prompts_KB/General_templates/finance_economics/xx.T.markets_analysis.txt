@@ -550,6 +550,50 @@ End with a beginner’s investment checklist:
 Use recent public information with source dates and do not provide a buy, sell, or hold recommendation.
 
 -------------------------------------------------
+BREAKING: Claude can now run Stock Market research like a top consulting firm.
+Here are 10 Claude prompts that replace $100K/year stock analysts
+(Research Market Faster and Smarter)
+
+1. Build a stock shortlist you can verify
+Screen [U.S.-listed semiconductor companies] for market cap above [$2 billion], revenue growth above [10%] in the latest fiscal year, and positive free cash flow in that same year. Define free cash flow as operating cash flow minus capital spending. Use a public screener to find candidates, then verify each match against filings and dated market data. Return up to [5 stocks], sorted by revenue growth, with the figures, periods, and source links. Flag any gaps in screen coverage.
+
+2. Find what actually drives the business
+Analyze [TICKER] using its latest annual report and quarterly filing. Build a table showing each reported segment’s share of revenue, year-over-year dollar change in revenue, and operating margin where disclosed. Compare like-for-like periods and flag any segment reclassifications. Identify which segment contributed most to recent growth and which contributed most to operating profit. End with [3 operating metrics] I should track next quarter and link to where the company reports them.
+
+3. Find the surprise in the earnings report
+Break down [TICKER]’s earnings for [LATEST QUARTER]. Compare revenue and diluted earnings per share with the year-ago quarter and verifiable estimates published before the release. Match reported or adjusted figures to estimates on the same basis. Mark missing estimates as unavailable. Compare new guidance with the prior guidance for the same period, using the midpoint when both are ranges. Explain the biggest surprise and name one metric that would show whether it’s likely to persist. Link the release, estimates, and call transcript where available.
+
+4. Check whether profits turn into cash
+For [TICKER], pull net income, operating cash flow, and capital spending for the last [3 fiscal years]. Calculate free cash flow as operating cash flow minus capital spending. Explain the largest differences between net income and cash flow by quantifying the effects of working capital, stock-based compensation, and any disclosed one-time items. Identify which recent cash-flow boosts could reverse and why. Cite the cash flow statement and relevant filing notes.
+
+5. Stress-test the next two years of debt payments
+For [NONFINANCIAL TICKER], use the latest filing to list unrestricted cash, available credit, and debt principal due in each of the next [2 years]. Use trailing 12-month operating cash flow and capital spending as the annual baseline. Reduce operating cash flow by [25%] in both years, hold capital spending flat, and assume zero refinancing. Show the year-end cash balance before drawing on credit, identify any funding gap, and link to the debt footnote. Label the scenario assumptions.
+
+6. Test whether the competitive advantage shows up in the numbers
+Compare [TICKER] with [PEER 1] and [PEER 2] over [3 fiscal years]. Test three possible advantages in [PRODUCT OR SEGMENT] — pricing power, customer retention, and cost advantage. Look for selling prices alongside sales volumes, retention or churn, and comparable margins or unit costs. For each advantage, give the strongest supporting evidence, the strongest counterexample, and one metric that would signal it’s weakening. Flag missing or incompatible disclosures and link the sources.
+
+7. Explain why a stock trades above or below its peers
+Compare [TICKER] with [PEER TICKERS] using closing prices on [DATE or latest trading day] and financials for each company’s latest reported 12 months as of that date. Show [P/E and enterprise value divided by EBITDA], revenue growth, and operating margin. Calculate how far the stock trades above or below the peer median for each multiple. Mark multiples with zero or negative denominators as unavailable. Explain which operating differences could justify the gap and cite the price and financial data.
+
+8. Work backward from the share price
+Run a reverse discounted cash flow analysis for [NONFINANCIAL TICKER]. Calculate enterprise value using a dated closing price, the share count, and the relevant balance-sheet figures. Solve for the annual revenue growth over [5 years] that would make the model match that enterprise value. Use [2.5%] long-run growth and show results at discount rates of [8%, 9%, and 10%]. State your margin, tax, and reinvestment assumptions. Compare the implied growth with the company’s actual [3-year] annualized growth and show the math and sources.
+
+9. Build bear, base, and bull cases around one driver
+Model [TICKER] for [NEXT FISCAL YEAR], starting with its latest full-year results. Build a bear, base, and bull case around [KEY DRIVER, such as units sold or customer growth]. For each case, show the driver assumption, revenue, operating margin, and earnings per share. Show how you estimated taxes and diluted share count. Then change only [KEY DRIVER] by [5%] from the base case and calculate the effect on earnings per share. Give one observable trigger for each case and link the historical inputs.
+
+10. Find out whether buybacks actually reduced the share count
+Audit [TICKER]’s buybacks over the last [3 fiscal years]. Show cash spent on repurchases, shares repurchased, and split-adjusted shares outstanding at each fiscal year-end. Use the equity footnotes to explain how many shares were added through employee awards, acquisitions, or other disclosed issuances. Flag any gap you can’t reconcile. Calculate the total percentage change in shares outstanding and explain how much of the buyback activity translated into a lower share count. Link the supporting tables.
+
+11. Build a calendar of events that could change your thesis
+Map events for [TICKER] over the next [90 days] that could change an assumption about revenue, margins, cash flow, or financing. Include up to [6 events], such as earnings, a product launch, a regulatory decision, or a debt maturity. For each, give the confirmed date or estimated window, the assumption it could change, and the specific result I should watch. Sort by date and link the source behind each date or estimate.
+
+12. Try to prove your stock thesis wrong
+My thesis on [TICKER] is “[PASTE YOUR THESIS IN ONE SENTENCE].” Use the latest filings, earnings releases, and relevant competitor disclosures to find the [3 strongest counterarguments]. For each, cite the evidence, identify the assumption it challenges, and name one measurable result over the next [2 quarters] that would weaken the thesis. Label any threshold you propose as an assumption. End with the one piece of evidence that would most change your assessment.
+
+--
+All these go be search manually , do you think price of a stock in a stock market is always rational to it's fundamental like earning , cash flow , etc .. i have seen many stocks with good earning and revenues still tanked for no reason. That's where technical analysis more important
+
+These are all about finding value stock (fundamental analysis) - the system would be become powerful if it adds on timing the market too (technical analysis) along with entry/exit / target price and stop loss defined - this would give us a system that functional and not educational ….. also if you could guide on what mcp connectors for the technical snd fundamental analysis - and how can a scheduled alerting system that runs on predefined frequency can be operationalized - it can become solid ….. what do you think …. Is it making sense ?
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
