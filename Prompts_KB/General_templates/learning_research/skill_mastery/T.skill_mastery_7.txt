@@ -349,12 +349,12 @@ Review my project [paste or describe your work] against these criteria [paste th
 Interview me for [target role] using this project [paste a summary and what I personally did]. Ask me to explain one decision, walk through one mistake I corrected, and say how I’d adapt the work if [realistic constraint] changed. Ask one question at a time and follow up when I’m vague. Finish with a 60-second project explanation based on what I demonstrated and one practice task for the biggest gap you observed.
 
 -------------------------------------------------
-🚨 BREAKING: Claude AI has a feature called “Skills Mode”.
+🚨 BREAKING: Claude AI has a feature called "Skills Mode".
 You can use it to learn any skill 10x faster like a straight-A student.
 Here are 11 Claude prompts that tutor you like a $2,000 mentor for free:
 
 1. Find out where you should start
-I want to learn [skill] so I can [specific result I want to achieve]. My experience so far is [what I’ve tried or “complete beginner”]. I have [tools or materials] and [minutes] for this starting check.
+I want to learn [skill] so I can [specific result I want to achieve]. My experience so far is [what I’ve tried or "complete beginner"]. I have [tools or materials] and [minutes] for this starting check.
 1. Give me three short tasks, one at a time. Start with a basic task, then use my first attempt to choose the next one. Make at least one task resemble what I want to do in real life.
 2. For each task, tell me what to submit and what a successful result needs to do. Wait for my attempt before giving feedback. If I ask for help, record what kind of hint I needed.
 3. After all three, tell me what I did independently, where I needed help, and which skill gap is most likely to hold me back.
@@ -365,7 +365,7 @@ Start with the first task.
 Create a [7- or 14-day] plan to help me [specific goal]. I can practice [minutes per session] on [days I’m available]. I have [tools or materials]. Use my Starting Point summary if it’s in this chat. Otherwise, ask me what I can already do.
 1. Break my goal into 3–5 smaller abilities. Put them in the order I’ll need them and explain how each one contributes to my goal.
 2. For each session, give me a warm-up, one main exercise, and a quick check. Estimate the time for each so the session fits my schedule.
-3. Tell me what I’ll produce in each session and give me a clear way to judge it. For example, “Add a new expense and check whether the monthly total updates correctly.”
+3. Tell me what I’ll produce in each session and give me a clear way to judge it. For example, "Add a new expense and check whether the monthly total updates correctly."
 4. Include one session that combines earlier abilities. For any day I struggle, give me a shorter exercise that practices the same thing before I move on.
 Show me the full schedule, then give me the exact instructions for Day 1.
 
@@ -442,6 +442,49 @@ Test whether I can now use [skill] to [specific goal] in [minutes]. Use my Start
 Start by giving me the first task and its success criteria.
 
 -------------------------------------------------
+🚨 BREAKING: Claude can now completely rewire your brain so you can learn anything at lightning speed.
+Here are 13 prompts to understand difficult topics, practice effectively, and learn anything 10x faster👇
+
+1. Find out what you actually need to learn
+"I want to learn [topic] so I can [specific task]. Check my starting level with 5 short questions, one at a time. Include a basic concept, a practical application, and a common misconception. Wait for each answer before continuing, and save your assessment until the end. Then identify my missing foundations, rank my 3 biggest gaps, and give me one starting exercise."
+
+2. Build a learning plan around a real outcome
+"Build a [number]-day plan to help me [measurable outcome, e.g., create an Excel sales dashboard]. I know [current skills] and have [minutes] daily. Work backward from the outcome. For each day, specify one concept, one practice task, and observable evidence that I understood it. Include review sessions and a final independent task. If the goal exceeds my time budget, suggest a smaller achievable outcome."
+
+3. Make one difficult concept click
+"Help me understand [specific concept] at a [beginner/intermediate] level. Start with a plain-language explanation under 150 words. Use an analogy from [something familiar to me], then explain where that analogy breaks down. Show one concrete example relevant to [my work or interests]. Ask me to predict what happens when one condition changes. Wait for my answer before explaining."
+
+4. Catch the gaps in your own explanation
+"I’m learning [topic]. Here’s my explanation in my own words: [paste explanation]. Check its accuracy, missing connections, and vague language. Quote the exact parts that need work and distinguish factual mistakes from harmless simplifications. Ask me one question about the biggest gap before correcting it. After I respond, help me rewrite the explanation clearly and give me a new example to explain myself."
+
+5. Turn dense material into a focused study session
+"Use only this material: [paste notes, chapter, or transcript]. My goal is [specific learning outcome]. Extract the 5 ideas most relevant to that goal, explain each simply, and identify any prerequisites the material assumes. Reference headings, pages, or timestamps where available. Then ask me 3 application questions, one at a time. Withhold answers until I attempt them, and flag anything the source leaves unclear."
+
+6. Move from watching examples to doing the work
+"Teach me how to solve [specific problem type] at [difficulty level]. Use three stages: one fully worked example with each step’s purpose explained; a similar problem with key steps left for me; then a fresh problem I complete independently. Present only one stage at a time. After each attempt, identify my first incorrect step and offer a hint before showing the correction."
+
+7. Test what you remember without looking
+"Quiz me on [topic or pasted material] using 6 short-answer questions, one at a time. Include explanation, comparison, and application questions. Don’t show answers or clues before I respond. After each answer, mark it correct, partly correct, or incorrect and explain why. If I miss something, give me a hint and let me retry. Finish with a short list of what I should revisit."
+
+8. Stop mixing up similar concepts
+"I keep confusing [concept A] and [concept B] when [specific situation]. Compare them in a compact table covering purpose, distinguishing clues, an example, and when each applies. Give me a simple decision rule and explain its limitations. Then present 5 mixed scenarios, including one borderline case, one at a time. Ask me to choose and explain my reasoning before giving feedback."
+
+9. Practice the specific thing holding you back
+"I’m practicing [skill]. Here is my recent attempt and any feedback: [paste]. Identify the single weakness that most limits my performance, using evidence from my attempt. Create a 10-minute drill focused on that weakness, with 3 progressively harder exercises. Give me the first exercise and wait. Coach me after each attempt, then use a fresh exercise to check whether I improved."
+
+10. Learn when to use each method
+"I’ve studied [method A], [method B], and [method C]. Create 6 mixed practice problems without labeling which method each needs. Present one at a time. Before I solve it, ask me to choose a method and explain the clues behind my choice. Assess both my choice and execution. Use my mistakes to select the next problem, and finish with a guide to recognizing each method."
+
+11. Build a review schedule you can actually follow
+"Using [paste study material], create a starter review schedule for days 1, 3, 7, 14, and 30, capped at [minutes] per session. Each session should include recall questions and one application task. Provide the schedule first, then run the first review one question at a time without revealing answers. After grading my responses, recommend what to review sooner and what can wait longer."
+
+12. Learn through a small, useful project
+"Help me practice [topic or skill] by completing [small project] with [available tools] in [time limit]. Define a manageable scope, 3 milestones, and clear success criteria. Give me the project brief and instructions for the first milestone, then wait for my work. Review it against the criteria, explain the most useful improvement, and let me revise before moving forward. Keep the project work in my hands."
+
+13. Check whether you can use what you learned
+"Assess whether I can independently [target task] using [topic or skill]. Create a three-part assessment: explain a core idea, apply it to an unfamiliar situation, and identify an error in a flawed example. Show the scoring criteria first, then give me one task at a time. Withhold hints unless requested. Score only what my answers demonstrate, explain remaining gaps, and recommend one focused next practice session."
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
