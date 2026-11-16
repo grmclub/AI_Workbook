@@ -349,6 +349,98 @@ Review my project [paste or describe your work] against these criteria [paste th
 Interview me for [target role] using this project [paste a summary and what I personally did]. Ask me to explain one decision, walk through one mistake I corrected, and say how I’d adapt the work if [realistic constraint] changed. Ask one question at a time and follow up when I’m vague. Finish with a 60-second project explanation based on what I demonstrated and one practice task for the biggest gap you observed.
 
 -------------------------------------------------
+🚨 BREAKING: Claude AI has a feature called “Skills Mode”.
+You can use it to learn any skill 10x faster like a straight-A student.
+Here are 11 Claude prompts that tutor you like a $2,000 mentor for free:
+
+1. Find out where you should start
+I want to learn [skill] so I can [specific result I want to achieve]. My experience so far is [what I’ve tried or “complete beginner”]. I have [tools or materials] and [minutes] for this starting check.
+1. Give me three short tasks, one at a time. Start with a basic task, then use my first attempt to choose the next one. Make at least one task resemble what I want to do in real life.
+2. For each task, tell me what to submit and what a successful result needs to do. Wait for my attempt before giving feedback. If I ask for help, record what kind of hint I needed.
+3. After all three, tell me what I did independently, where I needed help, and which skill gap is most likely to hold me back.
+4. Save a short Starting Point summary in this chat with the tasks, success criteria, time limits, and results. I’ll use it to compare my progress later.
+Start with the first task.
+
+2. Build a practice plan that fits your schedule
+Create a [7- or 14-day] plan to help me [specific goal]. I can practice [minutes per session] on [days I’m available]. I have [tools or materials]. Use my Starting Point summary if it’s in this chat. Otherwise, ask me what I can already do.
+1. Break my goal into 3–5 smaller abilities. Put them in the order I’ll need them and explain how each one contributes to my goal.
+2. For each session, give me a warm-up, one main exercise, and a quick check. Estimate the time for each so the session fits my schedule.
+3. Tell me what I’ll produce in each session and give me a clear way to judge it. For example, “Add a new expense and check whether the monthly total updates correctly.”
+4. Include one session that combines earlier abilities. For any day I struggle, give me a shorter exercise that practices the same thing before I move on.
+Show me the full schedule, then give me the exact instructions for Day 1.
+
+3. Study a worked example, then try one yourself
+Teach me how to [specific task] using [tool, materials, or situation]. I know [what I already understand], and I get confused by [specific step, if known].
+1. Pick a small example I could finish in [minutes]. Show me what I’m starting with and what the finished result should look like.
+2. Walk through 3–5 steps in order. For each step, show what you do, why you do it at that point, and how to check that it worked.
+3. At the easiest step to get wrong, show a typical beginner mistake and the visible clue that helps me catch it.
+4. Give me a practice version with different inputs but the same underlying process. Tell me what to submit and wait for my attempt before revealing the solution.
+When I submit it, point out the first step I should revisit and let me try that step again.
+
+4. Get unstuck without giving away the answer
+I’m trying to [complete a specific task]. My current work is [paste what you have or describe it]. I expected [result], but I got [what happened]. I’ve already tried [steps you attempted].
+1. Read my attempt and identify the most useful place to look first. If a detail is missing, ask me one targeted question.
+2. Give me one small hint that tells me what to inspect, compare, or test. Then wait for me to report what happened.
+3. If I’m still stuck, make the next hint more specific. If I ask for a demonstration, show the step on a separate example and let me apply it to my own work.
+4. Once I get it working, ask me what clue helped me find the issue. Give me a one-sentence check I can use the next time I see the same symptom.
+Start with your first question or hint.
+
+5. Practice the exact step you keep getting wrong
+I’m learning [skill], and I keep making this mistake [describe it and include a real example]. I can practice for [minutes].
+1. Give me one quick check to see whether I understand what the step is supposed to achieve. Use my answer to choose the first drill.
+2. Create three short drills that focus on this step. In the first, give me an obvious example. In the second, change one detail that makes it easier to slip up. In the third, put the same step back into a realistic task.
+3. Give me one drill at a time. Tell me what to do, what to submit, and what I can check myself before sending it.
+4. After each attempt, point to the exact part that shows whether I understood. If I make the same mistake twice, give me a simpler example and one clue to look for.
+At the end, give me a fresh two-minute check I can repeat tomorrow.
+
+6. Get feedback you can use on your next revision
+Act as my coach for [skill]. I’ll share [a draft, screenshot, transcript, or work sample]. I made it for [audience or purpose], and a successful result should [meet these requirements].
+1. Review it against up to three criteria that matter for my goal. If my requirements are vague, state the criteria you’re using in plain language.
+2. Point to one specific thing that works and explain what it achieves. Then identify the one issue that most affects the result. Quote the relevant line or describe the exact part you’re referring to.
+3. Give me a small revision I can make myself and one way to check it. If you can only assess part of the work from what I shared, ask for the piece you need.
+4. Wait for my revision. Compare the two versions, explain whether my change solved the issue, and tell me what improved or what still needs another pass.
+Here’s my work [paste it or attach it].
+
+7. Rehearse a situation you’re likely to face
+Help me practice using [skill] in [real situation]. My goal is [outcome]. Include this constraint [time limit, limited tools, an unclear request, or a skeptical audience].
+1. Give me a brief scenario with enough detail to act. Tell me what I need to accomplish and what information I have at the start.
+2. If this is a conversation, play [customer, interviewer, client, or other person] and respond naturally to what I say. If it’s a practical task, give me a realistic sample to work with and wait for my approach.
+3. Let me finish the first attempt. Then identify one decision that helped, one moment I could handle differently, and the likely effect of that change.
+4. Run a second round with one detail changed. Afterward, compare how I adapted across the two rounds.
+Begin with the scenario and my first decision.
+
+8. Explain it in your own words to find the gaps
+Check whether I understand [concept or technique] well enough to use it in [specific situation]. Ask me to explain it in plain language, give a concrete example, and say how I’d decide when to use it.
+1. Wait for my explanation. Look for anything I left out, mixed up, or described too vaguely to apply.
+2. Ask one follow-up question about the weakest part of my explanation. Use a specific situation that makes me choose what to do and explain why.
+3. After I answer, tell me which parts of my explanation I can keep. Correct the most important misunderstanding using a short example.
+4. Give me a different scenario and ask me to explain the idea again in 2–3 sentences. Check whether I applied the correction accurately.
+Start by asking for my first explanation.
+
+9. Review from memory and catch what you’ve forgotten
+Use [my notes pasted below or the exercises we’ve completed in this chat] to run a [10-minute] review of [topic]. Focus on [areas I want to remember or mistakes I keep making].
+1. Ask four questions, one at a time. Include a basic recall question, a step-order question, a mistake-spotting question, and a short task that applies the skill to a fresh example.
+2. Ask me to answer from memory and mark each answer sure, unsure, or guess. Wait for each response and give the full feedback after the last question.
+3. Tell me what I remembered correctly, what I could only partly explain, and where my confidence was higher than my accuracy.
+4. Finish with a five-minute review for tomorrow and a new practice question I can try in three days. Focus both on the gaps my answers revealed.
+Start with question one.
+
+10. Build something you’ll actually use
+Give me a [30- or 60-minute] project that uses [skill] to create [something useful]. I’ll use it for [real purpose or audience]. I have [tools, materials, or sample information], and my current level is [experience].
+1. Write a short project brief that defines what I’ll make, what it needs to do, and which features are optional.
+2. Break the project into three checkpoints. Give me a time budget and one question to answer at each checkpoint before I continue.
+3. Give me four observable checks for the finished result. For example, if I build a budget, one check might be whether changing an expense updates the monthly total.
+4. Wait for me to submit the result and tell you how I tested it. Assess each check using evidence from my work, then give me one improvement I can make in [10 minutes].
+Start with the brief and the first checkpoint.
+
+11. Take a final test and see what improved
+Test whether I can now use [skill] to [specific goal] in [minutes]. Use my Starting Point summary if it’s in this chat. Keep the skills, difficulty, and success criteria comparable, and give me fresh examples.
+1. Give me one short task for a core ability and one realistic task that combines what I’ve learned. Tell me what to submit, what resources I can use, and how you’ll judge each result.
+2. Wait for my completed work before giving feedback. If I ask for help, record which part I needed help with so we can see what I can do independently.
+3. Compare my final work with my starting attempts wherever the evidence is comparable. Show what improved, what I can now do on my own, and what still needs practice. If there’s no starting record, use this attempt as my baseline.
+4. Give me one next challenge that targets the biggest remaining gap. Include a clear success check so I’ll know when I’ve improved.
+Start by giving me the first task and its success criteria.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
