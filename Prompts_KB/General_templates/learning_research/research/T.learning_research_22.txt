@@ -153,9 +153,64 @@ Here are 17 insane Claude prompts that turn 50+ research papers into structured 
 
 17. Audit the draft against the original papers
 "Audit this literature-review draft [paste] against the supplied original papers [IDs]. For each substantive claim, report its cited source, exact supporting location, and verdict: supported, partly supported, unsupported, or unverifiable. Check numerical values, sample descriptions, causal wording, quotation accuracy, and whether cited sources actually support the sentence. Flag claims based only on abstracts or extraction tables. Identify unmatched references and propose precise corrections. Finish with the unresolved checks I must complete manually."
-
-
 -------------------------------------------------
+## BREAKING: Claude can now research like a Harvard senior professor.
+
+Here are 17 insane Claude prompts that turn 60+ research articles into structured literature reviews, knowledge maps, and research gaps in minutes for free.
+
+Source rules to paste alongside every prompt:
+"Use only the materials I provide unless I explicitly request an external search. State which files you could actually read and whether you accessed full text, abstracts, or extraction notes. Cite substantive claims using paper IDs and precise locations: page, section, table, or figure. Never invent citations, quotations, statistics, DOIs, or missing metadata. Write ‘not reported’ or ‘cannot verify’ when appropriate. Separate authors’ findings from your interpretations. If material is unreadable or the task exceeds your available context, identify what remains unprocessed. Do not silently skip papers."
+
+1. Build a reliable paper register
+"Create a source register for my uploaded articles on [topic]. Assign stable IDs—P001, P002, onward—and retain them throughout this project. Produce a table containing ID, filename, exact title, authors, year, publication venue, DOI as printed, and accessible content: full text, abstract, or unreadable. Flag duplicate files, preprint/published versions, and uncertain metadata. Do not reconstruct missing details from memory. Finish with counts of files received, unique reports identified, and files requiring my attention."
+
+2. Turn a broad topic into review boundaries
+"My topic is [topic], my discipline is [discipline], and my provisional question is [question]. Using the accessible papers, propose three narrower review questions. For each, specify population or context, central concepts, outcomes or phenomena, eligible study designs, and proposed date/language boundaries. Explain what each question would include and exclude. Recommend the most workable question for a [master’s dissertation/doctoral thesis/review article], while clearly labeling boundaries as proposals for my approval."
+
+3. Screen papers with an auditable decision log
+"Screen the supplied papers against these criteria: [inclusion criteria] and [exclusion criteria]. Return ID, screening stage, include/exclude/uncertain, criterion applied, brief reason, and supporting location. Treat insufficient information as uncertain. Distinguish abstract screening from full-text eligibility assessment. Count decisions only for records actually screened, and identify reports that may describe the same study. Do not invent database-search counts or claim this represents a complete systematic search."
+
+4. Create the master evidence matrix
+"For the included papers addressing [review question], extract one row per study, linking multiple reports of the same study. Include paper IDs, aim, context, design, sample/data source, key constructs, measures, analysis, findings relevant to my question, author-stated limitations, and evidence locations. Preserve numerical results with their units and uncertainty. Separate author conclusions from your interpretation. Mark missing fields explicitly. Process [number] papers at a time and list all IDs still awaiting extraction."
+
+5. Appraise study quality without invented scores
+"Assess the included studies for their ability to support claims about [specific question]. Use [supplied appraisal checklist]; if none is supplied, use clearly described, design-appropriate appraisal domains without claiming to apply a validated instrument. Examine sampling, measurement, analysis, confounding where relevant, and transparency. For each judgment, provide evidence and explain its likely consequence for interpretation. Distinguish ‘not reported’ from ‘not done.’ Do not create an overall numerical quality score."
+
+6. Develop a consistent thematic codebook
+"Analyze findings relevant to [review question] and develop a codebook with [5–8] initial themes. For each theme, give a definition, inclusion rule, exclusion rule, example passage with source location, and supporting paper IDs. Separate themes found in the evidence from categories suggested by my question. Apply the codebook to this batch, recording contradictory findings and unclear cases. When processing later batches, log any codebook changes and identify earlier papers that require recoding."
+
+7. Write a thematic synthesis
+"Using the evidence matrix and accessible source texts, write a [600-word] synthesis of [selected theme]. Organize it around claims, agreements, disagreements, and boundary conditions rather than summarizing one paper per paragraph. Support each substantive claim with paper IDs and locations. Explain whether apparent agreement comes from independent studies or overlapping samples. Include findings that challenge the dominant interpretation. End with what this collection supports, what remains uncertain, and which uncertainties arise from missing information."
+
+8. Compare research methods across the collection
+"Map how researchers have studied [phenomenon]. Group studies by design, sampling approach, data source, measurement, and analysis. Report counts with explicit denominators, using unique studies rather than publications where identifiable. Explain which methods address which kinds of questions and which claims exceed their designs. Identify underused approaches within this collection, supported by the method distribution. Do not describe an approach as absent from the entire field based only on these papers."
+
+9. Compare theories and conceptual frameworks
+"Identify the theories or frameworks explicitly named in the supplied papers about [topic]. Create a table showing framework, how each paper defines it, constructs used, proposed relationships, operational measures, and supporting IDs. Distinguish theories actually tested from those mentioned only as background. Compare where frameworks overlap, conflict, or explain different levels of the phenomenon. Label any framework connection you infer as your interpretation, and identify evidence needed before treating it as established."
+
+10. Investigate contradictory findings
+"Find studies that appear to disagree about [specific relationship or finding]. For each pair or cluster, compare population, context, construct definitions, measures, design, timing, analysis, and reported uncertainty. Classify the disagreement as directly comparable, partly comparable, or insufficiently comparable, with reasons. Do not treat a statistically significant result and a nonsignificant result as automatically contradictory. Separate explanations supported by the papers from plausible explanations requiring further investigation."
+
+11. Compare numerical findings responsibly
+"Extract numerical results for [specific outcome/relationship]. Show paper ID, study design, population, outcome definition, measurement scale, time point, sample size, estimate, uncertainty interval, and adjustment variables where reported. Mark results that are not directly comparable. Do not invent missing statistics, rank evidence using p-values alone, or calculate a pooled effect without a justified analysis plan. Summarize the direction and uncertainty of findings while explaining the main barriers to comparison."
+
+12. Build an evidence-linked knowledge map
+"Create a knowledge map for [topic] using the supplied evidence. First produce a node table of concepts and definitions. Then produce an edge table containing source concept, relationship, target concept, supporting paper IDs, evidence location, and relationship type: theoretical proposal, observed association, or causal claim made by the authors. Distinguish author claims from what the study design supports. Generate a compact Mermaid diagram of the strongest connections, keeping disputed and inferred links visibly labeled."
+
+13. Trace how the literature developed
+"Build a chronological account of how this collection approaches [concept/question]. Identify changes in definitions, theories, methods, populations, and findings across [date range]. For each apparent shift, cite the papers supporting it and any counterexamples. Distinguish publication year from data-collection period when available. Avoid declaring a paper the ‘first,’ ‘seminal,’ or a field-wide turning point without sufficient evidence. End with a concise account of development within this collection and its coverage limitations."
+
+14. Identify defensible research-gap candidates
+"Propose [five] research-gap candidates relevant to [topic and setting]. For each, show what the supplied studies establish, what remains unresolved, supporting paper IDs, and evidence that could weaken the proposed gap. Classify it as theoretical, methodological, empirical, contextual, or contradictory evidence. Distinguish author-stated gaps from your inferences. Describe gaps as provisional within this collection. Give a targeted database search string for checking each candidate; do not pretend those searches have been run."
+
+15. Turn a gap into a feasible research question
+"Using gap candidate [number/text], propose three research questions suitable for a [master’s/doctoral/postdoctoral] project with [time, resources, access, and skills]. For each, specify the intended contribution, relevant population or setting, key constructs, feasible design, data needed, analysis approach, and main limitations. Explain how answering it would address the documented uncertainty. Cite the papers motivating it. Do not invent a required sample size; explain what information would be needed to justify one."
+
+16. Draft a structured literature-review section
+"Draft a [1,200-word] literature-review section answering [review question] for [discipline and audience]. Use this agreed structure: [headings]. Build the argument from the supplied evidence matrix and accessible source texts, integrating theory, findings, methodological limitations, and unresolved questions. Use synthesis paragraphs rather than consecutive paper summaries. Attach source IDs and locations to substantive claims. Use cautious wording where evidence is limited. Finish with a justified transition to [my proposed study], without claiming unverified novelty."
+
+17. Audit every claim and citation
+"Audit this draft against the supplied papers: [paste draft]. Break substantive sentences into checkable claims. Return claim, cited paper ID, exact supporting location, verdict—supported, partly supported, unsupported, contradicted, or inaccessible—and a proposed correction. Check quotations, statistics, causal language, and whether citations support the whole sentence. Then match in-text citations to references and format confirmed metadata in [citation style]. If browsing is available, verify bibliographic details against publisher or DOI records; otherwise mark external verification pending."
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
