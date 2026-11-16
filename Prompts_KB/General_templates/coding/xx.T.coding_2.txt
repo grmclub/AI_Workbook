@@ -298,5 +298,40 @@ Stop telling Claude:
 "Connect [my newsletter signup form] to [endpoint] using the attached API documentation and project files. The request fields are [email and name], and success should [show a confirmation message]. Follow the project’s existing request pattern. Handle validation, pending requests, duplicate submissions, documented API errors, and network failures. Keep credentials that must remain private out of browser code. If the API contract is incomplete, ask for the missing details. Implement the integration and give me a manual test checklist."
 
 -------------------------------------------------
+🚨 BREAKING: GOODBYE EXPENSIVE CODING BOOTCAMPS.
+Claude can now teach you Python like a $250/hour mentor.
+Use these 10 Claude prompts to learn Python faster and build real projects 👇
+
+1. Build a Python learning plan around a real goal
+"Be my Python mentor. I want to build [a personal expense tracker] and can study [30 minutes daily] for [14 days]. My experience is [complete beginner]. First, give me 3 short diagnostic tasks to check my starting level. Wait for my answers, then create a daily plan. Each day must include one concept, one coding exercise, and one small addition to my project. Define what I should be able to do independently by the end."
+
+2. Set up Python and run your first program
+"Help me install and run Python on [Windows/macOS/Linux] using [VS Code/your recommended beginner editor]. Assume I have never used a terminal. Start by checking what is already installed. Give me one step at a time, explaining where to click or type and what success looks like. Once setup works, help me create and run a script that asks my name and prints a greeting. Troubleshoot using the exact output I share."
+
+3. Understand code before memorizing syntax
+"Teach me [variables/conditions/loops/lists] through a small shopping-receipt example. Use at most 12 lines of Python and introduce only one unfamiliar concept at a time. Before explaining the output, ask me to predict it. After I answer, trace the code in a table showing how values change. Then ask me to modify one requirement, such as applying a discount above [₹1,000]. Wait for my attempt before showing a solution."
+
+4. Practice with exercises that adapt to your mistakes
+"Train me on Python [loops and lists] using [student marks] examples. Give me 5 exercises, one at a time, increasing difficulty only after I succeed. For each, include sample input, expected output, and one edge case. Review my attempt before continuing. If I struggle, give progressively clearer hints before revealing the answer. After exercise 5, give me a fresh challenge targeting the mistake I repeated most."
+
+5. Debug an error without losing the learning opportunity
+"Help me debug this Python code: [paste code]. My input was [input], I expected [result], and I got [paste full error or actual output]. First, identify the relevant line and explain the problem in beginner-friendly language. Ask me one question that helps me find the cause. After my attempt, show the smallest necessary fix and explain why it works. Finish with one similar debugging exercise. Ask for missing details instead of guessing."
+
+6. Learn to turn messy code into useful functions
+"Teach me to refactor this working Python script: [paste code]. Its purpose is [calculate a shopping bill]. First, identify repeated logic and code that mixes calculation with input or printing. Propose simple functions with clear inputs and return values. Guide me through extracting one function at a time while preserving behavior. Use plain functions; introduce classes only if I request them. Finish by asking me to add [a discount calculation] independently."
+
+7. Build your first complete Python project
+"Guide me through building a command-line expense tracker. I know [variables, lists, loops, and functions]. The first version must add an expense with date, category, and amount; list expenses; show the total; and save/load a CSV file. Use Python’s standard library. Break the build into small working milestones. Start with adding and listing expenses in memory. Give me a task and acceptance checks, then wait for my code before helping with the next milestone."
+
+8. Automate a repetitive spreadsheet task
+"Teach me to build a Python CSV-cleaning script for [inventory.csv] with columns [sku, product, quantity, price]. It should trim surrounding whitespace, validate numeric fields, and flag missing values. Ask me how duplicates should be identified before removing any. Use the csv module and write cleaned data and rejected rows to separate new files. Start with 5 fictional sample rows containing deliberate mistakes. Guide me step by step and explain each cleaning decision."
+
+9. Learn testing using code you already wrote
+"Teach me to test this Python function: [paste function]. Its intended behavior is [describe valid inputs, outputs, and invalid-input handling]. Before writing tests, check whether that behavior is clear. Help me create a table of 5 useful cases covering normal inputs, boundaries, and invalid inputs. Ask me to predict each result, then guide me through writing unittest tests. Explain failures, distinguishing a bug in the function from an incorrect test expectation."
+
+10. Turn a finished project into portfolio work
+"Review my beginner Python project: [paste files or attach project]. It is intended for [user] to solve [specific problem]. Check correctness, readability, input handling, and setup instructions. Prioritize the 3 most useful improvements and explain each with a concrete example from my code. Guide me through fixing them one at a time. Then help me write a README with setup, example usage, and limitations. Finish with 5 interview questions about my implementation, waiting for each answer."
+
+
 -------------------------------------------------
 -------------------------------------------------
