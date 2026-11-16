@@ -333,6 +333,38 @@ Here are 7 prompts to turn Claude into your personal language tutor👇
 "Write a short, interesting story in [LANGUAGE] for level [LEVEL] about [TOPIC]. Keep approximately 90% of the vocabulary understandable from my level or context. Highlight eight useful expressions, explain them after the story, and ask five comprehension questions one at a time. Finally, help me retell the story in my own words and correct my version."
 
 -------------------------------------------------
+🚨 BREAKING: Claude can now help with Language Learning.
+You can use it to learn any language like a $200/hour Language Tutor.
+Here are 09 prompts that you should try:
+
+01. Build a learning plan around your actual ability
+"I’m learning [language] to [specific goal, e.g., handle everyday conversations during a trip]. My native language is [language], and I can study [minutes] daily. Check my starting level with 5 short questions, one at a time, beginning with a simple introduction. Adjust the difficulty after each answer. Then create a 7-day plan with one practical outcome, one short exercise, and one review task per day. Start by asking your first question."
+
+02. Rehearse a real conversation
+"Role-play a [situation, e.g., café visit, hotel check-in, job interview] in [language], using expressions common in [country/region]. I’m a [beginner/intermediate] learner. You play [role]; I play [role]. Keep your turns to 1–2 sentences and wait for my response. If I get stuck, offer a small hint. After 6 exchanges, explain my 3 most useful corrections in [native language], then replay the hardest exchange."
+
+03. Learn vocabulary you’ll actually use
+"Teach me 8 useful words or short phrases in [language] for [specific activity, e.g., cooking dinner with friends]. My level is [level]. For each, give the meaning in [native language], one natural example, and any essential detail such as a noun’s article or a verb’s usual preposition. Teach them in two groups of four. After each group, test me one item at a time without showing the answers."
+
+04. Fix one confusing grammar point
+"I keep confusing [specific grammar point, e.g., Spanish ser vs. estar] in [language]. Explain the difference in plain [native language], using no more than 100 words and 3 contrasting examples. Then give me 5 short practice questions, one at a time. After each answer, explain the relevant clue. If I miss one, give me a similar question in a new situation before increasing the difficulty."
+
+05. Practice difficult sounds and pronunciation
+"Help me practice the pronunciation of [5 words or a short sentence] in [language], using [regional variety]. My native language is [language]. Break the words into syllables, show stress or tone where relevant, and explain mouth and tongue placement for the hardest sounds. Label any spelling-based pronunciation guides as approximate. Give me a 5-minute routine that builds from individual sounds to words and the full sentence."
+
+06. Turn your interests into reading practice
+"Write a short text in [language] about [specific interest, e.g., football transfers, skincare, street food] for a [level] learner. Use about 120 words, short paragraphs, and mostly familiar vocabulary. Add a glossary of 5 useful expressions with meanings in [native language]. Don’t translate the whole text yet. Ask me 3 comprehension questions, one at a time, then help me summarize it in 2 sentences."
+
+07. Improve your writing without skipping the learning
+"Be my writing coach for [language]. I’m a [level] learner writing a [message/email/journal entry] for [audience], with a [casual/polite/professional] tone. Here’s my draft: [paste text]. First, identify up to 3 important errors and give hints so I can fix them myself. Wait for my revision. Then show a corrected version that preserves my meaning and voice, explain the changes in [native language], and give me one practice sentence."
+
+08. Move from literal translations to natural expressions
+"I want to express this in [language]: [sentence or intention in native language]. The situation is [context], and I’m speaking to [person/relationship] in [country/region]. Show a natural everyday version and a more polite alternative. Explain why a word-for-word translation might sound awkward, if applicable. Then give me 3 similar situations, one at a time, and ask me to respond using the same expression pattern."
+
+09. Turn repeated mistakes into a personal review lesson
+"Here are mistakes and corrections from my recent [language] practice: [paste 5–10 examples]. Group them into up to 3 recurring patterns and explain each briefly in [native language]. Create a 6-question review using new examples: sentence completion, translation, and short replies. Ask one question at a time and hide answers until I respond. Revisit missed patterns later in this session. Finish with a compact review list I can paste into my next practice chat."
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
