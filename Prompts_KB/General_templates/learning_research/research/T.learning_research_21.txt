@@ -272,7 +272,7 @@ Then explain the 5 most important connections in simple language and identify ar
 4. Find Research Gaps Worth Investigating
 Prompt:
 Review all supplied papers about [TOPIC] specifically to identify research gaps.
-Do not simply repeat the “future research” sections of individual papers. Look for gaps that emerge when the papers are compared together.
+Do not simply repeat the "future research" sections of individual papers. Look for gaps that emerge when the papers are compared together.
 Search for:
 • Populations rarely studied
 • Countries/regions missing from research
@@ -360,7 +360,7 @@ Look for ideas, findings, theories, methods, or papers that:
 Create a list of 10–15 influential contributions.
 For each explain:
 Contribution | Originating paper(s) | Why it mattered | How later studies used/challenged it | Current status of the idea
-Finish by showing how these contributions connect into an intellectual “family tree.”
+Finish by showing how these contributions connect into an intellectual "family tree."
 
 10. Turn the Literature Into a Future Research Agenda
 Prompt:
@@ -381,6 +381,28 @@ Quick wins | Medium-term studies | Ambitious/high-impact studies
 End with a short explanation of how completing these projects would advance the overall field.
 
 -------------------------------------------------
+##ChatGPT can act as an Academic Research Supervisor
+
+1️. Refining Your Research Topic and Title
+"Act as an experienced academic research supervisor with expertise in [discipline]. Critically evaluate my proposed research topic: [insert topic]. Assess its clarity, originality, academic significance, scope, and feasibility for a [master's thesis/doctoral dissertation/research article]. Identify potential weaknesses, overly broad concepts, and areas requiring refinement. Suggest five improved research titles, explaining the strengths and limitations of each. Recommend the most promising option based on researchability, available resources, and potential scholarly contribution. Ask me relevant questions before making recommendations if essential information is missing."
+
+2️. Identifying Research Gaps
+"Act as a critical academic research supervisor and help me identify meaningful research gaps in [research topic] within [discipline]. Analyze the scholarly articles, literature review, or research summaries I provide: [paste or upload sources]. Examine recurring themes, conflicting findings, methodological limitations, underexplored populations, theoretical weaknesses, and unanswered questions. Distinguish genuine research gaps from topics that are merely unfamiliar to me. Identify five potential gaps, explain the evidence supporting each, assess their significance and feasibility, and suggest a possible research question for each. Cite only verifiable sources, distinguish established findings from tentative interpretations, and clearly indicate where further literature searching is necessary."
+
+3️. Developing Research Questions and Objectives
+"Act as an experienced academic research supervisor and help me develop rigorous research questions and objectives for my study on [research topic]. My research problem is [describe problem], and my intended research context is [population, setting, or discipline]. Evaluate whether the problem is sufficiently focused, significant, and researchable. Formulate one overarching research question, three to five specific research questions, one general research objective, and corresponding specific objectives. Ensure that the questions and objectives are logically aligned, clearly worded, feasible, and appropriate for [qualitative/quantitative/mixed-methods] research. Explain the rationale behind each question, identify potential ambiguities, and suggest improvements."
+
+4️. Structuring and Critically Reviewing the Literature
+"Act as a senior academic research supervisor and critically review the literature related to [research topic] using the scholarly sources I provide: [paste or upload articles, references, or literature review draft]. Identify major themes, theoretical perspectives, methodological trends, areas of agreement, contradictory findings, and unresolved debates. Propose a coherent thematic structure for my literature review, explaining how each section contributes to the research problem. Demonstrate how to synthesize studies rather than summarize them individually, and identify opportunities for critical comparison and evaluation. Suggest appropriate transitions between sections, highlight weaknesses in the existing evidence, and explain how the review can establish the rationale for my study. Do not invent references, findings, or citations."
+
+5️. Selecting an Appropriate Research Methodology
+"Act as an experienced academic research methodology supervisor and help me design a rigorous methodology for my study on [research topic]. My research questions are [insert questions], my target population is [describe population], and my research context is [describe setting]. Compare the suitability of qualitative, quantitative, and mixed-methods approaches, considering my research objectives, practical constraints, and philosophical assumptions. Recommend an appropriate research design, sampling strategy, sample size justification, data collection instruments, and data analysis procedures. Explain the rationale for each methodological decision, identify potential threats to validity, reliability, or trustworthiness, and address ethical considerations. Conclude with a coherent methodology outline suitable for a [master's thesis/doctoral dissertation/research article]."
+
+6️. Analyzing and Interpreting Research Findings
+"Act as a critical academic research supervisor and help me analyze and interpret the findings of my study on [research topic]. My research questions are [insert questions], my methodology is [describe approach], and my research data or preliminary results are [paste or upload data]. Recommend appropriate analytical procedures based on the type and quality of data provided. Identify meaningful patterns, relationships, themes, or differences, and explain how they address each research question. Distinguish descriptive results from interpretations, examine alternative explanations, and discuss unexpected or contradictory findings. Help me connect the findings to relevant theories and verified previous studies, identify methodological limitations, and develop evidence-based conclusions without overstating the results or inventing evidence."
+
+7️. Reviewing and Strengthening Your Research Thesis
+"Act as a rigorous but constructive academic research supervisor and critically evaluate my [master's thesis/doctoral dissertation/research paper] on [research topic]. Review the draft I provide: [paste or upload manuscript]. Assess the clarity of the research problem, alignment between research questions and objectives, depth of the literature review, methodological rigor, quality of analysis, strength of arguments, coherence of conclusions, and overall academic writing. Identify major weaknesses, logical inconsistencies, unsupported claims, structural problems, and areas requiring stronger evidence. Organize your feedback into major revisions, minor revisions, and specific actionable recommendations, referring to relevant sections or passages. Suggest improvements while preserving my original arguments and academic voice. Finish with five challenging questions an academic supervisor or thesis examiner might ask about my research."
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
