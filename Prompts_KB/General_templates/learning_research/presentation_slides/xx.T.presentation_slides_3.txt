@@ -380,7 +380,7 @@ Explain the purpose of each section and how it connects to the next. Adapt the s
 2️. DEVELOP A STRONG INTRODUCTION
 Your introduction should help the audience understand what the seminar is about and why it matters.
 PROMPT:
-Develop an outline for the introduction of my academic seminar titled “[INSERT TOPIC].”
+Develop an outline for the introduction of my academic seminar titled "[INSERT TOPIC]."
 Include:
 * Background and context
 * Importance of the topic
@@ -394,7 +394,7 @@ Do not invent statistics, research findings, or references.
 3️. ORGANIZE THE LITERATURE REVIEW
 Use this when your seminar requires you to review existing research.
 PROMPT:
-Help me create a thematic literature review outline for an academic seminar on “[INSERT TOPIC].”
+Help me create a thematic literature review outline for an academic seminar on "[INSERT TOPIC]."
 Using the studies and sources I provide, group the literature into relevant themes.
 For each theme, identify:
 * Major concepts and theories
@@ -409,7 +409,7 @@ Do not invent studies, citations, or research findings.
 4️. STRUCTURE THE MAIN DISCUSSION
 A good seminar should explain ideas logically rather than present disconnected facts.
 PROMPT:
-Create a detailed outline for the main discussion of my academic seminar on “[INSERT TOPIC].”
+Create a detailed outline for the main discussion of my academic seminar on "[INSERT TOPIC]."
 Identify the 4–6 most important themes or arguments that should be discussed.
 For each theme, provide:
 1. A suggested heading.
@@ -453,7 +453,7 @@ Base your suggestions on the topic and the sources I provide. Do not present uns
 7️. PLAN THE CONCLUSION AND RECOMMENDATIONS
 Your conclusion should bring the presentation together without introducing unrelated ideas.
 PROMPT:
-Develop a conclusion outline for my academic seminar on “[INSERT TOPIC].”
+Develop a conclusion outline for my academic seminar on "[INSERT TOPIC]."
 Summarize the main arguments, explain their significance, and show how they answer the seminar’s central question or achieve its purpose.
 Where appropriate, suggest evidence-based recommendations, implications for practice, and areas for future research.
 Distinguish conclusions supported by the available evidence from suggestions requiring further investigation. Do not introduce new findings or unsupported claims.
@@ -510,7 +510,7 @@ Present the outline in a clear hierarchy of headings, subheadings, and bullet po
 
 💡 EXAMPLE: A MATERIALS ENGINEERING SEMINAR
 Suppose your seminar topic is:
-“Recent Advances in Sustainable Polymer Electrolytes for Energy Storage Applications.”
+"Recent Advances in Sustainable Polymer Electrolytes for Energy Storage Applications."
 Your outline might follow this structure:
 1. Introduction
 * Background to energy storage
@@ -540,11 +540,51 @@ Your outline might follow this structure:
 8. References and Questions
 This is an illustrative outline, not a verified summary of the latest research. A real seminar should support its technical claims with current, credible literature.
 
-
-
-
-
 -------------------------------------------------
+STOP TELLING CLAUDE:
+
+"MAKE ME A PRESENTATION."
+That’s why your slides often end up looking GENERIC. Better presentations start with BETTER PROMPTS.
+
+Use these 12 prompts instead to see the real magic.
+(🔖 Save now. Create professional slides later) See less
+
+1. Turn your topic into a cinematic story
+"Create an editable 8-slide presentation about [topic] for [audience], leading them toward [desired action]. Structure it as: opening scene, everyday struggle, rising stakes, surprising insight, solution reveal, how it works, believable outcome, next step. Use charcoal backgrounds, oversized white titles, and [accent color]. Give each slide one dominant image with consistent lighting and style. Limit visible text to 20 words per slide. Use my attached notes for facts; move explanations into speaker notes."
+
+2. Build a bold, one-idea keynote
+"Build an editable 7-slide keynote that makes [audience] remember this idea: [core message]. Open with a provocative statement, challenge the usual belief, reveal the overlooked problem, explain my idea, show an example, address one objection, and close with [action]. Use warm ivory backgrounds, enormous black typography, and [accent color]. Alternate typography-led slides with simple visual metaphors. Keep headlines under eight words and each slide under 25 words. Base examples on [source material]."
+
+3. Make your insights look like an editorial magazine
+"Turn [research or topic notes] into an editable 8-slide presentation for [audience]. Use this sequence: cover, central question, three key insights on separate slides, implications, recommendation, closing takeaway. Design it like an independent magazine: cream paper, black serif headlines, [accent color], cropped photography, and small numbered captions. Vary the layouts while keeping margins consistent. Give each insight a headline that states the finding. Keep slides under 35 words; place supporting detail and sources in notes."
+
+4. Show a transformation people can see
+"Create an editable 7-slide proposal showing how [current situation] becomes [desired situation] through [solution]. Include: current experience, three friction points, root cause, proposed change, before-and-after comparison, transition steps, decision needed. Use the same scene or diagram for both states so the difference is immediately visible. Make the current state muted gray and the future state [brand color]. Keep each slide under 30 words. Use only supplied evidence for benefits; label expected outcomes as estimates."
+
+5. Turn a spreadsheet into a visual argument
+"Using [attached dataset], build an editable 6-slide presentation answering [business question] for [audience]. Include: answer upfront, overall trend, biggest comparison, important exception, practical implication, recommended action. Use one chart per evidence slide, with a headline stating its takeaway. Highlight the relevant data in [accent color] and mute the rest. Label values directly and retain units, dates, sources, and honest scales. Keep charts editable. Flag missing data and distinguish observed patterns from explanations."
+
+6. Launch a product like a reveal
+"Create an editable 8-slide launch presentation for [product] aimed at [audience]. Sequence: intriguing teaser, customer frustration, product reveal, main benefit, three-step demonstration, distinctive feature, supplied proof, [call to action]. Use [product images] consistently, generous empty space, and a palette drawn from [brand colors]. Give the reveal a full-slide product image; show features through close-ups with editable labels. Keep slides under 25 words. Use only supplied specifications, pricing, and testimonials; mark missing proof clearly."
+
+7. Explain a complex idea with one evolving diagram
+"Explain [complex concept] to [beginner audience] in an editable 7-slide deck. Start with a familiar analogy, introduce the main parts, show their connections, demonstrate one example, reveal a common mistake, explain the correction, and recap. Use one diagram that builds across the slides, keeping each component in the same position and color. Add hand-drawn arrows and short labels. Define unfamiliar terms in plain language. Keep slides under 30 words and put technical depth in speaker notes."
+
+8. Make a pitch people can follow
+"Build an editable 9-slide pitch for [idea or business] aimed at [decision-makers], asking for [specific commitment]. Cover: customer problem, current alternatives, solution, customer experience, market evidence, business model, supplied traction, execution plan, ask. Use white backgrounds, dark navy type, and [accent color]. Give every slide one clear claim and one supporting visual. Keep visible text under 35 words. Use my materials for numbers and evidence; label assumptions and missing information. Put detailed financials in notes."
+
+9. Turn a lesson into a visual workshop
+"Create an editable 8-slide workshop teaching [skill] to [audience] in [duration]. Include: outcome, opening challenge, simple mental model, worked example, guided practice, independent exercise, common mistakes, takeaway card. Use a cut-paper style with flat shapes, [two colors], and large readable labels. Make exercise instructions specific enough to follow without extra explanation. Include answer guidance and facilitator timing in speaker notes. Keep teaching slides under 35 words and activity slides under 50."
+
+10. Make a strategy feel concrete
+"Translate [strategy notes] into an editable 8-slide presentation for [team]. Cover: destination, reason for change, current position, three priorities, sequence of work, ownership, success measures, immediate next step. Use a clean architectural drawing style: off-white background, fine charcoal lines, and [accent color]. Show the roadmap as three connected phases with labeled dependencies. Keep task names, dates, owners, and status labels editable. Use supplied commitments; mark undecided items ‘TBD.’ Keep each slide focused on one planning question."
+
+11. Present your work like a gallery exhibition
+"Build an editable 8-slide portfolio presentation for [creative field], aimed at [client or audience]. Include: cover, creative point of view, three project spotlights, process, demonstrated impact, invitation to collaborate. Use [attached work] as the visual focus, with generous margins and discreet captions. Give each project a large image plus three short labels: challenge, creative decision, result. Choose backgrounds that complement the work. Keep slides under 30 words and place fuller case studies in speaker notes."
+
+12. Rescue an existing text-heavy deck
+"Redesign [attached presentation] for [audience] and [presentation goal]. First identify its core argument, repeated content, and unsupported claims. Then rebuild it as [number] editable slides, each with one message and a headline stating the takeaway. Turn processes into diagrams, comparisons into aligned columns, and numerical evidence into charts. Use [brand colors] and consistent typography. Aim for 30 visible words per slide; move necessary detail into notes. Preserve facts, qualifications, and sources. Flag contradictions for review."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
