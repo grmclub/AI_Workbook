@@ -164,6 +164,38 @@ PHASE 4: The Final Recruiter Test
 I'll reread the resume as a skeptical recruiter, compare it against the job description, identify remaining weaknesses, remove generic language, check ATS readability, and give you the final version plus the five questions I would expect an interviewer to ask based on it.
 
 -------------------------------------------------
+Smart AI users use these 9 prompts instead to create a resume that actually stands out 👇
+
+"Build my resume"
+"Write my CV"
+"Fix my resume"
+
+1. Find the proof this employer is looking for
+Read this job posting [paste posting]. Separate the stated must-haves from the nice-to-haves. Then pick 3 responsibilities the employer emphasizes. For each one, suggest a specific example I could look for in my own experience, such as a problem I solved, a process I improved, or a tool I used. Turn those suggestions into 3 questions I can answer.
+
+2. Build a resume from a five-question interview
+Help me build a resume for [target job] from these rough notes [paste work, education, and projects]. Ask me 5 questions, one at a time, about details that would strengthen my application. After I answer, draft the resume using my actual job titles and dates. Put the most relevant experience first within each section and mark any missing details [confirm].
+
+3. Make one achievement work for different jobs
+Rewrite this achievement [paste one accomplishment] for these roles [role A] and [role B]. Write one bullet for each role. Lead with the part of the achievement that matters most to that employer. Keep the facts the same in both versions. Under each bullet, tell me which skill it highlights and why it fits that role.
+
+4. Turn before-and-after results into a resume bullet
+I changed [process or task] from [before] to [after] over [time period]. My contribution was [what I did]. Calculate the change and show the math separately. Then write one bullet using whichever is clearer: the original numbers or the percentage. If the results came from a team effort, describe my contribution accurately. Ask me to clarify any missing numbers before calculating.
+
+5. Show what changed when you got promoted
+Format my time at [company] using these roles and dates [paste titles and dates] and achievements [paste notes for each role]. List the newest role first under the company name. Use up to 3 bullets per role. Show how my responsibilities grew by pointing to specific changes in scope, ownership, or complexity. Assign each achievement to the role where it happened.
+
+6. Turn a project into evidence of experience
+Create a resume entry for this [school, volunteer, freelance, or personal project] using [goal, my contribution, tools, deliverable, and outcome]. I’m applying for [target role]. Write a clear project title and 2 bullets that show what I personally did and what I delivered. If the outcome is unknown, describe the finished work and who it was for.
+
+7. Tailor your resume without rewriting every line
+Here’s my resume [paste resume] and the job posting [paste posting]. Make the 5 edits that would most improve my fit for this specific opening. For each edit, show the original wording, the exact replacement or move, and the job requirement it supports. Keep my job titles, dates, and metrics accurate. Flag any requirement for which you found no evidence.
+
+8. Catch claims you’d struggle to explain in an interview
+Review these resume bullets [paste bullets]. Flag up to 5 phrases a recruiter might ask me to prove, especially claims about leadership, savings, or business impact. For each phrase, ask the interview question it invites and tell me what evidence would support it. If my notes [paste supporting details] don’t back it up, suggest a more precise version.
+
+9. Check what survives when you copy your resume as plain text
+Here’s the text copied from my final resume file [paste copied text]. Check whether my name and contact details, section headings, job titles, employers, dates, and bullets still appear in the right order. Quote any text that looks scrambled, duplicated, or attached to the wrong job. Give me a short list of what to fix in the original file, in priority order.
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
