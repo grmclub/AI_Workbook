@@ -261,6 +261,42 @@ Use these 7 prompts instead and build dashboards that actually look premium: �
 "Act as a senior dashboard design and development specialist. Map my complete 30-minute dashboard build for [MY APP OR PRODUCT], covering the layout, component hierarchy, charts, dark mode, navigation, loading states, and key interactions. Give me the exact build sequence and a realistic assessment of how premium the final result can look within the time limit."
 
 -------------------------------------------------
+## You're actually treating a senior AI like a junior intern.
+Here are 9 prompts you can copy and paste directly:
+
+Stop telling Claude:
+
+"do this."
+"write code."
+"fix this error."
+
+1. Understand a project before changing it
+"Trace how [a user submits the checkout form] works in this project. Start at the screen, follow the relevant functions, and end at the database or external service. Reference the actual files and function names you find. Explain each step in plain English, identify where validation and errors are handled, and tell me which files would need changing to add [discount codes]. Don’t modify anything yet. Flag any files you need but cannot access."
+
+2. Build a feature with a clear definition of done
+"Add [a searchable product list] to my [React] app using the attached project files. Users must be able to [search by name, filter by category, and clear filters]. Include loading, empty, and error states. Follow the project’s existing components and styling; avoid new dependencies unless necessary. First identify the files involved and any blocking questions, then implement the feature. Finish with the changed files and a short checklist I can use to verify each requirement."
+
+3. Diagnose an error from evidence
+"Help me fix this error: [paste the complete error]. It happens when I [exact steps], but I expected [result]. My stack is [language/framework/version], and the relevant code is attached. Trace the failure through the code and distinguish confirmed facts from possible causes. If the cause is uncertain, give me the smallest diagnostic check to run first. Once supported by evidence, provide a minimal fix, explain why it works, and show how to verify the original failure is gone."
+
+4. Turn a screenshot into a working screen
+"Recreate the attached [dashboard] screenshot inside my existing [framework] project. Inspect the current styling and reusable components first. Match the layout, spacing, typography, colors, and alignment as closely as the provided assets allow. Make it usable on mobile, with keyboard-accessible controls and visible focus states. Use existing icons and assets where available; identify missing assets instead of inventing them. Implement the screen, connect [specified interactions], and explain any visual differences that remain."
+
+5. Refactor messy code without changing its behavior
+"Refactor [attached function/file] to make [the nested conditions and repeated validation] easier to understand. Preserve its public interface, return values, error behavior, and existing edge cases. First summarize its current behavior and identify the specific complexity you’ll remove. Then make the smallest useful refactor, following the project’s conventions. Avoid unrelated cleanup or new dependencies. Run existing relevant tests if available, and explain any behavior you could not verify."
+
+6. Write tests that catch a real bug
+"Write regression tests for this bug: [submitting the payment form twice creates two orders]. Expected behavior: [only one order is created while a request is pending]. Use the project’s existing test framework and the attached implementation. Test observable behavior rather than private helper functions. Cover the original failure, a successful submission, a failed request, and retrying afterward. Keep mocks limited to external boundaries. Explain what each test proves, and run the tests if your environment supports it."
+
+7. Find what makes a page slow
+"Investigate why [the product search page] takes [four seconds] after [typing a search term]. Relevant files and any timing information are attached. Follow the path from the interaction to rendering and network requests. Rank likely bottlenecks using evidence from this code, and tell me what measurement would confirm each one. Implement the smallest supported improvement. Preserve existing behavior, and report measured results if available; otherwise give me exact steps to compare before and after."
+
+8. Review a change before shipping it
+"Review the attached diff for [adding subscription cancellation]. Intended behavior: [access continues until the paid period ends]. Check for incorrect behavior, missing permission checks, data loss, unhandled failures, and regressions in existing flows. Report only actionable findings, ordered by severity. For each, include the file and line when available, a concrete failure scenario, and a suggested fix. Separate confirmed issues from questions. Skip cosmetic preferences, and state which behavior still needs testing before release."
+
+9. Connect a screen to an API properly
+"Connect [my newsletter signup form] to [endpoint] using the attached API documentation and project files. The request fields are [email and name], and success should [show a confirmation message]. Follow the project’s existing request pattern. Handle validation, pending requests, duplicate submissions, documented API errors, and network failures. Keep credentials that must remain private out of browser code. If the API contract is incomplete, ask for the missing details. Implement the integration and give me a manual test checklist."
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
