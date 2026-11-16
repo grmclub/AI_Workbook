@@ -421,6 +421,48 @@ Finish with a practical launch checklist covering mobile fallbacks, CTAs, assets
 Deliver a polished, fast, accessible, conversion-focused website that is ready for real users—not just an impressive demo."
 
 -------------------------------------------------
+🚨 8 Claude Prompts to build your dream website 👇
+
+1. The $10K Website Look
+Your website could look like it came from a high-end design agency.
+PROMPT:
+Act as an elite website designer and developer. Build a stunning, interactive website for [type of business] using Claude Artifacts. Give it the polished look of a $10K custom design, with premium typography, beautiful layouts, smooth animations, and compelling copy. Create a working, mobile-friendly preview I can customize.
+
+2. The 3-Second Hook
+Your website has seconds to make visitors want to stay.
+PROMPT:
+Act as a world-class website conversion designer. Create an unforgettable homepage hero section for [business] that grabs attention in the first 3 seconds. Include a powerful headline, irresistible subheadline, visually impressive layout, and clear call-to-action. Build an interactive preview that looks exceptional on desktop and mobile.
+
+3. The Sales Page Machine
+Turn your homepage into your hardest-working salesperson.
+PROMPT:
+Act as an expert conversion copywriter and website designer. Create a compelling homepage for [offer] targeting [audience]. Include an attention-grabbing hook, relatable customer problems, persuasive solutions, authentic trust-building elements, and a powerful call-to-action. Build the complete page with a premium design that encourages visitors to take action.
+
+4. The Dream Portfolio Builder
+Your work deserves a website that makes people stop scrolling.
+PROMPT:
+Act as an award-winning portfolio designer. Create a visually stunning portfolio website for [profession]. Showcase my projects with impressive layouts, elegant animations, captivating project descriptions, and a standout contact section. Make the entire experience feel professional, memorable, and effortless to navigate.
+
+5. The Client Booking Magnet
+Make your services look premium before clients even contact you.
+PROMPT:
+Act as a premium service website designer and conversion specialist. Build an irresistible service page for [service] priced at [$X]. Create an attention-grabbing headline, compelling service benefits, transparent pricing details, authentic credibility elements, and a frictionless booking section. Make the page feel trustworthy, polished, and easy to navigate.
+
+6. The Instant Trust Builder
+Make complete strangers feel like they already know your business.
+PROMPT:
+Act as an expert brand storyteller and website designer. Create an engaging About page for [business] using the facts I provide. Write a memorable introduction, compelling founder story, authentic mission statement, and relatable reasons to work with us. Design the page with premium visuals, beautiful typography, and a personal touch that helps visitors connect.
+
+7. The Mobile Makeover
+Your website might look amazing on a laptop and terrible on a phone.
+PROMPT:
+Act as a senior mobile UX designer and frontend developer. Analyze the website code I provide and transform it into a beautiful, mobile-first experience. Fix awkward layouts, oversized text, tiny buttons, broken spacing, and unnecessary performance bottlenecks. Provide improved code with responsive layouts, touch-friendly navigation, and smooth interactions.
+
+8. The Ultimate Copywriter
+Stop staring at a blank page wondering what your website should say.
+PROMPT:
+Act as an elite website copywriter and brand strategist. Write the complete website copy for my [type of business] targeting [audience]. Create a powerful homepage headline, compelling About section, persuasive service descriptions, useful FAQs, and irresistible calls-to-action. Keep the tone natural, confident, and human. Make every word serve a purpose and use placeholders wherever real business details are needed.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
