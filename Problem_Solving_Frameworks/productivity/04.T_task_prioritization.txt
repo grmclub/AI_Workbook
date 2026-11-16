@@ -3,10 +3,29 @@ https://www.meistertask.com/blog/10-powerful-task-prioritization-methods
 https://www.atlassian.com/agile/product-management/prioritization-framework
 https://www.ideaplan.io/lists/best-prioritization-frameworks
 
-/list best task prioritization frameworks
+-------------------------------------------------------------
+##7 ways to turn ideas into action
+
+The greatest skill you can develop is shortening the time between having an idea and taking action.
+Most people don't lack ideas. 
+They struggle to act on them.
+They overthink, wait for the perfect moment, and let opportunities pass.
+
+Here's how to become someone who executes.
+7 ways to turn ideas into action:
+1. Start immediately - Take one small step before doubt sets in.
+2. Lower the starting barrier - Make the first action so easy that you can't avoid it.
+3. Stop overplanning - Plan enough to begin, then learn by doing.
+4. Set short deadlines - Give yourself a specific time to act.
+5. Accept imperfect starts - Progress matters more than getting everything right initially.
+6. Build an execution habit - Train yourself to act instead of endlessly thinking.
+7. Review and adjust - Learn from the results and take the next step.
+An idea has no value until you do something with it.
+Think less. Start sooner. Improve as you go.
 
 -------------------------------------------------------------
-10 powerful task prioritization methods
+/list best task prioritization frameworks
+##10 powerful task prioritization methods
 
     The Eisenhower matrix.
     MoSCoW method.
