@@ -432,6 +432,53 @@ label printing, ray-traced reflections, cinematic depth of field, and world-clas
 commercial finishing.
 Aspect ratio: 1:1 – optimized for Instagram.
 -------------------------------------------------
+You're getting generic AI designs because you're giving it generic instructions.
+Use these 15 prompts to create premium, professional designs instead 👇👇
+
+"Help me make an image."
+"Design a flyer."
+"Make a poster."
+
+1. Luxury product advertisement
+Create a 1080 × 1350 Instagram ad for [PRODUCT NAME] using my uploaded product photo. Place the product in the lower-right on a pale stone pedestal, with soft side lighting and a realistic shadow. Use warm ivory, charcoal, and [BRAND COLOR]. Leave the upper-left open for "[HEADLINE]" in large editorial serif type, followed by "[KEY BENEFIT]" and a small "[CTA]" button. Preserve the packaging, proportions, and label exactly.
+
+2. Bold event poster
+Design a vertical poster for [EVENT NAME], a [EVENT TYPE] in [CITY]. Use oversized condensed lettering across the top, a grainy duotone image of [SUBJECT] through the middle, and a clean information strip at the bottom. Limit the palette to black, cream, and [ACCENT COLOR]. Include "[DATE]," "[VENUE]," and "[BOOKING URL]." Make the event name readable first, the date second, and booking details third.
+
+3. Restaurant promotion
+Create a 1080 × 1350 restaurant promotion using my uploaded photo of [DISH]. Crop the food tightly across the lower two-thirds, keeping its most appetizing details visible. Use a deep [BRAND COLOR] background with warm directional lighting. Put "[OFFER HEADLINE]" in bold cream lettering above the dish. Add "[PRICE]," "[OFFER DATES]," and "[ORDER CTA]" in a compact bottom strip. Keep decorative elements away from the food.
+
+4. Premium real estate listing
+Design a 1080 × 1350 property listing for [PROPERTY ADDRESS] using my uploaded property photos. Give the strongest exterior image the top 60% of the layout; place two smaller interior images beneath it. Use an ivory background, charcoal text, and thin [ACCENT COLOR] rules. Include "[PRICE]," "[BEDS] beds • [BATHS] baths • [AREA]," and "[AGENT CONTACT]." Preserve the actual property features and keep all information easy to scan.
+
+7. Scroll-stopping carousel cover
+Create the cover of an Instagram carousel titled "[CAROUSEL TITLE]" for [AUDIENCE]. Use a 1080 × 1350 canvas, a warm off-white background, black type, and [ACCENT COLOR]. Make "[KEY NUMBER OR WORD]" the largest element, with the remaining title stacked beneath it. Add one simple visual metaphor for [TOPIC], a small "[CREATOR HANDLE]," and "Swipe →" at the bottom. Keep the layout readable at phone size.
+
+8. Business ebook cover
+Design a flat front cover for an ebook titled "[TITLE]," with subtitle "[SUBTITLE]" and author "[AUTHOR]." Use a 1600 × 2560 canvas. Build the artwork around one conceptual symbol: [SYMBOL RELATED TO THE BOOK]. Use deep [MAIN COLOR], cream, and one bright accent. Make the title dominant, the subtitle clearly secondary, and the author small at the bottom. Use generous margins and show only the cover artwork, without a 3D book mockup.
+
+9. Personal brand quote graphic
+Create a 1080 × 1350 quote graphic featuring "[EXACT QUOTE]." Use my uploaded portrait as a narrow, full-height crop on the right third. Set the quote on the left against [BACKGROUND COLOR], using large, highly readable type with natural line breaks. Highlight only "[KEY PHRASE]" in [ACCENT COLOR]. Add "[NAME]" and "[ROLE OR HANDLE]" beneath the quote. Keep the portrait’s facial features accurate and leave comfortable space around the text.
+
+10. Technology product launch
+Design a 1080 × 1350 launch announcement for [APP OR PRODUCT]. Center my uploaded interface screenshot inside a crisp device frame, angled only slightly so the screen remains readable. Use a dark navy background with a soft [ACCENT COLOR] glow behind the device. Place "[LAUNCH HEADLINE]" at the top, "[ONE-SENTENCE BENEFIT]" beneath it, and "[CTA]" at the bottom. Preserve the interface content and use subtle depth with clean, restrained lighting.
+
+11. Travel campaign poster
+Create a 1080 × 1350 travel campaign for [DESTINATION] using my uploaded destination photo. Let the landscape fill the canvas, placing the horizon below the midpoint to leave sky for the headline "[CAMPAIGN HEADLINE]." Use elegant white typography and a subtle dark gradient behind the text. Add "[TRIP LENGTH]," "[STARTING PRICE + CURRENCY]," and "[BOOKING CTA]" along the bottom. Preserve recognizable landmarks and use only the supplied offer details.
+
+12. Fitness challenge announcement
+Design a 1080 × 1350 announcement for "[CHALLENGE NAME]," a [NUMBER]-day fitness challenge for [AUDIENCE]. Use my uploaded workout photo as a cutout on the right, with a charcoal background and [ACCENT COLOR] blocks on the left. Make "[NUMBER] DAYS" the largest text. Add "[START DATE]," "[THREE SHORT PROGRAM FEATURES]," and "[JOIN CTA]." Use bold athletic typography, clear spacing, and a visible CTA beneath the program details.
+
+13. Clear comparison infographic
+Create a 1080 × 1350 comparison graphic titled "[OPTION A] vs [OPTION B]" for [AUDIENCE]. Use two equal columns with four aligned rows: [ROW 1], [ROW 2], [ROW 3], and [ROW 4]. Populate them only with this information: [PASTE COMPARISON DATA]. Use off-white, charcoal, and [ACCENT COLOR], with simple icons and subtle row dividers. Keep both options equally prominent, make every label readable, and omit any fact not supplied.
+
+14. Premium packaging concept
+Create a packaging concept for [PRODUCT TYPE] called "[BRAND NAME]." Show one front-facing [BOX, BOTTLE, OR POUCH] against a warm neutral studio background. Use matte [MAIN COLOR], a small [ACCENT COLOR] detail, and generous empty space on the label. Arrange "[BRAND NAME]," "[PRODUCT NAME]," "[VARIANT]," and "[NET QUANTITY]" in that order of prominence. Add a subtle embossed geometric motif, realistic material texture, and soft shadows.
+
+15. High-impact YouTube thumbnail
+Create a 1280 × 720 YouTube thumbnail for a video about [TOPIC]. Place my uploaded portrait on the right, keeping my face recognizable. On the left, set "[THREE-TO-FIVE-WORD HEADLINE]" in very large bold lettering. Add one visual showing [SPECIFIC RESULT OR OBJECT], with a simple background and strong light-dark contrast. Use [TWO BRAND COLORS]. Keep essential details away from the bottom-right timestamp area and make the headline readable at a small preview size.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
