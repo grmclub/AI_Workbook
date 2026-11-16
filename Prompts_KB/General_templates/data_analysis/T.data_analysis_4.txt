@@ -166,6 +166,59 @@ PROMPT:
 8. Create mind maps and comparison tables
 "Analyse my attached document and transform its key information into a visual mind map and comparison tables. Create a mind map showing the central topic, major themes, subtopics and relationships. Build comparison tables highlighting relevant similarities, differences, advantages and limitations of the concepts, methods or findings discussed. Use concise labels, clear structures and only information supported by the document."
 -------------------------------------------------
+BREAKING: Claude can teach you Data Analysis from zero in 21 days like a Senior Harvard Professor.
+
+Step 1: Learn Excel
+Step 2: Learn SQL
+Step 3: Learn Statistics
+
+Here are 15 prompts you can use it to learn data analysis faster than 99% of people.
+
+1. Day 1 · Build your first spreadsheet
+Teach me Excel from zero using a [small online store]. Generate 30 fictional orders across [January–March 2025] in tab-separated format I can paste into cell A1. Include order ID, date, region, product, quantity, unit price, and status. Walk me through turning the data into an Excel Table named Orders, then have me calculate order value for one row and total completed sales. Show one worked row and wait for me to try the rest.
+
+2. Day 2 · Clean messy order data
+Give me a practice copy of my Orders table with one duplicate row, one missing quantity, inconsistent region labels, and dates stored in mixed formats. Keep a raw tab and guide me through fixing each issue on a clean tab. Have me flag the missing quantity for review and exclude that row from revenue calculations. Ask me to report the duplicate count, flagged row count, and clean row count before revealing yours.
+
+3. Days 3–4 · Answer business questions with formulas
+Use my cleaned Orders table to teach me SUMIFS and COUNTIFS. On Day 3, show one worked example of completed revenue for [East] in [February 2025], then ask me to repeat it for [West]. On Day 4, have me calculate completed order count and average completed order value using the same filters. Give me a small hand-check for each result and debug my formulas after I paste them.
+
+4. Day 5 · Match tables with XLOOKUP
+Create a five-row product cost table that matches most products in my Orders table and leaves one product unmatched for practice. Guide me through using XLOOKUP to bring in unit cost, flag missing costs, and calculate gross profit for completed orders with known costs. If I use [Excel 2019], teach me INDEX and MATCH instead. Give me one matched row to verify by hand, then review my formula.
+
+5. Days 6–7 · Build a PivotTable and explain the result
+Use my cleaned orders to teach me PivotTables. On Day 6, have me summarize completed revenue by month and region and reconcile the grand total to my formula from Excel. On Day 7, have me make a line chart and write two sentences identifying which region contributed most to the change from [February to March], with the dollar amount. Check whether my chart and totals support the conclusion.
+
+6. Day 8 · Write your first SQL query
+Teach me SQL from zero in [SQLite]. Give me a runnable script that creates and populates a small orders table using the same columns as my Excel exercise. Store dates as YYYY-MM-DD and use one row per order. Show me one SELECT example, then ask me to return the five highest-value completed orders using WHERE, ORDER BY, and LIMIT. Review my query and explain my first mistake.
+
+7. Day 9 · Filter data without missing rows
+Give me three SQL tasks using orders. Find completed orders in [February 2025], find orders from [East or West] worth at least [$100], and find rows with missing quantities. Include a date on the last day of February, a date on March 1, and one NULL quantity in the sample. After I try, check my date boundaries, AND/OR parentheses, and NULL handling.
+
+8. Days 10–11 · Summarize sales with GROUP BY
+Use my orders table to teach me GROUP BY. On Day 10, have me return completed order count, revenue, and average order value by region. On Day 11, have me return one row per month and region, then use HAVING to keep groups with at least [three] completed orders. Ask me to state what one output row represents and check that my totals reconcile before I add HAVING.
+
+9. Day 12 · Join orders to customers
+Extend my [SQLite] dataset with a customers table and a customer_id on each order. Include one customer with several completed orders and one customer with zero orders. Ask me to return every customer and their completed order count, including zero. After my attempt, explain why placing the order status filter in ON or WHERE changes the result and why counting order_id works here.
+
+10. Days 13–14 · Answer a business question with SQL
+Give me a two-day SQL challenge using my orders. On Day 13, have me calculate completed revenue by product for [February 2025]. On Day 14, have me use a CTE to find each product’s share of that month’s total revenue and return the top [three] products. Ask me to check that the shares add up to about 100% before limiting the results. Review my query after I submit it.
+
+11. Day 15 · Describe a typical order
+Give me 12 realistic completed order values in dollars, including one unusually large order. Have me calculate the mean, median, and interquartile range in Excel. Show me how to use QUARTILE. INC, then ask me to compare the results with and without the large order. Review which measure I’d report as the typical order value and why.
+
+12. Day 16 · Spot sampling bias
+Give me a scenario where my [online store] wants to estimate customer satisfaction. Offer three possible samples drawn from recent reviewers, repeat buyers, and randomly selected recent customers. Ask me who each sample could miss, how nonresponse might affect the result, and how I’d recruit [100] respondents. Review my plan and ask me one follow-up question about who the results would represent.
+
+13. Days 17–18 · Calculate and explain a confidence interval
+Use this example for a conversion rate lesson. Out of [2,000] independently sampled visitors, [80] purchased. On Day 17, have me calculate the conversion rate and standard error in Excel. On Day 18, have me build an approximate 95% confidence interval and explain it in two plain-English sentences. Check when the approximation is reasonable and review my interpretation after I submit it.
+
+14. Day 19 · Analyze a simple A/B test
+Teach me to interpret a randomized checkout test. Version A had [80 purchases from 2,000 visitors]. Version B had [110 purchases from 2,000 visitors]. Have me calculate both conversion rates and the percentage-point lift. Then walk me through a two-sided two-proportion test at [5%]. Ask me to explain the p-value, compare the lift with a practical target of [1 percentage point], and state what I’d tell the store owner.
+
+15. Days 20–21 · Complete your first analysis project
+Give me a two-day project using my online store data. If I’m starting fresh, generate a small dataset with two months and three regions. On Day 20, have me use SQL to find which regions contributed most to the change in completed revenue from [February to March], then verify the totals in Excel. On Day 21, have me make one chart and write a three-sentence summary using order count and median order value. Grade my calculations, chart, and conclusion, then give me one specific revision to make.
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
