@@ -178,6 +178,67 @@ Teach me [TOPIC] from first principles like I'm an idiot who will build a compan
 Deconstruct it to physics-level truths. No analogies, no buzzwords. For every concept, ask me "why is that true?" until I can't answer. Then rebuild it from scratch. If I use a memorized definition, call it out.
 
 -------------------------------------------------
+🚨 BREAKING: If you're not using Claude at your job, you're already behind!
+Copy paste these 19 prompts👇
+
+1. Turn an overloaded task list into a realistic day
+"Plan my workday from [start time] to [end time]. My tasks, deadlines, and estimated durations: [paste list]. Fixed meetings: [list]. My top priority is [outcome]. Create a time-blocked schedule with breaks and 30 minutes for unexpected work. If everything won’t fit, tell me what to postpone and why. Label any time estimates you make."
+
+2. Sort a messy inbox into clear next steps
+"Review these emails: [paste emails with sender, date, and subject]. Group them into: respond today, schedule work, waiting on someone, and no action needed. For each actionable email, list the requested action, stated deadline, and consequence of waiting. Flag missing deadlines instead of inventing them. Finish with the three actions I should take first."
+
+3. Answer a difficult email without making things worse
+"Draft a reply to this email: [paste]. The situation is [context]. My desired outcome is [outcome]. I can offer [options], but cannot commit to [limits]. Acknowledge the concern, explain the relevant facts, and propose a specific next step. Keep it [warm/direct/formal] and under [150] words. Don’t invent excuses, promises, or dates."
+
+4. Turn meeting notes into an action tracker
+"Convert these meeting notes into a follow-up email and action table: [paste notes]. Separate confirmed decisions, proposed ideas, and unresolved questions. For each action, show the task, owner, deadline, and dependency. Write ‘not assigned’ or ‘not specified’ where needed. End the email by asking participants to confirm missing owners and dates."
+
+5. Catch up on a conversation you missed
+"Read this conversation in chronological order: [paste thread]. Explain the original issue, what changed, decisions that still stand, and unresolved disagreements. My role is [role]. List anything requiring my input, separating explicit requests from your suggestions. Draft a short reply that moves the conversation forward without repeating questions already answered."
+
+6. Read a long document for a specific purpose
+"I need to understand this document before [meeting/decision]: [paste document]. My responsibility is [role], and I need to decide [question]. Produce a one-page brief covering the main conclusion, supporting evidence, implications for my work, and unanswered questions. Reference section names where available. Clearly distinguish the document’s statements from your interpretation."
+
+7. Turn a project into a workable plan
+"Build a delivery plan for [project]. Success means [measurable outcome]. Deadline: [date]. Team and weekly availability: [details]. Constraints: [budget/tools/approvals]. Break the work into deliverables with owners, estimated effort, dependencies, and completion criteria. Label estimates as assumptions. Identify the biggest scheduling risk and propose a smaller scope if the deadline looks unrealistic."
+
+8. Turn a vague request into a clear assignment
+"My [manager/client] asked: ‘[paste request].’ Turn this into a draft work brief with the objective, audience, deliverable, scope, exclusions, and acceptance criteria. Use this context: [details]. Separate known facts from assumptions. Then draft a short clarification message containing only the three questions most likely to prevent rework."
+
+9. Compare proposals without getting distracted by sales language
+"Compare these [vendor/freelancer/software] proposals: [paste]. Our requirements are [list], budget is [amount], and non-negotiables are [list]. Build a table comparing total stated cost, included work, exclusions, timing, support, and requirement coverage. Mark missing information as unknown. Recommend the strongest fit based on our priorities and list questions to resolve before committing."
+
+10. Get a spreadsheet formula you can actually use
+"I’m using [Excel/Google Sheets]. My column headers and letters are [list], and sample rows are [paste]. I want to [specific calculation or lookup]. The formula will go in [cell] and be copied [down/across]. Give me the exact formula, explain it in plain English, and show expected results for the sample rows. Explain how blanks, duplicates, and missing matches are handled."
+
+11. Document a task so someone else can take it over
+"Turn this walkthrough into a step-by-step procedure for a colleague doing it for the first time: [paste rough steps]. The task is [task], using [tools]. Include prerequisites, numbered steps, the expected result after each major step, common mistakes, and a final checklist. Flag gaps in my instructions instead of inventing buttons, settings, or approval rules."
+
+12. Build a presentation around one clear outcome
+"Create a [7]-slide presentation outline for [audience] about [topic]. After the presentation, I want them to [decision/action]. Use only these notes and facts: [paste]. For each slide, provide a takeaway headline, up to three bullets, a suggested visual, and brief speaker notes. Flag missing evidence. Finish with a specific ask and next step."
+
+13. Write a decision memo that makes the tradeoffs clear
+"Help me decide [decision]. Options: [A/B/C]. Our priorities, ranked, are [list]. Available evidence: [paste]. Write a short decision memo comparing benefits, costs, risks, reversibility, and missing information. Recommend an option using the stated priorities. Identify the assumption most likely to change your recommendation and explain what evidence would resolve it."
+
+14. Push back on extra work professionally
+"Help me discuss a new assignment with my manager. Current commitments and deadlines: [list]. New request: [details]. My available capacity is [hours]. Draft a short message explaining the tradeoff and offering three choices: move a deadline, reduce scope, or reassign work. Use the actual tasks and dates. Keep the tone cooperative and avoid committing to an option before they choose."
+
+15. Find useful patterns in customer feedback
+"Analyze these customer comments: [paste numbered comments]. Group them into specific themes and count the unique comments mentioning each theme; a comment may belong to multiple themes. Include supporting comment numbers, one representative quote, and the underlying need. Separate reported problems from requested features. Recommend three improvements based on frequency and stated impact, noting the limits of this sample."
+
+16. Improve a draft while protecting the facts
+"Edit this [proposal/report/email] for [audience]: [paste draft]. Its purpose is [outcome]. Make the main point clear early, remove repetition, and replace vague wording with concrete language. Preserve all facts, numbers, commitments, and qualifications. Don’t strengthen claims beyond the evidence. Return the revised draft, then flag any statements that need clarification or supporting evidence."
+
+17. Write a weekly update people can scan quickly
+"Turn these work notes into a weekly update for [manager/team]: [paste]. Use four sections: completed, in progress, risks or blockers, and decisions needed. Connect completed work to outcomes where the notes support it. For each blocker, name the help needed and deadline if provided. Keep it under [200] words and exclude activity that adds no useful context."
+
+18. Turn your work history into a strong self-review
+"Draft my performance self-review using these accomplishments, feedback, and setbacks: [paste]. My role expectations are [list]. Organize it around impact, collaboration, and growth. Connect each achievement to an expectation and include metrics only when supplied. Explain setbacks with the lesson and corrective action. End with three specific next-period goals. Flag places where stronger evidence would help."
+
+19. Reduce the time spent on a recurring task
+"I repeat [task] [frequency], and it takes [time]. Here is my current process: [numbered steps]. Tools I already have: [list]. Identify unnecessary steps, work I can batch, reusable templates, and possible automation opportunities. Rank changes by likely effort and benefit, labeling estimates. Give me one improvement to try this week, its setup steps, and a simple way to measure time saved."
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
