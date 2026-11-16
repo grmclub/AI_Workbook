@@ -155,6 +155,56 @@ Here are 6 prompts to try 👇 See less
 "Reimagine this image as [FINAL SCENE]. Keep [MAIN SUBJECT] exactly the same, including their identity and important details. Change the composition, environment, lighting, and perspective to create the requested result. Make every new element look realistic and naturally integrated, with matching shadows, reflections, depth, and lighting."
 
 -------------------------------------------------
+## Stop Telling ChatGPT:
+
+"Edit My Photo"
+"Remove The Background"
+"Upscale The Photo"
+
+Bad prompt = Bad result.
+
+Use these prompts instead and see the magic:
+
+1. Natural skin cleanup
+Edit my uploaded photo with subtle, realistic skin retouching. Reduce [temporary blemishes and under-eye shadows] while preserving pores, freckles, moles, fine lines, and natural facial texture. Keep my exact facial features, expression, hairstyle, eye shape, eye color, and skin tone. Preserve natural shadows around my nose and jaw. Avoid beauty filters, skin whitening, face reshaping, and a plastic finish.
+
+2. Clean background removal
+Remove only the background from my uploaded photo and export a PNG with genuine transparency. Preserve fine hair strands, flyaways, clothing edges, and openings between my arms and body. Remove leftover background color around the edges without creating white outlines or cutting into my hair. Keep my face, hairstyle, eyes, skin tone, clothing, and body proportions unchanged. Do not add a replacement background or checkerboard pattern.
+
+3. A believable café background
+Replace the background in my uploaded photo with [a quiet café featuring oak furniture, cream walls, and a large side window]. Match the new setting to my existing camera angle, light direction, and depth of field. Keep the background slightly soft, with realistic scale and shadows wherever I touch a surface. Preserve my exact face, expression, hairstyle, eyes, skin tone, outfit, and pose.
+
+4. Upscale without an artificial face
+Upscale my uploaded photo to [2× its original dimensions], preserving its proportions and composition. Improve existing detail in clothing, hair, and visible textures with restrained sharpening. Keep my exact face, expression, hairstyle, eye shape, eye color, and natural skin tone. Retain pores and fine lines. Where detail is missing, keep natural softness instead of inventing eyelashes, hair strands, teeth, or skin texture.
+
+5. Rescue a dark photo
+Correct the underexposure in my uploaded photo. Brighten my face by approximately [one stop] and gently lift dark clothing details while keeping black areas believable. Protect bright windows, lamps, and signs from becoming washed out. Reduce noise revealed in the shadows without smoothing my skin. Preserve the original atmosphere and my exact facial features, expression, hairstyle, eyes, and natural complexion.
+
+10. Remove one distracting object
+Remove [the trash bin behind my left shoulder] from my uploaded photo. Reconstruct that specific area using the surrounding wall, pavement, texture, and lighting. Continue any visible lines naturally and remove shadows or reflections belonging only to the removed object. Leave other objects untouched. Preserve my face, hairstyle, eyes, skin tone, clothing, pose, and body proportions, including edges overlapping the edited area.
+
+11. Soft window-light portrait
+Relight my uploaded portrait as though a large window is positioned [to the left of the camera]. Create broad, soft light with gentle shadow transitions across my face and neck. Keep the opposite side slightly darker for realistic depth, and make the background lighting consistent. Preserve my exact facial features, expression, hairstyle, eye shape, eye color, and natural complexion. Retain pores and fine lines.
+
+12. Realistic golden-hour lighting
+Give my uploaded outdoor photo realistic golden-hour lighting, with low sunlight coming from [behind me on the right]. Add restrained warmth to sunlit surfaces, a subtle rim light on exposed hair edges, and soft shadows consistent with that direction. Preserve my exact face, expression, hairstyle, eyes, and natural complexion. Keep skin from turning orange and avoid exaggerated sun flares or a glowing outline.
+
+13. Natural camera-style background blur
+Add realistic shallow depth of field to my uploaded photo, keeping my entire face, hair, and clothing in focus. Increase background blur gradually with distance; keep objects at my distance similarly sharp. Carefully preserve gaps between hair strands and around my shoulders. Keep my facial features, expression, hairstyle, eyes, and skin tone unchanged. Avoid a cutout outline, smeared hair, or uniformly blurred surroundings.
+
+14. A professional headshot that still looks like you
+Turn my uploaded photo into a realistic professional headshot, cropped from the upper chest upward. Use [a warm gray studio background] and change my visible outfit to [a navy blazer over a plain white shirt], fitted naturally to my existing posture. Apply soft, balanced lighting. Preserve my exact facial features, expression, hairstyle, eyes, age, skin tone, and body proportions. Keep visible skin texture.
+
+15. Change clothing color accurately
+Change only my [shirt] from [white] to [deep burgundy] in my uploaded photo. Preserve the garment’s fabric texture, seams, folds, buttons, fit, and transparency where relevant. Make the new color respond naturally to existing highlights and shadows. Keep logos and patterns intact. Preserve my exact face, hairstyle, eyes, skin tone, body proportions, background, and every other clothing item.
+
+16. Cinematic color without unnatural skin
+Apply a restrained cinematic grade to my uploaded photo: slightly muted greens, gently cooler background shadows, warm neutral highlights, and a soft highlight roll-off. Set the overall mood to [quiet, warm, and nostalgic]. Keep my skin naturally colored and realistically textured. Preserve my exact facial features, expression, hairstyle, eye shape, and eye color. Avoid crushed blacks, orange skin, heavy grain, and excessive contrast.
+
+17. Reframe for an Instagram portrait
+Reframe my uploaded photo into a [4:5 vertical composition]. Position my eyes near the upper third and leave approximately [10%] space above my hair. Keep my original face and body proportions without stretching. If extra space is needed, extend only the surrounding background with matching perspective, texture, and lighting. Preserve my exact facial features, expression, hairstyle, eyes, skin tone, outfit, and pose. Do not invent additional body parts.
+
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
